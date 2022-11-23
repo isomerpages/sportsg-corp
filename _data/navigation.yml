@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
@@ -13,3 +6,6 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: ActiveSG
+    url: https://www.myactivesg.com/
+    sublinks: []
