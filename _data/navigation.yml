@@ -6,6 +6,8 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: ActiveSG
-    url: https://www.myactivesg.com/
-    sublinks: []
+  - title: Who we are
+    url: /permalink
+    sublinks:
+      - title: ActiveSG
+        url: https://www.myactivesg.com/
