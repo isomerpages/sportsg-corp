@@ -2,4 +2,5 @@ collections:
   sports-education:
     output: true
     order:
+      - Sports Education/.keep
       - Sports Education.md
