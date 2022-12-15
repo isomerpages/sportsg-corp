@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Sports Participation.md
       - Who We Are/.keep
       - Who We Are/Our Sport Facilities.md
       - Who We Are/Vision 2030.md
