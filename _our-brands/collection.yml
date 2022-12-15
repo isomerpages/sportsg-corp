@@ -2,6 +2,7 @@ collections:
   our-brands:
     output: true
     order:
+      - Active Parents.md
       - Our Brands/.keep
       - Our Brands/SportCares.md
       - Our Brands/Team Nila.md
