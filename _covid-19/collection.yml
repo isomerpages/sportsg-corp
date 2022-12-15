@@ -2,5 +2,6 @@ collections:
   covid-19:
     output: true
     order:
+      - Fast & Easy Testing Regime.md
       - Safe Management Measures.md
       - Covid 19.md
