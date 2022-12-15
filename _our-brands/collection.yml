@@ -2,10 +2,10 @@ collections:
   our-brands:
     output: true
     order:
+      - Our Brands.md
       - Active Parents.md
       - Active Health.md
       - Team Singapore.md
       - ActiveSG.md
       - Team Nila.md
       - SportCares.md
-      - Our Brands.md
