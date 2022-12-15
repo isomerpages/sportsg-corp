@@ -2,6 +2,7 @@ collections:
   athletes-and-coaches:
     output: true
     order:
+      - Singapore Sports Institute.md
       - CoachSG.md
       - Anti Doping Singapore.md
       - Safe Sport.md
