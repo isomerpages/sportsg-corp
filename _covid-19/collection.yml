@@ -2,6 +2,7 @@ collections:
   covid-19:
     output: true
     order:
+      - Covid 19/Sport Event Applications.md
       - Covid 19/Fast & Easy Testing Regime.md
       - Covid 19/Safe Management Measures.md
       - Covid 19/.keep
