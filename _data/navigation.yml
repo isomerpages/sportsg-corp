@@ -1,13 +1,102 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Home
+    url: /home/
   - title: Who we are
-    url: /permalink
+    url: /who-we-are/
     sublinks:
+      - title: Our Logo
+        url: /our-logo/
+      - title: Our Purpose & Values
+        url: /our-purpose-&-Values
+      - title: Our Organisation Structure
+        url: /our-organisation-structure/
+      - title: Our Senior Management
+        url: /our-senior-management/
+      - title: Vision 2030
+        url: /vision-2030
+      - title: Our Sport Facilities
+        url: /our-sport-facilities/
+      - title: Sports Participation
+        url: /sports-participation/
+  - title: Athletes & Coaches
+    url: /athletes-&-coaches/
+    sublinks:
+      - title: Safe Sport
+        url: /saif-sport/
+      - title: Anti-Doping Singapore
+        url: /anti-doping-singapore/
+      - title: CoachSG
+        url: /coachsg/
+      - title: Singapore Sports Institute
+        url: /singapore-sports-institute/
+      - title: Coaches’ Corner
+        url: /coaches-corner/
+      - title: Athletes’ Corner
+        url: /athletes’-corner/
+      - title: SportSG-ED1
+        url: /sportsg-ed1/
+  - title: Sports Education
+    url: /sports-education/
+    sublinks:
+      - title: Sports Leadership
+        url: /sports-leadership/
+      - title: Value & Principles in Sport
+        url: /value-&-principles-in-sport/
+      - title: History of Singapore Sports
+        url: /history-of-singapore-sports/
+  - title: Media Centre
+    url: /media-centre/
+    sublinks:
+      - title: Pressroom
+        url: /pressroom/
+      - title: Media Contact
+        url: /media-contact/
+  - title: Covid-19
+    url: /covid-19/
+    sublinks:
+      - title: Safe Management Measures
+        url: /safe-management-measures/
+      - title: Fast & Easy Testing Regime
+        url: /fast-&-easy-testing-regime/
+      - title: Sport Event Applications
+        url: /sport-event-applications/
+      - title: Outdoor Classes Registration
+        url: /outdoor-classes-registration/
+  - title: Be Our Partners
+    url: /be-our-partners/
+    sublinks:
+      - title: Sport Data Exchange Singapore
+        url: /sport-data-exchange-singapore/
+      - title: Support for Sport Businesses
+        url: /support-for-sport-businesses/
+      - title: Recreation Club
+        url: /recreation-club/
+      - title: FMS trainer at Nurture Kids
+        url: /fsm-trainer-at-nurture-kids/
+      - title: Event Hosting
+        url: /event-hosting/
+      - title: ActiveSG Programme Partnership
+        url: /activesg-programme-partnership/
+  - title: Careers
+    url: /careers/
+    sublinks:
+      - title: Learning & Development
+        url: /learning-&-development/
+      - title: Job Opportunities
+        url: /job-opportunities/
+  - title: Our Brands
+    url: /our-brands/
+    sublinks:
+      - title: SportCares
+        url: /sportcares/
+      - title: Team Nila
+        url: /team-nila/
       - title: ActiveSG
-        url: https://www.myactivesg.com/
+        url: /activesg/
+      - title: Team Singapore
+        url: /team-singapore/
+      - title: Active Health
+        url: /active-health/
+      - title: Active Parents
+        url: /active-parents/
