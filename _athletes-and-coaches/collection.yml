@@ -1,0 +1,4 @@
+collections:
+  athletes-and-coaches:
+    output: true
+    order: []
