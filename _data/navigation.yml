@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Home
-    url: /home/
   - title: Who we are
     url: /who-we-are/
     sublinks:
