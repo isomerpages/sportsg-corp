@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Subfolder/Our Senior Management.md
       - Subfolder/Our Organisation Structure.md
       - Subfolder/Our Purpose & Values.md
       - Subfolder/Our Logo.md
