@@ -1,0 +1,4 @@
+collections:
+  our-brands:
+    output: true
+    order: []
