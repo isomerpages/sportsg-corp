@@ -1,4 +1,5 @@
 collections:
   who-we-are:
     output: true
-    order: []
+    order:
+      - Who We Are.md
