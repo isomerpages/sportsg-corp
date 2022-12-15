@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2jsf4cufbak4h.amplifyapp.com
 prod: https://master.d2jsf4cufbak4h.amplifyapp.com
-resources_name: test
+resources_name: media-centre
