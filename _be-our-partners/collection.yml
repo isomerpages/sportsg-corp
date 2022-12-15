@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Event Hosting.md
       - ActiveSG Programme Partnership.md
       - Be Our Partners/.keep
       - Be Our Partners/Sport Data Exchange Singapore.md
