@@ -2,4 +2,5 @@ collections:
   our-brands:
     output: true
     order:
+      - SportCares.md
       - Our Brands.md
