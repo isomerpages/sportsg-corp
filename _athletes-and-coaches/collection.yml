@@ -2,10 +2,10 @@ collections:
   athletes-and-coaches:
     output: true
     order:
-      - SportSG ED1.md
-      - Athletes’ Corner.md
-      - Coaches’ Corner.md
-      - Singapore Sports Institute.md
-      - CoachSG.md
-      - Anti Doping Singapore.md
       - Safe Sport.md
+      - Anti Doping Singapore.md
+      - CoachSG.md
+      - Singapore Sports Institute.md
+      - Coaches’ Corner.md
+      - Athletes’ Corner.md
+      - SportSG ED1.md
