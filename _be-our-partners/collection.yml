@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Be Our Partners/.keep
       - ActiveSG Programme Partnership.md
       - Event Hosting.md
       - FMS trainer at Nurture Kids.md
