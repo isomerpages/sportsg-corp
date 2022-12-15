@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Who we are
-    url: /who-we-are/
+    url: /who-we-are/our-logo/
     sublinks:
       - title: Our Logo
         url: /who-we-are/our-logo/
@@ -18,7 +18,7 @@ links:
       - title: Sports Participation
         url: /who-we-are/sports-participation/
   - title: Athletes & Coaches
-    url: /athletes-and-coaches/
+    url: /athletes-and-coaches/safe-sport/
     sublinks:
       - title: Safe Sport
         url: /athletes-and-coaches/safe-sport/
@@ -35,7 +35,7 @@ links:
       - title: SportSG-ED1
         url: /athletes-and-coaches/sportsg-ed1/
   - title: Sports Education
-    url: /sports-education/
+    url: /sports-education/sports-leadership/
     sublinks:
       - title: Sports Leadership
         url: /sports-education/sports-leadership/
@@ -44,14 +44,14 @@ links:
       - title: History of Singapore Sports
         url: /sports-education/history-of-singapore-sports/
   - title: Media Centre
-    url: /media-centre/
+    url: /media-centre/pressroom/
     sublinks:
       - title: Pressroom
         url: /media-centre/pressroom/
       - title: Media Contact
         url: /media-centre/media-contact/
   - title: Covid-19
-    url: /covid-19/
+    url: /covid-19/safe-management-measures/
     sublinks:
       - title: Safe Management Measures
         url: /covid-19/safe-management-measures/
@@ -62,7 +62,7 @@ links:
       - title: Outdoor Classes Registration
         url: /covid-19/outdoor-classes-registration/
   - title: Be Our Partners
-    url: /be-our-partners/
+    url: /be-our-partners/sport-data-exchange-singapore/
     sublinks:
       - title: Sport Data Exchange Singapore
         url: /be-our-partners/sport-data-exchange-singapore/
@@ -77,14 +77,14 @@ links:
       - title: ActiveSG Programme Partnership
         url: /be-our-partners/activesg-programme-partnership/
   - title: Careers
-    url: /careers/
+    url: /careers/learning-and-development/
     sublinks:
       - title: Learning & Development
         url: /careers/learning-and-development/
       - title: Job Opportunities
         url: /careers/job-opportunities/
   - title: Our Brands
-    url: /our-brands/
+    url: /our-brands/sportcares/
     sublinks:
       - title: SportCares
         url: /our-brands/sportcares/
