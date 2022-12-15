@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports Participation.md
-      - Subfolder/Our Sport Facilities.md
       - Subfolder/Vision 2030.md
       - Subfolder/Our Senior Management.md
       - Subfolder/Our Organisation Structure.md
