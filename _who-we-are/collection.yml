@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Subfolder/.keep
       - Vision 2030.md
       - Sports Participation.md
       - Our Sport Facilities.md
