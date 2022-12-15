@@ -2,4 +2,5 @@ collections:
   media-centre:
     output: true
     order:
+      - Media Centre/.keep
       - Media Centre.md
