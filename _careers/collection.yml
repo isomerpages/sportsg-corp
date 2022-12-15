@@ -2,5 +2,6 @@ collections:
   careers:
     output: true
     order:
+      - Learning & Development.md
       - Job Opportunities.md
       - Careers/.keep
