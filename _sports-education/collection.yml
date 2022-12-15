@@ -2,8 +2,8 @@ collections:
   sports-education:
     output: true
     order:
+      - Sports Education.md
       - Sports Education/.keep
       - Sports Education/Sports Leadership.md
       - Sports Education/Value & Principles in Sport.md
       - Sports Education/History of Singapore Sports.md
-      - Sports Education.md
