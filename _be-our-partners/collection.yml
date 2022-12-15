@@ -1,4 +1,5 @@
 collections:
   be-our-partners:
     output: true
-    order: []
+    order:
+      - Be Our Partners.md
