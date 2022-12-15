@@ -2,11 +2,11 @@ collections:
   our-brands:
     output: true
     order:
+      - Our Brands.md
+      - Our Brands/.keep
       - Our Brands/SportCares.md
       - Our Brands/Team Nila.md
       - Our Brands/ActiveSG.md
       - Our Brands/Team Singapore.md
       - Our Brands/Active Health.md
       - Our Brands/Active Parents.md
-      - Our Brands/.keep
-      - Our Brands.md
