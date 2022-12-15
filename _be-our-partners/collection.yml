@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Recreation Club.md
       - Support for Sport Businesses.md
       - Sport Data Exchange Singapore.md
       - Be Our Partners.md
