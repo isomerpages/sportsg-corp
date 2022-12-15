@@ -1,4 +1,5 @@
 collections:
   sports-education:
     output: true
-    order: []
+    order:
+      - Sports Education.md
