@@ -2,6 +2,7 @@ collections:
   our-brands:
     output: true
     order:
+      - SportCares.md
       - Team Nila.md
       - ActiveSG.md
       - Team Singapore.md
