@@ -2,5 +2,6 @@ collections:
   our-brands:
     output: true
     order:
+      - Team Nila.md
       - SportCares.md
       - Our Brands.md
