@@ -2,7 +2,6 @@ collections:
   be-our-partners:
     output: true
     order:
-      - Be Our Partners.md
       - Be Our Partners/.keep
       - Be Our Partners/Sport Data Exchange Singapore.md
       - Be Our Partners/Support for Sport Businesses.md
