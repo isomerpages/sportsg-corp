@@ -33,70 +33,70 @@ links:
       - title: Coaches’ Corner
         url: /athletes-and-coaches/coaches-corner/
       - title: Athletes’ Corner
-        url: /athletes-and-coaches/athletes’-corner/
+        url: /athletes-and-coaches/athletes-corner/
       - title: SportSG-ED1
         url: /athletes-and-coaches/sportsg-ed1/
   - title: Sports Education
     url: /sports-education/
     sublinks:
       - title: Sports Leadership
-        url: /sports-leadership/
+        url: /sports-education/sports-leadership/
       - title: Value & Principles in Sport
-        url: /value-&-principles-in-sport/
+        url: /sports-education/value-&-principles-in-sport/
       - title: History of Singapore Sports
-        url: /history-of-singapore-sports/
+        url: /sports-education/history-of-singapore-sports/
   - title: Media Centre
     url: /media-centre/
     sublinks:
       - title: Pressroom
-        url: /pressroom/
+        url: /media-centre/pressroom/
       - title: Media Contact
-        url: /media-contact/
+        url: /media-centre/media-contact/
   - title: Covid-19
     url: /covid-19/
     sublinks:
       - title: Safe Management Measures
-        url: /safe-management-measures/
+        url: /covid-19/safe-management-measures/
       - title: Fast & Easy Testing Regime
-        url: /fast-&-easy-testing-regime/
+        url: /covid-19/fast-&-easy-testing-regime/
       - title: Sport Event Applications
-        url: /sport-event-applications/
+        url: /covid-19/sport-event-applications/
       - title: Outdoor Classes Registration
-        url: /outdoor-classes-registration/
+        url: /covid-19/outdoor-classes-registration/
   - title: Be Our Partners
     url: /be-our-partners/
     sublinks:
       - title: Sport Data Exchange Singapore
-        url: /sport-data-exchange-singapore/
+        url: /be-our-partners/sport-data-exchange-singapore/
       - title: Support for Sport Businesses
-        url: /support-for-sport-businesses/
+        url: /be-our-partners/support-for-sport-businesses/
       - title: Recreation Club
-        url: /recreation-club/
+        url: /be-our-partners/recreation-club/
       - title: FMS trainer at Nurture Kids
-        url: /fsm-trainer-at-nurture-kids/
+        url: /be-our-partners/fsm-trainer-at-nurture-kids/
       - title: Event Hosting
-        url: /event-hosting/
+        url: /be-our-partners/event-hosting/
       - title: ActiveSG Programme Partnership
-        url: /activesg-programme-partnership/
+        url: /be-our-partners/activesg-programme-partnership/
   - title: Careers
     url: /careers/
     sublinks:
       - title: Learning & Development
-        url: /learning-and-development/
+        url: /careers/learning-and-development/
       - title: Job Opportunities
-        url: /job-opportunities/
+        url: /careers/job-opportunities/
   - title: Our Brands
     url: /our-brands/
     sublinks:
       - title: SportCares
-        url: /sportcares/
+        url: /our-brands/sportcares/
       - title: Team Nila
-        url: /team-nila/
+        url: /our-brands/team-nila/
       - title: ActiveSG
-        url: /activesg/
+        url: /our-brands/activesg/
       - title: Team Singapore
-        url: /team-singapore/
+        url: /our-brands/team-singapore/
       - title: Active Health
-        url: /active-health/
+        url: /our-brands/active-health/
       - title: Active Parents
-        url: /active-parents/
+        url: /our-brands/active-parents/
