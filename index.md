@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Sport Singapore
-      subtitle: Inspire the Singapore spirit and transform Singapore through sport
+      subtitle: Live Better Through Sport
       background: /images/IMG_95502.jpg
       button: Contact Us
       url: /contact-us/
