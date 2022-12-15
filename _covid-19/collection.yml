@@ -2,4 +2,5 @@ collections:
   covid-19:
     output: true
     order:
+      - Safe Management Measures.md
       - Covid 19.md
