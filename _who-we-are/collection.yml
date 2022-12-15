@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Sports Participation.md
       - Our Sport Facilities.md
       - Our Senior Management.md
       - Our Organisation Structure.md
