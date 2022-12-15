@@ -2,6 +2,7 @@ collections:
   athletes-and-coaches:
     output: true
     order:
+      - Athletes & Coaches/Anti Doping Singapore.md
       - Athletes & Coaches/Safe Sport.md
       - Athletes & Coaches/.keep
       - CoachSG.md
