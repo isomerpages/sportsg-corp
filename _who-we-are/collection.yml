@@ -2,7 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - Subfolder/Sports Participation.md
       - Subfolder/Our Sport Facilities.md
       - Subfolder/Vision 2030.md
       - Subfolder/Our Senior Management.md
