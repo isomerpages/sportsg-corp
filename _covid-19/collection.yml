@@ -1,4 +1,5 @@
 collections:
   covid-19:
     output: true
-    order: []
+    order:
+      - Covid 19.md
