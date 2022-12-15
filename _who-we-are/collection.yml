@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Logo.md
       - Our Purpose & Values.md
       - Our Organisation Structure.md
       - Our Senior Management.md
