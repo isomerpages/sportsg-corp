@@ -2,6 +2,7 @@ collections:
   our-brands:
     output: true
     order:
+      - Team Nila.md
       - ActiveSG.md
       - Team Singapore.md
       - Active Health.md
