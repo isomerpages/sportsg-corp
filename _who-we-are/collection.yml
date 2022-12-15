@@ -2,6 +2,8 @@ collections:
   who-we-are:
     output: true
     order:
+      - Who We Are.md
+      - Who We Are/.keep
       - Who We Are/Sports Participation.md
       - Who We Are/Our Sport Facilities.md
       - Who We Are/Vision 2030.md
@@ -9,5 +11,3 @@ collections:
       - Who We Are/Our Organisation Structure.md
       - Who We Are/Our Purpose & Values.md
       - Who We Are/Our Logo.md
-      - Who We Are/.keep
-      - Who We Are.md
