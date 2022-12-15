@@ -2,5 +2,6 @@ collections:
   media-centre:
     output: true
     order:
+      - Media Centre/Pressroom.md
       - Media Centre/.keep
       - Media Centre.md
