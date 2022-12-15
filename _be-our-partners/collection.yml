@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Support for Sport Businesses.md
       - Recreation Club.md
       - FMS trainer at Nurture Kids.md
       - Event Hosting.md
