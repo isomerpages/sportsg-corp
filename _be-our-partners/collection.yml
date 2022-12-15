@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - FMS trainer at Nurture Kids.md
       - Recreation Club.md
       - Support for Sport Businesses.md
       - Sport Data Exchange Singapore.md
