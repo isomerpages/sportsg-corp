@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Recreation Club.md
       - FMS trainer at Nurture Kids.md
       - Event Hosting.md
       - ActiveSG Programme Partnership.md
