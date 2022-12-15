@@ -2,4 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Logo.md
       - Who We Are.md
