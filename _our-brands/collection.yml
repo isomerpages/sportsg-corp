@@ -1,4 +1,5 @@
 collections:
   our-brands:
     output: true
-    order: []
+    order:
+      - Our Brands.md
