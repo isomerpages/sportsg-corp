@@ -2,4 +2,5 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Sport Data Exchange Singapore.md
       - Be Our Partners.md
