@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Organisation Structure.md
       - Our Senior Management.md
       - Vision 2030.md
       - Our Sport Facilities.md
