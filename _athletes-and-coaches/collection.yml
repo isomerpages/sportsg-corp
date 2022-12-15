@@ -2,4 +2,5 @@ collections:
   athletes-and-coaches:
     output: true
     order:
+      - Anti Doping Singapore.md
       - Safe Sport.md
