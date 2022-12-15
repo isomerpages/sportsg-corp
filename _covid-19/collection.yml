@@ -2,6 +2,7 @@ collections:
   covid-19:
     output: true
     order:
+      - Safe Management Measures.md
       - Fast & Easy Testing Regime.md
       - Sport Event Applications.md
       - Outdoor Classes Registration.md
