@@ -2,6 +2,7 @@ collections:
   athletes-and-coaches:
     output: true
     order:
+      - Coaches’ Corner.md
       - Athletes’ Corner.md
       - SportSG ED1.md
       - Athletes & Coaches/.keep
