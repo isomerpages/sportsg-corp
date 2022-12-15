@@ -2,6 +2,7 @@ collections:
   be-our-partners:
     output: true
     order:
+      - Be Our Partners.md
       - Be Our Partners/.keep
       - Be Our Partners/Sport Data Exchange Singapore.md
       - Be Our Partners/Support for Sport Businesses.md
@@ -9,4 +10,3 @@ collections:
       - Be Our Partners/FMS trainer at Nurture Kids.md
       - Be Our Partners/Event Hosting.md
       - Be Our Partners/ActiveSG Programme Partnership.md
-      - Be Our Partners.md
