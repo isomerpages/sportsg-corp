@@ -2,7 +2,7 @@ collections:
   media-centre:
     output: true
     order:
-      - Media Centre/Media Contact.md
-      - Media Centre/Pressroom.md
       - Media Centre/.keep
+      - Media Centre/Pressroom.md
+      - Media Centre/Media Contact.md
       - Media Centre.md
