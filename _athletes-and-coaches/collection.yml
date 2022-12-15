@@ -2,6 +2,7 @@ collections:
   athletes-and-coaches:
     output: true
     order:
+      - CoachSG.md
       - Singapore Sports Institute.md
       - Coaches’ Corner.md
       - Athletes’ Corner.md
