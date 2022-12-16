@@ -50,6 +50,8 @@ links:
         url: /media-centre/pressroom/
       - title: Media Contact
         url: /media-centre/media-contact/
+  - title: Media Centre
+    resource_room: true
   - title: Covid-19
     url: /covid-19/safe-management-measures/
     sublinks:
