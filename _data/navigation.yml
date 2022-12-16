@@ -44,13 +44,6 @@ links:
       - title: History of Singapore Sports
         url: /sports-education/history-of-singapore-sports/
   - title: Media Centre
-    url: /media-centre/pressroom/
-    sublinks:
-      - title: Pressroom
-        url: /media-centre/pressroom/
-      - title: Media Contact
-        url: /media-centre/media-contact/
-  - title: Media Centre
     resource_room: true
   - title: Covid-19
     url: /covid-19/safe-management-measures/
