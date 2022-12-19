@@ -1,8 +1,11 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Sport Singapore
+description: "Sport Singapore (previously known as Singapore Sports Council) is
+  a statutory board of the Ministry of Culture, Community and Youth. Our core
+  purpose is to inspire the Singapore spirit and transform Singapore through
+  sport. "
+image: /images/sportsg logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,3 +32,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
