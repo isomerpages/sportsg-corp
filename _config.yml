@@ -3,7 +3,7 @@ url: https://www.sportsingapore.gov.sg
 favicon: /images/sportsg logo.png
 colors:
   primary-color: "#ba0c2f"
-  secondary-color: "#cf4520"
+  secondary-color: "#ba0c2f"
   media-colors:
     - title: media-color-one
       color: "#00b5e2"
