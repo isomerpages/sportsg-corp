@@ -1,5 +1,5 @@
 collections:
-  who-we-are:
+  about-us:
     output: true
     order:
       - Our Logo.md
