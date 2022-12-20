@@ -2,5 +2,6 @@ collections:
   support:
     output: true
     order:
+      - Recreation Club.md
       - Support for Sport Businesses.md
       - Sport Data Exchange Singappore.md
