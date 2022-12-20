@@ -2,4 +2,5 @@ collections:
   support:
     output: true
     order:
+      - Support for Sport Businesses.md
       - Sport Data Exchange Singappore.md
