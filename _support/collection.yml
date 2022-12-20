@@ -1,4 +1,5 @@
 collections:
   support:
     output: true
-    order: []
+    order:
+      - Sport Data Exchange Singappore.md
