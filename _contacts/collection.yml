@@ -1,5 +1,5 @@
 collections:
-  careers:
+  contacts:
     output: true
     order:
       - Learning & Development.md
