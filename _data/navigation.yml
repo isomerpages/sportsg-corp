@@ -17,7 +17,7 @@ links:
         url: /who-we-are/our-sport-facilities/
       - title: Sports Participation
         url: /who-we-are/sports-participation/
-  - title: Athletes & Coaches
+  - title: What We Do
     url: /athletes-and-coaches/safe-sport/
     sublinks:
       - title: Safe Sport
@@ -34,29 +34,7 @@ links:
         url: /athletes-and-coaches/athletes-corner/
       - title: SportSG-ED1
         url: /athletes-and-coaches/sportsg-ed1/
-  - title: Sports Education
-    url: /sports-education/sports-leadership/
-    sublinks:
-      - title: Sports Leadership
-        url: /sports-education/sports-leadership/
-      - title: Value & Principles in Sport
-        url: /sports-education/value-&-principles-in-sport/
-      - title: History of Singapore Sports
-        url: /sports-education/history-of-singapore-sports/
-  - title: Media Centre
-    resource_room: true
-  - title: Covid-19
-    url: /covid-19/safe-management-measures/
-    sublinks:
-      - title: Safe Management Measures
-        url: /covid-19/safe-management-measures/
-      - title: Fast & Easy Testing Regime
-        url: /covid-19/fast-&-easy-testing-regime/
-      - title: Sport Event Applications
-        url: /covid-19/sport-event-applications/
-      - title: Outdoor Classes Registration
-        url: /covid-19/outdoor-classes-registration/
-  - title: Be Our Partners
+  - title: Support
     url: /be-our-partners/sport-data-exchange-singapore/
     sublinks:
       - title: Sport Data Exchange Singapore
@@ -71,25 +49,21 @@ links:
         url: /be-our-partners/event-hosting/
       - title: ActiveSG Programme Partnership
         url: /be-our-partners/activesg-programme-partnership/
-  - title: Careers
+  - title: Media Centre
+    resource_room: true
+  - title: Sport Education
+    url: /sports-education/sports-leadership/
+    sublinks:
+      - title: Sports Leadership
+        url: /sports-education/sports-leadership/
+      - title: Value & Principles in Sport
+        url: /sports-education/value-&-principles-in-sport/
+      - title: History of Singapore Sports
+        url: /sports-education/history-of-singapore-sports/
+  - title: Contacts
     url: /careers/learning-and-development/
     sublinks:
       - title: Learning & Development
         url: /careers/learning-and-development/
       - title: Job Opportunities
         url: /careers/job-opportunities/
-  - title: Our Brands
-    url: /our-brands/sportcares/
-    sublinks:
-      - title: SportCares
-        url: /our-brands/sportcares/
-      - title: Team Nila
-        url: /our-brands/team-nila/
-      - title: ActiveSG
-        url: /our-brands/activesg/
-      - title: Team Singapore
-        url: /our-brands/team-singapore/
-      - title: Active Health
-        url: /our-brands/active-health/
-      - title: Active Parents
-        url: /our-brands/active-parents/
