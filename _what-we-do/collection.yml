@@ -1,5 +1,5 @@
 collections:
-  athletes-and-coaches:
+  what-we-do:
     output: true
     order:
       - Safe Sport.md
