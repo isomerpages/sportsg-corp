@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Example Title.md
       - Our Logo.md
       - Our Purpose & Values.md
       - Our Organisation Structure.md
