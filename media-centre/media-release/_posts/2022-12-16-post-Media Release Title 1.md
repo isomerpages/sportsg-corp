@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+<div allowfullscreen="" frameborder="0" scrolling="no" height="360" width="640" src="//play.vidyard.com/sNxNXK23k151hV4frERMeA.html?" class="vidyard_iframe">
+	</div>
+	
