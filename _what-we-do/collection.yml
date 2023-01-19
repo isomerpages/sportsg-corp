@@ -2,7 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - Irene test.md
       - Safe Sport.md
       - Anti Doping Singapore.md
       - CoachSG.md
