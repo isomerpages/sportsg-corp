@@ -7,7 +7,7 @@ description: ""
 
 ```
 <table>
-<tr><td style="color:#000000">
+<tr><td style="color:#000000 border: 1px;">
 testing
 </td></tr>
 </table>
