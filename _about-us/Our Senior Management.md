@@ -15,7 +15,7 @@ Toh Boon Yi
 **Chief, Singapore Sport Institute (SSI)**  
 Su Chun Wei
 
-****Chief,** Assurance & Corporate Excellence Group**  
+**Chief, Assurance & Corporate Excellence Group**  
 Muhammad Rostam Bin Umar
 
 **Chief, ActiveSG**  
