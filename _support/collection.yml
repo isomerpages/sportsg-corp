@@ -2,6 +2,7 @@ collections:
   support:
     output: true
     order:
+      - Athletes’ Corner.md
       - ActiveSG Programme Partnership/Other Sports.md
       - ActiveSG Programme Partnership/NROC Sports.md
       - ActiveSG Programme Partnership/.keep
