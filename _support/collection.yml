@@ -2,19 +2,19 @@ collections:
   support:
     output: true
     order:
-      - Covid19.md
-      - SportSG ED.md
-      - Support for Sport Businesses (Grants).md
-      - FMS Trainer at Nurture Kids.md
-      - Facilities.md
-      - Coaches’ Corner.md
-      - Athletes’ Corner.md
+      - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/Other Sports.md
       - ActiveSG Programme Partnership/NROC Sports.md
-      - ActiveSG Programme Partnership/.keep
-      - ActiveSG Programme Partnership.md
+      - Athletes’ Corner.md
+      - Coaches’ Corner.md
+      - Facilities.md
+      - FMS trainer at Nurture Kids.md
       - Sport Data Exchange Singapore.md
+      - Support for Sport Businesses (Grants).md
+      - SportSG ED.md
+      - Covid19.md
+      - FMS Trainer at Nurture Kids.md
+      - ActiveSG Programme Partnership.md
       - Support for Sport Businesses.md
       - Recreation Club.md
-      - FMS trainer at Nurture Kids.md
       - Event Hosting.md
