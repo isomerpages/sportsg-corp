@@ -3,22 +3,7 @@ links:
   - title: About Us
     collection: about-us
   - title: What We Do
-    url: /athletes-and-coaches/safe-sport/
-    sublinks:
-      - title: Safe Sport
-        url: /athletes-and-coaches/safe-sport/
-      - title: Anti-Doping Singapore
-        url: /athletes-and-coaches/anti-doping-singapore/
-      - title: CoachSG
-        url: /athletes-and-coaches/coachsg/
-      - title: Singapore Sports Institute
-        url: /athletes-and-coaches/singapore-sports-institute/
-      - title: Coaches’ Corner
-        url: /athletes-and-coaches/coaches-corner/
-      - title: Athletes’ Corner
-        url: /athletes-and-coaches/athletes-corner/
-      - title: SportSG-ED1
-        url: /athletes-and-coaches/sportsg-ed1/
+    collection: what-we-do
   - title: Support & Resources
     collection: support
   - title: Media Centre
