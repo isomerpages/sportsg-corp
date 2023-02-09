@@ -1,18 +1,7 @@
 logo: /images/sportsg logo.png
 links:
   - title: About Us
-    url: /about-us/vision-2030/
-    sublinks:
-      - title: Vision 2030
-        url: /about-us/vision-2030/
-      - title: Our Logo
-        url: /about-us/our-logo/
-      - title: Values & Mission
-        url: /about-us/values-and-mission/core-values/
-      - title: Management
-        url: /about-us/management/corporate-structure/
-      - title: Careers
-        url: /about-us/careers/
+    collection: about-us
   - title: What We Do
     url: /athletes-and-coaches/safe-sport/
     sublinks:
