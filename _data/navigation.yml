@@ -10,12 +10,12 @@ links:
     resource_room: true
   - title: Sport Education
     collection: sports-education
+  - title: Careers
+    url: /careers
   - title: Contacts
     url: /careers/learning-and-development/
     sublinks:
-      - title: Learning & Development
-        url: /careers/learning-and-development/
-      - title: Job Opportunities
-        url: /careers/job-opportunities/
-  - title: Careers
-    url: /careers
+      - title: Enquiry Form
+        url: https://members.myactivesg.com/feedback
+      - title: List of Key Contacts
+        url: /contact-us
