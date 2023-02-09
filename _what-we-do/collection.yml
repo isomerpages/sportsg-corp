@@ -2,10 +2,10 @@ collections:
   what-we-do:
     output: true
     order:
-      - Anti Doping Singapore.md
-      - Academy and Clubs.md
       - ActiveSG.md
       - Active Health.md
+      - Academy and Clubs.md
+      - Anti Doping Singapore.md
       - CoachSG.md
       - CYPD.md
       - Game On Nila.md
