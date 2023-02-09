@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Management/Our Senior Management.md
       - Management/.keep
       - Vision 2030.md
       - Our Logo.md
