@@ -2,9 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - YouthCreates.md
-      - Team Singapore.md
-      - Team Nila.md
       - ActiveSG.md
       - Active Health.md
       - CoachSG.md
@@ -12,3 +9,6 @@ collections:
       - Game On Nila.md
       - SportCares.md
       - Singapore Sports Institute.md
+      - Team Nila.md
+      - Team Singapore.md
+      - YouthCreates.md
