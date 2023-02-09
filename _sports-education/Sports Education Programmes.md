@@ -101,4 +101,4 @@ A compliance checklist has been developed to ensure service providers meet the m
 
 Please refer to the appended [file](/files/Sport%20Education/Sport%20Education%20Programmes/Compliance%20Checklists%20for%20Procurement%20of%20OAL%20Activities_version%204%20Feb%2022.pdf) for the compliance checklists which service providers must submit to schools.
 
-For further clarifications, please contact: [ong_chee_wee@moe.gov.sg](mailto:ong_chee_wee@moe.gov.sg), [jonathan_jong@moe.gov.sg](mailto:jonathan_jong@moe.gov.sg)
+For further clarifications, please contact: [ong_chee_wee@moe.gov.sg](mailto:ong_chee_wee@moe.gov.sg), [jonathan_jong@moe.gov.sg](mailto:jonathan_jong@moe.gov.sg)
