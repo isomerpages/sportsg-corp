@@ -31,7 +31,7 @@ links:
       - title: SportSG-ED1
         url: /athletes-and-coaches/sportsg-ed1/
   - title: Support
-    url: /support/sport-data-exchange-singapore/
+    url: support/activesg-programme-partnership/nroc-sports/
     sublinks:
       - title: Sport Data Exchange Singapore
         url: /be-our-partners/sport-data-exchange-singapore/
@@ -48,14 +48,20 @@ links:
   - title: Media Centre
     resource_room: true
   - title: Sport Education
-    url: /sports-education/history-of-sportsg
+    url: sports-education/history-of-sportsg/sports-in-colonial-times/
     sublinks:
+      - title: History of SportSG
+        url: /sports-education/history-of-sportsg/sports-in-colonial-times/
       - title: Sports Leadership
         url: /sports-education/sports-leadership/
-      - title: Value & Principles in Sport
-        url: /sports-education/value-&-principles-in-sport/
-      - title: History of Singapore Sports
-        url: /sports-education/history-of-singapore-sports/
+      - title: Values and Principles in Sport
+        url: /sports-education/value-and-principles-in-sport/
+      - title: Sports Safety
+        url: /sports-education/sport-safety
+      - title: Sports Education Programmes
+        url: /sports-education/sports-education-programmes/
+      - title: Youth Sports
+        url: /sports-education/national-standards-for-youth-sports/
   - title: Contacts
     url: /careers/learning-and-development/
     sublinks:
