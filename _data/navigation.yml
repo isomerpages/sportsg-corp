@@ -1,8 +1,10 @@
 logo: /images/sportsg logo.png
 links:
   - title: About Us
-    url: /who-we-are/our-logo/
+    url: /about-us/vision-2030/
     sublinks:
+      - title: Vision 2030
+        url: /about-us/vision-2030/
       - title: Our Logo
         url: /about-us/our-logo/
       - title: Our Purpose & Values
@@ -11,8 +13,6 @@ links:
         url: /who-we-are/our-organisation-structure/
       - title: Our Senior Management
         url: /who-we-are/our-senior-management/
-      - title: Vision 2030
-        url: who-we-are/vision-2030/
       - title: Our Sport Facilities
         url: /who-we-are/our-sport-facilities/
       - title: Sports Participation
@@ -52,7 +52,7 @@ links:
   - title: Media Centre
     resource_room: true
   - title: Sport Education
-    url: /sports-education/sports-leadership/
+    url: /sports-education/history-of-sportsg
     sublinks:
       - title: Sports Leadership
         url: /sports-education/sports-leadership/
