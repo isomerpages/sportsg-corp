@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Management/Board Members.md
-      - Management/Corporate Structure.md
-      - Management/Senior Management.md
       - Management/.keep
+      - Management/Corporate Structure.md
+      - Management/Board Members.md
+      - Management/Senior Management.md
       - Vision 2030.md
       - Our Logo.md
       - Values & Mission/.keep
