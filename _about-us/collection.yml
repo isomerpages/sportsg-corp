@@ -2,10 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Management/.keep
-      - Management/Corporate Structure.md
-      - Management/Board Members.md
-      - Management/Senior Management.md
       - Vision 2030.md
       - Our Logo.md
       - Values & Mission/.keep
@@ -14,6 +10,10 @@ collections:
       - Values & Mission/HealthierSG.md
       - Values & Mission/Sport Green Plan.md
       - Values & Mission/SPAG.md
+      - Management/.keep
+      - Management/Corporate Structure.md
+      - Management/Board Members.md
+      - Management/Senior Management.md
       - Our Purpose & Values.md
       - Our Sport Facilities.md
       - Sports Participation.md
