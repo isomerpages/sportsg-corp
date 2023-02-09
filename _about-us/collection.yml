@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Careers.md
       - Vision 2030.md
       - Our Logo.md
       - Values & Mission/.keep
@@ -15,6 +14,7 @@ collections:
       - Management/Corporate Structure.md
       - Management/Board Members.md
       - Management/Senior Management.md
+      - Careers.md
       - Our Purpose & Values.md
       - Our Sport Facilities.md
       - Sports Participation.md
