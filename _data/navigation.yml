@@ -30,38 +30,12 @@ links:
         url: /athletes-and-coaches/athletes-corner/
       - title: SportSG-ED1
         url: /athletes-and-coaches/sportsg-ed1/
-  - title: Support
-    url: support/activesg-programme-partnership/nroc-sports/
-    sublinks:
-      - title: Sport Data Exchange Singapore
-        url: /be-our-partners/sport-data-exchange-singapore/
-      - title: Support for Sport Businesses
-        url: /support/sport-for-sport-businesses/
-      - title: Recreation Club
-        url: /support/recreation-club/
-      - title: FMS trainer at Nurture Kids
-        url: /support/fms-trainer-at-nurture-kids/
-      - title: Event Hosting
-        url: /support/event-hosting/
-      - title: ActiveSG Programme Partnership
-        url: /support/activesg-programme-partnership/
+  - title: Support & Resources
+    collection: support
   - title: Media Centre
     resource_room: true
   - title: Sport Education
-    url: sports-education/history-of-sportsg/sports-in-colonial-times/
-    sublinks:
-      - title: History of SportSG
-        url: /sports-education/history-of-sportsg/sports-in-colonial-times/
-      - title: Sports Leadership
-        url: /sports-education/sports-leadership/
-      - title: Values and Principles in Sport
-        url: /sports-education/value-and-principles-in-sport/
-      - title: Sports Safety
-        url: /sports-education/sport-safety
-      - title: Sports Education Programmes
-        url: /sports-education/sports-education-programmes/
-      - title: Youth Sports
-        url: /sports-education/national-standards-for-youth-sports/
+    collection: sports-education
   - title: Contacts
     url: /careers/learning-and-development/
     sublinks:
