@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Values & Mission/HealthierSG.md
       - Values & Mission/ForwardSG.md
       - Values & Mission/Core Values.md
       - Values & Mission/.keep
