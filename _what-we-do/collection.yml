@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Academy and Clubs.md
       - ActiveSG.md
       - Active Health.md
       - CoachSG.md
