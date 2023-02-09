@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Values & Mission/.keep
       - Vision 2030.md
       - Our Logo.md
       - Our Purpose & Values.md
