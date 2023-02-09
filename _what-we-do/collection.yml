@@ -2,7 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
-      - Safe Sport.md
+      - ActiveSG.md
       - Anti Doping Singapore.md
       - CoachSG.md
       - Singapore Sports Institute.md
