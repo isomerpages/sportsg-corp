@@ -8,8 +8,8 @@ The Ministry of Culture, Community and Youth has appointed the following members
 
 Chairman Mr Kon Yin Tong  
 Managing Partner, Foo Kon Tan LLP;   
-  
-### **Board Members**
+
+#### **Board Members**
 
 Ms Chan Su Yee  
 CEO, NTUC Health;  
