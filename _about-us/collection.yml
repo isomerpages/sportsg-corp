@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
+      - Vision 2030.md
+      - Our Logo.md
       - Values & Mission/.keep
       - Values & Mission/Core Values.md
       - Values & Mission/ForwardSG.md
       - Values & Mission/HealthierSG.md
       - Values & Mission/Sport Green Plan.md
       - Values & Mission/SPAG.md
-      - Vision 2030.md
-      - Our Logo.md
       - Our Purpose & Values.md
       - Our Organisation Structure.md
       - Our Senior Management.md
