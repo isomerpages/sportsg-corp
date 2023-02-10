@@ -9,15 +9,15 @@ ActiveSG provides a wide ranging of sports and fitness programmes at our ActiveS
 
 **1\. COACHING CERTIFICATIONS**
 ---------------------------
-### **1.2 OTHER SPORTS**
+### **1.1 OTHER SPORTS**
 
-1.2.1 National Coaching Accreditation Programme (NCAP) Technical Equivalent  
+1.1.1 National Coaching Accreditation Programme (NCAP) Technical Equivalent  
 Sports service providers will be required to submit your coaches relevant technical certificate equivalent if your coaches are not equipped with NCAP Technical Level 1.
 
-1.2.2 National Coaching Accreditation Programme (NCAP) Theory Courses  
+1.1.2 National Coaching Accreditation Programme (NCAP) Theory Courses  
 Course Schedules are available for NCAP Theory Level 1, NCAP Theory Level 2 and NCAP Theory Level 3. Registration can be done at National Coaching Accreditation Programme page.
 
-1.2.3 National Coaching Accreditation Programme (NCAP) Theory Accreditation  
+1.1.3 National Coaching Accreditation Programme (NCAP) Theory Accreditation  
 If your coaches are not equipped with NCAP Theory, but have other prior learning / experience / certificates, you may seek NCAP Theory Accreditation.
 
 Accreditation level will depend on evidence of prior learning. To seek NCAP Theory Accreditation, please:
@@ -29,22 +29,22 @@ Accreditation level will depend on evidence of prior learning. To seek NCAP Theo
 
   
 
-### **1.3 FITNESS PROGRAMMES**
+### **1.2 FITNESS PROGRAMMES**
 
 Fitness providers will be required to submit their certification to indicate that they are qualified to deliver the fitness programmes.  
   
 
-### **1.4 NATIONAL STANDARD FOR YOUTH SPORT (NSYS) / VALUES AND PRINCIPLES IN SPORTS (VPS)**
+### **1.3 NATIONAL STANDARD FOR YOUTH SPORT (NSYS) / VALUES AND PRINCIPLES IN SPORTS (VPS)**
 
 All Sports Service Providers offering programmes for children and youths age 16 years and below will require their instructors/coaches to complete the National Standard for Youth Sports (NSYS) or Values and Principles in Sports **VPS.** for more information and to register.  
   
 
-### **1.5 COACH’S ACKNOWLEDGEMENT FORM**
+### **1.4 COACH’S ACKNOWLEDGEMENT FORM**
 
 All Sports Service Providers with the exception of individuals have to get their instructor(s)/coach(es) listed in their submitted programmes complete the Instructor's/Coach's Acknowledgement Form  
   
 
-### **1.6 STANDARD FIRST AID**
+### **1.5 STANDARD FIRST AID**
 
 Instructor(s)/coach(es) are to be equipped with a valid recognised Standard First Aid Certificate at point of submission and at point of conduct of programme. Please view the List of First Aid courses recognised by Sport Singapore.  
   
