@@ -7,7 +7,7 @@ third_nav_title: ActiveSG Programme Partnership
 ActiveSG provides a wide ranging of sports and fitness programmes at our ActiveSG sports centres located island wide. Should you be interested to partner ActiveSG to provide sports and fitness programmes, please submit your programme details to [sport\_programming@sport.gov.sg](mailto:sport_programming@sport.gov.sg). Please note that coaches and instructors will be required to submit documents and certifications to indicate that they are qualified to deliver the programmes as indicate below.  
   
 
-**1.1 Coaching Certifications**
+#### **1.1 Coaching Certifications**
 
 1.1.1\.  National Coaching Accreditation Programme (NCAP) Technical Equivalent  
 Sports service providers will be required to submit your coaches relevant technical certificate equivalent if your coaches are not equipped with NCAP Technical Level 1.
@@ -47,6 +47,6 @@ All Sports Service Providers with the exception of individuals have to get their
 Instructor(s)/coach(es) are to be equipped with a valid recognised Standard First Aid Certificate at point of submission and at point of conduct of programme. Please view the List of First Aid courses recognised by Sport Singapore.  
   
 
-**2\. PROGRAMME SUBMISSION**
+#### **2\. PROGRAMME SUBMISSION**
 
 Proceed to submit your programme details to [sport\_programming@sport.gov.sg](mailto:sport_programming@sport.gov.sg). <br>Our staff will be in touch with you soon.
