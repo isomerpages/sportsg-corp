@@ -9,13 +9,13 @@ The Singapore Sports Institute (SSI) firmly believes in long-term sport and athl
 
 National Sports Associations (NSAs) can nominate their elite athletes to be carded (categorised) based on their achievements in the assessment period. Carded athletes can then have access to SSI’s customised Spex programmes and support services.
 
-**Announcements**
+### **Announcements**
 
 Please be informed that based on the principle of strict liability, athletes are fully responsible for what they ingest. Supplements or inhalers may contain ingredients with harmful side effects, or prohibited substances (and at times not indicated in the ingredients list) which is listed on the WADA Prohibited List. The Prohibited List is updated every year. Please refer to the Anti-Doping Singapore website at [https://www.sportsingapore.gov.sg/Athletes-coaches/anti-doping-singapore](https://www.sportsingapore.gov.sg/Athletes-coaches/anti-doping-singapore) for more information.
 
 In addition, all spexCarded athletes are required to apply for a Therapeutic Use Exemption (TUE) if they need to use any prohibited medication or method of treatment
 
-**SportSync**
+### **SportSync**
 
 SportSync is a shared data platform that aspires to harness data for ecosystem efficiency and effectiveness for Singapore to excel in international sports by co-creating an all-in-one database platform for all Singaporeans in competitive sports.
 
