@@ -28,11 +28,14 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://form.gov.sg/#!/61a58d94e6d425001302b74a
+      - other: To report an incident related to abuse or harassment in Safe Sport, click
+          <a href="https://form.gov.sg/61a58d94e6d425001302b74a"
+          target="_blank">here</a>.
     title: Safe Sport Reporting
   - content:
       - phone: ""
       - email: ""
-      - other: http://www.myactivesg.com/facilities
+      - other: To contact our Sports Centres directly, please click <a
+          href="http://www.myactivesg.com/facilities" target="_blank">here</a>.
     title: ActiveSG Sports Centres
 ---
