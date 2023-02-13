@@ -2,17 +2,17 @@ collections:
   sports-education:
     output: true
     order:
-      - Sports Club/YMCA.md
-      - Sports Club/Swiss Club.md
-      - Sports Club/Singapore Swimming Club.md
-      - Sports Club/Singapore Recreation Club.md
-      - Sports Club/Singapore Polo Club.md
-      - Sports Club/Singapore Island Country Club.md
-      - Sports Club/Singapore Cricket Club.md
-      - Sports Club/Ladies Lawn Tennis Club.md
-      - Sports Club/Indian Association.md
-      - Sports Club/Chinese Swimming Club.md
       - Sports Club/.keep
+      - Sports Club/Chinese Swimming Club.md
+      - Sports Club/Indian Association.md
+      - Sports Club/Ladies Lawn Tennis Club.md
+      - Sports Club/Singapore Cricket Club.md
+      - Sports Club/Singapore Island Country Club.md
+      - Sports Club/Singapore Polo Club.md
+      - Sports Club/Singapore Recreation Club.md
+      - Sports Club/Singapore Swimming Club.md
+      - Sports Club/Swiss Club.md
+      - Sports Club/YMCA.md
       - History of SportSG.md
       - History of SportSG/.keep
       - History of SportSG/Sports in Colonial Times.md
