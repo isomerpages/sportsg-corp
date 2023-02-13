@@ -52,4 +52,4 @@ OR 
 
 3.       Complete VPS E-Learning topics and Coaching Philosophy Reflection via SportSG-ED  
 
-Both VPS E-learning Certificate of Completion and Coaching Philosophy Reflection document must be submitted for CoachSG’s review and approval via [Sport\_Coaching@sport.gov.sg](mailto:Sport_Coaching@sport.gov.sg). A S$20.00 (including GST) fee will be charged for the processing of VPS accreditation certificates, which includes a SportSG-ED user licence fee.
+Both VPS E-learning Certificate of Completion and Coaching Philosophy Reflection document must be submitted for CoachSG’s review and approval via [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg). A S$20.00 (including GST) fee will be charged for the processing of VPS accreditation certificates, which includes a SportSG-ED user licence fee.
