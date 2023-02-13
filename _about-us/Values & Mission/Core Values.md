@@ -6,7 +6,6 @@ third_nav_title: Values & Mission
 ---
 Our core values of **Strength Through Teamwork**, **Passion for Sports** and **Care for People** underpin the way we serve our community through sports.
 
-
 <h4 style="color: #ba0c2f; padding: 0; margin: 0">Passion for Sports</h4>
 We are passionate about the power of sports to inspire pride<br>and excellence in people's lives.
 
