@@ -21,7 +21,7 @@ We will continue to monitor the situation and provide updates. Let’s play our 
 #### **Job Opportunities**
 Jobs are available at the following portals. If you are a member of the [NROC](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches), new opportunities may also be progressively shared with you through email (please make sure you login to [myActiveSG portal](http://members.myactivesg.com/) to update your latest email address, then login to [SportSync](https://www.sportsync.sg/) to verify your contact details).
 
-For SportSG job opportunities, please visit <br>[https://www.sportsingapore.gov.sg/careers/job-listings](https://www.sportsingapore.gov.sg/careers/job-listings).
+For SportSG job opportunities, please visit <br>[https://www.sportsingapore.gov.sg/careers/job-listings](https://www.sportsingapore.gov.sg/careers).
 <br>For other roles, please visit the [Virtual Career Fair.](https://vcf.mycareersfuture.sg/vcf)
 
 You can also subscribe to NTUC Job Security Council [Telegram](http://telegram.org/) for alerts on the latest job vacancies.
