@@ -12,10 +12,5 @@ links:
     collection: sports-education
   - title: Careers
     url: /careers
-  - title: Contacts
-    url: /careers/learning-and-development/
-    sublinks:
-      - title: Enquiry Form
-        url: https://members.myactivesg.com/feedback
-      - title: List of Key Contacts
-        url: /contact-us
+  - title: Contact Us
+    url: /contact-us
