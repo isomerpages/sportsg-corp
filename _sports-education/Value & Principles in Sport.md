@@ -46,7 +46,7 @@ OR 
 
 2. You are currently a Ministry of Education (MOE) Physical Education (PE) teacher in service from 2015 onwards, you will be exempted from VPS workshop but are required to complete the following steps to obtain **VPS Accreditation**, before being eligible to receive the VPS (Accreditation) certificate:
 
-1. Register for a Sportsync account and complete VPS E-learning topics via SportSG-ED (Refer to user guide [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Sports-Education/Values-and-Principles/SportSync(Registration)_SportSGED(Activation)_UserGuide.ashx?la=en&hash=56FCB3C430757B0E0B518597AD425E45C1F1D63F))
+1. Register for a Sportsync account and complete VPS E-learning topics via SportSG-ED (Refer to user guide [here](/files/Sport%20Education/Value%20&%20Principles%20in%20Sport/SportSync(Registration)_SportSGED(Activation)_UserGuide.pdf))
 
 2. Notify CoachSG of your SportSync ID once you have registered and activated your SportSG-ED account for e-learning to be assigned
 
