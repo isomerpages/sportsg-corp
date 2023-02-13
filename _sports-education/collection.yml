@@ -2,6 +2,7 @@ collections:
   sports-education:
     output: true
     order:
+      - Sports Club/Singapore Cricket Club.md
       - Sports Club/Ladies Lawn Tennis Club.md
       - Sports Club/Indian Association.md
       - Sports Club/Chinese Swimming Club.md
