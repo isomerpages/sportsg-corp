@@ -2,36 +2,39 @@
 title: FAQ
 permalink: /faq/
 ---
-<p>Q [Service Provider] Is there a maximum number of programmes that I can submit for endorsement under SEP?</p>
-<p>A No, you can submit as many programmes as you like, as long as they adhere to the conditions set out in the Programme Endorsement Application Guidelines.</p>
+ **Q [Service Provider]** Is there a maximum number of programmes that I can submit for endorsement under SEP?<br >
+**A** No, you can submit as many programmes as you like, as long as they adhere to the conditions set out in the Programme Endorsement Application Guidelines.
 
-<p>Q [Service Provider] What types of programmes are eligible for endorsement?</p>
-A Programmes can be in either of these categories: 
-<p>(a) Sports Exposure </p>
-<p>- One-off events/ programmes </p>
-<p>- Aims to introduce a sport to the masses </p>
-<p>- Convey that sports is fun and easy to do </p>
-<p>- Examples are: sports clinics, camps, tryouts, events or carnivals within the school </p>
-<p>(b) Sports Play </p>
-<p>- Structured, regular instructional courses (LTP Level 1) </p>
-<p>- Facilitate the learning of a sports skill at the beginner level </p>
-<p>- Learning of basic information and skills of a particular sport </p>
-<p>(c) Sports Development </p>
-<p>- Follow up from Sports Play programmes </p>
-<p>- Structured, regular instructional courses at a more advanced level (e.g. Level 2, 3 and so on) </p>
-<p>- Provide age-appropriate and higher level skills from Sports Play </p>
-<p>(d) Sports League 
-<p>- Intra-school competitions (e.g. inter-class competitions) that take place over prolonged period 
-<p>- Participating teams have opportunity to play against each other on regular basis </p>
+**Q [Service Provider]** What types of programmes are eligible for endorsement?<br >
+**A** Programmes can be in either of these categories: <br>
+<u>1/ Sports Exposure</u> 
+* One-off events/ programmes   
+* Aims to introduce a sport to the masses   
+* Convey that sports is fun and easy to do   
+* Examples are: sports clinics, camps, tryouts, events or carnivals within the school
 
-<p>Q [School] How can I apply for a programme under SEP?</p>
-<p>A For schools that have opted in for SEP, you do not need to go through SSC to book programmes. Schools may refer to the list of endorsed programmes for the respective calendar year and proceed to contact the provider directly to arrange for the programme/ event to be organised. Please click here for school's step by step guide to SEP.</p>
+<u>2/ Sports Play</u>
+* Structured, regular instructional courses (LTP Level 1)   
+* Facilitate the learning of a sports skill at the beginner level   
+* Learning of basic information and skills of a particular sport
 
-<p>Q [Service Providers] Can I alter my programme after they have been endorsed?</p>
-<p>A No, changes to the content of the programmes endorsed by the SEP Assessment Panel will not be allowed. You are only allowed to make changes to the contact details of the contact person in charge of the programme.</p>
+<u>3/ Sports Development</u>
+* Follow up from Sports Play programmes   
+* Structured, regular instructional courses at a more advanced level (e.g. Level 2, 3 and so on)   
+* Provide age-appropriate and higher level skills from Sports Play
 
-<p>Q [Service Provider] Can we market our programmes to the schools?</p>
-<p>A Yes. Providers providing endorsed programmes are strongly encouraged to market their programmes to schools. However, not all schools under MOE may be involved in SEP. Please click on the "contacts" module to browse through schools that are under SEP.</p>
+<u>4/ Sports League</u>
+* Intra-school competitions (e.g. inter-class competitions) that take place over prolonged period   
+* Participating teams have opportunity to play against each other on regular basis
+
+**Q [School]** How can I apply for a programme under SEP?<br>
+**A** For schools that have opted in for SEP, you do not need to go through SSC to book programmes. Schools may refer to the list of endorsed programmes for the respective calendar year and proceed to contact the provider directly to arrange for the programme/ event to be organised. Please click here for school's step by step guide to SEP.
+
+**Q [Service Providers]** Can I alter my programme after they have been endorsed?<br>
+**A** No, changes to the content of the programmes endorsed by the SEP Assessment Panel will not be allowed. You are only allowed to make changes to the contact details of the contact person in charge of the programme.
+
+**Q [Service Provider]** Can we market our programmes to the schools?<br>
+**A** Yes. Providers providing endorsed programmes are strongly encouraged to market their programmes to schools. However, not all schools under MOE may be involved in SEP. Please click on the "contacts" module to browse through schools that are under SEP.
 
 <p>Q [Service Provider] Do i have to submit an application again if my programmes has been endorsed under SEP 2012/2013?</p>
 <p>A All programmes will need to be resubmitted and assessed by the SEP Assessment Panel in SEP 2014/2015 with programme(s) endorsement period of TWO years. To resubmit programmes, click on the "submit new programme" to complete a survey. After which, return to home page, and click on "resubmit programmes". Select the currently endorsed programmes that you want to resubmit.</p>
