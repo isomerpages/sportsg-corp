@@ -52,5 +52,4 @@ NICA provides support for NICA registered members, including the NICA Hardship 
 Do check out their website [here](http://www.nica.org.sg/Pages/Benefits.aspx) for eligibility and more information.
 
 #### **Support for Sport Businesses**
-<br>
 Click [here](https://circle.myactivesg.com/support-for-sport-industry) for more support and resources targeted at sport businesses.
