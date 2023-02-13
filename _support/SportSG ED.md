@@ -24,9 +24,9 @@ SportSG-ED is a robust, dynamic and innovative e-learning platform supporting th
 **How to access SportSG-ED?**
 <br>Go to: [www.sportsync.sg](https://www.sportsync.sg/App/Login?ReturnUrl=%2fapp)
 
-**How to create an account for SportSG-ED?**<br>
+**How to create an account for SportSG-ED?**
+<br>
 You need to have an existing ActiveSG account or create a new ActiveSG account to login to SportSG-ED. Follow the video user guides here to create your account:  
-[](https://youtu.be/VDCeOSPZ2-E)
 
 1\.  [Create a SportSG-ED account with your existing ActiveSG account](https://youtu.be/VDCeOSPZ2-E)<br>
 2\.  [](https://youtu.be/VDCeOSPZ2-E)[Create a SportSG-ED account with a new ActiveSG account](https://youtu.be/QxOGlmJd8BA)
