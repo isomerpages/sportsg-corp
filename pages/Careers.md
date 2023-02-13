@@ -22,6 +22,6 @@ Sport Singapore is constantly on the lookout for individuals who are passionate 
 
 Join Sport Singapore for a fulfilling career!
 <br>
-[Find A Job | Careers@Gov (hrp.gov.sg)](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html)
+[Find A Job - Careers@Gov (hrp.gov.sg)](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html)
 <br>
 Search for Sport Singapore under "Agency" to see a full listing of job postings.
