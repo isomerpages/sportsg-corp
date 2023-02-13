@@ -2,6 +2,7 @@ collections:
   sports-education:
     output: true
     order:
+      - Sports Club/Chinese Swimming Club.md
       - Sports Club/.keep
       - History of SportSG.md
       - History of SportSG/.keep
