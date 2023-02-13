@@ -11,7 +11,7 @@ We will continue to monitor the situation and provide updates. Let’s play our 
 
 [#SGUnited](https://www.facebook.com/hashtag/sgunited?__cft__[0]=AZUgWMGvqHumq8Ca3p12gtN7KBlm9toeDoF_8EV_oY_E8iAGCrxReZ52Gp7ItlCKvHl8_bSu6UwLEMMukrR0XX8H_QPLR44BjE9CvLbFXM2y8S4qK2E-iR_6yS-ThTf8Yy6WZAr5I1rOWRepFngd2T_C7yOr55C6135Q4EEXdVypAg&__tn__=*NK-R) [#CoachAsLeader](https://www.facebook.com/hashtag/coachasleader?__cft__[0]=AZUgWMGvqHumq8Ca3p12gtN7KBlm9toeDoF_8EV_oY_E8iAGCrxReZ52Gp7ItlCKvHl8_bSu6UwLEMMukrR0XX8H_QPLR44BjE9CvLbFXM2y8S4qK2E-iR_6yS-ThTf8Yy6WZAr5I1rOWRepFngd2T_C7yOr55C6135Q4EEXdVypAg&__tn__=*NK-R) [#CoachingBetterEveryDay](https://www.facebook.com/hashtag/coachingbettereveryday?__cft__[0]=AZUgWMGvqHumq8Ca3p12gtN7KBlm9toeDoF_8EV_oY_E8iAGCrxReZ52Gp7ItlCKvHl8_bSu6UwLEMMukrR0XX8H_QPLR44BjE9CvLbFXM2y8S4qK2E-iR_6yS-ThTf8Yy6WZAr5I1rOWRepFngd2T_C7yOr55C6135Q4EEXdVypAg&__tn__=*NK-R)
 
-### **Go-to government websites**
+#### **Go-to government websites**
 1\. Unsure of which government grants and support you are eligible for? Check out [https://www.supportgowhere.gov.sg/](https://www.supportgowhere.gov.sg/)!
 
 2\. Staying home? Going out? Feeling unwell? A latest list of useful go-to government websites is now available at [https://www.gowhere.gov.sg/](https://www.gowhere.gov.sg/). 
@@ -34,19 +34,23 @@ You can also subscribe to NTUC Job Security Council [Telegram](http://telegram.
 <br>Various schemes have been made available to support Singaporeans in this period, <br>as outlined below:  
 
 **COVID-19 Recovery Grant (CRG)**
-<br>If you lost their job as a result of the COVID-19 outbreak, this additional grant provides financial assistance while you continue to find a new job or attend training. Successful applicants will receive a monthly cash grant, for three months.
+<br>
+If you lost their job as a result of the COVID-19 outbreak, this additional grant provides financial assistance while you continue to find a new job or attend training. Successful applicants will receive a monthly cash grant, for three months.
 *   For details (including eligibility criteria), click [here](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG). 
 **CCE Training Allowance Grant**
-<br>The CCE Training Allowance for coaches is a grant provided to eligible coaches to encourage them to actively engage in continuous learning and be current in their knowledge and skills during this period where their work is impacted by the Covid-19 restrictions. Eligible coaches may claim $7.50 for each claimable hour for CoachSG organised CCE workshops to a maximum of $300 per person until 31 March 2022. 
+<br>
+The CCE Training Allowance for coaches is a grant provided to eligible coaches to encourage them to actively engage in continuous learning and be current in their knowledge and skills during this period where their work is impacted by the Covid-19 restrictions. Eligible coaches may claim $7.50 for each claimable hour for CoachSG organised CCE workshops to a maximum of $300 per person until 31 March 2022. 
 
 For the list of approved CCE courses/ programmes and other queries, please refer to [FAQ.](https://circle.myactivesg.com/industry/support/sports-resilience-package/continuing-coach-education-training-allowance?filter=faq&hsLang=en)
 
 For more information please click the [here](https://circle.myactivesg.com/industry/support/sports-resilience-package/continuing-coach-education-training-allowance). 
 
 **National Instructors & Coaches Association (NICA) Grants**
-<br>NICA provides support for NICA registered members, including the NICA Hardship Grant that provides a one-time $100 to members to help defray their financial burden under hardship circumstances.
+<br>
+NICA provides support for NICA registered members, including the NICA Hardship Grant that provides a one-time $100 to members to help defray their financial burden under hardship circumstances.
 
 Do check out their website [here](http://www.nica.org.sg/Pages/Benefits.aspx) for eligibility and more information.
 
-#### **Support for Sport Businesses**<br>
+#### **Support for Sport Businesses**
+<br>
 Click [here](https://circle.myactivesg.com/support-for-sport-industry) for more support and resources targeted at sport businesses.
