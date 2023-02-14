@@ -9,23 +9,23 @@ permalink: /faq/
 **Q [Service Provider]** What types of programmes are eligible for endorsement?
 <br >
 **A** Programmes can be in either of these categories: <br>
-<u>1\. Sports Exposure</u> 
+<u>1/ Sports Exposure</u> 
 * One-off events/ programmes   
 * Aims to introduce a sport to the masses   
 * Convey that sports is fun and easy to do   
 * Examples are: sports clinics, camps, tryouts, events or carnivals within the school
 
-<u>2\. Sports Play</u>
+<u>2/ Sports Play</u>
 * Structured, regular instructional courses (LTP Level 1)   
 * Facilitate the learning of a sports skill at the beginner level   
 * Learning of basic information and skills of a particular sport
 
-<u>3\. Sports Development</u>
+<u>3/ Sports Development</u>
 * Follow up from Sports Play programmes   
 * Structured, regular instructional courses at a more advanced level (e.g. Level 2, 3 and so on)   
 * Provide age-appropriate and higher level skills from Sports Play
 
-<u>4\. Sports League</u>
+<u>4/ Sports League</u>
 * Intra-school competitions (e.g. inter-class competitions) that take place over prolonged period   
 * Participating teams have opportunity to play against each other on regular basis
 
@@ -59,17 +59,17 @@ permalink: /faq/
 <br>
 **A**
 <br>
-1\. Minimally an NCAP Theory level 1 or its equivalent (for certifications with equivalent standards, it is highly encouraged to seek accreditation before submission)
+1/ Minimally an NCAP Theory level 1 or its equivalent (for certifications with equivalent standards, it is highly encouraged to seek accreditation before submission)
 <br>
-2\. NROC/ NCAP technical certifications (especially if the local NSA is offering NCAP technical certifications for that sport type you are coaching) and/or
+2/ NROC/ NCAP technical certifications (especially if the local NSA is offering NCAP technical certifications for that sport type you are coaching) and/or
 <br>
-3\. Other equivalent technical certifications to prove that you are able and capable of coaching the sport (please also submit transcripts, course syllabus etc)
+3/ Other equivalent technical certifications to prove that you are able and capable of coaching the sport (please also submit transcripts, course syllabus etc)
 <br>
-4\. National Standard for Youth Sport (NSYS)
+4/ National Standard for Youth Sport (NSYS)
 <br>
-5\. A recognised valid Standard First Aid certification. For list of recognised courses, click here
+5/ A recognised valid Standard First Aid certification. For list of recognised courses, click here
 <br>
-6\. Coach Acknowledgement Form. For sample of the form, click here.
+6/ Coach Acknowledgement Form. For sample of the form, click here.
 
 **Q [Service Provider]** If my instructors/ coaches are part-time staff, do i still have to submit their details?
 <br>
