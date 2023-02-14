@@ -3,7 +3,7 @@ title: FAQ
 permalink: /faq/
 ---
 **Q [Service Provider]** Is there a maximum number of programmes that I can submit for endorsement under SEP?
-<br >
+<br>
 **A** No, you can submit as many programmes as you like, as long as they adhere to the conditions set out in the Programme Endorsement Application Guidelines.
 
 **Q [Service Provider]** What types of programmes are eligible for endorsement?
