@@ -107,7 +107,7 @@ Schools shall call an open ITQ (Invitation To Quote) via GeBIZ. Under this ITQ, 
 Schools will need to charge 50% of claimable expenses to IFAAS Project Code 500042 (SSC-SEP Grant) while the remaining 50% of the payment has to be borne by schools.
 <br>
 (b) Independent Schools/ Specialised Independent Schools/ Special Education Schools: 
-Independent and Specialised Independent Schools will need to pay 100% from school’s own funds first. Funds will be reimbursed to schools by 31 March based on the final report submitted through the SEP portal. </p>
+Independent and Specialised Independent Schools will need to pay 100% from school’s own funds first. Funds will be reimbursed to schools by 31 March based on the final report submitted through the SEP portal.
 <br>
 *Note: All schools must login to SEP portal to submit a final report for programmes conducted, accompanied by soft copies of invoices by 31 Dec*.
 
