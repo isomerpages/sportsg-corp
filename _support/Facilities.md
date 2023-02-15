@@ -37,5 +37,5 @@ Dual-Use Scheme Facilities:
 *   162 school sports halls
 *   2 basketball courts
 *   1 street soccer court 
-
+<br ><br >
 View our [Sport Centres](http://www.myactivesg.com/facilities) for a detailed list. <br>To book a facility, please login to [ActiveSG membership system](https://members.myactivesg.com/).
