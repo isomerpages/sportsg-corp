@@ -4,7 +4,8 @@ permalink: /about-us/values-and-mission/core-values/
 description: ""
 third_nav_title: Values & Mission
 ---
-Our core values of **Strength Through Teamwork**, **Passion for Sports** and **Care for People** underpin the way we serve our community through sports.
+Our core values of **Strength Through Teamwork**, **Passion for Sports** and **Care for People** underpin the way we serve our community 
+through sports.
 
 <div style="display: flex; align-items: stretch;">
 <div style="text-align: center; margin: 0px 15px 8px 0px; flex: 1;">
