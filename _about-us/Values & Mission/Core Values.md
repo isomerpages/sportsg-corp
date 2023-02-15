@@ -21,7 +21,7 @@ through sports.
 	<b>Strength through Teamwork</b>
 	<br />
 	We achieve our common goals through the synergy of our collective strengths.
-</div> 
+</div>
 	<div style="text-align: center; margin: 0px 8px 8px 0px; flex: 1;">
 	<img src="/images/About%20Us/Values%20&%20Mission/Core%20Values/people.jpeg" alt="Care for People"  />
 		<br />
