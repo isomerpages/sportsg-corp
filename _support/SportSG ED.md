@@ -30,14 +30,6 @@ SportSG-ED is a robust, dynamic and innovative e-learning platform supporting th
 	<b>Accessibility</b> – Learning content are either in blended or e-learning mode. Users can access e-learning content anytime from anywhere, at their convenience across multiple platforms and devices that include computers, tablets or mobile phones.
 </div> 
 </div>
-<div style="display: flex; margin-bottom: 15px;">
-<div style="margin-right: 15px;">
-<img src="/images/Support/Sport%20Ed/img4.png" alt="Knowledge Retention" style="" />
-</div> 
-<div>
-	<b>Knowledge Retention</b> – Learn with various engaging and interactive content, with sound, video and knowledge check quizzes that would lead to better knowledge retention.
-</div> 
-</div>
 
 
 
