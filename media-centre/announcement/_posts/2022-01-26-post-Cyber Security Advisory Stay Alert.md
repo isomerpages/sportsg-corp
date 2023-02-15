@@ -19,9 +19,7 @@ Here are some tips to spot signs of phishing:
 * **Requests for confidential information** – most organisations will not ask you to send personal information such as NRIC or login credentials.  
   
 	Always check that the domain in the URL ends with "**myactivesg.com**" or "**.gov.sg**" to ensure the link leads you to ActiveSG website or a Singapore Government website.
-
 ![Correct Domain](/images/Media%20Centre/Announcements/Domain.png)
-	
 **We will not send any links in our SMS to you.** If you receive any SMS messages from ActiveSG that contain any links, please do not click. [Report it to us immediately.](https://members.myactivesg.com/feedback)
 
 Be extra vigilant in providing any sensitive information such as personal particulars or account login details over the Internet.
