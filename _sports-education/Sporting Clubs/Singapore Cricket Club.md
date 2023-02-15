@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sporting Clubs
 ---
 ![Singapore Cricket Club](/images/Sport%20Education/Sporting%20Clubs/SingaporeCricketClub.jpeg)
-
 Established in the year 1852, the Singapore Cricket Club is a fascinating microcosm of the history of Singapore itself. The club's transition from an elite, colonial sports club into an open multi-racial one has played a leading role in both the sporting and social life of the community. It also mirrors the similar changes of Singapore's social and historical evolution throughout the years.  
   
 Sports played an important role in the early colonial culture of Singapore , as it was the antidote for many social ills such as boredom, loneliness, isolation and cultural disorientation.  
