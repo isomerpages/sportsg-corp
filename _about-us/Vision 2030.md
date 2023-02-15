@@ -4,12 +4,3 @@ permalink: /about-us/vision-2030/
 description: ""
 ---
 Vision 2030 began with this question: **“How can Sport best serve Singapore in the coming decades?”** In our quest to discover the answer to this, we met with more than 500 people for face to face discussions, and obtained the views of another 60,000 through online means. In all, we received some 300 unique ideas which allowed us to appreciate ways in which Singaporeans live, think and see the role of Sport in their lives and in society. These ideas were then categorised and crystallised into 20 recommendations to be implemented as the pillars of Vision 2030.
-
-<div style="display: flex;">
-<div style="border: 1px solid #000">
-<img src="/images/ActiveHealthLogoType.png" style="max-width: 150px" />
-</div> 
-<div style="border: 1px solid #000">
-testing
-</div> 
-</div>
