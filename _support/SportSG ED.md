@@ -31,12 +31,6 @@ SportSG-ED is a robust, dynamic and innovative e-learning platform supporting th
 </div> 
 </div>
 
-
-
-
-
-
-
 **How to access SportSG-ED?**
 <br>Go to: [www.sportsync.sg](https://www.sportsync.sg/App/Login?ReturnUrl=%2fapp)
 
