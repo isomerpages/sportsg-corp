@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sporting Clubs
 ---
 ![Singapore Island Country Club](/images/Sport%20Education/Sporting%20Clubs/island_countryclub.jpeg)
-
 The first Golf Club at the old racecourse ( Farrer Park ) was the forerunner of the Singapore Island Country Club. When Justice John T Goldney arrived in 1887, he brought along his clubs in eager anticipation of playing golf but alas, Singapore had no golf links.  
   
 Justice Goldney and Mr R N Bland, another golfing enthusiast, then drew up site plans at the Farrer Park area to select the first nine tees and greens where the holes would be cut. The course was a very fair one with excellent hazards by the rails and sundry ditches with broken grounds. The club was opened on 17 June 1891 by the then Governor, Sir Cecil Clementi. Members of the Sporting Club (the predecessor of the Singapore Turf Club) were eligible to join as members since it was the racecourse grounds that were used for the golf site.  
