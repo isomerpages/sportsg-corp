@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sporting Events
 ---
 ![Pesta Sukan](/images/Sport%20Education/Sporting%20Events/pesta_sukan.jpeg)
-
 "Pesta Sukan" is a Malay phrase for Festival of Sports. "Pesta" means festival and "sukan" means sports.   
   
 The festival was aimed at providing an opportunity for sportsmen and women to get together in camaraderie and goodwill and to raise the standard of sports through friendly competition.   
