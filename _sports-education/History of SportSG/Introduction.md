@@ -14,7 +14,7 @@ All of the various clubs played a major role in promoting sports in Singapore in
 
 <div style="display: flex; align-items: stretch;">
 <div style="margin: 0px 8px 15px 0px; flex: 1;">
-<img src="/images/Sport%20Education/History%20of%20Singapore%20Sports/Sports%20in%20Colonial%20Times/Sportsincolonialtimes.jpeg" alt="SPORTS IN COLONIAL TIMES" style="max-width:300px " />
+<img src="/images/Sport%20Education/History%20of%20Singapore%20Sports/Sports%20in%20Colonial%20Times/Sportsincolonialtimes.jpeg" alt="SPORTS IN COLONIAL TIMES" />
 </div> 
 <div style="text-align: left; flex: 1;">
 	<b>SPORTS IN COLONIAL TIMES</b>
