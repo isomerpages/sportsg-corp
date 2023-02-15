@@ -4,13 +4,11 @@ permalink: /support/fms-trainer-at-nurture-kids/
 description: ""
 ---
 ### **Do you have a talent for working with kids, and an avid interest in healthy living?**
------------------------------------------------------------------------------------
 
 **Join us to inspire the next generation!**
 
 As a FMS trainer at Nurture Kids, you will be working with pre-school children to promote Fundamental Movement Skills & healthy living.  
-_\*RECRUITMENT CRITERIA:_
-
+*RECRUITMENT CRITERIA*:
 *   Qualifications in Sports & Exercise Science, Physical Education or Early Childhood preferred
 *   Certificate of participation in the Fun Start, Move Smart! Fundamental Movement Skills Workshop by SportSG
 *   Working experience in physical education and/or teaching/coaching sports or movement skills to young children
