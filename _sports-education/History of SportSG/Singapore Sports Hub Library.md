@@ -6,7 +6,7 @@ third_nav_title: History of SportSG
 ---
 In support of Singapore’s vision 2030, “Live better through sports”, the Singapore Sports Hub Library, operated by Civica Pte Ltd, is the centre of sports knowledge for the community at large as well as the sports professionals.
 
-
+![Singapore Sports Hub Library](/images/Sport%20Education/History%20of%20Singapore%20Sports/Singapore%20Sports%20Hub%20Library/sport_lib.jpeg)
 
 The Library is located at 4 Stadium Walk (S397697) and is situated adjacent to the Stadium MRT Station. 
 
