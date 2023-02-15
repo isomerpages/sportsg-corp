@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sporting Clubs
 ---
 ![Ladies Lawn Tennis Club](/images/Sport%20Education/Sporting%20Clubs/LadiesLTC.jpeg)
-
 Early Singaporean sports clubs were a male orientated affair. Besides the usual racial and class divisions, gender segregation was commonplace during these period with women given limited participation in their activities.   
   
 Case in point, the ladies of the Singapore Cricket Club (SCC) were only allowed into the club's pavilion and restricted to the club's upstairs verandah if they wished to view the games or events taking place at the Padang.  
