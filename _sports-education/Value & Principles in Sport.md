@@ -29,11 +29,11 @@ Note:
 *   The VPS workshop is conducted in English.
 
 **How do I sign-up?**
-
+<br>
 VPS workshop registrations are strictly on a first-come-first-served basis. To find out more on the workshop, fee and registration please click [here](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports).
 
 **Exemption from the VPS workshop**
-
+<br>
 Please note that you do not need to attend VPS workshop, if you meet any of the following requirement(s).
 
 1\. You have any of the following certificates:
