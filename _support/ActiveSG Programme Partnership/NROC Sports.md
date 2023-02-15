@@ -17,7 +17,7 @@ Requirements to join the NROC are as follows :
 **Provisional Membership**
 
 1.  [Valid Standard First Aid (SFA) Certificate](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/National-Registry-of-Coaches/Accredited-Standard-First-Aid-with-AED-Courses)
-2.  [Values and Principles in Sport (VPS)](https://www.sportsingapore.gov.sg/sports-education/values-and-principles-in-sport) Certificate or its equivalent1
+2.  [Values and Principles in Sport (VPS)](https://www.sportsingapore.gov.sg/sports-education/values-and-principles-in-sport) Certificate or its equivalent<sup>1</sup>
 3.  Other supporting documents of playing experience or coaching certification and experience in the sport of choice
 
 **Full Membership**
@@ -28,7 +28,7 @@ Requirements to join the NROC are as follows :
 4.  [SG-Coach Level 1 (Technical)](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-technical-programme-accreditation) or NCAP Certificate or its equivalent
 5.  Other supporting documents
 
-Values and Principles in Sport (VPS) or its equivalent1: The VPS workshop is a module within the SG-Coach Theory Level 1 course which covers the topics on coaching philosophy, appropriate behaviours of coaches, teaching of values through Game-For-Life framework, information on Ministry of Education’s 21st Century Competencies Framework and Student Outcomes, and introduction to anti-doping. Certificates which are deemed as its equivalent are SG-Coach Theory Level 1 Certificate which includes the VPS module, National Standards in Youth Sports for Coaching in Singapore Schools Certificate and Certificate of Attendance for Building Capacity of Coaches and Instructors (BCCI)’ Workshop. 
+<small>Values and Principles in Sport (VPS) or its equivalent<sup>1</sup>: The VPS workshop is a module within the SG-Coach Theory Level 1 course which covers the topics on coaching philosophy, appropriate behaviours of coaches, teaching of values through Game-For-Life framework, information on Ministry of Education’s 21st Century Competencies Framework and Student Outcomes, and introduction to anti-doping. Certificates which are deemed as its equivalent are SG-Coach Theory Level 1 Certificate which includes the VPS module, National Standards in Youth Sports for Coaching in Singapore Schools Certificate and Certificate of Attendance for Building Capacity of Coaches and Instructors (BCCI)’ Workshop.</small>
 
 Sport Singapore introduced the provisional membership category from Jan 2017. The provisional membership allows existing and aspiring sport coaches to participate in academic, educational and professional development activities to improve their coaching practice as they work toward completing all requirements of full NROC membership.
 
