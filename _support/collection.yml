@@ -2,6 +2,7 @@ collections:
   support:
     output: true
     order:
+      - Coaches' Corner/Introduction.md
       - Coaches' Corner/.keep
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/NROC Sports.md
