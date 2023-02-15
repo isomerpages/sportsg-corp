@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sporting Clubs
 ---
 ![Indian Association](/images/Sport%20Education/Sporting%20Clubs/IndianAssociation.jpeg)
-
 The Singapore Indian Association was one of several ethnic sports clubs established to serve their own community during the Colonial Times. Founded in 1923, the Association aims at promoting the social, physical, intellectual, cultural and the general welfare of its members. It was a popular place for young Indians to meet socially and indulge in sports, particularly cricket, tennis and billiard. The Association excelled in cricket and hockey with many of its members participating in regional and international competitions in the fifties.  
 In 1950, the Prime Minister of India, the late Pandit Nehru came all the way to Singapore to officiate at the laying of the foundation stone at the Indian Association and the present Clubhouse took shape.  
 Over the years, the Indian Association has produced several national hockey players.  
