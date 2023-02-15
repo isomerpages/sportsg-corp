@@ -7,9 +7,9 @@ Vision 2030 began with this question: **“How can Sport best serve Singapore i
 
 <div style="display: flex;">
 <div style="border: 1px solid #000">
-<img src="/images/ActiveHealthLogoType.png" style="" />
+<img src="/images/ActiveHealthLogoType.png" style="max-width: 150px" />
 </div> 
 <div style="border: 1px solid #000">
 testing
 </div> 
-</div> 
+</div>
