@@ -10,8 +10,8 @@ The Library is located at 4 Stadium Walk (S397697) and is situated adjacent to t
 
 **The library's opening hours are:**
 <br>
-Monday to Friday : 10 am to 8 pm  
-Saturday, Sunday, eve of Public Holiday and Public Holiday : 10 am to 9 pm.
+Monday to Friday : 10am to 8pm  
+Saturday, Sunday, eve of Public Holiday and Public Holiday : 10am to 9pm.
 
 Focusing on sports and active recreation, the library will be opened to the general public to encourage the general population to embrace sports as a healthy lifestyle.
 
@@ -19,6 +19,6 @@ Membership is free for all Singaporeans and PRs. Besides the sports professional
 
 Supporting a wide range resource types from prints, audiovisuals to electronic resources, the library’s collections will be organised in broad genres namely Sports & Recreations; Training & Coaching; Heath & Fitness; Memoirs, Biographies & Stories; Business & Management; Science & Medical; Arts & Culture and General.
 
-In addition to providing sports related library’s resources and services, Civica also plans and develops library activities and programmes to support the events and programmes in Sports Hub and to cater to different types of users including sports professionals, those who are active in sports and those who are keen to make sports a part of their life.
+In addition to providing sports-related library's resources and services, Civica also plans and develops library activities and programmes to support the events and programmes in Sports Hub and to cater to different types of users including sports professionals, those who are active in sports and those who are keen to make sports a part of their life.
 
 Other facilities available in the library will include video viewing stations, virtual sports stations, giant chess and checkers, internet stations, meeting rooms, and kids zone.
