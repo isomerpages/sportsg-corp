@@ -24,4 +24,4 @@ You need to have an existing ActiveSG account or create a new ActiveSG account t
 
 **Frequently Asked Questions**
 <br>
-Download the answers for some of the frequently asked questions, including how to access the online learning courses: [FAQs with Answers](/files/Support/SportSG%20ED/SportSG-ED_FAQs.pdf)
+Download [answers to FAQs](/files/Support/SportSG%20ED/SportSG-ED_FAQs.pdf) for some of the frequently asked questions, including how to access the online learning courses.
