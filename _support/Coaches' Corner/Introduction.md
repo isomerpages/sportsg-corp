@@ -6,9 +6,9 @@ third_nav_title: Coaches' Corner
 ---
 Coaching in Singapore is an immensely important part of Sport Singapore’s responsibility to its community. 
 
-CoachSG recognises the importance of coaching as a career to achieve the sporting potential of athletes and participants. Coaches give their time and expertise to nurture our rising stars. In so doing, they add not only to our community but our national profile. 
+CoachSG recognises the importance of coaching as a career to achieve the sporting potential of athletes and participants. Coaches give their time and expertise to nurture our rising stars. In so doing, they add to our community as well as our national profile. 
 
-Sport Singapore offers the different coach development programmes:
+Sport Singapore offers different coach development programmes:
 
 *   Formal Coaching Programme: [Singapore Coach Excellence (SG-Coach) Programmes](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach) which provides the theory and technical components of how and what to coach. 
     
