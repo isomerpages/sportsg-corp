@@ -15,4 +15,4 @@ With time, the number of Asian immigrants increased and various communal clubs w
 
 With the growing interest in sports, the British Colonials built a number of public sports facilities during the 1930s to 50s. Mount Emily Swimming Complex, Farrer Park Sports Complex and Yan Kit Swimming Complex are such examples. Some of these facilities have since undergone major changes.
 
-Associations for specific sports were also formed during this time such as the Singapore Rifle Association, Football Association of Singapore and the Singapore Rugby Union. Such sports clubs eventually became the
+Associations for specific sports were also formed during this time such as the Singapore Rifle Association, Football Association of Singapore and the Singapore Rugby Union. Such sports clubs eventually became the National Sports Associations we know today.
