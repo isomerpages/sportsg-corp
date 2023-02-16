@@ -3,7 +3,7 @@ title: SportSG ED
 permalink: /support/sportsg-ed/
 description: ""
 ---
-SportSG-ED is a robust, dynamic and innovative e-learning platform supporting the learning and development of stakeholders across Singapore’s sport ecosystem, especially for coaches. The portal aims to be a compelling platform for online sport education, and an impetus for coaching excellence and sport knowledge management, that could bring sports professionals and experts in the field from local and around the world together.
+**SportSG-ED** is a robust, dynamic and innovative e-learning platform supporting the learning and development of stakeholders across Singapore’s sport ecosystem, especially for coaches. The portal aims to be a compelling platform for online sport education, and an impetus for coaching excellence and sport knowledge management, that could bring sports professionals and field experts within and together.
 
 ### **Why SportSG-ED?**
 <div style="display: flex; margin-bottom: 15px;">
@@ -11,7 +11,7 @@ SportSG-ED is a robust, dynamic and innovative e-learning platform supporting th
 <img src="/images/Support/Sport%20Ed/img1.png" alt="Trusted Content" style="" />
 </div> 
 <div>
-	<b>Trusted Content</b> – Courses, videos, workshops, reading materials and e-learning content are from subject matter experts in various content areas, verified and exclusively curated by SportSG and our training providers. This is going to be Singapore’s largest selection of sports related learning content online.
+	<b>Trusted Content</b> –Courses, videos, workshops, reading materials and e-learning content are from subject matter experts in various content areas, verified and exclusively curated by SportSG and our training providers. This will be Singapore’s largest online selection of sports-related learning content.
 </div> 
 </div>
 <div style="display: flex; margin-bottom: 15px;">
