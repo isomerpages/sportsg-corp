@@ -20,7 +20,7 @@ You need to have an existing ActiveSG account or create a new ActiveSG account t
 2\.  [](https://youtu.be/VDCeOSPZ2-E)[Create a SportSG-ED account with a new ActiveSG account](https://youtu.be/QxOGlmJd8BA)
 
 **How to access Safe Sport module for NROC Coaches?**<br>
-Download the user guide: [Safe Sport - SportSG-ED User Guide]([Safe Sport - SportSG-ED User Guide](/files/Support/SportSG%20ED/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf))
+[Download the Safe Sport - SportSG-ED User Guide](/files/Support/SportSG%20ED/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf)
 
 **Frequently Asked Questions**
 <br>
