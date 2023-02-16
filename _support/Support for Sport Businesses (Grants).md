@@ -9,16 +9,7 @@ Our sports industry will need to transform to continue to inspire and engage Sin
 
 On 28 May 2021, Sport Singapore updated <br>[the Sport Resilience Package for businesses and SEPs.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/May/SportSG-updates-Sport-Resilience-Package-for-businesses-and-SEPs)
 
-**Sport Data Exchange Singapore (SportDexSG)**
-
-Sport Data Exchange Singapore (SportDexSG), is a digital platform that facilitates the sharing of data and insights between sport-ecosystem players in Singapore and beyond.
-
-It is Singapore’s first data exchange that is designed specifically for the sport sector. As the sport sector emerges from the challenges of COVID-19 crisis and navigates the uncertainties in our macro and immediate operating environment, insights and data become more important to help us sense make and sharpen our ability to make policy and business decisions.
-
-SportDexSG will also enable ecosystem partners to collaborate and innovate as they share and apply their data to achieve mutually beneficial goals and build an open innovation culture for the sector together. (To find out more, please go to: [https://go.gov.sg/sportdexsg](http:))  
-
 **Sports Resilience Package**
-
 Working with MCCY, Sport Singapore has implemented support measures that complement the Government’s initiatives (through the Unity, Resilience, Solidarity and Fortitude Budgets) to help individuals and businesses transform and emerge stronger from COVID-19. In October, we announced the roll-out of the $50 million Sports Resilience Package (SRP), which includes $25 million for existing measures, and an additional $25 million for new and enhanced measures. The new measures under the SRP aim to support critical players in our sports ecosystem, preserve core capabilities in athlete pathway and pipeline development, and to catalyse industry to provide innovative sports formats for Singaporeans to continue to stay active during these times. It includes:
 
 *   **Operating Grant:** The Operating Grant will help businesses critical in contributing to the sports ecosystem (such as sport academies and clubs, facilities and league operators) to offset operating costs.
@@ -35,9 +26,9 @@ Following the Multi-Ministry Taskforce’s announcement of the stricter safe man
 *   Mandatory Fast and Easy Testing Regime for the Sport & Fitness Sector
 *   [Coach Development Grant](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/funding/coach-development-grant)
 *   Partnership with the Global Sports Innovation Centre (GSIC) to deliver a calendar of virtual activities
-*   [www.gowhere.gov.sg](https://www.gowhere.gov.sg/) \- One-stop guide to government websites for Covid-19, includes links to gov.sg whatsapp contact, MOH’s updates etc.
-*   [www.supportgowhere.gov.sg](https://www.supportgowhere.gov.sg/) \- One-stop guide to grants, funds and other support packages for individuals (working with MSF, NCSS, etc)
-*   [https://www.gobusiness.gov.sg/](https://www.gobusiness.gov.sg/) \- Resources for business owners to find the assistance to ensure that business activities resume safely 
+*   [GoWhere](https://www.gowhere.gov.sg/) \- One-stop guide to government websites for Covid-19, includes links to gov.sg whatsapp contact, MOH’s updates etc.
+*   [SupportGoWhere](https://www.supportgowhere.gov.sg/) \- One-stop guide to grants, funds and other support packages for individuals (working with MSF, NCSS, etc)
+*   [](https://www.gobusiness.gov.sg/) \- Resources for business owners to find the assistance to ensure that business activities resume safely 
 
 Click [here](https://members.myactivesg.com/feedback) to submit your feedback and suggestions.  
 Alternatively, you can contact us at Tel: 1800 344 1177 during office hours (Mon-Fri: 9.00am-6.00pm).
