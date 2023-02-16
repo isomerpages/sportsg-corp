@@ -28,7 +28,7 @@ Following the Multi-Ministry Taskforce’s announcement of the stricter safe man
 *   Partnership with the Global Sports Innovation Centre (GSIC) to deliver a calendar of virtual activities
 *   [GoWhere](https://www.gowhere.gov.sg/) \- One-stop guide to government websites for Covid-19, includes links to gov.sg whatsapp contact, MOH’s updates etc.
 *   [SupportGoWhere](https://www.supportgowhere.gov.sg/) \- One-stop guide to grants, funds and other support packages for individuals (working with MSF, NCSS, etc)
-*   [](https://www.gobusiness.gov.sg/) \- Resources for business owners to find the assistance to ensure that business activities resume safely 
+*   [GoBusiness Singapore](https://www.gobusiness.gov.sg/) \- Resources for business owners to find the assistance to ensure that business activities resume safely 
 
 Click [here](https://members.myactivesg.com/feedback) to submit your feedback and suggestions.  
 Alternatively, you can contact us at Tel: 1800 344 1177 during office hours (Mon-Fri: 9.00am-6.00pm).
