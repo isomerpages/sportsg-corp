@@ -28,13 +28,13 @@ Requirements to join the NROC are as follows :
 4.  [SG-Coach Level 1 (Technical)](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-technical-programme-accreditation) or NCAP Certificate or its equivalent
 5.  Other supporting documents
 
-<small>Values and Principles in Sport (VPS) or its equivalent<sup>1</sup>: The VPS workshop is a module within the SG-Coach Theory Level 1 course which covers the topics on coaching philosophy, appropriate behaviours of coaches, teaching of values through Game-For-Life framework, information on Ministry of Education’s 21st Century Competencies Framework and Student Outcomes, and introduction to anti-doping. Certificates which are deemed as its equivalent are SG-Coach Theory Level 1 Certificate which includes the VPS module, National Standards in Youth Sports for Coaching in Singapore Schools Certificate and Certificate of Attendance for Building Capacity of Coaches and Instructors (BCCI)’ Workshop.</small>
+<small>The VPS workshop is a module within the SG-Coach Theory Level 1 course which covers the topics on coaching philosophy, appropriate behaviours of coaches, teaching of values through Game-For-Life framework, information on Ministry of Education’s 21st Century Competencies Framework and Student Outcomes, and introduction to anti-doping. Certificates which are deemed as its equivalent are SG-Coach Theory Level 1 Certificate which includes the VPS module, National Standards in Youth Sports for Coaching in Singapore Schools Certificate and Certificate of Attendance for Building Capacity of Coaches and Instructors (BCCI)’ Workshop.</small>
 
-Sport Singapore introduced the provisional membership category from Jan 2017. The provisional membership allows existing and aspiring sport coaches to participate in academic, educational and professional development activities to improve their coaching practice as they work toward completing all requirements of full NROC membership.
+Sport Singapore introduced the provisional membership category in January 2017. The provisional membership allows existing and aspiring sport coaches to participate in academic, educational and professional development activities to improve their coaching practice as they work toward completing all requirements of full NROC membership.
 
-Over a 3-year provisional membership period, they could be given priority enrolment into various coaching courses and activities organised by Sport Singapore, their respective National Sports Association and other organisations. The aim is to prepare them to obtain the necessary certification to become a full member within the NROC and to stay current in the practice of sport coaching as a profession.
+Over a three-year provisional membership period, they could be given priority enrolment into various coaching courses and activities organised by Sport Singapore, their respective National Sports Association and other organisations. The aim is to prepare them to obtain the necessary certification to become a full member within the NROC and to stay current in the practice of sport coaching as a profession.
 
-**NROC New/Renewal Applications** 
+**NROC New/ Renewal Applications** 
 
 More information on NROC new and renewal applications can be found at the following links:
 
@@ -53,14 +53,14 @@ NROC coaches who maintain an Active membership, and who choose to have their pro
 
 *   Employment opportunities in organisations hiring NROC coaches only
 *   Eligible to sign up for [Continuing Coach Education](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/continuing-coach-development/continuing-coaching-education) (CCE) courses for free or at preferential rates
-*   \*Access to online coach profile, membership card and e-logbook (via [SportSync](http://www.sportsync.sg/). Click [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-access-e-card-on-SportSync.ashx?la=en&hash=86898B984CAE6108A0413DDCBAD9185B72B5F3E2) for a mini-guide on e-card, and [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-update-e-logbook-on-SportSync.ashx?la=en&hash=BB782B68F0EAF611CC108653E46063878B5E1166) for e-logbook)
+*   Access* to online coach profile, membership card and e-logbook (via [SportSync](http://www.sportsync.sg/). Click [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-access-e-card-on-SportSync.ashx?la=en&hash=86898B984CAE6108A0413DDCBAD9185B72B5F3E2) for a mini-guide on e-card, and [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-update-e-logbook-on-SportSync.ashx?la=en&hash=BB782B68F0EAF611CC108653E46063878B5E1166) for e-logbook)
 *   Profile available for search on "[Find a Coach](https://www.myactivesg.com/Sports/Find-a-Coach)" - an online database of NROC coaches
 *   Eligible to apply for [Coach Capability Development Grant](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Funding)
 *   Eligible to book [Sports Hub Library seminar rooms](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/usage-of-sports-hub-library) for discussions 
 *   Exclusive invitation to special events (e.g. visiting fellows or renown coaches)
 *   Preferential rate for targeted workshops and courses
 
-\*Please note that NROC has stopped issuing physical membership cards since Apr 2020.
+*Please note that NROC has stopped issuing physical membership cards since April 2020.*
 
 **Benefits For Employers of NROC Coaches**
 
@@ -71,7 +71,7 @@ NROC coaches who maintain an Active membership, and who choose to have their pro
 
 #### **Coaching Certifications**
 
-Sports Providers offering the **NROC Sports** will need to have their instructors/coaches registered under the National Registry of Coaches (NROC). During the two-year endorsement period, instructors/coaches will also be invited to attend clinics, workshops, and conferences as part of the NROC requirement on continuing education (CCE).
+Sports Providers offering the NROC Sports will need to have their instructors/ coaches registered under the National Registry of Coaches (NROC). During the two-year endorsement period, instructors/ coaches will also be invited to attend clinics, workshops, and conferences as part of the NROC requirement on continuing education (CCE).
 
 To register, visit **National Registry of Coaches.** Sports Service Providers are strongly advised to inform your coaches and instructors to obtain regular updates and information from the **National Registry of Coaches.**
 
