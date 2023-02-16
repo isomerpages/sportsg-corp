@@ -32,8 +32,8 @@ Most recently following the Multi-Ministry Taskforce’s announcement of the str
 **Find out more on the [Sports Resilience Package here.](https://circle.myactivesg.com/industry/support/sports-resilience-package?utm_campaign=Sports%20Resilience%20Package&utm_source=sportsg-corp&utm_medium=website)**
 
 **Useful Resources and Links for Industry Partners**
-*   [Advisories from Sport Singapore](https://www.sportsingapore.gov.sg/COVID19/Safe-Management-Measures)
-*   [Mandatory Fast and Easy Testing Regime for the Sport & Fitness Sector](https://www.sportsingapore.gov.sg/COVID19/Fast-and-Easy-Testing-(FET)-Regime)
+*   Advisories from Sport Singapore
+*   Mandatory Fast and Easy Testing Regime for the Sport & Fitness Sector
 *   [Coach Development Grant](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/funding/coach-development-grant)
 *   Partnership with the Global Sports Innovation Centre (GSIC) to deliver a calendar of virtual activities
 *   [www.gowhere.gov.sg](https://www.gowhere.gov.sg/) \- One-stop guide to government websites for Covid-19, includes links to gov.sg whatsapp contact, MOH’s updates etc.
