@@ -48,7 +48,7 @@ Please take note that attendees of the previously offered ‘NSYS for Coaching i
 
 The new VPS workshop is one of the six topics under the Singapore Coach Excellence (SG-Coach) Theory Level One Programme and exemption of attendance from VPS can be sought. You may click [here](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach) to find out more information on the SG-Coach Programmes.
 
-For registration and more information on the VPS workshop, please visit the [VPS page](https://www.sportsingapore.gov.sg/sports-education/values-and-principles-in-sports).
+For registration and more information on the VPS workshop, please visit the [VPS page](/sports-education/value-and-principles-in-sport/).
 
 **4. STANDARD FIRST AID**
 
