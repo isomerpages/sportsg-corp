@@ -10,7 +10,7 @@ description: ""
 {pending content}
 
 **How to access SportSG-ED?**
-<br>Go to: [www.sportsync.sg](https://www.sportsync.sg/App/Login?ReturnUrl=%2fapp)
+<br>Go [to: www.sportsync.sg](https://www.sportsync.sg/App/Login?ReturnUrl=%2fapp)
 
 **How to create an account for SportSG-ED?**
 <br>
