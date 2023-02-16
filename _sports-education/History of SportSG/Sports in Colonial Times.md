@@ -9,10 +9,10 @@ Sports in Singapore can be traced back to the 19th Century, during the colonial 
 
 The Colonials set up sports clubs where they could enjoy their sporting activities and interact with their community. It was a luxury during those times, available only to the privileged few. The locals had few, if any, opportunities to indulge in such activities, preferring to concentrate on making ends meet. The sports clubs were thus established mainly by and for colonials.
 
-With time, the number of Asian immigrants increased and various communal clubs were established to serve their respective communities. Some of these clubs were the Chinese Swimming Club, the Indian Association and the Ceylon Sports Club. These, together with the colonial clubs, played a key role in the development of sports in early Singapore.
+With time, the number of Asian immigrants increased and various communal clubs were established to serve their respective communities. Some of these clubs were the Chinese Swimming Club, the Indian Association and the Ceylon Sports Club. These, together with the colonial clubs, played a key role in developing sports in early Singapore.
 
 **National Sports Associations**
 
-With the growing interest in sports, the British Colonials built a number of public sports facilities during the 1930s to 50s. Mount Emily Swimming Complex, Farrer Park Sports Complex and Yan Kit Swimming Complex are such examples. Some of these facilities have since undergone major changes.
+With the growing interest in sports, the British Colonials built a number of public sports facilities during the 1930s to 50s. Examples include Mount Emily Swimming Complex, Farrer Park Sports Complex and Yan Kit Swimming Complex.
 
 Associations for specific sports were also formed during this time such as the Singapore Rifle Association, Football Association of Singapore and the Singapore Rugby Union. Such sports clubs eventually became the National Sports Associations we know today.
