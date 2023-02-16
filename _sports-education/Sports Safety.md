@@ -16,3 +16,6 @@ Below is a report on the 'OVERVIEW AND RECOMMENDATIONS FOR SPORTS SAFETY IN SING
 done by the Sports Safety Committee.
 
 #### **Committee Report**
+* [Download the 2019 Sports Safety Committee Report](/files/Sport%20Education/Sport%20Safety/2019_Sports_Safety_Committee_Report_30Oct19(4).pdf)
+* [Download the 2015 Sports Safety Committee Report](/files/Sport%20Education/Sport%20Safety/Sports-Safety-Committee-Report-2015.pdf)
+* [Sports_Safety_Committee_26SEPO7.pdf](/files/Sport%20Education/Sport%20Safety/Sports_Safety_Committee_26SEPO7.pdf)
