@@ -15,7 +15,7 @@ We have also brought children day-care centres to Choa Chu Kang and Jurong East 
 
 **Types of Facilities**
 
-Currently, Sport Singapore has a wide range of facilities that cater to an array of sporting needs, island wide:
+Currently, Sport Singapore has a wide range of facilities that cater to an array of sporting needs, islandwide:
 
 Sport Singapore Facilities:
 
@@ -25,7 +25,7 @@ Sport Singapore Facilities:
 *   17 stadiums
 *   18 [indoor sports halls](https://www.myactivesg.com/Facilities?sport=All&q=&type=sports-hall) 
 *   11 [tennis centres](https://www.myactivesg.com/Facilities?sport=tennis)
-*   5 fields/futsal centres 
+*   5 fields/ futsal centres 
 *   5 [squash centres](https://www.myactivesg.com/Facilities?sport=squash&q=&type=All)
 *   3 [hockey centres](https://www.myactivesg.com/Facilities?sport=hockey&q=&type=All)
 *   2 outdoor netball centres
