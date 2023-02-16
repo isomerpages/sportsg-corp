@@ -4,7 +4,7 @@ permalink: /support/athletes-corner/
 description: ""
 ---
 ![](/images/Support/Athlete's%20Corner/Athlete%20corner%20Pic.jpeg)
-The Singapore Sports Institute (SSI) firmly believes in long-term sport and athlete development in Singapore. To help elite athletes reach their highest sporting potential in the international arena, SSI provides a wide range of Spex (Sports Excellence) programmes and support services.
+**The Singapore Sports Institute (SSI)** firmly believes in long-term sport and athlete development in Singapore. To help elite athletes reach their highest sporting potential in the international arena, SSI provides a wide range of Spex (Sports Excellence) programmes and support services.
 
 National Sports Associations (NSAs) can nominate their elite athletes to be carded (categorised) based on their achievements in the assessment period. Carded athletes can then have access to SSI’s customised Spex programmes and support services.
 
