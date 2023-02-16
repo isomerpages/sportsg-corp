@@ -25,4 +25,4 @@ Members of the media and photographers are encouraged to be fair and sensitive, 
 * **Spectators and General Public**  
 We encourage spectators and general public to be respectful in their support for the youth athletes, demonstrating positive behaviour that spur them on.
 * **Corporates and Organisations**  
-Corporates and organisations can be ‘sports-friendly’ employers, supporting staff and their children in their sporting pursuits.
+Corporates and organisations can be 'sports-friendly' employers, supporting staff and their children in their sporting pursuits.
