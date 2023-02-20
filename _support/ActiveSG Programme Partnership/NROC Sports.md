@@ -56,7 +56,7 @@ NROC coaches who maintain an Active membership, and who choose to have their pro
 *   Access* to online coach profile, membership card and e-logbook (via [SportSync](http://www.sportsync.sg/). Click [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-access-e-card-on-SportSync.ashx?la=en&hash=86898B984CAE6108A0413DDCBAD9185B72B5F3E2) for a mini-guide on e-card, and [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-update-e-logbook-on-SportSync.ashx?la=en&hash=BB782B68F0EAF611CC108653E46063878B5E1166) for e-logbook)
 *   Profile available for search on "[Find a Coach](https://www.myactivesg.com/Sports/Find-a-Coach)" - an online database of NROC coaches
 *   Eligible to apply for [Coach Capability Development Grant](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Funding)
-*   Eligible to book *Sports Hub Library seminar rooms* for discussions 
+*   Eligible to book [Sports Hub Library seminar rooms](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/usage-of-sports-hub-library) for discussions 
 *   Exclusive invitation to special events (e.g. visiting fellows or renown coaches)
 *   Preferential rate for targeted workshops and courses
 
