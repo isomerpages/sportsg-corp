@@ -38,8 +38,8 @@ Over a three-year provisional membership period, they could be given priority en
 
 More information on NROC new and renewal applications can be found at the following links:
 
-*   *How to apply for a NEW NROC membership*
-*  *How to RENEW my NROC Membership*
+*   [How to apply for a NEW NROC membership](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/how-to-be-an-nroc-coach)
+*  [How to RENEW my NROC Membership](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/how-to-renew-nroc-membership)
 
 **NROC Upgrade Applications** 
 
