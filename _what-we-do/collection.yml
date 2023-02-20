@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - SpexEducation/Academic Pathways.md
       - SpexEducation/spexEducation Partners.md
       - SpexEducation/.keep
       - Athlete Life Coaching.md
