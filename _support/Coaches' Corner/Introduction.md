@@ -15,4 +15,4 @@ Sport Singapore offers different coach development programmes:
 *   Informal Coaching Programmes: [Continuing Coach Education (CCE) Programmes](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/continuing-coach-development/continuing-coaching-education) which provides informative or practical sessions for accredited coaches in specialised topics. 
     
 
-Besides organising coach development programmes, CoachSG also manages the [](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches)[National Registry of Coaches](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches) (NROC) who are accredited and committed to abide by its Code of Ethics.
+Besides organising coach development programmes, CoachSG also manages the [](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches)[National Registry of Coaches](/support/activesg-programme-partnership/nroc-sports/) (NROC) who are accredited and committed to abide by its Code of Ethics.
