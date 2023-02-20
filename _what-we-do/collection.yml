@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Athlete Life Coaching.md
       - ActiveSG.md
       - Active Health.md
       - Academy and Clubs.md
