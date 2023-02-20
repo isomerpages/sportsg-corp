@@ -23,7 +23,7 @@ Requirements to join the NROC are as follows :
 **Full Membership**
 
 1.  *Valid SFA Certificate*
-2.  *Foundational Sports Science (FSS) Certificate* (exempted for NCAP Theory certificate holder) or its equivalent 
+2.  [Foundational Sports Science (FSS) Certificate](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Singapore-Coach-Excellence-Programme-SG-Coach/Foundational-and-Intermediate-Sports-Science-Courses) (exempted for NCAP Theory certificate holder) or its equivalent 
 3.  *SG-Coach Level 1 (Theory)* including Values & Principles in Sports, or National Coaching Accreditation Programme (NCAP) Certificate or its equivalent
 4. *SG-Coach Level 1 (Technical)* or NCAP Certificate or its equivalent
 5.  Other supporting documents
