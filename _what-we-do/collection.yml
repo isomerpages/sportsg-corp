@@ -2,20 +2,20 @@ collections:
   what-we-do:
     output: true
     order:
-      - SpexEducation/.keep
-      - SpexEducation/spexEducation Partners.md
-      - SpexEducation/Academic Pathways.md
-      - SpexEducation/Athletes Stories.md
-      - Athlete Life Coaching.md
       - ActiveSG.md
       - Active Health.md
       - Academy and Clubs.md
       - Anti Doping Singapore.md
+      - Athlete Life Coaching.md
       - CoachSG.md
       - Active Parents.md
       - Game On Nila.md
       - SportCares.md
       - Singapore Sports Institute.md
+      - SpexEducation/.keep
+      - SpexEducation/spexEducation Partners.md
+      - SpexEducation/Academic Pathways.md
+      - SpexEducation/Athletes Stories.md
       - Team Nila.md
       - Team Singapore.md
       - YouthCreates.md
