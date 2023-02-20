@@ -25,22 +25,17 @@ Accreditation level will depend on evidence of prior learning. To seek NCAP Theo
 
 \*The NCAP Theory accreditation process would take up to 4 weeks.
 
-  
-
 **FITNESS PROGRAMMES**
 
 Fitness providers will be required to submit their certification to indicate that they are qualified to deliver the fitness programmes.  
-  
 
 **NATIONAL STANDARD FOR YOUTH SPORT (NSYS) / VALUES AND PRINCIPLES IN SPORTS (VPS)**
 
 All Sports Service Providers offering programmes for children and youths aged 16 years and below will require their instructors/coaches to complete the National Standard for Youth Sports (NSYS) or Values and Principles in Sports **VPS.** for more information and to register.  
-  
 
 **COACH’S ACKNOWLEDGEMENT FORM**
 
 All Sports Service Providers, with the exception of individuals, have to get their instructor(s)/ coach(es) listed in their submitted programmes to complete the Instructor’s/ Coach’s Acknowledgement Form.
-  
 
 **STANDARD FIRST AID**
 
