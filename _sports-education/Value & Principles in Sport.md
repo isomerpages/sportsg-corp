@@ -15,7 +15,7 @@ The VPS workshop includes the following modules:
 
 *   **Coaching philosophy** – encourages coaches to regularly review their coaching philosophy and update it, if necessary.
 
-*   **Philosophy and values** – intentional design using the [‘Game for Life (GFL)’ framework](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Game-For-Life): discusses the performance, social and moral values defined by the framework, suitable development platforms to utilise the framework and actions required by the coach (Check-Act-Reinforce).
+*   **Philosophy and values** – intentional design using the ['Game for Life (GFL)' framework](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Game-For-Life): discusses the performance, social and moral values defined by the framework, suitable development platforms to utilise the framework and actions required by the coach (Check-Act-Reinforce).
 
 *   **Organisational values for coaches** – elaborates on strategic outcomes of [Vision 2030](/about-us/vision-2030), [National Registry of Coaches’ (NROC) Code of Ethics](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Code-of-Ethics), [National Standards for Youth Sports (NSYS)](https://www.sportsingapore.gov.sg/Sports-Education/National-Standards-For-Youth-Sports) and [Ministry of Education’s (MOE) 21st Century Competencies Framework and Student Outcomes](https://www.moe.gov.sg/education/education-system/21st-century-competencies).
 
