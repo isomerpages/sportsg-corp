@@ -11,3 +11,7 @@ Athlete Life’s mandate focuses on helping athletes to strive towards the pinna
 #### **Objective:**
 
 To implement a comprehensive athlete support system designed to help student-athletes achieve in their sport at the highest possible level without compromising their academic aspirations.
+
+#### **Benefits for the Student-athlete:**
+
+
