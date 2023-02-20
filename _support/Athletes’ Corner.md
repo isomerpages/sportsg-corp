@@ -15,7 +15,7 @@ In addition, all spexCarded athletes are required to apply for a Therapeutic Use
 
 #### **SportSync**
 
-SportSync is a shared data platform that aspires to harness data for ecosystem efficiency and effectiveness for Singapore to excel in international sports by co-creating an all-in-one database platform for all Singaporeans in competitive sports.
+**SportSync** is a shared data platform that aspires to harness data for ecosystem efficiency and effectiveness for Singapore to excel in international sports by co-creating an all-in-one database platform for all Singaporeans in competitive sports.
 
 It features a range of capabilities to serve our sporting fraternity (National Sports Associations, Athletes, Coaches, Sports participants, etc) and enable the collection, organisation, sharing and analysis of data, as well as generation of insights to serve the areas of:
 
@@ -32,4 +32,4 @@ In order for athletes to login to SportSync, they must do the following:
 
 NSA users can login to SportSync, by registering for a SportSync account and logging in with their Corp Pass details.
 
-If you face any technical issues with SportSync, please contact our IT support directly. Appreciate that you can log a case at: [https://www.sportsync.sg/app/Login/Contact](https://www.sportsync.sg/app/Login/Contact) (Please choose "Technical Issues" under the "Category", so that you will be routed to our IT support).
+If you face any technical issues with SportSync, please contact our IT support directly. Appreciate that you can log a case at: [https://www.sportsync.sg/app/Login/Contact](https://www.sportsync.sg/app/Login/Contact) (Please choose "**Technical Issues**" under the "**Category**", so that you will be routed to our IT support).
