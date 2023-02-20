@@ -6,7 +6,6 @@ description: ""
 The Sports Safety Working Committee was formed in the first quarter of 2008 and comprises Sport Singapore and 14 organisations that manage mass sports events and operate sports venues as well as medical institutions. The Committee aims to promote sports safety in Singapore holistically through a multi-year, multi-prong Sports Safety Plan.
 
 In detail, the Sports Safety Working Committee: 
-
 *   Studies implementation issues 
 *   Puts into operation the recommendations of the Sports Safety Committee
 *   Promotes sports safety across different sports
