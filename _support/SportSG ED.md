@@ -5,7 +5,7 @@ description: ""
 ---
 **SportSG-ED** is a robust, dynamic and innovative e-learning platform supporting the learning and development of stakeholders across Singapore’s sport ecosystem, especially for coaches. The portal aims to be a compelling platform for online sport education, and an impetus for coaching excellence and sport knowledge management, that could bring sports professionals and field experts within and together.
 
-### **Why SportSG-ED?**
+#### **Why SportSG-ED?**
 
 * **Trusted Content** – Courses, videos, workshops, reading materials and e-learning content are from subject matter experts in various content areas, verified and exclusively curated by SportSG and our training providers. This is going to be Singapore’s largest selection of sports related learning content online.
 
