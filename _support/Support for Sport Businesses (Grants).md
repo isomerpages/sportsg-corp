@@ -9,7 +9,7 @@ Our sports industry will need to transform to continue to inspire and engage Sin
 
 On 28 May 2021, Sport Singapore updated <br>[the Sport Resilience Package for businesses and SEPs.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/May/SportSG-updates-Sport-Resilience-Package-for-businesses-and-SEPs)
 
-**Sports Resilience Package**
+#### **Sports Resilience Package**
 Working with MCCY, Sport Singapore has implemented support measures that complement the Government’s initiatives (through the Unity, Resilience, Solidarity and Fortitude Budgets) to help individuals and businesses transform and emerge stronger from COVID-19. In October, we announced the roll-out of the $50 million Sports Resilience Package (SRP), which includes $25 million for existing measures, and an additional $25 million for new and enhanced measures. The new measures under the SRP aim to support critical players in our sports ecosystem, preserve core capabilities in athlete pathway and pipeline development, and to catalyse industry to provide innovative sports formats for Singaporeans to continue to stay active during these times. It includes:
 
 *   **Operating Grant:** The Operating Grant will help businesses critical in contributing to the sports ecosystem (such as sport academies and clubs, facilities and league operators) to offset operating costs.
