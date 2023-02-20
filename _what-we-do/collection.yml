@@ -2,10 +2,10 @@ collections:
   what-we-do:
     output: true
     order:
-      - SpexEducation/Athletes Stories.md
-      - SpexEducation/Academic Pathways.md
-      - SpexEducation/spexEducation Partners.md
       - SpexEducation/.keep
+      - SpexEducation/spexEducation Partners.md
+      - SpexEducation/Academic Pathways.md
+      - SpexEducation/Athletes Stories.md
       - Athlete Life Coaching.md
       - ActiveSG.md
       - Active Health.md
