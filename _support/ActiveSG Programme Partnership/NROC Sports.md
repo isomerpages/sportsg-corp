@@ -43,7 +43,7 @@ More information on NROC new and renewal applications can be found at the follow
 
 **NROC Upgrade Applications** 
 
-*  *How to UPGRADE my NROC membership*
+*  [How to UPGRADE my NROC membership](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/National-Registry-of-Coaches/How-to-Upgrade-NROC-Membership)
 
 **Where to find an NROC coach?** 
 
