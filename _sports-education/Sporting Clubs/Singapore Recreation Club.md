@@ -19,7 +19,7 @@ This second pavilion sits on what is now the present site of the SRC; the origin
   
 Rugby was introduced and played in 1938 and while hockey, tennis and football were played to enthusiastic support, cricket remained the lead sport of the club.  
   
-After WW2, a small group of members met on March 1946 to discuss the re-activation of the club and by Sept 1946 activities were revived. A cricket team was formed together with a football team during this period that went on to win the Victory Cup\* in 1948.  
+After World War II, a small group of members met on March 1946 to discuss the re-activation of the club and by September 1946 activities were revived. The cricket and football teams formed during this period went on to win the Victory Cup<sup>*</sup> in 1948.
   
 At a historic meeting held on 11 Feb 1963, SRC members agreed, by an overwhelming majority of votes, to open ordinary membership of the club to all communities within Singapore, effectively ending 80 years of restricted membership based on race.  
   
