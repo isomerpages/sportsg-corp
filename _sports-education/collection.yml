@@ -2,8 +2,6 @@ collections:
   sports-education:
     output: true
     order:
-      - Sports Safety/Introduction.md
-      - Sports Safety/.keep
       - History of SportSG/.keep
       - History of SportSG/Introduction.md
       - History of SportSG/Sports in Colonial Times.md
@@ -25,6 +23,8 @@ collections:
       - Sporting Clubs/Swiss Club.md
       - Sporting Clubs/YMCA.md
       - Sports Leadership.md
+      - Sports Safety/.keep
+      - Sports Safety/Introduction.md
       - Value & Principles in Sport.md
       - Sports Education Programmes.md
       - National Standards for Youth Sports.md
