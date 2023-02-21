@@ -15,9 +15,9 @@ Eventually, the original premises at the Oriental Club was simply not big enough
   
 Four years later, the association’s activities had expanded to a level whereby even Zetland House was no longer large enough to hold. Pringle, indefatigable and tireless in his endeavours, was able to influence the Colonial government through Governor Sir John Anderson and was rewarded by a magnanimous grant of a 999-year lease of a prime site at Orchard Road, where it presently stands today. The building was completed and declared open on 16 February 1911 by Sir John Anderson himself.
   
-The Orchard Road site was later granted as a gift by the government to the YMCA. Close to 8 decades later, in March 1982, the original building was demolished to make way for the present complex.   
+The Orchard Road site was later granted as a gift by the government to the YMCA. Close to eight decades later, in March 1982, the original building was demolished to make way for the present complex.
   
-The YMCA, together with Singapore Swimming Club and the Chinese Swimming Club, met in April 1939 to form the Singapore Amateur Swimming Association(SASA). The swimming fraternity at these clubs realized that for swimmers to improve and compete at both the regional and Olympic games levels, they needed to have an organizing and controlling body – hence they were to come together for the formation of the SASA.   
+The YMCA, together with Singapore Swimming Club and the Chinese Swimming Club, met in April 1939 to form the Singapore Amateur Swimming Association (SASA). The swimming fraternity at these clubs realised that for swimmers to improve and compete at both the regional and Olympic games levels, they needed to have an organising and controlling body – hence the formation of the SASA.
   
 Singapore's Branch of the Royal Life Saving Society (RLSS) was also founded in 1967. The work of the RLSS’s Singapore branch had been closely associated with the YMCA of Singapore. Mr Rowland Lyne, the YMCA’s General Secretary, had been the Singapore representative to the RLSS since 1925. The head office of the newly formed branch of the RLSS was also housed at the YMCA’s main building.
   
