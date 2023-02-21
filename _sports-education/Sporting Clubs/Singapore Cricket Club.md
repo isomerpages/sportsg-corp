@@ -23,8 +23,8 @@ Paralleling the upturn of Singapore’s economy in the 1970s was a sports boom. 
   
 Bolstered by the confidence in numbers and cash flow, the sporting sections were able to embark on major overseas tours. The increasing prestige and stability of the club and country invariably attracted sporting visitors from many corners of the globe.  
   
-The SCC at the Padang still boasts the only cricket square in Singapore today. The rugby section was still running its COLTS XV (mainly drawn from St Joseph Institution's students) and furnishing advice to the Ministry of Education regarding the rules of the sport. In 1974, the SCC rugby section raised $8000 to help send the National Rugby team to Sri Lanka for the Asian Rugby Tournament.  
+The SCC at the Padang still boasts the only cricket square in Singapore today. The rugby section still run its COLTS XV, mainly comprised of St Joseph Institution’s students, and gives advice to the Ministry of Education regarding the rules of the sport. In 1974, the SCC rugby section raised $8,000 to help send the national rugby team to Sri Lanka for the Asian Rugby Tournament.
   
-Historically, it is almost impossible to discuss the SCC in isolation from the Padang ; the emerald crown in which the jewel that is the SCC, is set within.  
+Historically, it is almost impossible to discuss the SCC in isolation from the Padang; the emerald crown in which the jewel that is the SCC is set within.
   
-Indeed, there is much truth in the belief that it was the Padang that was the earliest Singaporean venue for a multitude of various sporting activities, from the early halcyon days of the SCC to the present - cricket, rugby, lawn bowls, football and tennis being just a few of the sporting and recreational activities that have been played here since the 1850‘s.
+The Padang was indeed the first Singaporean venue for a multitude of various sporting activities, from the early halcyon days of the SCC to the present – cricket, rugby, lawn bowls, football and tennis being just a few of the sporting and recreational activities that have been played here since the 1850s.
