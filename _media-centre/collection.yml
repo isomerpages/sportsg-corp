@@ -2,5 +2,4 @@ collections:
   media-centre:
     output: true
     order:
-      - Pressroom.md
       - Media Contact.md
