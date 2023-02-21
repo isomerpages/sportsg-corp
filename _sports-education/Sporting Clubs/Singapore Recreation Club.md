@@ -9,7 +9,7 @@ One of the few sports clubs established during Colonial Times, the **Singapore R
   
 During this era, ethnic community organisations and groups dominated the commercial and social life of colonial Singapore. Amid these circumstances, some 30 members of the Eurasian community met at a building in Waterloo Street on 23 June 1883, laying the foundations for what would later be the SRC. The club functioned from this shophouse until moving to its Padang location in the 1890s.
   
-Cricket was the main sporting activity of the club and the first match reportedly played was between the SRC and the British Royal Artillery on 1 Sep 1883. The then governor, Sir Cecil Clementi Smith in order to provide sporting facilities for the Eurasian community, granted approval for a sports pavilion at the north end of the Padang on 25 March 1884.  
+Cricket was the main sporting activity of the club, and the first match reportedly played was between the SRC and the British Royal Artillery on 1 September 1883. The then governor, Sir Cecil Clementi Smith, in order to provide sporting facilities for the Eurasian community, granted approval for a sports pavilion at the north end of the Padang on 25 March 1884.
   
 The first pavilion was ready in Nov 1885 and the club then recorded 37 registered members. A year later, in 1886, it was decided that the club's colors be Navy blue and Red.  
   
