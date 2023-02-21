@@ -25,5 +25,6 @@ At a historic meeting held on 11 February 1963, the SRC members agreed, by an ov
   
 Spanning 114 years of sporting and cultural heritage, the new SRC clubhouse was opened on 28 June 1997 with a built-in area of 20,500sq m. It has an underground swimming pool, a rock wall for climbing, a bowling centre, a gymnasium and grass courts for tennis.
   
-Ever since its founding in 1883, the SRC has held the distinction of being a club whose principle objective has been the encouragement of sports in Singapore . In spite of its well-known history over the years, the SRC still holds strongly to these sporting ideals today.  
-*The Victory Cup was presented by the Singapore Amateur Football Association to commemorate the wartime victory over Japan*
+Since its founding in 1883, the SRC has held the distinction of being a club whose principal objective has been the encouragement of sports in Singapore. In spite of its well-known history, the SRC still holds strongly to these sporting ideals today.
+
+*The Victory Cup was presented by the Singapore Amateur Football Association to commemorate the wartime victory over Japan.*
