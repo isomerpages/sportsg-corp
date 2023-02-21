@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **‘Game For Life: 25 Journeys’ Synopsis**
+### **'Game For Life: 25 Journeys' Synopsis**
   
 ![Book: Game For Life](/images/Media%20Centre/Publication/books.png)
 The book, 'GAME FOR LIFE: 25 Journeys' chronicles the transformation of 25 ordinary lives made extraordinary through sport. Featuring 25 individuals from diverse backgrounds playing different sports, it aims to inspire readers to play the game of their lives, and in so doing, discover themselves, unleash their true potential and develop their character.  
