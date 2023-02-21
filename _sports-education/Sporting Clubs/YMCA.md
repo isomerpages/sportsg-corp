@@ -21,6 +21,6 @@ The YMCA, together with Singapore Swimming Club and the Chinese Swimming Club, m
   
 Singapore's Branch of the Royal Life Saving Society (RLSS) was also founded in 1967. The work of the RLSS’s Singapore branch had been closely associated with the YMCA of Singapore. Mr Rowland Lyne, the YMCA’s General Secretary, had been the Singapore representative to the RLSS since 1925. The head office of the newly formed branch of the RLSS was also housed at the YMCA’s main building.
   
-During those times, the YMCA was a center for recreation, sports and friendship for many of them – providing for educational classes, recreational programs, swimming, billiards, table tennis, reading rooms. The YMCA's Reading Room was comprehensively stocked with books and magazines from all over the world.   
+During those times, the YMCA was a centre for recreation, sports and friendship for many – providing educational classes, recreational programs, swimming, billiards, table tennis, and reading rooms. The YMCA’s Reading Room was comprehensively stocked with books and magazines from all over the world.
   
 Today, the YMCA has many newly introduced programs and activities for its Youth and members, all geared toward keeping up with a modern and cosmopolitan image befitting of the times. As in its early days, the YMCA has stayed relevant due to its ability to keep up with the times and in many ways, keep ahead of it, providing good clean fun through its social and recreational programs and activities that hold appeal for the (varied) groupings that comprise Singapore 's Youth.
