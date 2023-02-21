@@ -14,3 +14,11 @@ The closure of sports facilities will be based on 24-hour PSI readings.
 * [Haze Poster (Chinese)](/files/Sport%20Education/Sport%20Safety/Haze%20Management/PSI_PM_A4_Poster_Chinese_2019_09_16.pdf)
 * [Haze Poster (Malay)](/files/Sport%20Education/Sport%20Safety/Haze%20Management/PSI_PM_A4_Poster_Malay_2019_09_16.pdf)
 * [Haze Poster (Tamil)](/files/Sport%20Education/Sport%20Safety/Haze%20Management/PSI_PM_A4_Poster_Tamil_2019_09_16.pdf)
+
+
+
+| Zone | Town Centres/Areas |
+| -------- | -------- |
+| North     | Admirality, Kranji, Woodlands, Sembawang, Yishun, Yio Chu Kang, Seletar, Sengkang|
+|South | Holland, Queenstown, Bukit Merah, Telok Blangah, Pasir Panjang, Sentosa, Bukit Timah, Newton, Orchard, City, Marina South|
+
