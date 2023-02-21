@@ -19,7 +19,7 @@ The Orchard Road site was later granted as a gift by the government to the YMCA.
   
 The YMCA, together with Singapore Swimming Club and the Chinese Swimming Club, met in April 1939 to form the Singapore Amateur Swimming Association(SASA). The swimming fraternity at these clubs realized that for swimmers to improve and compete at both the regional and Olympic games levels, they needed to have an organizing and controlling body – hence they were to come together for the formation of the SASA.   
   
-Singapore 's Branch of the Royal Life Saving Society(RLSS) was also founded in 1967. The work of the RLSS's Singapore branch had been closely associated with the YMCA of Singapore. Mr Rowland Lyne, the YMCA's General Secretary, had been the Singapore representative to the RLSS since 1925. The Head office of the newly formed branch of the RLSS was also housed at the YMCA's main building.   
+Singapore's Branch of the Royal Life Saving Society (RLSS) was also founded in 1967. The work of the RLSS’s Singapore branch had been closely associated with the YMCA of Singapore. Mr Rowland Lyne, the YMCA’s General Secretary, had been the Singapore representative to the RLSS since 1925. The head office of the newly formed branch of the RLSS was also housed at the YMCA’s main building.
   
 During those times, the YMCA was a center for recreation, sports and friendship for many of them – providing for educational classes, recreational programs, swimming, billiards, table tennis, reading rooms. The YMCA's Reading Room was comprehensively stocked with books and magazines from all over the world.   
   
