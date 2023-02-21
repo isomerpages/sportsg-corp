@@ -24,3 +24,7 @@ The closure of sports facilities will be based on 24-hour PSI readings.
 | East | Serangoon, Punggol, Hougang, Tampines, Pasir Ris, Loyang, Simei, Kallang, Katong, East Coast, Macpherson, Bedok, Pulau Ubin, Pulau Tekong|
 | West | Lim Chu Kang, Choa Chu Kang, Bukit Panjang, Tuas, Jurong East, Jurong West, Jurong Industrial Estate, Bukit Batok, Hillview, West Coast, Clementi |
 | Central | Thomson, Marymount, Sin Ming, Ang Mo Kio, Bishan, Serangoon Gardens, MacRitchie, Toa Payoh |
+
+For any updates, visit NEA website ([www.nea.gov.sg](https://www.nea.gov.sg/)), MSS website, the haze microsite ([www.haze.gov.sg](https://www.haze.gov.sg/)), mobile apps (myEnv and Weather@SG) orNWA Facebook ([www.facebook.com/NEASingapore](https://www.facebook.com/NEASingapore)) and NEA Twitter (@NEAsg). For information on the distribution of hotspots detected over the past fortnight in the region, please refer to the ASEAN Specialised Meteorological Centre (ASMC) website at [asmc.asean.org.](http://asmc.asean.org/home/)
+
+*Updated as at 19 September 2019*
