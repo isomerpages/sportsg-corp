@@ -2,8 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - Singapore Sports Institute/Athlete Life Coaching.md
-      - Singapore Sports Institute/.keep
       - ActiveSG.md
       - Active Health.md
       - Academy and Clubs.md
@@ -12,6 +10,8 @@ collections:
       - Active Parents.md
       - Game On Nila.md
       - SportCares.md
+      - Singapore Sports Institute/.keep
+      - Singapore Sports Institute/Athlete Life Coaching.md
       - Singapore Sports Institute.md
       - Team Nila.md
       - Team Singapore.md
