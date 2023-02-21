@@ -9,6 +9,8 @@ image: ""
 ### **Reply To Forum Letter In The Straits Times: "Relook Auto 'Opt In' On ActiveSG Site"**
 *In response to a Forum Letter in The Straits Times ("Relook auto ‘opt in’ on ActiveSG site", 5 May 2014):*
 
+**No Auto ‘Opt-In’**
+
 We refer to Mr Sim Eng Cheong’s letter, “Relook auto ‘opt in’ on ActiveSG site” dated 5 May 2014.  
   
 We would like to clarify that there was no automatic ‘opt in’ in the registration process to be an ActiveSG member. The ActiveSG membership management system complies with government rules on data protection, which is consistent with the Personal Data Protection Act.  We respect the wishes of our members who have registered with the "Do Not Call Registry".  
