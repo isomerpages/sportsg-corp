@@ -9,7 +9,7 @@ In response to a request by missionaries and prominent officials, the English Na
   
 Mr R D Pringle led the initiative for the start of the YMCA and officially listed the date of commencement as 30 June 1903, some seven months after his arrival from India.
   
-The Association endeavored in providing facilities for swimming, football, volleyball, cricket and tennis. As early as the 1910s, the grounds were equipped with two fine grass courts for tennis as well as a cricket pitch. During its first 12 months, 180 members were enrolled. Pringle also arranged regular devotional meetings, outdoor physical activities and educational classes.   
+The Association endeavoured in providing facilities for swimming, football, volleyball, cricket and tennis. As early as the 1910s, the grounds were equipped with two fine grass courts for tennis as well as a cricket pitch. During the first 12 months, 180 members were enrolled. Pringle also arranged regular devotional meetings, outdoor physical activities and educational classes.  
   
 Eventually, the original premises at the Oriental Club was simply not big enough to accommodate large numbers. Hence, the YMCA would move its premises to Armenian Street (beside the Armenian Church) at a premise known as Zetland House. Pringle took over the lease of Zetland in Jan 1904, making it the YMCA's headquarters. It offered room and board, a library, recreation rooms, educational classes as well as religious meetings. A football league was also formed shortly after.   
   
