@@ -21,7 +21,7 @@ Rugby was introduced and played in 1938 and while hockey, tennis and football we
   
 After World War II, a small group of members met on March 1946 to discuss the re-activation of the club and by September 1946 activities were revived. The cricket and football teams formed during this period went on to win the Victory Cup<sup>*</sup> in 1948.
   
-At a historic meeting held on 11 Feb 1963, SRC members agreed, by an overwhelming majority of votes, to open ordinary membership of the club to all communities within Singapore, effectively ending 80 years of restricted membership based on race.  
+At a historic meeting held on 11 February 1963, the SRC members agreed, by an overwhelming majority of votes, to open ordinary club membership to all communities within Singapore, effectively ending 80 years of restricted membership based on race.
   
 Spanning 114 years of sporting and cultural heritage, the new SRC clubhouse was opened on 28 June 1997 with a built in area of 20,500sq m. It has an underground swimming pool, a rock-wall for climbing, a bowling centre, a gymnasium and grass courts for tennis.  
   
