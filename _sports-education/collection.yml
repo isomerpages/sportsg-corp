@@ -2,6 +2,7 @@ collections:
   sports-education:
     output: true
     order:
+      - Sport Safety/.keep
       - History of SportSG/.keep
       - History of SportSG/Introduction.md
       - History of SportSG/Sports in Colonial Times.md
