@@ -11,11 +11,11 @@ During this era, ethnic community organisations and groups dominated the commerc
   
 Cricket was the main sporting activity of the club, and the first match reportedly played was between the SRC and the British Royal Artillery on 1 September 1883. The then governor, Sir Cecil Clementi Smith, in order to provide sporting facilities for the Eurasian community, granted approval for a sports pavilion at the north end of the Padang on 25 March 1884.
   
-The first pavilion was ready in Nov 1885 and the club then recorded 37 registered members. A year later, in 1886, it was decided that the club's colors be Navy blue and Red.  
+The first pavilion was ready in November 1885 and the club then recorded 37 registered members. A year later, it was decided that the club’s colours be navy blue and red. 
+
+When membership reached 170 in 1891, plans were made for a larger pavilion. This new clubhouse pavilion was completed on 8 August 1905 and declared open by then Governor Sir J Anderson on 2 September 1905.
   
-When by 1891 membership had reached 170, plans were made for a larger pavilion. This new clubhouse pavilion was completed on 8 Aug 1905 and declared open by then Governor, Sir J Anderson on 2 Sep 1905.  
-  
-This second pavilion sits on what is now the present site of the SRC – the original pavilion structure had remained until 1994 when it was demolished to make way for a brand new clubhouse building.  
+This second pavilion sits on what is now the present site of the SRC; the original pavilion structure remained until 1994 when it was demolished to make way for a brand new clubhouse building.
   
 Rugby was introduced and played in 1938 and while hockey, tennis and football were played to enthusiastic support, cricket remained the lead sport of the club.  
   
