@@ -7,7 +7,7 @@ third_nav_title: Sporting Clubs
 ![YMCA](/images/Sport%20Education/Sporting%20Clubs/YMCA.jpeg)
 In response to a request by missionaries and prominent officials, the English National Council appointed Mr RD Pringle, who had been responsible for the inauguration of the YMCA in both Bombay and Colombo, to undertake a similar task in Singapore.
   
-Mr R D Pringle led the initiative for the start of the YMCA and officially listed date of commencement being 30 June 1903, some 7 months after his arrival from India.  
+Mr R D Pringle led the initiative for the start of the YMCA and officially listed the date of commencement as 30 June 1903, some seven months after his arrival from India.
   
 The Association endeavored in providing facilities for swimming, football, volleyball, cricket and tennis. As early as the 1910s, the grounds were equipped with two fine grass courts for tennis as well as a cricket pitch. During its first 12 months, 180 members were enrolled. Pringle also arranged regular devotional meetings, outdoor physical activities and educational classes.   
   
