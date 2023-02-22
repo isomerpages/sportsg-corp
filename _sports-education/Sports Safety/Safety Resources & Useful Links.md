@@ -39,8 +39,8 @@ Think safe, play safe, stay safe (Part 2)
 * [Heat Disorders Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Heat_Disorders_Prevention_UV_Protection_Guide.pdf)
 * [My Sports Safety Kit Activity Book](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/My_Sports_Safety_Kit_Activity_Book.pdf)
 * [Recreational Diving Safety Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Recreational_Diving_Safety_Guide.pdf)
-* Risk Management in Sport
-* Safe Baseball and Softball Guide [7484 Kb]
+* [Risk Management in Sport](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Risk_Management_In_Sport.pdf)
+* [Safe Baseball and Softball Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_baseball_and_softball_Guide.pdf)
 * [Safe Basketball Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Basketball_Guide_Booklet_Final_24Sep21.pdf)
 * [Safe Cycling Activity Book](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Cycling_Activity_Book.pdf)
 * [Safe Cycling Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_cycling_Web_version_2017.pdf)
@@ -74,7 +74,7 @@ Think safe, play safe, stay safe (Part 2)
 
 *CPR & AED Rescue Tips*
 
-* Basic Cardiac Life Support + Automated External Defibrillator [5200 Kb]
+* [Basic Cardiac Life Support + Automated External Defibrillator](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SRFAC-BCLSAED-and-CPRMTMAED-Manual-2018.pdf)
 * [Chain of Survival](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Chain_of_Survival.pdf)
 * [Bystander 1-Man CPR](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/1-Man_CPR_Steps.pdf)
 * CPR & AED Protocol ![CPR & AED Protocol](/images/Sport%20Education/Sports%20Safety/Resources%20&%20Useful%20Links/CPR_and_AED_Protocol.jpeg)
