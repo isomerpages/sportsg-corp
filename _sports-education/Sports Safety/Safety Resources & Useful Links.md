@@ -36,7 +36,7 @@ Think safe, play safe, stay safe (Part 2)
 * Get Active Questionnaire (CHINESE} [749Kb]
 * Get Active Questionnaire (MALAY) [398Kb]
 * Get Active Questionnaire (TAMIL) [308Kb]
-* Heat Disorders Prevention Guide [3586410 Kb]
+* [Heat Disorders Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Heat_Disorders_Prevention_UV_Protection_Guide.pdf)
 * My Sports Safety Kit Activity Book [2700 Kb]
 * Recreational Diving Safety Guide [2709 Kb]
 * Risk Management in Sport
