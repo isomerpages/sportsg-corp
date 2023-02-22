@@ -18,3 +18,5 @@ Think safe, play safe, stay safe (Part 2)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwJ6CQHS97c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Water Safety Posters**
+<br>
+[Be Safe. Only One Life in this game](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/9125A_Sport_A3x10type%20copy_21Feb19_FINAL.pdf)
