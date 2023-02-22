@@ -63,7 +63,7 @@ Think safe, play safe, stay safe (Part 2)
 * [Sports Rage Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Rage_Prevention_Guide.pdf)
 * [Sports Safe Club Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safe_Club_Guide.pdf)
 * [Sports Safe U Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safe_U_Guide.pdf)
-* Sports Safety FlashCard [5200 Kb]
+* [Sports Safety FlashCard](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/FlashCard_A5BookFA(LR)_FINAL_copy.pdf)
 * Sports Safety Management System Guidebook (Part 1) [1274 Kb]
 * Sports Safety Management System Guidebook (Part 2) [836 Kb]
 * Sports Safety Management System Guidebook (Part 3) [1651 Kb]
