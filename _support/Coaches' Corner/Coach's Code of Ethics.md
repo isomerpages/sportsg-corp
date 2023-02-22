@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Coaches' Corner
 ---
 ![](/images/Support/Coache's%20Corner/athletics2.jpeg)
-
 Ethics refers to the generally accepted norms of right or wrong behaviour, often based on universal values. Ethics is not about legality nor is it meant to be legalistic. One of the attributes of a profession is that the practitioners subscribe to and enforce ethical codes, which will help to demonstrate their commitment to providing quality services and expertise.
 
 Coaches, due to their close interaction with athletes, exposure to the public, and the strong pressure to win, are vulnerable to various forms of ethical issues. If coaching is to be recognised as a profession, it is important that there exists a code of ethics for coaches. 
