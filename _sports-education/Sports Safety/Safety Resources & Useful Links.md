@@ -46,7 +46,7 @@ Think safe, play safe, stay safe (Part 2)
 * [Safe Cycling Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_cycling_Web_version_2017.pdf)
 * [Safe Cycling Guide (Adult)](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SCF_flyers_AdultsLevel1and2.pdf)
 * [Safe Cycling Guide (Kids)](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SCF_flyers_2016_KidsLevel1and2_21March.pdf)
-* Safe Equestrian Guide [6122 Kb]
+* [Safe Equestrian Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Equestrian_Guide.pdf)
 * Safe Football Guide [8505 Kb]
 * Safe Hockey Guide [3000 Kb]
 * Safe Judo Guide [6304 Kb]
