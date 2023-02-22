@@ -24,3 +24,7 @@ Ladies and Gentlemen
 7. We look forward to a fruitful partnership with Rajah & Tann and a memorable 28th SEA Games. Together, let's Celebrate the Extraordinary!
 
 -END-
+
+**Related Link:**
+<br>
+**Press Release** - [Rajah & Tann is Official Legal Partner of the 28th SEA Games 2015](/media-centre/speeches/rajah-and-tann-is-official-legal-partner-of-the-28th-sea-games-2015/)
