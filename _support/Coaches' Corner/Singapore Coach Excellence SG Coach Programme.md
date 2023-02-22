@@ -4,7 +4,6 @@ permalink: /support/coaches-corner/singapore-coach-excellence-sg-coach-programme
 description: ""
 third_nav_title: Coaches' Corner
 ---
-
 ![](/images/Support/Coache's%20Corner/swimming.jpeg)
 The Singapore Coach Excellence (SG-Coach) Programme is an enhanced training and development pathway for all coaches in the community, clubs or high performance sport programmes. The aim is to establish a training and development system to develop high quality and professional coaches. Coaches trained in this programme will gain multi-dimensional skills in the area of sports science, coaching, life skills, evidence-based practices and will be able to promote social values and principles. The SG-Coach Programme replaces the National Coaching Accreditation Programme (NCAP) since 27 March 2015. As all existing NCAP certificates remain valid, obtaining accreditation from NCAP to SG-Coach is NOT required. Coaches will now be able to enrol in required certification courses based on course availability and their interests rather than a prescribed, sequential order. 
 
@@ -14,7 +13,8 @@ The programme consists of 3 progressive phases targeted at various development l
 *   **Theory** – covers the general principles of coaching such as sport pedagogy, fundamental movement skills, sport safety and management, effective communication, Singapore sports eco-system as well as teaching of values and principles 
 *   **Technical** – covers sport-specific considerations such as sport demands, specific training methodologies, techniques, and sport strategies.
 
-The SG-Coach Programme formal education pathway is shown [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/SG-Coach-Programme/SG-Coach-Programme-Formal-Education-Pathway-v2.ashx?la=en&hash=FD372C8AC83DB949291E94C280530E5FED92506D).
+The SG-Coach Programme formal education pathway is shown here
+![](/images/Support/Coache's%20Corner/SG%20Coach%20Programme%20Formal%20Education%20Pathway%20v2.png)
 
 **My 1st Coach Programme** is designed for adults especially parents, equipping them with knowledge and skills to develop FUNdamental movement skills in their children so that they may lead a physically active lifestyle.
 
