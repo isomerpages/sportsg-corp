@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Coaches' Corner
 ---
 ![](/images/Support/Coache's%20Corner/ccejl.jpeg)
-
 Never underestimate the importance of a coach to an athlete. Coaches play a vital role in the development of both athletes and individuals.
 
 The coach is the decisive factor as to whether an athlete has good experiences in sports or quits in frustration. A good coach is one who can communicate effectively with his charges, motivate them, provide leadership, is ethical, has a deep understanding of good sporting principles, constantly seeks to upgrade oneself, and has an aptitude for planning and organization. Sport Singapore seeks to ensure that our athletes are always under the guidance of quality coaches.  
