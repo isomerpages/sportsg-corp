@@ -40,3 +40,105 @@ Chief, ActiveSG<br>
 Sport Singapore
 
 ##### **Members**
+1.  Prof Venkataraman Anantharaman  
+    Senior Consultant, Department of Emergency Medicine,  
+    Singapore General Hospital
+2.  A/Prof Fabian C L Lim  
+    Associate Professor of Exercise Physiology  
+    Principal Investigator, Exercise Physiology Laboratory  
+    Lee Kong Chian School of Medicine  
+    Nanyang Technological University
+3.  Dr Ivy Lim  
+    Associate Consultant, Changi Sports Medicine Centre  
+    Changi General Hospital
+4.  Dr Tong Khim Leng  
+    Chief and Senior Consultant Cardiologist  
+    Changi General Hospital
+5.  Dr Mandy Zhang  
+    Registrar  
+    Changi General Hospital
+6.  Dr Ng Yih Yng  
+    Chief Medical Officer/Director Medical Department  
+    Singapore Civil Defence Force, Ministry of Home Affairs
+7.  Dr Gorny Alexander W  
+    Hd Soldier Performance Centre, HQ Army Medical Services  
+    Singapore Armed Forces
+8.  Ms Delphine Fong  
+    Director, Sports Safety  
+    Sport Singapore
+9.  Ms Chris Koh  
+    Asst Director, Events  
+    Sport Singapore
+10.  Mr Ong Kim Soon  
+    Director, Physical, Sports and Outdoor Education  
+    Ministry of Education
+11.  Mr Loi Pau Khuan  
+    Dy Director  
+    Training, Safety and Audit Branch, Home Academy  
+    Ministry of Home Affairs
+12.  Dr Clive Tan  
+    HQ Medical Corps,  
+    Singapore Armed Forces
+13.  Mr How Kwang Hwee  
+    Chairman,  
+    Police Sports Association
+14.   Mr Goh Cheng Chuan  
+    Dy Director, Community Sports Division  
+    People’s Association 
+15.  Mr Michael Lim  
+    Head and Senior Clinical Exercise Physiologist  
+    Sports Medicine Program,  
+    KK Hospital  
+16.  Dr Ang Seng Bin  
+    Head of Family Medicine Service  
+    KK Hospital 
+17.  Dr Cheah Si Oon  
+    Consultant, Emergency Medicine  
+    Ng Teng Fong General Hospital
+18.  Dr Lim Ang Tee  
+    Registrar, Sports Medicine  
+    Changi General Hospital
+19.  A/Prof Jason Lee Kai Wei  
+    Head, Human Performance Laboratory  
+    Defence Medical & Environmental Research Institute  
+    DSO National Laboratories 
+20.  Dr Marian Wang  
+    Senior Consultant Forensic Pathologist  
+    Forensic Medicine Division,  
+    Health Sciences Authority
+21.  Dr Joanna Chan Shi En  
+    Senior Resident, SGH Emergency Medicine  
+    Ministry of Health Holding
+22.  Mr Han Kok Teng  
+    Manager  
+    Manager, Health Screening and Management, Regional Health & Community  
+    Outreach Division  
+    Health Promotion Board
+
+23.  Dr Arif Tyebally  
+    Dy Head & Consultant,  
+    Emergency Medical Department,  
+    KKH 
+24.  Mr Paul Fong  
+    Executive Director,  
+    International Waterski and Wakeboard Federation 
+25.  Mr Richard Tan  
+    President  
+    Singapore Lifesaving Society 
+26.  Mr Noorazman Noorain  
+    Principal Engineer, Reservoir Management Division  
+    Catchment and Waterways Department  
+    Public Utilities Board 
+27.  Mr Lam Yan Hoe  
+    Dy Director, Parks/Lifestyle Business  
+    National Parks Board  
+28.  Mr Yum Shoen Kang  
+    Senior Assistant Director, Sports and Recreation Centre,  
+    Nanyang Technological University 
+29.  Mr Edwin Ker  
+    Executive Director  
+    Singapore Swimming Association
+30.  Mr Julian Ong  
+    Senior Manager, Beach Operations,  
+    Sentosa Resilience, Island Operations,  
+    Sentosa Development Corporation
