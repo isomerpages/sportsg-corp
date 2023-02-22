@@ -42,12 +42,12 @@ Email: [ronald@catherineong.com](mailto:ronald@catherineong.com)
 
 **SINGSOC**
 
-Gerald Leong       
-Public Relations & Strategic Communications                                 
+**Gerald Leong** - Public Relations & Strategic Communications                                 
 SINGSOC           
 Mobile: +65 9298 2670     
-Email: [gerald_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)            Rachel Ang  
-Public Relations & Strategic Communications  
+Email: [gerald_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)            
+
+**Rachel Ang** - Public Relations & Strategic Communications  
 SINGSOC  
 Tel: +65 65005217  
 Mobile: +65 97293700  
