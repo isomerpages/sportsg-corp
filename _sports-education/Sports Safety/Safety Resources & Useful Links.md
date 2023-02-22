@@ -77,13 +77,12 @@ Think safe, play safe, stay safe (Part 2)
 * Basic Cardiac Life Support + Automated External Defibrillator [5200 Kb]
 * [Chain of Survival](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Chain_of_Survival.pdf)
 * [Bystander 1-Man CPR](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/1-Man_CPR_Steps.pdf)
-* CPR & AED Protocol [365 Kb]
-
+* CPR & AED Protocol ![CPR & AED Protocol](/images/Sport%20Education/Sports%20Safety/Resources%20&%20Useful%20Links/CPR_and_AED_Protocol.jpeg)
 
 *Triathlon Safety Tips*
 
-* Triathlon Safety Tips.doc [35 Kb]
-* 7 Steps to Survive a Triathlon.pdf [106 Kb]
+* [Triathlon Safety Tips](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Triathlon_Safety_Tips.pdf)
+* [7 Steps to Survive a Triathlon](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/7_Steps_to_Survive_a_Triathlon.pdf)
 
 
 *Simple Guide to Risk Assessment Management in Sports*
