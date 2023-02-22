@@ -21,3 +21,5 @@ image: ""
 6\. The Make-a-NILA programme will require over 4,500 creatively designed NILAs which will be presented to athletes at the victory ceremonies at the 28th SEA Games. Over the next few months, members of the public can look forward to additional Make-a-NILA roadshows which will be conducted at ActiveSG Sport Centres, shopping malls, and selected NTUC FairPrice outlets. 
 
 7\. The first Make-a-NILA roadshow was held today at the Sports Hub Kallang Wave Mall from 12pm to 8pm and will continue on Sunday from 12pm to 8pm. The next roadshow will be on 13 December (Saturday) at Sengkang Sports Centre from 3pm - 7pm.
+
+8\. Details on subsequent roadshows can be found at [www.seagames2015.com](http://www.seagames2015.com/).
