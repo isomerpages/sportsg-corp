@@ -38,14 +38,14 @@ Think safe, play safe, stay safe (Part 2)
 * Get Active Questionnaire (TAMIL) [308Kb]
 * [Heat Disorders Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Heat_Disorders_Prevention_UV_Protection_Guide.pdf)
 * [My Sports Safety Kit Activity Book](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/My_Sports_Safety_Kit_Activity_Book.pdf)
-* Recreational Diving Safety Guide [2709 Kb]
+* [Recreational Diving Safety Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Recreational_Diving_Safety_Guide.pdf)
 * Risk Management in Sport
 * Safe Baseball and Softball Guide [7484 Kb]
-* Safe Basketball Guide
-* Safe Cycling Activity Book [9034 Kb]
-* Safe Cycling Guide [652Kb]
-* Safe Cycling Guide (Adult) [237Kb]
-* Safe Cycling Guide (Kids) [521Kb]
+* [Safe Basketball Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Basketball_Guide_Booklet_Final_24Sep21.pdf)
+* [Safe Cycling Activity Book](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Cycling_Activity_Book.pdf)
+* [Safe Cycling Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_cycling_Web_version_2017.pdf)
+* [Safe Cycling Guide (Adult)](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SCF_flyers_AdultsLevel1and2.pdf)
+* [Safe Cycling Guide (Kids)](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SCF_flyers_2016_KidsLevel1and2_21March.pdf)
 * Safe Equestrian Guide [6122 Kb]
 * Safe Football Guide [8505 Kb]
 * Safe Hockey Guide [3000 Kb]
