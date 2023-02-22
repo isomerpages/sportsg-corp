@@ -20,3 +20,7 @@ Think safe, play safe, stay safe (Part 2)
 **Water Safety Posters**
 <br>
 [Be Safe. Only One Life in this game](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/9125A_Sport_A3x10type%20copy_21Feb19_FINAL.pdf)
+
+**Water Safety Brochures**
+<br>
+[Be Safe. Safety first at swimming pool](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SportSG_Be_Safe_Swimming_Brochure_FA2_HR100918.pdf)
