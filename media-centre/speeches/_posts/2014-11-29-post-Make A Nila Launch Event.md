@@ -35,7 +35,3 @@ Good afternoon to all of you, and a warm welcome to the official launch of the M
 9. Thank you.
 
 -END-
-
-**Related Link:**
-<br>
-**Press Release**: [Make-A-Nila for the 28th SEA Games Medallists](/media-centre/speeches/make-a-nila-for-the-28th-sea-games-medallists/)
