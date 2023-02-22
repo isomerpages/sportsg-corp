@@ -37,7 +37,7 @@ Think safe, play safe, stay safe (Part 2)
 * Get Active Questionnaire (MALAY) [398Kb]
 * Get Active Questionnaire (TAMIL) [308Kb]
 * [Heat Disorders Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Heat_Disorders_Prevention_UV_Protection_Guide.pdf)
-* My Sports Safety Kit Activity Book [2700 Kb]
+* [My Sports Safety Kit Activity Book](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/My_Sports_Safety_Kit_Activity_Book.pdf)
 * Recreational Diving Safety Guide [2709 Kb]
 * Risk Management in Sport
 * Safe Baseball and Softball Guide [7484 Kb]
