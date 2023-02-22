@@ -84,8 +84,7 @@ Think safe, play safe, stay safe (Part 2)
 * [Triathlon Safety Tips](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Triathlon_Safety_Tips.pdf)
 * [7 Steps to Survive a Triathlon](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/7_Steps_to_Survive_a_Triathlon.pdf)
 
-
 *Simple Guide to Risk Assessment Management in Sports*
 
-* SAFETY RISK ASSESSMENT MANAGEMENT IN SPORTS.pdf [35 Kb]
-* Rottnest Risk Management Plan07.pdf [255 Kb]
+* [SAFETY RISK ASSESSMENT MANAGEMENT IN SPORTS](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SAFETY_RISK_ASSESSMENT_MANAGEMENT_IN_SPORTS.pdf)
+* [Rottnest Risk Management Plan07](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Rottnest_Risk_Management_Plan07.pdf)
