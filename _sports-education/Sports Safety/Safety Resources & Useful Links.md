@@ -53,7 +53,7 @@ Think safe, play safe, stay safe (Part 2)
 * [Safe Muaythai Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/10803G_SSC_MuayThai%20Guide_19Mar20_425pm_FINAL%20copy.pdf)
 * [Safe Rugby Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Rugby_Guide.pdf)
 * Safe Running Guide [6725 Kb]
-* Safe Sailing Guide [352 Kb]
+* [Safe Sailing Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Sailing_Guide.pdf)
 * Safe Sport Climbing Guide (18mb)
 * Safe TaeKwonDo Guide [1900Kb]
 * Safe Ultimate Frisbee Guide [728KB]
