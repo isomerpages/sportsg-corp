@@ -12,7 +12,6 @@ Coaches' Day is an initiative of Sport Singapore which aims to raise the level o
 
 We encourage Singaporeans to express their appreciation to their coaches in their own special way.
 
-
 **Coaches' Day 2022**
 
 Join us at this year Coaches' Day celebration! Our theme this year is "My Kampung", where we look at traditional kampung games being reimagined and played differently. It will be a morning full of nostalgic fun and activities! An _exclusive_ CoachSG door gift will be given to every coach and there are $500 worth of prizes to be won!
