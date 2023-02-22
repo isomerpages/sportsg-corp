@@ -7,11 +7,8 @@ description: ""
 image: ""
 ---
 Mr Lawrence Wong, Minister for Culture, Community and Youth
-
 Mr Ng Ser Miang, Executive Committee Member, IOC  
-   
 Richard Seow, Chairman, Sport Singapore 
-
 Our Partners, Sports Hub Pte Ltd
 
 Distinguished Guests,
