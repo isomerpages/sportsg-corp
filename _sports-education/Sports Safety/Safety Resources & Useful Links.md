@@ -51,7 +51,7 @@ Think safe, play safe, stay safe (Part 2)
 * [Safe Hockey Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SHF_Health_Safety_Guide_9th_Feb_2021.pdf)
 * [Safe Judo Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Judo_Guide.pdf)
 * [Safe Muaythai Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/10803G_SSC_MuayThai%20Guide_19Mar20_425pm_FINAL%20copy.pdf)
-* Safe Rugby Guide [7580 Kb]
+* [Safe Rugby Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Rugby_Guide.pdf)
 * Safe Running Guide [6725 Kb]
 * Safe Sailing Guide [352 Kb]
 * Safe Sport Climbing Guide (18mb)
