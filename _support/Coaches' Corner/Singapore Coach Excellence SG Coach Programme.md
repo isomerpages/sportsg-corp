@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Coaches' Corner
 ---
 ![](/images/Support/Coache's%20Corner/swimming.jpeg)
-
 The Singapore Coach Excellence (SG-Coach) Programme is an enhanced training and development pathway for all coaches in the community, clubs or high performance sport programmes. The aim is to establish a training and development system to develop high quality and professional coaches. Coaches trained in this programme will gain multi-dimensional skills in the area of sports science, coaching, life skills, evidence-based practices and will be able to promote social values and principles. The SG-Coach Programme replaces the National Coaching Accreditation Programme (NCAP) since 27 March 2015. As all existing NCAP certificates remain valid, obtaining accreditation from NCAP to SG-Coach is NOT required. Coaches will now be able to enrol in required certification courses based on course availability and their interests rather than a prescribed, sequential order. 
 
 The programme consists of 3 progressive phases targeted at various development levels (Community SG-Coach, Foundation SG-Coach Development and Master / Specialist SG-Coach) with 3 main components. These 3 components are:
