@@ -75,8 +75,8 @@ Think safe, play safe, stay safe (Part 2)
 *CPR & AED Rescue Tips*
 
 * Basic Cardiac Life Support + Automated External Defibrillator [5200 Kb]
-* Chain of Survival [145 Kb]
-* Bystander 1-Man CPR [88 Kb]
+* [Chain of Survival](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Chain_of_Survival.pdf)
+* [Bystander 1-Man CPR](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/1-Man_CPR_Steps.pdf)
 * CPR & AED Protocol [365 Kb]
 
 
