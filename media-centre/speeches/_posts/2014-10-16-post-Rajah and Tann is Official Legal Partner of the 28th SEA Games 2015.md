@@ -20,11 +20,11 @@ image: ""
 
 7\. Rajah & Tann Singapore is part of Rajah & Tann Asia, Southeast Asia’s largest legal services provider with more than 500 lawyers from nine offices in the region with eight in Southeast Asia that include Cambodia, Indonesia, Laos, Malaysia, Myanmar, Singapore, Thailand and Vietnam.
 
-\-END-
+-END-
 
-[Click here for biographies of athletes.](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/News-and-Updates/Media-Releases/2014/October/Annex-Biographies-of-Athletes.ashx?la=en&hash=102C1940EBECE86154686E8C9E84F3AC7E21304E)
+[Click here for biographies of athletes.](/files/Media%20Centre/Media%20Release/2014/Oct/Annex_Biographies_of_Athletes.pdf)
 
-**Related Link**: [Speech by Mr Toh Boon Yi, , Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](http://www.sportsingapore.gov.sg/newsroom/speeches/2014/10/speech-by-mr-toh-boon-yi-chief-of-cco-singsoc-for-rajah-and-tann-singapore-sponsorship-announcement)
+**Related Link**: [Speech by Mr Toh Boon Yi, , Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
 
 **For media queries, please contact:**
 
@@ -46,12 +46,12 @@ Gerald Leong     
 Public Relations & Strategic Communications                                 
 SINGSOC           
 Mobile: +65 9298 2670     
-Email: [gerald\_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)            Rachel Ang  
+Email: [gerald_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)            Rachel Ang  
 Public Relations & Strategic Communications  
 SINGSOC  
 Tel: +65 65005217  
 Mobile: +65 97293700  
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)  
+Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)  
 
 **About Rajah & Tann Asia**  
 Rajah & Tann Asia brings together leading law firms and lawyers in Cambodia, China, Indonesia, Lao PDR, Malaysia, Myanmar, Singapore, Thailand and Vietnam, with each offering the highest standards of service to locally-based clients while collectively having the capacity to handle the most complex regional and cross-border transactions and to provide excellent legal counsel seamlessly across the region. With more than 500 lawyers, all working towards one shared goal, we are lawyers who know Asia and who give our clients home advantage.
