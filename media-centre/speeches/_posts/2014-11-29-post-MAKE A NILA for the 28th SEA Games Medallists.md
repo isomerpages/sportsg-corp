@@ -26,21 +26,21 @@ image: ""
 
 **For media enquiries, please contact:**
 
-Rachel Ang  
+**Rachel Ang**  
 Senior Executive, Public Relations & Strategic Communications  
 Community & Corporate Outreach, SINGSOC  
 Tel: +65 6500 5245  
 HP: +65 9729 3700  
 Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
-S. Parameswaran  
+**S. Parameswaran**  
 Assistant Director, Public Relations & Strategic Communications  
 Community & Corporate Outreach, SINGSOC  
 Tel: +65 6500 5236  
 HP: +65 9839 1974  
 Email: [parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
 
-Winston Ng  
+**Winston Ng**  
 Manager, Corporate Communications  
 NTUC Fairprice Co-operative Ltd  
 Tel: 6424 7895  
