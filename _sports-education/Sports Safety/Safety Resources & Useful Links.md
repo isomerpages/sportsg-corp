@@ -57,7 +57,7 @@ Think safe, play safe, stay safe (Part 2)
 * [Safe Sport Climbing Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sport_Climbing_Guide_Final_31_Mar_22.pdf)
 * [Safe TaeKwonDo Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Taekwondo_Guide.pdf)
 * [Safe Ultimate Frisbee Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Ultimate_Frisbee_Guide.pdf)
-* Safe Waterskiing And Wakeboarding Guide [3476 Kb]
+* [Safe Waterskiing And Wakeboarding Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Waterskiing_And_Wakeboarding_Guide.pdf)
 * Safe Wushu Guide [1129658 KB]
 * Safety Guidelines for Children and Young People in
 * Sport and Recreation [5908 Kb] 
