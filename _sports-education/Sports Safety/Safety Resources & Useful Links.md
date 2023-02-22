@@ -30,4 +30,64 @@ Think safe, play safe, stay safe (Part 2)
 * [SportSG-FA](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SportSG-FA.pdf)
 
 **Sports Safety Guidebooks**
-* 
+* Be A Sport Safety Champ [7100Kb]
+* Concussion in Sport [2200 Kb]
+* Get Active Questionnaire (ENGLISH} [239Kb]
+* Get Active Questionnaire (CHINESE} [749Kb]
+* Get Active Questionnaire (MALAY) [398Kb]
+* Get Active Questionnaire (TAMIL) [308Kb]
+* Heat Disorders Prevention Guide [3586410 Kb]
+* My Sports Safety Kit Activity Book [2700 Kb]
+* Recreational Diving Safety Guide [2709 Kb]
+* Risk Management in Sport
+* Safe Baseball and Softball Guide [7484 Kb]
+* Safe Basketball Guide
+* Safe Cycling Activity Book [9034 Kb]
+* Safe Cycling Guide [652Kb]
+* Safe Cycling Guide (Adult) [237Kb]
+* Safe Cycling Guide (Kids) [521Kb]
+* Safe Equestrian Guide [6122 Kb]
+* Safe Football Guide [8505 Kb]
+* Safe Hockey Guide [3000 Kb]
+* Safe Judo Guide [6304 Kb]
+* Safe Muaythai Guide[1600Kb]
+* Safe Rugby Guide [7580 Kb]
+* Safe Running Guide [6725 Kb]
+* Safe Sailing Guide [352 Kb]
+* Safe Sport Climbing Guide (18mb)
+* Safe TaeKwonDo Guide [1900Kb]
+* Safe Ultimate Frisbee Guide [728KB]
+* Safe Waterskiing And Wakeboarding Guide [3476 Kb]
+* Safe Wushu Guide [1129658 KB]
+* Safety Guidelines for Children and Young People in
+* Sport and Recreation [5908 Kb] 
+* Sports Rage Prevention Guide [1278 Kb]
+* Sports Safe Club Guide [889 Kb]
+* Sports Safe U Guide [1120 Kb]
+* Sports Safety FlashCard [5200 Kb]
+* Sports Safety Management System Guidebook (Part 1) [1274 Kb]
+* Sports Safety Management System Guidebook (Part 2) [836 Kb]
+* Sports Safety Management System Guidebook (Part 3) [1651 Kb]
+* Sports Safety Tips For Competitive Sports [3979 Kb]
+* Water Surveillance Guide [14269 Kb]
+
+**Injury Prevention & Safety Tips**
+
+*CPR & AED Rescue Tips*
+
+* Basic Cardiac Life Support + Automated External Defibrillator [5200 Kb]
+* Chain of Survival [145 Kb]
+* Bystander 1-Man CPR [88 Kb]
+* CPR & AED Protocol [365 Kb]
+
+
+*Triathlon Safety Tips*
+
+* Triathlon Safety Tips.doc [35 Kb]
+* 7 Steps to Survive a Triathlon.pdf [106 Kb]
+
+
+*Simple Guide to Risk Assessment Management in Sports*
+
+* SAFETY RISK ASSESSMENT MANAGEMENT IN SPORTS.pdf [35 Kb]
+* Rottnest Risk Management Plan07.pdf [255 Kb]
