@@ -61,8 +61,8 @@ Think safe, play safe, stay safe (Part 2)
 * [Safe Wushu Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safe_Wushu_Guide.pdf)
 * [Safety Guidelines for Children and Young People in Sport and Recreation](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Safety_Guidelines_For_Children_Young_People.pdf) 
 * [Sports Rage Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Rage_Prevention_Guide.pdf)
-* Sports Safe Club Guide [889 Kb]
-* Sports Safe U Guide [1120 Kb]
+* [Sports Safe Club Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safe_Club_Guide.pdf)
+* [Sports Safe U Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safe_U_Guide.pdf)
 * Sports Safety FlashCard [5200 Kb]
 * Sports Safety Management System Guidebook (Part 1) [1274 Kb]
 * Sports Safety Management System Guidebook (Part 2) [836 Kb]
