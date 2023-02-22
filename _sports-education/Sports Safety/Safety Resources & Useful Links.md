@@ -18,9 +18,11 @@ Think safe, play safe, stay safe (Part 2)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwJ6CQHS97c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Water Safety Posters**
-<br>
-[Be Safe. Only One Life in this game](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/9125A_Sport_A3x10type%20copy_21Feb19_FINAL.pdf)
+* [Be Safe. Only One Life in this game](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/9125A_Sport_A3x10type%20copy_21Feb19_FINAL.pdf)
 
 **Water Safety Brochures**
-<br>
-[Be Safe. Safety first at swimming pool](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SportSG_Be_Safe_Swimming_Brochure_FA2_HR100918.pdf)
+* [Be Safe. Safety first at swimming pool](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SportSG_Be_Safe_Swimming_Brochure_FA2_HR100918.pdf)
+
+**Sports Safety Training Programme**
+* [How to use Get Active Questionnaire](https://www.udemy.com/course/how-to-use-get-active-questionnaire-by-sportsg/)
+* [Training programme on sports safety and risk assessment](https://www.udemy.com/course/sports-safety-risk-management/)
