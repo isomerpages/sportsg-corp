@@ -64,11 +64,11 @@ Think safe, play safe, stay safe (Part 2)
 * [Sports Safe Club Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safe_Club_Guide.pdf)
 * [Sports Safe U Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safe_U_Guide.pdf)
 * [Sports Safety FlashCard](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/FlashCard_A5BookFA(LR)_FINAL_copy.pdf)
-* Sports Safety Management System Guidebook (Part 1) [1274 Kb]
-* Sports Safety Management System Guidebook (Part 2) [836 Kb]
-* Sports Safety Management System Guidebook (Part 3) [1651 Kb]
-* Sports Safety Tips For Competitive Sports [3979 Kb]
-* Water Surveillance Guide [14269 Kb]
+* [Sports Safety Management System Guidebook (Part 1)](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safety_Management_P1.pdf)
+* [Sports Safety Management System Guidebook (Part 2) ](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safety_Management_P2.pdf)
+* [Sports Safety Management System Guidebook (Part 3)](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safety_Management_P3.pdf)
+* [Sports Safety Tips For Competitive Sports](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Sports_Safety_Tips_For_Competitive_Sports.pdf)
+* [Water Surveillance Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Water_Surveillance_Guide.pdf)
 
 **Injury Prevention & Safety Tips**
 
