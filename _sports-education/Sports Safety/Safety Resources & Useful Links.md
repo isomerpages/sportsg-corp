@@ -30,8 +30,8 @@ Think safe, play safe, stay safe (Part 2)
 * [SportSG-FA](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SportSG-FA.pdf)
 
 **Sports Safety Guidebooks**
-* Be A Sport Safety Champ [7100Kb]
-* Concussion in Sport [2200 Kb]
+* [Be A Sport Safety Champ](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/BE_A_SPORTS_SAFETY_CHAMP.pdf)
+* 
 * Get Active Questionnaire (ENGLISH} [239Kb]
 * Get Active Questionnaire (CHINESE} [749Kb]
 * Get Active Questionnaire (MALAY) [398Kb]
