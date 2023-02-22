@@ -7,3 +7,4 @@ third_nav_title: Sports Safety
 To ensure public safety, Sport Singapore has put the following mandates in place for all public swimming pools: 
 
 * Environmental Public Health (Swimming Pools) Regulations, Reg 10
+* Circular for Swimming Pool Owners
