@@ -24,6 +24,10 @@ image: ""
 
 8\. Details on subsequent roadshows can be found at [www.seagames2015.com](http://www.seagames2015.com/).
 
+-END-
+
+**Related Link**: [Opening Remarks By Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOC at Make-A-Nila Launch Event](/media-centre/speeches/make-a-nila-launch-event/)
+
 **For media enquiries, please contact:**
 
 **Rachel Ang**  
