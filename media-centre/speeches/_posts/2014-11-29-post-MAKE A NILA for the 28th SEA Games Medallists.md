@@ -31,7 +31,7 @@ Senior Executive, Public Relations & Strategic Communications
 Community & Corporate Outreach, SINGSOC  
 Tel: +65 6500 5245  
 HP: +65 9729 3700  
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
 **S. Parameswaran**  
 Assistant Director, Public Relations & Strategic Communications  
