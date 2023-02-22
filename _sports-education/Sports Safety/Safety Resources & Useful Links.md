@@ -27,3 +27,7 @@ Think safe, play safe, stay safe (Part 2)
 * [How to use Get Active Questionnaire](https://www.udemy.com/course/how-to-use-get-active-questionnaire-by-sportsg/)
 * [Training programme on sports safety and risk assessment](https://www.udemy.com/course/sports-safety-risk-management/)
 * [Get Active Questionanaire](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/11079H_594x841mm_Poster_27Apr20_5pm_FINAL.pdf)
+* [SportSG-FA](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SportSG-FA.pdf)
+
+**Sports Safety Guidebooks**
+* 
