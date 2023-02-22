@@ -44,4 +44,4 @@ Winston Ng
 Manager, Corporate Communications  
 NTUC Fairprice Co-operative Ltd  
 Tel: 6424 7895  
-Email: [Winston.ng@fairprice.com.sg](mailto:Winston.ng@fairprice.com.sg)
+Email: [winston.ng@fairprice.com.sg](mailto:winston.ng@fairprice.com.sg)
