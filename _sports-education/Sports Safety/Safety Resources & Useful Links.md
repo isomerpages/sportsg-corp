@@ -32,10 +32,6 @@ Think safe, play safe, stay safe (Part 2)
 **Sports Safety Guidebooks**
 * [Be A Sport Safety Champ](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/BE_A_SPORTS_SAFETY_CHAMP.pdf)
 * [Concussion in Sport](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SSC_Concussion_Guide_2019_0810B_FINAL.pdf)
-* Get Active Questionnaire (ENGLISH} [239Kb]
-* Get Active Questionnaire (CHINESE} [749Kb]
-* Get Active Questionnaire (MALAY) [398Kb]
-* Get Active Questionnaire (TAMIL) [308Kb]
 * [Heat Disorders Prevention Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Heat_Disorders_Prevention_UV_Protection_Guide.pdf)
 * [My Sports Safety Kit Activity Book](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/My_Sports_Safety_Kit_Activity_Book.pdf)
 * [Recreational Diving Safety Guide](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Recreational_Diving_Safety_Guide.pdf)
