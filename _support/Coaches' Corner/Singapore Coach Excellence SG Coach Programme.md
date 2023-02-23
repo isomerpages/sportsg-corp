@@ -26,4 +26,4 @@ The SG-Coach Programme formal education pathway is shown here
 
 **SG-Coach Level Three**. The individual would need to possess knowledge in sports science to apply evidence-based coaching. They would be trained in multi-year periodisation planning, advanced sport analyses and training methodologies, performance tracking and analyses, international competition systems, and sports science applications. A significant portion of the module will be taught through workshops, facilitation and mentorships with a National Coach. At this level, coaches may also opt to specialise in 1 or more of these 3 areas: (1) community sport; (2) performance sport and / or (3) para sport.
 
-For further queries on the pathway, please e-mail Sport_Coaching@sport.gov.sg
+For further queries on the pathway, please e-mail sport_coaching@sport.gov.sg
