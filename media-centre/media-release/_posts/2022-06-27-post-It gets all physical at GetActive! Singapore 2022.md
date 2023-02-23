@@ -36,4 +36,4 @@ What’s on offer at GetActive! Singapore 2022
   
 12\. SportSG is thrilled to organise the seventh edition of GetActive! Singapore. There will be events for everyone. For more information on any event or to review the line-up of GASG events, please visit: [https://circle.myactivesg.com/getactive-singapore](https://circle.myactivesg.com/getactive-singapore).   
   
-More details of events in GASG 2022 can be found in the [Annex](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/News-and-Updates/Media-Releases/2022/June-2022/Media-Release---It-all-gets-physical-at-GetActive!-Singapore-2022---27-June-(updated-29-June).ashx?la=en&hash=E37255B570D7DF49DC425F4A922D7892891F18BB).
+More details of events in GASG 2022 can be found in the [Annex](/files/Media%20Centre/Media%20Release/2022/Media%20Release%20-%20It%20all%20gets%20physical%20at%20GetActive!%20Singapore%202022%20-%2027%20June%20(updated%2029%20June).pdf).
