@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - ActiveSG Staff Development.md
       - Vision 2030.md
       - Our Logo.md
       - Values & Mission/.keep
@@ -16,3 +15,4 @@ collections:
       - Management/Board Members.md
       - Management/Senior Management.md
       - Sports Participation in Singapore.md
+      - ActiveSG Staff Development.md
