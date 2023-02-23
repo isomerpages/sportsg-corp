@@ -3,6 +3,7 @@ title: Covid19
 permalink: /support/covid-19/
 description: ""
 ---
+![](/images/Support/Covid%2019/covid19-support.jpeg)
 CoachSG hopes that all of you are safe and well. We understand that the current COVID-19 situation may have impacted your livelihood. During this lull period where there is a reduction in activities, we would like to encourage you to sign up for training to deepen and/or acquire new competencies in preparation for the pick-up in the economy or when new opportunities arise.
 
 Job opportunities are also shared with our NROC Coaches through email, as and when available. Additional measures have also been announced by the Government to support you, which we have consolidated on our website for your information.
