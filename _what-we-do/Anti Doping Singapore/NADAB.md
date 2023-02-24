@@ -46,17 +46,22 @@ Committee, JCST
 #### **Members**
 
 **Mr Abdul Salim Ahmed Ibrahim**
-<br>
-PBM, FSIArb
-<br>
-Director - United Legal Alliance LLC
+* PBM, FSIArb
+* Director - United Legal Alliance LLC
 
 **Mr Gobinathan Nair s/o Urath Sankaran**
-<br>
-Director General - Southeast Asia Regional Anti-Doping Organisation
+* Director General - Southeast Asia Regional Anti-Doping Organisation
 
 **Ms Lim Wan Peng**
-<br>
-Principal Pharmacist (Clinical), Tan Tock Seng Hospital
-<br>
-Member, Pharmaceutical Society of Singapore
+* Principal Pharmacist (Clinical), Tan Tock Seng Hospital
+* Member, Pharmaceutical Society of Singapore
+
+**Mr Eugene Goh Wee Sing**
+* Deputy Director, Enforcement Policy Framework & Ops Support 
+* Enforcement Branch,  Health Products Regulation Group
+* Health Sciences Authority
+
+**Ms Yip Pin Xiu**
+* Active Athlete
+* Formerly from ADS's Testing Pool
+* Representing para athlete's perspective
