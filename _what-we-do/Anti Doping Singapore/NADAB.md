@@ -32,8 +32,8 @@ In carrying out its responsibilities, the NADAB shall:
  
 The term of appointment of the NADAB is for 2 years, commencing 1 January 2023 till 31 December 2024. The NADAB members are:
 
-**Chairperson**
-<br>
+#### **Chairperson**
+
 **Dr Patrick Goh**
 <br>
 MBBS, MSS (Sports Medicine)
@@ -43,4 +43,20 @@ Chairperson, SEARADO
 Co-Chairman, Sports Medicine Sub-Specialist Training
 Committee, JCST
 
-**Members**
+#### **Members**
+
+**Mr Abdul Salim Ahmed Ibrahim**
+<br>
+PBM, FSIArb
+<br>
+Director - United Legal Alliance LLC
+
+**Mr Gobinathan Nair s/o Urath Sankaran**
+<br>
+Director General - Southeast Asia Regional Anti-Doping Organisation
+
+**Ms Lim Wan Peng**
+<br>
+Principal Pharmacist (Clinical), Tan Tock Seng Hospital
+<br>
+Member, Pharmaceutical Society of Singapore
