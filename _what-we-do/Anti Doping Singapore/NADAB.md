@@ -32,3 +32,13 @@ In carrying out its responsibilities, the NADAB shall:
  
 The term of appointment of the NADAB is for 2 years, commencing 1 January 2023 till 31 December 2024. The NADAB members are:
 
+**Chairperson**
+<br>
+**Dr Patrick Goh**
+<br>
+MBBS, MSS (Sports Medicine)
+<br>
+Sports Physician, Orthopaedics International
+Chairperson, SEARADO
+Co-Chairman, Sports Medicine Sub-Specialist Training
+Committee, JCST
