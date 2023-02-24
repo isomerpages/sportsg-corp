@@ -5,7 +5,7 @@ description: ""
 ---
 ![Values and Principles in Sport (VPS)](/images/Sport%20Education/Value%20&%20Principles%20in%20Sport/NSYS%20generic.jpeg)
 #### **Values and Principles in Sport**
-Research has shown that participation in sports is closely linked to health, well-being and the development of life skills such as problem-solving, communication, decision-making, leadership, perseverance and time-management. Positive experiences in sports are associated with lifelong sports participation. As such, inculcating values and principles in sports are critical in laying the foundation for the future.
+Research has shown that participation in sports is closely linked to health, well-being and the development of life skills such as problem-solving, communication, decision-making, leadership, perseverance and time management. Positive experiences in sports are associated with lifelong sports participation. As such, inculcating values and principles in sports is critical in laying the foundation for the future.
 
 **The Values and Principles in Sports (VPS) Workshop**
 
