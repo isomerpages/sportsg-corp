@@ -14,7 +14,7 @@ The Get Active Questionnaire (GAQ) is designed for individuals to find out more 
 **DOWNLOAD THE GET ACTIVE QUESTIONNAIRE (GAQ)**
 
 Click the links below to access the GAQ in your preferred language:
-* [Get Active Questionnaire (ENGLISH}](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/ENG-10688_GAQ_Flyers_20Mar19_FINAL.pdf)
-* [Get Active Questionnaire (CHINESE}](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/CHN-10688A_Get%20Active%20Questionaire_22Apr20_1245pm_FINAL.pdf)
-* [Get Active Questionnaire (MALAY}](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/MAL-10688D_Get%20Active%20Questionaire_22Apr20_105pm_FINAL.pdf)
-* [Get Active Questionnaire (TAMIL}](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/TML-10688C_Get%20Active%20Questionaire_8Apr20_FINAL.pdf)
+* [Get Active Questionnaire (ENGLISH)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/ENG-10688_GAQ_Flyers_20Mar19_FINAL.pdf)
+* [Get Active Questionnaire (CHINESE)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/CHN-10688A_Get%20Active%20Questionaire_22Apr20_1245pm_FINAL.pdf)
+* [Get Active Questionnaire (MALAY)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/MAL-10688D_Get%20Active%20Questionaire_22Apr20_105pm_FINAL.pdf)
+* [Get Active Questionnaire (TAMIL)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/TML-10688C_Get%20Active%20Questionaire_8Apr20_FINAL.pdf)
