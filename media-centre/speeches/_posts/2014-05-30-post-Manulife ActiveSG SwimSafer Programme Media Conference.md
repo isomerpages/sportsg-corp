@@ -21,6 +21,7 @@ Distinguished guests
 Ladies and Gentlemen
 
 A very good morning to all of you. 
+
 2.	I am very happy to be here today to mark an important milestone for Sporting Singapore. 
 
 3.	Some two years ago, we embarked on a journey to help everyone Live Better Through Sport. We called it Vision 2030, and among the outcomes we set out to achieve were to: 
@@ -46,3 +47,6 @@ Conclusion
 
 9.	Thank you.
 
+#### **Related Link:**
+
+**Press Release** - [Manulife Singapore commits some S$1 million to SwimSafer programme](http://www.sportsingapore.gov.sg/newsroom/media-releases/2014/5/manulife-singapore-commits-some-s$1-million-to-swimsafer-programme)
