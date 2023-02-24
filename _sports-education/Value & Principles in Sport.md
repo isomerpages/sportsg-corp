@@ -19,7 +19,7 @@ The VPS workshop includes the following modules:
 
 *   **Organisational values for coaches** – Elaborates on strategic outcomes of [Vision 2030](/about-us/vision-2030), [National Registry of Coaches’ (NROC) Code of Ethics](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Code-of-Ethics), [National Standards for Youth Sports (NSYS)](/sports-education/national-standards-for-youth-sports/) and [Ministry of Education’s (MOE) 21st Century Competencies Framework and Student Outcomes](https://www.moe.gov.sg/education/education-system/21st-century-competencies).
 
-*   **Doping and positive front of sports** – promotes understanding on doping, rationale for fighting doping, health consequences of doping; introduces World Anti-Doping Code and Prohibited List; explains the role of a coach in anti-doping, how athletes can become vulnerable to doping and a decision-making framework for coaches when confronted with a possible scenario that may implicate doping.
+*   **Doping and positive front of sports** – Promotes understanding on doping, rationale for fighting doping, and health consequences of doping; introduces World Anti-Doping Code and Prohibited List; explains the role of a coach in anti-doping, how athletes can become vulnerable to doping and a decision-making framework for coaches when confronted with a possible scenario that may implicate doping.
 
 In the workshop, there are opportunities to meet other sport coaches and engage in group discussions on the various VPS topics.
 
