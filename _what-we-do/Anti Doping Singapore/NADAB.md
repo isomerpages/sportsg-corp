@@ -58,14 +58,15 @@ Committee, JCST
 
 **Mr Eugene Goh Wee Sing**
 * Deputy Director, Enforcement Policy Framework & Ops Support 
-* Enforcement Branch,  Health Products Regulation Group
-* Health Sciences Authority
+* Enforcement Branch,  Health Products Regulation Group, Health Sciences Authority
 
 **Ms Yip Pin Xiu**
-* Active Athlete
-* Formerly from ADS's Testing Pool
+* Active Athlete, formerly from ADS's Testing Pool
 * Representing para athlete's perspective
 
 **Dr Mok Ying Ren**
 * Recently Retired Athlete
 * Formerly from ADS's Testing Pool
+
+**Mr Krishnan Aravinthan**
+* Director (Physical, Sports & Outdoor Education), Student Development Curriculum Division, Ministry of Education
