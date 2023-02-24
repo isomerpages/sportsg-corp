@@ -65,3 +65,7 @@ Committee, JCST
 * Active Athlete
 * Formerly from ADS's Testing Pool
 * Representing para athlete's perspective
+
+**Dr Mok Ying Ren**
+* Recently Retired Athlete
+* Formerly from ADS's Testing Pool
