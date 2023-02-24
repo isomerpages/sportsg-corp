@@ -24,19 +24,17 @@ The VPS workshop includes the following modules:
 In the workshop, there are opportunities to meet other sport coaches and engage in group discussions on the various VPS topics.
 
 Note:
-
-*   With effect from March 2015, the VPS workshop replaces the National Standards for Youth Sports.
-*   The VPS workshop is conducted in English.
+With effect from March 2015, the VPS workshop replaces the National Standards for Youth Sports. The VPS workshop is conducted in English.
 
 **How do I sign-up?**
 <br>
-VPS workshop registrations are strictly on a first-come-first-served basis. To find out more on the workshop, fee and registration please click [here](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports).
+VPS workshop registrations are strictly on a first-come-first-served basis. To find out more about the workshop, fee and registration please click [here](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports).
 
 **Exemption from the VPS workshop**
 <br>
-Please note that you do not need to attend VPS workshop, if you meet any of the following requirement(s).
+ You do not need to attend VPS workshop, if you meet any of the following requirement(s).
 
-1\. You have any of the following certificates:
+1. You have **ANY** of the following certificates:
 
 *   National Standards for Youth Sports (NSYS) for Coaching in Singapore Schools; or
 *   SG-Coach Level 1 Theory (conducted by Republic Polytechnic (RP)); or
@@ -44,7 +42,7 @@ Please note that you do not need to attend VPS workshop, if you meet any of th
 
 OR 
 
-2. You are currently a Ministry of Education (MOE) Physical Education (PE) teacher in service from 2015 onwards, you will be exempted from VPS workshop but are required to complete the following steps to obtain **VPS Accreditation**, before being eligible to receive the VPS (Accreditation) certificate:
+2. You are currently a Ministry of Education (MOE) Physical Education (PE) teacher in service from 2015 onwards. You will be exempted from VPS workshop but are required to complete the following steps to obtain **VPS Accreditation**, before being eligible to receive the VPS (Accreditation) certificate:
 
 1. Register for a Sportsync account and complete VPS E-learning topics via SportSG-ED (Refer to user guide [here](/files/Sport%20Education/Value%20&%20Principles%20in%20Sport/SportSync(Registration)_SportSGED(Activation)_UserGuide.pdf))
 
