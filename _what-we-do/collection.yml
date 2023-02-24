@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Anti Doping Singapore/Introduction.md
       - Anti Doping Singapore/.keep
       - ActiveSG.md
       - Active Health.md
