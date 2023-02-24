@@ -70,3 +70,15 @@ Committee, JCST
 
 **Mr Krishnan Aravinthan**
 * Director (Physical, Sports & Outdoor Education), Student Development Curriculum Division, Ministry of Education
+
+#### **Ex-Officio Members**
+**A/Prof Koh-Teo Sock Miang**
+* President, Singapore Disability Sports Council &
+* Chairman, Singapore National Paralympic Council
+* Board Member, Singapore Sports School
+* Principal, Singapore Olympic Academy
+
+**Mr Chris Chan**
+* Secretary General, Singapore National Olympic Council
+* Board Member, Sport Singapore
+* Board Member, Singapore Olympic Academy & Singapore Olympic Foundation 
