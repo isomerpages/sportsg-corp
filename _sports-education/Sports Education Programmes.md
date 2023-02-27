@@ -78,7 +78,7 @@ Cheerleading programmes should not incorporate the following activities and must
 
 **3. SWIMMING PROGRAMMES UNDER SEP** 
 
-All Sports Providers offering swimming programmes will require their instructors/coaches to be SwimSafer Certified in addition to meeting the requirements of having the minimum NCAP Theory Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid recognised first aid certification.
+All Sports Providers offering swimming programmes will require their instructors/coaches to be **SwimSafer** **Certified** in addition to meeting the requirements of having the minimum NCAP Theory Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid recognised first aid certification.
 
 **Instructor to Student Ratio at 1:10** Instructor to student ratio for all swimming programmes must be kept at 1:10, with the exception of programmes offered to Special Education schools, which will be at a lower ratio.  
   
