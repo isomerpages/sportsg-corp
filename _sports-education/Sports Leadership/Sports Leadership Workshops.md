@@ -10,7 +10,7 @@ _____________________________________
 
 **(For all NROC Coaches)**
 
-
+![Coach As Team Builder](/images/Sport%20Education/Sports%20Leadership/Sports%20Leadership%20Workshops/Teambuilder.jpeg)
 
 **Dates**: 12 September 2019
 
