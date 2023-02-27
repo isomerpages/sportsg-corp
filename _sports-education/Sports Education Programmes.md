@@ -33,8 +33,8 @@ Coaches and instructors will be required to complete either the NCAP Theory or
 
 If your coaches are not equipped with NCAP / SG-Coach Theory, but have other prior learning, experience or certification, you may seek NCAP / SG-Coach Theory Accreditation. The accreditation level depends on evidence of prior learning. To seek NCAP / SG-Coach Theory Accreditation, please:
 
-*   Complete the [NCAP / SG-Coach Theory Accreditation Form](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/National-Coaching-Accreditation-Programme/20180719-SGCoach-Theory-Accreditation-Application-Form.ashx?la=en&hash=E3076157AAF8669D0CE73A42F9CFF6F9D41BE130)
-*   Attach evidence of your relevant documentary proof of prior learning, e.g. academic / coaching certificates, transcripts and brief course descriptions, evidence of coaching experience (letters of appreciation, coaching awards, etc.)
+* Complete the [NCAP / SG-Coach Theory Accreditation Form](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/National-Coaching-Accreditation-Programme/20180719-SGCoach-Theory-Accreditation-Application-Form.ashx?la=en&hash=E3076157AAF8669D0CE73A42F9CFF6F9D41BE130)
+* Attach evidence of your relevant documentary proof of prior learning, e.g. academic / coaching certificates, transcripts and brief course descriptions, evidence of coaching experience (letters of appreciation, coaching awards, etc.)
 
 Note: The NCAP / SG-Coach Theory accreditation process would take up to 4 weeks. For enquiries, please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg?subject=Sports%20Education%20Programme "null") 
 
@@ -42,7 +42,7 @@ Note: The NCAP / SG-Coach Theory accreditation process would take up to 4 weeks.
 
 With effect from March 2015, the National Standards for Youth Sports (NSYS) workshops will be replaced by the Values and Principles in Sports (VPS) workshops.
 
-Apart from covering key content from the previous NSYS course, the new VPS workshop will also enable participants to develop their own personal coaching philosophies, design sports programmes with the ‘Game of Life’ Framework and leverage values and attributes in the development of a successful sports team.
+Apart from covering key content from the previous NSYS course, the new VPS workshop will also enable participants to develop their own personal coaching philosophies, design sports programmes with the ‘Game of Life’ Framework and leverage values and attributes to develop of a successful sports team.
 
 Please take note that attendees of the previously offered ‘NSYS for Coaching in Singapore Schools” (NSYS) workshop are deemed to have fulfilled Ministry of Education’s (MOE) requirements for registration of all sports coaches and instructors in schools and they do not need to attend the new VPS workshop. For coaches who had completed modules 1-3 in the previous NSYS, they will be required to sign up for a bridging workshop with MOE on the fourth module in order to fulfill MOE’s requirements.    
 
@@ -70,10 +70,10 @@ Sports programmes incorporating physical contact striking or sparring between pa
 
 Cheerleading programmes should not incorporate the following activities and must be clearly indicated in the programme submission:
 
-*   No cheerleading formations that are more than 2-tier. For execution of 2 tier formations, trained adult spotters will be present.
-*   No stunts without trained adult spotter.
-*   No stunts above shoulder level.
-*   No tumbling with flight, with or without hand support. (Exception: Roundoff)
+* No cheerleading formations that are more than 2-tier. For execution of 2 tier formations, trained adult spotters will be present.
+* No stunts without trained adult spotter.
+* No stunts above shoulder level.
+* No tumbling with flight, with or without hand support. (Exception: Roundoff)
 *   No tossing.
 
 **3. SWIMMING PROGRAMMES UNDER SEP** 
