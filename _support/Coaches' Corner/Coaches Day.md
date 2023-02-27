@@ -4,7 +4,6 @@ permalink: /support-resources/coaches-corner/coaches-day/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-
 ![](/images/Support/Coache's%20Corner/coachesday18_group.jpeg)
 Coaches are the driving force behind the development and success of our athletes. No athlete, no matter how talented, can achieve success without the guidance and support of their coaches.
 
@@ -22,6 +21,6 @@ Lunch will provided and as part of the SG Green Plan, you are encouraged to brin
 <br>**Time: 9:30am - 1:30pm**
 <br>**Venue: Team Sports Hall, Level 2, Our Tampines Hub**
 
-Registration is now open at [go.gov.sg/coachesday2022](http://go.gov.sg/coachesday2022) [](http://go.gov.sg/coachesday2022) 
+Registration is now open at [go.gov.sg/coachesday2022](http://go.gov.sg/coachesday2022) 
 
 Do visit out new website [here](https://coachsg.sportsingapore.gov.sg/) for the latest updates.
