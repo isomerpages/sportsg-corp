@@ -18,11 +18,10 @@ The ebook is now available for [download](/files/Sport%20Education/Sports%20Lead
 
 The physical copy is available for purchase at Leadership Development Department, Sport Singapore. 
 
-3 Stadium Drive, Singapore 397630  
-S(397799)  
+3 Stadium Drive, Singapore 397630 , S(397799)  
 Tel: 6500 5317
 
-You may give us a call or [email](mailto:hong_xue_en@sport.gov.sg) us for more information.
+You may give us a call or [email us](mailto:hong_xue_en@sport.gov.sg) for more information.
 
 #### **CoachSG Partners Positive Coaching Alliance (PCA)**
 
