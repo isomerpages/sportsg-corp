@@ -27,8 +27,8 @@ NSAs will be able to leverage on SportSync to maintain their organisation profil
 
 In order for athletes to login to SportSync, they must do the following:
 
-*   Athletes must have an ActiveSG account in order to login to SportSync. They can go to [https://members.myactivesg.com](https://members.myactivesg.com/) to register if they do not have an account yet.
-*   Then athletes can login to SportSync [https://www.sportsync.sg](https://www.sportsync.sg/)
+* Athletes must have an ActiveSG account in order to login to [SportSync](https://members.myactivesg.com). They can register [here](https://members.myactivesg.com/) if they do not have an account yet.
+* Then athletes can login to SportSync [https://www.sportsync.sg](https://www.sportsync.sg/)
 
 NSA users can login to SportSync, by registering for a SportSync account and logging in with their Corp Pass details.
 
