@@ -32,3 +32,8 @@ In [Support of Coaching](https://www.positivecoach.org/):
 ![PCA](/images/Sport%20Education/Sports%20Leadership/Resource/PCA_logo.jpeg)
 
 #### **Game For Life (Real Madrid Foundation Technical Academy Singapore) Impact Analysis Report**
+![Game For Life](/images/Sport%20Education/Sports%20Leadership/Resource/RM_IMG_1286_edit.jpeg)
+Real Madrid Academy collaborated with LDD to infuse Game For Life framework into their football training to study the impact of intentional design in football training on their players on and off the field. Quantitative and qualitative data was collected.
+
+[Download impact analysis report](/files/Sport%20Education/Sports%20Leadership/Resource/RM_Impact_Analysis_Report_Full.pdf)
+
