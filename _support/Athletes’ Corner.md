@@ -23,7 +23,7 @@ It features a range of capabilities to serve our sporting fraternity (National S
 *   Sports Administration
 *   Learning and Continuous Education
 
-NSAs will be able to leverage on SportSync to maintain their organisation profiles (i.e. Management Committees, Employees, Members, etc), manage athletes (i.e. athlete profiles, spexCarding and spexScholarship applications, Major Games nominations, etc) and track key elements of their Multi-Year Sports Plan (i.e. number of NROC coaches, participants of their sports, etc).
+NSAs will be able to leverage on SportSync to maintain their organisation profiles (i.e. Management Committees, Employees, Members, etc.), manage athletes (i.e. athlete profiles, spexCarding and spexScholarship applications, Major Games nominations, etc.) and track key elements of their Multi-Year Sports Plan (i.e. number of NROC coaches, participants of their sports, etc.).
 
 In order for athletes to login to SportSync, they must do the following:
 
