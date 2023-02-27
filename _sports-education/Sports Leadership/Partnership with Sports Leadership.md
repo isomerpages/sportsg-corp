@@ -10,7 +10,7 @@ Under Vision 2030, the 'Future Ready through Sports' narrative focuses on promot
   
 At Sport Singapore, CLD develops organisational capabilities by spearheading leadership development for our people and sport coaches. In serving the larger Singapore community, CLD also partners key stakeholders such as local educational institutions and like-minded corporations to co-develop initiatives to promote character and leadership development through the deliberate design of sporting activities.
 
-CLD works with partners from different sectors to further the development of our work. If you are a local/overseas agency or institution and see that the work we are doing is aligned with you, do [contact](mailto:hong_xue_en@sport.gov.sg) us. We will be glad to explore partnership opportunities. 
+CLD works with partners from different sectors to further the development of our work. If you are a local/overseas agency or institution and see that the work we are doing is aligned with you, do [contact us](mailto:hong_xue_en@sport.gov.sg). We will be glad to explore partnership opportunities. 
 
 Character & Leadership Development Department  
 Sport Singapore  
