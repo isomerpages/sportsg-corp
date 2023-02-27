@@ -1,17 +1,17 @@
 ---
-title: "Reply To Forum Letter In The Straits Times Online 'Review compulsory ActiveSG membership for use of facilities'"
+title: Reply To Forum Letter In The Straits Times Online 'Review compulsory
+  ActiveSG membership for use of facilities'
 permalink: /media-centre/media-responses/review-compulsory-activesg-membership-for-use-of-facilities/
 date: 2014-05-22
 layout: post
 description: ""
 image: ""
 ---
-
 ### **Reply To Forum Letter In The Straits Times Online: "Review compulsory ActiveSG membership for use of facilities"**
 
 *In response to a Forum Letter in The Straits Times Online ("Review compulsory ActiveSG membership for use of facilities", 21 May 2014):*
 
-**Non-members can continue to buy single-entry passes: ActiveSG**
+**Non-members can continue to buy single-entry passes: ActiveSGTTEST**
 
 We thank Mr Wee Wei Loong for his feedback (“Review compulsory ActiveSG membership for use of facilities”; Forum Online, yesterday) and welcome him on board the ActiveSG family.  
    
