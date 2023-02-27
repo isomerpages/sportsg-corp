@@ -11,7 +11,7 @@ image: ""
 
 *In response to a Forum Letter in The Straits Times Online ("Review compulsory ActiveSG membership for use of facilities", 21 May 2014):*
 
-**Non-members can continue to buy single-entry passes: ActiveSGTTEST**
+**Non-members can continue to buy single-entry passes: ActiveSG**
 
 We thank Mr Wee Wei Loong for his feedback (“Review compulsory ActiveSG membership for use of facilities”; Forum Online, yesterday) and welcome him on board the ActiveSG family.  
    
