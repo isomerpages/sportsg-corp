@@ -2,16 +2,11 @@ collections:
   sports-education:
     output: true
     order:
-      - Sports Leadership/.keep
       - History of SportSG/.keep
       - History of SportSG/Introduction.md
       - History of SportSG/Sports in Colonial Times.md
       - History of SportSG/Sports in Independent Times.md
       - History of SportSG/Singapore Sports Hub Library.md
-      - Sporting Events/.keep
-      - Sporting Events/Grand Prix.md
-      - Sporting Events/National Fitness Exercise.md
-      - Sporting Events/Pesta Sukan.md
       - Sporting Clubs/.keep
       - Sporting Clubs/Chinese Swimming Club.md
       - Sporting Clubs/Indian Association.md
@@ -23,6 +18,11 @@ collections:
       - Sporting Clubs/Singapore Swimming Club.md
       - Sporting Clubs/Swiss Club.md
       - Sporting Clubs/YMCA.md
+      - Sporting Events/.keep
+      - Sporting Events/Grand Prix.md
+      - Sporting Events/National Fitness Exercise.md
+      - Sporting Events/Pesta Sukan.md
+      - Sports Leadership/.keep
       - Sports Safety/.keep
       - Sports Safety/Introduction.md
       - Sports Safety/Haze management at Sport Singapore.md
