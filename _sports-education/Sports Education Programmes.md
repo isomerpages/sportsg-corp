@@ -83,9 +83,8 @@ All Sports Providers offering swimming programmes will require their instructors
 **Instructor to Student Ratio at 1:10** Instructor to student ratio for all swimming programmes must be kept at 1:10, with the exception of programmes offered to Special Education schools, which will be at a lower ratio.  
   
 **SwimSafer Instructor Course**   
-Please note that it is a requirement for all swimming instructors to be registered with NROC before they can enroll in the SwimSafer Instructor Course. Places for this course will be allotted on a first-come-first-served basis.  
-  
-For more information on the SwimSafer programme, please visit the [SwimSafer page](http://www.myactivesg.com/sports/swimming/how-to-play/did-you-know/what-is-the-swimsafer-programme). For registration of SwimSafer Instructor Course, please call the SwimSafer Hotline 6500 5439 or email: [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg)
+Please note that it is a requirement for all swimming instructors to be registered with NROC before they can enrol in the SwimSafer Instructor Course. Places for this course will be allotted on a first-come-first-served basis.  
+For more information on the SwimSafer programme, please visit the [SwimSafer page](http://www.myactivesg.com/sports/swimming/how-to-play/did-you-know/what-is-the-swimsafer-programme). For registration of the SwimSafer Instructor Course, please call the SwimSafer Hotline 6500 5439 or email: [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg)
 
 **4. LIFESAVING PROGRAMMES UNDER SEP**
 
@@ -95,9 +94,9 @@ Lifesaving programmes must not be conducted at open waters and this must be clea
 
 A Risk Assessment Management Plan (RAMS) will be required to be submitted as part of the SEP programme submission.
 
-**All vendors conducting OAL activities must comply to the criteria on the respective compliance checklists.**
+**All vendors conducting OAL activities must comply with the criteria on the respective compliance checklists.**
 
-A compliance checklist has been developed to ensure service providers meet the management and operation standards for the water-based and height-based OAL activities. All criteria must be met before services may be procured by schools. Compliance with the checklist must be clearly indicated in the programme submission.
+A compliance checklist has been developed to ensure service providers meet the management and operation standards for water-based and height-based OAL activities. All criteria must be met before services may be procured by schools. Compliance with the checklist must be clearly indicated in the programme submission.
 
 Please refer to the appended [file](/files/Sport%20Education/Sport%20Education%20Programmes/Compliance%20Checklists%20for%20Procurement%20of%20OAL%20Activities_version%204%20Feb%2022.pdf) for the compliance checklists which service providers must submit to schools.
 
