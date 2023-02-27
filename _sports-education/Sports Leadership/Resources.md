@@ -37,3 +37,22 @@ Real Madrid Academy collaborated with LDD to infuse Game For Life framework into
 
 [Download impact analysis report](/files/Sport%20Education/Sports%20Leadership/Resource/RM_Impact_Analysis_Report_Full.pdf)
 
+#### **Game For Life (Ngee Ann Polytechnic) Impact Analysis Report**
+![Game For Life (Ngee Ann Polytechnic) Impact Analysis Report](/images/Sport%20Education/Sports%20Leadership/Resource/gameforlifetoolkitMainPar0001Image.jpg)
+Ngee Ann Polytechnic integrated the Game for Life framework into their Sports and Wellness Module over a period of 2 semesters as part of a study to determine if intentional design of sports have a positive effect on students' behaviour in class, academics and non-academics objective indicators.
+[Download impact analysis report](/files/Sport%20Education/Sports%20Leadership/Resource/NP_Impact_Analysis_Report.pdf)
+
+#### **Leadership Symposium - Inspiring Future Leaders Presentation slides**
+![Leadership Symposium - Inspiring Future Leaders Presentation slides](/images/Sport%20Education/Sports%20Leadership/Resource/experientialworkshopMainPar0014Image.jpg)
+In 2013, LDD organized Leadership Symposium - Inspiring Future Leaders with a selected group of local and overseas speakers who shared and promoted how sport can achieve character and leadership development objectives. 
+* [Download Dr Daniel Gould's keynote presentation](/files/Sport%20Education/Sports%20Leadership/Resource/Daniel_Gould_Promoting_Youth_Leadership_2013_Final.pdf)
+* [Download Dr Ralph Pim's keynote presentation](/files/Sport%20Education/Sports%20Leadership/Resource/Ralph_Pim_keynote.pdf)
+* [Download Dr Daniel Gould's breakout presentation](/files/Sport%20Education/Sports%20Leadership/Resource/Daniel_Gould_Developing_Youth_Leaders_Breakout.pdf)
+* [Download Dr Ralph Pim's breakout presentation](/files/Sport%20Education/Sports%20Leadership/Resource/Ralph_Pim_Breakout.pdf)
+
+### **Team Development Through Sport**
+#### **TeamUP Pilot**
+![Team Development](/images/Sport%20Education/Sports%20Leadership/Resource/EDC02.jpeg)
+In 2014, LDD piloted 'Team UP' - Team Development Through Sport with SMEs with the aim to develop more effective teams via intentionally designed sport programmes.
+
+*(Impact Analysis Report will be available soon)*
