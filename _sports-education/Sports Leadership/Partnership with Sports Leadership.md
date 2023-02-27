@@ -26,4 +26,4 @@ Fax: 6440 9205
 * [ADMIRALTY PRIMARY SCHOOL](https://www.admiraltypri.moe.edu.sg/)![ADPS](/images/Sport%20Education/Sports%20Leadership/Partnership/adps_logo.jpeg)
 
 **Oversea Partners**
-* [Universitat](https://web.ua.es/en/actualidad-universitaria/2014/junio2014/junio2014-23-30/ua-collaborates-for-the-first-time-on-a-project-for-positive-development-in-young-people-with-sport-singapore.html)
+* [University of Alicante](https://web.ua.es/en/actualidad-universitaria/2014/junio2014/junio2014-23-30/ua-collaborates-for-the-first-time-on-a-project-for-positive-development-in-young-people-with-sport-singapore.html)![university of alicante](/images/Sport%20Education/Sports%20Leadership/Partnership/university_of_alicante.jpeg)
