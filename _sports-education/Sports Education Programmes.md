@@ -60,7 +60,7 @@ Sports providers with the exception of individuals are required to have their in
 
 #### **Programme Criteria**
 
-For a programme to be recognized as a sport activity endorsed under SEP, the programme should reflect activities that not only includes a physical exertion and the development of a skill, but is also governed by a set of rules that are recognized internationally. The programme submitted must align with MOE's objectives, whose primary emphasis is to provide students with **sports opportunities in a safe environment**.
+For a programme to be recognised as a sport activity endorsed under SEP, the programme should reflect activities that not only include a physical exertion and the development of a skill, but is also governed by a set of rules that are recognised internationally. The programme submitted must align with MOE’s objectives, whose focus is to provide students with sports opportunities in a safe environment.Sports programmes incorporating physical contact striking or sparring between participants will not be endorsed. Judo, wrestling and similar programmes may include only safe grappling. Any form of striking and choking are strictly not allowed. These programmes must be clearly indicated in the programme submission and will be further evaluated by the panel.
 
 **1. DEFENSE AND MARTIAL ARTS PROGRAMMES UNDER SEP**
 
@@ -71,14 +71,14 @@ Sports programmes incorporating physical contact striking or sparring between pa
 Cheerleading programmes should not incorporate the following activities and must be clearly indicated in the programme submission:
 
 * No cheerleading formations that are more than 2-tier. For execution of 2 tier formations, trained adult spotters will be present.
-* No stunts without trained adult spotter.
+* No stunts without a trained adult spotter.
 * No stunts above shoulder level.
 * No tumbling with flight, with or without hand support. (Exception: Roundoff)
 *   No tossing.
 
 **3. SWIMMING PROGRAMMES UNDER SEP** 
 
-All Sports Providers offering swimming programmes will require their instructors/coaches to be **SwimSafer** **Certified** in addition to meeting the requirements of having the minimum NCAP Theory Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid recognized first aid certification.
+All Sports Providers offering swimming programmes will require their instructors/coaches to be SwimSafer Certified in addition to meeting the requirements of having the minimum NCAP Theory Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid recognised first aid certification.
 
 **Instructor to Student Ratio at 1:10** Instructor to student ratio for all swimming programmes must be kept at 1:10, with the exception of programmes offered to Special Education schools, which will be at a lower ratio.  
   
