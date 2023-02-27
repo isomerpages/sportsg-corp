@@ -45,21 +45,21 @@ _____________________________________
 
 **Description:** This programme conducted by CoachSG introduces the coach to models and concepts for building more effective sports teams. Skills such as facilitation will also be taught to provide coaches with more skills to engage their teams. The **learning outcomes** from this programme include:
 
-*   Understanding the role of coach as leader and Tuckman’s Stages of Team Development in a sport context
-*   Understanding and addressing potential gaps of a sports team based on Patrick Lencioni’s 5 Dysfunctions of a team
-*   Implementing facilitation techniques in a sport context
+* Understanding the role of coach as leader and Tuckman’s Stages of Team Development in a sport context
+* Understanding and addressing potential gaps of a sports team based on Patrick Lencioni’s 5 Dysfunctions of a team
+* Implementing facilitation techniques in a sport context
 
 This programme (Module 1) is part of a **certification pathway** for coaches to be **certified** as ActiveSG TeamUP Coach and provide **job opportunities** for coaches. [ActiveSG TeamUP](https://www.myactivesg.com/read/2017/3/upping-the-game-in-team-building) is a corporate team development through sport programme that uses lessons from sport to co-relate to work through facilitated conversations.
 
 Coaches who have completed Module 1 can opt in for a summative assessment to be eligible for acceptance into a pool of ActiveSG TeamUP Assistant coaches with potential job opportunities. They will also be eligible to attend Module 2 that will certify them as TeamUP Coaches to conduct ActiveSG TeamUP programme.
 
-**Costs & Payment:**
+#### **Costs & Payment:**
 
-NROC Members: $25.00 (Subsidized Rate)
+**NROC Members**: $25.00 (Subsidized Rate)
 
-_(Subsidized rate applies only with condition of agreement to the volunteering requirement to conduct 2 sessions (4 hrs each) of_ _[ActiveSG TeamUP](https://www.myactivesg.com/read/2017/3/upping-the-game-in-team-building) as an assistant coach. You may refer to the [FAQ](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Sports-Leadership-Workshops/TeamUP-Certification-FAQ) if you have any questions on the requirement.)_
+(Subsidized rate applies only with condition of agreement to the volunteering requirement to conduct 2 sessions (4 hrs each) of [ActiveSG TeamUP](https://www.myactivesg.com/read/2017/3/upping-the-game-in-team-building) as an assistant coach. You may refer to the [FAQ](/sports-education/sports-leadership/teamup-certification-faq/) if you have any questions on the requirement.)
 
-non-NROC Members: $667.60 
+**Non-NROC Members**: $667.60 
 
 **CCE hours:**
 
