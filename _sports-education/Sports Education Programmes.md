@@ -3,7 +3,7 @@ title: Sports Education Programmes
 permalink: /sports-education/sports-education-programmes/
 description: ""
 ---
-The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, Junior College, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a S$10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
+The **Sports Education Programme (SEP)** is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, Junior College, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a S$10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
 
 The SEP aims to advocate the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young. It also serves as an integrated and structured approach to link sports service providers with schools to ensure that innovative and quality sports programmes are delivered.
 
@@ -36,7 +36,7 @@ If your coaches are not equipped with NCAP / SG-Coach Theory, but have other pri
 *   Complete the [NCAP / SG-Coach Theory Accreditation Form](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/National-Coaching-Accreditation-Programme/20180719-SGCoach-Theory-Accreditation-Application-Form.ashx?la=en&hash=E3076157AAF8669D0CE73A42F9CFF6F9D41BE130)
 *   Attach evidence of your relevant documentary proof of prior learning, e.g. academic / coaching certificates, transcripts and brief course descriptions, evidence of coaching experience (letters of appreciation, coaching awards, etc.)
 
-\*The NCAP / SG-Coach Theory accreditation process would take up to 4 weeks. For enquiries, please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg?subject=Sports%20Education%20Programme "null") 
+Note: The NCAP / SG-Coach Theory accreditation process would take up to 4 weeks. For enquiries, please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg?subject=Sports%20Education%20Programme "null") 
 
 **3. VALUES AND PRINCIPLES IN SPORTS (VPS)**
 
