@@ -36,6 +36,8 @@ Please take note that eligibility to attend module 2 is only upon completion of 
 
 Module 2 provides training for coaches to be ready to conduct ActiveSG TeamUP as TeamUP Coaches over 2 half days (5hrs each). Coaches will learn in more details how to facilitate learnings from sport back to the work environment such as facilitating reflective conversations. There is a summative assessment at the end of Module 2 to assess coaches competency in achieving ActiveSG TeamUP Programme outcomes. A coach who is certified as competent will be able to conduct ActiveSG TeamUP as a TeamUP Coach.
 
+![TeamUP Certification Pathway](/images/Sport%20Education/Sports%20Leadership/TeamUP%20Certification%20FAQ/updated_pathway.png)
+
 **I am not an NROC coach, how do I apply for NROC membership?**
 
 You may [refer to this page](/support-resources/activesg-programme-partnership/nroc-sports/) on the process and criteria of becoming an NROC coach.
