@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports Leadership
 ---
 This page consists of Sports Leadership Workshops for sports coaches and sports educators. Some of these courses are eligible for Continuing Coach Education (CCE) hours.
-_____________________________________
+
  **Title: Coach As Team Builder**
 
 **(For all NROC Coaches)**
@@ -32,7 +32,7 @@ NROC Members: Free
 **CCE Hours**: 3
 
 **Registration**: Please [email us](mailto:hong_xue_en@sport.gov.sg) to register.
-_____________________________________
+
 **Title: Building An Effective Sports Team Every Season**
 
 **(For all *Territorial Invasion Team* Sports Coaches)**
