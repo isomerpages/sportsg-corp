@@ -19,6 +19,10 @@ Tel: 6500 5000 (main)
 Fax: 6440 9205
 
 **Local Partners**
+* ![CYGO](/images/Sport%20Education/Sports%20Leadership/Partnership/CYGO_Logo.png)
+* [NGEE ANN POLYTECHNIC](https://www.np.edu.sg/Pages/default.aspx) ![NP](/images/Sport%20Education/Sports%20Leadership/Partnership/NP_logo.jpeg)
+* [Evergreen Secondary School](https://evergreensec.moe.edu.sg/departments/physical-education/) ![Evergreen Secondary School](/images/Sport%20Education/Sports%20Leadership/Partnership/evgss_logo.jpeg)
+
 
 
 **Oversea Partner**
