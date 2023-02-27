@@ -32,4 +32,4 @@ In order for athletes to login to SportSync, they must do the following:
 
 NSA users can login to SportSync, by registering for a SportSync account and logging in with their Corp Pass details.
 
-If you face any technical issues with SportSync, please contact our IT support directly. Appreciate that you can log a case at: [https://www.sportsync.sg/app/Login/Contact](https://www.sportsync.sg/app/Login/Contact) (Please choose "**Technical Issues**" under the "**Category**", so that you will be routed to our IT support).
+If you face any technical issues with SportSync, please log a case to our IT support directly [here](https://www.sportsync.sg/app/Login/Contact) (Please choose "**Technical Issues**" under the "**Category**", so that you will be routed to our IT support).
