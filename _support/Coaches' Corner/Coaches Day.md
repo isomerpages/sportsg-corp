@@ -17,7 +17,7 @@ Join us at this year Coaches' Day celebration! Our theme this year is "My Kampu
 
 Lunch will provided and as part of the SG Green Plan, you are encouraged to bring along your own water bottles. 
 
-**Date:** **1st** **September 2022, Thursday**
+**Date: 1st September 2022, Thursday**
 <br>**Time: 9:30am - 1:30pm**
 <br>**Venue: Team Sports Hall, Level 2, Our Tampines Hub**
 
