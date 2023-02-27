@@ -44,9 +44,9 @@ With effect from March 2015, the National Standards for Youth Sports (NSYS) work
 
 Apart from covering key content from the previous NSYS course, the new VPS workshop will also enable participants to develop their own personal coaching philosophies, design sports programmes with the ‘Game of Life’ Framework and leverage values and attributes to develop of a successful sports team.
 
-Please take note that attendees of the previously offered ‘NSYS for Coaching in Singapore Schools” (NSYS) workshop are deemed to have fulfilled Ministry of Education’s (MOE) requirements for registration of all sports coaches and instructors in schools and they do not need to attend the new VPS workshop. For coaches who had completed modules 1-3 in the previous NSYS, they will be required to sign up for a bridging workshop with MOE on the fourth module in order to fulfill MOE’s requirements.    
+Please take note that attendees of the previously offered ‘NSYS for Coaching in Singapore Schools” (NSYS) workshop are deemed to have fulfilled Ministry of Education’s (MOE) requirements for registration of all sports coaches and instructors in schools and they do not need to attend the new VPS workshop. Coaches who had completed modules 1-3 in the previous NSYS will be required to sign up for a bridging workshop with MOE on the fourth module to fulfill MOE’s requirements.  
 
-The new VPS workshop is one of the six topics under the Singapore Coach Excellence (SG-Coach) Theory Level One Programme and exemption of attendance from VPS can be sought. You may click [here](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach) to find out more information on the SG-Coach Programmes.
+The new VPS workshop is one of the six topics under the Singapore Coach Excellence (SG-Coach) Theory Level One Programme and exemption of attendance from the VPS can be sought. You may click here to find out more information on [the SG-Coach Programmes](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach).
 
 For registration and more information on the VPS workshop, please visit the [VPS page](/sports-education/value-and-principles-in-sport/).
 
