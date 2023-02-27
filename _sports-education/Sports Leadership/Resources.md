@@ -39,6 +39,7 @@ Real Madrid Academy collaborated with LDD to infuse Game For Life framework into
 #### **Game For Life (Ngee Ann Polytechnic) Impact Analysis Report**
 ![Game For Life (Ngee Ann Polytechnic) Impact Analysis Report](/images/Sport%20Education/Sports%20Leadership/Resource/gameforlifetoolkitMainPar0001Image.jpg)
 Ngee Ann Polytechnic integrated the Game for Life framework into their Sports and Wellness Module over a period of 2 semesters as part of a study to determine if intentional design of sports have a positive effect on students' behaviour in class, academics and non-academics objective indicators.
+
 [Download impact analysis report](/files/Sport%20Education/Sports%20Leadership/Resource/NP_Impact_Analysis_Report.pdf)
 
 #### **Leadership Symposium - Inspiring Future Leaders Presentation slides**
