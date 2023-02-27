@@ -3,7 +3,6 @@ title: Athletes’ Corner
 permalink: /support-resources/athletes-corner/
 description: ""
 ---
-
 ![](/images/Support/Athlete's%20Corner/Athlete%20corner%20Pic.jpeg)
 **The Singapore Sports Institute (SSI)** firmly believes in long-term sport and athlete development in Singapore. To help elite athletes reach their highest sporting potential in the international arena, SSI provides a wide range of Spex (Sports Excellence) programmes and support services.
 
@@ -18,7 +17,7 @@ In addition, all spexCarded athletes are required to apply for a Therapeutic Use
 
 **SportSync** is a shared data platform that aspires to harness data for ecosystem efficiency and effectiveness for Singapore to excel in international sports by co-creating an all-in-one database platform for all Singaporeans in competitive sports.
 
-It features a range of capabilities to serve our sporting fraternity (National Sports Associations, Athletes, Coaches, Sports participants, etc) and enable the collection, organisation, sharing and analysis of data, as well as generation of insights to serve the areas of:
+It features a range of capabilities to serve our sporting fraternity (National Sports Associations, Athletes, Coaches, Sports participants, etc.) and enable the collection, organisation, sharing and analysis of data, as well as generation of insights to serve the areas of:
 
 *   Sports Performance and Pathway
 *   Sports Administration
