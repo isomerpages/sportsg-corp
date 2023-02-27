@@ -15,3 +15,11 @@ The book, 'GAME FOR LIFE: 25 Journeys' chronicles the transformation of 25 ordin
 'GAME FOR LIFE: 25 Journeys' celebrates the triumph of man, showcasing role models with a spirit of excellence and perseverance. The 25 remarkable stories are set to stir the hearts and minds of every reader, young or old, man or woman. Instilling in all the principles of team camaraderie, sportsmanship, leadership and sporting for life.
 
 The ebook is now available for [download](/files/Sport%20Education/Sports%20Leadership/Resource/Game_For_Life_Book20130515.pdf).
+
+The physical copy is available for purchase at Leadership Development Department, Sport Singapore. 
+
+3 Stadium Drive, Singapore 397630  
+S(397799)  
+Tel: 6500 5317
+
+You may give us a call or [email](mailto:hong_xue_en@sport.gov.sg) us for more information.
