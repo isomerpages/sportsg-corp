@@ -25,7 +25,7 @@ You may give us a call or [email us](mailto:hong_xue_en@sport.gov.sg) for more 
 
 #### **CoachSG Partners Positive Coaching Alliance (PCA)**
 
-CoachSG partners [Positive Coaching Alliance (PCA)](https://www.positivecoach.org/) to offer positive, character-building youth sports coaching resources to help coaches and sport educators develop teams to be Game For Life. These resources include online articles and courses. PCA’s goal is to develop better athletes, better people and transform the youth sports culture into a Development Zone ® where all youth and highs school athletes have a positive, character-building experience. Visit their [website](https://www.positivecoach.org/) today for coaching resources. 
+CoachSG partners [Positive Coaching Alliance (PCA)](https://www.positivecoach.org/) <a href="https://www.positivecoach.org/" target="_blank">testing</a> to offer positive, character-building youth sports coaching resources to help coaches and sport educators develop teams to be Game For Life. These resources include online articles and courses. PCA’s goal is to develop better athletes, better people and transform the youth sports culture into a Development Zone ® where all youth and highs school athletes have a positive, character-building experience. Visit their [website](https://www.positivecoach.org/) today for coaching resources. 
 
 In [Support of Coaching](https://www.positivecoach.org/):
 ![PCA](/images/Sport%20Education/Sports%20Leadership/Resource/PCA_logo.jpeg)
