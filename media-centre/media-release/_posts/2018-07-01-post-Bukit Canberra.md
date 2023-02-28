@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+**MEDIA RELEASE**
+
+**Sembawang Residents to Embrace Sport, Health, Food, Greenery and Heritage at Bukit Canberra**
+
