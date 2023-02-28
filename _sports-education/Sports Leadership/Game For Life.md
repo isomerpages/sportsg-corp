@@ -32,3 +32,10 @@ To determine whether the Game For Life Toolkit was effective in values inculcati
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZK2x-qPFZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### **Game For Life Workshops**
+If you are keen to incorporate the framework into your existing sport lessons and trainings, the Game for Life Workshop will equip sport educators with a deeper understanding of the necessary components required to intentionally design sporting activities to develop values for character & leadership development.
+
+Each workshop will cover:
+* Practical Demonstration of Values-based training session
+* Principles and concepts of the Game-for-Life (GFL) framework
+* Experiential segment infusing GFL framework in designing training plans
+* Sharing and networking with teachers/coaches from other sports
