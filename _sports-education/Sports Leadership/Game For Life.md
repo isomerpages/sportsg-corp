@@ -47,3 +47,11 @@ Each workshop will cover:
 #### **Game For Life Community of Practice (CoP)**
 ![Game For Life Community of Practice (CoP)](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/IMG_9335.jpeg)
 The Game For Life (GFL) Community of Practice (CoP) was started in 2016 which brings together sport educators and coaches to share best practices on Character and Leadership Development through Sport (CLDS). The purpose of the GFL CoP is to provide a platform for coaches and sport educators to continue upskilling themselves to achieve outcomes in the affective domain by learning from one another and subject matter experts. Past sessions of some GFL CoP sessions are recorded [here](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Latest).
+
+**Who is the GFL CoP for?**
+
+The GFL CoP is for any sport educator (eg. PE teacher) and coach who has a keen interest in CLDS (eg. values inculcation in sport) and is currently also implementing CLDS practices in his/her teaching/coaching. The Game For Life CoP is also for any previous participant of the Game For Life workshop who would like to continue learning about CLDS. 
+
+**When is the next GFL CoP session?**
+
+The next GFL CoP session is on **23 June (Wed), 7pm - 9pm**. The session will be held on **Zoom**. The theme of this session is **"Innovative Character and Leadership Development through Sport"**.
