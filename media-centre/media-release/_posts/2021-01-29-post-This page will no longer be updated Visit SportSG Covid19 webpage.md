@@ -18,3 +18,10 @@ Sport Singapore’s Advisory For Resumption Of Sport And Physical Exercise & Act
 <br>**[Download Annex](/files/Media%20Centre/Media%20Release/2021/January/Annex%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three.pdf)**
 <br>**[Download FAQ PDF](/files/Media%20Centre/Media%20Release/2021/January/20%20Jan_%20FAQs%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three_compressed.pdf)**
 
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0001.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0002.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0003.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0004.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0005.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0006.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/29%20Jan_Sport%20Singapore's%20Advisory%20for%20Resumption%20of%20Sport_PA_PE%20for%20Phase%20Three%20copy_page-0007.jpeg)
