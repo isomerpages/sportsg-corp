@@ -24,8 +24,7 @@ Mr Ong, together with his fellow Advisers to Sembawang GRC Grassroots Organisati
 Bukit Canberra will have facilities by Sport Singapore (SportSG), Ministry of Health (MOH), National Healthcare Group Polyclinics (NHGP), National Environment Agency (NEA) and National Parks Board (NParks). With inputs from National Heritage Board (NHB), Bukit Canberra will also highlight the heritage of the area.
 
 **Greenery and Heritage**
-
-The development and landscaping of Bukit Canberra is shaped around the existing terrain, and retains and highlights the hilly characteristics and lush vegetation. More trees and shrubs will be planted throughout the entire site and be integrated with the various facilities to enhance the existing greenery and biodiversity, thereby allowing users to enjoy the hub’s features in a natural setting while at the same time bringing them closer to flora and fauna.
+<br>The development and landscaping of Bukit Canberra is shaped around the existing terrain, and retains and highlights the hilly characteristics and lush vegetation. More trees and shrubs will be planted throughout the entire site and be integrated with the various facilities to enhance the existing greenery and biodiversity, thereby allowing users to enjoy the hub’s features in a natural setting while at the same time bringing them closer to flora and fauna.
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Therapeutic%20Gardens.jpeg)
 _Artist impression of the Therapeutic Gardens_
@@ -81,8 +80,7 @@ _Artist impression of the Active Health Nutrition Studio_
 The hub will also have an Active Health Lab and Nutrition Studio to serve the Sembawang residents. The Active Health Lab, supported by Active Health Experts, is a proactive space where people can learn about preventive healthcare and exercise advisory through the management of Physical Activity, Nutrition, Sleep and Screen Time. The Lab leverages on knowledge of exercise, sport science, medicine, health and wellness that is supported by technology to encourage the community to embrace active living on a sustained basis with the aim of promoting the ownership of one’s health.
 
 **Health**
-
-Health and fitness will go hand-in-hand at Bukit Canberra by having sports and healthcare facilities such as a polyclinic, a senior care centre and sports facilities at the hub. This will allow the various agencies to work closely to help people improve their health and fitness.
+<br>Health and fitness will go hand-in-hand at Bukit Canberra by having sports and healthcare facilities such as a polyclinic, a senior care centre and sports facilities at the hub. This will allow the various agencies to work closely to help people improve their health and fitness.
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Polyclinic.jpeg)
 _Artist impression of the polyclinic_
@@ -107,27 +105,18 @@ _Artist impression of the community plaza_
 As the lead agency for Bukit Canberra, SportSG curated inputs to design and build the hub to allow fellow partners to have opportunities for co-programming through shared spaces. The hub is also designed to connect seamlessly with the existing and future cycling networks in Sembawang and the Park Connector Network.The Bukit Canberra is expected to be fully operational by September 2021.
 
 **Partners’ Quotes**
+<br><u>Sport Singapore</u>
+<br>Mr Lim Teck Yin, Chief Executive Officer of Sport Singapore:
+<br>“We are proud to be involved in the Bukit Canberra project and will do our utmost to co-create a vibrant and endearing community space with residents and grassroots organisations.  Through our efforts, we envision that people of all abilities will come together, play sport, socialise and stay healthy. We have incorporated elements like an inclusive gym, sheltered pool, more outdoor exercise areas, as well as the Active Health Lab to help people achieve their health and wellness goals. We believe the unique design of Bukit Canberra and its offerings will be a source of pride and joy for the residents and families.”
 
-Sport Singapore
+<u>People’s Association</u>
+<br>Mr Desmond Tan, Chief Executive Director of the People’s Association:
+<br>“The residents of Sembawang and neighbouring Yishun are excited about the upcoming Sembawang Sports and Community Hub. PA and the Sembawang GRC Grassroots Organisations are pleased to partner multiple agencies to offer residents activities at the community space that will bring families and neighbours closer in forging a more cohesive and vibrant Sembawang community.”
 
-Mr Lim Teck Yin, Chief Executive Officer of Sport Singapore:
+<u>National Healthcare Group Polyclinics</u>
+<br>Associate Professor Chong Phui-Nah, Chief Executive Officer, National Healthcare Group Polyclinics and Primary Care:
+<br>“Sembawang Polyclinic will be the National Healthcare Group’s first polyclinic that is sited within a community hub of family-friendly sports and recreational facilities. This presents an excellent opportunity for our patients to improve their health by staying active. NHGP is keen to collaborate with the various agencies co-located in Bukit Canberra to develop and support programmes in the community that will holistically and seamlessly serve to promote health and prevent disease across different ages. Sembawang Polyclinic will also support the growth and development of doctors undergoing their residency training in Family Medicine, and will have integrated family medicine and medical undergraduate training facilities.”
 
-“We are proud to be involved in the Bukit Canberra project and will do our utmost to co-create a vibrant and endearing community space with residents and grassroots organisations.  Through our efforts, we envision that people of all abilities will come together, play sport, socialise and stay healthy. We have incorporated elements like an inclusive gym, sheltered pool, more outdoor exercise areas, as well as the Active Health Lab to help people achieve their health and wellness goals. We believe the unique design of Bukit Canberra and its offerings will be a source of pride and joy for the residents and families.”
-
-People’s Association
-
-Mr Desmond Tan, Chief Executive Director of the People’s Association:
-
-“The residents of Sembawang and neighbouring Yishun are excited about the upcoming Sembawang Sports and Community Hub. PA and the Sembawang GRC Grassroots Organisations are pleased to partner multiple agencies to offer residents activities at the community space that will bring families and neighbours closer in forging a more cohesive and vibrant Sembawang community.”
-
-National Healthcare Group Polyclinics
-
-Associate Professor Chong Phui-Nah, Chief Executive Officer, National Healthcare Group Polyclinics and Primary Care:
-
-“Sembawang Polyclinic will be the National Healthcare Group’s first polyclinic that is sited within a community hub of family-friendly sports and recreational facilities. This presents an excellent opportunity for our patients to improve their health by staying active. NHGP is keen to collaborate with the various agencies co-located in Bukit Canberra to develop and support programmes in the community that will holistically and seamlessly serve to promote health and prevent disease across different ages. Sembawang Polyclinic will also support the growth and development of doctors undergoing their residency training in Family Medicine, and will have integrated family medicine and medical undergraduate training facilities.”
-
-National Parks Board
-
-Mr Kenneth Er, Chief Executive Officer of National Parks Board:
-
-“People have an innate affiliation to nature, and being close to nature can bring about restorative effects to mental well-being. Hence, conserving and enhancing the natural terrain and greenery of _Bukit Canberra_, and setting the new facilities within such an environment will enhance the experience for visitors. Being a biophilic City in a Garden is also about how communities become part of the ecosystem and stewards of nature. Through participating in community gardening activities and using the park, we hope park users will have opportunities to interact with and care for the green spaces within the hub.”
+<u>National Parks Board</u>
+<br>Mr Kenneth Er, Chief Executive Officer of National Parks Board:
+<br>“People have an innate affiliation to nature, and being close to nature can bring about restorative effects to mental well-being. Hence, conserving and enhancing the natural terrain and greenery of _Bukit Canberra_, and setting the new facilities within such an environment will enhance the experience for visitors. Being a biophilic City in a Garden is also about how communities become part of the ecosystem and stewards of nature. Through participating in community gardening activities and using the park, we hope park users will have opportunities to interact with and care for the green spaces within the hub.”
