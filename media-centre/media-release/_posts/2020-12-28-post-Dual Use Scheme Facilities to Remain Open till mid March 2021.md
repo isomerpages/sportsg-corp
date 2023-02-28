@@ -6,3 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+##### **[Download Media Release](/files/Media%20Centre/Media%20Release/2020/December/SportSG-MOE%20-%20Dual-Use%20Scheme%20Facilities%20to%20Remain%20Open.pdf)**
+
+![](/images/Media%20Centre/Media%20Release/2020/December/SportSG-MOE%20-%20Dual-Use%20Scheme%20Facilities%20to%20Remain%20Open%20copy_page-0001.jpeg)
+![](/images/Media%20Centre/Media%20Release/2020/December/SportSG-MOE%20-%20Dual-Use%20Scheme%20Facilities%20to%20Remain%20Open%20copy_page-0002.jpeg)
+![](/images/Media%20Centre/Media%20Release/2020/December/SportSG-MOE%20-%20Dual-Use%20Scheme%20Facilities%20to%20Remain%20Open%20copy_page-0003.jpeg)
+##### **[Download Media Release](/files/Media%20Centre/Media%20Release/2020/December/SportSG-MOE%20-%20Dual-Use%20Scheme%20Facilities%20to%20Remain%20Open.pdf)**
