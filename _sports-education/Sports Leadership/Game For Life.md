@@ -45,3 +45,5 @@ Each workshop will cover:
 *SportSG has partnered Republic Polytechnic for the conduct of the workshops. You will be directed to Republic Polytechnic's site for registration and upcoming workshop dates upon clicking the link [here.](https://www.rp.edu.sg/ace/short-course/Detail/game-for-life)*
 
 #### **Game For Life Community of Practice (CoP)**
+![Game For Life Community of Practice (CoP)](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/IMG_9335.jpeg)
+The Game For Life (GFL) Community of Practice (CoP) was started in 2016 which brings together sport educators and coaches to share best practices on Character and Leadership Development through Sport (CLDS). The purpose of the GFL CoP is to provide a platform for coaches and sport educators to continue upskilling themselves to achieve outcomes in the affective domain by learning from one another and subject matter experts. Past sessions of some GFL CoP sessions are recorded [here](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Latest).
