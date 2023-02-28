@@ -55,3 +55,11 @@ The GFL CoP is for any sport educator (eg. PE teacher) and coach who has a keen 
 **When is the next GFL CoP session?**
 
 The next GFL CoP session is on **23 June (Wed), 7pm - 9pm**. The session will be held on **Zoom**. The theme of this session is **"Innovative Character and Leadership Development through Sport"**.
+
+You may sign up for the session [here](https://form.gov.sg/609b58944610f70011044cea).
+
+**Where are the GFL CoP sessions held?**
+
+The GFL CoP sessions are previously held on Sport Singapore's premise at Singapore Sports Hub. In view of the pandemic situation, GFL CoP sessions will be held virtually until further notice as per COVID-19 government advisories. 
+
+Please [contact us](mailto:hong_xue_en@sport.gov.sg) if you have any questions.
