@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-More Singaporeans Participating in Sports
-Singapore
+### **More Singaporeans Participating in Sports**
 
 The notion that 'sports means health and health means wealth' is gaining increasing acceptance in Singapore, judging from the results of the Singapore Sports Council's (SSC) latest 2005 National Sports Participation Survey (NSPS). In the past five years, the sports arena in Singapore has not only experienced an increase in participation levels, but the variety of sports played has also broadened.
 
