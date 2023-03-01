@@ -6,14 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore Launches Invitation to Tender for Sports Hub PPP Project
-Singapore , 31 Jul 2006
+### **Singapore Launches Invitation to Tender for Sports Hub PPP Project**
 
-Singapore Launches Invitation to Tender for Sports Hub PPP Project
-statics0
 Bid documents for mega project to be released today, consortiums have till December 2006 to submit proposals
-
-Singapore, 31 July 2006
 
 The Singapore government today launched the Invitation to Tender (ITT) for the much anticipated Singapore Sports Hub Public-Private-Partnership (PPP) project. The three short-listed consortiums will be required to submit their proposals for one of the world's largest sports infrastructure PPP project by the end of this year.
 
@@ -34,22 +29,30 @@ The Sports Hub will be a fully integrated sports, entertainment and lifestyle hu
 
 Enclosures
 
-Annex A: Details on pre-qualified consortiums
-Annex B: Project timeline
-Annex C: Sports Hub fact sheet
-
+[Annex A: Details on pre-qualified consortiums](/files/Media%20Centre/Media%20Release/2006/July/31JulMRshannexa.pdf)
+<br>
+[Annex B: Project timeline](/files/Media%20Centre/Media%20Release/2006/July/31JulMRANNEXBSportsHub.pdf)
+<br>
+[Annex C: Sports Hub fact sheet](/files/Media%20Centre/Media%20Release/2006/July/31JulMRAnnexc.pdf)
 
 For more on the Sports Hub, please log on to www.ssc.gov.sg.
 
 
 For media inquiries, please contact:
+<br>
 Alvin Hang
+<br>
 Assistant Director
+<br>
 (Group Communications)
+<br>
 Singapore Sports Council
+<br>
 DID: 6340-9590
+<br>
 Mobile: 9222-1010
-Email: alvin_hang@ssc.gov.sg
+<br>
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 
 About SSC
