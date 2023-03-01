@@ -3,8 +3,7 @@ title: Testing
 permalink: /testing/
 description: ""
 ---
-<html>
-	<ul class="jekyllcodex_accordion">  
+<ul class="jekyllcodex_accordion">  
 <li>  
 <input type="checkbox" id="accordion1">  
 <label for="accordion1">Simple</label>  
@@ -54,4 +53,4 @@ to become just one line\\n even though there are multiple lines
 </ul>  
 </div>  
 </li>  
-</ul></html>
+</ul>
