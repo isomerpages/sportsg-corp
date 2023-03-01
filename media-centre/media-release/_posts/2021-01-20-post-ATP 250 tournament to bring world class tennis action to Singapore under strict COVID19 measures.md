@@ -7,3 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
+[Download Media Release](/files/Media%20Centre/Media%20Release/2021/January/Media%20StatementATP%20250%20tournament%20to%20bring%20worldclass%20tennis%20action%20to%20Singapore%20under%20strict.pdf)
+
+![](/images/Media%20Centre/Media%20Release/2021/January/Media%20StatementATP%20250%20tournament%20to%20bring%20worldclass%20tennis%20action%20to%20Singapore%20%20Pg%2001.jpeg)
+![](/images/Media%20Centre/Media%20Release/2021/January/Media%20StatementATP%20250%20tournament%20to%20bring%20worldclass%20tennis%20action%20to%20Singapore%20%20Pg02.jpeg)
+
+[Download Media Release](/files/Media%20Centre/Media%20Release/2021/January/Media%20StatementATP%20250%20tournament%20to%20bring%20worldclass%20tennis%20action%20to%20Singapore%20under%20strict.pdf)
