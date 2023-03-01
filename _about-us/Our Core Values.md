@@ -29,3 +29,27 @@ through sports.
 	We work with all people with care and respect, and in ways that will inspire and empower them to achieve their fullest potential.
 </div> 
 </div>
+
+<table>
+	<tr>
+		<td><img src="/images/About%20Us/Values%20&%20Mission/Core%20Values/Sport%20Singapore%20at%20Inter%20House%20Sports%20Comp.jpeg" alt="Passion for Sports" style="" /></td>
+		<td><b>Passion for Sports</b> 
+<p>We are passionate about the power of sports to inspire pride and excellence in people's lives.</p><td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td><img src="/images/About%20Us/Values%20&%20Mission/Core%20Values/people.jpeg" alt="Care for People"  /></td>
+		<td><b>Care for People</b> 
+<p>We work with all people with care and respect, and in ways that will inspire and empower them to achieve their fullest potential.</p><td>
+	</tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="/images/About%20Us/Values%20&%20Mission/Core%20Values/teamwork.jpeg" alt="Strength through Teamwork" /></td>
+    <td><b>Strength through Teamwork</b> 
+<p>We achieve our common goals through the synergy of our collective strengths.</p><td>
+  </tr>
+</table>
