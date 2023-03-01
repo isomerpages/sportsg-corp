@@ -6,12 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Sports Hub Consortiums Beef Up Teams In Lead Up To Bid Submissions Deadline
-Singapore , 25 Jan 2007
-
-Sports Hub Consortiums Beef Up Teams In Lead Up To Bid Submissions Deadline
-statics0
-Singapore, 25 January 2007
+### **Sports Hub Consortiums Beef Up Teams In Lead Up To Bid Submissions Deadline**
 
 The three consortiums short-listed for the Singapore Sports Hub Project have beefed up their consortium teams in an effort to strengthen their proposals leading up to the bid submission deadline on 28 February 2007.
 
@@ -19,64 +14,64 @@ The consortiums have added new partners who will provide expertise in the areas 
 
 Oon Jin Teik, CEO of the Singapore Sports Council said, "As we approach the final stretch of the Invitation To Tender (ITT) for the Singapore Sports Hub, I am pleased to see the consortiums bringing on new partners and expert advice. Over the last few months, the consortiums have taken the project brief, digested it and understood very clearly our project objectives. This addition of new consortium partners signals their recognition of the areas of importance to focus and to put up the best proposals that will meet our vision for the Sports Hub."
 
-New Partners
+**New Partners**
 
-The consortiums have added the following new partners:
-
+**The consortiums have added the following new partners:**
+<br>
 Alpine Consortium (led by Alpine Mayreder Bau GmbH/ Alpine Bau Deutscheland AG/ AFP)
-
+<br>
 Tim Hupe Architects Germany (Lead architect/ master planner)
-
+<br>
 Squire Mech Pte Ltd (M&E engineer)
-
+<br>
 Dalkia (Facility management)
-
+<br>
 Alpine, Babcock & Brown and Great Eastern (Funding partner)
-
+<br>
 Ashurst International Lawyers (Legal advisor)
-
+<br>
 The Singapore Gold consortium (led by Macquire Group)
-
+<br>
 John Laing Infrastructure Ltd (Funding partner)
-
+<br>
 Freehills (Legal advisor)
-
+<br>
 Marsh (Insurance advisor)
-
+<br>
 The Singapore Sports Hub Consortium (led by Dragages Singapore Pte Ltd)
-
+<br>
 CICADA (Landscape architect)
-
+<br>
 DHI Water and Environment (Environmental consultant)
-
+<br>
 Duffill Watts (Traffic consultant)
-
+<br>
 Faithful & Gould (Technical advisor)
-
+<br>
 Global Spectrum (Comcast Spectator - PICO - Venue management, Event programming and marketing)
-
+<br>
 World Sport Group (Event promoter)
-
+<br>
 ARM (Sport consultant)
-
+<br>
 Knight Frank (Retail/ Commercial advisor)
-
+<br>
 Ernst & Young (Taxes advisor)
-
+<br>
 Rajah & Tann (Legal advisor)
-
+<br>
 Norton Rose (PPP legal advisor)
-
+<br>
 AON (Insurance advisor)
 
-Bids will be evaluated on four criteria:
-
+**Bids will be evaluated on four criteria:**
+<br>
 Appeal of sports, leisure and entertainment programming (40%)
-
+<br>
 Functionality and quality design (25%)
-
+<br>
 Financial and legal appeal (25%)
-
+<br>
 Facilities management (10%)
 
 
@@ -89,6 +84,7 @@ Enclosures
 [ANNEX B Singapore Sports Hub Project Timeline](/files/Media%20Centre/Media%20Release/2007/January/25Jan07MRANNEXBSportsHub.pdf)
 <br>
 [ANNEX C Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2007/January/25Jan07MRAnnexc.pdf)
+
 
 
 For media inquiries, please contact:
