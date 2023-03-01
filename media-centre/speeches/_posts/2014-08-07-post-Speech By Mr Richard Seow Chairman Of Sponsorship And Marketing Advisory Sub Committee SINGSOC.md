@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Mr Chaly Mah, Chairman, Deloitte Singapore
  
 Mr Philip Yuen, CEO, Deloitte Singapore
@@ -28,7 +27,3 @@ Good afternoon, and thank you for joining us today as we welcome onboard Deloitt
 6. I foresee this partnership will bring a lot more opportunities and knowledge to Sporting Singapore beyond the Games. Together with Deloitte, let's Celebrate the Extraordinary! 
 
 7. Thank you.
-
-#### **Related Link:** 
-  
-**Press Release** - [Deloitte Appointed The Official Professional Services Partner For The 28th SEA Games](http://www.sportsingapore.gov.sg/newsroom/media-releases/2014/8/deloitte-appointed-the-official-professional-services-partner-for-the-28th-sea-games)
