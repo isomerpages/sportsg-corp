@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Singapore Bids to Host World Athletics Championships in 2025**
+
 Singapore has announced Singapore25, its bid to host the World Athletics Championships in 2025. If successful, this would be the first time the global blue-ribbon event will be hosted in Southeast Asia. 2025 will be Singapore’s 60th year of independence and this premier event and festival of sport would be a fitting addition to the nation’s celebrations.  
   
 The iconic city state, already renowned as an international hub and home of prestigious international sporting events such as the Formula 1 Singapore Grand Prix, has set its sights on becoming the gateway for athletics for Southeast Asia, a region of untapped potential for the sport.  
