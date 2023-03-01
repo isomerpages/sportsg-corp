@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **7 New Athletes from 4 Sports join the 2022 Cohort of spexScholars**
 **7 NEW ATHLETES FROM 4 SPORTS JOIN THE 2022 COHORT OF SPEXSCHOLARS**
 
