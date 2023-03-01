@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Speech By Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister For National Security, Minister For Home Affairs And President Of The Singapore National Olympic Council, At The Multi-Million Dollar Award Programme Presentation Ceremony**
 
 Athletes, Parents and Officials;
@@ -45,4 +44,3 @@ Ladies and Gentlemen;
 13	Finally, please join me in thanking all our sponsors and partners who contributed, each one in your own important ways, to Team Singapore’s success in Myanmar; and in particular to Tote Board for its generous sponsorship of this SNOC Multi-Million Dollar Award Programme. Your continued support of MAP since 1993 is much appreciated. 
 
 14	Every sporting success we celebrate is the result of the collective efforts of all of you who make up Team Singapore. Together, We Are Stronger. Thank you.
-
