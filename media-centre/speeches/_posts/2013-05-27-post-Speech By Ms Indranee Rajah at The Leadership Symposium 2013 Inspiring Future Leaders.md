@@ -9,8 +9,6 @@ image: ""
 ---
 ### **Speech By Ms Indranee Rajah, Senior Minister Of State, Ministry Of Law And Ministry Of Education, At The 'Leadership Symposium 2013 - Inspiring Future Leaders'**
 
-
-
 Ms Yeoh Chee Yan, Permanent Secretary, Ministry of Community, Culture and Youth
 
 Professor Arnoud De Meyer, President, Singapore Management University
