@@ -79,7 +79,6 @@ Standard Chartered uniquely derives 95% of profits from Asia, Africa and the Mid
 
 
 Some of the major awards won in 2005 by the Bank include:
-<br>
 1. IFR Asia's Domestic Bond House of the Year
 2. Finance Asia's Best Local Currency Bond House & Best Securitisation House
 3. Asia Risk's Interest Rates Derivatives House of the Year
