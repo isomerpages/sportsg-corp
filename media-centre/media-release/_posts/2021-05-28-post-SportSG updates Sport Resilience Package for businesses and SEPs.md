@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **SportSG updates Sport Resilience Package for businesses and SEPs**
+
 The recent tightening of measures under the Phase 2 (Heightened Alert) has significantly impacted the sport and fitness industry. Sports and fitness are important to our health and well-being and the Government is committed to supporting the sector through this period.
 
 <u>New Broad-based Measures</u>
