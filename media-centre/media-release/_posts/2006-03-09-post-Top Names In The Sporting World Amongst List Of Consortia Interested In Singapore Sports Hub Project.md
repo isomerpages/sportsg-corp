@@ -11,7 +11,7 @@ image: ""
 
 Top Names In The Sporting World Amongst List Of Consortia Interested In Singapore Sports Hub Project
 
-At the close of the pre-qualification stage of the tender exercise for the Singapore Sports Hub on 28 February 2006, the Singapore Sports Council (SSC) received four applications containing the names of 28 local and foreign companies. The companies are a good mix with varying competencies - including banks, architects, event management companies, construction companies, real estate developers, facilities operators and consultants. Names of all the participating companies are in the Annex (click here).
+At the close of the pre-qualification stage of the tender exercise for the Singapore Sports Hub on 28 February 2006, the Singapore Sports Council (SSC) received four applications containing the names of 28 local and foreign companies. The companies are a good mix with varying competencies - including banks, architects, event management companies, construction companies, real estate developers, facilities operators and consultants. Names of all the participating companies are in the Annex (click [here](/files/Media%20Centre/Media%20Release/2006/March/Annex090306pdf.pdf)).
 
 Said Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, "I am pleased that top-tier foreign and local companies such as stadium architect HOK, Macquarie Bank, Alpine, SMG Entertainment, Dragages, HSBC and Woh Hup are part of the consortia bidding for the project. The presence of such illustrious companies indicates that there is strong global market interest to participate in the project."
 
