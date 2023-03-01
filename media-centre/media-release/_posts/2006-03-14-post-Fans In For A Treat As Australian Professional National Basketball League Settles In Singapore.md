@@ -57,7 +57,7 @@ DID: 6340-9590
 <br>
 Mobile: 9222-1010
 <br>
-Email: alvin_hang@ssc.gov.sg
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 
 
