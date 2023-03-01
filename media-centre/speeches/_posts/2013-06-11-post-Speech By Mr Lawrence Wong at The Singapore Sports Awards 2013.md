@@ -21,7 +21,7 @@ Distinguished Guests,
 Ladies and Gentlemen,
 
 
-Celebrating our Achievements
+**Celebrating our Achievements**
 
 1. I am very happy to join you this evening at the Singapore Sports Awards 2013 to recognise the best in Sporting Singapore. And it's also very good to see the SMU Orchestra here with us tonight. It shows that arts and sports can fit well together, and perhaps that explains why both portfolios are now in my Ministry - the new Ministry of Culture.
 
