@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **It gets all physical at GetActive! Singapore 2022**
+
 It’s time for everyone to get active, let’s Play On, Play Together in celebration of our nation’s 57th birthday  
   
 Singapore, 27 June 2022 – Sport Singapore (SportSG) announced that GetActive! Singapore (GASG) 2022 will be back with an exciting line up of physical activities in the lead up to National Day after two years of virtual programming due to the pandemic.  
