@@ -26,9 +26,14 @@ Singapore Sports Council
 For media enquiries, please contact:
 
 Name: Mr Harold Lim
+<br>
 DID: 6354 8174
-Email: [harold_lim@mcys.gov.sg](mailto:harold_lim@mcys.gov.sg)
+<br>
+Email: [harold_lim@mcys.gov.sg]
+(mailto:harold_lim@mcys.gov.sg)
 
 Name: Mr Alvin Hang
+<br>
 DID: 6340 9590
+<br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
