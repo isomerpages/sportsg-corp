@@ -20,9 +20,9 @@ The Sports Hub will be a fully integrated sports, entertainment and lifestyle hu
 
 Enclosures
 
-Annex A: Names of companies that participated in the pre-qualification stage
-Annex B: Project timeline
-Annex C: Sports Hub fact sheet
+[Annex A: Names of companies that participated in the pre-qualification stage](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexA1.pdf)
+[Annex B: Project timeline](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexB.pdf)
+[Annex C: Sports Hub fact sheet](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexC.pdf)
 
 For more on the Sports Hub, please log on to https://www.sportshub.com.sg
 
