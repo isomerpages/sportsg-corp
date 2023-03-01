@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Media Statement -**  
-**SportSG’s Considerations when Deciding on the Disciplinary Actions against the Three Athletes**
+### **SportSG’s Considerations when Deciding on the Disciplinary Actions against the Three Athletes**
 
 There has been some public discussion regarding the disciplinary actions SportSG has taken against the three athletes – Joseph Schooling, Amanda Lim and Teong Tzen Wei. SportSG’s decision to suspend support for the athletes for a period of one month was made after an internal review, taking into account the athletes’ breach of the terms of the Agreement signed between the athletes and SportSG, international sporting benchmarks, and Singapore’s stance towards drug abuse.
 
