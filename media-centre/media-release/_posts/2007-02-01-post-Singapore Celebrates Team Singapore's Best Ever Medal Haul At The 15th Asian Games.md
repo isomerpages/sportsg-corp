@@ -57,7 +57,6 @@ Manager (Marketing Communications)
 <br>
 Singapore Sports Council
 <br>
-<br>
 DID: 63409616
 <br>
 HP: 91380942
