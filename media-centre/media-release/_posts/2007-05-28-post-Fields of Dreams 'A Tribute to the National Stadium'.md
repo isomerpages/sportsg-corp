@@ -41,7 +41,6 @@ Match Day (30 June):
 $20 Adult (excl. $2 SISTIC fee) / $12 Child/Student (excl. $1 SISTIC fee)
 
 
-
 For media inquiries, please contact:
 
 Susmita Dayanandan
