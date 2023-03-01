@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+
+### **7 New Athletes from 4 Sports join the 2022 Cohort of spexScholars**
 **7 NEW ATHLETES FROM 4 SPORTS JOIN THE 2022 COHORT OF SPEXSCHOLARS**
 
 In its continuous effort to review and support the athletes, Sport Singapore (SportSG) has announced that the Sport Excellence Scholarship (spexScholarship) programme will be welcoming another seven new athletes from four sports in its year 2022 cohort, bringing the total number of spexScholars to 77 athletes across 23 sports (see [Annex A](/files/Media%20Centre/Media%20Release/2022/Annex%20A.pdf) for the list of new spexScholars and their key achievements), including 17 athletes who joined the programme earlier this year. These seven athletes applied for the 2022 spexScholarship last year. 
