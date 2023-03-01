@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **This page will no longer be updated. Visit SportSG Covid-19 webpage: www.sportsingapore.gov.sg/covid19 for updates.**
+
 **This page will no longer be updated. Visit SportSG Covid-19 webpage: www.sportsingapore.gov.sg/covid19 for updates.** 
 
 (Updated as of 29 Jan 2021) Advisory For Resumption Of Sport And Physical Exercise & Activity For Phase Three  
