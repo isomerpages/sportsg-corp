@@ -39,4 +39,3 @@ Ladies and gentlemen,
 9. At this juncture, let me also take the opportunity to acknowledge the many supporters behind our athletes - your family members, friends and loved ones. All of you play a crucial role in this entire system of High Performance Sports. The Singapore Sports Council (SSC) can have resources to provide grants and the best sports science research for our athletes. But we cannot replace the role of parents and family members. I know all of you must be proud of the achievements of our spexScholars, and I am sure they are also appreciative of all the support that you have given to them over the years.
 
 10. Finally, l would like to congratulate once again our inaugural batch of spexScholars, and I wish all of you the very best in your sporting journeys ahead.
-
