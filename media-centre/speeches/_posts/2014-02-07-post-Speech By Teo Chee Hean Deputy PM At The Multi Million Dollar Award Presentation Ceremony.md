@@ -17,7 +17,7 @@ Colleagues from SNOC and SSC;
 
 Ladies and Gentlemen;
 
-           Good afternoon and a Happy New Year. Let me first wish every one good health, long life, happiness and success in this Year of the Horse.
+Good afternoon and a Happy New Year. Let me first wish every one good health, long life, happiness and success in this Year of the Horse.
 
 2	Today, we are here to celebrate the achievements of Team Singapore athletes at the 27th SEA Games in Myanmar. Team Singapore brought home 34 Gold, 29 Silver and 45 Bronze medals from the Games. Medals always unite people – when our flag is raised and when we sing Majulah Singapura – it is yet another moment for all of us to rejoice as one nation. 
 
