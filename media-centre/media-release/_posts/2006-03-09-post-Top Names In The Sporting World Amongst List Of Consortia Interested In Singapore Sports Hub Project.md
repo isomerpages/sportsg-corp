@@ -29,8 +29,7 @@ Name: Mr Harold Lim
 <br>
 DID: 6354 8174
 <br>
-Email: [harold_lim@mcys.gov.sg]
-(mailto:harold_lim@mcys.gov.sg)
+Email: [harold_lim@mcys.gov.sg](mailto:harold_lim@mcys.gov.sg)
 
 Name: Mr Alvin Hang
 <br>
