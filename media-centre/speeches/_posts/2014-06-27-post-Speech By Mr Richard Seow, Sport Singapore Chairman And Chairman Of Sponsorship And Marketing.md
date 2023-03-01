@@ -7,8 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 ### **Speech By Mr Richard Seow, Sport Singapore Chairman And Chairman Of Sponsorship And Marketing Advisory Sub-Committee, SINGSOC At The SINGSOC-SingTel Partnership Agreement Ceremony**
 
 Mr Lawrence Wong, Minister for Culture, Community and Youth and Chairman, Steering Committee, SINGSOC
