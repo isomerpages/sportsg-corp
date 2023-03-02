@@ -87,7 +87,7 @@ Enclosures
 
 
 
-For media inquiries, please contact:
+**For media inquiries, please contact:**
 
 Sharon Liew
 <br>
@@ -118,4 +118,5 @@ Email:[alvin_hang@ssc.gov.sg](mailto: alvin_hang@ssc.gov.sg)
 
 
 About SSC
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
