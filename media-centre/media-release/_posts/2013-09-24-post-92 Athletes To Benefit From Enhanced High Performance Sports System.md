@@ -6,13 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-92 Athletes To Benefit From Enhanced High Performance Sports System
-24 Sep 2013
+## **92 Athletes To Benefit From Enhanced High Performance Sports System**
 
 	
 
-Singapore, 24 September 2013 - The High Performance Sports (HPS) Steering Committee awarded 66 athletes across 15 sports the inaugural Sports Excellence Scholarship (spexScholarship) today. In addition, 26 athletes from nine sports who have demonstrated potential to progress to the level of a spexScholar in the future have been identified for targeted support.
-
+**Singapore, 24 September 2013** - The High Performance Sports (HPS) Steering Committee awarded 66 athletes across 15 sports the inaugural Sports Excellence Scholarship (spexScholarship) today. In addition, 26 athletes from nine sports who have demonstrated potential to progress to the level of a spexScholar in the future have been identified for targeted support.
+![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0042Imagegif.gif)
 2. The spexScholarship was announced earlier in March to provide enhanced support for highly talented Singaporean athletes with demonstrated potential for international sporting achievements. It will also increase the level of the support given through the existing HPS System.
 
 3. In all, the Singapore Sports Institute (SSI) received 218 nominations across 28 sports by the end of April 2013, of which 152 athletes from 20 sports were shortlisted for interviews. Following the interviews, the HPS Selection & Performance Sub-Committee and the HPS Steering Committee reviewed the shortlisted candidates and confirmed the list of spexScholars.
