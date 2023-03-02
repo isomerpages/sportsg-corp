@@ -45,4 +45,8 @@ When providing a blood sample, you will be asked to select from at least 3 sets 
 
 A trained BCO will perform the blood collection procedure in the presence of a DCO or Chaperone and, if applicable, the athlete representative.
 
-The BCO shall assess the most suitable vein for sample collection and clean the site. They will then unseal the hypodermic needle and attach the vaccutainers (self-sealing secure containers) and withdraw blood to fill the required number of tubes. No more than 3 attempts will be made per session. 
+The BCO shall assess the most suitable vein for sample collection and clean the site. They will then unseal the hypodermic needle and attach the vaccutainers (self-sealing secure containers) and withdraw blood to fill the required number of tubes. No more than 3 attempts will be made per session.
+
+**STEP 6: SELECTION OF A URINE SAMPLE COLLECTION KIT**
+You are given a choice of at least 3 individually sealed sample collection kits from which to choose one. You should verify that the equipment is intact and has not been tampered with. You will open the kit and confirm that the sample code numbers on the bottles, the lids, and the container all match. Also verify that the bottles are intact and has not been tampered with.
+![step6](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step6.jpeg)
