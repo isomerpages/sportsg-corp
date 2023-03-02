@@ -74,7 +74,14 @@ How to use your Coaching e-Logbook
 
 *   Upon completing a coaching activity, fill in the appropriate details within the Coaching Education/Practice (see image below for example) section within your [SportSync](http://www.sportsync.sg/) account.
 
-*   You may obtain proof of attendance via:  
-    *   Group photo of session attended
-    *   Email verification of attendance
-    *   Obtain a signature of the coordinator and/or official stamp of the organising body on a piece of paper and upload the image of it to your [SportSync](http://www.sportsync.sg/) account.
+* You may obtain proof of attendance via:  
+* Group photo of session attended
+* Email verification of attendance
+* Obtain a signature of the coordinator and/or official stamp of the organising body on a piece of paper and upload the image of it to your [SportSync](http://www.sportsync.sg/) account.
+
+Requirement:
+
+* The number of hours recorded in the Coaching Log Book but be equal to the number of hours spent on that activity. Sport Singapore will work with relevant course/programme organisers to link the recorded attendance of NROC members of their courses/programmes to Sport Singapore's database records
+    
+* All learning activities cannot be completed in the space of one year and must be spread over the three-year period.
+* Coaches should submit the completed Log Book together with NROC membership renewal at least three months prior to their membership expiry date. Sport Singapore and the NSAs will be responsible for reviewing the Log Book and the renewal application.
