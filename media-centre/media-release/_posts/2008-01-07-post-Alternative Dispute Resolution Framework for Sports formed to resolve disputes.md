@@ -18,7 +18,7 @@ Enhancement of professional practices and organisational excellence in NSAs
 
 4. In the majority of the cases, resolution should be implemented within the internal processes of the NSAs. However, should they be unsuccessful, the affected parties can refer the matter to the ADR Sports for mediation and arbitration for a conclusive resolution. All information exchanged during mediation and arbitration will be kept strictly confidential.
 
-Enhancing Singapore's position as a global sports hub for alternative dispute resolution
+	Enhancing Singapore's position as a global sports hub for alternative dispute resolution
 
 5. The availability of the ADR Sports will also enhance Singapore's attractiveness with best practices in the area of dispute resolution. This is also synergistic with Singapore's commitment to develop the sports industry's ADR infrastructure and services, as they are able to support various thrusts such as:
 <br>
