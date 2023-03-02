@@ -19,8 +19,11 @@ Singapore Sports Council's (SSC) Chief Executive Officer, Mr Oon Jin Teik said, 
 The allocation of NSA grants is based on SSC's outcome-funding model which was launched in 2005 and implemented in 2006. Under the funding model, each NSA programme is evaluated based on the NSAs ability to adhere and align itself to SSC's three strategic thrusts.
 
 The three strategic thrusts are:
+<br>
 High Performance - developing athletes and sport towards excellence
+<br>
 High Participation - increasing participation for the Sport
+<br>
 Industry Development - wide-ranging international sports event
 
 These strategic thrusts are specially developed with the aim of creating optimum impact towards achieving the Committee on Sporting Singapore (CoSS) objectives.
@@ -42,5 +45,5 @@ Email: [suhana_kharudin@ssc.gov.sg](mailto:suhana_kharudin@ssc.gov.sg)
 
 
 About Singapore Sports Council
-
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
