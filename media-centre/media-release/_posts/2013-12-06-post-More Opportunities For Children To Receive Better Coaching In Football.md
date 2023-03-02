@@ -27,10 +27,10 @@ Singapore, 6 December 2013 - The Football Association of Singapore (FAS) has tod
 
 -END-
 
-Annex: Bio Profile of Samuel Schweingruber
+[Annex](/files/Media%20Centre/Media%20Release/2013/Dec/Annex.pdf): Bio Profile of Samuel Schweingruber
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Jemuel Fu
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
