@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-SBBF's NSA Status Revoked
-16 Aug 2013
-
-
+## **SBBF's NSA Status Revoked**
 Singapore, 16 August 2013 - Singapore Sports Council (SSC) announced today that the Singapore Bodybuilding and Fitness Federation's (SBBF) National Sports Association (NSA) status has been revoked with immediate effect.
 
 2. The revocation is in response to the recent developments in SBBF, which had called into question its ability and credibility to carry out its responsibilities and obligations as the national governing body for the sport of bodybuilding.
@@ -35,8 +32,8 @@ About Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
-
-Follow us on Facebook at: www.facebook.com/SingaporeSports
-
-For a range of photographs, visit flickr.com/ssc-sportsphotography
+To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
+<br>
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
+<br>
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
