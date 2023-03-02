@@ -17,3 +17,6 @@ Governing policy that stipulates the anti-doping roles and responsibilities of k
 **WHEREABOUTS INFORMATION**
 
 To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
+
+* [ADS Athlete Whereabouts Policy](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Whereabouts_Policy_20190122.pdf) - **(Updated 22 January 2019)** - ADS policy stating the procedures for filing whereabouts information by athletes included in ADS Registered Testing Pool and ADS Domestic Testing Pool.
+* [ADS Whereabouts Authorised Representative Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Whereabouts_Authorised_Representative_Form_20190415.pdf) - **(Updated 17 April 2019)** - Form for athletes who want to delegate a third party to file their whereabouts information.
