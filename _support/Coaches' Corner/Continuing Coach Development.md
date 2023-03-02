@@ -26,3 +26,7 @@ Guiding the development of coaching is the following 3 key Enabling Strategies:
 *   Coach Education & Training
 *   Coach Employment
 *   Coach Recognition
+
+[Continuing Coach Education (CCE)](/coaches-corner/continuing-coach-development/continuing-coach-education-cce/)
+
+[Continuing Coach Education (CCE)](/coaches-corner/continuing-coach-development/continuing-coach-education-cce/)
