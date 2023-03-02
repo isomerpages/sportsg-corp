@@ -4,7 +4,7 @@ collections:
     order:
       - Testing/Test.md
       - Testing/.keep
+      - About/.keep
+      - About/About ADS.md
       - About/NADAB.md
       - About/Governance.md
-      - About/About ADS.md
-      - About/.keep
