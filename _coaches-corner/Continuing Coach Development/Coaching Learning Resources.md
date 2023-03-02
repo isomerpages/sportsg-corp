@@ -12,7 +12,7 @@ The COVID-19 situation has been a challenging time for all of us as face-to-face
 
 #### **Getting Started to Coach Online**
 
-**1. Guides for Online Coaching Practice**
+##### **1. Guides for Online Coaching Practice**
 
 **A. Quick-Starter Guide on Using Video-Conferencing Tools for E-Coaching**
 
@@ -36,3 +36,15 @@ CoachSG shares the ways to record your videos and how to convert them into gifs 
 [Designing a Word Up Challenge](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Designing_a_Word_Up_Challenge.pdf)
 
 (A video on how to design Word Up Challenges can be viewed [here](https://www.facebook.com/CoachSG1/videos/882258065626126/))
+
+##### **2. Online Coaching Opportunities**
+a. [ActiveSG Circle](https://circle.myactivesg.com/coaches/join-us)
+The ActiveSG Circle enables you to amplify your reach by contributing coaching content. It is easy to get started by:
+
+* Creating your coach profile
+* Submit your virtual class schedule
+* Conduct pre-recorded classes or host live classes
+
+b. CoachSG is currently working to offer more coaching opportunities for coaches during this period. So watch this space for updates.
+
+##### **3. Online Materials to Supplement Your E-Coaching**
