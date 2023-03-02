@@ -260,79 +260,78 @@ Annex E
 <br>Minister of State
 <br>Ministry of Trade and Industry
 
-
-Dr Ben Tan
+**Dr Ben Tan**
 <br>President, Singapore Sailing Federation
 
-Deborah Tan
+**Deborah Tan**
 <br>Principal, Singapore Sports School
 
-Edmond Pereira
+**Edmond Pereira**
 <br>Executive Director
 <br>Edmond Pereira Law Corporation
 
-Hugh Lim
+**Hugh Lim**
 <br>Deputy Secretary
 <br>Ministry of Culture, Community and Youth
 
-Dr Lam Pin Min
+**Dr Lam Pin Min**
 <br>President, Singapore Dragon Boat Association
 
-Ng Ser Miang
+**Ng Ser Miang**
 <br>Vice President
 <br>Singapore National Olympic Council
 
-Richard Seow
+**Richard Seow**
 <br>Singapore Sports Council
 
-Tan Ju Seng
+**Tan Ju Seng**
 <br>President
 <br>Singapore National Paralympic Council
 
-Tan Soo Nan
+**Tan Soo Nan**
 <br>Chief Executive Officer
 <br>Tote Board
 
 **High Performance Sports (HPS) Selection and Performance Sub-Committee**
-Chairman
-<br>Teo Ser Luck
+**Chairman
+<br>Teo Ser Luck**
 <br>Minister of State for Trade and Industry
 
 **Members**
-Abdullah Tarmugi
+**Abdullah Tarmugi**
 <br>Former Minister and Speaker of Parliament
 <br>Top School Sportsman
 
-Annabel Pennefather
+**Annabel Pennefather**
 <br>Vice President, Singapore National Olympic Council (SNOC)
 
-Deborah Tan
+**Deborah Tan**
 <br>Principal, Singapore Sports School
 
-Dr Patrick Goh
+**Dr Patrick Goh**
 <br>Chairman, Anti-Doping Singapore Advisory Board
 <br>Chairman, SEA RADO
 
-A/Prof Teo Koh Sock Miang
+**A/Prof Teo Koh Sock Miang**
 <br>President, Special Olympics
 
-Gary Pryke
+**Gary Pryke**
 <br>MD, Corporate & Finance, Drew & Napier
 <br>Master Athlete, Runner and Ultra Distance Swimmer
 
-Ho Ren Hua
+**Ho Ren Hua**
 <br>Executive Director and Country Head, China, Banyan Tree Holdings Ltd
 <br>Top School Track & Field athlete
 <br>Triathlete
 
-C Kunalan
+**C Kunalan**
 <br>Olympian
 <br>Singapore Sporting Icon
 
-Lim Teck Yin
+**Lim Teck Yin**
 <br>CEO, Singapore Sports Council
 
-Tan Yen Yen
+**Tan Yen Yen**
 <br>Senior Vice-President, Oracle Application
 <br>Triathlete and Advocate for Corporate Sports
 
