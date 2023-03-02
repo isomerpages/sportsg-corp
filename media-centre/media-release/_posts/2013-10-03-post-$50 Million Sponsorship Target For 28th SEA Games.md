@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ## **$50 Million Sponsorship Target For 28th SEA Games**
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/SEA%20Games%20logo.jpeg)
 
 ***Regional event profile, link to Singapore's 50th anniversary celebrations and long term brand building offer compelling sponsorship opportunities***
 
