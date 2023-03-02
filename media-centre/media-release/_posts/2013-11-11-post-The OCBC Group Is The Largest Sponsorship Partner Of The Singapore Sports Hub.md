@@ -40,8 +40,9 @@ image: ""
 13. This is the first Founding Partnership to be officially announced by the Singapore Sports Hub, which was facilitated by World Sport Group - Singapore Sports Hub's official Commercial Rights procurement partner.
 
 -END-
-For media enquiries, please contact:
 
+**For media enquiries, please contact:**
+<br>
 Sam Eatwell
 <br>Communications Manager 
 <br>Singapore Sports Hub
