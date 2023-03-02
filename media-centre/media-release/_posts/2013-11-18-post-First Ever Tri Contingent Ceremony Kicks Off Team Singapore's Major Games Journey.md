@@ -7,13 +7,13 @@ layout: post
 description: ""
 image: ""
 ---
-First Ever Tri-Contingent Ceremony Kicks Off Team Singapore's Major Games Journey
-18 Nov 2013
-
-Singaporeans to join the #ourteamsg movement in support of national athletes
+## **First Ever Tri-Contingent Ceremony Kicks Off Team Singapore's Major Games Journey**
 
 
-Singapore, 18 November 2013 - Close to 500 Team Singapore athletes and officials gathered at a flag presentation ceremony today to kick off their journey at the 1st Special Olympics Asia Pacific Games, 27th Southeast Asian (SEA) Games, and 7th ASEAN Para Games taking place between December 2013 and January 2014. This is the first time a combined flag presentation ceremony is being held for the athletes of the three major Games.
+*Singaporeans to join the #ourteamsg movement in support of national athletes*
+![](/images/Media%20Centre/Media%20Release/2013/Nov/FIRSTEVERTRICONTINGENTCEREMONYKICKSOFFTEAMSINGAPOREMAJORGAMESJOURNEYMainPar0064Imagegif.gif)
+
+**Singapore, 18 November 2013** - Close to 500 Team Singapore athletes and officials gathered at a flag presentation ceremony today to kick off their journey at the 1st Special Olympics Asia Pacific Games, 27th Southeast Asian (SEA) Games, and 7th ASEAN Para Games taking place between December 2013 and January 2014. This is the first time a combined flag presentation ceremony is being held for the athletes of the three major Games.
 
 2. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, said: "I would like to congratulate all our athletes who have been selected to compete for our nation, and to fly our flag high overseas. Whether you are headed for the Special Olympics Asia Pacific Games, SEA Games or ASEAN Para Games, all of you represent the best of what Singapore stands for - a can-do attitude, a never-say-die spirit, and a commitment to purpose. All of you have in your own ways, inspired and motivated Singaporeans to live better through sports."
 
