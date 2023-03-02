@@ -24,7 +24,7 @@ MOU reaffirms commitment to bring local sports to Singaporeans
 
 6. StarHub and SSC will work together to progressively introduce new digital media initiatives, including the use of second screen technology for local sports events. This would enable sports fans to receive match analytics and view instant replays while watching the game.
 
-Free sports for all: SuperSports Arena reaches almost all Singapore households on 76.25MHz
+**Free sports for all: SuperSports Arena reaches almost all Singapore households on 76.25MHz**
 
 7. StarHub also announced the launch of the new revamped SuperSports Arena, which will now be available free of charge to almost all households in Singapore from 10 October 2013, including those without a StarHub TV set-top box. Previously available only on StarHub TV Channel 112 and 201, the channel will be fully decrypted, allowing any sports fan with an activated cable point to tune in to the channel at 76.25MHz.
 
@@ -38,7 +38,7 @@ Free sports for all: SuperSports Arena reaches almost all Singapore households o
 
 12. Lastly, active lifestyle programmes such as healthyMEtv which advocate healthy living through exercise and proper nutrition will also be featured. By arming viewers with information on how to exercise, improve their diet and prevent the onset of lifestyle diseases, the content will inspire a new generation of Singaporeans to increase their participation in and support for sports
 
-Launch of new daily sports news show SuperSports 360
+**Launch of new daily sports news show SuperSports 360**
 
 13. The re-launch of SuperSports Arena also sees the debut of a new daily sports news show called SuperSports 360.
 
