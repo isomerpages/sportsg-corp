@@ -35,7 +35,7 @@ You have the right to:
 * Obtain photo identification
 * Any other exceptional circumstances which may be justified, and which shall be documented
 
-#### **ATHLETE RESPONSIBILITIES**  
+**ATHLETE RESPONSIBILITIES**  
   
 You have the responsibility to:
 
@@ -47,7 +47,7 @@ You have the responsibility to:
     
 * Report immediately to the Doping Control Station
     
-**ATHLETE SUPPORT PERSONNEL**
+#### **ATHLETE SUPPORT PERSONNEL**
 
 As an athlete support personnel, you must know and understand your roles and responsibilities when supporting athletes. You play an integral part in shaping good anti-doping behaviours in athletes whom you support.  
   
