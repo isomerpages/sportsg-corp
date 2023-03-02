@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **The biggest unified sport competition in Singapore**
+
 **The biggest unified sport competition in Singapore**
 
 _Special Olympics Singapore and SportCares team up to co-organise Singapore’s biggest unified competition for athletes with intellectual disabilities and students from mainstream schools_
