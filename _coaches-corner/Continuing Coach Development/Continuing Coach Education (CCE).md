@@ -71,3 +71,10 @@ The Coaching Logbook has now gone digital, and you can access it within your [S
 The purpose of the Coaching e-Log Book is to record coaching experiences and upgrading courses attended by a coach. It will also be used as a point of reference for a coach’s eligibility to renew their NROC membership upon its expiry.
 
 How to use your Coaching e-Logbook
+
+*   Upon completing a coaching activity, fill in the appropriate details within the Coaching Education/Practice (see image below for example) section within your [SportSync](http://www.sportsync.sg/) account.
+
+*   You may obtain proof of attendance via:  
+    *   Group photo of session attended
+    *   Email verification of attendance
+    *   Obtain a signature of the coordinator and/or official stamp of the organising body on a piece of paper and upload the image of it to your [SportSync](http://www.sportsync.sg/) account.
