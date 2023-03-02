@@ -27,8 +27,11 @@ image: ""
 For media enquiries, please contact:
 
 Alvin Hang 
+<br>
 Director, Corporate Communications & Relations
+<br>
 Singapore Sports Council
+<br>
 Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
 
 **About the Singapore Sports Council**
