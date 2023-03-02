@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Historic Performances Buoy Team Singapore At The 27th SEA Games
-22 Dec 2013
+## **Historic Performances Buoy Team Singapore At The 27th SEA Games**
 
-Young debutants impressed while good spread of sports delivered medals
+*Young debutants impressed while good spread of sports delivered medals*
 
 Myanmar, 22 December 2013 – Many historic firsts achieved; five SEA Games and five National records broken; and over 100 debutants making their mark. This was how Team Singapore concluded its campaign at the 27th Southeast Asian (SEA) Games in Nay Pyi Taw, Myanmar today. In total, our contingent of 309 athletes garnered a total of 108 medals consisting of 34 Gold, 29 Silver and 45 Bronze at the Myanmar Games.
 
@@ -103,4 +102,3 @@ Team Singapore inspires our nation’s athletic talents to continually evolve th
 For further information on Team Singapore, please visit www.teamsingapore.com.sg and www.ourteamsg.com 
 <br>
 Follow Team Singapore's action on Facebook at www.facebook.com/TeamSG and #ourteamsg on Instagram.
-
