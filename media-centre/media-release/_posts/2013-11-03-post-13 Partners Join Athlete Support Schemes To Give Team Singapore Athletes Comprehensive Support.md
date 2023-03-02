@@ -27,7 +27,7 @@ Sports Excellence (Spex) Career Scheme
 6. Mr Stephen Tjoa, Partner for People, Performance & Culture at KPMG Singapore agrees and believes that there are mutual benefits for athletes and businesses. "Our athletes help to inject more vibrancy to our firm's efforts to develop a supportive environment that plays a key role in motivating and empowering young talents. It also emphasises the importance of achieving an optimal and harmonious relationship between pursuing sports professionally and fulfilling one's individual aspirations and potential."
 
 Sports Excellence (Spex) Education Scheme
-
+<br>
 	
 7. The Spex Education Scheme is designed to provide student athletes sufficient flexibility to enable them to pursue their chosen sport while maintaining a certain academic rigor. It also allows them to leverage on their sporting achievements to gain admission into Institutes of Higher Learning (IHLs) and be merited for their dedication to their sport.
 
