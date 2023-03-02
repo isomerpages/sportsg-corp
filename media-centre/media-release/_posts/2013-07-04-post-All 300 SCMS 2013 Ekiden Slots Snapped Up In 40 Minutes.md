@@ -124,13 +124,13 @@ StarHub is Singapore's fully-integrated info-communications company, offering a 
 
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MSCI Singapore Free Index.
 
-For more details, please visit[http://www.starhub.com](http://www.starhub.com)
+For more details, please visit [http://www.starhub.com](http://www.starhub.com)
 
 **About Volvo**
 
 As the Official Car Sponsor of Standard Chartered Marathon 2013, Volvo is proud to provide a fleet of cars that reflect the common athletic traits of agility, performance and excellence. The presence of these Volvo cars at the event will echo both the dynamism and energy of Standard Chartered Marathon 2013. For more information, please visit www.volvocars.com/sg or the Volvo showroom at 249 Alexandra Road today.
 
-About Nathan Performance Gear
+**About Nathan Performance Gear**
 
 Inspiration.
 
@@ -138,9 +138,9 @@ It's what drives our athletes to be better, stronger, faster. It's why they refu
 
 It's this tireless pursuit that has made Nathan Performance Gear a world leader of innovative hydration, reflective, and multisport gear and accessories. Nathan's line of race belts and vests, bladder packs, handhelds, runner's packs, bottles, and reflective vests and accessories continue to help athletes of all levels redefine humanly possible. Available in specialty running shops, sporting goods stores, and over 35 countries worldwide, Nathan Performance Gear is a subsidiary of Penguin Brands, Inc.
 
-For more details, please visit http://www.nathansports.com/index.php
+For more details, please visit [http://www.nathansports.com/index.php](http://www.nathansports.com/index.php)
 
-About Shotz Sports Nutrition
+**About Shotz Sports Nutrition**
 
 Interestingly Shotz was developed originally for endurance events but now is being used in all types of sports and activities. From sports lasting as little as three minutes through to multi-day events, from ball sports to water sports and everything in between. Shotz is the brand of sports nutrition products respected by world-class athletes and active lifestyle enthusiasts at all levels and from all walks of life. To the consumer, the Shotz brand represents not only a lifestyle but superior product quality, the state-of-the-art in performance nutrition science, and an unparalleled level of customer care.
 
@@ -152,24 +152,24 @@ We are not a marketing company with mediocre products.
 
 It is important to know the difference.
 
-For more details, please visit http://shotz.sg
+For more details, please visit [http://shotz.sg](http://shotz.sg)
 
-About Give.Asia
+**About Give.Asia**
 
 GIVE is Singapore's leading online charity fundraising platform that allows people to donate or fundraise for the charity of their choice in a simple, fun and easy way. Tens of thousands of people use GIVE regularly to do good to support hundreds of charities that are listed on the platform.
 
-To learn more, visit www.giveasia.org
+To learn more, visit [www.giveasia.org](www.giveasia.org)
 About the Singapore Sports Council
 
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
+To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
 
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
-About Standard Chartered Bank in Singapore
+**About Standard Chartered Bank in Singapore**
 
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
