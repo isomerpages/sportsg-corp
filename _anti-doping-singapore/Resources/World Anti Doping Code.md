@@ -34,3 +34,5 @@ The International Standard for the Protection of Privacy and Personal Informatio
 ![International Standard for Education](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISE_2021.jpeg)
 [International Standard for Education](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-education-ise) - The International Standard for Education is to support the preservation of the spirit of sport as outlined in the Code and to help foster a clean sport environment.
 
+![International Standard for Results Management](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISRM_2021.jpeg)
+[International Standard for Results Management](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-results-management-isrm) - The International Standard for Results Management is to set out the core responsibilities of the Anti-Doping Organisations with respect to Results Management.
