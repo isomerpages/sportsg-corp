@@ -23,7 +23,7 @@ Ladies and Gentlemen
 
 3	I would like to extend a very warm and special welcome to our friends from overseas who have journeyed from near and far to make this conference a success. I am sure their contributions to this conference are going to be incredibly meaningful and insightful.
 
-Vision 2030
+**Vision 2030**
 
 4	With the stresses of modern day living and a more complex world, we believe that sport has the power to change lives for the better and to bring communities together to enhance the quality of life for us all.
 
@@ -41,7 +41,7 @@ Vision 2030: SSP’s role
 
 8	The Sports School plays a special role in Vision 2030 and the sporting ecosystem.
 
-Organising For Success
+**Organising For Success**
 
 9	If we are to fully optimise sport as a vehicle to support the implementation of national priorities, we need to collaborate and coordinate the efforts across the private, public and people sectors. ‘Organising for Success’ looks at how we can achieve this.  
 
@@ -53,7 +53,7 @@ Organising For Success
 
 13	We are excited and look forward to the review as part of the Vision 2030’s ‘Organising for Success’ efforts.
 
-Sport Without Boundaries
+**Sport Without Boundaries**
 
 14	'Sport Without Boundaries' is the next theme under Vision 2030. We believe that sport has room for everyone who wants to play, regardless of age, capabilities, gender or social status. Sport Without Boundaries will provide everyone with the sports programming, physical space and people-support they need to pursue an active, healthy life through sports.
 
@@ -65,7 +65,7 @@ Sport Without Boundaries
 
 18	It is also heartening to note that fundraising efforts have extended overseas. In 2011, the school raised more than $30,000 for Toryo High School in Kenessuma, one of the worst-hit areas by the Japan earthquake. Also, at the annual Thailand Sports School Games, the contingent of student-athletes and staff bring along donated gifts for distribution at the local orphanage.
 
-Future Ready Through Sport
+**Future Ready Through Sport**
 
 19	A life in sport can help people prepare for a rapidly changing world. Through intentional design, sport teaches resilience and discipline through thought and action. Good sport can offer a parallel pathway to success as it helps people develop the skill sets and the mindsets valued by society. This is the essence of the third theme under Vision 2030 – ‘Future Ready through Sports.’
 
@@ -86,7 +86,7 @@ Future Ready Through Sport
 27	Scott is now an officer with the Singapore Armed Forces and is currently reading law in Cambridge. We wish Scott well in his endeavours and applaud and encourage the role model that he is. For the Sports School’s teachers, coaches and staff, you have my ultimate respect for developing our student-athletes, and bringing them to their maximum potential as athletes and also as valuable members of society. Your job is only partly done when they achieve sporting success or academic success. It would perhaps take a few more decades after sporting success to see the real fruits of your labour, which will be when they start giving selflessly of themselves to make a meaningful impact on the lives of others and on society. So we look forward in generations to come, for the Sports School students to come back to perhaps become teachers, coaches and valuable members of society.
 
 
-Sport as a National Language
+**Sport as a National Language**
 
 28	The final theme under Vision 2030 is ‘Sport as a National Language’.  Amongst the four themes, this is perhaps the most easily understood by the man in the street.
 
@@ -94,13 +94,13 @@ Sport as a National Language
 
 30	The Sports School can feel proud about its role in inspiring Singaporeans and giving them a reason to cheer and to feel good. In a short span of 10 years, Sports School has produced:
 
-4 Olympians
+**4 Olympians**
 7 World Champions with 7 World Championship titles
 At the recent Nya Pyi Taw Southeast Asian Games, the Sports School had 37 student-athletes and alumni in Team Singapore, with 20 of them as first-time debutants
 272 student-athletes and alumni have since donned Singapore colours to compete in the “Open” category
 31	I am confident that the Sports School will continue to produce sports champions who will give us even more reasons to cheer in the future.
 
-SSP’s Role in the Wider Sports Ecosystem
+**SSP’s Role in the Wider Sports Ecosystem**
 
 32	Even as the Sports School continues to deliver value to its students, it can also play a larger role in the wider sports ecosystem.
 
@@ -114,7 +114,7 @@ SSP’s Role in the Wider Sports Ecosystem
 
 37	Such multinational co-operations are important in raising the overall standards of sports excellence and education both in the region and internationally.
 
-Conclusion
+**Conclusion**
 
 38	Vision 2030 is neither a beginning nor an end. It is an evolution of Singapore’s passion for sport and a representation of our confidence in what sport can do for our country and for our people in the decades to come.
 
@@ -123,4 +123,3 @@ Conclusion
 40	I am happy to see that the conference has brought together so many friends from the international sporting fraternity. I hope that you will remain connected with Singapore and our sports scene even after the conference, and become part of our global network.
 
 41	I thank you all for your kind attention and wish you all a very successful and fruitful conference ahead. Thank you very much.
-
