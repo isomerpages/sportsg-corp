@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **A Hybrid GetActive Singapore 2021 to rally the Community to celebrate the Nation's 56th birthday and support our Team Singapore contingent in Tokyo**
+### **A Hybrid GetActive 2021 to celebrate 56th birthday and support our Team Spore contingent in Tokyo**
 
 Singapore, 23 July 2021 – With the return to Phase 2 (Heightened Alert), GetActive! Singapore 2021 (GASG 2021) will now go virtual! Referencing this year’s National Day Parade’s theme - “Together Our Singapore Spirit”, GASG 2021 will feature fitness and dance workshops, live event streaming and online campaigns that will see the community participating together, in true SG United spirit.  
   
