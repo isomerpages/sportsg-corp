@@ -8,7 +8,7 @@ image: ""
 ---
 ## **Shaifulhaq Ahmad Ishak Guilty Of Violating Terms Of Sanction**
 
-Bodybuilder to serve 2-year suspension from start
+***Bodybuilder to serve 2-year suspension from start***
 
 **Singapore, 2 August 2013** - Bodybuilder Shaifulhaq Bin Ahmad Ishak has had his two-year ban from sports restarted following a violation of the terms of his sanction.
 
