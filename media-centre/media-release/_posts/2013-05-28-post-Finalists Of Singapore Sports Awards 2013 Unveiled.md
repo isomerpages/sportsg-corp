@@ -29,6 +29,7 @@ image: ""
 Annex A
 ![](/images/Media%20Centre/Media%20Release/2013/May/FINALISTSOFSINGAPORESPORTSAWARDS2013UNVEILEDMainPar0040Imagegif%20(1).gif)
 ![](/images/Media%20Centre/Media%20Release/2013/May/FINALISTSOFSINGAPORESPORTSAWARDS2013UNVEILEDMainPar0047Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/May/FINALISTSOFSINGAPORESPORTSAWARDS2013UNVEILEDMainPar0048Imagegif.gif)
 For media enquiries, please contact:
 
 Siti Nurhidayati
