@@ -22,8 +22,8 @@ A Partnership That Extends Beyond the Games
 
 5. Mr Chan Chong Beng, President, Association of Small and Medium Enterprises, who is also a member of the Sponsorship and Marketing Advisory Sub-Committee, said: "Branding is a relatively nascent subject matter in SME circles. Nonetheless, many forward looking companies are beginning to see the value proposition of strong branding and how it will ultimately strengthen their bottomline. Sport is a powerful branding platform that SMEs should tap on as part of their growth strategy. The 2015 SEA Games is the perfect opportunity for companies to come on board and use sport as a platform to jump start their branding efforts. Being a regional event, this is a valuable opportunity not to be missed to reach out to their regional consumers."
 
-A Compelling Event
-
+**A Compelling Event**
+<br>
 6. The 28th SEA Games is expected to be one of the biggest regional sports events in 2015. Over 7,000 athletes and officials are expected at this event which will take place over 10 days during the June 2015 school holidays. To be held across multiple venues in Singapore including Singapore's new Singapore Sports Hub, organisers are committed to deliver a differentiated and unforgettable experience for everyone, in partnership with other partners and stakeholders.
 
 7. The 28th SEA Games will have something for everyone, and not just sport aficionados. Programmes and activities would include F&B, entertainment as well as other elements for the whole family. The ticketing and pricing strategy will be carefully designed to ensure that the Games is accessible to all.
@@ -73,10 +73,9 @@ Tel: +65 6500 5236
 Email: parames_seenivasagam@ssc.gov.sg
 
 Annex A:
-
-
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0055Imagegif.gif)
 Annex B:
-
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0059Imagegif.gif)
 
 
 Asia Facebook subscribers are for December 31, 2012. (3) Population estimates are based mainly on data from the US Census Bureau.(4) The most recent usage comes mainly from data published by Nielsen Online , ITU , Facebook, official country statistics and other trustworthy local sources.(5) Data consolidated fromInternet World Stats.(6) Alex Balfour, Head of New Media, LOCOG at eConsultancy's JUMP2012 event.
