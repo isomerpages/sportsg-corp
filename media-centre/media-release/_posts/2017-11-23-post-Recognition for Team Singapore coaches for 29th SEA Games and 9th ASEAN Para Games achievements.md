@@ -7,11 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
+### **Recognition for Team Singapore coaches for 29th SEA Games and 9th ASEAN Para Games achievements**
 
-**Media Release**
-
-**Recognition for Team Singapore coaches for 29th SEA Games and 9th ASEAN Para Games achievements**  
-_105 National Coaches of SEA Games and APG medallists receive special medallion at inaugural Coaches Appreciation Night_  
+**Recognition for Team Singapore coaches for 29th SEA Games and 9th ASEAN Para Games achievements**  _105 National Coaches of SEA Games and APG medallists receive special medallion at inaugural Coaches Appreciation Night_  
    
 **Singapore, 23 November 2017** \- 105 coaches were recognised at the inaugural Coaches Appreciation Night for their role in Team Singapore’s breakthrough performances at the recent 29th SEA Games and 9th ASEAN Para Games.   
    
