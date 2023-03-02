@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **A flurry of activities at the Singapore Sports Hub as it begins a new chapter under Sport Singapore**
+### **A flurry of activities for all at the Singapore Sports Hub as it begins a new chapter under Sport Singapore**
 
 **• A series of events and community activities kicked off on 9 December 2022 to welcome everyone to the Singapore Sports Hub.  
 • New entity - Kallang Alive Sport Management Co Pte Ltd - officially takes over the management of the Singapore Sports Hub.**
