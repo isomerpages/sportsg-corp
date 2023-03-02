@@ -7,10 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Fans In For A Treat As Australian Professional National Basketball League Settles In Singapore For The 1st Time**
-
-Fans In For A Treat As Australian Professional National Basketball League Settles In Singapore For The 1st Time
 
 League to feature Singapore based team for the 1st time backed by Australian private sector led consortium in bid to bring thriving league to Asia
 
@@ -44,7 +41,7 @@ This latest initiative has also gotten the local basketball community in Singapo
 
 Added Koh Meng Koon, a Singapore National Men Team Player, "This is certainly a good development which will allow our players to gain an exposure to higher level basketball games. If NBL team takes in 1or 2 players from our National Team, it will definitely encourage more youngsters to fight for a place in the National Team to get that chance to play professionally. This way, the standard of our National Team will definitely improve."
 
-For media inquiries, please contact:
+**For media inquiries, please contact:**
 
 Alvin Hang
 <br>
