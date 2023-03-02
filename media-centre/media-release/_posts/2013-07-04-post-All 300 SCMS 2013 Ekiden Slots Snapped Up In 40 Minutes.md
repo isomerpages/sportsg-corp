@@ -21,7 +21,7 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 
 5. Mr Ray Ferguson, Chief Executive, Standard Chartered Bank, Singapore, said: "Standard Chartered Bank is proud to have played a part in nurturing Singapore's passion for running. This is the 12th year that the Bank is the title sponsor of Singapore's pinnacle running event. The passion, courage, and determination of the runners each year resonate strongly with what we stand for as an organisation. Just as the runners are determined to finish the race, we are committed in our partnership with the SSC to deliver a quality race for all. This is very much part of our DNA and what we set out in our brand promise to be Here for good in the communities where we operate."
 
-NEW SPONSORS
+**NEW SPONSORS**
 
 6. While Standard Chartered Bank, Singapore continues to be the event's title sponsor, SCMS 2013 sees two prominent additions to its sponsorship portfolio this year.
 
@@ -31,7 +31,7 @@ NEW SPONSORS
 
 9. Both Volvo and Brooks join other longstanding event sponsors including Prudential, Seiko, Tiger Balm Active, StarHub, and many others.
 
-REGISTRATION PROCEEDS TO BENEFIT SPORTCARES
+**REGISTRATION PROCEEDS TO BENEFIT SPORTCARES**
 
 10. This year, SCMS 2013 will donate S$2 from every participant's registration fee to SportCares, a new philanthropic organisation dedicated to use sport as a force for social good. Through the SCMS 2013 registration, the Singapore Sports Council hopes to raise at least S$100,000, which will go toward SportCares' programmes and activities for underprivileged children and youth at risk. Furthermore, donors can also contribute individually through the Give.Asia fundraising portal to pledge their run and raise funds for SportCares.
 
