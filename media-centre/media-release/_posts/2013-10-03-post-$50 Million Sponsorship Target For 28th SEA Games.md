@@ -38,7 +38,7 @@ A Partnership That Extends Beyond the Games
 
 12. The Games will be held in conjunction with Singapore's 50th anniversary - a major milestone in the Republic's history. The 28th SEA Games has been identified as one of the official major events that will be part of the 50th anniversary celebrations. Acting Minister for Culture, Community and Youth, Mr Lawrence Wong, who is also the SINGSOC Steering Committee Chairman, is co-chairing the Culture & Community Committee under the Singapore 50 (SG50) Steering Committee.
 
-Big Names in Sponsorship and Marketing Advisory Sub-Committee
+**Big Names in Sponsorship and Marketing Advisory Sub-Committee**
 
 13. Apart from Mr Mah, Mr Chan, Ms Lim and Mr Vamvakitis, the sub-committee also includes other accomplished and experienced advisory committee members (see Annex A for list of members). They include heavyweights such as Mr Piyush Gupta from DBS, who is no stranger to the business community.
 
@@ -52,50 +52,48 @@ For further information on the 28th SEA Games Singapore, please visit www.seagam
 
 Follow the 28th SEA Games Singapore 2015 on Facebook at www.facebook.com/SEAGAMES2015 and @seagames2015 on Twitter.
 
-For media enquiries, please contact:
-
-Siti Nurhidayati
-Senior Executive, Media Relations
-Singapore Sports Council
-Tel: 6500 5246
-Email: siti_nurhidayati@ssc.gov.sg
+**For media enquiries, please contact:**
+<br>Siti Nurhidayati
+<br>Senior Executive, Media Relations
+<br>Singapore Sports Council
+<br>Tel: 6500 5246
+<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
 
 Rachel Ang
-Senior Executive, Media Relations
-Singapore Sports Council
-Tel: +65 6500 5249
-Email: rachel_ang@ssc.gov.sg
+<br>Senior Executive, Media Relations
+<br>Singapore Sports Council
+<br>Tel: +65 6500 5249
+<br>Email: [rachel_ang@ssc.gov.sg](rachel_ang@ssc.gov.sg)
 
 S. Parameswaran 
-Assistant Director, Media Relations
-Singapore Sports Council
-Tel: +65 6500 5236
-Email: parames_seenivasagam@ssc.gov.sg
+<br>Assistant Director, Media Relations
+<br>Singapore Sports Council
+<br>Tel: +65 6500 5236
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 Annex A:
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0055Imagegif.gif)
 Annex B:
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0059Imagegif.gif)
 
-
 Asia Facebook subscribers are for December 31, 2012. (3) Population estimates are based mainly on data from the US Census Bureau.(4) The most recent usage comes mainly from data published by Nielsen Online , ITU , Facebook, official country statistics and other trustworthy local sources.(5) Data consolidated fromInternet World Stats.(6) Alex Balfour, Head of New Media, LOCOG at eConsultancy's JUMP2012 event.
-
+<br>
 *All figures based on year of 2012 data 
 
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0062Imagegif.gif)
 
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0063Imagegif.gif)
 
-
-
-About Singapore Sports Council
-
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
+<br>
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
+<br>
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-Follow us on Facebook at: www.facebook.com/SingaporeSports
-
-For a range of photographs, visit flickr.com/ssc-sportsphotography
-
-About Singapore National Olympic Council (SNOC)
-
+**About Singapore National Olympic Council (SNOC)**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
