@@ -155,8 +155,7 @@ Updates to whereabouts filing can be made:
 
 (b) By Email to [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
 
-**  
-THIRD PARTY AUTHORISATION**
+**THIRD PARTY AUTHORISATION**
 
 Athletes may delegate filing responsibilities for some or all required whereabouts filing to a third party, such as a coach, team manager or a NSA staff. Athletes remain ultimately responsible for making sure their whereabouts information is accurate, whether or not their whereabouts information are filed by the authorised representative or by the athlete.
 
