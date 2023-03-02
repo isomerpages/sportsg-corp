@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Sport Play Ability For All**
+
 _Pilot programme by Temasek Foundation Cares and SportCares enables persons with disabilities to access and participate regularly in community-based sports_
 
 ![](/images/Media%20Centre/Media%20Release/2018/March/President%20officially%20launching%20the%20Teamsek%20Foundation.jpeg)
