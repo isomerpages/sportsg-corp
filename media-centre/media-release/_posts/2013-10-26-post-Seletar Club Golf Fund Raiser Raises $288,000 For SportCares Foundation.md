@@ -75,8 +75,8 @@ Pavithran s/o Mahendran (O-14)
 Sundramoorthy (O-14)
 As the youngest child in a family of eight, Sundram has always been driven to excel in sport. In the past, this quest for excellence sometimes landed him in trouble as he lost his temper in times of stress. However, he is determined not to let a troubled past stand in the way of a bright future. He lives with his mother and brother in Henderson and plays football at every opportunity that comes his way. Since joining Saturday Night Lights, he has demonstrated greater awareness and compassion for the needs and difficulties experienced by others on and off the football field. Only 15-years-old, Sundram has risen to the challenge of volunteering and giving back to society. He has done ushering and registration at corporate networking events such as Singapore Pools' Football with a Heart. In a friendly with an U15 team representing Standard Chartered Bank, Sundram played a responsible game, allowing opportunities for the younger players to score. A reflection of his appreciation for SportCares and the SNL community, Sundram has never missed a session of Saturday Night Lights. With continuing guidance from the SportCares coaches and volunteers, Sundram will likely mature into a strong, values-driven coach for other underprivileged and at-risk children and youth.
 
-In Recognition of Great Commitment (Volunteers)
-
+**In Recognition of Great Commitment (Volunteers)**
+<br>
 This award recognises the spirit of volunteerism and commitment to SportCares programming overall.
 
 Asiah binte Rahmat and Mohd Rafi bin Mohd Amin
