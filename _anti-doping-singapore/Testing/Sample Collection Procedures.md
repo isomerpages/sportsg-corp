@@ -6,25 +6,25 @@ third_nav_title: Testing
 ---
 The following is a general overview of the doping control process. Departures from these procedures will not invalidate a test result unless it is determined that the integrity of the sample has been compromised.
 
-**STEP 1: ATHLETE SELECTION:**
+##### **STEP 1: ATHLETE SELECTION:**
 You can be selected for doping control at any time and any place without advance notice and are subject to random and planned selection methods
 ![STEP 1: ATHLETE SELECTION](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step1.jpeg)
 
-**STEP 2: NOTIFICATION:**
+##### **STEP 2: NOTIFICATION:**
 A Doping Control Officer (DCO) or Chaperone will notify you of selection for doping control to provide either a urine sample, blood sample or both. You are required to present a photo identification to confirm your identity. The DCO or Chaperone will inform you of your rights and responsibilities. You will be asked to sign the Doping Control Notification form confirming that you have been notified for doping control. A copy of the form will be provided to you for your record. You may also request an athlete representative to accompany you throughout the doping control process
 ![step2](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step2.jpeg)
 
-**STEP 3: REPORTING TO THE DOPING CONTROL STATION**
+##### **STEP 3: REPORTING TO THE DOPING CONTROL STATION**
 You are required to report to the doping control station immediately unless you request a delay in reporting for valid reasons. Please visit the [Rights and Responsibilities](/anti-doping-singapore/testing/rights-and-responsibilities) section for more information. The DCO or Chaperone will accompany you from the time of notification until the completion of the sample collection process.
 
 At the doping control station, you will be given a chance to hydrate. Individually sealed beverage will be available.
 ![step3](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step3.jpeg)
 
-**STEP 4: SELECTION OF A URINE COLLECTION VESSEL**
+##### **STEP 4: SELECTION OF A URINE COLLECTION VESSEL**
 You are given a choice of at least 3 individually sealed sample collection kits, and you will select one. You should verify that the equipment is intact and has not been tampered with. You should maintain control of the collection vessel at all times. 
 ![step4](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step4.jpeg)
 
-**STEP 5: PROVIDING THE URINE / BLOOD SAMPLE**
+##### **STEP 5: PROVIDING THE URINE / BLOOD SAMPLE**
 ![step5](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step5.jpeg)
 Only you and a DCO or Chaperone of the same gender are permitted in the washroom when you provide the urine sample. The first urine sample that you are able to provide following notification must be collected.
 
@@ -47,14 +47,17 @@ A trained BCO will perform the blood collection procedure in the presence of a D
 
 The BCO shall assess the most suitable vein for sample collection and clean the site. They will then unseal the hypodermic needle and attach the vaccutainers (self-sealing secure containers) and withdraw blood to fill the required number of tubes. No more than 3 attempts will be made per session.
 
-**STEP 6: SELECTION OF A URINE SAMPLE COLLECTION KIT**
+##### **STEP 6: SELECTION OF A URINE SAMPLE COLLECTION KIT**
 You are given a choice of at least 3 individually sealed sample collection kits from which to choose one. You should verify that the equipment is intact and has not been tampered with. You will open the kit and confirm that the sample code numbers on the bottles, the lids, and the container all match. Also verify that the bottles are intact and has not been tampered with.
 ![step6](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step6.jpeg)
 
-**STEP 7: SPLITTING AND SEALING THE URINE / BLOOD SAMPLE**
+##### **STEP 7: SPLITTING AND SEALING THE URINE / BLOOD SAMPLE**
 You will split and pour the urine yourself, unless assistance is required and you provide consent for your representative or the DCO to do so on your behalf.
 
 Pour at least 30ml of urine into the B bottle and pour the remaining urine into the A bottle.
 
 You will be asked to leave a small amount in the collection vessel so that the DCO can measure the specific gravity. You will then seal the 'A' and 'B' bottles tightly ensuring there is no leakage.
 ![step7](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step7.jpeg)
+
+**SEALING AND STORING THE BLOOD SAMPLE**
+After withdrawing the needle, the BCO or athlete will place one vacctainer into each of the 'A' and 'B' sample bottles. These should be checked for any leakage. The sealed blood sample shall be kept in the Doping Station, at a cool but not freezing temperature, prior to dispatching for analysis.
