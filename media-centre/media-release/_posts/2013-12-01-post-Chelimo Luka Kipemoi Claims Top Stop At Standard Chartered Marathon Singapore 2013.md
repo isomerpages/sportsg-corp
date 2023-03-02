@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 ## **Chelimo Luka Kipemoi Claims Top Stop At Standard Chartered Marathon Singapore 2013**
-
+![](/images/Media%20Centre/Media%20Release/2013/Dec/Chelimo%20Luka%20Kipkemoi%20On%20His%20Way%20To%20Winning%20The%20SCMS.jpeg)
 **Sharon Cherop Wins Women's Open By A Split Second***
 
 **Singapore, 1 December 2013** - Kenyan long distance runners continued their racing dominance at the Standard Chartered Marathon Singapore (SCMS), with Chelimo Luka Kipemoi and Sharon Cherop today claiming top honours in the Marathon Men's and Women's Open categories respectively.
