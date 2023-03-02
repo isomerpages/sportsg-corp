@@ -20,3 +20,7 @@ For easy reference wherever you go, check the Prohibited List at the [mobile si
 ![International Standard for Testing and Investigations](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISTI_2021.jpeg)
 [International Standard for Testing and Investigations](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-for-testing-and-investigations-isti)
 The International Standard for Testing harmonises the procedures for the conduct of effective In-Competition and Out-of-Competition testing to maintain the integrity and identity of the Samples collected, from the point the Athlete is notified of the test to the point the Samples are transported to the laboratory for analysis.
+
+![Laboratories](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISL_2021.jpeg)
+[International Standard for Laboratories](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-laboratories-isl)
+The International Standard for Laboratories ensures the production of valid test results and evidentiary data and to achieve uniform and harmonized results and reporting from all accredited laboratories.
