@@ -24,6 +24,11 @@ Athletes should advise all medical personnel of their obligation to abide by the
 * STEP 4: COMPLETE THE TUE APPLICATION FORM
 	* Complete the form with your doctor.
 	* Medical evidence to justify the use of a prohibited substance or method must be attached to the application form
+* STEP 5: IS THE SUBSTANCE OR METHOD PROHIBITED BOTH IN- AND OUT-OF-COMPETITION?
+	* Yes, proceed to Step 6.
+	* No, only prohibited In-Competition. Proceed to Step 7.
+* STEP 6: WHEN TO SUBMIT THE TUE APPLICATION FORM?
+	* If Substance or Method is Prohibited Both In- and Out-of-Competition, submit TUE application as soon as the medical condition is diagnosed.
 
 **CRITERIA FOR GRANTING A TUE**
 
