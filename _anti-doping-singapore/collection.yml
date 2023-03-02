@@ -2,6 +2,7 @@ collections:
   anti-doping-singapore:
     output: true
     order:
+      - Test212/.keep
       - Testing/Test.md
       - Testing/.keep
       - About/About ADS.md
