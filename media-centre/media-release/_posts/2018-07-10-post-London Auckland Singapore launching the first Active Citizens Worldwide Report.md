@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **London Auckland Singapore launching the first Active Citizens Worldwide Report**
+
 **PRESS RELEASE**
 
 **London, Auckland, Singapore launching the first Active Citizens Worldwide Report at the 2018 World Cities Summit**
