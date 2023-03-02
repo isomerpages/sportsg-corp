@@ -14,8 +14,8 @@ image: ""
 
 2. The collaboration spells rich opportunities for students and staff, to work together with SSC on sports development and events. Besides collaborating to develop courses leading to sports or fitness-related certifications, the partners will also promote national and international sporting events, as well as conferences. Students interested in sports will have opportunities in learning the ropes in managing sports events when they serve industrial attachments at SSC.
 
-Benefitting from the Athlete-Friendly Education Scheme
-
+**Benefitting from the Athlete-Friendly Education Scheme**
+<br>
 3. Student athletes will also benefit from the collaboration through the Athlete-Friendly Education Scheme (AFES). The AFES will lend support to athletes in their educational pursuits while training for high-performance sports in national teams. From creating flexible arrangements and providing guidance and mentorship, the attention given to these athletes will help ensure that they are able to balance their commitment to high performance sports and studies.
 
 4. On the partnership, Mr Bruce Poh, Director & CEO, ITE, expressed, "We are glad to be part of the Singapore Sports Council's drive towards promoting sports in Singapore. Sports has proven to be powerful in bonding the student community, and galvanising character development and leadership skills among students. Our Colleges are well-equipped to stage international sporting events. We also look forward to the possibility of playing host to regional sports events, should ITE be selected as a venue."
