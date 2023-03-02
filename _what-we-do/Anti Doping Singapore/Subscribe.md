@@ -28,3 +28,4 @@ You can download a reader [here](http://en.wikipedia.org/wiki/News_aggregator).
 | Prohibited List     | [RSS](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/RSS-Feed/Prohibited-List)     |
 News | [RSS](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/RSS-Feed/News)|
 
+To receive a news feed from one of the following categories, copy and paste the URL into your news reader.
