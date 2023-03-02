@@ -9,7 +9,7 @@ image: ""
 ---
 ## **Starhub And Singapore Sports Council Bring More Local Sports Content To Singaporeans**
 
-Singapore, 8 October 2013 - StarHub and the Singapore Sports Council (SSC) signed a Memorandum of Understanding (MOU) today to offer more local sports
+**Singapore, 8 October 2013** - StarHub and the Singapore Sports Council (SSC) signed a Memorandum of Understanding (MOU) today to offer more local sports
 content to a wider audience and enhance the sports viewership experience of Singaporeans. Held at Pasir Ris Sports and Recreation Centre, the signing ceremony also saw StarHub announce the launch of its free sports channel SuperSports Arena on 76.25MHz to almost all households in Singapore from 10 October 2013.
 
 2. "StarHub is a local, home-grown company and we are proud of it. We have consistently supported the growth of sports in Singapore and see this MOU as a way to take our commitment to the next level. By combining SSC's expertise with our broadcasting reach, this partnership will make all sports available to all Singaporeans and energise the local sporting landscape," said Mr Tan Tong Hai, Chief Executive Officer, StarHub.
@@ -45,30 +45,29 @@ Launch of new daily sports news show SuperSports 360
 14. Presented by prominent local media personality Yasmin Abdol Hamid along with Kelly Latimer and Elliott Danker, the new half-hour daily sports news programme promises to present the best local and international sports coverage, aimed at delivering the day's most relevant sports updates and highlights important to viewers in Singapore. Besides having a dedicated local editorial team covering the latest in Singapore's sports scene, SuperSports 360 will feature sports action and highlights from around the world, including coverage of Singapore athletes competing overseas.
 SuperSports 360 will air at 7pm every day on SuperSports Arena with a repeat at 11pm and the following day at 7am. The programme will premiere on 10 October 2013 with a 'live' interview with Ng Ser Miang, International Olympic Committee (IOC) Member and Singapore National Olympic Council's Vice President, on a range of topics such as the IOC Presidential Election and plans to develop an original sports event in Singapore with global appeal.
 
-15. For more information on SuperSports Arena, please visit www.starhub.com/supersportsarena.
+15. For more information on SuperSports Arena, please visit [www.starhub.com/supersportsarena](www.starhub.com/supersportsarena).
 
 -END-
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>Jemuel Fu
+<br>Senior Executive, Media Relations
+<br>Singapore Sports Council
+<br>Tel: (65) 6500 5245
+<br>Email: jemuel_fu@ssc.gov.sg
 
-Jemuel Fu
-Senior Executive, Media Relations
-Singapore Sports Council
-Tel: (65) 6500 5245
-Email: jemuel_fu@ssc.gov.sg
-
-About Singapore Sports Council
-
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
+To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
+<br>
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
+<br>
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-Follow us on Facebook at: www.facebook.com/SingaporeSports
-
-For a range of photographs, visit flickr.com/ssc-sportsphotography
-
-About Starhub
-
+**About Starhub**
+<br>
 StarHub is Singapore's fully-integrated info-communications company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates a mobile network that provides 4G, 3G and 2G services. It also manages an island-wide HFC network that delivers multi-channel pay TV services (including HDTV, Internet TV and on-demand services) as well as ultra-high speed residential broadband services. StarHub operates an extensive fixed business network that provides a wide range of data, voice and wholesale services. Over Singapore's fibre-based Next Generation Nationwide Broadband Network, StarHub offers a broad range of home and business broadband plans along with a host of advanced media-rich value-added services, such as IPTV for commercial entities.
 
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MSCI Singapore Free Index.
