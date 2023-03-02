@@ -14,7 +14,7 @@ Fax: (65) 64409205
 <br>
 Email: [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
 
-For the updated info on Prohibited List, Anti-Doping Rule Violations and other updates on anti-doping, please follow ADS on our social media via Facebook and Instagram @antidopingsingapore. 
+For the updated info on Prohibited List, Anti-Doping Rule Violations and other updates on anti-doping, please follow ADS on our social media via Facebook and Instagram **@antidopingsingapore**. 
 
 For enquiries on Therapeutic Use Exemption (TUE):
 <br>
