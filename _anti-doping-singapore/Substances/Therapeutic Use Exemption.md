@@ -29,6 +29,8 @@ Athletes should advise all medical personnel of their obligation to abide by the
 	* No, only prohibited In-Competition. Proceed to Step 7.
 * STEP 6: WHEN TO SUBMIT THE TUE APPLICATION FORM?
 	* If Substance or Method is Prohibited Both In- and Out-of-Competition, submit TUE application as soon as the medical condition is diagnosed.
+* STEP 7: WHEN TO SUBMIT THE TUE APPLICATION FORM?
+	* If Substance or Method is Prohibited only In-Competition, submit TUE application at least 30 days prior to participating in an event.
 
 **CRITERIA FOR GRANTING A TUE**
 
