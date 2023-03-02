@@ -2,4 +2,5 @@ collections:
   anti-doping-singapore:
     output: true
     order:
+      - Testing/.keep
       - About/.keep
