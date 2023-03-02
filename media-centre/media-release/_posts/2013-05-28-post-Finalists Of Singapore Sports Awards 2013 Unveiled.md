@@ -21,13 +21,12 @@ image: ""
 
 6. The finalists for the Main Awards were selected by the SSA Selection Committees, following which a secret ballot was carried out to choose the most deserving winners. Auditing firm KPMG has been engaged to tally the votes and results will be made known at the SSA event on 11 June 2013.
 
-Please refer to Annex A for the list of finalists.
+**Please refer to Annex A for the list of finalists.**
 
 -END-
 
 
 Annex A
-
 ![](/images/Media%20Centre/Media%20Release/2013/May/FINALISTSOFSINGAPORESPORTSAWARDS2013UNVEILEDMainPar0040Imagegif%20(1).gif)
 For media enquiries, please contact:
 
