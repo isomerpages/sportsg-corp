@@ -2,10 +2,10 @@ collections:
   anti-doping-singapore:
     output: true
     order:
-      - Substances/Supplements.md
-      - Substances/Therapeutic Use Exemption.md
-      - Substances/Prohibited List.md
       - Substances/.keep
+      - Substances/Prohibited List.md
+      - Substances/Therapeutic Use Exemption.md
+      - Substances/Supplements.md
       - Testing/.keep
       - Testing/Testing Pools.md
       - Testing/Rights and Responsibilities.md
