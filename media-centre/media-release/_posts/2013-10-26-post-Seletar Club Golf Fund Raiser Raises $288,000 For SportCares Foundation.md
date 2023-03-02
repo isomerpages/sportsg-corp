@@ -49,8 +49,8 @@ At just 13 years of age, Muhammad Redha shows a maturity well beyond his years o
 Sheikh Fadhil (O-14)
 Currently serving his National Service requirements, 22-year-old Sheikh Fadhil has emerged as an inspiration among the boys at Saturday Night Lights. After some troubled teenage years, Fadhil is committed to encouraging his friends and teammates to live a better life through sports. He serves as a youth leader for the Beacon of Life Football Academy in Taman Jurong. At Saturday Night Lights, he brings professional commitment to the strength and conditioning sessions and leadership to the friendly matches. He actively counsels the team to stay true to the SNL values of discipline in thinking and action. Indeed, Fadhil is always the epitome of discipline and calm, regardless of how high the stakes. One of the fastest runners in the new CareRunners programme by SportCares, Fadhil shows the same leadership on the track as he does on the pitch. He is the third of five children in the family, and he describes his mother as the inspiration in his life.
 
-In Recognition of Great Football Skills (U-14/O-14)
-
+**In Recognition of Great Football Skills (U-14/O-14)**
+<br>
 This award recognises the consistent display and development of great football skills by players during Saturday Night Lights at our home ground turf of Jurong Stadium.
 
 Sean Ng (U-14)
@@ -59,8 +59,8 @@ Shuqun Secondary student Sean quickly became one of the bright lights at Saturda
 Suhandika bin Sapie (O-14)
 17-year-old Suhandika, aka as Andika, is proving to be a versatile footballer at Saturday Night Lights. The ITE College West student has rarely missed a session so it has been easy to see the progress in his skills on pitch. He typically plays right wing, but his coach has praised his ability and willingness to try other positions to help the team. On top of his versatility, he has good ball skills and speed. Equally important, he shows an exceptional awareness of the game, allowing him to not only control the ball but the overall play as well. His teammates can always rely on him to make that crucial pass to achieve a much-needed play. As "the man in the family" with three sisters, Andika says that his friends have inspired him to do well in football while his inspiration in life comes from his mother.
 
-In Recognition of Great Commitment (Players) (U-14/O-14)
-
+**In Recognition of Great Commitment (Players) (U-14/O-14)**
+<br>
 This award recognises the players' spirit of volunteerism and their commitment to SportCares programming overall.
 
 Muhd Shahfakhry bin Mohd Faizal (U-14) 
