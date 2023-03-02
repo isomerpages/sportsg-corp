@@ -57,3 +57,10 @@ There are four types of membership status in the NROC:
 In order to keep their status "Active" in the NROC, coaches are required to accumulate the following number of learning hours (depending on their level of certification) within each 3-year period.
 
 Please note that National Sports Associations (NSAs) may develop their own sports-specific continuing coach education system. To be eligible for NROC membership renewal, coaches of these NSAs must also meet the requirements set by their NSAs, in addition to fulfilling the registry’s existing criteria for renewal.
+
+| NROC Level |  Learning Hours Required | Remarks |
+| -------- | -------- | -------- |
+| 1     |  30 hours in 3 years  | 50% (i.e., 15hrs) for coaching practice 50% (i.e., 15hrs) for coach education   |
+| 2     |  60 hours in 3 years  | 60% (i.e., 36hrs) for coaching practice 40% (i.e., 24hrs) for coach education |
+| 3     |  100 hours in 3 years  | 70% (i.e., 70hrs) for coaching practice 30% (i.e., 30hrs) for coach education |
+
