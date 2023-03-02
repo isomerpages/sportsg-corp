@@ -7,8 +7,8 @@ description: ""
 image: ""
 ---
 ## **Call For Singaporeans To Go Red In Support Of National Athletes**
-
-Giordano the first to say "I AM RED" with the launch of limited edition Team Singapore tees
+![](/images/Media%20Centre/Media%20Release/2013/Nov/I%20Am%20Red.jpeg)
+*Giordano the first to say "I AM RED" with the launch of limited edition Team Singapore tees*
 
 **Singapore, 27 November 2013** - An "I AM RED" drive to encourage Singaporeans to wear their support for our national athletes kicked off today, with Giordano dressing its 8,000 square metres Suntec City flagship store in red merchandise - including a brand new collection of limited edition Giordano X Team Singapore tees.
 
