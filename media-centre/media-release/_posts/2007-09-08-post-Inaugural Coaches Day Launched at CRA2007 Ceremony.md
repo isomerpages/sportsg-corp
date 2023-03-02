@@ -6,12 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Inaugural Coaches' Day Launched at CRA2007 Ceremony
-Singapore , 08 Sep 2007
-
-Inaugural Coaches' Day Launched At Coach Recognition Awards 2007 Ceremony
-statics0
-Singapore, 8 September 2007
+### **Inaugural Coaches' Day Launched At Coach Recognition Awards 2007 Ceremony**
 
 Come Friday, 14 September 2007, Singapore will celebrate its first ever Coaches' Day. This was announced by Mr Teo Ser Luck, Parliamentary Secretary for Community Development, Youth & Sports, this evening at the Singapore Sports Council (SSC)'s Coach Recognition Awards (CRA) 2007 Ceremony held at The Legends, Fort Canning Park. The CRA, currently in its sixth year, also saw 41 outstanding coaches applauded for their significant contributions towards the development of their athletes and Singapore sports.
 
@@ -34,10 +29,13 @@ Enclosures
 
 Welcome Address by Mr Alex Chan, Chairman of Singapore Sports Council
 Speech by Mr Teo Ser Luck, Parliamentary Secretary, Ministry of Community Development, Youth and Sports
-Annex 1: CRA2007 winners
-Annex 2: Factsheet on CRA
-Annex 3: 'My Coach. My Hero' campaign
+<br>
+[Annex 1: CRA2007 winners](/files/Media%20Centre/Media%20Release/2007/September/Annex2012020CRA200720Awardees.pdf)
+<br>
+[Annex 2: Factsheet on CRA](/files/Media%20Centre/Media%20Release/2007/September/Annex2022020CRA200720Factsheet.pdf)
+<br>
 
+[Annex 3: 'My Coach. My Hero' campaign](/files/Media%20Centre/Media%20Release/2007/September/Annex2032020My20Coach20My20Hero20Campiagn.pdf)
 
 
 About Singapore Sports Council
@@ -46,19 +44,30 @@ The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory b
 
 Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 Roger Ng
+<br>
 Executive (Marketing Communications)
+<br>
 Communications & Knowledge Group
+<br>
 Singapore Sports Council
+<br>
 Tel: 63409691
+<br>
 H/P: 91387012
-Email: roger_ng@ssc.gov.sg
+<br>
+Email: [roger_ng@ssc.gov.sg](mailto:roger_ng@ssc.gov.sg)
 
 Kenny Yap
+<br>
 Account Executive
+<br>
 Mileage Communications
+<br>
 Tel: 62221678
+<br>
 H/P: 97853573
-Email: Kenny@mileage.com.sg
+<br>
+Email: [Kenny@mileage.com.sg](mailto:Kenny@mileage.com.sg)
