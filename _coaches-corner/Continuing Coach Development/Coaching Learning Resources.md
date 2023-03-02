@@ -48,3 +48,9 @@ The ActiveSG Circle enables you to amplify your reach by contributing coaching c
 b. CoachSG is currently working to offer more coaching opportunities for coaches during this period. So watch this space for updates.
 
 ##### **3. Online Materials to Supplement Your E-Coaching**
+1.  [**CoachSG YouTube Channel**](https://www.youtube.com/channel/UC6S-f5ZwoXcGs_TDbimGd5g)**:** Subscribe to us for an array of coaching videos that you can adapt for your online coaching needs
+2.  Follow CoachSG on **[Facebook](https://m.facebook.com/CoachSG1/)** & **Instagram @coachsgofficial** for educational posts and updates
+3.  [Positive Coaching Alliance (PCA) Online Resources for Coaches](https://www.positivecoach.org/coaches/): There is a vast array of articles and videos that you can leverage for content to enhance your coaching and interaction with your athletes.
+4.  [CoachSG Home-Based Learning (HBL) Videos](https://www.youtube.com/channel/UC6S-f5ZwoXcGs_TDbimGd5g): Each set of learning package for the various sport / activities contains a wide range of movements / skills that are building blocks for complex and advanced sport skills. They can be used individually or strung together in a pre-determined set or sequence. Engaging in the various sport/activities promotes cross-sport learning and training for all-round physical literacy.
+
+[CoachSG HBL Videos Directory](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/CoachSG_HBL_Videos_Directory_v2.pdf)
