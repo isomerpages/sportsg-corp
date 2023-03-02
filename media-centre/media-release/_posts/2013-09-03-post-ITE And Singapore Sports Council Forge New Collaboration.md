@@ -8,9 +8,9 @@ image: ""
 ---
 ## **ITE And Singapore Sports Council Forge New Collaboration**
 
-MOU is SSC's first with an education institution in the organisation of Southeast Asian Games
+***MOU is SSC's first with an education institution in the organisation of Southeast Asian Games***
 
-Singapore, 3 September 2013 - Some 1,000 ITE students will have the chance to be part of the 28th Southeast Asian (SEA) Games - the region's multi-sport extravaganza - come 2015. To be hosted in Singapore, the Games will provide ITE students with the opportunity to gain real work experience and skills through industrial attachment and volunteering activities. These are made possible through a three-year Memorandum of Understanding signed between the Institute of Technical Education (ITE) and Singapore Sports Council (SSC) today. This is also SSC's first collaboration with an education institution in the planning and execution of the SEA Games.
+**Singapore, 3 September 2013** - Some 1,000 ITE students will have the chance to be part of the 28th Southeast Asian (SEA) Games - the region's multi-sport extravaganza - come 2015. To be hosted in Singapore, the Games will provide ITE students with the opportunity to gain real work experience and skills through industrial attachment and volunteering activities. These are made possible through a three-year Memorandum of Understanding signed between the Institute of Technical Education (ITE) and Singapore Sports Council (SSC) today. This is also SSC's first collaboration with an education institution in the planning and execution of the SEA Games.
 
 2. The collaboration spells rich opportunities for students and staff, to work together with SSC on sports development and events. Besides collaborating to develop courses leading to sports or fitness-related certifications, the partners will also promote national and international sporting events, as well as conferences. Students interested in sports will have opportunities in learning the ropes in managing sports events when they serve industrial attachments at SSC.
 
