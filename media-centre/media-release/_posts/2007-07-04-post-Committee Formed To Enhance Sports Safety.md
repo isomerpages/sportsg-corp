@@ -24,7 +24,7 @@ SSC's Chief Executive Officer, Mr Oon Jin Teik added, "The Sports Safety Committ
 The Committee will put up its report to SSC in August 2007.
 
 
-For media inquiries, please contact:
+**For media inquiries, please contact:**
 
 Gayle Wong
 <br>
