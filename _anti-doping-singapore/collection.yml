@@ -2,7 +2,6 @@ collections:
   anti-doping-singapore:
     output: true
     order:
-      - Announcements/.keep
       - About/.keep
       - About/About ADS.md
       - About/NADAB.md
