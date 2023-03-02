@@ -68,3 +68,10 @@ NROC coaches may consider attending the following online courses to accumulate C
 After completing each course, please upload (a) your e-certificate or (b) screenshot(s) showing that you have completed the course onto your SportSync account to claim CCE hours for the course.
 
 For more queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
+
+[Online Learning Resources](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Online_Learning_Resources_v3.pdf)
+[WADA CoachTrue User Guide](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/WADA_CoachTrue_User_Guide_v2.pdf)
+
+##### **Other Resources**
+
+**CoachSG Events**
