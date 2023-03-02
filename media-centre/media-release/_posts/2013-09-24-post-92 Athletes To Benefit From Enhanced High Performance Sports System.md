@@ -29,11 +29,11 @@ image: ""
 
 -END-
 
-Annex A:
-
-Sports Excellence Scholars (spexScholars) 2013
-
-Badminton
+**Annex A**
+<br>
+**Sports Excellence Scholars (spexScholars) 2013**
+<br>
+**Badminton**
 Danny Bawa Chrisnanta
 Neo Yu Yan Vanessa
 Liang Xiaoyu
@@ -115,10 +115,10 @@ Sasha Siew Hoon Christian
 Wushu
 Samuel Tan
 
-Annex B
-
-Athletes with Future Potential for spexScholarship 2013
-
+**Annex B**
+<br>
+**Athletes with Future Potential for spexScholarship 2013**
+<br>
 These athletes will be given targeted support such as overseas training camps, competitions and equipment to enable them to maximise their potential. They continue to be eligible for the spexGrants support provided by the SSI, like all the other athletes in the carding system.
 
 Archery
@@ -157,55 +157,55 @@ Zhou Yi Han
 Isabelle Li Siyun
 Lin Ye
 
-Annex C
-
-spexScholarship Fact Sheet
-
-Sports Excellence Scholarship (spexScholarship)
-
+**Annex C**
+<br>
+**spexScholarship Fact Sheet**
+<br>
+**Sports Excellence Scholarship (spexScholarship)**
+<br>
 The Sports Excellence Scholarship is a scheme under the High Performance Sports (HPS) System that provides an enhanced level of support for highly talented Singaporeans athletes with demonstrated prowess for international sporting achievements.
 
 The scholarship will increase both the breadth and depth of the existing HPS System.
 
 The increase in programme depth is achieved by supporting highly talented athletes along the entire pathway, from the point of talent identification at national sports level onwards and not only at the apex of the Sports Excellence pathway. Highly talented athletes from Youth Sports programmes can now continue their sports development through this scheme when they leave the School Sports system. The spexScholarship, therefore, provides continuity from School and Youth Sports to National representation in International Sports.
+![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0052Imagegif.gif)
 
-
-
-The spexScholarship will provide the following:
-
-Financial support
-Monthly stipend to sustain full-time training at SEA Games and higher levels
-Median annual stipend amounts are $$24,000 (SEA Games or equivalent), $60,000 (Asian Games or equivalent) and $$90,000 for (Olympic Games or equivalent)
-Coaching
-Training, competition and equipment
-Education support for student athletes: e.g.
-Flexible education programme
-Education service support (programme counseling, university applications)
-Effective studentship (extra tutorial, goal setting etc)
-Career preparation for adult athletes: e.g.
-Athlete-friendly employer networking
-Career counseling
-Internships and job attachments
-Training e.g., interview skills, effective working habits, and personal grooming.
-Personal and life-skill development: e.g.
-Time management
-Communication skills
-Financial and life planning
-Conflict resolution
-
-Total Cost of the spexScholarship:
-
-The spexScholarship will cost about S$40 million over 5 years.
-
-
-
-Selection Process
-
-The main point of entry into the selection process is through nomination by the respective NSAs. Singapore Sports Institute (SSI) can also introduce candidates into the selection process through its own channel of identifying talented athletes for the scheme.
-
-All candidates were shortlisted and selected through an interview by a selection panel. Candidates who were successful in this round were then forwarded to the HPS Selection & Performance Sub-Committee for support before they were floated to the HPS Steering Committee for final approval. Athletes who are not successful in the selection will continue to receive spexGrant support under the HPS pathway.
-
-The key principles of selection are to select athletes with demonstrated potential for podium success, training commitment as well as good attitude & behaviour.
+**The spexScholarship will provide the following:**
+<br>
+1.  Financial support
+*  Monthly stipend to sustain full-time training at SEA Games and higher levels
+*  Median annual stipend amounts are $$24,000 (SEA Games or equivalent), $60,000 (Asian Games or equivalent) and $$90,000 for (Olympic Games or equivalent)
+*  Coaching
+*  Training, competition and equipment
+ 
+2.  Education support for student athletes: e.g.
+*  Flexible education programme
+*  Education service support (programme counseling, university applications)
+*  Effective studentship (extra tutorial, goal setting etc)
+3.  Career preparation for adult athletes: e.g.
+*  Athlete-friendly employer networking
+*  Career counseling
+*  Internships and job attachments
+*  Training e.g., interview skills, effective working habits, and personal grooming.
+4.  Personal and life-skill development: e.g.
+*  Time management
+*  Communication skills
+*  Financial and life planning
+*  Conflict resolution
+ 
+ Total Cost of the spexScholarship:
+ <br>
+ The spexScholarship will cost about S$40 million over 5 years.
+ 
+ 
+ 
+ **Selection Process**
+ <br>
+ The main point of entry into the selection process is through nomination by the respective NSAs. Singapore Sports Institute (SSI) can also introduce candidates into the selection process through its own channel of identifying talented athletes for the scheme.
+ 
+ All candidates were shortlisted and selected through an interview by a selection panel. Candidates who were successful in this round were then forwarded to the HPS Selection & Performance Sub-Committee for support before they were floated to the HPS Steering Committee for final approval. Athletes who are not successful in the selection will continue to receive spexGrant support under the HPS pathway.
+ 
+ The key principles of selection are to select athletes with demonstrated potential for podium success, training commitment as well as good attitude & behaviour.
 
 The candidates were assessed on the following:
 
