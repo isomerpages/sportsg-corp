@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**MEDIA RELEASE**
-
-**Jurong Spring unveils revamped Neighbourhood Park Enhanced with multi-generational facilities as part of Neighbourhood Renewal Programme**
+### **Jurong Spring unveils revamped Neighbourhood Park Enhanced with multi-generational facilities as part of Neighbourhood Renewal Programme**
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/JurongWestSIP_Pano1.jpeg)
 _Photo by Team Nila photographer, Chin KK_
