@@ -6,9 +6,7 @@ third_nav_title: Anti Doping Singapore
 ---
 **Anti-Doping Singapore**
 
-3 Stadium Drive
-<br>
-Singapore 397630
+3 Stadium Drive, Singapore 397630
 <br>
 Tel: (65) 63457111
 <br>
