@@ -7,9 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-13 Partners Join Athlete Support Schemes To Give Team Singapore Athletes Comprehensive Support
-12 Nov 2013
+## **13 Partners Join Athlete Support Schemes To Give Team Singapore Athletes Comprehensive Support**
 
+![](/images/Media%20Centre/Media%20Release/2013/Nov/13PARTNERSJOINATHLETESUPPORTSCHEMESTOGIVETEAMATHLETESUPPORTMainPar0042Imagegif.gif)
 
 	
 Singapore, 12 November 2013 - The Singapore Sports Council (SSC) has today launched the Sports Excellence Education Scheme and Sports Excellence Career Scheme - with more than 1,000 Team Singapore athletes benefitting from them. With these schemes in place, there is now a formalised system of support for athletes to cope effectively with the dual demands of competitive sport and their careers or studies.
