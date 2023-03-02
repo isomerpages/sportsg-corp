@@ -44,20 +44,20 @@ Keith Saw Hui Xun, Bowling
 
 
 For media enquiries, please contact:
-
+<br>
 Siti Nurhidayati 
-Senior Executive, Media Relations 
-Singapore Sports Council
-Tel: 6500 5246 
-Email: siti_nurhidayati@ssc.gov.sg
+<br>Senior Executive, Media Relations 
+<br>Singapore Sports Council
+<br>Tel: 6500 5246 
+<br>Email: siti_nurhidayati@ssc.gov.sg
 
 
-About Singapore Sports Council
-
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-
+<br>
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-
+<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
