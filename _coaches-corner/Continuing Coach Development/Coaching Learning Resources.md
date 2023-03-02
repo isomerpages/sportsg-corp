@@ -75,3 +75,20 @@ For more queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coac
 ##### **Other Resources**
 
 **CoachSG Events**
+[CoachSG Conference 2019](https://www.sportsingapore.gov.sg/Athletes-Coaches/CoachSG/Conference-2019/Resources)
+
+[CoachSG Conference 2018](https://www.sportsingapore.gov.sg/Athletes-Coaches/CoachSG/Conference-2018/Resources)
+
+[CoachSG Conference 2017](https://www.sportsingapore.gov.sg/athletes-coaches/coachsg/conference-2017/resources)
+
+[Workshop Videos and Presentation Materials from Past Continuing Coach Education (CCE) Workshops](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Presentation_Materials_from_Past_CCE_Workshops_v7.pdf)
+
+25 Feb 2023 - [Hamstring Rehabilitation - From Injury to Performance](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Hamstring_Rehabilitation_-_From_Injury_to_Performance.pdf)
+
+[Sports Hub Library](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Sports_Hub_Library.pdf)
+
+**Research Articles**
+
+Does Smoking Affect Exercise Performance?
+
+Smoking’s detrimental effects on performance is well documented and we would like to share with you an [article](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Does_Smoking_Affect_Exercise_Performance.pdf) written by Dr Frankie Tan (Head, Sport Science & Medicine Centre) and Dr Abdul Rashid Aziz (Team Lead & Senior Sport Physiologist) entitled ‘Does Smoking Affect Exercise Performance’. The article pulls together the numerous research evidence showing the negative effects of smoking on sports performance, both acute and chronic.
