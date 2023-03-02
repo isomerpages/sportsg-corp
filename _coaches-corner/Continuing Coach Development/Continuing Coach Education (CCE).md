@@ -85,3 +85,11 @@ Requirement:
     
 * All learning activities cannot be completed in the space of one year and must be spread over the three-year period.
 * Coaches should submit the completed Log Book together with NROC membership renewal at least three months prior to their membership expiry date. Sport Singapore and the NSAs will be responsible for reviewing the Log Book and the renewal application.
+
+**Update on CCE Hours Requirement**
+
+From 1 May 2018, Self-Guided CCE hours will be included as part of the Continuing Coach Education (CCE) programme. This modification in the CCE programme is made through consultation with coaches and the Sports Coaches Association of Singapore (SCA). Coaches can now opt to fulfil certain CCE hours (see _Table 1_) through self-guided learning and reflection (see _Table 2_). Reflection examples and templates are included at the end of this section.
+
+Recognition of Self-Guided CCE hours encourages coaches to be self-directed learners, especially since coaches may have learning needs specific to their sport and context. In addition, Self-Guided CCE hours gives coaches additional flexibility in fulfilling CCE hours requirement. Critical self-reflection is vital to the continued success of coaches as coaches often learn without the direct guidance of others during coaching activities. Self-Guided CCE hours will allow coaches to reflect upon and record these learning from their day-to-day coaching practices. 
+
+FAQs on this update can be found [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/FAQs.pdf).
