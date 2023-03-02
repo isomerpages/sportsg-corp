@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ## **More Opportunities For Children To Receive Better Coaching In Football**
+![](/images/Media%20Centre/Media%20Release/2013/Dec/newsroom.jpeg)
 **Singapore, 6 December 2013** - The Football Association of Singapore (FAS) has today concluded its fourth annual FIFA Grassroots Course and Festival, with some of its participants set to conduct junior football programmes in collaboration with the Singapore Sports Council's (SSC's) rebranded network of Super Sports Clubs, ActiveSG.
 
 2. The FIFA Grassroots Course and Festival is designed to aid its participants, also known as coach-educators, in acquiring international standards of coaching children aged six to 12 years in football. The Course, which comprises theoretical and practical sessions, prepares coach-educators to teach football to children through encouragement and achievement. It also advocates that they supervise, reassure and motivate children to play football for fun as the best means of learning the sport.
