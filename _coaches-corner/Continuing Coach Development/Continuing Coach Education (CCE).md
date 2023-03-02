@@ -46,3 +46,11 @@ NROC requires coaches to upgrade themselves continually to maintain high coachin
 * Coach Education
     
 There are four types of membership status in the NROC:
+
+| Status | Definition |
+| -------- | -------- | 
+| **Active**     | Refers to coaches who have fulfilled all the NROC criteria and membership renewal requirements.| 
+| **Inactive**     | Refers to coaches who have fulfilled all the NROC criteria but did not meet the membership renewal requirements, i.e., failed to acquire the required number of learning hours or failed to send in renewed Standard First Aid.| 
+| **Delisted**     | Refers to coaches who have failed to meet the membership renewal requirements for a continuous period of nine years. The coach's name will be removed from the Registry.| 
+| **Suspended** | Refers to coaches who have either breached the Coach's Code of Ethics or are under investigation, pending a decision from the Board of Inquiry. Re-instatement of membership will be granted on a case-by-case basis.| 
+
