@@ -64,18 +64,18 @@ For more information, please visit the Singapore Sports Hub website: www.sportsh
 
 The Public-Private Partnership includes:
 
-
+![](/images/Media%20Centre/Media%20Release/2013/June/SINGAPORESPORTSHUBONTRACKTOOPENINAPRIL2014MainPar0046Imagegif.gif)
 
 About Singapore Sports Council
 
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
-
-Follow us on Facebook at: www.facebook.com/SingaporeSports
-
+<br>
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
+<br>
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 About Dragages Singapore
-
+<br>
 An engineering and construction company active in Singapore since 1984, member of Bouygues Construction group. Dragages is responsible for the design and construction of the venues and an equity partner of SportsHub Pte. Ltd.
