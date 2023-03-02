@@ -30,3 +30,7 @@ The International Standard for the Protection of Privacy and Personal Informatio
 
 ![International Standard for Code Compliance by Signatories](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISCCS_2021.jpeg)
 [International Standard for Code Compliance by Signatories](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-code-compliance-signatories-isccs) - The International Standard for Code Compliance by Signatories is to set out the relevant framework and procedures for ensuring Code Compliance by Signatories.
+
+![International Standard for Education](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISE_2021.jpeg)
+[International Standard for Education](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-education-ise) - The International Standard for Education is to support the preservation of the spirit of sport as outlined in the Code and to help foster a clean sport environment.
+
