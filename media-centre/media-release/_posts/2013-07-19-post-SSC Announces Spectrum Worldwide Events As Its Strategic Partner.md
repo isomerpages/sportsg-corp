@@ -8,6 +8,7 @@ image: ""
 ---
 ## **SSC Announces Spectrum Worldwide Events As Its Strategic Partner For Standard Chartered Marathon Singapore**
 ![](/images/Media%20Centre/Media%20Release/2013/July/Standard%20Chartered%20Marathon%20Singapore%202013%20Logo.jpeg)
+
 **Singapore, 19 July 2013** - The Singapore Sports Council (SSC) has appointed event management and experiential marketing company Spectrum Worldwide Events (Singapore) Pte. Ltd. as the Event Organiser of the Standard Chartered Marathon Singapore (SCMS). This follows SSC's Request For Proposal (RFP) published in GeBIZ in March this year.
 
 2. This appointment grants Spectrum the full responsibility of organising the nation's marquee running event. Under the terms of appointment, Spectrum will be expected to deliver four (4) editions of the SCMS, from 2013 to 2016. Spectrum will manage all aspects of the event, including existing relationships with sponsors, opportunities for other commercial tie-ups to enhance the participant experience, marketing, operations and logistics. Spectrum will also be responsible for ensuring the event's growth, in consultation with the SSC. SSC will continue to be the Event Owner and will maintain strategic oversight. SSC will provide a grant (based on SSC's event funding framework) in the initial years to help defray the cost of loss-leading elements of the event. The grant will be based on agreed plans for each edition of the event.
