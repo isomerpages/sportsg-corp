@@ -21,8 +21,7 @@ image: ""
 -End-
 
 Annex:
-*   [Profiles of Choreographer, Singers, and Dancers]
-[](/files/Media%20Centre/Media%20Release/2014/Jan/Singapore%20to%20host%208th%20Asean%20Para%20Games%20in%20December%202015%20annex.pdf)
+*   [Profiles of Choreographer, Singers, and Dancers](/files/Media%20Centre/Media%20Release/2014/Jan/Singapore%20to%20host%208th%20Asean%20Para%20Games%20in%20December%202015%20annex.pdf)
 
 **For media enquiries, please contact:**
 <br>Eric Ong
@@ -30,17 +29,17 @@ Annex:
 <br>Singapore Sports Council
 <br>Tel: +65 6500 5014
 <br>HP: +65 9764 4964
-<br>Email: eric_ong@ssc.gov.sg
+<br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
 <br>Yasmin Lazaroo
 <br>Assistant Manager, Corporate Communications
 <br>Singapore Disability Sports Council
 <br>Tel: +65 6342 3501
 <br>HP: +65 8188 0459
-<br>Email: yasmin.lazaroo@sdsc.org.sg
+<br>Email: [yasmin.lazaroo@sdsc.org.sg](yasmin.lazaroo@sdsc.org.sg)
 
-About Singapore Sports Council (SSC)
-
+**About Singapore Sports Council (SSC)**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg
