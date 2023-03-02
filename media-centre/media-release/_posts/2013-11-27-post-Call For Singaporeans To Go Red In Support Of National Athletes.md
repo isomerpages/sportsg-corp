@@ -83,7 +83,7 @@ SportCares was established by Singapore Sports Council to provide opportunities 
 Through great coaching, programmes and support, sport can develop people with a winning spirit, an appreciation for teamwork, a commitment to purpose, an understanding of leadership and a love of country.
 
 **SportCares
-Seeding Hope. Creating Opportunities.
-Growing Capabilities. Giving Back. Changing Lives.**
+<BR>Seeding Hope. Creating Opportunities.
+<BR>Growing Capabilities. Giving Back. Changing Lives.**
 
 Join the SportCares Movement by emailing: [sportcares@ssc.gov.sg](sportcares@ssc.gov.sg)
