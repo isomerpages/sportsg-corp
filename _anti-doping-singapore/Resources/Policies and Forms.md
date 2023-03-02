@@ -8,6 +8,7 @@ third_nav_title: Resources
 * [Anti-Doping Policy of Singapore](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf) - **(Updated February 2012)** - 
 Governing policy that stipulates the anti-doping roles and responsibilities of key stakeholders.
 
-* [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) **(Updated 19 October 2022)**  - The anti-doping rules that governs the conduct of anti-doping activities by ADS.
+* [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) - **(Updated 19 October 2022)**  - The anti-doping rules that governs the conduct of anti-doping activities by ADS.
 
 #### **THERAPEUTIC USE EXEMPTION**
+* [ADS Therapeutic Use Exemption Policy](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Policy_20210401.pdf) - **(Updated 1 April 2021)**  - ADS policy stating the procedures for the application, process and approval of TUEs.
