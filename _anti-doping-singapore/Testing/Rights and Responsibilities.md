@@ -4,14 +4,13 @@ permalink: /anti-doping-singapore/testing/rights-and-responsibilities/
 description: ""
 third_nav_title: Testing
 ---
-**ATHLETE**
+#### **ATHLETE**
 
 As an athlete, you have to know and understand your rights and responsibilities when being tested. Ignorance is not an excuse.  
   
 **ATHLETE RIGHTS**  
   
 You have the right to:
-
 * Have a representative present
 * Have an interpreter, if available
 * Ask for additional information about the sample collection process
@@ -20,22 +19,14 @@ You have the right to:
 
 **For In-Competition Testing:**
 * Participate in a victory ceremony
-    
 * Fulfill media commitments
-    
 * Compete in further competitions
-    
 * Perform a warm down
-    
 * Obtain necessary medical treatment
-    
 * Locate a representative and/or interpreter
-    
 * Obtain photo identification
-    
 * Any other exceptional circumstances which may be justified, and which shall be documented
     
-
  **For Out-of-Competition Testing:**
 
 * Locate a representative
@@ -44,7 +35,7 @@ You have the right to:
 * Obtain photo identification
 * Any other exceptional circumstances which may be justified, and which shall be documented
 
-**ATHLETE RESPONSIBILITIES**  
+#### **ATHLETE RESPONSIBILITIES**  
   
 You have the responsibility to:
 
