@@ -18,7 +18,7 @@ image: ""
 
 4. The SSI is in the process of working out training programmes with the respective spexScholars and their NSAs and will be starting off these programmes progressively over the next three to four months.
 
-	
+	![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0069Imagegif.gif)
 5. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, and Chairman of the HPS Steering Committee, said: "The spexScholarship will provide the selected Team Singapore athletes with an enhanced level of support to enable them to fully realise their aspirations and their competitive potential. With the introduction of the spexScholarship, we hope to see more Singaporean athletes focus on the fulltime pursuit of sport excellence.
 
 6. "Beyond this group of spexScholars, we have also identified another group of athletes who have shown potential to be a spexScholar but are not at that level yet. We will provide them with additional support, and we hope that they will be able to advance to the level of a spexScholar within a year or two,"
