@@ -207,7 +207,7 @@ The increase in programme depth is achieved by supporting highly talented athlet
  The key principles of selection are to select athletes with demonstrated potential for podium success, training commitment as well as good attitude & behaviour.
 
 The candidates were assessed on the following:
-
+<br>
 a. Training commitment:
 Training volume profile (> 12 months) of the athlete will be benchmarked against the volume of a full-time training load i.e., 10 sessions / week or about 30hrs/week
 
@@ -220,12 +220,12 @@ This will come in the form of character reference from Coaches / administrators 
 d. Performance and Laboratory Tests:
 Such tests will be conducted only when necessary and on a case-by-case basis. For example, aerobic capacity test to differentiate the potential between two endurance athletes; cognitive performance and motor skill tests for skill-based sports.
 
-Programme Operation: Functional Sports Programme
-
+**Programme Operation: Functional Sports Programme**
+<br>
 Once the selection of the athletes is finalised, SSI will go into a formal partnership with the respective NSA to start a Functional Sport Programme (FSP) for each sport. The FSP will be responsible for the day-to-day operation of the programme. All the FSP will come under the management of SSI and each FSP comprises the SSI High Performance Manager, Coaches, NSA representative, and Sports Science and Medicine Personnel.
 
-Duration of Scholarships
-
+**Duration of Scholarships**
+<br>
 The duration of the scholarship is tied to the Games-cycle (also Carding cycle) of the respective levels in the HPS pathway
 Levels 1 and 2: 4 years
 Levels 3 and 4: 2 years
