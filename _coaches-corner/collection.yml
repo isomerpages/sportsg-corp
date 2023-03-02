@@ -1,4 +1,5 @@
 collections:
   coaches-corner:
     output: true
-    order: []
+    order:
+      - Funding/.keep
