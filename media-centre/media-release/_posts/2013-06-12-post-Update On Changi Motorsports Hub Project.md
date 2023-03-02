@@ -6,11 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Update On Changi Motorsports Hub Project
-12 Jun 2013
+## **Update On Changi Motorsports Hub Project**
 
-
-Singapore, 12 June 2013 - The Singapore Sports Council (SSC) announced today that it would not be proceeding with the re-tender for the Changi Motorsports Hub site following the conclusion of an extensive international and local market sounding and Request for Information (RFI) exercise.
+**Singapore, 12 June 2013** - The Singapore Sports Council (SSC) announced today that it would not be proceeding with the re-tender for the Changi Motorsports Hub site following the conclusion of an extensive international and local market sounding and Request for Information (RFI) exercise.
 
 2. Updating the media on the decision not to proceed with the re-tender, SSC CEO Lim Teck Yin said: "The SSC has decided not to proceed with the re-tender as potential investors had indicated significant combined conditions for the project to be commercially viable, which we cannot accede to. The key requirements from potential investors include requests for flexibility of lease terms and land use as well as tax concessions. For example, with regard to flexibility of lease terms, there were requests for extensions of duration and pricing below valuation."
 
@@ -30,14 +28,14 @@ For media enquiries, please contact:
 Alvin Hang 
 Director, Corporate Communications & Relations
 Singapore Sports Council
-Email: alvin_hang@ssc.gov.sg
+Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
 
 ### **About the Singapore Sports Council**
 
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
 
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
+Follow SSC on Twitter at:[www.twitter.com/Lets_PlaySG]( www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
