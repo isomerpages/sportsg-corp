@@ -10,7 +10,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2013/July/SINGSOCANDSISOJOINHANDSFORASAFE28thSEAGAMESMainPar0042Imagegif.gif)
 	
-Singapore, 8 July 2013 - The Singapore Southeast Asian Games Organising Committee (SINGSOC) and the Singapore Institution of Safety Officers (SISO) signed a two-year Memorandum of Understanding (MOU) today, marking both parties' commitment to look into the safety aspects of the 28th Southeast Asian (SEA) Games in Singapore.
+**Singapore, 8 July 2013** - The Singapore Southeast Asian Games Organising Committee (SINGSOC) and the Singapore Institution of Safety Officers (SISO) signed a two-year Memorandum of Understanding (MOU) today, marking both parties' commitment to look into the safety aspects of the 28th Southeast Asian (SEA) Games in Singapore.
 
 2. Signed by SINGSOC Executive Committee (EXCO) Chairman Lim Teck Yin and SISO President Seet Choh San, the agreement will see the development and implementation of risk management plans for the 28th SEA Games.
 
