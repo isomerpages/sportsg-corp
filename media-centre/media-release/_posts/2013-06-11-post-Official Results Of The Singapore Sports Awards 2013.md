@@ -26,19 +26,19 @@ Meritorious Awards (Seniors)
 ![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0056Imagegif.gif)
 Meritorious Awards (Sportsboy/Sportsgirl)
 ![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0057Imagegif.gif)
-
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0064Imagegif.gif)
 Best Sports Event of the Year (Local)
-Standard Chartered Marathon Singapore 2012
+<br>Standard Chartered Marathon Singapore 2012
 
-
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0066Imagegif.gif)
 Team of the Year (Team Sport)
-National Football Men's Team at the Asean Football Federation Suzuki Cup
+<br>National Football Men's Team at the Asean Football Federation Suzuki Cup
 
-
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0068Imagegif.gif)
 Sportsgirl of the Year
 Elisa Yukie Yokoyama, Sailing
 
-
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0070Imagegif.gif)
 Sportsboy of the Year
 Keith Saw Hui Xun, Bowling
 
