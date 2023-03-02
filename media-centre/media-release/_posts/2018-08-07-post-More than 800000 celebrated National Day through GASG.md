@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **More than 800000 celebrated National Day through GASG**
+
 ![](/images/Media%20Centre/Media%20Release/2018/August/GetActive%20Singapore%20Finale.jpeg)
 
 **Singapore, 7 August 2018** – GetActive! Singapore, the national week of sport saw 803,055 participants took part in sport festivals, competitions and activities across Singapore over 11 days.
