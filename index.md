@@ -36,7 +36,7 @@ sections:
       subtitle: What We Do
       button: Discover Now
       alt: Image alt text
-      url: /support-resources/coaches-corner/introduction/
+      url: /what-we-do/academy-and-clubs/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
