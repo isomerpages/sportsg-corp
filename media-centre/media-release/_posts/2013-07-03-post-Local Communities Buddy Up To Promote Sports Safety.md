@@ -8,7 +8,7 @@ image: ""
 ---
 ## **Local Communities "Buddy Up" To Promote Sports Safety**
 
-Singapore, 30 July 2013 - Local communities gathered today in support of "Be Sports Safe, Buddy Up" - a simple idea that encourages people to bring along another person when engaging in sports so that they can look out for each other to reduce incidents and accidents. The campaign was launched by Mr Sam Tan, Senior Parliamentary Secretary, Ministry of Culture, Community and Youth.
+**Singapore, 30 July 2013** - Local communities gathered today in support of "Be Sports Safe, Buddy Up" - a simple idea that encourages people to bring along another person when engaging in sports so that they can look out for each other to reduce incidents and accidents. The campaign was launched by Mr Sam Tan, Senior Parliamentary Secretary, Ministry of Culture, Community and Youth.
 
 2. In the spirit of "Be Sports Safe, Buddy Up", some 20 partners have come forward to be part of the campaign. Support comes in various forms: schools as well as partners like the Sentosa Development Corporation, National Parks Board, and water theme park Wild Wild Wet, will have banners put up at their respective premises. In addition, students from ITE College East and West, Kranji Secondary School, Nan Chiau High School and Temasek Secondary School will run the upcoming "Buddy Up" roadshows and outreach activities, where they will help spread the word and educate fellow Singaporeans on sports safety. The latter is just one of the many activities under a safety ambassador programme called the Sports Safety Champs, which was launched in November last year.
 
