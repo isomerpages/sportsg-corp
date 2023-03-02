@@ -13,3 +13,4 @@ Annual research grant funding of between USD 20,000 to USD 65,000 are available 
 More details on the WADA Social Science Research Grant Program can be found at the WADA website. Please click [here](https://www.wada-ama.org/en/social-science-research).  
   
 Watch the video below to learn more about the program.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y1VYw5LWDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
