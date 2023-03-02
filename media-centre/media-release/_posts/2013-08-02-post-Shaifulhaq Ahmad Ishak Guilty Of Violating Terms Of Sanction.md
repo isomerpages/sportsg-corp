@@ -31,6 +31,7 @@ image: ""
 *Under Anti-Doping Singapore's (ADS) Anti-Doping Rules, the National Anti-Doping Disciplinary Committee (NADC) decides on the sanctions on athletes who have violated the doping rules and regulations. The respective NSAs must implement the sanctions accordingly. All athletes were given a period to appeal to the National Anti-Doping Appeals Committee (NAAC) following NADC's decision. After this period, no one, including the ADS and the NSAs, has the right to lift the ban.
 
 -END-
+
 **For media enquiries, please contact:**
 <br>Eric Ong
 <br>Manager, Media Relations
