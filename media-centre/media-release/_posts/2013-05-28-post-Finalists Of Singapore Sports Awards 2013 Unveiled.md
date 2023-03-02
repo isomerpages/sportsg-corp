@@ -30,15 +30,7 @@ Please refer to Annex A for the list of finalists.
 
 Annex A
 
-
-
-
-
-
-
-
-
- 
+![](/images/Media%20Centre/Media%20Release/2013/May/FINALISTSOFSINGAPORESPORTSAWARDS2013UNVEILEDMainPar0040Imagegif%20(1).gif)
 For media enquiries, please contact:
 
 Siti Nurhidayati
