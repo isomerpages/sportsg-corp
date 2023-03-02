@@ -35,6 +35,8 @@ Athletes should advise all medical personnel of their obligation to abide by the
 	* Submit completed TUE application form with relevant justifying documents (eg. Evidence of the diagnosis, a comprehensive medical history and the results of all examinations, laboratory and investigations and imaging studies relevant to the application).
 	* Submit to ADS for ADS Registered and Domestic Testing Pools and all other athletes not in any testing pool.
 	* Submit to your International Federation for International-level athletes.
+* STEP 9: APPROVAL OF TUE
+	* Decisions of the TUE application will be conveyed to the athlete and/or relevant NSA within 30 days of receipt of the completed TUE application form and relevant justifying documents.
 
 **CRITERIA FOR GRANTING A TUE**
 
