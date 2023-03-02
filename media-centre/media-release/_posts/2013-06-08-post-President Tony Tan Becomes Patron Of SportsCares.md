@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ## **President Tony Tan Becomes Patron Of SportsCares**
-
+![](/images/Media%20Centre/Media%20Release/2013/June/VISION2030IMPLEMENTATIONBEGINSWITHSPORTCARESMainPar0041Imagegif.gif)
 	
 **Singapore, 8 June 2013** - It was yet another milestone for the Singapore Sports Council's (SSC) philanthropic arm, as President Tony Tan was announced as Patron of SportCares today. This announcement follows the roll-out of SportCares programmes that have transformed the lives of Singaporeans in need over the recent months.
 ![](/images/Media%20Centre/Media%20Release/2013/June/PRESIDENTTONYTANBECOMESPATRONOFSPORTCARESMainPar0061Imagegif.gif)
