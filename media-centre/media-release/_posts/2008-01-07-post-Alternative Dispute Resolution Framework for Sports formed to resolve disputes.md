@@ -40,13 +40,13 @@ e) Growth in other supporting services such as sports law
 
 **Enclosures:**
 <br>
-[Annex A - Profiles of ADR Sports Partners](/files/Media%20Centre/Media%20Release/2008/January/Annex20A20Profiles.pdf)
+[Annex A - Profiles of ADR Sports Partners](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20A20Profiles.pdf)
 <br>
-[Annex B - Presentation Slides on ADR Sports](/files/Media%20Centre/Media%20Release/2008/January/Annex20B2020Presentation20by20Mr20Ho20Mun20Wai20DPPM20SSCpptv2.pdf)
+[Annex B - Presentation Slides on ADR Sports](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20B2020Presentation20by20Mr20Ho20Mun20Wai20DPPM20SSCpptv2.pdf)
 <br>
-[Annex C - Address by Mr Teo Ser Luck, Parliamentary Secretary, MCYS](/files/Media%20Centre/Media%20Release/2008/January/Annex20C2020Speech20by20Mr20Teo20Ser20LuckParl20Sec20MCYS.pdf)
+[Annex C - Address by Mr Teo Ser Luck, Parliamentary Secretary, MCYS](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20C2020Speech20by20Mr20Teo20Ser20LuckParl20Sec20MCYS.pdf)
 <br>
-[Annex D - Address by Mr Oon Jin Teik, CEO, SSC](/files/Media%20Centre/Media%20Release/2008/January/Annex20D2020CEOs20Opening20Remarks.pdf)
+[Annex D - Address by Mr Oon Jin Teik, CEO, SSC](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20D2020CEOs20Opening20Remarks.pdf)
 
 **For media queries, please contact:**
 <br>
