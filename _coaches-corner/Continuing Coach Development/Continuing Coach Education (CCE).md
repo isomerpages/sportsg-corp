@@ -64,3 +64,6 @@ Please note that National Sports Associations (NSAs) may develop their own sport
 | 2     |  60 hours in 3 years  | 60% (i.e., 36hrs) for coaching practice 40% (i.e., 24hrs) for coach education |
 | 3     |  100 hours in 3 years  | 70% (i.e., 70hrs) for coaching practice 30% (i.e., 30hrs) for coach education |
 
+**Coaching e-Log Book**
+
+The Coaching Logbook has now gone digital, and you can access it within your [SportSync](http://www.sportsync.sg/) account – you may access the e-Logbook guide [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/How_to_update_e-logbook%20on_SportSync.pdf)
