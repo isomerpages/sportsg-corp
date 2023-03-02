@@ -19,3 +19,7 @@ You are required to report to the doping control station immediately unless you 
 
 At the doping control station, you will be given a chance to hydrate. Individually sealed beverage will be available.
 ![step3](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step3.jpeg)
+
+**STEP 4: SELECTION OF A URINE COLLECTION VESSEL**
+You are given a choice of at least 3 individually sealed sample collection kits, and you will select one. You should verify that the equipment is intact and has not been tampered with. You should maintain control of the collection vessel at all times. 
+![step4](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step4.jpeg)
