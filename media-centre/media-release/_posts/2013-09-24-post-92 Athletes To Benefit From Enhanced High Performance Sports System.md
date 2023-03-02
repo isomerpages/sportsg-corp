@@ -196,8 +196,7 @@ The increase in programme depth is achieved by supporting highly talented athlet
  Total Cost of the spexScholarship:
  <br>
  The spexScholarship will cost about S$40 million over 5 years.
- 
- 
+ ![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0055Imagegif.gif)
  
  **Selection Process**
  <br>
