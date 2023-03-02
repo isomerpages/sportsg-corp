@@ -11,3 +11,5 @@ third_nav_title: Anti Doping Singapore
 [Sample Collection Procedures](/anti-doping-singapore/testing/sample-collection-procedures/)
 
 [Whereabouts Information](/anti-doping-singapore/testing/whereabouts-information/)
+
+[Testing Statistics](/anti-doping-singapore/testing/testing-statistics/)
