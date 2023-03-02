@@ -25,7 +25,7 @@ Meritorious Awards (Seniors)
 ![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0055Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0056Imagegif.gif)
 Meritorious Awards (Sportsboy/Sportsgirl)
-
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0057Imagegif.gif)
 
 Best Sports Event of the Year (Local)
 Standard Chartered Marathon Singapore 2012
