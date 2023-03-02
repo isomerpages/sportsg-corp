@@ -10,6 +10,7 @@ image: ""
 
 **Singapore, 10 June 2013** -  Mr. Lawrence Wong, Acting Minister for Culture, Community and Youth, today visited the development site of the Singapore Sports Hub to view the successfully installed highest truss of the new National Stadium, which measures approximately 77.5 metres above pitch level.
 ![](/images/Media%20Centre/Media%20Release/2013/June/SINGAPORESPORTSHUBONTRACKTOOPENINAPRIL2014MainPar0040Imagegif.gif)
+
 2. This construction milestone represents another step towards the completion of this new Singapore landmark and the crown jewel of the Sports Hub, with the entire construction project on track to open in April 2014.
 
 3. Noting this latest milestone in the Hub's construction, Acting Minister Wong said, "I'm glad that we've reached this major milestone in the construction of the National Stadium. This testifies to the commitment and dedication of our partners to deliver the project on schedule. I've talked to many people in the sports community, and we are all excited about the completion of the Stadium and the Sports Hub."
@@ -67,8 +68,8 @@ The Public-Private Partnership includes:
 
 ![](/images/Media%20Centre/Media%20Release/2013/June/SINGAPORESPORTSHUBONTRACKTOOPENINAPRIL2014MainPar0046Imagegif.gif)
 
-About Singapore Sports Council
-
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
