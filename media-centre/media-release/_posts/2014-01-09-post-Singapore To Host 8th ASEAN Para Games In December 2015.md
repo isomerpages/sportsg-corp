@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ## **Singapore To Host 8th ASEAN Para Games In December 2015**
-
+![](/images/Media%20Centre/Media%20Release/2014/Jan/ssc%20snpc%20sdsc.jpeg)
 **Singapore, 9 January 2014** - As a befitting finale of a major year for Singapore sports, 2015 will see Singapore hosting the 8th ASEAN Para Games – a first to be held here. The ASEAN Para Games will be held during the December school holidays.
  
 2.Working together with the Singapore National Paralympic Council (SNPC), the Singapore Disability Sports Council (SDSC) and the Singapore Sports Council (SSC), the 8th ASEAN Para Games Organising Committee (APGOC) is in the midst of finalising the competition dates and number of sports. The proposal is to have 10-12 sports shortlisted from 24 sports on the ASEAN Paralympic Sport Federation (APSF) list. This sporting event is expected to involve some 1,300 athletes and over 500 team officials from across the region.
