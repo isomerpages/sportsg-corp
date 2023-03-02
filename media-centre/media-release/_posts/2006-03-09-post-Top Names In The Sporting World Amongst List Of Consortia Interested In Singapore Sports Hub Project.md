@@ -20,10 +20,12 @@ The Ministry of Community Development, Youth and Sports (MCYS) and the SSC will 
 The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship PPP project of this nature.
 
 Issued by
+<br>
 Ministry Of Community Development, Youth And Sports &
+<br>
 Singapore Sports Council
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 Name: Mr Harold Lim
 <br>
