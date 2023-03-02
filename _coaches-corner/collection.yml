@@ -2,6 +2,7 @@ collections:
   coaches-corner:
     output: true
     order:
+      - Continuing Coach Development/Introduction.md
       - Continuing Coach Development/.keep
       - Funding/Coach Development Grant.md
       - Funding/.keep
