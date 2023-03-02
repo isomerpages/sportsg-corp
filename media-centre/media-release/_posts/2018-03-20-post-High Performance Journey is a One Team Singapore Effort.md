@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**MEDIA RELEASE**
-
-##### **High Performance Journey is a One Team Singapore Effort**
+### **High Performance Journey is a One Team Singapore Effort**
 
 *   Athletes, Parents, Coaches, Officials, Sport Specialists, NSAs, Corporates, Institutions come together to celebrate as One
 *   5th year of spexScholarship programme boasts biggest cohort of 78 scholars across 24 sports with 17 new scholars
