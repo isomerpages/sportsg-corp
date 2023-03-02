@@ -23,6 +23,7 @@ image: ""
 7. Added Lim: "While we work towards handing the site back to the authorities, SSC is also actively working with the relevant agencies on possible interim uses for the site for motorsports-related activities such as karting for the community."
 
 -END-
+
 For media enquiries, please contact:
 
 Alvin Hang 
