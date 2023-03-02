@@ -6,11 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Two-Year Ban For Silat Exponent Saiedah Said
-06 Jun 2013
+## **Two-Year Ban For Silat Exponent Saiedah Said**
 
-
-Singapore, 5 June 2013 - Silat exponent Saiedah Bte Said has tested positive for the banned substances Nor-Sibutramine and OH-Nor Sibutramine (Metabolites of Sibutramine) under the 2013 Prohibited List following in-competition testing at the 38th National Pencak Silat Championships on 14 April 2013.
+**Singapore, 5 June 2013** - Silat exponent Saiedah Bte Said has tested positive for the banned substances Nor-Sibutramine and OH-Nor Sibutramine (Metabolites of Sibutramine) under the 2013 Prohibited List following in-competition testing at the 38th National Pencak Silat Championships on 14 April 2013.
 
 2. The 28-year-old was informed by Anti-Doping Singapore (ADS) that she may have committed a possible Anti-Doping Rule Violation (ADRV) on 21 May 2013. She requested for her 'B' sample to be analysed which subsequently confirmed her 'A' sample result.
 
