@@ -69,3 +69,22 @@ If the sample falls outside the required range for specific gravity, the DCO wil
 
 You should avoid drinking too much fluid, as it may dilute your urine sample.
 ![step8](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step8.jpeg)
+
+##### **STEP 9: COMPLETING THE DOPING CONTROL FORM**
+You will be asked to provide information on the doping control form about any medication or supplements taken recently.  You should also indicate if there is any granted Therapeutic Use Exemption (TUE) for any prohibited substance or methods used.
+
+You also have the right to note comments on the form regarding the conduct of the doping control session. Be sure to confirm that all of the information is correct, including the sample code number. You will receive a copy of the doping control form. Ensure that the laboratory copy of the form does not contain any information that could identify you.
+
+The DCO will record the A Sample and B Sample bottle numbers on the Doping Control Form.
+
+At this point you will be asked to:
+
+Declare any prescription or non-prescription medication, vitamins, food supplements, herbal products and any other substance you have taken within the past 7 days.
+Declare the use of Beta-2 agonists or non-systemic glucocorticosteroids (intraarticular, periarticular, peritendinous, epidural, intradermal and inhalation) on the Doping Control Form.
+Provide details of any Therapeutic Use Exemptions (TUE)
+Include any comments from the procedure on the Doping Control Form.
+There is no obligation to make a declaration, but it may be helpful in explaining an adverse analytical or atypical finding.
+
+Your representative, if present, and you will be invited to check that the information recorded on the Doping Control Form is correct, and to sign it if satisfied.
+
+The DCO will provide a copy of the Doping Control Test Form to you for your records.
