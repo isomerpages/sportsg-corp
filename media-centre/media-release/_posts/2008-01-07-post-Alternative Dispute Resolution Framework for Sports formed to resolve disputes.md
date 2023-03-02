@@ -6,11 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Alternative Dispute Resolution Framework for Sports formed to resolve disputes
-Singapore , 07 Jan 2008
+### **Alternative Dispute Resolution Framework for Sports formed to resolve disputes**
 
-Alternative Dispute Resolution Framework for Sports formed to resolve disputes
-statics0
 Singapore, 7 January 2008 - The Singapore Sports Council (SSC) has taken another bold step to reinforce Singapore's position as a leading sports hub. Today, Singapore's first-ever Framework for Alternative Dispute Resolution for Sports (ADR Sports) to resolve sports disputes was officially launched with the signing of a memorandum of understanding among several parties at a signing ceremony held at SSC.
 
 Enhancement of professional practices and organisational excellence in NSAs
