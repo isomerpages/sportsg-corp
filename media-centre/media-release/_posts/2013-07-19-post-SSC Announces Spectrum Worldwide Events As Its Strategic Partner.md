@@ -19,15 +19,16 @@ image: ""
 5. This year's SCMS is scheduled to take place on 1 December 2013. To date, 34,709 runners have registered for the event. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at www.marathonsingapore.com and the Marathon's Official Facebook Page at www.facebook.com/MarathonSG.
 
 -END-
-For media enquiries, please contact:
-S. Parameswaran
-Assistant Director, Media Relations
-Singapore Sports Council
-Tel: +65 6500 5236
-Email: parames_seenivasagam@ssc.gov.sg
 
-About the Singapore Sports Council
+**For media enquiries, please contact:**
+<br>S. Parameswaran
+<br>Assistant Director, Media Relations
+<br>Singapore Sports Council
+<br>Tel: +65 6500 5236
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
