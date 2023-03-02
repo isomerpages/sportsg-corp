@@ -2,4 +2,5 @@ collections:
   coaches-corner:
     output: true
     order:
+      - Funding/Coach Development Grant.md
       - Funding/.keep
