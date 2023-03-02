@@ -35,7 +35,7 @@ Chance to Win a Trip to Catch SEA Games Live!
 
 -END-
 
-Appendix A - Team Singapore athletes featured in "Together We Are Stronger" campaign
+**Appendix A - Team Singapore athletes featured in "Together We Are Stronger" campaign**
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/CALLINGONSINGAPOREANSTOJOINourteamsgMainPar0054Imagegif.gif)
 
 **For media enquiries, please contact:**
