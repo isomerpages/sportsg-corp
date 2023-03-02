@@ -30,33 +30,33 @@ image: ""
 	
 8. Mr Chris Robb, Managing Director, Spectrum Worldwide, said: "While selecting the official beneficiaries to join OCBC Cycle Singapore 2013, it became clear that the core values of SportCares are closely aligned to what we try to achieve through our event. Both parties strive to provide everyone, regardless of their age or ability, with the opportunity to benefit from participation in sports while also improving the welfare of Singapore's underprivileged, disadvantaged and disabled citizens.
 As sport continues to establish itself in the nation's culture, I believe SportCares can provide a crucial platform to drive social initiatives through events such as OCBC Cycle Singapore."
-
+![](/images/Media%20Centre/Media%20Release/2013/June/PRESIDENTTONYTANBECOMESPATRONOFSPORTCARESMainPar0055Imagegif.gif)
 9. Mr Adam Rahman, Managing Director, Head of Corporate Affairs, Citi Singapore, said: "Our approach to community development has always been more than philanthropy. We are heartened that our volunteers are able to contribute to the Saturday Night Lights programme as part of SportCares to help the youths develop good values and character through football. Since 2002, youth development has been one of our key priority areas in our corporate citizenship efforts. We believe that investing in the lives of youths offers one of the greatest intangible returns, and more importantly, it builds a future pipeline of leaders to benefit the communities that we serve."
 
 10. Mr Lee Kok Choy, Managing Director and Singapore Country Manager of Micron Semiconductor Asia Pte Ltd, said: "Micron is delighted and excited to be a supporter of sports in Singapore as a means of developing and enriching our youths. We firmly believe that sound education and a strong community are vital to the success of both society and innovative companies, and through our partnership with SportCares we are able to make a positive impact through sports."
 
 **Team SportCares at the 25th Canon Lion City Cup**
-![](/images/Media%20Centre/Media%20Release/2013/June/PRESIDENTTONYTANBECOMESPATRONOFSPORTCARESMainPar0055Imagegif.gif)	
+![](/images/Media%20Centre/Media%20Release/2013/June/PRESIDENTTONYTANBECOMESPATRONOFSPORTCARESMainPar0054Imagegif.gif)
 
 11. Players of the SNL programme were invited to play exhibition matches during the halftime breaks of the 25th Canon Lion City Cup from 8 to 16 June. Making their debut at the opening of the tournament today, the boys demonstrated their sporting talents and skills learnt from nine weeks of SNL fitness training, football coaching and leadership mentoring. Beyond displaying their football skills, the players also put their improved self-belief, teamwork and sportsmanship to the test during the game.
 
 12. For more information on how to contribute to SportCares as a partner or volunteer, please send an email to sportcares@ssc.gov.sg. If you wish more details on our activities, please visit www.facebook.com/sportcaresSG. If you wish to make a financial donation, please go to www.sggives.org/sportcares.
 
 -END-
-For media enquiries, please contact:
 
-Siti Nurhidayati 
-Senior Executive, Media Relations 
-Singapore Sports Council
-Tel: 6500 5246
-Email: siti_nurhidayati@ssc.gov.sg
+For media enquiries, please contact:
+<br>Siti Nurhidayati 
+<br>Senior Executive, Media Relations 
+<br>Singapore Sports Council
+<br>Tel: 6500 5246
+<br>Email: siti_nurhidayati@ssc.gov.sg
 
 **About the Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg),[www.Vision2030.sg]( www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
 <br>
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 <br>
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
