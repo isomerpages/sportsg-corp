@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Farewell to a beacon of Singapore sports**
+
 ![](/images/Media%20Centre/Media%20Release/2018/June/bksen.jpeg)
 
 It is with a heavy heart as we bade farewell to Dr B.K. Sen who passed away on 25 April 2018.
