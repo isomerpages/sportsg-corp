@@ -50,3 +50,11 @@ The BCO shall assess the most suitable vein for sample collection and clean the 
 **STEP 6: SELECTION OF A URINE SAMPLE COLLECTION KIT**
 You are given a choice of at least 3 individually sealed sample collection kits from which to choose one. You should verify that the equipment is intact and has not been tampered with. You will open the kit and confirm that the sample code numbers on the bottles, the lids, and the container all match. Also verify that the bottles are intact and has not been tampered with.
 ![step6](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step6.jpeg)
+
+**STEP 7: SPLITTING AND SEALING THE URINE / BLOOD SAMPLE**
+You will split and pour the urine yourself, unless assistance is required and you provide consent for your representative or the DCO to do so on your behalf.
+
+Pour at least 30ml of urine into the B bottle and pour the remaining urine into the A bottle.
+
+You will be asked to leave a small amount in the collection vessel so that the DCO can measure the specific gravity. You will then seal the 'A' and 'B' bottles tightly ensuring there is no leakage.
+![step7](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step7.jpeg)
