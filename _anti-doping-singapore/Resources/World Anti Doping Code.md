@@ -27,3 +27,6 @@ The International Standard for Laboratories ensures the production of valid test
 ![International Standard for Protection of Privacy and Personal Information](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISPPPI_2021.jpeg)
 [International Standard for Protection of Privacy and Personal Information](https://www.wada-ama.org/en/resources/data-protection/international-standard-for-the-protection-of-privacy-and-personal)
 The International Standard for the Protection of Privacy and Personal Information ensures that all relevant parties involved in anti-doping in sport adhere to a set of minimum privacy protections when collecting and using athlete personal information.
+
+![International Standard for Code Compliance by Signatories](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISCCS_2021.jpeg)
+[International Standard for Code Compliance by Signatories](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-code-compliance-signatories-isccs) - The International Standard for Code Compliance by Signatories is to set out the relevant framework and procedures for ensuring Code Compliance by Signatories.
