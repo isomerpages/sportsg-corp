@@ -102,5 +102,4 @@ FAQs on this update can be found [here](/files/Support/Coaches'%20Corner/Contin
 
 Those in **\*** are newly added activities while the rest are already printed in the NROC log book.
 
-**We may request for coaches to furnish information related to the course content and articulate its application to their coaching practice for us to evaluate its suitability as a CCE activity. B**efore taking the course, we would strongly encourage coaches to** submit the course information to us, so that we would be able to advise whether the course can be considered as a CCE activity. **Please note that Standard First Aid (SFA), CPR and AED courses (including refresher courses) will NOT be awarded CCE hours as these are considered standard requirement for coaches.****
-
+**We may request for coaches to furnish information related to the course content and articulate its application to their coaching practice for us to evaluate its suitability as a CCE activity. B**efore taking the course, we would strongly encourage coaches to** submit the course information to us, so that we would be able to advise whether the course can be considered as a CCE activity. **Please note that Standard First Aid (SFA), CPR and AED courses (including refresher courses) will NOT be awarded CCE hours as these are considered standard requirement for coaches.**
