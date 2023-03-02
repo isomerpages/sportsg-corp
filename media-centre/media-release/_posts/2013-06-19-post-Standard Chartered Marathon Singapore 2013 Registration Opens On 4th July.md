@@ -41,10 +41,9 @@ Time: 11am - 4pm
 Venue: The Event Square, Waterfront Promenade @ Marina Bay (next to Bayfront Link). Click here for map.
 ![](/images/Media%20Centre/Media%20Release/2013/June/STANDARDCHARTEREDMARATHONSINGAPORE2013REGISTRATIONOPENSON4JULYMainPar0053Imagegif.gif)
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
-Bridgitte Lee
-Senior Executive, Media Relations
+Bridgitte Lee, Senior Executive, Media Relations
 Singapore Sports Council
 Tel: 6500 5249
 Email: [bridgitte_lee@ssc.gov.sg](bridgitte_lee@ssc.gov.sg)
