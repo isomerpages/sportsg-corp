@@ -60,13 +60,13 @@ Adrienne Ser
 <br>GolinHarris
 <br>Tel: +65 6551 5433
 <br>HP: +65 8571 6855
-<br>: aser@golinharris.com
+<br>: [aser@golinharris.com](aser@golinharris.com)
 
 Siti Nurhidayati
 <br>Senior Executive, Media Relations
 <br>Corporate Communications & Relations
 <br>Tel: +65 6500 5246
-<br>Email: siti_nurhidayati@ssc.gov.sg
+<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
 <br>On 1st Special Olympics Asia Pacific Games:
 
 Nurul Rasheed
