@@ -106,5 +106,5 @@ Those in **\*** are newly added activities while the rest are already printed 
 
 Reflection examples can be found here:
 1. [Reflection_Example_1](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Reflection_Example_1.pdf)
-2. 1. [Reflection_Example_2](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Reflection_Example_2.pdf)
-3. 1. [Reflection_Example_3](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Reflection_Example_3.pdf)
+2. [Reflection_Example_2](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Reflection_Example_2.pdf)
+3. [Reflection_Example_3](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Reflection_Example_3.pdf)
