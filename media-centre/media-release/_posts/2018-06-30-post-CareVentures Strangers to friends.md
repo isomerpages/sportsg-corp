@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**MEDIA RELEASE**
-
-**CareVentures – Strangers to Friends**
+### **CareVentures – Strangers to Friends**
 
 _Pilot programme designed to enable youth of all abilities to build friendship through better understanding of each other’s strengths and differences_
 
