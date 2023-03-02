@@ -93,3 +93,14 @@ From 1 May 2018, Self-Guided CCE hours will be included as part of the Continuin
 Recognition of Self-Guided CCE hours encourages coaches to be self-directed learners, especially since coaches may have learning needs specific to their sport and context. In addition, Self-Guided CCE hours gives coaches additional flexibility in fulfilling CCE hours requirement. Critical self-reflection is vital to the continued success of coaches as coaches often learn without the direct guidance of others during coaching activities. Self-Guided CCE hours will allow coaches to reflect upon and record these learning from their day-to-day coaching practices. 
 
 FAQs on this update can be found [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/FAQs.pdf).
+
+**Table 1 - New CCE Hours Requirement**
+![Table 1](/images/Support/Coache's%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/table1.png)
+
+**Table 2 - Examples of Coaching Practice and Coaching Education**
+![Table 2](/images/Support/Coache's%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/table2.png)
+
+Those in **\*** are newly added activities while the rest are already printed in the NROC log book.
+
+**We may request for coaches to furnish information related to the course content and articulate its application to their coaching practice for us to evaluate its suitability as a CCE activity. B**efore taking the course, we would strongly encourage coaches to** submit the course information to us, so that we would be able to advise whether the course can be considered as a CCE activity. **Please note that Standard First Aid (SFA), CPR and AED courses (including refresher courses) will NOT be awarded CCE hours as these are considered standard requirement for coaches.****
+
