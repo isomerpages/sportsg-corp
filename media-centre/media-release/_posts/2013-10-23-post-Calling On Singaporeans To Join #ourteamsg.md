@@ -9,7 +9,7 @@ image: ""
 ## **Calling On Singaporeans To Join #ourteamsg**
 
 Win a trip to support Team Singapore athletes live in Myanmar
-	
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/CALLINGONSINGAPOREANSTOJOINourteamsgMainPar0042Imagegif.gif)
 Singapore, 24 October 2013 - A 'Join #ourteamsg' movement to call on Singaporeans to come together as one Team Singapore in support of our national athletes kicked off today, as part of a nationwide campaign titled 'Together We Are Stronger'. For the very first time, Singaporeans will also be able to put a face to their well wishes to the athletes through the submission of photo pledges via Instagram at #ourteamsg.
 
 2. Helmed by the Singapore Sports Council and supported by the Singapore National Olympic Council, Singapore National Paralympic Council and their partners, the idea of the campaign is to forge greater affinity between our national athletes and Singaporeans by drawing on truly Singaporean traits. Stories of people from all walks of life - from hawkers to teachers and neighbours - who have supported and encouraged our athletes in their own unique ways will be showcased. Singaporeans will also get a chance to see a more personal side to the athletes and connect with them on an even deeper level. Ultimately, the campaign hopes to garner support for the contingent heading to the 27th Southeast Asian (SEA) Games and 7th ASEAN Para Games in Myanmar.
