@@ -7,7 +7,6 @@ description: ""
 image: ""
 ---
 ### **SINGSOC And SISO Join Hands For A Safe 28th SEA Games**
-08 Jul 2013
 
 ![](/images/Media%20Centre/Media%20Release/2013/July/SINGSOCANDSISOJOINHANDSFORASAFE28thSEAGAMESMainPar0042Imagegif.gif)
 	
