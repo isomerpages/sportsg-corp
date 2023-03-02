@@ -88,3 +88,4 @@ There is no obligation to make a declaration, but it may be helpful in explainin
 Your representative, if present, and you will be invited to check that the information recorded on the Doping Control Form is correct, and to sign it if satisfied.
 
 The DCO will provide a copy of the Doping Control Test Form to you for your records.
+![step9](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step9.jpeg)
