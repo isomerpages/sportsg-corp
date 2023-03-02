@@ -49,7 +49,7 @@ image: ""
 
 -END-
 
-Click here for Annexes - 
+Click[ here](/files/Media%20Centre/Media%20Release/2013/Dec/HISTORIC%20PERFORMANCES%20BUOY%20TEAM%20SINGAPORE%20AT%20THE%2027TH%20SEA%20GAMESAnnexespdf.pdf) for Annexes - 
 * 27th SEA Games Medal Tally
 * 27th SEA Games Team Singapore's Medal Tally
 * Team Singapore Highlights from 27th SEA Games
