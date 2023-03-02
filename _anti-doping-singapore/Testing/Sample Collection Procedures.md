@@ -61,3 +61,11 @@ You will be asked to leave a small amount in the collection vessel so that the D
 
 **SEALING AND STORING THE BLOOD SAMPLE**
 After withdrawing the needle, the BCO or athlete will place one vacctainer into each of the 'A' and 'B' sample bottles. These should be checked for any leakage. The sealed blood sample shall be kept in the Doping Station, at a cool but not freezing temperature, prior to dispatching for analysis.
+
+##### **STEP 8: MEASURING SPECIFIC GRAVITY**
+The DCO will check the specific gravity of the residual urine left in the collection vessel to ensure it is suitable for analysis, and will record the value on the Doping Control Test Form.  
+
+If the sample falls outside the required range for specific gravity, the DCO will request additional samples to be provided until one within the required range for Specific Gravity is provided, or until the DCO determines that, due to exceptional circumstances, the session should end.
+
+You should avoid drinking too much fluid, as it may dilute your urine sample.
+![step8](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step8.jpeg)
