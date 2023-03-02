@@ -40,13 +40,13 @@ Munirah Razak
 <br>Fulford PR
 <br>DID: 6324 2284 
 <br>Mob: 9137 4157 
-<br>Email: mrazak@fulfordpr.com
+<br>Email: [mrazak@fulfordpr.com](mrazak@fulfordpr.com)
 
 Abraham Christopher
 <br>Fulford PR
 <br>DID: 6327 6177
 <br>Mob: 9127 3751
-<br>Email: achristopher@fulfordpr.com
+<br>Email: [achristopher@fulfordpr.com](achristopher@fulfordpr.com)
 
 
 **About Singapore Sports Council**
