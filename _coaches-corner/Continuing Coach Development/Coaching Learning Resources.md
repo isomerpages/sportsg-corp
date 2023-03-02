@@ -32,3 +32,7 @@ Bringing our coaching online may seem foreign to most but it has many similar pr
 **C. Designing a Word Up Challenge**
 
 CoachSG shares the ways to record your videos and how to convert them into gifs so that you will be able to create your own Word Up Challenge.
+
+[Designing a Word Up Challenge](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Designing_a_Word_Up_Challenge.pdf)
+
+(A video on how to design Word Up Challenges can be viewed [here](https://www.facebook.com/CoachSG1/videos/882258065626126/))
