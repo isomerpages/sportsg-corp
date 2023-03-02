@@ -4,5 +4,6 @@ collections:
     order:
       - Testing/Test.md
       - Testing/.keep
+      - About/Governance.md
       - About/About ADS.md
       - About/.keep
