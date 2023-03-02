@@ -102,13 +102,11 @@ An athlete that is charged with an anti-doping rule violation has the right to a
 
 Where the [ADS Anti-Doping Rules](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/Resources/Policies-and-Forms) apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY).  The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
 
-**  
-APPEAL**
+**APPEAL**
 
 Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
 
-**  
-SANCTIONS**
+**SANCTIONS**
 
 Sanctions for violating anti-doping rule violations may range from a reprimand to a lifetime ban. The period of ineligibility may vary depending on the type of anti-doping rule violation, the circumstances of each case, the substance, and the possible repetition of an anti-doping rule violation.
 
