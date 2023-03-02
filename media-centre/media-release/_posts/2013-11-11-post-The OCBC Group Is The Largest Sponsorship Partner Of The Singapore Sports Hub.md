@@ -77,8 +77,8 @@ OCBC Bank's insurance subsidiary, Great Eastern Holdings, is the largest insuran
 
 For more information, please visit www.ocbc.com.
 
-About Singapore Sports Hub
-
+**About Singapore Sports Hub**
+<br>
 The Singapore Sports Hub will be Singapore's premier sports, entertainment and lifestyle hub with integrated community programming.
 
 Consisting of a unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation, and will take sports to the next level in Singapore.
@@ -96,7 +96,7 @@ Daily community facilities and activities open for Singaporeans, including beach
 The Singapore Sports Hub, which is managed by SportsHub Pte Ltd, is one of the largest sporting Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and has won the PFI award in London in 2011 and the World Architecture Festival Award for Best Future Project in the leisure-led development category in 2013.
 
 The Singapore Sports Hub will open its doors in April 2014.
-
+<br>
 For more information, please visit the Singapore Sports Hub website: www.sportshub.com.sg
 
 The Public-Private Partnership includes:
