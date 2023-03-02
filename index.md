@@ -38,11 +38,11 @@ sections:
       alt: Image alt text
       url: /what-we-do/academy-and-clubs/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Become A Certified Coach
+      subtitle: Coache's Corner
+      button: Apply Now
       alt: Image alt text
+      url: /support-resources/coaches-corner/introduction/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
