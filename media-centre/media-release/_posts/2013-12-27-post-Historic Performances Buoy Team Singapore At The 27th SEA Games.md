@@ -50,14 +50,14 @@ image: ""
 -END-
 
 Click here for Annexes - 
-27th SEA Games Medal Tally
-27th SEA Games Team Singapore's Medal Tally
-Team Singapore Highlights from 27th SEA Games
-Records
-Personal Bests
-List of Medal Winners
-For media enquiries, please contact:
-
+* 27th SEA Games Medal Tally
+* 27th SEA Games Team Singapore's Medal Tally
+* Team Singapore Highlights from 27th SEA Games
+* Records
+* Personal Bests
+* List of Medal Winners
+**For media enquiries, please contact:**
+<br>
 Adrienne Ser
 <br>GolinHarris
 <br>Singapore Sports Council
