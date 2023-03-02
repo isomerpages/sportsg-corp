@@ -7,19 +7,16 @@ description: ""
 image: ""
 ---
 ## **Seletar Club Golf Fund-Raiser Raises $288,000 For SportCares Foundation**
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/SELETARCLUBGOLFFUNDRAISERRAISES288000FORSPORTCARESFOUNDATIONMainPar0042Imagegif.gif)
 
-
-	![](/images/Media%20Centre/Media%20Release/2013/October%202013/SELETARCLUBGOLFFUNDRAISERRAISES288000FORSPORTCARESFOUNDATIONMainPar0042Imagegif.gif)
-
-Singapore, 26 October 2013 - More than 130 golfers took to the greens at the Seletar-SportCares Foundation Fund-Raising 2013 and raised $288,000 for SportCares Foundation - the largest amount raised at a single event since the foundation was launched a year ago as the first recommendation of Vision 2030.
+**Singapore, 26 October 2013** - More than 130 golfers took to the greens at the Seletar-SportCares Foundation Fund-Raising 2013 and raised $288,000 for SportCares Foundation - the largest amount raised at a single event since the foundation was launched a year ago as the first recommendation of Vision 2030.
 
 2. SportCares, an initiative that uses sport as a force for social good, has benefitted the lives of more than 630 underprivileged children and youth through customised programmes and workshops run by professionals.
 
 3. Dr Tony Tan Keng Yam, President of Singapore and the Patron for the SportCares Movement, was the Guest-of-Honour at the event and presented the awards to beneficiaries and volunteers from the Saturday Night Lights football programme as part of the inaugural SportCares Rising Stars Awards.
 
-Launch of Water Lions Kayaking Orientation Programme
-
-	
+**Launch of Water Lions Kayaking Orientation Programme**
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/SELETARCLUBGOLFFUNDRAISERRAISES288000FORSPORTCARESFOUNDATIONMainPar0047Imagegif.gif)
 4. The President also witnessed the launch of the latest initiative - Water Lions Kayaking Orientation Programme (Water Lions), supported by SportCares in collaboration with Seletar Country Club and the Institute of Technical Education (ITE) College Central.
 
 5. Starting from January 2014, Seletar Country Club (SCC) will be hosting this new initiative where an estimated 30 students from ITE College Central will receive weekly kayaking lessons.
@@ -30,9 +27,8 @@ Launch of Water Lions Kayaking Orientation Programme
 
 8. Said Singapore Sports Council (SSC) Deputy Chairman, Cheah Kim Teck, "I would like to thank the members of Seletar Country Club for their generous contribution to the SportCares Foundation through the golf event today. I'm also delighted that Seletar Country Club will be partnering with ITE College Central in this new initiative funded by SportCares. It is a fantastic example of how sport can be used to teach values and life-skills beyond the classroom, as well as show that one can indeed live better through sports."
 
-Saturday Night Lights
-
-	
+**Saturday Night Lights**
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/SELETARCLUBGOLFFUNDRAISERRAISES288000FORSPORTCARESFOUNDATIONMainPar0051Imagegif.gif)
 9. Earlier this year, SportCares launched Saturday Night Lights (SNL), a football programme that provides free coaching and workshops for youth aged 12 to 20 years old. The programme has drawn support from the grassroots and the corporate world.
 
 10. To date, Saturday Night Lights have benefitted almost 300 youths. The Saturday Night Lights "Rising Stars" Awards were given out tonight to recognise the players who have grown through our training programme as well as the volunteers who have helped them do it.
