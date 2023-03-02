@@ -8,7 +8,7 @@ image: ""
 ---
 ## **Calling On Singaporeans To Join #ourteamsg**
 
-Win a trip to support Team Singapore athletes live in Myanmar
+***Win a trip to support Team Singapore athletes live in Myanmar***
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/CALLINGONSINGAPOREANSTOJOINourteamsgMainPar0042Imagegif.gif)
 Singapore, 24 October 2013 - A 'Join #ourteamsg' movement to call on Singaporeans to come together as one Team Singapore in support of our national athletes kicked off today, as part of a nationwide campaign titled 'Together We Are Stronger'. For the very first time, Singaporeans will also be able to put a face to their well wishes to the athletes through the submission of photo pledges via Instagram at #ourteamsg.
 
