@@ -99,7 +99,7 @@ Today, SEIKO is a true 'manufacture,' making all its own components, from advanc
 Visit [www.thongsia.com.sg](www.thongsia.com.sg) to find out more.
 
 **About Tiger Balm Active**
-
+<br>
 Introducing Tiger Balm ACTIVE, the range of muscle rubs, gels and sprays, specially formulated by Tiger Balm, the name you can trust. Designed for the active individual with an active lifestyle, Tiger Balm ACTIVE is what you need for warm-ups, cool-downs, as well as relief of your muscular aches, pains and strains. So go on. Step up and get Active!
 
 Tiger Balm ACTIVE Muscle Rub
@@ -119,7 +119,7 @@ Relieving sore and aching muscles in hard to reach areas
 For more details, please visit [http://www.tigerbalm.com/sg/range/20](http://www.tigerbalm.com/sg/range/20)
 
 **About Starhub**
-
+<br>
 StarHub is Singapore's fully-integrated info-communications company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates a mobile network that provides 4G, 3G and 2G services. It also manages an island-wide HFC network that delivers multi-channel pay TV services (including HDTV, Internet TV and on-demand services) as well as ultra-high speed residential broadband services. StarHub operates an extensive fixed business network that provides a wide range of data, voice and wholesale services. Over Singapore's fibre-based Next Generation Nationwide Broadband Network, StarHub offers a broad range of home and business broadband plans along with a host of advanced media-rich value-added services, such as IPTV for commercial entities.
 
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MSCI Singapore Free Index.
@@ -127,7 +127,7 @@ Launched in 2000, StarHub has become one of Singapore's most innovative info-com
 For more details, please visit [http://www.starhub.com](http://www.starhub.com)
 
 **About Volvo**
-
+<br>
 As the Official Car Sponsor of Standard Chartered Marathon 2013, Volvo is proud to provide a fleet of cars that reflect the common athletic traits of agility, performance and excellence. The presence of these Volvo cars at the event will echo both the dynamism and energy of Standard Chartered Marathon 2013. For more information, please visit www.volvocars.com/sg or the Volvo showroom at 249 Alexandra Road today.
 
 **About Nathan Performance Gear**
@@ -155,7 +155,7 @@ It is important to know the difference.
 For more details, please visit [http://shotz.sg](http://shotz.sg)
 
 **About Give.Asia**
-
+<br>
 GIVE is Singapore's leading online charity fundraising platform that allows people to donate or fundraise for the charity of their choice in a simple, fun and easy way. Tens of thousands of people use GIVE regularly to do good to support hundreds of charities that are listed on the platform.
 
 To learn more, visit [www.giveasia.org](www.giveasia.org)
@@ -164,13 +164,13 @@ About the Singapore Sports Council
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-
+<br>
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-
+<br>
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About Standard Chartered Bank in Singapore**
-
+<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
