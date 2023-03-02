@@ -232,8 +232,8 @@ Levels 3 and 4: 2 years
 
 All the contracts will be reviewed for renewal at the end of each game-cycle e.g., Olympic Games or SEA Games.
 
-Obligations of the Scholar Athletes
-
+**Obligations of the Scholar Athletes**
+<br>
 Under the spexScholarship, the scholar athletes are expected to:
 Commit fully to the training programme
 Take personal responsibility to balance between academic / career, personal and sports development
@@ -242,103 +242,99 @@ Participate actively in the life-skill development programme
 Be a role model for the youths of Singapore
 
 Annex D
-
+<br>
 Overview of High Performance Sports System
-
-
+![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0061Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0062Imagegif.gif)
 
 
 Annex E
-
+<br>
 **High Performance Sports (HPS) Steering Committee**
-<br>
-Chairman
-Lawrence Wong
-Ag Minister for Culture, Community and Youth
-<br>
-Members
-Teo Ser Luck
-Minister of State
-Ministry of Trade and Industry
-<br>
-Dr Ben Tan
-President, Singapore Sailing Federation
-<br>
-Deborah Tan
-Principal, Singapore Sports School
-<br>
-Edmond Pereira
-Executive Director
-Edmond Pereira Law Corporation
-<br>
-Hugh Lim
-Deputy Secretary
-Ministry of Culture, Community and Youth
-<br>
-Dr Lam Pin Min
-President, Singapore Dragon Boat Association
-<br>
-Ng Ser Miang
-Vice President
-Singapore National Olympic Council
-<br>
-Richard Seow
-Chairman
-Singapore Sports Council
-<br>
-Tan Ju Seng
-President
-Singapore National Paralympic Council
-<br>
-Tan Soo Nan
-Chief Executive Officer
-Tote Board
+<br>**Chairman**
+<br>**Lawrence Wong**
+<br>Ag Minister for Culture, Community and Youth
 
+**Members**
+<br>**Teo Ser Luck**
+<br>Minister of State
+<br>Ministry of Trade and Industry
+
+
+Dr Ben Tan
+<br>President, Singapore Sailing Federation
+
+Deborah Tan
+<br>Principal, Singapore Sports School
+
+Edmond Pereira
+<br>Executive Director
+<br>Edmond Pereira Law Corporation
+
+Hugh Lim
+<br>Deputy Secretary
+<br>Ministry of Culture, Community and Youth
+
+Dr Lam Pin Min
+<br>President, Singapore Dragon Boat Association
+
+Ng Ser Miang
+<br>Vice President
+<br>Singapore National Olympic Council
+
+Richard Seow
+<br>Singapore Sports Council
+
+Tan Ju Seng
+<br>President
+<br>Singapore National Paralympic Council
+
+Tan Soo Nan
+<br>Chief Executive Officer
+<br>Tote Board
 
 **High Performance Sports (HPS) Selection and Performance Sub-Committee**
-<br>
 Chairman
-Teo Ser Luck
-Minister of State for Trade and Industry
-<br>
-Members
-Abdullah Tarmugi
-Former Minister and Speaker of Parliament
-Top School Sportsman
-<br>
-Annabel Pennefather
-Vice President, Singapore National Olympic Council (SNOC)
-<br>
-Deborah Tan
-Principal, Singapore Sports School
-<br>
-Dr Patrick Goh
-Chairman, Anti-Doping Singapore Advisory Board
-Chairman, SEA RADO
-<br>
-A/Prof Teo Koh Sock Miang
-President, Special Olympics
-<br>
-Gary Pryke
-MD, Corporate & Finance, Drew & Napier
-Master Athlete, Runner and Ultra Distance Swimmer
-<br>
-Ho Ren Hua
-Executive Director and Country Head, China, Banyan Tree Holdings Ltd
-Top School Track & Field athlete
-Triathlete
-<br>
-C Kunalan
-Olympian
-Singapore Sporting Icon
-<br>
-Lim Teck Yin
-CEO, Singapore Sports Council
-<br>
-Tan Yen Yen
-Senior Vice-President, Oracle Application
-Triathlete and Advocate for Corporate Sports
+<br>Teo Ser Luck
+<br>Minister of State for Trade and Industry
 
+**Members**
+Abdullah Tarmugi
+<br>Former Minister and Speaker of Parliament
+<br>Top School Sportsman
+
+Annabel Pennefather
+<br>Vice President, Singapore National Olympic Council (SNOC)
+
+Deborah Tan
+<br>Principal, Singapore Sports School
+
+Dr Patrick Goh
+<br>Chairman, Anti-Doping Singapore Advisory Board
+<br>Chairman, SEA RADO
+
+A/Prof Teo Koh Sock Miang
+<br>President, Special Olympics
+
+Gary Pryke
+<br>MD, Corporate & Finance, Drew & Napier
+<br>Master Athlete, Runner and Ultra Distance Swimmer
+
+Ho Ren Hua
+<br>Executive Director and Country Head, China, Banyan Tree Holdings Ltd
+<br>Top School Track & Field athlete
+<br>Triathlete
+
+C Kunalan
+<br>Olympian
+<br>Singapore Sporting Icon
+
+Lim Teck Yin
+<br>CEO, Singapore Sports Council
+
+Tan Yen Yen
+<br>Senior Vice-President, Oracle Application
+<br>Triathlete and Advocate for Corporate Sports
 
 **For media enquiries, please contact:**
 <br>Eric Ong
@@ -351,8 +347,8 @@ Triathlete and Advocate for Corporate Sports
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
 <br>
-Follow us on Facebook at: www.facebook.com/SingaporeSports
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
 <br>
-For a range of photographs, visit flickr.com/ssc-sportsphotography
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
