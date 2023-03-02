@@ -44,11 +44,11 @@ sections:
       alt: Image alt text
       url: /support-resources/coaches-corner/introduction/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Teach About Sport With Game For Life
+      subtitle: Sport Leadership
+      button: Learn More
       alt: Image alt text
+      url: /sports-education/sports-leadership/workshop-and-training/
   - resources:
       title: Media Center
       button: Resources Button Name
