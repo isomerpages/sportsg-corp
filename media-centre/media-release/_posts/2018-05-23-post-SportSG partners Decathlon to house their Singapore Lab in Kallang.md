@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **SportSG partners Decathlon to house their Singapore Lab in Kallang**
+
 *   _SportSG and Decathlon to collaborate to give Singaporeans the positive experience of being active and healthy_
 *   _Decathlon to support ActiveSG Academies and Clubs, as well as ActiveSG Sport Centres_
 
