@@ -83,7 +83,7 @@ For more details, please visit [http://www.100plus.com.sg](http://www.100plus.co
 Brooks® Sports, Inc. is your go-to company for anything and everything related to the run. As a leading running company that designs and markets high-performance men's and women's running shoes, apparel and accessories in more than 40 countries worldwide, we are dedicated to inspiring people to run and be active by creating innovative gear that keeps them running longer, farther, faster and happier. For more information, please visit [http://www.brooksrunning.com](http://www.brooksrunning.com)
 
 **About Prudential**
-
+<br>
 Prudential Singapore, an indirect wholly-owned subsidiary of UK-based Prudential plc, is one of the top life insurance companies in Singapore. We are one of the market leaders in investment-linked plans with over S$8.2 billion funds managed under PruLink funds as at 31 December 2012. With a rich history that has spanned more than 80 years, Prudential Singapore now has a dedicated team of approximately 3,400 financial consultants and over 700 employees. We are committed to serving the needs of more than 740,000 policyholders with over 1.8 million policies.
 
 Prudential Singapore is the first life insurer in Singapore to be named Asia's Life Insurance Company of the Year in 2000. We were also presented with the Gold Award in Reader's Digest Trusted Brands for five consecutive years from 2007 to 2011 and the May Day Model Partnership Award in 2009. In 2010, we emerged as one of the top insurers in Singapore in the Customer Satisfaction Index, which is a national barometer that tracks 104 companies from eight sectors. The company was also conferred the People Developer Award in 2012 by SPRING Singapore for the company's efforts in training and developing its staff.
@@ -91,7 +91,7 @@ Prudential Singapore is the first life insurer in Singapore to be named Asia's L
 For more details, please visit[ http://www.prudential.com.sg]( http://www.prudential.com.sg)
 
 **About Seiko**
-
+<br>
 Since being established in 1881, SEIKO has contributed to society with one revolutionary product after another - starting with the production of Japan's first wristwatch in 1913 and including the creation of the world's first quartz watch in 1969. SEIKO has also been the official timekeeper at many international sporting events since the Tokyo Olympic Games in 1964. SEIKO has been privileged to share moments of tremendous excitement with athletes and spectators worldwide. From the very start, Kintaro Hattori was determined to be at the forefront of the industry and his oft-repeated credo was "Always one step ahead of the rest." Thanks to a continuous stream of industry-leading innovations over the decades, the company established, and has maintained its position as a world leader in the technology of time.
 
 Today, SEIKO is a true 'manufacture,' making all its own components, from advanced IC's to balance springs, and it is the only 'manufacture' with a variety of watchmaking technologies, mechanical, quartz, Kinetic, Spring Drive and GPS Solar. Through watches, SEIKO seeks to share the passion and pride in production, to deliver exceptional products that represent innovation and perfection to watch lovers all over the world.
@@ -131,7 +131,7 @@ For more details, please visit [http://www.starhub.com](http://www.starhub.com)
 As the Official Car Sponsor of Standard Chartered Marathon 2013, Volvo is proud to provide a fleet of cars that reflect the common athletic traits of agility, performance and excellence. The presence of these Volvo cars at the event will echo both the dynamism and energy of Standard Chartered Marathon 2013. For more information, please visit www.volvocars.com/sg or the Volvo showroom at 249 Alexandra Road today.
 
 **About Nathan Performance Gear**
-
+<br>
 Inspiration.
 
 It's what drives our athletes to be better, stronger, faster. It's why they refuse to accept limitations, and why they train harder, aim higher, and "redefine humanly possible" by overcoming impossibilities. Our athletes serve as our inspiration for relentless innovation. Like our athletes, we are in a tireless pursuit of excellence - they drive us to design and refine, and inspire new features, products, and categories.
@@ -141,7 +141,7 @@ It's this tireless pursuit that has made Nathan Performance Gear a world leader 
 For more details, please visit [http://www.nathansports.com/index.php](http://www.nathansports.com/index.php)
 
 **About Shotz Sports Nutrition**
-
+<br>
 Interestingly Shotz was developed originally for endurance events but now is being used in all types of sports and activities. From sports lasting as little as three minutes through to multi-day events, from ball sports to water sports and everything in between. Shotz is the brand of sports nutrition products respected by world-class athletes and active lifestyle enthusiasts at all levels and from all walks of life. To the consumer, the Shotz brand represents not only a lifestyle but superior product quality, the state-of-the-art in performance nutrition science, and an unparalleled level of customer care.
 
 WHAT WE ARE.
@@ -149,9 +149,9 @@ We are a sports nutrition company developing and manufacturing state of the art 
 
 WHAT WE ARE NOT.
 We are not a marketing company with mediocre products.
-
+<br>
 It is important to know the difference.
-
+<br>
 For more details, please visit [http://shotz.sg](http://shotz.sg)
 
 **About Give.Asia**
