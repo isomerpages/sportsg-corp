@@ -16,4 +16,4 @@ Governing policy that stipulates the anti-doping roles and responsibilities of k
 
 **WHEREABOUTS INFORMATION**
 
-To file your Whereabouts Information or for more information about ADAMS, click on the following:
+To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
