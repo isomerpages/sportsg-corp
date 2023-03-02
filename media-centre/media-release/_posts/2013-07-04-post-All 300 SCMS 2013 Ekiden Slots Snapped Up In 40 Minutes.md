@@ -61,11 +61,14 @@ Email: [achristopher@fulfordpr.com](achristopher@fulfordpr.com)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0095Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0096Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0097Imagegif.gif)
-Annex A: Race Categories and Prices
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0098Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0099Imagegif.gif)
 
+Annex A: Race Categories and Prices
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0064Imagegif.gif)
 Annex B: List of Sponsors and Partners
 
-About 100 Plus
+**About 100 Plus**
 
 Singapore's No. 1 isotonic drink, 100PLUS, was launched in 1984 to satisfy the growing demand for a sports-based beverage. This specially formulated 'thirst and body-quencher' helps to replenish lost fluids and combat the effects of dehydration, heats, and exertion - supporting you while achieving peak performance in your active lifestyle.
 
@@ -73,29 +76,29 @@ Singapore's No. 1 isotonic drink, 100PLUS, was launched in 1984 to satisfy the g
 
 100PLUS is available in regular, tangy tangerine and lemon lime flavours that may come in 330ml cans, 500ml PET bottles, and 1.5L PET bottles at all leading stores. 100PLUS carries the "Healthier Choice Symbol" for meeting the category criteria of having less than 7g of sugar per 100ml.
 
-For more details, please visit http://www.100plus.com.sg
+For more details, please visit [http://www.100plus.com.sg](http://www.100plus.com.sg)
 
-About Brooks
+**About Brooks**
 
-Brooks® Sports, Inc. is your go-to company for anything and everything related to the run. As a leading running company that designs and markets high-performance men's and women's running shoes, apparel and accessories in more than 40 countries worldwide, we are dedicated to inspiring people to run and be active by creating innovative gear that keeps them running longer, farther, faster and happier. For more information, please visit http://www.brooksrunning.com
+Brooks® Sports, Inc. is your go-to company for anything and everything related to the run. As a leading running company that designs and markets high-performance men's and women's running shoes, apparel and accessories in more than 40 countries worldwide, we are dedicated to inspiring people to run and be active by creating innovative gear that keeps them running longer, farther, faster and happier. For more information, please visit [http://www.brooksrunning.com](http://www.brooksrunning.com)
 
-About Prudential
+**About Prudential**
 
 Prudential Singapore, an indirect wholly-owned subsidiary of UK-based Prudential plc, is one of the top life insurance companies in Singapore. We are one of the market leaders in investment-linked plans with over S$8.2 billion funds managed under PruLink funds as at 31 December 2012. With a rich history that has spanned more than 80 years, Prudential Singapore now has a dedicated team of approximately 3,400 financial consultants and over 700 employees. We are committed to serving the needs of more than 740,000 policyholders with over 1.8 million policies.
 
 Prudential Singapore is the first life insurer in Singapore to be named Asia's Life Insurance Company of the Year in 2000. We were also presented with the Gold Award in Reader's Digest Trusted Brands for five consecutive years from 2007 to 2011 and the May Day Model Partnership Award in 2009. In 2010, we emerged as one of the top insurers in Singapore in the Customer Satisfaction Index, which is a national barometer that tracks 104 companies from eight sectors. The company was also conferred the People Developer Award in 2012 by SPRING Singapore for the company's efforts in training and developing its staff.
 
-For more details, please visit http://www.prudential.com.sg
+For more details, please visit[ http://www.prudential.com.sg]( http://www.prudential.com.sg)
 
-About Seiko
+**About Seiko**
 
 Since being established in 1881, SEIKO has contributed to society with one revolutionary product after another - starting with the production of Japan's first wristwatch in 1913 and including the creation of the world's first quartz watch in 1969. SEIKO has also been the official timekeeper at many international sporting events since the Tokyo Olympic Games in 1964. SEIKO has been privileged to share moments of tremendous excitement with athletes and spectators worldwide. From the very start, Kintaro Hattori was determined to be at the forefront of the industry and his oft-repeated credo was "Always one step ahead of the rest." Thanks to a continuous stream of industry-leading innovations over the decades, the company established, and has maintained its position as a world leader in the technology of time.
 
 Today, SEIKO is a true 'manufacture,' making all its own components, from advanced IC's to balance springs, and it is the only 'manufacture' with a variety of watchmaking technologies, mechanical, quartz, Kinetic, Spring Drive and GPS Solar. Through watches, SEIKO seeks to share the passion and pride in production, to deliver exceptional products that represent innovation and perfection to watch lovers all over the world.
 
-Visit www.thongsia.com.sg to find out more.
+Visit [www.thongsia.com.sg](www.thongsia.com.sg) to find out more.
 
-About Tiger Balm Active
+**About Tiger Balm Active**
 
 Introducing Tiger Balm ACTIVE, the range of muscle rubs, gels and sprays, specially formulated by Tiger Balm, the name you can trust. Designed for the active individual with an active lifestyle, Tiger Balm ACTIVE is what you need for warm-ups, cool-downs, as well as relief of your muscular aches, pains and strains. So go on. Step up and get Active!
 
@@ -113,17 +116,17 @@ Tiger Balm ACTIVE Muscle Spray
 For fast & easy application
 Relieving sore and aching muscles in hard to reach areas
 
-For more details, please visit http://www.tigerbalm.com/sg/range/20
+For more details, please visit [http://www.tigerbalm.com/sg/range/20](http://www.tigerbalm.com/sg/range/20)
 
-About Starhub
+**About Starhub**
 
 StarHub is Singapore's fully-integrated info-communications company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates a mobile network that provides 4G, 3G and 2G services. It also manages an island-wide HFC network that delivers multi-channel pay TV services (including HDTV, Internet TV and on-demand services) as well as ultra-high speed residential broadband services. StarHub operates an extensive fixed business network that provides a wide range of data, voice and wholesale services. Over Singapore's fibre-based Next Generation Nationwide Broadband Network, StarHub offers a broad range of home and business broadband plans along with a host of advanced media-rich value-added services, such as IPTV for commercial entities.
 
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MSCI Singapore Free Index.
 
-For more details, please visit http://www.starhub.com
+For more details, please visit[http://www.starhub.com](http://www.starhub.com)
 
-About Volvo
+**About Volvo**
 
 As the Official Car Sponsor of Standard Chartered Marathon 2013, Volvo is proud to provide a fleet of cars that reflect the common athletic traits of agility, performance and excellence. The presence of these Volvo cars at the event will echo both the dynamism and energy of Standard Chartered Marathon 2013. For more information, please visit www.volvocars.com/sg or the Volvo showroom at 249 Alexandra Road today.
 
