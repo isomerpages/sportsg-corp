@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academy and Clubs.md
+      - Anti Doping Singapore/About.md
       - Anti Doping Singapore/.keep
       - ActiveSG.md
       - Active Health.md
