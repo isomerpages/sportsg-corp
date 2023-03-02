@@ -47,37 +47,36 @@ creating opportunities for corporate sponsorship as well as enhancing and promot
 
 -END-
 
-For further information on the 28th SEA Games Singapore, please visit www.seagames2015.com
+For further information on the 28th SEA Games Singapore, please visit [www.seagames2015.com](www.seagames2015.com)
 
 Follow the 28th SEA Games Singapore 2015 on Facebook at www.facebook.com/SEAGAMES2015 and @seagames2015 on Twitter.
 
+![](/images/Media%20Centre/Media%20Release/2013/May/28thSEAGAMESTOOPENON5JUNE2015INSINGAPOREMainPar0047Imagegif.gif)
 
-
-
-
-For media enquiries, please contact:
-
-Siti Nurhidayati
-Senior Executive, Media Relations
-Corporate Communications & Relations
-Tel: +65 6500 5246
-Email: siti_nurhidayati@ssc.gov.sg
+![](/images/Media%20Centre/Media%20Release/2013/May/28thSEAGAMESTOOPENON5JUNE2015INSINGAPOREMainPar0048Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/May/28thSEAGAMESTOOPENON5JUNE2015INSINGAPOREMainPar0049Imagegif.gif)
+**For media enquiries, please contact:**
+<br>Siti Nurhidayati
+<br>Senior Executive, Media Relations
+<br>Corporate Communications & Relations
+<br>Tel: +65 6500 5246
+<br>Email: siti_nurhidayati@ssc.gov.sg
 
 S. Parameswaran 
-Assistant Director, Media Relations 
-Corporate Communications & Relations
-Tel: +65 6500 5236
-Email: parames_seenivasagam@ssc.gov.sg
+<br>Assistant Director, Media Relations 
+<br>Corporate Communications & Relations
+<br>Tel: +65 6500 5236
+<br>Email: parames_seenivasagam@ssc.gov.sg
 
-About Singapore Sports Council
-
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
-
-Follow us on Facebook at: www.facebook.com/SingaporeSports
-
-For a range of photographs, visit flickr.com/ssc-sportsphotography
+To find out more, visit our websites www.ssc.gov.sg[www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
+<br>
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
+<br>
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 About the Singapore National Olympic Council
 
