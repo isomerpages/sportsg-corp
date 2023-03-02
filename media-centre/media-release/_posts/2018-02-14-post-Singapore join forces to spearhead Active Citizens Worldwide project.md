@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+### **London, Auckland, Singapore join forces to spearhead Active Citizens Worldwide project**
 
 London, Auckland and Singapore have today been announced as Founding Cities in a ground-breaking new global initiative designed to get millions of people active in cities around the world.
 
