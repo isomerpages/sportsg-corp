@@ -9,8 +9,7 @@ image: ""
 ## **Historic Performances Buoy Team Singapore At The 27th SEA Games**
 
 *Young debutants impressed while good spread of sports delivered medals*
-
-Myanmar, 22 December 2013 – Many historic firsts achieved; five SEA Games and five National records broken; and over 100 debutants making their mark. This was how Team Singapore concluded its campaign at the 27th Southeast Asian (SEA) Games in Nay Pyi Taw, Myanmar today. In total, our contingent of 309 athletes garnered a total of 108 medals consisting of 34 Gold, 29 Silver and 45 Bronze at the Myanmar Games.
+**Myanmar, 22 December 2013** – Many historic firsts achieved; five SEA Games and five National records broken; and over 100 debutants making their mark. This was how Team Singapore concluded its campaign at the 27th Southeast Asian (SEA) Games in Nay Pyi Taw, Myanmar today. In total, our contingent of 309 athletes garnered a total of 108 medals consisting of 34 Gold, 29 Silver and 45 Bronze at the Myanmar Games.
 
 2	“Our athletes have performed well at the Games. We had a good mix of young new debutants delivering medals and hitting their personal bests together with SEA Games veterans,” said Chef de Mission Ms Annabel Pennefather, who led Team Singapore at the 27th SEA Games. “We have seen some impressive results, including a number of pleasant surprises in a broader range of sports which I hope will inspire others to follow in their footsteps. The Myanmar Games has shown us what Team Singapore is capable of, and it is a useful gauge for our athletes and officials to prepare themselves for future meets including the 28th SEA Games which Singapore will be hosts of in 2015. I would like to congratulate all our athletes for a job well done and encourage them to continue to push their boundaries for their fulfillment of their sporting aspirations and to be a source of pride for our nation.”
 
