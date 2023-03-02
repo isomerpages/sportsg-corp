@@ -84,15 +84,16 @@ The Singapore Sports Hub will be Singapore's premier sports, entertainment and l
 Consisting of a unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation, and will take sports to the next level in Singapore.
 
 Located on a 35-hectare site in Kallang, the Singapore Sports Hub will include the following facilities:
-A new 55,000-capacity National Stadium with a retractable roof and movable tiered seating
-A 6,000-capacity indoor Aquatic Centre that meets FINA standards
-A 3,000-capacity Sports Halls which will be scalable and flexible in layout
-Water Sports featuring dragon boating, kayaking and canoeing
-41,000 sq m retail space
-The iconic Singapore Indoor Stadium
-Singapore Sports Museum
-Singapore Sports Hub Library
-Daily community facilities and activities open for Singaporeans, including beach volleyball, hard courts for basketball, lawn bowls, skate park, climbing wall and running/cycling circuit
+* A new 55,000-capacity National Stadium with a retractable roof and movable tiered seating
+* A 6,000-capacity indoor Aquatic Centre that meets FINA standards
+* A 3,000-capacity Sports Halls which will be scalable and flexible in layout
+* Water Sports featuring dragon boating, kayaking and canoeing
+* 41,000 sq m retail space
+* The iconic Singapore Indoor Stadium
+* Singapore Sports Museum
+* Singapore Sports Hub Library
+* Daily community facilities and activities open for Singaporeans, including beach volleyball, hard courts for basketball, lawn bowls, skate park, climbing wall and running/cycling circuit
+
 The Singapore Sports Hub, which is managed by SportsHub Pte Ltd, is one of the largest sporting Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and has won the PFI award in London in 2011 and the World Architecture Festival Award for Best Future Project in the leisure-led development category in 2013.
 
 The Singapore Sports Hub will open its doors in April 2014.
