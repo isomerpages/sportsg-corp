@@ -45,12 +45,12 @@ Together We Are Stronger
 
 [Please click here to download the Annexes](/files/Media%20Centre/Media%20Release/2013/Nov/AnnexesFIRST%20EVER%20TRICONTINGENT%20CEREMONY%20KICKS%20OFF%20TEAM%20SINGAPORE%20MAJOR%20GAMES%20JOURNEYpdf.pdf)
 
-ANNEX A: Games Fact Sheet
-ANNEX B: 1st Special Olympics Asia Pacific Games Contingent List
-ANNEX C: 27th SEA Games Contingent List
-ANNEX D: 7th ASEAN Para Games Contingent List
-ANNEX E: Profiles of Chefs de Mission
-ANNEX F: Together We Are Stronger Fact Sheet
+<br>ANNEX A: Games Fact Sheet
+<br>ANNEX B: 1st Special Olympics Asia Pacific Games Contingent List
+<br>ANNEX C: 27th SEA Games Contingent List
+<br>ANNEX D: 7th ASEAN Para Games Contingent List
+<br>ANNEX E: Profiles of Chefs de Mission
+<br>ANNEX F: Together We Are Stronger Fact Sheet
 
 **For media enquiries, please contact:**
 <br>
