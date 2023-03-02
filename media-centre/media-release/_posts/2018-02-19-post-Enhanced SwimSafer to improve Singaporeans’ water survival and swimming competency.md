@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Enhanced SwimSafer to improve Singaporeans’ water survival and swimming competency**
+
 SwimSafer 2.0, the enhanced programme, will provide participants with a more rigourous water survival and swimming competency programme. The revamped programme comes with a revised syllabus and assessment approach, together with enhanced instructor quality through training and re-certification to provide quality learning for participants. It also incorporates an online quiz on water safety knowledge for participants to consolidate their learning.
 
 “Swimming and engaging in water activities are popular pastimes for Singaporeans. Last year, over 7.2 million people used our pools. While we encourage more people to be active through sport and physical activity, we must always play safe and stay safe,” said Mr Lai Chin Kwang, Chief, ActiveSG.
