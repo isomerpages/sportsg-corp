@@ -20,12 +20,12 @@ For enquiries on Therapeutic Use Exemption (TUE):
 <br>
 Tel: (65) 65005451  
 <br>
-Email: [SPORT_TUE_ADS@sport.gov.sg](mailto:irene_tan@sport.gov.sg)
+Email: [sport_tue_ads@sport.gov.sg](mailto:sport_tue_ads@sport.gov.sg)
 
 For enquiries on Whereabouts Information:  
 <br>
 Tel: (65) 65005515
 <br>
-Email: [LIM_Sheng_Hui@sport.gov.sg](mailto:wong_soon_meng@sport.gov.sg)
+Email: [lim_sheng_hui@sport.gov.sg](mailto:lim_sheng_hui@sport.gov.sg)
 
 If you have any questions, concerns, feedback or comments, please complete the following form [here](https://members.myactivesg.com/feedback).
