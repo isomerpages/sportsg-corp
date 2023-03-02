@@ -16,13 +16,13 @@ Email: [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
 
 For the updated info on Prohibited List, Anti-Doping Rule Violations and other updates on anti-doping, please follow ADS on our social media via Facebook and Instagram **@antidopingsingapore**. 
 
-For enquiries on Therapeutic Use Exemption (TUE):
+**For enquiries on Therapeutic Use Exemption (TUE):**
 <br>
 Tel: (65) 65005451  
 <br>
 Email: [sport_tue_ads@sport.gov.sg](mailto:sport_tue_ads@sport.gov.sg)
 
-For enquiries on Whereabouts Information:  
+**For enquiries on Whereabouts Information:  **
 <br>
 Tel: (65) 65005515
 <br>
