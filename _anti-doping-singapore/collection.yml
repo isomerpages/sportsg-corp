@@ -1,4 +1,5 @@
 collections:
   anti-doping-singapore:
     output: true
-    order: []
+    order:
+      - About/.keep
