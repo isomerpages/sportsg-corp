@@ -32,11 +32,11 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Start Your Fitness Journey With Sport
+      subtitle: What We Do
+      button: Discover Now
       alt: Image alt text
+      url: /support-resources/coaches-corner/introduction/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
