@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+### **Coaching Better Every Day through CoachSG**
 
 ![](/images/Media%20Centre/Media%20Release/2018/October/Group%20photo%20at%20the%20CoachSG%20Conference%202018.jpeg)
 
