@@ -62,10 +62,6 @@ Ow Yong Weng Leong
 <br>Group Corporate Communications
 <br>OCBC Bank
 <br>Tel: (65) 6530 4849
-<br>Tel: (65) 6530 4849
-<br>Tel: (65) 6530 4849
-<br>Fax: (65) 6535 7477
-<br>Tel: (65) 6530 4849
 <br>HP: (65) 9791 3734
 
 **About OCBC Bank**
