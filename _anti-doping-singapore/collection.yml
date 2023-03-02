@@ -2,6 +2,7 @@ collections:
   anti-doping-singapore:
     output: true
     order:
+      - Anti Doping Rule Violations/.keep
       - Resources/Policies and Forms.md
       - Resources/Research.md
       - Resources/.keep
