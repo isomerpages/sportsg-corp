@@ -64,3 +64,7 @@ A separate CCE Training Allowance terms and conditions document for fitness inst
 **Online Continuing Coach Education (CCE) Resources**
 
 NROC coaches may consider attending the following online courses to accumulate Continuing Coach Education (CCE) hours. For more information on CCE, please visit this [link](/coaches-corner/continuing-coach-development/continuing-coach-education-cce/).
+
+After completing each course, please upload (a) your e-certificate or (b) screenshot(s) showing that you have completed the course onto your SportSync account to claim CCE hours for the course.
+
+For more queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
