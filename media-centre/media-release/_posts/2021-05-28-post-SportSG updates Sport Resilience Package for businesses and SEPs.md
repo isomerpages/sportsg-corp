@@ -10,7 +10,7 @@ image: ""
 
 The recent tightening of measures under the Phase 2 (Heightened Alert) has significantly impacted the sport and fitness industry. Sports and fitness are important to our health and well-being and the Government is committed to supporting the sector through this period.
 
-<u>New Broad-based Measures</u>
+**New Broad-based Measures**
 
 2 SportSG has worked closely with MOF on broad-based measures to safeguard livelihoods in the sport and fitness industry and defray operating costs during this period.
 
@@ -20,7 +20,7 @@ The recent tightening of measures under the Phase 2 (Heightened Alert) has signi
 
 5 Self-employed persons in the sport and fitness sector who have experienced an income loss of at least 50% for at least one month, from 8 May to 30 June 2021, may apply for the COVID-19 Recovery Grant (Temporary) scheme. Eligible individuals may receive a one-off payout of up to $500. The Ministry of Social and Family Development will release more details shortly.
 
-<u>Updates to Sport Resilience Package Measures</u>
+**Updates to Sport Resilience Package Measures**
 
 6 With the introduction of the above broad-based measures, there are updates to the $18M Sport Resilience Package measures announced on 11 May.
 
@@ -36,13 +36,13 @@ The recent tightening of measures under the Phase 2 (Heightened Alert) has signi
 
 12 A second round of applications was launched from 20 to 26 May with more than 200 applications received. SportSG will be organising a briefing and training session to assist applicants who are new to producing digital content. Details on the next application window will be released in due course.
 
-<u>Updates to Existing Measures under Sport Resilience Package</u>
+**Updates to Existing Measures under Sport Resilience Package**
 
 13 **Continuing Coach Education (CCE) Training Allowance Grant:** Training grants have been extended to include fitness instructors to actively engage in continuous learning and be current in their knowledge and skills during this period. Eligible instructors may claim $7.50 per hour for CCE training/events, up to a maximum of $300 per person until 31 March 2022. Recognised training includes CCE courses facilitated by CoachSG, and selected courses offered under Union Training Assistance Programme (UTAP) endorsed by the National Instructors and Coaches Association (NICA). We will continue to evaluate programmes from other training providers, to expand the training opportunities available to coaches and fitness instructors.
 
 14 **Enterprise Innovation and Capability Development Grant:** Businesses in the sport and fitness industry can continue to benefit from the SportSG Enterprise Innovation and Capability Development Grant (InnoGrant). To date, 2 waves of the InnoGrant have concluded, with 21 enterprises receiving more than S$2M in funding to develop and apply innovative technology solutions to take their businesses to the next level. More details on the next application window will be released in the coming months.
 
-<u>Other Support Measures</u>
+**Other Support Measures**
 
 15 Eligible National Registry of Coaches (NROC)-registered coaches and instructors with valid membership will receive a **one-year extension to their existing membership.** Over 6,200 memberships will benefit from this extension.
 
