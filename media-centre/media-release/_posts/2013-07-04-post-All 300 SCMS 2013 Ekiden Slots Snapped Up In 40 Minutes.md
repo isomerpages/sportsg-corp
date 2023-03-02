@@ -41,18 +41,27 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com](www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](www.marathonsingapore.com).
 
 -END-
-For media enquiries, please contact:
 
+For media enquiries, please contact:
+<br>
 Munirah Razak
+<br>
 Fulford PR
+<br>
 DID: 6324 2284 
+<br>
 Mob: 9137 4157 
+<br>
 Email:[mrazak@fulfordpr.com]( mrazak@fulfordpr.com)
 
 Abraham Christopher
+<br>
 Fulford PR
+<br>
 DID: 6327 6177
+<br>
 Mob: 9127 3751
+<br>
 Email: [achristopher@fulfordpr.com](achristopher@fulfordpr.com)
 
 **FACT SHEET**
