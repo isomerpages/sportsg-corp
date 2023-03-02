@@ -27,7 +27,8 @@ Mr Oon Jin Teik, CEO, Singapore Sports Council said, "SSC is fully committed to 
 SSC will be launching a month-long online public consultation on 26 September 2007 to seek additional inputs and ideas from the wider sports community and members of the public on the Committee's findings and recommendations. The public can give their views by accessing SSC's corporate website www.ssc.gov.sg. Thereafter, SSC will review the comments received and assess the feasibility of the Committee's recommendations before developing an implementation plan by the end of the year.
 
 Related Links and Downloads
-Download Sports Safety Committee Report (9MB)
+<br>
+[Download Sports Safety Committee Report](/files/Media%20Centre/Media%20Release/2007/September/SportsSafetyCommittee26SEPO7.pdf)
 
 **For media enquiries, please contact:**
 
