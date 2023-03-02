@@ -49,7 +49,7 @@ A Partnership That Extends Beyond the Games
 -END-
 
 For further information on the 28th SEA Games Singapore, please visit www.seagames2015.com
-
+<br>
 Follow the 28th SEA Games Singapore 2015 on Facebook at www.facebook.com/SEAGAMES2015 and @seagames2015 on Twitter.
 
 **For media enquiries, please contact:**
