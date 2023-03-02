@@ -2,21 +2,21 @@ collections:
   anti-doping-singapore:
     output: true
     order:
-      - Anti Doping Rule Violations/.keep
-      - Resources/Policies and Forms.md
-      - Resources/Research.md
-      - Resources/.keep
-      - Substances/.keep
-      - Substances/Prohibited List.md
-      - Substances/Therapeutic Use Exemption.md
-      - Substances/Supplements.md
+      - About/.keep
+      - About/About ADS.md
+      - About/NADAB.md
+      - About/Governance.md
       - Testing/.keep
       - Testing/Testing Pools.md
       - Testing/Rights and Responsibilities.md
       - Testing/Sample Collection Procedures.md
       - Testing/Whereabouts Information.md
       - Testing/Testing Statistics.md
-      - About/.keep
-      - About/About ADS.md
-      - About/NADAB.md
-      - About/Governance.md
+      - Substances/.keep
+      - Substances/Prohibited List.md
+      - Substances/Therapeutic Use Exemption.md
+      - Substances/Supplements.md
+      - Anti Doping Rule Violations/.keep
+      - Resources/.keep
+      - Resources/Policies and Forms.md
+      - Resources/Research.md
