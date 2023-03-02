@@ -9,7 +9,7 @@ image: ""
 ## **Singapore Sports Hub On Track To Open In April 2014**
 
 Singapore, 10 June 2013 - Mr. Lawrence Wong, Acting Minister for Culture, Community and Youth, today visited the development site of the Singapore Sports Hub to view the successfully installed highest truss of the new National Stadium, which measures approximately 77.5 metres above pitch level.
-
+![](/images/Media%20Centre/Media%20Release/2013/June/SINGAPORESPORTSHUBONTRACKTOOPENINAPRIL2014MainPar0040Imagegif.gif)
 2. This construction milestone represents another step towards the completion of this new Singapore landmark and the crown jewel of the Sports Hub, with the entire construction project on track to open in April 2014.
 
 3. Noting this latest milestone in the Hub's construction, Acting Minister Wong said, "I'm glad that we've reached this major milestone in the construction of the National Stadium. This testifies to the commitment and dedication of our partners to deliver the project on schedule. I've talked to many people in the sports community, and we are all excited about the completion of the Stadium and the Sports Hub."
