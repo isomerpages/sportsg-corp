@@ -33,17 +33,18 @@ National Stadium to feature world's largest dome
 10. The construction project is also expected to reach various notable milestones this year. These include the completion of both the fixed and retractable roofs of the National Stadium, along with some key milestones for some of the community facilities as well.
 
 -END-
+
 For media enquiries, please contact:
 
 Sam Eatwell
-Communications Manager
-SportsHub Pte. Ltd.
-DID: +65 6340 9233
-Mobile: +65 9397 5288
-Email: sam.eatwell@sportshub.com.sg
+<br>Communications Manager
+<br>SportsHub Pte. Ltd.
+<br>DID: +65 6340 9233
+<br>Mobile: +65 9397 5288
+<br>Email: sam.eatwell@sportshub.com.sg
 
-About Singapore Sports Hub
-
+**About Singapore Sports Hub**
+<br>
 The Singapore Sports Hub will be Singapore's premier sports, entertainment and lifestyle hub with integrated community programming.
 
 Consisting of a unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation, and will take sports to the next level in Singapore.
