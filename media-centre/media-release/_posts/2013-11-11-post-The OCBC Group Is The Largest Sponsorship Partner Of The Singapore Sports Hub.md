@@ -43,30 +43,33 @@ image: ""
 For media enquiries, please contact:
 
 Sam Eatwell
-Communications Manager 
-Singapore Sports Hub
-Tel: (65) 6340 9243
-Fax: (65) 6344 5903
-HP: (65) 9397 5288
+<br>Communications Manager 
+<br>Singapore Sports Hub
+<br>Tel: (65) 6340 9243
+<br>Fax: (65) 6344 5903
+<br>HP: (65) 9397 5288
 
 Dominic Ying
-Vice President
-Group Corporate Communications
-OCBC Bank
-Tel: (65) 6530 5875
-Fax: (65) 6535 7477
-HP: (65) 9023 4650
+<br>Vice President
+<br>Group Corporate Communications
+<br>OCBC Bank
+<br>Tel: (65) 6530 5875
+<br>Fax: (65) 6535 7477
+<br>HP: (65) 9023 4650
 
 Ow Yong Weng Leong
-Assistant Vice President
-Group Corporate Communications
-OCBC Bank
-Tel: (65) 6530 4849
-Fax: (65) 6535 7477
-HP: (65) 9791 3734
+<br>Assistant Vice President
+<br>Group Corporate Communications
+<br>OCBC Bank
+<br>Tel: (65) 6530 4849
+<br>Tel: (65) 6530 4849
+<br>Tel: (65) 6530 4849
+<br>Fax: (65) 6535 7477
+<br>Tel: (65) 6530 4849
+<br>HP: (65) 9791 3734
 
-About OCBC Bank
-
+**About OCBC Bank**
+<br>
 OCBC Bank is the longest established Singapore bank, formed in 1932 from the merger of three local banks, the oldest of which was founded in 1912. It is now the second largest financial services group in Southeast Asia by assets and one of the world's most highly-rated banks, with an Aa1 rating from Moody's. It was ranked by Bloomberg Markets as the world's strongest bank in 2011 and 2012.
 
 OCBC Bank and its subsidiaries offer a broad array of specialist financial and wealth management services, ranging from consumer, corporate, investment, private and transaction banking to treasury, insurance, asset management and stockbroking services.
