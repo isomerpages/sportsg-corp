@@ -18,11 +18,11 @@ For the updated info on Prohibited List, Anti-Doping Rule Violations and other u
 
 **For enquiries on Therapeutic Use Exemption (TUE):**
 <br>
-Tel: (65) 65005451  
+Tel: (65) 65005451
 <br>
 Email: [sport_tue_ads@sport.gov.sg](mailto:sport_tue_ads@sport.gov.sg)
 
-**For enquiries on Whereabouts Information:  **
+**For enquiries on Whereabouts Information:**
 <br>
 Tel: (65) 65005515
 <br>
