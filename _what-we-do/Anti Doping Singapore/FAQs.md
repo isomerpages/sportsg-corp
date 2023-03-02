@@ -10,7 +10,7 @@ A1: Athletes can check all medications purchased in Singapore using the ADS [CH
 
 Q2: If I need to use medication or methods of treatment that are prohibited, how do I apply for a Therapeutic Use Exemption (TUE)?
 <br>
-A2: TUE applications are to be completed with your doctor and submitted to ADS at [ads@sport.gov.sg](mailto:ads@sport.gov.sg). Applications should include the necessary medical reports or evaluation where required. For more information on TUEs, please visit the [TUE section](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/Substances/Therapeutic-Use-Exemption).
+A2: TUE applications are to be completed with your doctor and submitted to ADS at [ads@sport.gov.sg](mailto:ads@sport.gov.sg). Applications should include the necessary medical reports or evaluation where required. For more information on TUEs, please visit the [TUE section](/anti-doping-singapore/substances/therapeutic-use-exemption/).
 
 Q3: How do I know if the supplements I use contain prohibited substances?
 <br>
@@ -18,4 +18,4 @@ A3: Supplement manufacturers do not always list every ingredient on the product 
 
 Q4: How do I update my Whereabouts Information?
 <br>
-A4: Athletes shall update their whereabouts information in [ADAMS](https://adams.wada-ama.org/adams/) which can be accessed from the internet or the ADAMS application for iPhones and Android phones. In the event ADAMS is not working or available, whereabouts changes can be updated to ADS via email at [ads@sport.gov.sg](mailto:ads@sport.gov.sg). For more information on whereabouts information, please visit the [Whereabouts Information](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/Testing/Whereabouts-Information) section.
+A4: Athletes shall update their whereabouts information in [ADAMS](https://adams.wada-ama.org/adams/) which can be accessed from the internet or the ADAMS application for iPhones and Android phones. In the event ADAMS is not working or available, whereabouts changes can be updated to ADS via email at [ads@sport.gov.sg](mailto:ads@sport.gov.sg). For more information on whereabouts information, please visit the [Whereabouts Information](/anti-doping-singapore/testing/whereabouts-information/) section.
