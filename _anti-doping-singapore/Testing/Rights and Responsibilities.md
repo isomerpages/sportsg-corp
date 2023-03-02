@@ -13,15 +13,10 @@ As an athlete, you have to know and understand your rights and responsibilities 
 You have the right to:
 
 * Have a representative present
-    
 * Have an interpreter, if available
-    
 * Ask for additional information about the sample collection process
-    
 * Request modifications for athletes with disabilities
-    
 * Request a delay in reporting to the doping control station for valid reasons such as:
-    
 
 **For In-Competition Testing:**
 * Participate in a victory ceremony
