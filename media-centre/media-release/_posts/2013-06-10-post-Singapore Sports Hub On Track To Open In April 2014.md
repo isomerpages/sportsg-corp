@@ -74,9 +74,8 @@ To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and Singa
 
 Follow us on Facebook at: www.facebook.com/SingaporeSports
 
-For a range of photographs, visit flickr.com/ssc-sportsphotography
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 About Dragages Singapore
 
 An engineering and construction company active in Singapore since 1984, member of Bouygues Construction group. Dragages is responsible for the design and construction of the venues and an equity partner of SportsHub Pte. Ltd.
-
