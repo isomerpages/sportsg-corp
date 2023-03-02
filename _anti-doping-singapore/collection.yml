@@ -2,6 +2,8 @@ collections:
   anti-doping-singapore:
     output: true
     order:
+      - Announcements/Singapore Dragon Boat athletes suspended for anti doping
+        rule violations.md
       - Announcements/.keep
       - About/.keep
       - About/About ADS.md
