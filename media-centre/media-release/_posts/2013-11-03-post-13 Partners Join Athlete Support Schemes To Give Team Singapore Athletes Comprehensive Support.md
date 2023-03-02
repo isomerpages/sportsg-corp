@@ -11,8 +11,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/13PARTNERSJOINATHLETESUPPORTSCHEMESTOGIVETEAMATHLETESUPPORTMainPar0042Imagegif.gif)
 
-	
-Singapore, 12 November 2013 - The Singapore Sports Council (SSC) has today launched the Sports Excellence Education Scheme and Sports Excellence Career Scheme - with more than 1,000 Team Singapore athletes benefitting from them. With these schemes in place, there is now a formalised system of support for athletes to cope effectively with the dual demands of competitive sport and their careers or studies.
+**Singapore, 12 November 2013 **- The Singapore Sports Council (SSC) has today launched the Sports Excellence Education Scheme and Sports Excellence Career Scheme - with more than 1,000 Team Singapore athletes benefitting from them. With these schemes in place, there is now a formalised system of support for athletes to cope effectively with the dual demands of competitive sport and their careers or studies.
 
 2. Launching the schemes, Mr Teo Ser Luck, Minister of State for Trade and Industry, and Chairman of the High Performance Sports (HPS) Selection and Performance Sub-Committee, said, "Athletes commit much of their prime to help bring glory to Singapore. There are sacrifices and dedication on the part of the athletes. While the expectation on them is high, we should assure them they are being taken care of now and in the future after their sports career."
 
