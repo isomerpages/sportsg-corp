@@ -17,7 +17,7 @@ Athletes must continue to file whereabouts information until:
 1. ADS gives written notice to athletes of their removal from its RTP or DTP; or   
 2. Athletes give written notice to ADS and their NSA of therir retirement from sport.
 
-International Federations also have their own RTP for international-level athletes. Athletes who have been included in their International Federation and ADS RTP, have to be aware of the [ADS Anti-Doping Rules](*An effective out-of-competition testing programme depends largely on accurate and updated whereabouts information.*
+International Federations also have their own RTP for international-level athletes. Athletes who have been included in their International Federation and ADS RTP, have to be aware of the [ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and-forms/) (*An effective out-of-competition testing programme depends largely on accurate and updated whereabouts information.*
 
 Athletes who have been nominated by Anti-Doping Singapore (ADS) or their National Sports Association (NSA) to be included into the ADS Registered Testing Pool (RTP) or the ADS Domestic Testing Pool (DTP) are required to provide accurate and updated Whereabouts Information to ensure they can be tested at **anytime and anywhere with no advance notice**. 
 
