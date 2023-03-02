@@ -9,15 +9,14 @@ image: ""
 ### **All 300 SCMS 2013 Ekiden Slots Snapped Up In 40 Minutes**
 
 More than 2,500 runners signed up at the launch event for Standard Chartered Marathon Singapore 2013
-	
+	![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0061Imagegif.gif)
 
 Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once again to be the bestseller at the launch of the 2013 edition of the Standard Chartered Marathon Singapore (SCMS). Even with the increase in Ekiden slots to 300 this year, it took less than an hour to fill up all available slots. Registration kicked off at 11.00am this morning at The Event Square, Waterfront Promenade @ Marina Bay, where people started to queue as early as 8.30am yesterday morning to secure their running slot.
 
 2. "We are very encouraged with the continued strong response to the Standard Chartered Marathon Singapore, especially for the Ekiden race category where all slots have been taken up. It reinforces the marathon as the pinnacle running event in Singapore. As the only IAAF Gold Label event in Singapore, we will strive to ensure another quality event come 1 December 2013," said Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council (SSC) and Chairman of the SCMS 2013 Organising Committee.
 
-3. SCMS 2013 has made provision for 62,000 slots - up from 60,000 offered last year - with the Half Marathon category accounting for the additional 2,000 slots being made available. When the launch event registration closed at 4pm today, more than 2,500 runners have already registered their participation. Online registration will commence at 6pm today (Thursday, 4 July 2013) on the official SCMS website (www.marathonsingapore.com).
+3. SCMS 2013 has made provision for 62,000 slots - up from 60,000 offered last year - with the Half Marathon category accounting for the additional 2,000 slots being made available. When the launch event registration closed at 4pm today, more than 2,500 runners have already registered their participation. Online registration will commence at 6pm today (Thursday, 4 July 2013) on the official SCMS website [(www.marathonsingapore.com)](www.marathonsingapore.com).
 
-	
 4. The launch was officiated by Guest-of-Honour, Acting Minister for Culture, Community and Youth, Mr Lawrence Wong, who, together with Mr Richard Seow, Chairman, SSC; Mr Lim Teck Yin, Chief Executive Officer, SSC; and Mr Ray Ferguson, Chief Executive, Standard Chartered Bank, Singapore, released helium-filled golden balloons - with encouraging messages attached - into a specially constructed giant tree-shaped cone structure. This was proceeded by hundreds more green and blue balloons filling the cone structure, each with messages written by participants waiting in line to register.
 
 5. Mr Ray Ferguson, Chief Executive, Standard Chartered Bank, Singapore, said: "Standard Chartered Bank is proud to have played a part in nurturing Singapore's passion for running. This is the 12th year that the Bank is the title sponsor of Singapore's pinnacle running event. The passion, courage, and determination of the runners each year resonate strongly with what we stand for as an organisation. Just as the runners are determined to finish the race, we are committed in our partnership with the SSC to deliver a quality race for all. This is very much part of our DNA and what we set out in our brand promise to be Here for good in the communities where we operate."
