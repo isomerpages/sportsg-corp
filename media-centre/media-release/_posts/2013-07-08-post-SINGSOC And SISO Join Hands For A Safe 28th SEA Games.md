@@ -25,15 +25,16 @@ Singapore, 8 July 2013 - The Singapore Southeast Asian Games Organising Committe
 7. SINGSOC earlier announced that the 28th SEA Games will be held in Singapore from 5th June to 16th June 2015. While the number and type of sports will be finalised at a later date, some sports like football will start its preliminary rounds a few days before the opening ceremony on 5 June 2015.
 
 -END-
+
 For media enquiries, please contact:
 
-Siti Nurhidayati
+**Siti Nurhidayati**
 Senior Executive, Media Relations
 Singapore Sports Council
 Tel: +65 6500 5246
-Email: siti_nurhidayati@ssc.gov.sg
+Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
 
-About Singapore Sports Council
+**About Singapore Sports Council**
 
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
