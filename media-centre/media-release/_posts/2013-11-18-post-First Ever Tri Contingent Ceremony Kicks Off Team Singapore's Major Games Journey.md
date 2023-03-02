@@ -19,8 +19,8 @@ image: ""
 
 3. Deputy Prime Minister and President of Singapore National Olympic Council (SNOC), Mr Teo Chee Hean, as well as Mr Tan Chuan-Jin, Acting Minister for Manpower and Executive Committee Member of SNOC, joined Mr Wong to present the Singapore flags as a symbol of honour to an all-female trio of flag bearers for the respective Games.
 
-1st Special Olympics Asia Pacific Games
-
+**1st Special Olympics Asia Pacific Games**
+<br>
 4. Opening the Games season is the inaugural Special Olympics Asia Pacific Games, which will take place in Newcastle, Australia from 1 to 7 December. Singapore will be fielding a contingent of 19 athletes to compete in 5 sports, led by Chef De Mission (CDM) Ms Linda Prebhash.
 
 5. Commenting on the growing sports movement, Ms Prebhash said: "This year marks a milestone for our Special Olympics athletes who will embark on the first ever Special Olympics 2013 Asia Pacific Games, which aims to transform the lives of people with intellectual disabilities. In a true testament that sport embraces all abilities, this is an excellent platform for our athletes to share their love for sports, celebrate their skills and abilities, build their self-confidence and develop social skills. I am glad that there are now more opportunities for Special Olympics athletes from the region to interact with each other at the sporting level. This unified flag presentation ceremony also fosters inclusion amongst our athletes, and gives them an opportunity to get to know other Team Singapore athletes and be inspired. We are very proud of them and wish them all the very best!"
