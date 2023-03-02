@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Embrace Every Moment to Celebrate Living**
+
 ![](/images/Media%20Centre/Media%20Release/2018/February/PM%20Lee%20at%20official%20opening%20of%20Active%20Health%20Lab%20at%20HBB.jpeg)
 
 *   Active Health shows that simple and progressive changes to your habits help you live better
