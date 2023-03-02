@@ -116,4 +116,4 @@ For in-competition testing, this will automatically include disqualification of 
 
 An athlete or athlete support personnel who is serving a period of ineligibility arising from an anti-doping rule violation committed in a sport is not allowed to participate in any other sport at any level during the period of ineligibility.
 
-Click [here](/anti-doping) for a list of athletes and their periods of ineligibility.
+Click [here](/anti-doping-rule-violations/sanctions) for a list of athletes and their periods of ineligibility.
