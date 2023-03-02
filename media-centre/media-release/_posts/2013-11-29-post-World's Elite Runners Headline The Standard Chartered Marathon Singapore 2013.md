@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **World's Elite Runners Headline The Standard Chartered Marathon Singapore 2013 **
-
-Singapore, 29 November 2013 - The Standard Chartered Marathon Singapore 2013 will feature a selection of the world's top long distance runners, as they join 54,000 other participants to race in the nation's marquee running event on Sunday, 1 December.
+## **World's Elite Runners Headline The Sandard Chartered Marathon Singapore 2013**
+![](/images/Media%20Centre/Media%20Release/2013/Nov/SCMS2013_logo06.jpeg)
+**Singapore, 29 November 2013 **- The Standard Chartered Marathon Singapore 2013 will feature a selection of the world's top long distance runners, as they join 54,000 other participants to race in the nation's marquee running event on Sunday, 1 December.
 
 2 The international contingent will be headlined by Kenyan marathoner Sharon Cherop, the female winner of the 2012 Boston Marathon and runner up in the 2013 Berlin Marathon in which she clocked a remarkable personal best time of 2:22:28.
 
@@ -80,4 +80,3 @@ Through long-standing partnerships with multi-national companies throughout the 
 Spectrum's approach centres on understanding clients' needs, and designing and delivering the best event solutions based on our years of experience.
 
 For more information, go to: [www.sww.com.sg](www.sww.com.sg)
-
