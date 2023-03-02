@@ -48,9 +48,8 @@ creating opportunities for corporate sponsorship as well as enhancing and promot
 -END-
 
 For further information on the 28th SEA Games Singapore, please visit [www.seagames2015.com](www.seagames2015.com)
-
+<br>
 Follow the 28th SEA Games Singapore 2015 on Facebook at www.facebook.com/SEAGAMES2015 and @seagames2015 on Twitter.
-
 ![](/images/Media%20Centre/Media%20Release/2013/May/28thSEAGAMESTOOPENON5JUNE2015INSINGAPOREMainPar0047Imagegif.gif)
 
 ![](/images/Media%20Centre/Media%20Release/2013/May/28thSEAGAMESTOOPENON5JUNE2015INSINGAPOREMainPar0048Imagegif.gif)
@@ -78,6 +77,6 @@ Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/Si
 <br>
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-About the Singapore National Olympic Council
-
+**About the Singapore National Olympic Council**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
