@@ -29,13 +29,14 @@ Chance to Win a Trip to Catch SEA Games Live!
 
 	
 7. From now till 23 November, members of the public who submit a photo pledge via www.ourteamsg.com, Instagram (#ourteamsg) or the roving 'Together We Are Stronger' photo booth, will stand a chance to win a trip for two to Myanmar to catch SEA Games live.
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/CALLINGONSINGAPOREANSTOJOINourteamsgMainPar0051Imagegif.gif)
 
 8. From 8 November to 31 January 2014, three of the best photo pledges will be selected on a fortnightly basis. The winners will win a limited edition Team Singapore Fan Pack (worth $50) that includes a limited edition Singapore Jersey, 'Together We Are Stronger' water bottle and other attractive Team Singapore premiums.
 
 -END-
 
 Appendix A - Team Singapore athletes featured in "Together We Are Stronger" campaign
-
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/CALLINGONSINGAPOREANSTOJOINourteamsgMainPar0054Imagegif.gif)
 
 **For media enquiries, please contact:**
 <br>Adrienne Ser
