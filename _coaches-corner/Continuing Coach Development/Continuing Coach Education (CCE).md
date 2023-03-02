@@ -17,7 +17,7 @@ Sport Singapore is responsible for: 
     
 Sport Singapore reserves the right to validate the credibility of the CCE activities, either with the respective NSAs or any other respective organisations and appointed agencies.
 
-**[ForCoachesByCoaches Programme](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/SG-Coach-Programme/ForCoachesByCoaches-Programme.ashx?la=en&hash=BFF9B30A0898C012D1FE90445F2C216C2564A121)**
+**[ForCoachesByCoaches Programme]([ForCoachesByCoaches_Programme](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/ForCoachesByCoaches_Programme.pdf))**
 
 CoachSG cordially invites NROC coaches to conduct CCE workshops as NROC Coach Presenters. Key benefits of participating in this programme include:
 
@@ -25,7 +25,7 @@ CoachSG cordially invites NROC coaches to conduct CCE workshops as NROC Coach Pr
 2.  Receive partial reimbursement for your time
 3.  Share knowledge and expertise with, learn from and network with other coaches
 
-You can download the 'CCE Workshop - Session Outline' template [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/SG-Coach-Programme/CCE-Workshops-Session-Outline.ashx?la=en&hash=2B14D22337EBFBE523A646DBEE2FDD1D8CB9D762). For further queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg)
+You can download the 'CCE Workshop - Session Outline' template [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/CCE_Workshops_Session_Outline.pdf). For further queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg)
 
 NROC coaches who conduct CCE workshop(s) under this programme must meet all of the criteria below:
 
