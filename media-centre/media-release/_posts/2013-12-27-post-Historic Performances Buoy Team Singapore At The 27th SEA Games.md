@@ -63,14 +63,14 @@ Adrienne Ser
 <br>Singapore Sports Council
 <br>Tel: (65) 6551 5433
 <br>HP: (65) 8571 6855
-<br>Email: aser@golinharris.com
+<br>Email: [aser@golinharris.com](aser@golinharris.com)
 
 Siti Nurhidayati
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5246
 <br>HP: (65) 9647 7432
-<br>Email: siti_nurhidayati@ssc.gov.sg
+<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
 
 
 **About Singapore Sports Council**
@@ -83,12 +83,12 @@ To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and www.S
 
 **About Singapore National Olympic Council (SNOC)**
 <br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
 Follow us on:
-28th SEA Games Website: www.seagames2015.com
-28th SEA Games Facebook Page: www.facebook.com/SEAGAMES2015
-8th ASEAN Para Games Facebook Page: www.facebook.com/ASEANPARAGAMES2015
+28th SEA Games Website: [www.seagames2015.com](www.seagames2015.com)
+28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)
+8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)
 
 **About Team Singapore**
 <br>
@@ -98,6 +98,6 @@ Pride, Performance and Perseverance are the three attributes of Team Singapore. 
 
 Team Singapore inspires our nation’s athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information on Team Singapore, please visit www.teamsingapore.com.sg and www.ourteamsg.com 
+For further information on Team Singapore, please visit [www.teamsingapore.com.sg ](www.teamsingapore.com.sg )and [www.ourteamsg.com ](www.ourteamsg.com )
 <br>
-Follow Team Singapore's action on Facebook at www.facebook.com/TeamSG and #ourteamsg on Instagram.
+Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG ](www.facebook.com/TeamSG )and #ourteamsg on Instagram.
