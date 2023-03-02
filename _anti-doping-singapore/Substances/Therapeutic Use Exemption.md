@@ -17,8 +17,8 @@ Athletes should advise all medical personnel of their obligation to abide by the
 	*  [Singapore “CheckDrugs” Online](https://www.antidoping.org.sg/)
 	*  [Global Drug Reference Online](http://www.globaldro.com/)
 *  STEP 2: SUBSTANCE OR METHOD OF TREATMENT IS PROHIBITED
-	*  Discuss with your doctor for permitted alternative medication or treatment.
-	*   If there are no alternative medication or treatment available, proceed to Step 3.
+	* Discuss with your doctor for permitted alternative medication or treatment.
+	* If there are no alternative medication or treatment available, proceed to Step 3.
 
 **CRITERIA FOR GRANTING A TUE**
 
