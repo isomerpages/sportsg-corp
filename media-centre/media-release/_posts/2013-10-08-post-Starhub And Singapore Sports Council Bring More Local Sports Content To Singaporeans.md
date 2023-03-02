@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 ## **Starhub And Singapore Sports Council Bring More Local Sports Content To Singaporeans**
-
+![](/images/Media%20Centre/Media%20Release/2013/October%202013/starhub%20ssc.jpeg)
 **Singapore, 8 October 2013** - StarHub and the Singapore Sports Council (SSC) signed a Memorandum of Understanding (MOU) today to offer more local sports
 content to a wider audience and enhance the sports viewership experience of Singaporeans. Held at Pasir Ris Sports and Recreation Centre, the signing ceremony also saw StarHub announce the launch of its free sports channel SuperSports Arena on 76.25MHz to almost all households in Singapore from 10 October 2013.
 
