@@ -42,7 +42,7 @@ Sam Eatwell
 <br>SportsHub Pte. Ltd.
 <br>DID: +65 6340 9233
 <br>Mobile: +65 9397 5288
-<br>Email: sam.eatwell@sportshub.com.sg
+<br>Email:[ sam.eatwell@sportshub.com.sg]( sam.eatwell@sportshub.com.sg)
 
 **About Singapore Sports Hub**
 <br>
@@ -62,7 +62,7 @@ Sports Library
 Daily community facilities and activities open for Singaporeans, including beach volleyball, hard courts for basketball, lawn bowls, skate park, climbing wall and running/cycling circuit
 The Singapore Sports Hub, which is managed by SportsHub Pte. Ltd., is one of the largest sports facilities infrastructure Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and won the PFI award in London in 2011. The Singapore Sports Hub will open its doors in April 2014.
 
-For more information, please visit the Singapore Sports Hub website: www.sportshub.com.sg
+For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](www.sportshub.com.sg)
 
 The Public-Private Partnership includes:
 
@@ -78,6 +78,6 @@ Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/Si
 <br>
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-About Dragages Singapore
+**About Dragages Singapore**
 <br>
 An engineering and construction company active in Singapore since 1984, member of Bouygues Construction group. Dragages is responsible for the design and construction of the venues and an equity partner of SportsHub Pte. Ltd.
