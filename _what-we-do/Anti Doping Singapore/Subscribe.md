@@ -21,3 +21,10 @@ You can download a reader [here](http://en.wikipedia.org/wiki/News_aggregator).
 
 **2. Subscribe to news feed**
 **3. Select the content you want:**
+
+
+| Category | Newsfeed |
+| -------- | -------- |
+| Prohibited List     | [RSS](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/RSS-Feed/Prohibited-List)     |
+News | [RSS](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore/RSS-Feed/News)|
+
