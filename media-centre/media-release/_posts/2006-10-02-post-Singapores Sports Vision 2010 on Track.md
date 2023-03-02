@@ -22,7 +22,7 @@ Looking ahead, SSC's CEO Oon Jin Teik said: "The months and years ahead will be 
 
 SSC will be rolling out two major initiatives this fiscal year.
 
-Integrated Events Strategy
+**Integrated Events Strategy**
 
 The SSC is developing an integrated events strategy that will provide a long term, systematic approach to bidding and staging sports events in Singapore. The aim is to help sports partners extract maximum value, in sports participation, excellence and industry, from sports events that Singapore brings in. The long planning horizon of between 10 to 20 years allows all sports partners to take a holistic long-term view of their plans to see how they can derive maximum value from the event. SSC will be seeking feedback from all sports partners on this initiative within the next few months. A set of guidelines to align and guide all parties to put in place a rigorous events planning process is expected to be ready by the first quarter of 2007.
 
@@ -40,7 +40,7 @@ Enclosures
 
 
 
-For media inquiries, please contact:
+**For media inquiries, please contact:**
 
 Alvin Hang
 <br>
@@ -72,4 +72,5 @@ Email: [sharon_liew@ssc.gov.sg](mailto:sharon_liew@ssc.gov.sg)
 
 
 About SSC
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
