@@ -13,7 +13,7 @@ image: ""
 **Singapore, 11 November 2013** - The SportsHub Pte Ltd and OCBC Bank today announced that OCBC Group will become the largest sponsorship partner of the Singapore Sports Hub, with OCBC Bank awarded the exclusive Premier Founding Partner status. In what is the first sports venue sponsorship for Singapore's sports and entertainment industry, OCBC Bank and its private banking subsidiary, Bank of Singapore, will have naming rights to the following facilities:
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/OCBCGROUPISTHELARGESTSPONSORSHIPPARTNEROFSINGAPORESPORTSHUBMainPar0051Imagegif.gif)
 
-
+![](/images/Media%20Centre/Media%20Release/2013/Nov/OCBCGROUPISTHELARGESTSPONSORSHIPPARTNEROFSINGAPORESPORTSHUBMainPar0047Imagegif.gif)
 	
 2. At the press conference today, OCBC Bank signed the 15-year agreement with the Singapore Sports Hub as the Premier Founding Partner. Bank of Singapore is part of the OCBC Bank's 15-year agreement. An in-principle agreement for a significant partnership has been reached with OCBC Bank's insurance subsidiary, Great Eastern Holdings.
 
@@ -101,4 +101,3 @@ For more information, please visit the Singapore Sports Hub website: www.sportsh
 
 The Public-Private Partnership includes:
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/FIRSTEVERTRICONTINGENTCEREMONYKICKSOFFTEAMSINGAPOREMAJORGAMESJOURNEYMainPar0064Imagegif.gif)
-
