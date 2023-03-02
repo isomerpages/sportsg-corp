@@ -19,6 +19,8 @@ Athletes should advise all medical personnel of their obligation to abide by the
 *  STEP 2: SUBSTANCE OR METHOD OF TREATMENT IS PROHIBITED
 	* Discuss with your doctor for permitted alternative medication or treatment.
 	* If there are no alternative medication or treatment available, proceed to Step 3.
+* STEP 3: APPLY FOR A TUE
+	* Download a [TUE Application Form](/anti-doping-singapore/resources/policies-and-forms) from ADS website or obtain it from your National Sports Association or International Federation, where applicable.
 
 **CRITERIA FOR GRANTING A TUE**
 
