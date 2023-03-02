@@ -21,3 +21,5 @@ The International Standard for Testing harmonises the procedures for the conduct
 ![Laboratories](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISL_2021.jpeg)
 [International Standard for Laboratories](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-laboratories-isl) - 
 The International Standard for Laboratories ensures the production of valid test results and evidentiary data and to achieve uniform and harmonized results and reporting from all accredited laboratories.
+
+![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISTUE_2021.jpeg)[International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-therapeutic-use-exemptions-istue) - The International Standard for Therapeutic Use Exemptions ensures that the process of granting TUEs is harmonized across sports and countries.
