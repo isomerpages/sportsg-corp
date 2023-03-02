@@ -26,11 +26,16 @@ Singapore, 8 July 2013 - The Singapore Southeast Asian Games Organising Committe
 
 -END-
 
-For media enquiries, please contact:
-
-**Siti Nurhidayati**, Senior Executive, Media Relations
+**For media enquiries, please contact:**
+<br>
+Siti Nurhidayati
+<br>
+Senior Executive, Media Relations
+<br>
 Singapore Sports Council
+<br>
 Tel: +65 6500 5246
+<br>
 Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
 
 **About Singapore Sports Council**
