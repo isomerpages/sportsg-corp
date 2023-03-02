@@ -26,3 +26,9 @@ In view of the current COVID-19 situation, CoachSG has compiled a quick starter 
 Bringing our coaching online may seem foreign to most but it has many similar principles as coaching physically. This guide will enable you to prepare your online coaching sessions through step-by-step guidance and provides questions that you can ask yourself to ensure an enjoyable and effective coaching experience both for you and your athletes:
 
 [Design eCoaching Session](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Designing_eCoaching_Session_v4.pdf)
+
+(A video on how to design e-coaching sessions can be viewed [here](https://www.facebook.com/CoachSG1/videos/249209429531732/))
+
+**C. Designing a Word Up Challenge**
+
+CoachSG shares the ways to record your videos and how to convert them into gifs so that you will be able to create your own Word Up Challenge.
