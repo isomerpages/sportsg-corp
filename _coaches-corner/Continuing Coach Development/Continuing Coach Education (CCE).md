@@ -66,4 +66,8 @@ Please note that National Sports Associations (NSAs) may develop their own sport
 
 **Coaching e-Log Book**
 
-The Coaching Logbook has now gone digital, and you can access it within your [SportSync](http://www.sportsync.sg/) account – you may access the e-Logbook guide [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/How_to_update_e-logbook%20on_SportSync.pdf)
+The Coaching Logbook has now gone digital, and you can access it within your [SportSync](http://www.sportsync.sg/) account – you may access the e-Logbook guide [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/How_to_update_e-logbook%20on_SportSync.pdf).
+
+The purpose of the Coaching e-Log Book is to record coaching experiences and upgrading courses attended by a coach. It will also be used as a point of reference for a coach’s eligibility to renew their NROC membership upon its expiry.
+
+How to use your Coaching e-Logbook
