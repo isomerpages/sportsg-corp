@@ -18,15 +18,12 @@ image: ""
 -END-
 
 List of Winners
-Main Awards
-
-
-
+<br>
+**Main Awards**
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0054Imagegif.gif)
 Meritorious Awards (Seniors)
-
-
-
-
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0055Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0056Imagegif.gif)
 Meritorious Awards (Sportsboy/Sportsgirl)
 
 
