@@ -16,7 +16,7 @@ image: ""
 
 4. Meanwhile, "Be Sports Safe, Buddy Up" advocates have started to emerge in some constituents. They include senior members of the People's Association (PA) Wellness Programme in the South West District, who have seen the merits of partnering up when engaging in physical activity. Said Mr Goh Mong Lye, 62, an active Pickleball player in Boon Lay, said: "Not only do we play together, we eat together, we help each other improve, and we keep a close watch on one another." In this very spirit, the PA Wellness Programme plans to introduce trans-generational activities such as pairing up seniors with students to learn and play sport.
 
-Other initiatives scaled up to promote sports safety
+**Other initiatives scaled up to promote sports safety**
 
 5. The "Be Sports Safe, Buddy Up" campaign builds on other sports safety initiatives. For example, in April 2013, some 149 sets of Public Access Defibrillators (PADs) were installed at facilities under the Dual Use Scheme, adding to the 80 over sets of Automated External Defibrillators (AEDs) already available at all of the SSC's 25 swimming pools, 16 gyms and 17 sports halls. Meanwhile, the Sports Safety Champs programme has recruited and trained some 1,800 individuals to date, up from about 260 in November last year. These Champs will be volunteering at various SSC sports facilities to educate the general public on the importance of sports safety and the 'Be Sports Safe, Buddy Up' initiative.
 
@@ -27,7 +27,7 @@ Other initiatives scaled up to promote sports safety
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
 <br>Tel: +65 6500 5246
-<br>Email: siti_nurhidayati@ssc.gov.sg
+<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
 
 **About Singapore Sports Council**
 <br>
