@@ -9,6 +9,8 @@ image: ""
 ---
 ### **All Systems Go as Organisers and 40,000 Runners Make Final Preparations for Standard Chartered Singapore Marathon 2007**
 
+All Systems Go as Organisers and 40000 Runners Make Final Preparations for Standard Chartered Singapore Marathon 2007
+
 Singapore, 30 November 2007 - Some of the world's renowned marathoners have descended on Singapore for the sixth edition of the Standard Chartered Singapore Marathon taking place this Sunday. Representing 18 countries, 60 elite male and female runners will hit the road on a 42km route stretching from the heart of the Central Business District to the scenic coastline of the East Coast Park. The Standard Chartered Singapore Marathon 2007 also forms the second leg of the Greatest Race on Earth (GROE) series that includes marathons in Nairobi, Mumbai and Hong Kong. For the first time in the event's history, elite athletes will also be able to use their timing set at the Standard Chartered Singapore Marathon 2007 for their entry to the 2008 Beijing Olympics.
 
 The top 3 finishers from last year's men's category - Amos Tirop Matui from Kenya, Ashebir Jote Demissu from Ethiopia and Abel Kurui from Kenya have all returned this year to conquer the route. Matui in particular will be keen to defend the title he has held for two consecutive years and fend off Demissu who has been his closest rival. The latter finished mere seconds behind Matui in previous years' races and in the women's race, Madina Biktagirova from Russia will be chasing for the title in Singapore for the first time in her career. Her personal best of 2hr 28:12 is 3 minutes under the winning time set by Kenyan, Salina Kosgei last year. Spectators can look forward to yet another tight finish and
