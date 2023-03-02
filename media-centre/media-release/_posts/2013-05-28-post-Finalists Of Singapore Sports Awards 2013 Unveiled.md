@@ -10,8 +10,7 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2013/May/FINALISTSOFSINGAPORESPORTSAWARDS2013UNVEILEDMainPar0042Imagegif.gif)
 
 
-	
-Singapore, 28 May 2013 - Some of Singapore's best sports talent, event organisers and journalists move one step closer to bagging the title in their respective nominated categories, as they were announced finalists of the Singapore Sports Awards (SSA) 2013 today.
+**Singapore, 28 May 2013** - Some of Singapore's best sports talent, event organisers and journalists move one step closer to bagging the title in their respective nominated categories, as they were announced finalists of the Singapore Sports Awards (SSA) 2013 today.
 
 2. Starting out from humble beginnings, the SSA had just four categories when it was first introduced in 1967. Today, the Awards has evolved to become Singapore's most highly coveted honours for sporting achievements, covering 12 award categories that cut across various facets of the sporting ecosystem - from athletes and coaches to event organisers and media. Recent additions include the "Best Sports Event (International)", "Best Sports Event (Local)", and the "Most Inspiring Sports Story", which will continue to be part of the award category mix this year. This progression supports ongoing efforts to foster deeper relationships and collaborations in sport across the people, public and private sectors, as part of the Vision 2030 sporting journey.
 
