@@ -140,7 +140,7 @@ If ADS asks an intellectually disabled athlete to provide whereabouts informatio
 (b) the athlete's parent or guardian;
 
 (c) the athlete's coach; or
-
+<br>
 (d) a representative of the NSA.
 
 **CHANGES TO WHEREABOUTS**
@@ -428,11 +428,11 @@ Athletes with an impairment should provide details of their impairment on ADAMS 
 If ADS asks an intellectually disabled athlete to provide whereabouts information, ADS shall give at least one of the following persons oral or written notice that ADS has made the request:
 
 (a) the athlete's spouse;
-
+<br>
 (b) the athlete's parent or guardian;
-
+<br>
 (c) the athlete's coach; or
-
+<br>
 (d) a representative of the NSA.
 
 **CHANGES TO WHEREABOUTS**
@@ -444,7 +444,7 @@ While updating will be permitted until the last minute, the athlete are advised 
 Updates to whereabouts filing can be made:
 
 (a) On-line via [ADAMS](https://adams.wada-ama.org/adams/)
-
+<br>
 (b) By Email to [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
 
 **THIRD PARTY AUTHORISATION**
