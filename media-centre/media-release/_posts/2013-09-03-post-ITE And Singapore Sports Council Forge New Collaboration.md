@@ -25,7 +25,6 @@ image: ""
 -END-
 
 **For media enquiries, please contact:**
-
 <br>Ms Shalini V
 <br>Head/Publicity
 <br>Institute of Technical Education
