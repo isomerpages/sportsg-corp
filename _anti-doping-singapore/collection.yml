@@ -2,6 +2,7 @@ collections:
   anti-doping-singapore:
     output: true
     order:
+      - Substances/.keep
       - Testing/.keep
       - Testing/Testing Pools.md
       - Testing/Rights and Responsibilities.md
