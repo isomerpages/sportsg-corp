@@ -16,3 +16,7 @@ The WAD Code provides the framework for harmonized anti-doping policies, rules a
 The Prohibited List identifies the substances and methods prohibited in-competition, out-of-competition and in particular sports. The List is reviewed by WADA annually.
 
 For easy reference wherever you go, check the Prohibited List at the [mobile site](http://list.wada-ama.org/ "Prohibited List Mobile") or download the [iPhone application](http://itunes.apple.com/us/app/wada-prohibited-list-2011/id408057950?mt=8 "Prohibited List iTunes").
+
+![International Standard for Testing and Investigations](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISTI_2021.jpeg)
+[International Standard for Testing and Investigations](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-for-testing-and-investigations-isti)
+The International Standard for Testing harmonises the procedures for the conduct of effective In-Competition and Out-of-Competition testing to maintain the integrity and identity of the Samples collected, from the point the Athlete is notified of the test to the point the Samples are transported to the laboratory for analysis.
