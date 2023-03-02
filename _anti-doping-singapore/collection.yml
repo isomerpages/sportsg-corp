@@ -2,6 +2,7 @@ collections:
   anti-doping-singapore:
     output: true
     order:
+      - Resources/Research.md
       - Resources/.keep
       - Substances/.keep
       - Substances/Prohibited List.md
