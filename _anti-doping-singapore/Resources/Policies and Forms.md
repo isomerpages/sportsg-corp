@@ -12,4 +12,4 @@ Governing policy that stipulates the anti-doping roles and responsibilities of k
 
 #### **THERAPEUTIC USE EXEMPTION**
 * [ADS Therapeutic Use Exemption Policy](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Policy_20210401.pdf) - **(Updated 1 April 2021)**  - ADS policy stating the procedures for the application, process and approval of TUEs.
-* [ADS Therapeutic Use Exemption Application Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Application_Form_20210615.pdf) - **(Updated 15 June 2021)**  -Form for the application of TUEs to ADS
+* [ADS Therapeutic Use Exemption Application Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Application_Form_20210615.pdf) - **(Updated 15 June 2021)**  - Form for the application of TUEs to ADS
