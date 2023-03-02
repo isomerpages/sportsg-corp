@@ -15,7 +15,7 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 
 2. "We are very encouraged with the continued strong response to the Standard Chartered Marathon Singapore, especially for the Ekiden race category where all slots have been taken up. It reinforces the marathon as the pinnacle running event in Singapore. As the only IAAF Gold Label event in Singapore, we will strive to ensure another quality event come 1 December 2013," said Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council (SSC) and Chairman of the SCMS 2013 Organising Committee.
 
-3. SCMS 2013 has made provision for 62,000 slots - up from 60,000 offered last year - with the Half Marathon category accounting for the additional 2,000 slots being made available. When the launch event registration closed at 4pm today, more than 2,500 runners have already registered their participation. Online registration will commence at 6pm today (Thursday, 4 July 2013) on the official SCMS website [([www.marathonsingapore.com](www.marathonsingapore.com))](www.marathonsingapore.com).
+3. SCMS 2013 has made provision for 62,000 slots - up from 60,000 offered last year - with the Half Marathon category accounting for the additional 2,000 slots being made available. When the launch event registration closed at 4pm today, more than 2,500 runners have already registered their participation. Online registration will commence at 6pm today (Thursday, 4 July 2013) on the official SCMS website [www.marathonsingapore.com](www.marathonsingapore.com)
 
 4. The launch was officiated by Guest-of-Honour, Acting Minister for Culture, Community and Youth, Mr Lawrence Wong, who, together with Mr Richard Seow, Chairman, SSC; Mr Lim Teck Yin, Chief Executive Officer, SSC; and Mr Ray Ferguson, Chief Executive, Standard Chartered Bank, Singapore, released helium-filled golden balloons - with encouraging messages attached - into a specially constructed giant tree-shaped cone structure. This was proceeded by hundreds more green and blue balloons filling the cone structure, each with messages written by participants waiting in line to register.
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0074Imagegif.gif)
@@ -38,7 +38,7 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 
 11. Added Mr Lim: "SportCares was set up to improve access and opportunities for people who lacked the resources to participate in and grow through well-designed sport. With the money raised, we will be able to do more through our SportCares' programmes to help people push beyond the limits of their experience and discover their true potential. I hope that SCMS 2013 will lead the way and inspire more individuals and future sports events organisers to support the SportCares movement."
 
-12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at www.marathonsingapore.com and the Marathon's Official Facebook Page at www.facebook.com/MarathonSG. For more details on SportCares activities, please visit www.facebook.com/sportcaresSG.
+12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com](www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](www.marathonsingapore.com).
 
 -END-
 For media enquiries, please contact:
@@ -47,22 +47,20 @@ Munirah Razak
 Fulford PR
 DID: 6324 2284 
 Mob: 9137 4157 
-Email: mrazak@fulfordpr.com
+Email:[mrazak@fulfordpr.com]( mrazak@fulfordpr.com)
 
 Abraham Christopher
 Fulford PR
 DID: 6327 6177
 Mob: 9127 3751
-Email: achristopher@fulfordpr.com
-FACT SHEET
+Email: [achristopher@fulfordpr.com](achristopher@fulfordpr.com)
 
-
-
-
-
-
-
-
+**FACT SHEET**
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0093Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0094Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0095Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0096Imagegif.gif)
+![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0097Imagegif.gif)
 Annex A: Race Categories and Prices
 
 Annex B: List of Sponsors and Partners
