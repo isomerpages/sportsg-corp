@@ -51,9 +51,8 @@ Singapore Sports Hub image: https://www.yousendit.com/download/UVJqZm1RYTJGOFJWe
 
 WTA Player congratulatory video: http://youtu.be/vlepn4PqVwA
 
-
 **For media enquiries, please contact: **
-
+<br>
 Andrew Walker, WTA, +44 7825 152 361, [awalker@wtatennis.com](awalker@wtatennis.com)
 <br>
 Chris Wallace, WTA, +1.727.502.1234, [cwallace@wtatennis.com](cwallace@wtatennis.com)
