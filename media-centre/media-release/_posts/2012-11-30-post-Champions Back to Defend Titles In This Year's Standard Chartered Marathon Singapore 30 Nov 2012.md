@@ -121,21 +121,20 @@ Career Highlights:
 <br>2012 Milan Marathon, Champion (2:31:07)
 
 Shitaye Gemechu
-
-Gender: Female
-Country: Ethiopia
-Birth Date: 17 June 1980
-Personal Records:
-Marathon: 2:26:24
+<br>Gender: Female
+<br>Country: Ethiopia
+<br>Birth Date: 17 June 1980
+<br>Personal Records:
+<br>Marathon: 2:26:24
 
 Shitaye Gemechu is an Ethiopian long-distance runner specialising in marathon races. Being the women's champion at the Rock 'n' Roll Arizona Marathon for 2004 and 2006, Gemechu first came to prominence with a win at the 2001 Amsterdam Marathon (2:28:40). She then went on to represent Ethiopia in the marathon at the World Championships till 2007. In 2011, the 32 year old returned to competition and was placed fouth at the Torino Marathon. She was also a runner-up in Hong Kong earlier this year with a timing of 2:31:44.
 
 Career Highlights:
-2001 Amsterdam Marathon, Champion (2:28:40)
-2004 Arizona Marathon, Champion (2:31:33)
-2006 Arizona Marathon, Champion (2:31:44)
-2011 Torino Marathon, Fouth (2:30:55)
-2012 Hong Kong Marathon, Second (2:31:44)
+<br>2001 Amsterdam Marathon, Champion (2:28:40)
+<br>2004 Arizona Marathon, Champion (2:31:33)
+<br>2006 Arizona Marathon, Champion (2:31:44)
+<br>2011 Torino Marathon, Fouth (2:30:55)
+<br>2012 Hong Kong Marathon, Second (2:31:44)
 
 Annex C: SCMS Race Results (2009 - 2011)
 
