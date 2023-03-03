@@ -67,18 +67,7 @@ II. Sportsboy/ Sportsgirl Meritorious Awards (Event)
 
 | S/N | AWARDEE | SPORTS |
 | -------- | -------- | -------- |
-
-| 01     | National Optimist Sailing Team at the Asian Team Racing Championship
-
-Fathin Rasyiqin Binte Mohd Firdaus
-
-Andre Chew Jann
-
-Jillian Lee Sook Ying
-
-Joshua Matthew Lim Tze Han
-
-Loh Jia Yi | Sailing
+| 01     | National Optimist Sailing Team at the Asian Team Racing Championship <br>Fathin Rasyiqin Binte Mohd Firdaus <br>Andre Chew Jann <br>Jillian Lee Sook Ying <br>Joshua Matthew Lim Tze Han <br>Loh Jia Yi | Sailing
 
 02
 
