@@ -124,66 +124,10 @@ V.         Meritorious Awards (Event)
 | 03 | Most Inspiring Sports Story of the Year | ?Not just flesh and blood, but the football HEART? by Terrence Voon from The Straits Times
 
 **MAIN AWARDS - CONTINUED**
-
- 
-
-S/N
-
-AWARD
-
-AWARDEE
-
-SPORT
-
-04
-
-Sportsboy/
-
-Sportsgirl Team of the Year (Event)
-
- 
-
- 
-
-National Optimist Sailing Team at the World Team Racing Championship
-
-Ryan Lo Jun Han
-
-Elisa Yukie Yokoyama
-
-Kimberly Lim Min
-
-Jillian Lee Sook Ying
-
-Jessica Goh Kai Ling
-
- 
-
-Sailing
-
-05
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Team of the Year (Event)
-
- 
-
-National Wushu Women's Duilian Team
-
-Tao Yi Jun
-
-Tay Yu Juan
-
-Emily Sin Min Li
+| S/N | AWARD | AWARDEE | SPORTS |
+| -------- | -------- | -------- | -------- |
+| 04    | Sportsboy/ Sportsgirl Team of the Year (Event)  | National Optimist Sailing Team at the World Team Racing Championship <br>Ryan Lo Jun Han <br>Elisa Yukie Yokoyama <br>Kimberly Lim Min <br>Jillian Lee Sook Ying <br>Jessica Goh Kai Ling  | Sailing
+| 05 | Team of the Year (Event) | National Wushu Women's Duilian Team <br>Tao Yi Jun <br>Tay Yu Juan <br>Emily Sin Min Li
 
  
 
