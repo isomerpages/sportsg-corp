@@ -4,9 +4,9 @@ permalink: /sport-leadership/game-for-life/stories-winning-at-life/
 description: ""
 third_nav_title: Game For Life
 ---
-![Coach Rafael demonstrating the need for focus when handling the ball](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Stories/RM_IMG_1286_edit.jpeg)
-
 Singapore , 21 Mar 2016
+
+![Coach Rafael demonstrating the need for focus when handling the ball](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Stories/RM_IMG_1286_edit.jpeg)
 
 **Winning at Life**
 
