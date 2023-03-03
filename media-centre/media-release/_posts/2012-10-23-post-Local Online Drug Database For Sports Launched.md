@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Local Online Drug Database For Sports Launched
-08 Oct 2012
+## **Local Online Drug Database For Sports Launched**
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Oct/LOCALONLINEDRUGDATABASEFORSPORTSLAUNCHEDMainPar0042Imagegif.gif)
 Move aimed at heightening awareness of banned substances to prevent accidental doping
 
 	
