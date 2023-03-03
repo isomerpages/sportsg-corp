@@ -145,4 +145,4 @@ Kids Dash - 750m
 
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/SC%20Marathon%20SG%20Takes%20It%20To%20The%20Next%20Level%20Following%20Gold%20Label%20CertificationIMAGE2.png)
 
-Note: For Distance Challenges - Companies / Organisations will compete based on the total distance completed by their staff / members regardless of their race category or finishing time.
+*Note: For Distance Challenges - Companies / Organisations will compete based on the total distance completed by their staff / members regardless of their race category or finishing time.*
