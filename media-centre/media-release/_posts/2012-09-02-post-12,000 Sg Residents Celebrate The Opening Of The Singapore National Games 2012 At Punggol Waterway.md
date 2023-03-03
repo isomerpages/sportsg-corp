@@ -30,7 +30,7 @@ List of SNG Baton Bearers and Pledge-Takers
 
 
 (II) List of SNG 2012 Pledge-Takers
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGRESIDENTSOFALLAGESRACESANDBCKGDSCELEBRATETHEGAMES2012MainPar0044Imagegif.gif)
 
 
 
