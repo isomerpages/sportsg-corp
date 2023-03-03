@@ -78,34 +78,34 @@ U-Lynn LEE
 
 Tanty Nazlianah ROSLI 
 <br>Singapore Sports Council 
-<br>Email: tanty_nazlianah@ssc.gov.sg
+<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
 
 Adlina JAFFAR
 <br>People's Association
-<br>Email: adlina_jaffar@pa.gov.sg
+<br>Email: [adlina_jaffar@pa.gov.sg](adlina_jaffar@pa.gov.sg)
 
 
 **About the Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
+To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sgv), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
 
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG ](www.twitter.com/Lets_PlaySG )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
-About People's Association
+**About People's Association**
+<br>
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg ](www.pa.gov.sg )and [www.OurCommunity.sg](www.OurCommunity.sg).
 
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at www.pa.gov.sg and www.OurCommunity.sg.
 
-
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGRESIDENTSOFALLAGESRACESANDBCKGDSCELEBRATEOPENOFSGNATIONALGAMES2012MainPar0042Imagegif.gif)
 Signing up for your favourite courses just got easier. Simply log on to [www.OurCommunity.sg](www.OurCommunity.sg) on your smartphone!
 
 **About Community Games**
 <br>
-The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit www.pacsc.org.sg and www.facebook.com/communitysportsclub
+The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.facebook.com/communitysportsclub](www.facebook.com/communitysportsclub)
 
 **About the Community Sports Clubs**
 <br>The Community Sports Clubs (CSCs) are part of the PA network of grassroots organisations. There are 87 constituencies in Singapore and there is a CSC in each constituency. The 87 CSCs are managed by volunteers who work with the PA to organise sports activities to facilitate the residents' participation and involvement as to build an active, vibrant and socially connected community where residents are bonded and communities are connected through community sports.
