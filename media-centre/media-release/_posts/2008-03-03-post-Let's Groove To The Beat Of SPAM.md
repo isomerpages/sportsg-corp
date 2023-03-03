@@ -29,7 +29,7 @@ Highlights At S.P.A.M Bash
 
 Enclosures:
 <br>
-Annex A - Fact sheet on S.P.A.M
+[Annex A - Fact sheet on S.P.A.M](/files/Media%20Centre/Media%20Release/2008/March/AnnexAAboutSPAM.pdf)
 
 **For media queries, please contact:**
 
