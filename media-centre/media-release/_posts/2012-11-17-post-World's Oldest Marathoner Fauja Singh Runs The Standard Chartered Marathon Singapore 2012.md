@@ -8,6 +8,8 @@ description: ""
 image: ""
 ---
 ## **World's Oldest Marathoner Fauja Singh Runs The Standard Chartered Marathon Singapore 2012**
+![](/images/Media%20Centre/Media%20Release/2012/Nov/WORLDSOLDESTMARATHONERFAUJASINGHRUNSTHESTANDARDCHARTEREDMARATHONSINGAPORE2012MainPar0028Imagegif.gif)
+
 101-year old will be running 10km for the SportCares Foundation on 2 December
 	
 
@@ -108,4 +110,3 @@ Standard Chartered has a history of more than 150 years in Singapore, opening it
 It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
 
 The Bank employs over 7,000 people in Singapore and has a network of 20 branches, 30 ATMs, and 6 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
-
