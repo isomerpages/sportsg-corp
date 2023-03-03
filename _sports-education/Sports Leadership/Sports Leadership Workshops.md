@@ -71,6 +71,6 @@ Please [register here](https://www.sportsingapore.gov.sg/athletes-coaches/coach
 
 **Payment is to be made by cash / cheque to CoachSG, 3 Stadium Drive, Singapore 397630, 3 working days before start of course.**
 
-For any enquiries on the programme, please refer to [FAQ](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Sports-Leadership-Workshops/TeamUP-Certification-FAQ) or [email us](mailto:hong_xue_en@sport.gov.sg). 
+For any enquiries on the programme, please refer to [FAQ](/sports-leadership/sports-leadership-workshops/teamup-certification-faq/) or [email us](mailto:hong_xue_en@sport.gov.sg). 
 
 Maximum Capacity is 24 pax. Registration will close once maximum capacity is reached.
