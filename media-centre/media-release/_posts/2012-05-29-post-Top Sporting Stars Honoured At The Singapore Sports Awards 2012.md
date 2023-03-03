@@ -89,42 +89,10 @@ IV.      Meritorious Awards (Individual)
 | 07 | Peter Edward Gilchrist | Cuesports
 | 08 | Victoria Chan Jing Hua | Sailing
 | 09| Danny Yeo Kai Quan | Swimming
-
-10
-
-Gao Ning
-
- 
-
-Table Tennis
-
-11
-
-Samuel Lee Wei Kang
-
- 
-
-Taekwondo
-
-12
-
-Joyce Lim Soon Yi
-
- 
-
-Taekwondo
-
-13
-
-Jason Tan Junwei
-
- 
-
-Taekwondo
-
- 
-
- 
+| 10 | Gao Ning | Table Tennis
+| 11 | Samuel Lee Wei Kang | Taekwondo
+| 12 | Joyce Lim Soon Yi | Taekwondo
+| 13 | Jason Tan Junwei | Taekwondo
 
 V.         Meritorious Awards (Event)
 
