@@ -37,7 +37,7 @@ image: ""
 
 12. The SSC is also giving away three 'I Love Team Singapore' travel packages for two to London. To win the travel package, the public has 30 days to submit their well-wishes for their favourite athletes. The contest will close on 30th June 2012.
 
-13. Two winners will be picked from the well-wishes collected from the well-wishing boxes islandwide at McDonald's, NLBs, ITEs and Velocity; and one winner will be chosen from the well-wishing mobile portal at [www.supporteamsingapore.sg](www.supporteamsingapore.sg).
+13. Two winners will be picked from the well-wishes collected from the well-wishing boxes islandwide at McDonald's, NLBs, ITEs and Velocity; and one winner will be chosen from the well-wishing mobile portal at [www.supporteamsingapore.sg](www.supporteamsingapore.sg)[www.supporteamsingapore.sg](www.supporteamsingapore.sg).
 
 14. The 2012 Olympic Games will be held in London, from 27 July to 12 August 2012 and the 2012 Paralympic Games will take place between 29 August and 9 September 2012.
 
