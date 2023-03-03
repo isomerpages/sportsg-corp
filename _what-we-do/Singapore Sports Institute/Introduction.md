@@ -13,5 +13,4 @@ SSI endeavors to be a sport institute of significance where we provide the best 
 **HIGH PERFORMANCE SPORTS**
 |**HIGH PERFORMANCE SPORTS**||
 | -------- | -------- |
-| ![](/images/IMG_95502.jpg) | Sport Singapore adopts a two pronged approach to high performance sports: in part, supporting existing high performance sports and also planning for development into other areas.     |
-[Read More](/what-we-do/singapore-sports-insitute/athlete-life-coaching/){:target="_blank"}
+| ![](/images/IMG_95502.jpg) | Sport Singapore adopts a two pronged approach to high performance sports: in part, supporting existing high performance sports and also planning for development into other areas.<br/>[Read More](/what-we-do/singapore-sports-insitute/athlete-life-coaching/)|
