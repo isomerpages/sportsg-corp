@@ -18,3 +18,9 @@ As part of the CoP efforts to become an accessible platform where practitioners
 *Ms Teo Siew Lan, PE teacher & Volleyball coach sharing on her best practices for character & leadership development through volleyball*
 
 Ms Teo Siew Lan, PE teacher and volleyball coach from St Hilda Secondary shared with the CoP how she uses volleyball as a platform to not only produce champions on court but champions in life. To her, shaping the hearts and minds of her young charges is paramount and supersedes winning on court. Ms Teo shared on approaches she has adopted in her coaching to encourage the character development through sport process such as reflective practices and also how she approaches the development of her student athletes from a holistic angle where she unpacked how the consideration of an athlete’s body, mind and spirt is important to the individual’s success.
+
+![Azhar](/images/Sport%20Leadership%20Latest/GFL%20CoP/Azhar.jpeg)
+
+*Mr Mohammed Azhar Bin Yusof, Deputy Director of Coach Development, CoachSG sharing on his sporting experiences as an athlete to a teacher, coach and paren*t
+
+Mr Mohammed Azhar Bin Yusof, Deputy Director of Coach Development in CoachSG shared on how his coaching beliefs and philosophies have been shaped over the years through various experiences in sport as an athlete, teacher, coach and also a parent. He emphasized on how these beliefs and philosophies undergird one’s actions as what teachers and coaches say and do has an impact on student athletes under their care. This realization was cemented through his interactions with his coaches as an athlete over the years where their leadership has left a significant impact in his life.
