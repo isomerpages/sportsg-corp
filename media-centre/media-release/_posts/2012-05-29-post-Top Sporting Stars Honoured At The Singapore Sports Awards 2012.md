@@ -43,11 +43,10 @@ The winners are:
 8. The SSA is our country's most prestigious recognition for our athletes since its introduction in 1967. Honouring our athletes' achievements and contributions, the SSA pays tribute to our athletes who have gone head to head with some of the best in the world to bring glory to our country.
 
 -END-
-Annex A - List of Awardees
 
- 
+**Annex A - List of Awardees
 
-Meritorious Awards
+Meritorious Awards**
 
  
 
