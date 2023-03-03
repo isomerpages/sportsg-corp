@@ -6,12 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Merry Marathon: Festive Cheer To Greet Singapore Runners At SCMS 2012
-29 Oct 2012
-
-
+## **Merry Marathon: Festive Cheer To Greet Singapore Runners At SCMS 2012**
 	
-Singapore, 29 October 2012 - December is traditionally associated with the Christmas festive season. Come 2 December 2012, this festive cheer will find its way into Singapore's pinnacle running event - the Standard Chartered Marathon Singapore.
+**Singapore, 29 October 2012** - December is traditionally associated with the Christmas festive season. Come 2 December 2012, this festive cheer will find its way into Singapore's pinnacle running event - the Standard Chartered Marathon Singapore.
 
 2. Volunteers and organisers decked in festive costumes and accessories, festive music performances along the running route and best dressed festive themed runners competitions - these are just some of the things runners and supporters can look forward to at this year's marathon.
 
@@ -52,9 +49,9 @@ Singapore, 29 October 2012 - December is traditionally associated with the Chris
 Enclosures
 
 Annex A: Race Information
-
+![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0042Imagegif.gif)
 Annex B: SCMS 2012 Baggage Deposit and Collection Locations and Timings
-
+![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0043Imagegif.gif)
 **Annex C: SCMS 2012 Route Maps**
 
 [SCMS 2012 Route Maps [496 Kb]](/files/Media%20Centre/Media%20Release/2012/Oct/SCMS%202012%20Route%20Mapspdf.pdf)
