@@ -20,13 +20,13 @@ image: ""
 * Member - Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
 * Member - Mr Yam Ah Mee, Chief Executive Director, People's Association
 
-New appointments
-Member - Mr Kon Yin Tong, Managing Partner, Foo Kon Tan Grant Thornton LLP
-Member - Mr Lim Eng Lee, Chief Operating Officer, NTUC Club
-Member - Mr Hugh Lim, Deputy Secretary-designate, Ministry of Culture, Community and Youth
-Member - Mr Razali Saad, Former Captain, National Football Team; General Manager, J Oasis Logistics Pte Ltd
-Member - Prof Tan Cheng Han, Professor & immediate past Dean NUS Faculty of Law. Advisor Singapore Taekwondo
-Member - Ms Jessica Tan Soon Neo, General Manager, Microsoft (Asia Pacific). President, Netball Singapore
+**New appointments**
+* Member - Mr Kon Yin Tong, Managing Partner, Foo Kon Tan Grant Thornton LLP
+* Member - Mr Lim Eng Lee, Chief Operating Officer, NTUC Club
+* Member - Mr Hugh Lim, Deputy Secretary-designate, Ministry of Culture, Community and Youth
+* Member - Mr Razali Saad, Former Captain, National Football Team; General Manager, J Oasis Logistics Pte Ltd
+* Member - Prof Tan Cheng Han, Professor & immediate past Dean NUS Faculty of Law. Advisor Singapore Taekwondo
+* Member - Ms Jessica Tan Soon Neo, General Manager, Microsoft (Asia Pacific). President, Netball Singapore
 
 Out-going members
 Member - BG Chia Choon Hoong, Commander 9 Div/Chief Infantry Officer, Ministry of Defence
