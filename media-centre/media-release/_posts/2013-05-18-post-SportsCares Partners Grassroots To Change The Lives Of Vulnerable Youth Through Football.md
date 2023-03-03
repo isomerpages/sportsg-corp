@@ -18,6 +18,7 @@ image: ""
 
 **Leveraging partnerships with grassroots organisations**
 	![](/images/Media%20Centre/Media%20Release/2013/May/SPORTCARESPARTNERSGRASSROOTSTOCHANGELIVESOFVULNERABLEYOUTHTHROUGHFOOTBALLMainPar0053Imagegif.gif)
+	
 4. Over the past eight weeks, three groups of youth from the Beacon of Life Football Academy (BOLA) in Taman Jurong, Henderson Free Kicks Programme and Delta League from Jurong Springs have been participating in a pilot run of the SNL football programme. The teams' involvement was a result of ongoing partnerships between SportCares and grassroots organisations.
 
 5. BOLA for instance, is an initiative by residents of Taman Jurong, with Deputy Prime Minister Tharman Shanmugaratnam serving as Patron. The recently-formed academy is helmed by a volunteer group comprising ex-offenders and community-minded volunteers who believe in the power of sport and education to transform lives.
@@ -33,9 +34,9 @@ image: ""
 9. The SNL pilot may have been running for just eight weeks, but organisers and volunteers are already seeing positive changes in character in the boys.
 
 10. Ms Laura Reid, Assistant Director, SportCares Foundation, Singapore Sports Council, said: "We are seeing flashes of self-belief and confidence from our most vulnerable group of boys who came into SNL with very little of either. We can feel the team spirit emanating from the teams when they cheer each other on during the friendly matches at the end of the night. We know they are more committed to self-improvement, as evidenced by the deeper effort they are putting into their training. We know that for a fact because they are drinking double the amount of water during the night than when they first started eight weeks ago!"
-
+. 
 **Future plans**
-<br>
+
 11. With the completion of this pilot run, Ms Reid hopes to see SNL grow and reach out to more communities. She said: "We look forward to introducing the programme to other regions in Singapore. In the longer term, we also hope to adapt the programme for other sports such as basketball or floorball."
 
 12. For more information on how to contribute to SportCares as a partner or volunteer, please send an email to sportcares@ssc.gov.sg.
