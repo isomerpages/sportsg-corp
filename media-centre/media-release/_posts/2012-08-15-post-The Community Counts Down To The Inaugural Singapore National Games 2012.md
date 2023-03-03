@@ -18,14 +18,14 @@ Singapore, 15 August 2012 - With 16 days to go to the start of the inaugural Sin
 
 3. Sharing his thoughts on the Community Games 2012 held from 15 April to 15 July 2012 that led to the first edition of the SNG, Chief Executive Director of PA, Mr Yam Ah Mee said, "The Community Games has successfully seen over 1,000 teams comprising residents from both public and private estates of all ages, races and backgrounds enjoying and competing in the seven sports as a community while forming relationships. I am sure the strong community spirit will continue throughout the SNG as we see more sporting heroes from the different communities coming together to participate in the friendly games."
 
-SNG Opening and Closing Ceremonies
-
+**SNG Opening and Closing Ceremonies**
+<br>
 4. The SNG opening ceremony will be held for the first time at Punggol Waterway on Saturday, 1 September 2012. Prime Minister Lee Hsien Loong will join an estimated 6,000 community athletes, officials and Singapore residents, to officially declare the opening of the first-ever national level multi-sport Games. The opening ceremony presents an opportunity for all participants, volunteers and supporters from 15 clusters across Singapore to come together to welcome the Games.
 
 5. The SNG 2012 will come to a close on Sunday, 9 September 2012 at Bishan Stadium. President Tony Tan will grace the closing ceremony with interactive and fun games to engage the athletes, supporters and residents who have been connected through the Games.
 
-Pre-SNG Engagements
-
+**Pre-SNG Engagements**
+<br>
 6. Leading up to the Games, an island-wide Baton Relay will be held in conjunction with the One Community Walk (OCW), organised by the PA, the Community Sports Club Council and the Community Sports Clubs (CSCs), on Sunday, 26 August 2012. The OCW aims to foster community bonding by bringing residents of different ages, races and living in all estates together. A baton relay team, comprising 20 baton bearers will be walking a distance of about two to three kilometers in each constituency. In total, 1,740 baton bearers from 87 constituencies will kick off at the same time at the OCW. This signifies the community's involvement for the Games and encourages all community athletes and officials to bond and build friendships through sports.
 
 7. To heighten the mood and celebrate a special five-day countdown to the start of the SNG, a 'Spot-the-Nila' contest will be held via SNG Facebook from 27 to 31 August 2012, where the public is invited to spot Nila or any of the 15 cluster mascots around Singapore and get a chance to win an exclusive SNG souvenir. Details of the contest are available at the SNG Facebook page at www.facebook.com/singaporenationalgames.
