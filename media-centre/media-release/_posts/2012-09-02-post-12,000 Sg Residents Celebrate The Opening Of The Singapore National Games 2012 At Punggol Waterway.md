@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 ## **12,000 Singapore Residents Of All Ages, Races And Backgrounds Celebrate The Opening Of The Singapore National Games 2012 At Punggol Waterway**
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGERESIDENTSOFALLAGESRACESANDBCKGDSCELEBRATEOPENOFTHESGNATIONALGAMES2012MainPar0061Imagegif.gif)
 	
 **Singapore, 1 September 2012** - About 12,000 people comprising residents, athletes and volunteers from all walks of life were part of the inaugural Singapore National Games (SNG) 2012 Opening Ceremony at Punggol Waterway this evening, jointly organised by the People's Association (PA) and Singapore Sports Council (SSC). The event brought residents of different races, ages and backgrounds from all over Singapore to celebrate the opening of the first-ever SNG together, demonstrating the 'We are One' Singapore Spirit at the same time.
 
@@ -67,7 +67,7 @@ WATER CONTINGENT SAIL PAST DURING SNG 2012 OPENING CEREMONY AT PUNGGOL WATERWAY
 * Cluster identity and passion and love for SNG
 
 WHEN WILL THE RESULTS OF THE AWARDS BE ANNOUNCED?
-![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGERESIDENTSOFALLAGESRACESANDBCKGDSCELEBRATEOPENOFTHESGNATIONALGAMES2012MainPar0061Imagegif.gif)Results will be announced after the closing ceremony of the SNG 2012 on 9 September 2012 at Bishan Stadium.
+<br>Results will be announced after the closing ceremony of the SNG 2012 on 9 September 2012 at Bishan Stadium.
 
 
 **For media enquiries, please contact:**
