@@ -110,45 +110,9 @@ V.         Meritorious Awards (Event)
 | 10  | National Bowling Team<br>Geraldine Ng Su Yi <br>Shayna Ng Lin Zhi <br>Jason Yeong-Nathan <br>Remy Ong | Bowling
 | 11  | National Shooting 10m Air Rifle Women's Team <br>Jasmine Ser Xiang Wei <br>Cheng Jian Huan <br>Sally Li Yafei | Shooting
 | 12  | National Swimming 4x100m Freestyle Relay Men's Team <br>Russell Ong Kai Yi <br>Danny Yeo Kai Quan <br>Clement Lim Yong'En <br>Arren Quek Xin Hui| Swimming
-| 13
-| 14
-
-National Swimming 4x100m Freestyle Relay Women's Team
-
-&
-
-National Swimming 4x200m Freestyle Relay Women's Team
-
-Koh Hui Yu
-
-Mylene Ong Chui Bin
-
-Amanda Lim Xiang Qi
-
-Tao Li
-| Swimming
-| 15
-
-National Table Tennis Women's Team
-
-Feng Tianwei
-
-Wang Yuegu
-
-Yu Mengyu
-
-Sun Beibei
-
-Li Jiawei
-| Table Tennis
-| 16
-
-National Table Tennis Men's Doubles Team
-
-Ma Liang
-
-Pang Xuejie
-| Table Tennis
+| 13 <br>14 | National Swimming 4x100m Freestyle Relay Women's Team <br>&<br>National Swimming 4x200m Freestyle Relay Women's Team <br>Koh Hui Yu <br>Mylene Ong Chui Bin <br>Amanda Lim Xiang Qi <br>Tao Li | Swimming
+| 15 | National Table Tennis Women's Team <br>Feng Tianwei <br>Wang Yuegu <br>Yu Mengyu <br>Sun Beibei <br>Li Jiawei | Table Tennis
+| 16 |  National Table Tennis Men's Doubles Team <br>Ma Liang <br>Pang Xuejie | Table Tennis
 | 17
 
 National Swimming 4x100m Medley Relay Women's Team
