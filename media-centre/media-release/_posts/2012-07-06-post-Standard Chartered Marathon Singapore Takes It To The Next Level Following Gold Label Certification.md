@@ -77,7 +77,7 @@ Journey Fitness Company
 Official Website: www.marathonsingapore.com  
 <br> Official Facebook Page: www.facebook.com/MarathonSG  
 <br> Official YouTube Channel: www.youtube.com/SCMarathonSingapore  
-
+<br>
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
 Race Categories:
