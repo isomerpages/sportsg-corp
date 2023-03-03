@@ -42,7 +42,6 @@ Sporting Heroes
 -END-
 
 Annex A: Team Singapore Performance at London 2012
-
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/RECORDOLYMPICMEDALHAULFORTEAMSINGAPOREMainPar0051Imagegif.gif)
 
 **For media enquiries, please contact:**
