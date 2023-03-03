@@ -50,3 +50,18 @@ Why should I use this resource?
 * As a check-in before your training sessions / during your huddle
 * As an independent team activity to reinforce the team’s culture and values
 * Click on the links below to access individual stories!
+
+<hr>
+**Praise for 'GAME FOR LIFE'**
+
+*"Game for Life: 25 Journeys' provides inspiring real life stories of the power of sport for transforming lives. This alone makes it a wonderful read. Moreover, it goes beyond these stories by posing reflective questions that make the reader think about how sport can shape his or her life.*
+  
+I believe that 'Game for Life: 25 Journeys' is not only a must read for athletes but also for sport parents and coaches. Teachers will also find the book to be a great starting point for young people to discuss what they are experiencing in sport and how these experiences can result in important life lessons. Young people will reap much more from this book if they reflect on its content and engage in discussions about their sport experiences and how those experiences are best interpreted to maximise psychological growth.  
+  
+So, don't just read this book. Reflect on the questions posed and lessons that sport has taught others. Think about what sport is teaching you and discuss it with fellow participants and your coaches."_
+
+**Daniel Gould, PhD.**  
+Professor and Director  
+Institute for the Study of Youth Sports  
+Michigan State University
+<hr>
