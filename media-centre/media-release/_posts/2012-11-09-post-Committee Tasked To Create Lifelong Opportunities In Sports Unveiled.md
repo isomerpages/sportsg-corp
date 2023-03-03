@@ -60,9 +60,8 @@ Coordinating the development of sports spaces
 
 -END-
 
-**Enclosures: Annex A - Sports Pathways Committee Member**s
-
-**Chairman**
+**Enclosures: Annex A - Sports Pathways Committee Member**
+<br>**Chairman**
 <br>Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council
 
 **Members**
