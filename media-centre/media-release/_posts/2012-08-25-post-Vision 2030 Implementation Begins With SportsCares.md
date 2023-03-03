@@ -58,16 +58,16 @@ Growing Capabilities. Giving Back. Changing Lives.
 
 Join the SportCares Movement by emailing: sportcares@ssc.gov.sg
 
-For media enquiries, please contact:
-Jemuel Fu
-Executive, Media Relations
-Singapore Sports Council
-Email: jemuel_fu@ssc.gov.sg
+**For media enquiries, please contact:**
+<br>Jemuel Fu
+<br>Executive, Media Relations
+<br>Singapore Sports Council
+<br>Email: jemuel_fu@ssc.gov.sg
 
 S. Parameswaran (Parames)
-Assistant Director, Media Relations
-Singapore Sports Council
-Email: parames_seenivasagam@ssc.gov.sg
+<br>Assistant Director, Media Relations
+<br>Singapore Sports Council
+<br>Email: parames_seenivasagam@ssc.gov.sg
 
 
 **About the Singapore Sports Council**
