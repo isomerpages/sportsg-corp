@@ -15,17 +15,17 @@ image: ""
 
 3. The SPC will focus on coordinating and integrating policies and programmes across organisations. It will cover, amongst other things:
 
-Developing integrated pathways to create sports champions
+**Developing integrated pathways to create sports champions**
 * rationalising and optimising national competition frameworks and schedules
 * -developing a national talent identification and development framework
 * integrating the work of National Sports Associations with the school sports system
 * introducing a more integrated academic and sporting curriculum in schools that allows more students to achieve both academic and sporting excellence
 
-Inculcating values and character through sport
+**Inculcating values and character through sport**
 - Introducing National Standards for Youth Sport (see details below) for youth 18 years and under to enjoy sports and grow through participation in sports
 - Introducing programmes in schools that will promote the values of resilience, fair play, teamwork, leadership, sportsmanship and a winning spirit
 
-Creating more opportunities for recreational sports in schools
+**Creating more opportunities for recreational sports in schools**
 - Including a review of how to leverage and enhance existing programmes such as
 - Sports Education Programme (*1)
 - Super Sports Clubs (*2)
