@@ -52,13 +52,10 @@ Ms Grace Fu, Minister in the Prime Minister's Office & Second Minister for Envir
 
 Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports & Member of Parliament for Jurong GRC
 
-Mr Ang Wei Neng, Member of Parliament for Jurong GRC
-
-Mr Desmond Lee, Member of Parliament for Jurong GRC
-
-Mr David Ong, BBM, Member of Parliament for Jurong GRC
-
-Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
+<br>Mr Ang Wei Neng, Member of Parliament for Jurong GRC
+<br>Mr Desmond Lee, Member of Parliament for Jurong GRC
+<br>Mr David Ong, BBM, Member of Parliament for Jurong GRC
+<br>Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
 
 Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of <br>Parliament for Chua Chu Kang GRC
 
