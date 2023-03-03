@@ -53,8 +53,9 @@ Annex A: Race Information
 
 Annex B: SCMS 2012 Baggage Deposit and Collection Locations and Timings
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0043Imagegif.gif)
-**Annex C: SCMS 2012 Route Maps**
 
+**Annex C: SCMS 2012 Route Maps**
+<br>
 [SCMS 2012 Route Maps [496 Kb]](/files/Media%20Centre/Media%20Release/2012/Oct/SCMS%202012%20Route%20Mapspdf.pdf)
 
 **For media enquiries, please contact:**
