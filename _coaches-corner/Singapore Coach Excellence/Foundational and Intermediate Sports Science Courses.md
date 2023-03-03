@@ -4,3 +4,14 @@ permalink: /coaches-corner/singapore-coach-excellence/foundational-and-intermedi
 description: ""
 third_nav_title: Singapore Coach Excellence
 ---
+**The Foundational Sports Science (FSS)** course equips its participants with the sports science knowledge to coach novice participants in community and / or youth sport, while the Intermediate Sports Science (ISS) course equips its participants with the sports science knowledge to coach competitive athletes in their early years of competition.
+
+Both courses are part of the Singapore Coach Excellence (SG-Coach) Programme, and replace the Basic Sports Science (BSS) course.
+
+**Course Information and Registration**
+
+Further information on both courses will be **updated on this webpage at a later date.**
+
+**[Foundational / Intermediate Sports Science Course Waivers](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Singapore-Coach-Excellence-Programme-SG-Coach/Foundational-and-Intermediate-Sports-Science-Courses/Foundational-and-Intermediate-Sports-Science-Course-Waivers)**
+
+Waiver and exam-only pathways are given to graduates with relevant qualifications. Please click above link for full list.
