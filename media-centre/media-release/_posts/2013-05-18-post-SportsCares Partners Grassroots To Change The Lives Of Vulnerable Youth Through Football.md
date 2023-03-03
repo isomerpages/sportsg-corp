@@ -7,10 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-SportsCares Partners Grassroots To Change The Lives Of Vulnerable Youth Through Football
-18 May 2013
-
-
+## **SportsCares Partners Grassroots To Change The Lives Of Vulnerable Youth Through Football**
+![](/images/Media%20Centre/Media%20Release/2013/May/SSCANDSMUJOINFORCESTOINSTILLVALUESINYOUTHTHROUGHSPORTSMainPar0061Imagegif.gif)
 	
 Singapore, 18 May 2013 - The SportCares Foundation, the philanthropic arm of Singapore Sports Council (SSC), today officially launched a football programme in Jurong to change the lives of underprivileged and at-risk youth, in partnership with local grassroots organisations. Known as Saturday Night Lights (SNL), the programme exemplifies the work being done by SportCares to help people live better through sports. SportCares was the first recommendation to be put into action under the Vision 2030 sports masterplan.
 
