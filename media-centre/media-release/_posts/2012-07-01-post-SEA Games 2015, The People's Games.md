@@ -13,7 +13,7 @@ image: ""
 
 *28th SEA Games Steering Committee Kicks Off Inaugural Meeting*
 
-Singapore, 1 July 2012 - Taxi drivers, school children and youth, families, seniors, working adults, volunteers, corporate head honchos, volunteer welfare groups - these are just some of the groups the 28th Southeast Asian (SEA) Games Steering Committee hopes to see participating actively and enjoying the 28th SEA Games to be held in Singapore in 2015.
+**Singapore, 1 July 2012** - Taxi drivers, school children and youth, families, seniors, working adults, volunteers, corporate head honchos, volunteer welfare groups - these are just some of the groups the 28th Southeast Asian (SEA) Games Steering Committee hopes to see participating actively and enjoying the 28th SEA Games to be held in Singapore in 2015.
 
 2. Acting Minister for Community Development, Youth and Sports, Mr Chan Chun Sing, who chairs the Games' Steering Committee said, "2015 is a special year. We are privileged to be hosting the SEA Games, the region's largest multi-sport extravaganza, on the 50th anniversary of Singapore's independence. SEA Games 2015 will allow us to extend our hand of friendship to our Southeast Asian neighbours."
 
@@ -43,21 +43,11 @@ Annex A: 28th SEA Games Steering Committee Members
 
 
 Chairman
+1. Mr Chan Chun Sing
+<br>Acting Minister for Community Development, Youth and Sports Minister of State, Ministry of Information, Communications and the Arts
 
- 
-
-1.     Mr Chan Chun Sing
-
-Acting Minister for Community Development, Youth and Sports
-
-Minister of State, Ministry of Information, Communications and the Arts
-
- 
-
-Members
-
- 
-
+**Members**
+<br>
 2.     Mr Mohamed Abdul Jaleel
 
 Founder and Chief Executive Officer, Mini Environment Service Group
