@@ -136,7 +136,7 @@ For full information (full listings, venues and dates) on the Singapore National
 Annex D: Fact Sheet on Clusters and Teams
 
 The Singapore National Games saw more than 5,000 community athletes from 15 clusters competing across 10 sports from 1 to 9 September 2012. Each cluster was led by the respective Head of Delegation.
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0059Imagegif.gif)
 
 
 **For media enquiries, please contact:**
