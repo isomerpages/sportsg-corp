@@ -52,20 +52,20 @@ Singapore Sports Hub image: https://www.yousendit.com/download/UVJqZm1RYTJGOFJWe
 WTA Player congratulatory video: http://youtu.be/vlepn4PqVwA
 
 
-For media enquiries, please contact: 
+**For media enquiries, please contact: **
 
-Andrew Walker, WTA, +44 7825 152 361, awalker@wtatennis.com
-
-Chris Wallace, WTA, +1.727.502.1234, cwallace@wtatennis.com
-
-Shyamala Velappan, WSG, +65 6826 2688, s.velappan@wsgworld.com
+Andrew Walker, WTA, +44 7825 152 361, [awalker@wtatennis.com](awalker@wtatennis.com)
+<br>
+Chris Wallace, WTA, +1.727.502.1234, [cwallace@wtatennis.com](cwallace@wtatennis.com)
+<br>
+Shyamala Velappan, WSG, +65 6826 2688, [s.velappan@wsgworld.com](s.velappan@wsgworld.com)
 
 
 **About the WTA**
 <br>
 The WTA is the global leader in women's professional sport with more than 2,500 players representing 92 nations competing for more than $100 million in prize money at the WTA's 54 events and four Grand Slams in 33 countries. More than 5.4 million people attended women's tennis events in 2012 with millions more watching on television and digital channels around the world. The 2013 WTA competitive season concludes with the TEB BNP Paribas WTA Championships in Istanbul, Turkey, October 22-27, and the Qatar Airways Tournament of Champions in Sofia, Bulgaria, October 29- November 3.
 
-Further information on the WTA can be found on www.wtatennis.com, facebook.com/WTA and twitter.com/WTA.
+Further information on the WTA can be found on [www.wtatennis.com](www.wtatennis.com), [facebook.com/WTA ](facebook.com/WTA )and [twitter.com/WTA](twitter.com/WTA).
 
 WTA
 <br>100 Second Avenue
