@@ -40,8 +40,6 @@ Each workshop will cover:
 * Experiential segment infusing GFL framework in designing training plans
 * Sharing and networking with teachers/coaches from other sports
 
-[Read more](https://www.sportsingapore.gov.sg/sports-education/sports-leadership/latest) on what happened during the past GFL workshops!
-
 *SportSG has partnered Republic Polytechnic for the conduct of the workshops. You will be directed to Republic Polytechnic's site for registration and upcoming workshop dates upon clicking the link [here.](https://www.rp.edu.sg/ace/short-course/Detail/game-for-life)*
 
 #### **Game For Life Community of Practice (CoP)**
