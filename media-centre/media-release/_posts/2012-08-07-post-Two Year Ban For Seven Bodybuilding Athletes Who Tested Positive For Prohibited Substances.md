@@ -7,11 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-Two-Year Ban For Seven Bodybuilding Athletes Who Tested Positive For Prohibited Substances
-07 Aug 2012
+## **Two-Year Ban For Seven Bodybuilding Athletes Who Tested Positive For Prohibited Substances**
 
-
-Singapore, 7 August 2012 - Following in-competition testing at the 50th Singapore National Bodybuilding and Physique Sports Championship 2012 on 1 July 2012, seven out of the eight bodybuilding athletes tested were found positive for banned substances under the 2012 Prohibited List.
+**Singapore, 7 August 2012** - Following in-competition testing at the 50th Singapore National Bodybuilding and Physique Sports Championship 2012 on 1 July 2012, seven out of the eight bodybuilding athletes tested were found positive for banned substances under the 2012 Prohibited List.
 
 2. Anti-Doping Singapore (ADS) notified the athletes that they may have committed a possible Anti-Doping Rule Violation (ADRV) on 25 July 2012. The athletes were given the right to request for their B sample to be analysed to confirm the adverse analytical finding from their A sample. However, none of the seven athletes responded by the deadline on 31 July 2012.
 
