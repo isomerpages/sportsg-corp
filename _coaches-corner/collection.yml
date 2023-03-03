@@ -2,6 +2,8 @@ collections:
   coaches-corner:
     output: true
     order:
+      - Singapore Coach Excellence/Singapore Coach Excellence (SG Coach)
+        Programme Introduction.md
       - Singapore Coach Excellence/.keep
       - Continuing Coach Development/Coaching Learning Resources.md
       - Continuing Coach Development/Continuing Coach Education (CCE).md
