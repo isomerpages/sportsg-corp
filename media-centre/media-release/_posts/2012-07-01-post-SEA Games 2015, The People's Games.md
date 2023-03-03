@@ -39,8 +39,7 @@ image: ""
 
 -END-
 
-Annex A: 28th SEA Games Steering Committee Members
-
+**Annex A: 28th SEA Games Steering Committee Members**
 
 **Chairman**
 <br> Mr Chan Chun Sing
