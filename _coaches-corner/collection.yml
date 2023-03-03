@@ -2,6 +2,8 @@ collections:
   coaches-corner:
     output: true
     order:
+      - Singapore Coach Excellence/Foundational Intermediate Sports Science
+        Course Waivers.md
       - Singapore Coach Excellence/Foundational and Intermediate Sports Science
         Courses.md
       - Singapore Coach Excellence/Singapore Coach Excellence (SG Coach)
