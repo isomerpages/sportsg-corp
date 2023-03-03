@@ -2,7 +2,6 @@ collections:
   support:
     output: true
     order:
-      - Sports Participation in Singapore.md
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/NROC Sports.md
       - ActiveSG Programme Partnership/Other Sports.md
@@ -20,5 +19,6 @@ collections:
       - FMS trainer at Nurture Kids.md
       - Sport Data Exchange Singapore.md
       - Support for Sport Businesses (Grants).md
+      - Sports Participation in Singapore.md
       - SportSG ED.md
       - Covid19.md
