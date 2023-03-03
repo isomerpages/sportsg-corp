@@ -9,8 +9,6 @@ image: ""
 ---
 ### **Fans In For A Treat As Australian Professional National Basketball League Settles In Singapore For The 1st Time**
 
-League to feature Singapore based team for the 1st time backed by Australian private sector led consortium in bid to bring thriving league to Asia
-
 Come September this year, basketball fans will be in for a treat as they get to watch live professional basketball action from the Australian National Basketball League (NBL) right here on Singapore soil at the Singapore Indoor Stadium (SIS) over the next five years. Sixteen of the annual 33 league matches will be played in Singapore over a season spanning seven months with the remaining games being played in Australia. This was revealed today at a joint press conference held simultaneously in Singapore and Sydney.
 
 In the most significant move in its 28-year history, the NBL will also be including a Singapore based team as of the 2006/07 season. The initiative is spearheaded by an Australian private sector led ownership group, Singapore Basketball Enterprises (SBE), in a bid to bring the thriving Australian NBL to Asia. The Singapore Indoor Stadium will be the home base for the team.
