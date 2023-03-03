@@ -51,8 +51,8 @@ OBJECTIVES
 
 WATER CONTINGENT SAIL PAST DURING SNG 2012 OPENING CEREMONY AT PUNGGOL WATERWAY
 
-1 Each Cluster will have two rafts to participate in the water contingent Sail Past. All clusters are required to design one raft based on the selected sports theme and the other raft based on cluster identity.
-2 The water contingent will row through the Punggol Waterway from the start point to the kayak point where the whole parade will end. Approximate distance is 1.2km.
+1.  Each Cluster will have two rafts to participate in the water contingent Sail Past. All clusters are required to design one raft based on the selected sports theme and the other raft based on cluster identity.
+2.  The water contingent will row through the Punggol Waterway from the start point to the kayak point where the whole parade will end. Approximate distance is 1.2km.
 
 **CRITERIA**
 * Each Cluster will have to construct and decorate the two Rafts, where each raft is made of 4 Double Open Top Kayaks and a Triple Kayak in the middle.
