@@ -76,11 +76,11 @@ The Community Challenge Shield is an Overall Award accorded to recognise the Clu
 The Overall Award comprises four categories, they are as follows:-
 (a) **Best Decorated Cluster** - Clusters which have done well in decorating their competition venues i.e. Community Clubs;
 
-(b) Best Cheerleading Cluster - Clusters which have done well in organising cheerleading groups to enliven the Games;
+(b) **Best Cheerleading Cluster** - Clusters which have done well in organising cheerleading groups to enliven the Games;
 
-(c) Best Supporter Cluster - Clusters which have done well in reaching out and involving their residents as supporters for their clusters' teams during the Games; and
+(c) **Best Supporter Cluster** - Clusters which have done well in reaching out and involving their residents as supporters for their clusters' teams during the Games; and
 
-(d) Best Volunteer Group - Volunteer groups' active involvement and their contributions to the Games.
+(d) **Best Volunteer Group** - Volunteer groups' active involvement and their contributions to the Games.
 
 The winners of the four categories will be given points based on a points system, where the cluster with the highest accumulative points won from the four categories will be declared the Overall Winner of the Community Challenge Shield.
 
