@@ -11,9 +11,8 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/WORLDSOLDESTMARATHONERFAUJASINGHRUNSTHESTANDARDCHARTEREDMARATHONSINGAPORE2012MainPar0028Imagegif.gif)
 
 101-year old will be running 10km for the SportCares Foundation on 2 December
-	
 
-Singapore, 17 November 2012 - Fauja Singh, believed to be the world's oldest marathoner at 101 years old, will be participating in the Standard Chartered Marathon Singapore on Sunday, 2 December 2012.
+**Singapore, 17 November 2012** - Fauja Singh, believed to be the world's oldest marathoner at 101 years old, will be participating in the Standard Chartered Marathon Singapore on Sunday, 2 December 2012.
 
 2. The British centenarian marathoner will be running in the 10km race with his son, Sukhjinder Singh, 53, while four others from their running group, Sikhs In The City (SITC), will be participating in the full marathon in Singapore.
 
@@ -29,6 +28,7 @@ Singapore, 17 November 2012 - Fauja Singh, believed to be the world's oldest mar
 http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation
 
 -END-
+
 Enclosed:
 
 Annex: Fact Sheet of Mr Fauja Singh
