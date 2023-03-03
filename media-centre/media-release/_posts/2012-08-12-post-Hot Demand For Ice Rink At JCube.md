@@ -60,23 +60,23 @@ Mr David Ong, BBM, Member of Parliament for Jurong GRC
 
 Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
 
-Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Chua Chu Kang GRC
+Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of <br>Parliament for Chua Chu Kang GRC
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Jemuel Fu
-Executive, Media Relations
-Singapore Sports Council
-Email: jemuel_fu@ssc.gov.sg
+<br>Executive, Media Relations
+<br>Singapore Sports Council
+<br>Email: jemuel_fu@ssc.gov.sg
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
-
+<br>
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-
+<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
