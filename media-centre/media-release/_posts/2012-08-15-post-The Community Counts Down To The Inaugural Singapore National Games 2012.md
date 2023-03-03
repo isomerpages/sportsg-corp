@@ -9,9 +9,9 @@ image: ""
 ## **The Community Counts Down To The Inaugural Singapore National Games 2012**
 
 
-Close To 5,000 People Are Expected To Play in 10 Sports Across The Island To Ignite Passion, Bond and Build Friendship in the Games!
+*Close To 5,000 People Are Expected To Play in 10 Sports Across The Island To Ignite Passion, Bond and Build Friendship in the Games!*
+![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0061Imagegif.gif)
 
-	
 Singapore, 15 August 2012 - With 16 days to go to the start of the inaugural Singapore National Games (SNG), Steering Committee chairmen, Mr Lim Teck Yin, Chief Executive Officer (CEO) of Singapore Sports Council (SSC) and Mr Yam Ah Mee, Chief Executive Director (CED) of People's Association (PA), rallied the community to support and cheer on their neighbours of all ages, races and estates at the Games, from 1 to 9 September 2012. More details of this milestone community sporting event were also shared by the SNG Organising Committee today.
 
 2. Commenting on the Games as the start draws closer, Mr Lim Teck Yin, CEO of SSC said, "The first-ever opening ceremony of the Singapore National Games represents a significant milestone in the history of Sporting Singapore and it is a reflection of the growing popularity of community sports in Singapore and the way it bonds people and brings the community together. We look forward to watching Singapore's sporting spirit in action and wish our community athletes all the best at the Games!"
