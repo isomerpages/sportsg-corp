@@ -12,7 +12,7 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2013/Jan/UPDATEONMDASSCJOINTPUBLICCONSULTATIONFORANTISIPHONINGLISTMainPar0042Imagegif.gif)
 
 The List classifies the programmes into two categories:
-
+<br>
 (a) Category A: Pay-TV retailers cannot acquire exclusive "live" or "delayed" rights to broadcast all or part of the programme; and
 <br>
 (b) Category B: Pay-TV retailers can acquire exclusive "live" rights, but not exclusive "delayed" rights to broadcast all or part of the programme.
