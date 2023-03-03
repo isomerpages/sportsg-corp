@@ -25,7 +25,7 @@ image: ""
 6. "Fauja has inspired many around the world with his races and we are truly honoured to have him run in the Standard Chartered Marathon Singapore. Sport has the power to change lives and by running for the SportCares Foundation, Fauja will be inspiring many individuals and corporate supporters to make a difference to those in need." said Mr Toh Boon Yi, Chief, Strategic Development & Marketing Group, Singapore Sports Council and Deputy Chairman of the SCMS 2012 organising committee. "Fauja personifies the Vision 2030 philosophy that people can live better through sports."
 
 7. Donors who would like to contribute to Fauja's cause may do so at:
-http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation
+[http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation](http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation)
 
 -END-
 
@@ -34,25 +34,25 @@ Enclosed:
 Annex: Fact Sheet of Mr Fauja Singh
 
 Name: Fauja Singh
-Date of birth: 1 April 1911
-Place of birth: India
-Current place of residency: Essex, Ilford, England
-Total number of full marathons: Nine
-Marathon debut: London, Year 2000, at age 89
-Running Group: Sikhs In The City - http://sikhsinthecity.org/index.html
-GiveAsia webpage: http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation 
+<br>Date of birth: 1 April 1911
+<br>Place of birth: India
+<br>Current place of residency: Essex, Ilford, England
+<br>Total number of full marathons: Nine
+<br>Marathon debut: London, Year 2000, at age 89
+<br>Running Group: Sikhs In The City - http://sikhsinthecity.org/index.html
+<br>GiveAsia webpage: http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation 
 
 World Records set:
--- Toronto Marathon, 2003 (Men's over-90 category) - 5 hours and 40 minutes
+<br>-- Toronto Marathon, 2003 (Men's over-90 category) - 5 hours and 40 minutes
 -- Eight records set in one day as a 100 year old (2011) - 
-1) 100 metres -- 23.40 seconds (previous 29.83)
-2) 200 metres -- 52.23 seconds (previous 77.59 seconds) 
-3) 400 metres -- 2:13.48 (previous 3:41.00)
-4) 800 metres -- 5:32.18 (no previous record)
-5) 1,500 metres -- 11:27.00 (previous 16:46.00)
-6) Mile -- 11:53.45 (no previous record)
-7) 3,000 metres -- 24:52.47 (no previous record)
-8) 5,000 metres -- 49:57.39 (no previous record)
+* 1) 100 metres -- 23.40 seconds (previous 29.83)
+* 2) 200 metres -- 52.23 seconds (previous 77.59 seconds) 
+* 3) 400 metres -- 2:13.48 (previous 3:41.00)
+* 4) 800 metres -- 5:32.18 (no previous record)
+* 5) 1,500 metres -- 11:27.00 (previous 16:46.00)
+* 6) Mile -- 11:53.45 (no previous record)
+* 7) 3,000 metres -- 24:52.47 (no previous record)
+* 8) 5,000 metres -- 49:57.39 (no previous record)
 
 Sequence of Fauja Singh?s 10km, Half and Full Marathon timings:
 London Flora Marathon 2000 - 6 Hours 54 minutes
@@ -85,22 +85,22 @@ Tel: (65) 6500 5014
 Email: eric_ong@ssc.gov.sg
 
 Ho Shu Fen
-Fulford PR
-Email: sfho@fulfordpr.com
+<br>Fulford PR
+<br>Email: sfho@fulfordpr.com
 
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-
+<br>
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-
+<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
-About Standard Chartered Bank in Singapore
-
+**About Standard Chartered Bank in Singapore**
+<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
