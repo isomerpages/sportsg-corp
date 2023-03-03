@@ -166,8 +166,8 @@ Follow us on Facebook at facebook.com/SingaporeSports
 
 For a range of photographs, visit flickr.com/ssc-sportsphotography
 
-About Standard Chartered Bank in Singapore
-
+**About Standard Chartered Bank in Singapore**
+<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
