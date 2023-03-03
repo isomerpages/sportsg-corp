@@ -40,12 +40,9 @@ The Inaugural Singapore National Games Came To A Close With A Bang As More Than 
 Annex A: Winners of the Sports Challenge Shield and Community Challenge Shield and selection criteria for both accolades
 
 Winners of the Sports Challenge Shield
-
-1st Place: Chua Chu Kang (3153 points)
-
-1st Runner-Up: Ang Mo Kio (3078 points)
-
-2nd Runner-Up: Sembawang (2376 points)
+<br>1st Place: Chua Chu Kang (3153 points)
+<br>1st Runner-Up: Ang Mo Kio (3078 points)
+<br>2nd Runner-Up: Sembawang (2376 points)
 
 Winners of Community Challenge Shield
 <br>1st Place: Sembawang
