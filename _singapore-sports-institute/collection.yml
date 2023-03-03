@@ -2,6 +2,7 @@ collections:
   singapore-sports-institute:
     output: true
     order:
+      - Athlete Life/Athlete Life Coaching.md
       - Athlete Life/.keep
       - High Performance Sports/High Performance Planning.md
       - High Performance Sports/.keep
