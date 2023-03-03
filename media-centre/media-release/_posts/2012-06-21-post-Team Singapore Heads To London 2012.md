@@ -66,74 +66,23 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 | Cycling - Mountain Bike  | 11 August - 12 August 2012  |
 | Cycling - Road  | 28 July - 1 August 2012   |
 | Cycling - Track  | 2 August - 7 August 2012   |
-
-Diving
-
-29 July - 11 August 2012
-
-Equestrian
-
-28 July - 9 August 2012
-
-Fencing
-
-28 July - 5 August 2012
-
-Football
-
-25 July - 11 August 2012
-
-Gymnastics - Artistic
-
-28 July - 7 August 2012
-
-Gymnastics - Rhythmic
-
-9 August - 12 August 2012
-
-Handball
-
-28 July - 12 August 2012
-
-Hockey
-
-29 July - 11 August 2012
-
-Judo
-
-28 July - 3 August 2012
-
-Modern Pentathlon
-
-11 August - 12 August 2012
-
-Rowing
-
-28 July - 4 August 2012
-
-Sailing
-
-29 July - 11 August 2012
-
-Shooting
-
-28 July - 6 August 2012
-
-Swimming
-
-28 July - 10 August 2012
-
-Synchronised Swimming
-
-5 August - 10 August 2012
-
-Table Tennis
-
-28 July - 8 August 2012
-
-Taekwondo
-
-8 August - 11 August 2012
+| Diving  | 29 July - 11 August 2012   |
+| Equestrian| 28 July - 9 August 2012 | 
+| Fencing | 28 July - 5 August 2012 | 
+| Football | 25 July - 11 August 2012 | 
+| Gymnastics - Artistic | 28 July - 7 August 2012 | 
+| Gymnastics - Rhythmic | 9 August - 12 August 2012 | 
+| Handball | 28 July - 12 August 2012 | 
+| Hockey | 29 July - 11 August 2012 | 
+| Judo | 28 July - 3 August 2012 | 
+| Modern Pentathlo | 11 August - 12 August 2012 | 
+| Rowing | 28 July - 4 August 2012 | 
+| Sailing | 29 July - 11 August 2012 | 
+| Shooting | 28 July - 6 August 2012 | 
+| Swimming |  28 July - 10 August 2012 | 
+| Synchronised Swimming | 5 August - 10 August 2012 | 
+| Table Tennis | 28 July - 8 August 2012 | 
+| Taekwondo | 8 August - 11 August 2012 
 
 Tennis
 
