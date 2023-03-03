@@ -87,12 +87,12 @@ The winners of the four categories will be given points based on a points system
 Annex B: SNG Sports Points System for Sports Challenge Shield and Community Challenge Shield
 
 1. Objectives
-Implement a fair and competitive scoring system
-Recognise and reward Clusters/participants' excellence in sports
-Encourage and recognise participation among the Clusters
+* Implement a fair and competitive scoring system
+* Recognise and reward Clusters/participants' excellence in sports
+* Encourage and recognise participation among the Clusters
 
 2. Overview
-The overall winning Cluster for each sport will be based on the total points derived from two components, Excellence and Participation. The diagram below shows the weightage for each component.
+* The overall winning Cluster for each sport will be based on the total points derived from two components, Excellence and Participation. The diagram below shows the weightage for each component.
 
 
 
