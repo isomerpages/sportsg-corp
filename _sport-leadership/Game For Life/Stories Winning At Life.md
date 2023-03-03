@@ -36,7 +36,7 @@ Significantly, the infusion of values education does not hinder but, in fact, su
 
 15 year old, Kaki Fong, a player at the Academy, gives an example: “There is greater emphasis on teamwork compared to last time. We are asked to work with our teammates more, than just individually taking possession of the ball. It’s like thinking about the team before yourself, there is slightly more emphasis on that. In the exercises there are more possession games and also emphasis on passing - more teamwork based and not just doing it yourself.”
 
-13 year old Caelan Mulligan, also echoed: “What I most want to develop is responsibility…For example if I’m not playing well I just want to kind of stay away from the ball and not be in the middle of the game. So I kind of want to improve \[on\] that so that my teammates can trust me and I can give more to the team.”
+13 year old Caelan Mulligan, also echoed: “What I most want to develop is responsibility…For example if I’m not playing well I just want to kind of stay away from the ball and not be in the middle of the game. So I kind of want to improve (on) that so that my teammates can trust me and I can give more to the team.”
 
 Indeed, Kaki and Mulligan’s keen understanding of their coaches’ lessons is a clear indicator that the conscious inclusion of values through the Games for Life framework has been successful so far. Even the parents have noticed positive changes in their children, and attribute it to “coaching methods” provided at the Academy, as Steven Chua puts it.
 
