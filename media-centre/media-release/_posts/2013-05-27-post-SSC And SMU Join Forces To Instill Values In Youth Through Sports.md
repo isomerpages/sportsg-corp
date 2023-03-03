@@ -6,16 +6,14 @@ layout: post
 description: ""
 image: ""
 ---
-SSC And SMU Join Forces To Instill Values In Youth Through Sports
-27 May 2013
+## **SSC And SMU Join Forces To Instill Values In Youth Through Sports**
 
 
-	
-Singapore, 27 May 2013 - Using the power of sport to teach youth important life skills and to develop their character and leadership capabilities, the Singapore Sports Council (SSC) and Singapore Management University (SMU) today launched the 'Game For Life' Toolkit and LifeLessons respectively at the inaugural Leadership Symposium 2013.
+**Singapore, 27 May 2013** - Using the power of sport to teach youth important life skills and to develop their character and leadership capabilities, the Singapore Sports Council (SSC) and Singapore Management University (SMU) today launched the 'Game For Life' Toolkit and LifeLessons respectively at the inaugural Leadership Symposium 2013.
 
 2. Based on the 'Future Ready through Sport' strategic thrust of the Vision 2030 recommendation, the Leadership Symposium 2013 serves as a platform to promote the development of character and leadership skills through sport.
 
-'Game For Life' Toolkit
+**'Game For Life' Toolkit**
 
 3. The 'Game For Life' Toolkit comprises the 'character and leadership through sport' Framework and a 'Game For Life: 25 Journeys' book, which chronicles the transformation of 25 ordinary lives made extraordinary through sports.
 
