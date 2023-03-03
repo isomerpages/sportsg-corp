@@ -1,4 +1,5 @@
 collections:
   sport-leadership:
     output: true
-    order: []
+    order:
+      - Latest/.keep
