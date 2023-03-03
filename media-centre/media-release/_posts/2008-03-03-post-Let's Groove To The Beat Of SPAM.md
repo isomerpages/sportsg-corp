@@ -26,7 +26,7 @@ Singapore, 3 March 2008 - The Singapore Sports Council (SSC) has launched a new 
 
 Enclosures:
 <br>
-[Annex A - Fact sheet on S.P.A.M](/files/Media%20Centre/Media%20Release/2008/March/AnnexAAboutSPAM.pdf)
+[Annex A - Fact sheet on S.P.A.M](/files/Media%20Centre/Media%20Release/2008/March/03/AnnexAAboutSPAM.pdf)
 
 **For media queries, please contact:**
 
