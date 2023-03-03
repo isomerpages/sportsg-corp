@@ -44,19 +44,16 @@ Singapore, 12 August 2012 - The Rink, Singapore Sports Council's (SSC's) first i
 
 -END-
 
-Annex A: Guests Involved in Ice Hockey Shootout
-
-Mr Tharman Shanmugaratnam, Deputy Prime Minister & Minister for Finance & Member of Parliament for Jurong GRC
-
-Ms Grace Fu, Minister in the Prime Minister's Office & Second Minister for Environment and Water Resources & Second Minister for Foreign Affairs & Member of Parliament for Yuhua SMC
-
-Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports & Member of Parliament for Jurong GRC
-
-1. Mr Ang Wei Neng, Member of Parliament for Jurong GRC
-2. Mr Desmond Lee, Member of Parliament for Jurong GRC
-3. Mr David Ong, BBM, Member of Parliament for Jurong GRC
-4. Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
-5. Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Chua Chu Kang GRC
+**Annex A: Guests Involved in Ice Hockey Shootout**
+<br>
+1. Mr Tharman Shanmugaratnam, Deputy Prime Minister & Minister for Finance & Member of Parliament for Jurong GRC
+3. Ms Grace Fu, Minister in the Prime Minister's Office & Second Minister for Environment and Water Resources & Second Minister for Foreign Affairs & Member of Parliament for Yuhua SMC
+5. Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports & Member of Parliament for Jurong GRC 
+7.  Mr Ang Wei Neng, Member of Parliament for Jurong GRC
+8.  Mr Desmond Lee, Member of Parliament for Jurong GRC
+9.  Mr David Ong, BBM, Member of Parliament for Jurong GRC
+ Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
+ Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Chua Chu Kang GRC
  
 **For media enquiries, please contact:**
 <br>
