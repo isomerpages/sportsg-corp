@@ -9,3 +9,5 @@ third_nav_title: Sports Leadership
 [Enhancing the Quality of Sporting Experience in Schools](/enhancing-the-quality-of-sporting-experience-in-schools/)
 
 [Game for Life Community of Practice](/game-for-life-community-of-practice/)
+
+[Upcoming Game For Life Toolkit Sharing Session](/upcoming-game-for-life-toolkit-sharing-session)
