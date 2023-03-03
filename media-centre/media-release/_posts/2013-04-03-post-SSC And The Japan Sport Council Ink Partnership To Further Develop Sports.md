@@ -21,17 +21,17 @@ Exchange of knowledge on implementation, project management, and operations of s
 
 4. Speaking at the MOU signing ceremony, Mr Lim expressed optimism for this collaboration. He said, "Our partnership today could not have come at a better time in our sporting journey. Singapore has embarked on a new masterplan called Vision 2030 to deliver quality sporting facilities and sporting programmes for our people to live better through sports. I understand with the launch of the Sport Basic Plan in March last year, Japan is also working towards creating a society where everybody can enjoy a happy and fulfilled life through sport. I see valuable synergies and am confident that through our efforts and commitment, we will be able to achieve more and forge even closer relationships and friendships between the sporting communities of Singapore and Japan."
 
-5     JSC President Ichiro Kono said, "Japan Sport Council have facilitated a number of collaborative activities and exchanges with Singapore Sports Council over the past few years. Today, we are pleased to formalise our existing commitment to further build our strong and sustainable collaboration. Through this partnership, we expect to bring great opportunities for both sides to share and exchange expertise and experience in the fields from sport promotion to high performance."
+5. JSC President Ichiro Kono said, "Japan Sport Council have facilitated a number of collaborative activities and exchanges with Singapore Sports Council over the past few years. Today, we are pleased to formalise our existing commitment to further build our strong and sustainable collaboration. Through this partnership, we expect to bring great opportunities for both sides to share and exchange expertise and experience in the fields from sport promotion to high performance."
 
 -END-
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Siti Nurhidayati
-Senior Executive
-Singapore Sports Council
-Tel: (65) 6500 5246
-Email: siti_nurhidayati@ssc.gov.sg
+<br>Senior Executive
+<br>Singapore Sports Council
+<br>Tel: (65) 6500 5246
+<br>Email: siti_nurhidayati@ssc.gov.sg
 
 
 **About the Singapore Sports Council**
