@@ -2,5 +2,6 @@ collections:
   sport-leadership:
     output: true
     order:
+      - Sports Leadership Workshops/.keep
       - GFL CoP with New Inclusion of Sports Coaches.md
       - Latest/.keep
