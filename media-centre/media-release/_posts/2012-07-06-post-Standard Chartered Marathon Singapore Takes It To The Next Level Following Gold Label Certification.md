@@ -35,40 +35,8 @@ Annex A: Standard Chartered Marathon Singapore 2012 Fact Sheet
 Date: Sunday, 2 December 2012
 
 Start:                               
-
-Full Marathon & Ekiden
-
-Half Marathon
-
-10km - Men
-
-10km - Women
-
-10km - Wheelchair
-
-Kids Dash
-
-Orchard Road
-
-Sentosa
-
-Esplanade Drive
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- Finish: St Andrew's Road, The Padang
+![](/images/Media%20Centre/Media%20Release/2012/Jul/Annex%20A-%20Standard%20Chartered%20Marathon%20Singapore%202012%20Fact%20Sheet.png)
+Finish: St Andrew's Road, The Padang
 
  Organiser: Singapore Sports Council
 
