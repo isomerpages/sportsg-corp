@@ -96,65 +96,11 @@ IV.      Meritorious Awards (Individual)
 
 V.         Meritorious Awards (Event)
 
- 
-
-S/N
-
-AWARDEE
-
-SPORTS
-
-01
-
-National Bowling Women's Team
-
-New Hui Fen
-
-Jazreel Tan Shi Hua
-
-Daphne Tan Shi Jing
-
-Shayna Ng Lin Zhi
-
-Cherie Tan Shi Hua
-
-Jasmine Yeong-Nathan
-
- 
-
-Bowling
-
-02
-
-National Athletics 4x100m Relay Men's Team
-
-Muhd Elfi Mustapa
-
-Gary Yeo Foo Ee
-
-Calvin Kang Li Loon
-
-Lim Yao Peng
-
-Muhd Amirudin Jamal
-
-Lee Cheng Wei
-
- 
-
-Athletics
-
-03
-
-National Canoeing Women's K2 Team
-
-Suzanne Seah
-
-Stephenie Chen Jiexian
-
- 
-
-Canoeing
+| S/N | AWARDEE | SPORTS |
+| -------- | -------- | -------- |
+| 01     | National Bowling Women's Team<br>New Hui Fen <br>Jazreel Tan Shi Hua <br>Daphne Tan Shi Jing <br>Shayna Ng Lin Zhi <br>Cherie Tan Shi Hua <br>Jasmine Yeong-Nathan | Bowling
+| 02 | National Athletics 4x100m Relay Men's Team <br>Muhd Elfi Mustapa <br>Gary Yeo Foo Ee <br>Calvin Kang Li Loon <br>Lim Yao Peng <br>Muhd Amirudin Jamal <br>Lee Cheng Wei | Athletics
+| 03 | National Canoeing Women's K2 Team <br>Suzanne Seah <br>Stephenie Chen Jiexian | Canoeing
 
 04
 
