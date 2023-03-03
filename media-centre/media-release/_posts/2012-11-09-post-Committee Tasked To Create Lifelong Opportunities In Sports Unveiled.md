@@ -9,17 +9,17 @@ image: ""
 ## **Committee Tasked To Create Lifelong Opportunities In Sports Unveiled**
 
 	
-Singapore, 9 November 2012 - Reducing the drop-off in sports participation after full-time education; developing integrated pathways to create sports champions; creating more opportunities for regular sports participation at all stages in life; rooting out bad sportsmanship while inculcating values and building character - these are just a few of the outcomes the newly formed Sports Pathways Committee (SPC) aims to achieve in the coming years.
+**Singapore, 9 November 2012** - Reducing the drop-off in sports participation after full-time education; developing integrated pathways to create sports champions; creating more opportunities for regular sports participation at all stages in life; rooting out bad sportsmanship while inculcating values and building character - these are just a few of the outcomes the newly formed Sports Pathways Committee (SPC) aims to achieve in the coming years.
 
 2. One of the 20 recommendations under Vision 2030, the current 11-member SPC consists of key stakeholders across the value chain in the education, defence and community sectors.
 
 3. The SPC will focus on coordinating and integrating policies and programmes across organisations. It will cover, amongst other things:
 
 Developing integrated pathways to create sports champions
-- rationalising and optimising national competition frameworks and schedules
--developing a national talent identification and development framework
-- integrating the work of National Sports Associations with the school sports system
-- introducing a more integrated academic and sporting curriculum in schools that allows more students to achieve both academic and sporting excellence
+* rationalising and optimising national competition frameworks and schedules
+* -developing a national talent identification and development framework
+* integrating the work of National Sports Associations with the school sports system
+* introducing a more integrated academic and sporting curriculum in schools that allows more students to achieve both academic and sporting excellence
 
 Inculcating values and character through sport
 - Introducing National Standards for Youth Sport (see details below) for youth 18 years and under to enjoy sports and grow through participation in sports
