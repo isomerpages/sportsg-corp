@@ -6,12 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-SEA Games 2015 - The People's Games
-01 Jul 2012
+## **SEA Games 2015 - The People's Games**
 
 
-
-
+![](/images/Media%20Centre/Media%20Release/2012/Jul/SEA%20Games%20logo.jpeg)
 28th SEA Games Steering Committee Kicks Off Inaugural Meeting
 
 Singapore, 1 July 2012 - Taxi drivers, school children and youth, families, seniors, working adults, volunteers, corporate head honchos, volunteer welfare groups - these are just some of the groups the 28th Southeast Asian (SEA) Games Steering Committee hopes to see participating actively and enjoying the 28th SEA Games to be held in Singapore in 2015.
