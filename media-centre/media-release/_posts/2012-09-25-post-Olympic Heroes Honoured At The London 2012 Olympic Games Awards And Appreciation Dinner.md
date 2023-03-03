@@ -7,10 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-Olympic Heroes Honoured At The London 2012 Olympic Games Awards And Appreciation Dinner
-25 Sep 2012
+## **Olympic Heroes Honoured At The London 2012 Olympic Games Awards And Appreciation Dinner**
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0042Imagegif.gif)
 Team Singapore Paddlers Rewarded Through SNOC MAP for Double Bronze at London 2012
 
 	
