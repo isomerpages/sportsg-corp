@@ -47,38 +47,36 @@ Partners in Sports: Tote Board and Singapore Pools
  Co-Sponsor & Official Apparel: ASICS
 <br>
 Official Sponsors:
-
+<br>
 100PLUS
-
+<br>
 Pure Fitness
-
+<br>
 StarHub
-
+<br>
 BMW
-
+<br>
 Prudential
-
+<br>
 Seiko
-
- Official Partners:                 
-
+<br>
+Official Partners:                 
+<br>
 Nature Valley
-
+<br>
 Marathon-Photos.com
-
+<br>
 National Parks Board
-
+<br>
 Nathan Performance Gear
-
+<br>
 Shotz Sports Nutrition
-
+<br>
 Journey Fitness Company
 
 Official Website: www.marathonsingapore.com  
-<br>
-Official Facebook Page: www.facebook.com/MarathonSG  
-<br>
-Official YouTube Channel: www.youtube.com/SCMarathonSingapore  
+<br> Official Facebook Page: www.facebook.com/MarathonSG  
+<br> Official YouTube Channel: www.youtube.com/SCMarathonSingapore  
 
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
