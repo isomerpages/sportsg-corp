@@ -42,92 +42,40 @@ image: ""
 **Annex A: 28th SEA Games Steering Committee Members**
 
 **Chairman**
-<br> Mr Chan Chun Sing
+
+Mr Chan Chun Sing
 <br>Acting Minister for Community Development, Youth and Sports Minister of State, Ministry of Information, Communications and the Arts
 
 **Members**
-<br>
-2.     Mr Mohamed Abdul Jaleel
 
-Founder and Chief Executive Officer, Mini Environment Service Group
-
- 
-
-3.     Mrs Carmee Lim
-
-Founder and President of Aoede Music Enterprise
-
- 
-
-4.     Mr Low Teo Ping
-
-Vice President, Singapore National Olympic Council
-
- 
-
-5.     Mr Valerio Nannini
-
-Managing Director, Nestle Singapore Pte Ltd
-
- 
-
-6.     Ms Annabel Pennefather
-
-Vice President, Singapore National Olympic Council
-
- 
-
-7.      Mr Brian Richmond
-
-Radio Personality, MediaCorp Pte Ltd
-
- 
-
-8.      Mr Manu Sawhney
-
-Managing Director, ESPN STAR Sports Asia
-
- 
-
-9.     Mr Seah Moon Ming
-
-Deputy Chief Executive Officer and President, Defence Business, Singapore Technologies Engineering Ltd
-
- 
-
-10.  Mr Richard Seow
-
-Chairman, Singapore Sports Council
-
- 
-
-11.  Mr Saktiandi Supaat
-
-Head, FX Research Team, Global Markets, Global Wholesale Banking, Maybank
-
- 
-
-12.  Dr Tan Eng Liang
-
-Vice President, Singapore National Olympic Council
-
- 
-
-13.  Ms Jessica Tan
-
-Managing Director, Microsoft Operations Pte Ltd
-
- 
-
-14.  Mr Tan Kian Chew
-
-Group Chief Executive Officer, NTUC FairPrice Co-operative Ltd
-
- 
-
-15.  Mr Leonard Tan
-
-Founder and Chief Executive Officer, PurpleClick Media Pte Ltd
+2. Mr Mohamed Abdul Jaleel
+<br>Founder and Chief Executive Officer, Mini Environment Service Group
+3.  Mrs Carmee Lim
+<br>Founder and President of Aoede Music Enterprise
+4. Mr Low Teo Ping
+<br>Vice President, Singapore National Olympic Council
+5. Mr Valerio Nannini
+<br>Managing Director, Nestle Singapore Pte Ltd
+6. Ms Annabel Pennefather
+<br>Vice President, Singapore National Olympic Council
+7. Mr Brian Richmond
+<br>Radio Personality, MediaCorp Pte Ltd
+8. Mr Manu Sawhney
+<br>Managing Director, ESPN STAR Sports Asia
+9. Mr Seah Moon Ming
+<br>Deputy Chief Executive Officer and President, Defence Business, Singapore Technologies Engineering Ltd
+10. Mr Richard Seow
+<br>Chairman, Singapore Sports Council
+11. Mr Saktiandi Supaat
+<br>Head, FX Research Team, Global Markets, Global Wholesale Banking, Maybank
+12. Dr Tan Eng Liang
+<br>Vice President, Singapore National Olympic Council
+13. Ms Jessica Tan
+<br>Managing Director, Microsoft Operations Pte Ltd
+14. Mr Tan Kian Chew
+<br>Group Chief Executive Officer, NTUC FairPrice Co-operative Ltd
+15. Mr Leonard Tan
+<br>Founder and Chief Executive Officer, PurpleClick Media Pte Ltd
 
  
 
