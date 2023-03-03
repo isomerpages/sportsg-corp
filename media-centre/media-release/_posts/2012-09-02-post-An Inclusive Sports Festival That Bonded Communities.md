@@ -48,12 +48,9 @@ Winners of the Sports Challenge Shield
 2nd Runner-Up: Sembawang (2376 points)
 
 Winners of Community Challenge Shield
-
-1st Place: Sembawang
-
-1st Runner-Up: Chua Chu Kang
-
-2nd Runner-Up: Jurong
+<br>1st Place: Sembawang
+<br>1st Runner-Up: Chua Chu Kang
+<br>2nd Runner-Up: Jurong
 
 Sports Challenge Shield
 The Sports Challenge Shields are awarded to recognise the top 3 Clusters for their sports performance and participation in the Singapore National Games.
