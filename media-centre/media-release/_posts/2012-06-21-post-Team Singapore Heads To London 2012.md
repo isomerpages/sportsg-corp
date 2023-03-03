@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Team Singapore Heads To London 2012
-21 Jun 2012
+## **Team Singapore Heads To London 2012**
 
 
 Team Singapore Will Participate in Eight Sports at the London 2012 Olympic Games and Four Sports at the Paralympic Games
@@ -255,4 +254,3 @@ Swimming
 Table Tennis
 
 28 July - 8 August 2012
-
