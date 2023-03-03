@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-##**WTA Championships Awarded To Singapore For 2014-2018 In Record Deal**
+## **WTA Championships Awarded To Singapore For 2014-2018 In Record Deal**
 
 As WTA celebrates 40th anniversary, landmark Championships deal in new market continues global expansion and business growth for sport
 Championships to feature additional content and new entertainment events to enhance fans' experience
