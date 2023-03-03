@@ -110,15 +110,15 @@ Shotz Sports Nutrition
 Journey Fitness Company
 
 Official Website: www.marathonsingapore.com  
-
+<br>
 Official Facebook Page: www.facebook.com/MarathonSG  
-
+<br>
 Official YouTube Channel: www.youtube.com/SCMarathonSingapore  
 
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
 Race Categories:
-<BR>Categories
+<br>Categories
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/Annex%20A-%20Standard%20Chartered%20Marathon%20Singapore%202012%20Fact%20Sheet.png)
 
 *Note:*
