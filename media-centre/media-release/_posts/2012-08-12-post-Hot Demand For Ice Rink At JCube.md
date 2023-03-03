@@ -12,7 +12,8 @@ image: ""
 *Over 80,000 Skated On Ice in Four Months Since Soft Launch*
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/HOTDEMANDFORICERINKATJCUBEMainPar0028Imagegif.gif)	
 Photo by Singapore Sports Council and CapitaMalls Asia
-Singapore, 12 August 2012 - The Rink, Singapore Sports Council's (SSC's) first ice rink for the community, has grown to be a popular sports destination for everyone from residents in the heartlands to corporates within the business community. Managed by CapitaMalls Asia, the rink has attracted over 80,000 members of the community since its soft opening on 2 April this year.
+
+**Singapore, 12 August 2012** - The Rink, Singapore Sports Council's (SSC's) first ice rink for the community, has grown to be a popular sports destination for everyone from residents in the heartlands to corporates within the business community. Managed by CapitaMalls Asia, the rink has attracted over 80,000 members of the community since its soft opening on 2 April this year.
 
 2. Deputy Prime Minister Tharman Shanmugaratnam, together with Members of Parliament for Jurong GRC and Yuhua SMC, as well as Government Parliamentary Committee members for Community Development, Youth and Sports, Mr Vikram Nair and Mr Alex Yam, took part in an exciting ice hockey shootout this morning as part of the rink's official opening. They were joined by grassroots leaders and fellow residents as they celebrated the launch of their new sports facility.
 
