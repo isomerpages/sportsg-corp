@@ -43,6 +43,7 @@ image: ""
 15. The Sports Consultancy, a leading sports bid management consultancy, managed the WTA's global tender process, the first time in the WTA's history that it had conducted an international tender process, resulting in today's landmark Championships deal.
 
 -END-
+
 Media Links: 
 
 WTA LIVE press conference announcement: http://www.youtube.com/watch?v=taXSmKlUGJc
