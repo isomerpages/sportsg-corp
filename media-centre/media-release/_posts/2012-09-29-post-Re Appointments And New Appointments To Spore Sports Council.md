@@ -47,10 +47,10 @@ Annex
 <br>Assistant Director (Media Relations)
 <br>Communications and International Relations Division
 <br>Ministry of Community Development, Youth and Sports
-<br>Email: Nur_Diana_JAMALUDIN@mcys.gov.sg
+<br>Email: [Nur_Diana_JAMALUDIN@mcys.gov.sg](Nur_Diana_JAMALUDIN@mcys.gov.sg)
 		
 S. Parameswaran
 <br>Assistant Director, Media Relations
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
-<br>Email: parames_seenivasagam@ssc.gov.sg
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
