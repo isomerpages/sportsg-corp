@@ -38,9 +38,9 @@ Singapore, 12 August 2012 - The Rink, Singapore Sports Council's (SSC's) first i
 
 12. The Rink is open to the public from 10.30am to 9.30pm from Mondays to Thursdays, and from 10.30am to 11.45pm from Fridays to Sundays and on public holidays.
 
-1: The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, JCs, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a $10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
+*1: The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, JCs, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a $10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
 
-2: In 2003, the Urban Redevelopment Authority introduced the Civic & Community Institution (C&CI) scheme and guidelines for the integration of community facilities in private commercial developments. Under this scheme, the proposed uses must be compatible with commercial development and intended for public and community usage and not profit driven. The scheme was subsequently revised on 2005 and 2008 to include selected public sports uses ("Community/Sports Facilities Scheme").
+2: In 2003, the Urban Redevelopment Authority introduced the Civic & Community Institution (C&CI) scheme and guidelines for the integration of community facilities in private commercial developments. Under this scheme, the proposed uses must be compatible with commercial development and intended for public and community usage and not profit driven. The scheme was subsequently revised on 2005 and 2008 to include selected public sports uses ("Community/Sports Facilities Scheme").*
 
 -END-
 
