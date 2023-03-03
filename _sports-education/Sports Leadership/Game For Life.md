@@ -61,3 +61,18 @@ You may sign up for the session [here](https://form.gov.sg/609b58944610f7001104
 The GFL CoP sessions are previously held on Sport Singapore's premise at Singapore Sports Hub. In view of the pandemic situation, GFL CoP sessions will be held virtually until further notice as per COVID-19 government advisories. 
 
 Please [contact us](mailto:hong_xue_en@sport.gov.sg) if you have any questions.
+
+**Resources:**
+**Resources:**
+[Stories - Winning At Life](/sport-leadership/game-for-life/stories-winning-at-life/)
+
+[Stories - The Winning Mind](/sport-leadership/game-for-life/stories-the-winning-mind/)
+
+[Stories - The Winning Edge](/sport-leadership/game-for-life/the-winning-edge/)
+
+[Workshop and Training](/sports-education/sports-leadership/workshop-and-training/)
+
+[Guide](/sports-education/sports-leadership/guide/)
+
+[Book](/sports-education/sports-leadership/book/)
+
