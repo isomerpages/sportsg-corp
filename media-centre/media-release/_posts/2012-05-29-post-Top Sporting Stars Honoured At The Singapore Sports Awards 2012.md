@@ -107,40 +107,9 @@ V.         Meritorious Awards (Event)
 | 07 | National Women Artistic Gymnastics Team <br>Rachel Giam Pei Shi <br>Nur Atikah Nabilah Binte Mud Jufrie <br>Krystal Khoo Oon Hui <br>Lim Heem Wei <br>Foo En Ning <br>Joey Tam Jing Ying | Gymnastics
 | 08 | National Sailing 470 Men's Team <br>Russell Kan Tsung Liang <br>Terence Koh Seng Kiat| Sailing
 | 09 | National Sailing 470 Women's Team <br>Dawn Liu Xiaodan <br>Sara Tan Li Ching | Sailing
-
-| 10
-
-National Bowling Team
-
-Geraldine Ng Su Yi
-
-Shayna Ng Lin Zhi
-
-Jason Yeong-Nathan
-
-Remy Ong | Bowling
-| 11
-
-National Shooting 10m Air Rifle Women's Team
-
-Jasmine Ser Xiang Wei
-
-Cheng Jian Huan
-
-Sally Li Yafei
-| Shooting
-| 12
-
-National Swimming 4x100m Freestyle Relay Men's Team
-
-Russell Ong Kai Yi
-
-Danny Yeo Kai Quan
-
-Clement Lim Yong'En
-
-Arren Quek Xin Hui
-| Swimming
+| 10  | National Bowling Team<br>Geraldine Ng Su Yi <br>Shayna Ng Lin Zhi <br>Jason Yeong-Nathan <br>Remy Ong | Bowling
+| 11  | National Shooting 10m Air Rifle Women's Team <br>Jasmine Ser Xiang Wei <br>Cheng Jian Huan <br>Sally Li Yafei | Shooting
+| 12  | National Swimming 4x100m Freestyle Relay Men's Team <br>Russell Ong Kai Yi <br>Danny Yeo Kai Quan <br>Clement Lim Yong'En <br>Arren Quek Xin Hui| Swimming
 | 13
 | 14
 
