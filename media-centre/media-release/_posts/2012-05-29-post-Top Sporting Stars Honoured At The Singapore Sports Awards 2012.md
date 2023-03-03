@@ -32,13 +32,11 @@ image: ""
 
 6. The loudest cheers from the room were heard when the winners of Sportsman and Sportswoman of the Year were announced. The complete list of winners can be found in Annex A.
 
-7. Winners for three new award categories, the "Best Sport Event of the Year (International)", "Best Sport Event of the Year (Local)", and "Most Inspiring Sports Story of the Year" were also revealed at the event. The winners are:
-
-Best Sport Event of the Year (International): 2011 Formula 1 SingTel Singapore Grand Prix
-
-Best Sport Event of the Year (Local): OCBC Cycle Singapore
-
-Most Inspiring Sports Story of the Year: "Not just flesh and blood, but the football HEART" by Terrence Voon from The Straits Times
+7. Winners for three new award categories, the "Best Sport Event of the Year (International)", "Best Sport Event of the Year (Local)", and "Most Inspiring Sports Story of the Year" were also revealed at the event. 
+<br>The winners are:
+* Best Sport Event of the Year (International): 2011 Formula 1 SingTel Singapore Grand Prix
+* Best Sport Event of the Year (Local): OCBC Cycle Singapore
+* Most Inspiring Sports Story of the Year: "Not just flesh and blood, but the football HEART" by Terrence Voon from The Straits Times
 
 8. The SSA is our country's most prestigious recognition for our athletes since its introduction in 1967. Honouring our athletes' achievements and contributions, the SSA pays tribute to our athletes who have gone head to head with some of the best in the world to bring glory to our country.
 
