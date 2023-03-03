@@ -59,9 +59,9 @@ BMW
 Prudential
 <br>
 Seiko
-<br>
-Official Partners:                 
-<br>
+
+
+**Official Partners**:               
 Nature Valley
 <br>
 Marathon-Photos.com
