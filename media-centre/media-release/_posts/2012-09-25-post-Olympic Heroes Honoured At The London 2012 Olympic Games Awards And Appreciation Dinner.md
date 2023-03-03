@@ -49,18 +49,16 @@ The Tote Board/Singapore Pools (Pte) Ltd is the primary sponsor of the SNOC MAP 
 Annex C: List of Appreciation Plaque Recipients
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0054Imagegif.gif)
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Lin Kuek
-Hill+Knowlton Strategies
-Email: lin.kuek@hkstrategies.com
+<br>Hill+Knowlton Strategies
+<br>Email: lin.kuek@hkstrategies.com
 
 Patricia Yee
-Executive, Media Relations
-Singapore Sports Council
-Email: patricia_yee@ssc.gov.sg
-
-		
+<br>Executive, Media Relations
+<br>Singapore Sports Council
+<br>Email: patricia_yee@ssc.gov.sg
 
 **About Team Singapore**
 <br>
