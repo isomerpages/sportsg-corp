@@ -10,15 +10,15 @@ image: ""
 
 **Singapore, 28 September 2012** - The Ministry of Community Development, Youth and Sports (MCYS) announced today the appointments of the members to Singapore Sports Council. Six new members have been appointed and eight current members, including Chairman Mr Richard Seow and Deputy Chairman Mr Cheah Kim Teck, re-appointed. These appointments will take effect from 1 October 2012 and will be for a two-year term.
 
-Re-appointments
-Chairman - Mr Richard Seow, Director, Pacific Heights Investments Pte Ltd. Chairman, Republic Polytechnic and ACS Board of Governors
-Deputy Chairman - Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Limited
-Member - Mr Bernard Tan, Managing Director, DBS Bank. Commissioner, DBS Indonesia
-Member - Ms Liew Wei Li, Director, Student Development Curriculum, Ministry of Education
-Member - Mr Low Teo Ping, Vice-President, Singapore National Olympic Committee
-Member - Mr Andreas Sohmen-Pao, Group Chief Executive Officer, BW Maritime Pte Ltd
-Member - Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
-Member - Mr Yam Ah Mee, Chief Executive Director, People's Association
+**Re-appointments**
+* Chairman - Mr Richard Seow, Director, Pacific Heights Investments Pte Ltd. Chairman, Republic Polytechnic and ACS Board of Governors
+* Deputy Chairman - Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Limited
+* Member - Mr Bernard Tan, Managing Director, DBS Bank. Commissioner, DBS Indonesia
+* Member - Ms Liew Wei Li, Director, Student Development Curriculum, Ministry of Education
+* Member - Mr Low Teo Ping, Vice-President, Singapore National Olympic Committee
+* Member - Mr Andreas Sohmen-Pao, Group Chief Executive Officer, BW Maritime Pte Ltd
+* Member - Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
+* Member - Mr Yam Ah Mee, Chief Executive Director, People's Association
 
 New appointments
 Member - Mr Kon Yin Tong, Managing Partner, Foo Kon Tan Grant Thornton LLP
