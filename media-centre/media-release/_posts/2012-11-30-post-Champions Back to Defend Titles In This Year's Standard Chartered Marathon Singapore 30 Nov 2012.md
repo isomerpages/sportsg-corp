@@ -138,7 +138,7 @@ Career Highlights:
 
 Annex C: SCMS Race Results (2009 - 2011)
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0055Imagegif.gif)
 
 
 
