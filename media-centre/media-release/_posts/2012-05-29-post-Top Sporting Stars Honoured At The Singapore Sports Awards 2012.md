@@ -73,57 +73,9 @@ II. Sportsboy/ Sportsgirl Meritorious Awards (Event)
 
 III.     Sportsboy/ Sportsgirl Meritorious Awards (Team Sport)
 
- 
-
-S/N
-
-AWARDEE
-
-SPORTS
-
-01
-
- 
-
-National Hockey Under-18 Boys' Team
-
-Nur Ashriq Ferdaus
-
-Ong Pang Chian Samudra Setya Putra
-
-Zulfadli Jasni Ismail
-
-Amirul Asyraf
-
-Shafiq A Rashid
-
-Mohd Fadzly Bin Mohd Adam
-
-Silas A Razak
-
-Aloysius Lim Ting Zhao
-
-Ashraff Bin Alias
-
-Muhammad Hidayat Bin Mat Rahim
-
-Karleef Sasi Abdullah
-
-Timothy Goh Kai Yang
-
-Muhd Syakiran Bin Muhd Ya'kob
-
-Muhammad Haseef Bin Salim
-
-Jaspal Singh Grewal
-
-Rahmat B Abd Jalil
-
-Al'fien Amir
-
-Syamirul Arshad
-
-Hockey
+| S/N | AWARDEE | SPORTS |
+| -------- | -------- | -------- |
+| 01     | National Hockey Under-18 Boys' Team <br>Nur Ashriq Ferdaus <br>Ong Pang Chian Samudra Setya Putra <br>Zulfadli Jasni Ismail <br>Amirul Asyraf <br>Shafiq A Rashid <br>Mohd Fadzly Bin Mohd Adam <br>Silas A Razak <br>Aloysius Lim Ting Zhao <br>Ashraff Bin Alias <br>Muhammad Hidayat Bin Mat Rahim <br>Karleef Sasi Abdullah <br>Timothy Goh Kai Yang <br>Muhd Syakiran Bin Muhd Ya'kob <br>Muhammad Haseef Bin Salim <br>Jaspal Singh Grewal <br>Rahmat B Abd Jalil<br> Al'fien Amir <br>Syamirul Arshad | Hockey
 
  
 
