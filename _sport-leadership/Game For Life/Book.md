@@ -41,3 +41,12 @@ Reflection is known and have been commonly used in sporting teams for coaches to
 There are many different methods to conduct a reflection session. One of which is through the use of stories. Storytelling as a reflective tool has been used in many areas such as higher education, children education and also in sport settings. The use of story-telling as a method could help coaches to deal with unexpected situations and consider the possibilities for what could have happened as well as what actually transpired. Coaches can then apply knowledge from past stories to new situations to help athletes or the team make sense of them. Stories can also be used to inspire valuable lessons and values in athletes as it is often used to invite deeper thought and reflection on larger issues. It also helps coaches to educate their athletes on issues well beyond the sporting arena.  
   
 We believe that sport is not just about technical ability and skill, but rather, a reflection of more complex attitudes and value systems in our lives.
+
+Why should I use this resource?
+-------------------------------
+
+'GAME FOR LIFE: 25 Journeys' aims to inspire readers to play the game of their lives, and in so doing, discover themselves, unleash their true potential and develop their character. The 25 stories have been written and structured in a way to facilitate reflection, focusing on the sporting values (see below) that have shaped them to be the person they are which have helped them to succeed in life. With the values that are highlighted and the guided reflection questions in the stories, coaches can use them during reflection sessions:
+
+* As a check-in before your training sessions / during your huddle
+* As an independent team activity to reinforce the team’s culture and values
+* Click on the links below to access individual stories!
