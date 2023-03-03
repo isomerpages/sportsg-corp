@@ -10,8 +10,7 @@ image: ""
 ## **Champions Back to Defend Titles In This Year's Standard Chartered Marathon Singapore**
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0028Imagegif.gif)
 
-
-Singapore, 30 November 2012 - This year's Standard Chartered Marathon Singapore (SCMS) will feature a contingent of elite athletes including winners and record holders from previous editions. Defending champions, Charles Mwai Kanyao, and Irene Jerotich Kosgei, both from Kenya, will be amongst the world-class international elite runners at the start line of this International Association of Athletics Federations (IAAF) Gold Label race.
+**Singapore, 30 November 2012** - This year's Standard Chartered Marathon Singapore (SCMS) will feature a contingent of elite athletes including winners and record holders from previous editions. Defending champions, Charles Mwai Kanyao, and Irene Jerotich Kosgei, both from Kenya, will be amongst the world-class international elite runners at the start line of this International Association of Athletics Federations (IAAF) Gold Label race.
 
 2. "We are delighted to welcome such a strong field of elite athletes to this year?s race. I'm particularly pleased to see several former champions of the SCMS returning and with several other top contenders in the mix, there is growing recognition of the SCMS as one of the top marathons. Given the fast times of this field, my fingers are crossed for a new course record.", said Mr Lim Teck Yin, Chief Executive Officer, SSC and Chairman, SCMS 2012 Organising Committee.
 
