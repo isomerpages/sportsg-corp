@@ -7,8 +7,8 @@ third_nav_title: Sports Leadership
 Sport offers a parallel pathway to success as it helps people develop the skills sets and principles valued by society. Sport can be a powerful vehicle if it is designed, structured and delivered with care and forethought. Sport Singapore developed the **Game For Life Toolkit** that features the use of game activities and specific role playing for the learning and development of performance, social and moral values and attributes. This enables training, education and coaching professionals to **create**teachable moments, where learning values can be infused into any sporting experience for every individual.
 
 **Game For Life Toolkit comprises:**
-* Game For Life Book - 25 Journeys
-* Game For Life - Guide to developing character and leadership through sport
+* [Game For Life Book - 25 Journeys](/sport-leadership/game-for-life/book/)
+* [Game For Life - Guide to developing character and leadership through sport](/sport-leadership/game-for-life/guide/)
 
 **Why should I be equipped with the Game For Life Toolkit?**
 The Game For Life Toolkit provides training, education and coaching to professionals looking to instil life-skills and values through sports. Corporations and educational institutions will be equipped with future skill sets and principles.
