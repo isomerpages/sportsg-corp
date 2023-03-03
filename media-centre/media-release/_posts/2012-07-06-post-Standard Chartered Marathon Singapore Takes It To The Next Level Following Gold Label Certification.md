@@ -118,30 +118,13 @@ Official YouTube Channel: www.youtube.com/SCMarathonSingapore
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
 Race Categories:
+<BR>Categories
+![](/images/Media%20Centre/Media%20Release/2012/Jul/Annex%20A-%20Standard%20Chartered%20Marathon%20Singapore%202012%20Fact%20Sheet.png)
 
-Categories
+*Note:*
+*    It is compulsory for a parent/guardian to accompany any child six years and below during the Kids Dash for safety purposes, failing which, the Organiser reserves the right to refuse entry to the participant.
 
-Participation Quota
-
-Full Marathon - 42.195km
-25,000
-Ekiden - 42.195 km
-Half Marathon - 21.1km
-10,000
-10km - Men / Women / Wheelchair
-
-20,000
-
-Kids Dash - 750m
-
-5,000
-
-*Note:
-
--    It is compulsory for a parent/guardian to accompany any child six years and below during the Kids Dash for safety purposes, failing which, the Organiser reserves the right to refuse entry to the participant.
-
--    Only one parent/guardian issued with an identification tag will be allowed to accompany any child six years and below.
-
+*    Only one parent/guardian issued with an identification tag will be allowed to accompany any child six years and below.
 
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/SC%20Marathon%20SG%20Takes%20It%20To%20The%20Next%20Level%20Following%20Gold%20Label%20CertificationIMAGE2.png)
 
