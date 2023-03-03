@@ -33,7 +33,7 @@ Annex A: Welcome Address by Mr Teo Chee Hean, Deputy Prime Minister, Coordinatin
 Click here to view the welcome address.
 
 Annex B: About The SNOC Multi-Million Dollar Award Programme (MAP)
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0048Imagegif.gif)
 For competitive athletes, the cost of training at elite level requires an enormous financial investment over many years. Of all athletes who dream of winning an Olympic medal, only a small percentage will find themselves on the podium at the Games.
 
 The Singapore National Olympic Council in the 1990s, under the direction of then President Dr. Yeo Ning Hong, devised an incentive scheme to reward medal-winning athletes. The Multi-Million Dollar Award Programme provides a cash payout to athletes who win medals at the Olympic, Asian, Commonwealth and South East Asian (SEA) Games.
