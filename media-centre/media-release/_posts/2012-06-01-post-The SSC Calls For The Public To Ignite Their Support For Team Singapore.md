@@ -6,14 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-The SSC Calls For The Public To Ignite Their Support For Team Singapore
-01 Jun 2012
+## **The SSC Calls For The Public To Ignite Their Support For Team Singapore**
 
-
-The SSC Partners ITE, McDonald's and NLB to Gather Support for Team Singapore from the Heartlands
-
+*The SSC Partners ITE, McDonald's and NLB to Gather Support for Team Singapore from the Heartlands*
+![](/images/Media%20Centre/Media%20Release/2012/Jun/THESSCCALLSFORPUBLICTOIGNITETHEIRSUPPORTFORTEAMSINGAPOREMainPar0042Imagegif.gif)
 	
-Singapore, 1 June 2012 - The Singapore Sports Council (SSC) in partnership with the Institute of Technical Education (ITE), McDonald's and the National Library Board (NLB) launched a three-month long campaign today to gather 200,000 well-wishes from the public for Team Singapore to take to the London 2012 Olympic and Paralympic Games.
+**Singapore, 1 June 2012** - The Singapore Sports Council (SSC) in partnership with the Institute of Technical Education (ITE), McDonald's and the National Library Board (NLB) launched a three-month long campaign today to gather 200,000 well-wishes from the public for Team Singapore to take to the London 2012 Olympic and Paralympic Games.
 
 2. The campaign was launched with the unveiling of a mural of seven athletes designed by students from ITE to commemorate Team Singapore's participation at the London 2012 games. After unveiling the mural, the guest-of-honour, Madam Halimah Yacob, Minister of State for Community Development, Youth and Sports, penned her well-wishes for Team Singapore alongside Ms Jessie Phua, Chef de Mission (CDM) for the London 2012 Olympic Games, Mr Frankie Thanapal Sinniah PBM BBM, CDM for the London 2012 Paralympic Games.
 
