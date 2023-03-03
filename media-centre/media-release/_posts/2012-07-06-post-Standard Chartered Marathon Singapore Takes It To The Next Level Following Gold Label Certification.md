@@ -7,12 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-Standard Chartered Marathon Singapore Takes It To The Next Level Following Gold Label Certification
-06 Jul 2012
+## **Standard Chartered Marathon Singapore Takes It To The Next Level Following Gold Label Certification**
 
-
-	
-Singapore, 6 July 2012 - Singapore's premier running event, the Standard Chartered Marathon Singapore (SCMS), is set to live up to its status as an International Association of Athletics Federation (IAAF) Gold Label race by delivering an enhanced race experience for all.
+**Singapore, 6 July 2012** - Singapore's premier running event, the Standard Chartered Marathon Singapore (SCMS), is set to live up to its status as an International Association of Athletics Federation (IAAF) Gold Label race by delivering an enhanced race experience for all.
 
 2. Leading the way is Mr Lim Teck Yin, Chief Executive Officer of the SSC and Chairman of the marathon organising committee. He said, "Running is the most popular sport in Singapore and the SCMS is the only Gold Label certified running event locally to date. We believe the sweet spot for a good quality marathon in Singapore's context is in the range of 60,000 runners. This will allow us to pay more attention to the race experience, which is not only about running along a scenic route, but also about the ambience along the running route and other programmes we organise around the marathon in the lead up to and during race day."
 
