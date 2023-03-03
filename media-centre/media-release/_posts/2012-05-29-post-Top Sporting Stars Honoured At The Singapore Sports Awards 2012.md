@@ -6,11 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-Top Sporting Stars Honoured At The Singapore Sports Awards 2012
-29 May 2012
+### **Top Sporting Stars Honoured At The Singapore Sports Awards 2012**
 
 
-Fu Mingtian and Joseph Schooling Earned Top Spots at the Event
+F*u Mingtian and Joseph Schooling Earned Top Spots at the Event*
 
 	
 Singapore, 29 May 2012 - The Sporting Singapore fraternity gathered tonight at the Singapore Sports Awards (SSA) 2012 to honour the nation's top sporting talents for their notable achievements in the past year. The event, graced by President Tony Tan Keng Yam and Mrs Mary Tan, saw athletes and officials being awarded with Singapore's most prestigious recognition for sporting achievements.
@@ -875,21 +874,21 @@ Swimming
  
 
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Tanty Nazlianah
-Senior Manager, Media Relations
-Singapore Sports Council
-Email: tanty_nazlianah@ssc.gov.sg
+vSenior Manager, Media Relations
+vSingapore Sports Council
+vEmail: tanty_nazlianah@ssc.gov.sg
 
 S. Parameswaran
-Assistant Director, Media Relations
-Singapore Sports Council
-Email: parames_seenivasagam@ssc.gov.sg
+vAssistant Director, Media Relations
+vSingapore Sports Council
+<br>Email: parames_seenivasagam@ssc.gov.sg
 
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
