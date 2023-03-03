@@ -77,89 +77,18 @@ III.     Sportsboy/ Sportsgirl Meritorious Awards (Team Sport)
 | -------- | -------- | -------- |
 | 01     | National Hockey Under-18 Boys' Team <br>Nur Ashriq Ferdaus <br>Ong Pang Chian Samudra Setya Putra <br>Zulfadli Jasni Ismail <br>Amirul Asyraf <br>Shafiq A Rashid <br>Mohd Fadzly Bin Mohd Adam <br>Silas A Razak <br>Aloysius Lim Ting Zhao <br>Ashraff Bin Alias <br>Muhammad Hidayat Bin Mat Rahim <br>Karleef Sasi Abdullah <br>Timothy Goh Kai Yang <br>Muhd Syakiran Bin Muhd Ya'kob <br>Muhammad Haseef Bin Salim <br>Jaspal Singh Grewal <br>Rahmat B Abd Jalil<br> Al'fien Amir <br>Syamirul Arshad | Hockey
 
- 
-
 IV.      Meritorious Awards (Individual)
-
- 
-
-S/N
-
-AWARDEE
-
-SPORTS
-
-01
-
-James Wong Tuck Yim
-
- 
-
-Athletics
-
-02
-
-Zhang Guirong
-
- 
-
-Athletics
-
-03
-
-Remy Ong
-
- 
-
-Bowling
-
-04
-
-Shayna Ng Lin Zhi
-
- 
-
-Bowling
-
-05
-
-Cherie Tan Shi Hua
-
- 
-
-Bowling
-
-06
-
-Geraldine Lee Wei Ling
-
- 
-
-Canoeing
-
-07
-
-Peter Edward Gilchrist
-
- 
-
-Cuesports
-
-08
-
-Victoria Chan Jing Hua
-
- 
-
-Sailing
-
-09
-
-Danny Yeo Kai Quan
-
- 
-
-Swimming
+| S/N | AWARDEE | SPORTS |
+| -------- | -------- | -------- |
+| 01     | James Wong Tuck Yim  | Athletics
+| 02 | Zhang Guirong | Athletics
+| 03 | Remy Ong | Bowling
+| 04 | Shayna Ng Lin Zhi | Bowling| 
+| 05 | Cherie Tan Shi Hua | Bowling
+| 06 | Geraldine Lee Wei Ling | Canoeing
+| 07 | Peter Edward Gilchrist | Cuesports
+| 08 | Victoria Chan Jing Hua | Sailing
+| 09| Danny Yeo Kai Quan | Swimming
 
 10
 
