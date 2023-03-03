@@ -7,7 +7,7 @@ description: "Sport Singapore (previously known as Singapore Sports Council) is
   sport. "
 image: /images/sportsg logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Sport Singapore
