@@ -51,17 +51,25 @@ WEBSITE:       http://www.london2012.com
 
 NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 
-Sport
+| Sports | Date |  |
+| -------- | -------- | -------- |
+| Opening Ceremony    | 27 July 2012    | 
+| Closing Ceremony   | 12 August 2012    |  
+| Canoe Sprint   | 6 August - 11 August 2012    |    
+| Gymnastics - Artistic   | 28 July - 7 August 2012   | 
+| Sailing  | 29 July - 11 August 2012   | 
+| Shooting   | 28 July - 6 August 2012    |  
+| Swimming   | 28 July - 10 August 2012    |    
+| Table Tennis   | 28 July - 8 August 2012   | 
+| Sailing  | 29 July - 11 August 2012   |
 
-Date
 
-Opening Ceremony
 
-27 July 2012
 
-Closing Ceremony
 
-12 August 2012
+
+
+
 
 Archery
 
@@ -228,10 +236,4 @@ CHEF DE MISSION TO LONDON 2012 OLYMPICS: Mrs Jessie Phua
 | Shooting   | 28 July - 6 August 2012    |  
 | Swimming   | 28 July - 10 August 2012    |    
 | Table Tennis   | 28 July - 8 August 2012   | 
-| Sailing  | 29 July - 11 August 2012   |  
-
-
-
-
-
-
+| Sailing  | 29 July - 11 August 2012   |
