@@ -216,25 +216,16 @@ CHEF DE MISSION TO LONDON 2012 OLYMPICS: Mrs Jessie Phua
 <br>TEAM SINGAPORE PLEDGE TAKER: Lim Heem Wei (Gymnastics)
 <br>TEAM SINGAPORE'S PARTICIPATION: 8 Sports
 
-Sport
 
-Date
 
-Athletics
+| Sports | Date |  |
+| -------- | -------- | -------- |
+| Athletics    | 3 August - 12 August 2012    | 
+| Badminton   | 28 July - 5 August 2012    |  
+| Canoe Sprint   | 6 August - 11 August 2012    |    
+| Gymnastics - Artistic   | 28 July - 7 August 2012   |  
 
-3 August - 12 August 2012
 
-Badminton
-
-28 July - 5 August 2012
-
-Canoe Sprint
-
-6 August - 11 August 2012
-
-Gymnastics - Artistic
-
-28 July - 7 August 2012
 
 Sailing
 
