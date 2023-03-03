@@ -6,14 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-Inaugural Singapore National Games Scores A Hat-Trick With Yonex and Mikasa
-11 Jul 2012
+## **Inaugural Singapore National Games Scores A Hat-Trick With Yonex and Mikasa**
 
-
-Sponsorship Deal Worth S$2.65 Million is for Three Editions of the Games
-
+**Sponsorship Deal Worth S$2.65 Million is for Three Editions of the Games**
+![](/images/Media%20Centre/Media%20Release/2012/Jul/INAUGURALSINGAPORENATIONALGAMESSCORESAHATTRICKWITHYONEXANDMIKASAMainPar0061Imagegif.gif)
 	
-Singapore, 11 July 2012 - Come September 2012, more than 3,000 volunteers, workforce officials and VIP guests of the inaugural Singapore National Games (SNG) 2012 will be decked out in official apparel and accessories such as waist pouches and water bottles by popular sport brand apparel, Yonex. This was made possible through the S$2.65 million sponsorship agreement inked today between SNG's co-organisers - the Singapore Sports Council (SSC) and the People's Association (PA) - and Sunrise & Company Private Limited, distributor of Yonex in Singapore.
+**Singapore, 11 July 2012** - Come September 2012, more than 3,000 volunteers, workforce officials and VIP guests of the inaugural Singapore National Games (SNG) 2012 will be decked out in official apparel and accessories such as waist pouches and water bottles by popular sport brand apparel, Yonex. This was made possible through the S$2.65 million sponsorship agreement inked today between SNG's co-organisers - the Singapore Sports Council (SSC) and the People's Association (PA) - and Sunrise & Company Private Limited, distributor of Yonex in Singapore.
 
 2. Yonex is also the official supplier of all equipment used in Badminton, one of the 10 sports in the SNG. Renowned game ball brand, Mikasa, also distributed by Sunrise & Company, will be the official ball provider for Basketball, Football and Netball.
 
@@ -75,7 +73,6 @@ For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 **About People's Association**
 <br>
 The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at www.pa.gov.sg and www.OurCommunity.sg.
-
 
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/INAUGURALSINGAPORENATIONALGAMESSCORESAHATTRICKWITHYONEXANDMIKASAMainPar0042Imagegif.gif)
 Signing up for your favourite courses just got easier. Simply log on to www.OurCommunity.sg on your smartphone!
