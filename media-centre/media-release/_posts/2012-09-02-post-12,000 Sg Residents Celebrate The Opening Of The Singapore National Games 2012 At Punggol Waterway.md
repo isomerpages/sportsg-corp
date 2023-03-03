@@ -21,10 +21,10 @@ image: ""
 -END-
 
 Annex
-
-The Singapore National Games 2012
-List of SNG Baton Bearers and Pledge-Takers
-
+<br>
+**The Singapore National Games 2012
+List of SNG Baton Bearers and Pledge-Takers**
+<br>
 (I) List of SNG 2012 Baton Bearers
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGRESIDENTSOFALLAGESRACESANDBKGDSCELEBRATEOPENINGSGNATIONALGAMES2012ATMainPar0040Imagegif.gif)
 
@@ -34,16 +34,16 @@ List of SNG Baton Bearers and Pledge-Takers
 
 
 
-The Singapore National Games 2012
-SNG Athletes & Officials' Oath
+**The Singapore National Games 2012
+SNG Athletes & Officials' Oath**
 
 The athletes and officials raise their right hands while reciting the oath in unison:
 
 "On behalf of all the athletes and officials taking part in the Singapore National Games, we promise to abide by the rules of the Games, in the true spirit of sportsmanship and for the honour of our people and greater good of our communities."
 
-The Singapore National Games 2012
-Fact Sheet - Cluster Raft Design Competition
-
+**The Singapore National Games 2012
+Fact Sheet - Cluster Raft Design Competition**
+<br>
 OBJECTIVES
 (a) To ignite the sporting passion of all Singaporeans
 (b) To leverage on the occasion to build bonds and friendship among residents
