@@ -76,39 +76,16 @@ Mr Chan Chun Sing
 <br>Group Chief Executive Officer, NTUC FairPrice Co-operative Ltd
 15. Mr Leonard Tan
 <br>Founder and Chief Executive Officer, PurpleClick Media Pte Ltd
-
- 
-
-16.  Mr Stanley Tan
-
-Chairman, National Volunteer & Philanthropy Centre
-
- 
-
-17.  Mrs Josephine Teo
-
-Minister of State, Ministry of Finance and Ministry of Transport
-
- 
-
-18.  Mr Teo Ser Luck
-
-Minister of State, Ministry of Trade and Industry and Mayor, North East District
-
- 
-
-19.  Mr Lawrence Wong
-
-Minister of State, Ministry of Defence and Ministry of Education
-
- 
-
-20.  Mr Masagos Zulkifli
-
-Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
-
- 
-
+16. Mr Stanley Tan
+<br>Chairman, National Volunteer & Philanthropy Centre
+17. Mrs Josephine Teo
+<br>Minister of State, Ministry of Finance and Ministry of Transport
+18. Mr Teo Ser Luck
+<br>Minister of State, Ministry of Trade and Industry and Mayor, North East District
+19. Mr Lawrence Wong
+<br>Minister of State, Ministry of Defence and Ministry of Education
+20. Mr Masagos Zulkifli
+<br>Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
 
 **For media enquiries, please contact:**
 <br>
