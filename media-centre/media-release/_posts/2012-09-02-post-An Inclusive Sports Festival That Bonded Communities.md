@@ -93,9 +93,7 @@ Annex B: SNG Sports Points System for Sports Challenge Shield and Community Chal
 
 2. Overview
 * The overall winning Cluster for each sport will be based on the total points derived from two components, Excellence and Participation. The diagram below shows the weightage for each component.
-
-
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0041Imagegif.gif)
  
 
 2.1 Points System for Excellence Component (70%)
