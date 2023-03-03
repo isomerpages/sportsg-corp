@@ -115,7 +115,7 @@ V.         Meritorious Awards (Event)
 | 16 |  National Table Tennis Men's Doubles Team <br>Ma Liang <br>Pang Xuejie | Table Tennis
 | 17 | National Swimming 4x100m Medley Relay Women's Team
 <br>Shana Lim Jia Yi <br>Amanda Lim Xiang Qi <br>Yeo Samantha Louisa Ginn <br>Tao Li | Swimming
-| 18 | National Swimming 4x200m Freestyle Relay Men's Team <br>Danny Yeo Kai Quan <br>Clement Lim Yong'En <br>Jeremy Kevin Mathews <br>Teo Zhen Ren | Swimming
+|18 | National Swimming 4x200m Freestyle Relay Men's Team <br>Danny Yeo Kai Quan <br>Clement Lim Yong'En <br>Jeremy Kevin Mathews <br>Teo Zhen Ren | Swimming
 
 MAIN AWARDS
 
