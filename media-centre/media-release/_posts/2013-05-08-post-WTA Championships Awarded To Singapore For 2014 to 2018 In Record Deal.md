@@ -61,20 +61,20 @@ Chris Wallace, WTA, +1.727.502.1234, cwallace@wtatennis.com
 Shyamala Velappan, WSG, +65 6826 2688, s.velappan@wsgworld.com
 
 
-About the WTA
-
+**About the WTA**
+<br>
 The WTA is the global leader in women's professional sport with more than 2,500 players representing 92 nations competing for more than $100 million in prize money at the WTA's 54 events and four Grand Slams in 33 countries. More than 5.4 million people attended women's tennis events in 2012 with millions more watching on television and digital channels around the world. The 2013 WTA competitive season concludes with the TEB BNP Paribas WTA Championships in Istanbul, Turkey, October 22-27, and the Qatar Airways Tournament of Champions in Sofia, Bulgaria, October 29- November 3.
 
 Further information on the WTA can be found on www.wtatennis.com, facebook.com/WTA and twitter.com/WTA.
 
 WTA
-100 Second Avenue
-South, Suite 1100-S
-St. Petersburg, FL 33701
-USA
-TEL +1 727 895 5000
-FAX +1 727 894 1982
-www.wtatennis.com
+<br>100 Second Avenue
+<br>South, Suite 1100-S
+<br>St. Petersburg, FL 33701
+<br>USA
+<br>TEL +1 727 895 5000
+<br>FAX +1 727 894 1982
+<br>[www.wtatennis.com](www.wtatennis.com)
 
 **About the Singapore Sports Council**
 <br>
