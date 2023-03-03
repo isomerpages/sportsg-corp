@@ -2,4 +2,5 @@ collections:
   sport-leadership:
     output: true
     order:
+      - Latest/GFL CoP with New Inclusion of Sports Coaches.md
       - Latest/.keep
