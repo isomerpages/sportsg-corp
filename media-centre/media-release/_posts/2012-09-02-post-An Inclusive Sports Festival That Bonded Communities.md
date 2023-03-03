@@ -113,13 +113,12 @@ Each cluster will be awarded points based on the total number of participants re
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0053Imagegif.gif)
 
  
-
 Notes:
 In the event of a tie, teams will be awarded the higher of the position points.
 E.g. If three teams are tied for 3rd position, all three teams will be awarded 900 points
 
-Annex C: Fact Sheet on SNG
-
+**Annex C: Fact Sheet on SNG**
+<br>
 The Singapore National Games 2012 (SNG) is a new biennial multi-sports festival that bridges community participation and sports excellence, and will offer residents of all ages, races and from different estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
 
 The inaugural SNG saw community teams pitting against each other in ten sports. The SNG was jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, the Community Sports Clubs, as well as the National Sports Associations (NSAs) of the ten sports. It aims to be a meaningful and memorable sporting festival that ignites passion, builds character, and connects people and bonds Singaporeans.
