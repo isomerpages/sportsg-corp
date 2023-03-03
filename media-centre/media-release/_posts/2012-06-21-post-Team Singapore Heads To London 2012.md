@@ -223,22 +223,15 @@ CHEF DE MISSION TO LONDON 2012 OLYMPICS: Mrs Jessie Phua
 | Athletics    | 3 August - 12 August 2012    | 
 | Badminton   | 28 July - 5 August 2012    |  
 | Canoe Sprint   | 6 August - 11 August 2012    |    
-| Gymnastics - Artistic   | 28 July - 7 August 2012   |  
+| Gymnastics - Artistic   | 28 July - 7 August 2012   | 
+| Sailing  | 29 July - 11 August 2012   | 
+| Shooting   | 28 July - 6 August 2012    |  
+| Swimming   | 28 July - 10 August 2012    |    
+| Table Tennis   | 28 July - 8 August 2012   | 
+| Sailing  | 29 July - 11 August 2012   |  
 
 
 
-Sailing
 
-29 July - 11 August 2012
 
-Shooting
 
-28 July - 6 August 2012
-
-Swimming
-
-28 July - 10 August 2012
-
-Table Tennis
-
-28 July - 8 August 2012
