@@ -50,4 +50,4 @@ For a detailed impact analysis report on the Game for Life intervention at the R
 
 To learn more about the Game for Life Toolkit, please click [here](/sports-education/sports-leadership/game-for-life/).
 
-The RMFTA coaches were invited to conduct a values-based football session as part of the Game-for-Life Workshop for coaches in May 2016. Read more about what happened during the workshop [here](https://www.sportsingapore.gov.sg/sports-education/sports-leadership/latest/2016/5/gfl-workshop-for-coaches).
+The RMFTA coaches were invited to conduct a values-based football session as part of the Game-for-Life Workshop for coaches in May 2016.
