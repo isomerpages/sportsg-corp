@@ -47,18 +47,18 @@ Annex A: Team Singapore Performance at London 2012
 In Singapore:
 <br>Lin Kuek
 <br>Hill+Knowlton Strategies
-<br>Email: lin.kuek@hkstrategies.com
+<br>Email: [lin.kuek@hkstrategies.com](lin.kuek@hkstrategies.com)
 
 Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
 In London:
 <br>Antony Lee
 <br>Singapore National Olympic Council
-<br>Email: antonylee@snoc.org.sg
+<br>Email: [antonylee@snoc.org.sg](antonylee@snoc.org.sg)
 
 **About Team Singapore**
 <br>
@@ -68,15 +68,15 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information on Team Singapore, please visit www.teamsingapore.com.sg
-
+For further information on Team Singapore, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg)
+<br>
 Follow Team Singapore's action on Facebook at: www.facebook.com/TeamSG
 
-About the Singapore National Olympic Council
-
+**About the Singapore National Olympic Council**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information on Singapore's expression of the Olympic Spirit, please visit www.snoc.org.sg.
 
-About the Singapore Sports Council**
+**About the Singapore Sports Council**
 **<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
