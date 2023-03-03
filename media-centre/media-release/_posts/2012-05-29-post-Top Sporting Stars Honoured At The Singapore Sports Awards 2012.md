@@ -121,17 +121,9 @@ V.         Meritorious Awards (Event)
 | -------- | -------- | -------- |
 | 01     | Best Sports Event of the Year (Local) | OCBC Cycle Singapore <br>-Event Promoter: Spectrum Worldwide <br>-Official Sponsor: OCBC Group
 | 02 | Best Sports Event of the Year (International) | 2011 Formula 1 SingTel Singapore Grand Prix <br>-Event Organiser/Promoter: Singapore GP Pte Ltd <br>-Title Sponsor: SingTel Group
-| 03 | Most Inspiring Sports Story of the Year
+| 03 | Most Inspiring Sports Story of the Year | ?Not just flesh and blood, but the football HEART? by Terrence Voon from The Straits Times
 
- 
-
-?Not just flesh and blood, but the football HEART? by Terrence Voon from The Straits Times
-
- 
-
- 
-
-MAIN AWARDS - CONTINUED
+**MAIN AWARDS - CONTINUED**
 
  
 
