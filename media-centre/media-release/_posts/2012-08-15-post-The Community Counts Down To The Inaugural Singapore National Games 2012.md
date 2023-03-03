@@ -60,7 +60,7 @@ Participation is open to Singapore Citizens as well as non-Citizens, including S
 Earlier this year, close to 10,000 residents took part in the annual Community Games, which served as the qualifying round for seven out of the 10 participating sports for the SNG in the years when it is held. To date, more than 300 teams made up of Singaporeans, permanent residents and expatriates who reside in Singapore have qualified to compete in the Games come September. From 1 to 9 September, we will be seeing close to 5,000 community athletes competing in the SNG.
 
 For full information (full listings, venues and dates) on the Singapore National Games, please visit SNG official site www.singaporenationalgames.sg
-
+![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0040Imagegif.gif)
 
 
 
