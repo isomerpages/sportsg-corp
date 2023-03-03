@@ -82,7 +82,6 @@ Signing up for your favourite courses just got easier. Simply log on to [www.Our
 Sunrise & Company Pte Ltd is one of the leading wholesalers/distributors of branded sports equipment, accessories, apparel and sports footwear in several countries of South East Asia and South Asia. The company has its headquarter in Singapore and offices/associates in Malaysia, Indonesia, Brunei, Vietnam, Philippines, Hong Kong, Macau, India & Sri Lanka.
 
 The internationally renowned brands represented by the company are:
-
 **Yonex** - World leader for top quality badminton racquets and related products, tennis racquets and golf equipment.
 
 **Mikasa** - The leading international game ball brand from Japan. It is the official game ball of Olympics for the sport of Indoor Volley Ball, Beach Volleyball and Water polo.
