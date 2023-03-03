@@ -17,7 +17,7 @@ image: ""
 3. Saturday Night Lights provides a holistic sporting experience for youth where and when they need it most. From 7 to 11 pm, SNL offers a welcoming environment, quality coaching, supportive volunteers, bus services and a nutritious meal at the end of the night - all at no charge to the youth. The coaches and the volunteers from the community, the corporate world, and SportCares and SSC use football to reinforce good values such as respect for team work and leadership, discipline in thinking and action and a commitment to a greater purpose.
 
 **Leveraging partnerships with grassroots organisations**
-	
+	![](/images/Media%20Centre/Media%20Release/2013/May/SPORTCARESPARTNERSGRASSROOTSTOCHANGELIVESOFVULNERABLEYOUTHTHROUGHFOOTBALLMainPar0053Imagegif.gif)
 4. Over the past eight weeks, three groups of youth from the Beacon of Life Football Academy (BOLA) in Taman Jurong, Henderson Free Kicks Programme and Delta League from Jurong Springs have been participating in a pilot run of the SNL football programme. The teams' involvement was a result of ongoing partnerships between SportCares and grassroots organisations.
 
 5. BOLA for instance, is an initiative by residents of Taman Jurong, with Deputy Prime Minister Tharman Shanmugaratnam serving as Patron. The recently-formed academy is helmed by a volunteer group comprising ex-offenders and community-minded volunteers who believe in the power of sport and education to transform lives.
