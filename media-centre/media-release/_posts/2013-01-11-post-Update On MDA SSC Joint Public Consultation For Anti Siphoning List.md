@@ -8,7 +8,9 @@ image: ""
 ---
 ## **Update On MDA-SSC Joint Public Consultation For Anti-Siphoning List**
 **Singapore, 11 January 2013** - The MDA has gazetted the revised anti-siphoning list ("List") on 11 January 2013. This marks the conclusion of the two-phased review of the List, which started in February 2012.
+
 ![](/images/Media%20Centre/Media%20Release/2013/Jan/UPDATEONMDASSCJOINTPUBLICCONSULTATIONFORANTISIPHONINGLISTMainPar0042Imagegif.gif)
+
 The List classifies the programmes into two categories:
 
 (a) Category A: Pay-TV retailers cannot acquire exclusive "live" or "delayed" rights to broadcast all or part of the programme; and
