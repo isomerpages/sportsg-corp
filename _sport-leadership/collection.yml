@@ -2,8 +2,8 @@ collections:
   sport-leadership:
     output: true
     order:
-      - Game For Life/.keep
-      - Sports Leadership Workshops/TeamUP Certification FAQ.md
       - Sports Leadership Workshops/.keep
-      - GFL CoP with New Inclusion of Sports Coaches.md
+      - Sports Leadership Workshops/TeamUP Certification FAQ.md
       - Latest/.keep
+      - Game For Life/.keep
+      - GFL CoP with New Inclusion of Sports Coaches.md
