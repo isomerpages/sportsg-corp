@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-MDA-SSC Launches Joint Public Consultation For Anti-Siphoning List
-20 Sep 2012
+## **MDA-SSC Launches Joint Public Consultation For Anti-Siphoning List**
 
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/MDASSCLAUNCHESJOINTPUBLICCONSULTATIONFORANTISIPHONINGLISTMainPar0042Imagegif.gif)
 	
