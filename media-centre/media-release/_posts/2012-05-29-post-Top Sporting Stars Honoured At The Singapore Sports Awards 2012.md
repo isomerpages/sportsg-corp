@@ -101,63 +101,12 @@ V.         Meritorious Awards (Event)
 | 01     | National Bowling Women's Team<br>New Hui Fen <br>Jazreel Tan Shi Hua <br>Daphne Tan Shi Jing <br>Shayna Ng Lin Zhi <br>Cherie Tan Shi Hua <br>Jasmine Yeong-Nathan | Bowling
 | 02 | National Athletics 4x100m Relay Men's Team <br>Muhd Elfi Mustapa <br>Gary Yeo Foo Ee <br>Calvin Kang Li Loon <br>Lim Yao Peng <br>Muhd Amirudin Jamal <br>Lee Cheng Wei | Athletics
 | 03 | National Canoeing Women's K2 Team <br>Suzanne Seah <br>Stephenie Chen Jiexian | Canoeing
-| 04 | National Bowling Women's Doubles Team (World Cup)
-
-New Hui Fen
-
-Jazreel Tan Shi Hua
-
-| Bowling
-| 05 | National Bowling Women's Doubles Team (Asian Cup)
-
-Daphne Tan Shi Jing
-
-Bernice Lim Hui Ying | Bowling
-| 06 | National Bowling Women's Doubles Team (Commonwealth Championship)
-
-Geraldine Ng Su Yi
-
-Shayna Ng Lin Zhi
-
- 
-
-| Bowling
-| 07
-
-National Women Artistic Gymnastics Team
-
-Rachel Giam Pei Shi
-
-Nur Atikah Nabilah Binte Mud Jufrie
-
-Krystal Khoo Oon Hui
-
-Lim Heem Wei
-
-Foo En Ning
-
-Joey Tam Jing Ying 
-| Gymnastics
-| 08
-
-National Sailing 470 Men's Team
-
-Russell Kan Tsung Liang
-
-Terence Koh Seng Kiat
-| Sailing
-
-| 09
-
-National Sailing 470 Women's Team
-
-Dawn Liu Xiaodan
-
-Sara Tan Li Ching
-
- 
-
-| Sailing
+| 04 | National Bowling Women's Doubles Team (World Cup) <br>New Hui Fen <br>Jazreel Tan Shi Hua | Bowling
+| 05 | National Bowling Women's Doubles Team (Asian Cup) <br>Daphne Tan Shi Jing <br>Bernice Lim Hui Ying | Bowling
+| 06 | National Bowling Women's Doubles Team (Commonwealth Championship) <br>Geraldine Ng Su Yi <br>Shayna Ng Lin Zhi | Bowling
+| 07 | National Women Artistic Gymnastics Team <br>Rachel Giam Pei Shi <br>Nur Atikah Nabilah Binte Mud Jufrie <br>Krystal Khoo Oon Hui <br>Lim Heem Wei <br>Foo En Ning <br>Joey Tam Jing Ying | Gymnastics
+| 08 | National Sailing 470 Men's Team <br>Russell Kan Tsung Liang <br>Terence Koh Seng Kiat| Sailing
+| 09 | National Sailing 470 Women's Team <br>Dawn Liu Xiaodan <br>Sara Tan Li Ching | Sailing
 
 | 10
 
