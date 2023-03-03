@@ -7,9 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-53,000 Runners Get Into The Festive Mood As They Race Through The City Of Singapore
-02 Dec 2012
-
+## **53,000 Runners Get Into The Festive Mood As They Race Through The City Of Singapore**
 
 Singapore, 2 December 2012 - Starting from 5.00am, 53,000 people started off on their races in the Standard Chartered Marathon Singapore across various categories of Full Marathon, Half Marathon, 10km and Kids Dash. Featuring three different routes, runners took in the sights of iconic landmarks in Singapore including Orchard Road, Universal Studios Singapore, Sentosa, Singapore Flyer and Gardens by the Bay.
 
