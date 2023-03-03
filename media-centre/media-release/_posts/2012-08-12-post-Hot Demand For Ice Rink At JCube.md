@@ -59,7 +59,7 @@ Photo by Singapore Sports Council and CapitaMalls Asia
 Jemuel Fu
 <br>Executive, Media Relations
 <br>Singapore Sports Council
-<br>Email: jemuel_fu@ssc.gov.sg
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
 
 **About the Singapore Sports Council**
 <br>
