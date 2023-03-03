@@ -10,7 +10,6 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/nsys.jpeg)
 	
 **Singapore, 9 November 2012** - Reducing the drop-off in sports participation after full-time education; developing integrated pathways to create sports champions; creating more opportunities for regular sports participation at all stages in life; rooting out bad sportsmanship while inculcating values and building character - these are just a few of the outcomes the newly formed Sports Pathways Committee (SPC) aims to achieve in the coming years.
-
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/COMMITTEETASKEDTOCREATELIFELONGOPPORTUNITIESINSPORTSUNVEILEDMainPar0042Imagegif.gif)
 
 2. One of the 20 recommendations under Vision 2030, the current 11-member SPC consists of key stakeholders across the value chain in the education, defence and community sectors.
