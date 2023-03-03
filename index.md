@@ -15,10 +15,6 @@ sections:
       background: /images/IMG_95502.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
   - infobar:
       title: Infobar title
       subtitle: Subtitle
