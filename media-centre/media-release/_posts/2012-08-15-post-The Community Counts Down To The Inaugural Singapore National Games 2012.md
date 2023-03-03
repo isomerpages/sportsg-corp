@@ -95,27 +95,27 @@ To take part in the 'Spot the Nila' Contest, Singapore residents will need to ca
 The first 10 fans to submit their photographs to the SNG Facebook fan page each day will each win an exclusive SNG goodie bag. All winners will be notified via private message on how to collect their prizes.
 
 For more information on the 'Spot-the-Nila' contest, visit the SNG Facebook fan page at www.facebook.com/singaporenationalgames.
-
+<br>
 For photographs of Nila and the other 15 cluster mascots, please go to: www.flickr.com/photos/ssc-sportsphotography/collections/72157630231650052/
 
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 U-Lynn LEE
-Fulford Public Relations 
-Email: ullee@fulfordpr.com
+<br>Fulford Public Relations 
+<br>Email: ullee@fulfordpr.com
 
 Tanty Nazlianah ROSLI 
-Singapore Sports Council 
-Email: tanty_nazlianah@ssc.gov.sg
+<br>Singapore Sports Council 
+<br>Email: tanty_nazlianah@ssc.gov.sg
 
 Adlina JAFFAR
-People's Association
-Email: adlina_jaffar@pa.gov.sg
+<br>People's Association
+<br>Email: adlina_jaffar@pa.gov.sg
 
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
