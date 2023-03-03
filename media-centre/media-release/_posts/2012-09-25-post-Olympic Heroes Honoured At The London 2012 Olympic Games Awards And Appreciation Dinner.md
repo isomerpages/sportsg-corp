@@ -53,12 +53,12 @@ Annex C: List of Appreciation Plaque Recipients
 <br>
 Lin Kuek
 <br>Hill+Knowlton Strategies
-<br>Email: lin.kuek@hkstrategies.com
+<br>Email: [lin.kuek@hkstrategies.com](lin.kuek@hkstrategies.com)
 
 Patricia Yee
 <br>Executive, Media Relations
 <br>Singapore Sports Council
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
 **About Team Singapore**
 <br>
