@@ -45,7 +45,7 @@ Annex C: SCMS Race Results (2009 - 2011)
 
 Annex A: List of Elite Athletes
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0047Imagegif.gif)
-
+![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0051Imagegif.gif)
 Annex B: Profiles of Top Elite Athletes
 Charles Mwai Kanyao
 
