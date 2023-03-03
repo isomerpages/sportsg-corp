@@ -52,8 +52,8 @@ Through great coaching, programmes and support, sport can develop people with a 
 
 
 SportCares
-Seeding Hope. Creating Opportunities.
-Growing Capabilities. Giving Back. Changing Lives.
+<br>Seeding Hope. Creating Opportunities.
+<br>Growing Capabilities. Giving Back. Changing Lives.
 
 Join the SportCares Movement by emailing: sportcares@ssc.gov.sg
 
