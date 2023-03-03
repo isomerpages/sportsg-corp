@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Committee Tasked To Create Lifelong Opportunities In Sports Unveiled
-09 Nov 2012
-
+## **Committee Tasked To Create Lifelong Opportunities In Sports Unveiled**
 
 	
 Singapore, 9 November 2012 - Reducing the drop-off in sports participation after full-time education; developing integrated pathways to create sports champions; creating more opportunities for regular sports participation at all stages in life; rooting out bad sportsmanship while inculcating values and building character - these are just a few of the outcomes the newly formed Sports Pathways Committee (SPC) aims to achieve in the coming years.
@@ -56,13 +54,9 @@ National Standards Lay Foundation for Youth to Grow and Develop through Sports
 
 13. An online guide for parents was also recently developed to highlight the roles and involvement of parents in their children's journey through sports. SSC will continue to work with the MOE to reach out to students and coaches of Co-Curricular Activities to promote the principles and standards of NSYS.
 
-
 (*1)The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, JCs, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a $10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
 
 (*2) A recommendation under Vision 2030, the Super Sports Clubs will be a home base for individuals, families and the community to gather, learn, train, and compete in a range of sports, and get together for social or business purposes. The Super Sports Clubs will provide affordable community-relevant programming and coaching for all skill levels and age groups, including fundamental movement skills for young children and modified sports for seniors. The community can enjoy spontaneous play, compete in league-based competitions or host one-off sporting events. The Clubs will also welcome corporate sports teams and will prepare members or teams to compete in national/open championships. The pilot concept for the Super Sports Clubs will be implemented in the first half of 2013.
-
-
-
 
 -END-
 
