@@ -86,41 +86,39 @@ Career Highlights:
 <br>2011 Toronto Waterfront Marathon, Champion (2:09:51)
 
 Luke Kibet
-
-Gender: Male
-Country: Kenya
-Birth Date: 12 April 1983
+<br>Gender: Male
+<br>Country: Kenya
+<br>Birth Date: 12 April 1983
 
 Personal Records:
-Full Marathon: 2:08:52
+<br>Full Marathon: 2:08:52
 
 The current course record holder (2:11:25) and two-time SCMS champion, Luke Kibet is also the champion at the 2007 World Championships 2007 in a time of 2:15:59 hours, making it the first Kenyan marathon victory at the World Championships since Douglas Wakiihuri in 1987. His personal best time is 2:08:52 hours, achieved in October 2005 in Eindhoven where he finished third. In 2008, he won the Standard Chartered Marathon Singapore with a course record of 2:13:01. Kibet successfully defended his title in 2009, breaking his own course record at 2:11:25.
 
 Career Highlights:
-2007 Vienna Marathon, Champion (2:10:07)
-2007 Osaka World Championships, Champion (2:15:59)
-2008 Singapore Marathon, Champion (2:13:01) – Course Record
-2009 Singapore Marathon, Champion (2:11:25) – Course Record
+<br>2007 Vienna Marathon, Champion (2:10:07)
+<br>2007 Osaka World Championships, Champion (2:15:59)
+<br>2008 Singapore Marathon, Champion (2:13:01) – Course Record
+<br>2009 Singapore Marathon, Champion (2:11:25) – Course Record
 
 Irene Jerotich Kosgei
-
-Gender: Female
-Country: Kenya
-Birth Date: 9 August 1974
+<br>Gender: Female
+<br>Country: Kenya
+<br>Birth Date: 9 August 1974
 
 Personal Records:
-Full Marathon: 2:28:57
+<br>Full Marathon: 2:28:57
 
 Having been crowned the women’s champion since 2010 (2:35:22) and 2011 (2:36:42), Irene Jerotich Kosgei is no stranger to the Standard Chartered Marathon Singapore. Her first victory over the distance came at the Nairobi Marathon in 2006 and she won the race again in 2010 with a course record and personal best time of 2:28:47. She is also the first Kenyan woman to win in the 2010 Commonwealth Games marathon with a timing of 2:34:32.
 
 Career Highlights:
-2008 Nairobi Marathon, Second (2:37:08)
-2009 Tiberias Marathon, Champion (2:39:07)
-2009 Nairobi Marathon, Champion (2:28:57) – Course record
-2010 New Delhi Commonwealth Games Marathon, Champion (2:34:32)
-2010 Singapore Marathon, Champion (2:35:22)
-2011 Singapore Marathon, Champion (2:36:42)
-2012 Milan Marathon, Champion (2:31:07)
+<br>2008 Nairobi Marathon, Second (2:37:08)
+<br>2009 Tiberias Marathon, Champion (2:39:07)
+<br>2009 Nairobi Marathon, Champion (2:28:57) – Course record
+<br>2010 New Delhi Commonwealth Games Marathon, Champion (2:34:32)
+<br>2010 Singapore Marathon, Champion (2:35:22)
+<br>2011 Singapore Marathon, Champion (2:36:42)
+<br>2012 Milan Marathon, Champion (2:31:07)
 
 Shitaye Gemechu
 
