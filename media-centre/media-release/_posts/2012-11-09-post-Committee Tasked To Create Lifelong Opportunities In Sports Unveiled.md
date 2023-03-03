@@ -34,7 +34,7 @@ Coordinating the development of sports spaces
 
 4. "There are many plus points in our sports system today that provide opportunities for youth to play sport recreationally and excel to the elite level where they can serve as an inspiration to others and build national pride. We are also beginning to better appreciate the value that sport can bring to inculcate positive values and build character. Thus, an opportunity exists to harness and integrate the collective strengths of all key stakeholder groups in the value chain to give us exponential returns in the years to come. This will ultimately result in more people, in all age groups, having more opportunities to participate in sport regularly," said Mr Lim Teck Yin, the Chairman of the Sports Pathways Committee and CEO of SSC.
 
-National Standards Lay Foundation for Youth to Grow and Develop through Sports
+**National Standards Lay Foundation for Youth to Grow and Develop through Sports**
 
 5. In line with the objectives of the SPC and Vision 2030, the Singapore Sports Council (SSC) launched today the National Standards for Youth Sports (NSYS) which would lay the foundation for youth to have an enriching sporting experience.
 
