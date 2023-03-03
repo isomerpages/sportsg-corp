@@ -30,3 +30,11 @@ Mr Mohammed Azhar Bin Yusof, Deputy Director of Coach Development in CoachSG sha
 *Mr Hanif Abdul Rahman, Principal Master Teacher, PESTA sharing on his experiences in New Zealand*
 
 Wrapping up the presentations, Mr Hanif Abdul Rahman, Principal Master Teacher for PE at MOE’s PE & Sports Teacher Academy (PESTA) shared on his experiences in New Zealand where he met Richie McCaw, ex-captain of the New Zealand All Blacks during a working opportunity. His takeaways included how building high performing teams start with self leadership where self awareness is important. In his presentation, Mr Hanif touched on how the teacher and coach can play a part in creating a team ethos in CCA teams so as to leave a lasting legacy in the team.
+
+![Shane](/images/Sport%20Leadership%20Latest/GFL%20CoP/Shane.jpeg)
+
+Shane Hong from Character & Leadership Development Team hosting the GFL CoP session
+
+The CoP participants also self-organized themselves in an open space discussion on CLDS topics and challenges that concerned them. Participants were provided the mobility to move around to conversations that resonated with them and which they felt deserve more discussions.
+
+Coaches or sports educators who are interested to contribute and be part of the CLDS conversations in consecutive CoP sessions can [email us](mailto:hong_xue_en@sport.gov.sg) and share with us your experiences implementing CLDS in your sphere of influence.
