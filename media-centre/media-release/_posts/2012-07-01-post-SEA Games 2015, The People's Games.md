@@ -115,9 +115,9 @@ The Singapore Sports Council aims to transform the nation through sport, by insp
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg.
 <br>
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: w[ww.facebook.com/letsplaysg](ww.facebook.com/letsplaysg)
 <br>
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About the Singapore National Olympic Council**
 <br>
