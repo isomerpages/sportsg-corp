@@ -23,15 +23,15 @@ SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
 6. 24-year-old Lim Hao Hiang Joey agrees. "Even though it was hard work, I found it very rewarding and a good learning experience volunteering at SNG. There are so many considerations when you are organising events of this scale. To do proper planning and to be ready for the unexpected ? lessons learnt for life. Thank you SNG for organising such a fantastic Games and for this appreciation night."
 
-NILA the Sporting Singapore Mascot
-
+**NILA the Sporting Singapore Mascot**
+<br>
 7. Mascots have a way to make people smile, rouse crowds and add a fun touch to any sports event. Nila, the SNG mascot was a hit with many people as he went out and about the community in the lead up to and during the Games. In recognition of his popularity with the public, Nila was appointed as Sporting Singapore's Mascot, which will see him making public appearances at sports events in Singapore.
 
 8. Nila was designed by 19-year-old Visual Communications and Media Design student, Beatrice Cho, from Singapore Polytechnic who entered the SNG mascot design competition in April this year. A delighted Beatrice said, "I?m so honoured to have my design be used long-term as a mascot for Sporting Singapore. This is definitely unexpected and it is such great news to know that my design has got this far. I hope that Nila will continue to be a character that resonates with Sporting Singapore and I am very thankful for the opportunity to be part of this."
 
 9. The SNG is jointly organised by the SSC, the PA and its grassroots organisations, the community sports clubs, as well as the National Sports Associations of the 10 participating sports, namely Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. The SNG aims to bridge communities in Singapore, where people of all ages, races and estates can participate and bond through competitive sports.
 
-10. For more information, please visit www.singaporenationalgames.sg.
+10. For more information, please visit [www.singaporenationalgames.sg](www.singaporenationalgames.sg).
 
 -END-
 
