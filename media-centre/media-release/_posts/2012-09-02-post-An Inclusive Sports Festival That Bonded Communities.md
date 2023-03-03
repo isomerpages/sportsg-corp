@@ -33,18 +33,18 @@ The Inaugural Singapore National Games Came To A Close With A Bang As More Than 
 
 11. The SNG is jointly organised by the SSC, the PA and its grassroots organisations, the community sports clubs, as well as the National Sports Associations of the 10 participating sports, namely Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. The SNG aims to bridge communities in Singapore, where people of all ages, races and estates can participate and bond through competitive sports.
 
-12. For more information, please visit www.singaporenationalgames.sg.
+12. For more information, please visit [www.singaporenationalgames.sg](www.singaporenationalgames.sg).
 
 -End-
 
-Annex A: Winners of the Sports Challenge Shield and Community Challenge Shield and selection criteria for both accolades
+**Annex A: Winners of the Sports Challenge Shield and Community Challenge Shield and selection criteria for both accolades**
 
-Winners of the Sports Challenge Shield
+**Winners of the Sports Challenge Shield**
 <br>1st Place: Chua Chu Kang (3153 points)
 <br>1st Runner-Up: Ang Mo Kio (3078 points)
 <br>2nd Runner-Up: Sembawang (2376 points)
 
-Winners of Community Challenge Shield
+**Winners of Community Challenge Shield**
 <br>1st Place: Sembawang
 <br>1st Runner-Up: Chua Chu Kang
 <br>2nd Runner-Up: Jurong
