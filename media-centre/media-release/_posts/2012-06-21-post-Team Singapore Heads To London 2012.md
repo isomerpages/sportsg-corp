@@ -64,9 +64,9 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 | Canoe Sprint  | 6 August - 11 August 2012   |
 | Cycling - BMX  | 8 August - 10 August 2012   |
 | Cycling - Mountain Bike  | 11 August - 12 August 2012  |
-| Cycling - Road  | 28 July - 1 August 2012   |
+| Cycling - Road | 28 July - 1 August 2012   |
 | Cycling - Track  | 2 August - 7 August 2012   |
-| Diving  | 29 July - 11 August 2012   |
+| Diving | 29 July - 11 August 2012   |
 | Equestrian| 28 July - 9 August 2012 | 
 | Fencing | 28 July - 5 August 2012 | 
 | Football | 25 July - 11 August 2012 | 
@@ -83,36 +83,13 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 | Synchronised Swimming | 5 August - 10 August 2012 | 
 | Table Tennis | 28 July - 8 August 2012 | 
 | Taekwondo | 8 August - 11 August 2012 
-
-Tennis
-
-28 July - 5 August 2012
-
-Trampoline
-
-3 August - 4 August 2012
-
-Triathlon
-
-4  August - 7 August 2012
-
-Volleyball
-
-28 July - 12 August 2012
-
-Water Polo
-
-29 July - 12 August 2012
-
-Weightlifting
-
-28 July - 7 August 2012
-
-Wrestling
-
-5  August - 12 August 2012
-
- 
+| Tennis | 28 July - 5 August 2012 | 
+| Trampoline | 3 August - 4 August 2012 | 
+| Triathlon | 4  August - 7 August 2012 | 
+| Volleyball | 28 July - 12 August 2012 | 
+| Water Polo | 29 July - 12 August 2012 | 
+| Weightlifting | 28 July - 7 August 2012| 
+| Wrestling | 5  August - 12 August 2012 |  
 
 TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS: 18 Athletes & 33 Officials
 <br>
