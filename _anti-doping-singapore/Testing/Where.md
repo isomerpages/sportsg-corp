@@ -87,3 +87,53 @@ All **RTP** athletes must provide their details of their travel plans if they 
 | -------- | -------- | -------- |
 | RTP  | Complete mailing address, email address and contact numbers<br>Address of daily overnight residence <br>Competition details<br>Training details<br>Details of other regular activities<br>Travel plans (when required)|YES |
 DTP| Complete mailing address, email address and contact numbers<br>Competition details<br>Training details<br>Details of other regular activities| NO
+
+**WHEREABOUTS FAILURES**
+
+It is the responsibility of athletes in the RTP and DTP to ensure that their whereabouts information is kept updated and accurate at all times.
+
+**Missed Tests**
+
+If a RTP athlete is unavailable for testing when an Anti-Doping Organisation attempts to test them at the location specified for their 60-minute slot, then a Missed Test may be recorded.
+
+**Filing Failures**
+
+If a RTP or DTP athlete fails to provide and/or update the required Whereabouts information so that is accurate, or if the athlete provides information that is insufficient for a Doping Control Officer to locate him/her for testing, or if the athlete is not at the locations specified, then a Filing Failure may be recorded. 
+
+**For a RTP Athlete**:
+
+Any combination of three Missed Test(s) and/ or Filing Failure(s) within a 12-month period will constitute an Anti-Doping Rule Violation under Article 2.4 of the Code. The period of sanction is between 1 to 2 years, depending on the athlete's degree of fault.
+
+**For a DTP Athlete**:
+
+A DTP athlete who is issued 3 warnings for Filing Failures may be included in the RTP where he/she is required to comply with stricter whereabouts requirements and be sanctioned for whereabouts failures. There is no time period for the consideration of warnings issued before a DTP athlete is included into the RTP.
+
+**ATHLETES WITH IMPAIRMENT**
+
+Athletes with an impairment should provide details of their impairment on ADAMS to assist the ADS with planning and conducting testing.
+
+If ADS asks an intellectually disabled athlete to provide whereabouts information, ADS shall give at least one of the following persons oral or written notice that ADS has made the request:
+
+(a) the athlete's spouse;
+<br>
+(b) the athlete's parent or guardian;
+<br>
+(c) the athlete's coach; or
+<br>
+(d) a representative of the NSA.
+
+**CHANGES TO WHEREABOUTS**
+
+Where a change in circumstances means that an athlete's current whereabouts filing is no longer accurate or complete, the athlete must update the whereabouts filing as soon as possible so that the information on file is again accurate and complete, or else risk a Missed Test or Filing Failure for RTP athletes, or a Filing Failure for DTP athletes.
+
+While updating will be permitted until the last minute, the athlete are advised to minimise them by updating changes early. Persistent patterns of last-mnute updates may be investigated as anti-doping rule violation for evading sample collection or tampering with doping control.
+
+Updates to whereabouts filing can be made:
+
+(a) On-line via [ADAMS](https://adams.wada-ama.org/adams/)
+<br>
+(b) By Email to [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
+
+**THIRD PARTY AUTHORISATION**
+
+Athletes may delegate filing responsibilities for some or all required whereabouts filing to a third party, such as a coach, team manager or a NSA staff. Athletes remain ultimately responsible for making sure their whereabouts information is accurate, whether or not their whereabouts information are filed by the authorised representative or by the athlete.
