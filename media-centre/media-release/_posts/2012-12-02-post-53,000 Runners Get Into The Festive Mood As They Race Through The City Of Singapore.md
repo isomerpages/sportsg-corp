@@ -9,7 +9,7 @@ image: ""
 ---
 ## **53,000 Runners Get Into The Festive Mood As They Race Through The City Of Singapore**
 
-Singapore, 2 December 2012 - Starting from 5.00am, 53,000 people started off on their races in the Standard Chartered Marathon Singapore across various categories of Full Marathon, Half Marathon, 10km and Kids Dash. Featuring three different routes, runners took in the sights of iconic landmarks in Singapore including Orchard Road, Universal Studios Singapore, Sentosa, Singapore Flyer and Gardens by the Bay.
+**Singapore, 2 December 2012** - Starting from 5.00am, 53,000 people started off on their races in the Standard Chartered Marathon Singapore across various categories of Full Marathon, Half Marathon, 10km and Kids Dash. Featuring three different routes, runners took in the sights of iconic landmarks in Singapore including Orchard Road, Universal Studios Singapore, Sentosa, Singapore Flyer and Gardens by the Bay.
 
 2. Cheered on by supporters and entertainment acts along the route and greeted by a Padang decked out in festive trimmings, Kenyans Kiptoo Lilan Kennedy (25) and Irene Jerotich Kosgei (38) crossed the finish line first in their categories with a time of 2:17:20.27 and 2:37:53.51 respectively. It was a tight finish for Kennedy with course record holder, Luke Kibet, a mere 5 seconds behind, while Kosgei has set history by becoming the first woman to win the Women's Open category for three consecutive years.
 
