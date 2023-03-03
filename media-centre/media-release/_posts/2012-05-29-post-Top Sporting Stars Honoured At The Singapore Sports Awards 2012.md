@@ -116,47 +116,12 @@ V.         Meritorious Awards (Event)
 | 17 | National Swimming 4x100m Medley Relay Women's Team <br>Shana Lim Jia Yi <br>Amanda Lim Xiang Qi <br>Yeo Samantha Louisa Ginn <br>Tao Li | Swimming
 |18 | National Swimming 4x200m Freestyle Relay Men's Team <br>Danny Yeo Kai Quan <br>Clement Lim Yong'En <br>Jeremy Kevin Mathews <br>Teo Zhen Ren | Swimming
 
-MAIN AWARDS
-
- 
-
-S/N
-
-AWARD
-
-AWARDEE
-
- 
-
-01
-
-Best Sports Event of the Year (Local)
-
- 
-
-OCBC Cycle Singapore
-
--Event Promoter: Spectrum Worldwide
-
--Official Sponsor: OCBC Group
-
-02
-
-Best Sports Event of the Year (International)
-
- 
-
-2011 Formula 1 SingTel Singapore Grand Prix
-
--Event Organiser/Promoter: Singapore GP Pte Ltd
-
--Title Sponsor: SingTel Group
-
- 
-
-03
-
-Most Inspiring Sports Story of the Year
+**MAIN AWARDS**
+| S/N | AWARDEE | SPORTS |
+| -------- | -------- | -------- |
+| 01     | Best Sports Event of the Year (Local) | OCBC Cycle Singapore <br>-Event Promoter: Spectrum Worldwide <br>-Official Sponsor: OCBC Group
+| 02 | Best Sports Event of the Year (International) | 2011 Formula 1 SingTel Singapore Grand Prix <br>-Event Organiser/Promoter: Singapore GP Pte Ltd <br>-Title Sponsor: SingTel Group
+| 03 | Most Inspiring Sports Story of the Year
 
  
 
