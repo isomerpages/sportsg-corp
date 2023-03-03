@@ -42,8 +42,8 @@ image: ""
 Annex A: 28th SEA Games Steering Committee Members
 
 
-Chairman
-1. Mr Chan Chun Sing
+**Chairman**
+<br> Mr Chan Chun Sing
 <br>Acting Minister for Community Development, Youth and Sports Minister of State, Ministry of Information, Communications and the Arts
 
 **Members**
