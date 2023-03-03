@@ -138,15 +138,14 @@ V.         Meritorious Awards (Event)
 **For media enquiries, please contact:**
 <br>
 Tanty Nazlianah
-vSenior Manager, Media Relations
-vSingapore Sports Council
-vEmail: tanty_nazlianah@ssc.gov.sg
+<br>Senior Manager, Media Relations
+<br>Singapore Sports Council
+<br>Email:[ tanty_nazlianah@ssc.gov.sg]( tanty_nazlianah@ssc.gov.sg)
 
 S. Parameswaran
-vAssistant Director, Media Relations
-vSingapore Sports Council
-<br>Email: parames_seenivasagam@ssc.gov.sg
-
+<br>Assistant Director, Media Relations
+<br>Singapore Sports Council
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 **About the Singapore Sports Council**
 <br>
