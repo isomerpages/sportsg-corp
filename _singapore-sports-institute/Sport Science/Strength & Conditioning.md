@@ -34,4 +34,4 @@ You should possess the following;
 *   At least 6 months of experience in conducting strength and conditioning training for athletes at national level.
 *   Accredited strength and conditioning coach by internationally recognised accreditation body. E.g. NSCA or ASCA.
 
-Do indicate interest by submitting your CV to the following email [Danny\_LUM@sport.gov.sg](mailto:%20Danny_LUM@sport.gov.sg), with the subject title: _Application: S&C Coach_
+Do indicate interest by submitting your CV to the following email [Danny\_LUM@sport.gov.sg](mailto:Danny_LUM@sport.gov.sg), with the subject title: _Application: S&C Coach_
