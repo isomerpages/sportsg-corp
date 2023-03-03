@@ -14,7 +14,7 @@ image: ""
 
 3. "The initial phase of the market sounding exercise is aimed at engaging more potential investors so that they can contribute their ideas and provide information meaningfully in the later stage of the exercise when the official Request For Information is launched. We hope to reach out to local and overseas investors, both within and outside the motorsports industry, who would be keen to come up with innovative ideas to put Singapore on the global sporting map, engage the larger community and add value to our economy," said Mr Lim Teck Yin, Chief Executive Officer, SSC.
 
-4. PwC has been officially appointed by SSC to provide advisory services for the RFI and engage potential investors through various means such as one-on-one investor engagements and "Open Days" in Singapore and other major cities. Interested parties may contact Mr Lee Seng Chee from PwC (seng.chee.lee@sg.pwc.com / +65 6236 4178) or Mr Tham Chen Munn from SSC (tham_chen_munn@ssc.gov.sg / +65 6500 6168).
+4. PwC has been officially appointed by SSC to provide advisory services for the RFI and engage potential investors through various means such as one-on-one investor engagements and "Open Days" in Singapore and other major cities. Interested parties may contact Mr Lee Seng Chee from PwC ([seng.chee.lee@sg.pwc.com](seng.chee.lee@sg.pwc.com) / +65 6236 4178) or Mr Tham Chen Munn from SSC ([tham_chen_munn@ssc.gov.sg](tham_chen_munn@ssc.gov.sg) / +65 6500 6168).
 
 5. After the conclusion of the market sounding exercise and RFI, SSC will deliberate on the feedback gathered before deciding whether or not to proceed with a re-tender in the first quarter of next year.
 
