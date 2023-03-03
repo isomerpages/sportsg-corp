@@ -15,8 +15,8 @@ New 20th Recommendation Added to Vision 2030 Report In Final Submission to Gover
 	
 Singapore, 25 August 2012 - SportCares, a new initiative to use sport as a force for social good, received its first donation at the "Football With A Heart" (FWAH) charity fundraiser dinner, lead-organised by Singapore Pools. SportCares is the first recommendation to be implemented under Vision 2030. The final Vision 2030 report was recently completed and includes a new 20th recommendation.
 
-Launch of SportCares
-
+**Launch of SportCares**
+<br>
 2. Commenting on the objectives of the SportCares Movement and Foundation, Acting Minister for Community Development, Youth and Sports, Mr Chan Chun Sing, who is also the Chairman of the Vision 2030 Steering Committee, said: "When we shared the preliminary recommendations of Vision 2030 earlier this year, we envisioned using sport as a strategy to enable Singaporeans to lead better lives, regardless of age, ability or status. SportCares will allow us to leverage on the power of sport to improve the lives of Singaporeans who are less fortunate."
 
 3. SportCares will provide more opportunities for the vulnerable segments in society to grow and develop lifelong skill sets, via quality coaching and greater access to customised facilities and programming. Through SportCares, SSC has committed to provide dollar-for-dollar matching for the first $1 million in donations. SportCares will seek to complement and support existing programmes while seeding new projects to address the gaps in opportunities.
