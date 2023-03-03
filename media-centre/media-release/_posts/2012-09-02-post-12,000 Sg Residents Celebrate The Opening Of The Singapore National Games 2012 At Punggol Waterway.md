@@ -7,9 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-12,000 Singapore Residents Of All Ages, Races And Backgrounds Celebrate The Opening Of The Singapore National Games 2012 At Punggol Waterway
-01 Sep 2012
-
+## **12,000 Singapore Residents Of All Ages, Races And Backgrounds Celebrate The Opening Of The Singapore National Games 2012 At Punggol Waterway**
 
 	
 Singapore, 1 September 2012 - About 12,000 people comprising residents, athletes and volunteers from all walks of life were part of the inaugural Singapore National Games (SNG) 2012 Opening Ceremony at Punggol Waterway this evening, jointly organised by the People's Association (PA) and Singapore Sports Council (SSC). The event brought residents of different races, ages and backgrounds from all over Singapore to celebrate the opening of the first-ever SNG together, demonstrating the 'We are One' Singapore Spirit at the same time.
