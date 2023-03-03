@@ -10,6 +10,7 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2013/May/WTAC.jpeg)
 * As WTA celebrates 40th anniversary, landmark Championships deal in new market continues global expansion and business growth for sport
 * Championships to feature additional content and new entertainment events to enhance fans' experience
+* 
 ![](/images/Media%20Centre/Media%20Release/2013/May/WTACHAMPIONSHIPSAWARDEDTOSINGAPOREFOR20142018INRECORDDEALMainPar0061Imagegif.gif)
 	
 **St. Petersburg, Fl, USA, 8 May 2013** - The Women's Tennis Association announced today that Singapore will host the 2014-2018 WTA Championships, the most prestigious event on the WTA calendar. Under terms of the record-setting five-year agreement, the Top 8 singles players and - for the first time - the Top 8 doubles teams will compete for a record prize money purse of US$ 6.5 million at the WTA Championships. The announcement follows an extensive global search and bidding process conducted by the WTA that elicited 43 expressions of interest from international cities that was narrowed to three finalists - Tianjin, China; Monterrey, Mexico; and Singapore.
