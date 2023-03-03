@@ -26,7 +26,7 @@ Singapore, 2 December 2012 - Starting from 5.00am, 53,000 people started off on 
 -END-
 
 Annex: Results of Standard Chartered Marathon Singapore 2012
-
+![](/images/Media%20Centre/Media%20Release/2012/Dec/53000RUNNERSGETINTOTHEFESTIVEMOODASTHEYRACETHROUGHTHECITYOFSINGAPOREMainPar0055Imagegif.gif)
 
 For media enquiries, please contact:
 
