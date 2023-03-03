@@ -9,7 +9,7 @@ image: ""
 Volunteers Honoured For Making The Singapore National Games A Success
 17 Oct 2012
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Oct/SNG%202012%20Volunteer%20Appreciation%20Night_2012_10_17_153.jpeg)
 SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
 	
@@ -77,4 +77,3 @@ The Community Games (CG) 2012 is a multi-sports competition to be held across th
 **About the Community Sports Clubs**
 <br>
 The Community Sports Clubs (CSCs) are part of the PA network of grassroots organisations. There are 87 constituencies in Singapore and there is a CSC in each constituency. The 87 CSCs are managed by volunteers who work with the PA to organise sports activities to facilitate the residents' participation and involvement as to build an active, vibrant and socially connected community where residents are bonded and communities are connected through community sports.
-
