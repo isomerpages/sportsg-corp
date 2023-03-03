@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Community Counts Down To The Inaugural Singapore National Games 2012
-15 Aug 2012
+## **The Community Counts Down To The Inaugural Singapore National Games 2012**
 
 
 Close To 5,000 People Are Expected To Play in 10 Sports Across The Island To Ignite Passion, Bond and Build Friendship in the Games!
