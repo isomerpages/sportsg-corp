@@ -18,23 +18,17 @@ image: ""
 
 4. Unlike previous years, where the winners of the main awards were announced prior to the Awards night, this year's SSA saw a change in format. In April 2012, the SSA Selection Committee selected the finalists for the main awards and a secret ballot was then carried out to choose the most deserving winners. The winners were only revealed at the Awards ceremony. This new format will continue for future editions of the SSA.
 
-Winners Unveiled
+**Winners Unveiled**
 
-5. Guests at the SSA 2012 waited with bated breath for winners of the main awards to be announced by Chairman of the SSA 2012 Organising Committee, Mr Low Teo Ping who is also the Vice-President of the SNOC. The winners are:
+5. Guests at the SSA 2012 waited with bated breath for winners of the main awards to be announced by Chairman of the SSA 2012 Organising Committee, Mr Low Teo Ping who is also the Vice-President of the SNOC. <br>The winners are:
 
-Sportsboy/Sportsgirl Team of the Year (Event): National Optimist Sailing Team at the World Team Racing Championship
-
-Team of the Year (Event): National Wushu Women's Duilian Team
-
-Coach of the Year: William Woo Nam Fatt
-
-Sportsgirl of the Year: Amanda Lim Xiang Qi
-
-Sportsboy of the Year: Quah Zheng Wen
-
-Sportwoman of the Year: Fu Mingtian
-
-Sportsman of the Year: Joseph Isaac Schooling
+* Sportsboy/Sportsgirl Team of the Year (Event): National Optimist Sailing Team at the World Team Racing Championship
+* Team of the Year (Event): National Wushu Women's Duilian Team
+* Coach of the Year: William Woo Nam Fatt
+* Sportsgirl of the Year: Amanda Lim Xiang Qi
+* Sportsboy of the Year: Quah Zheng Wen
+* Sportwoman of the Year: Fu Mingtian
+* Sportsman of the Year: Joseph Isaac Schooling
 
 6. The loudest cheers from the room were heard when the winners of Sportsman and Sportswoman of the Year were announced. The complete list of winners can be found in Annex A.
 
