@@ -39,15 +39,15 @@ NILA the Sporting Singapore Mascot
 <br>
 U-Lynn LEE
 <br>Fulford Public Relations 
-<br>Email: ullee@fulfordpr.com
+<br>Email: [ullee@fulfordpr.com](ullee@fulfordpr.com)
 
 S Parameswaran
 <br>Singapore Sports Council 
-<br>Email: parames_seenivasagam@ssc.gov.sg
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 Adlina JAFFAR
 <br>People's Association
-<br>Email: adlina_jaffar@pa.gov.sg
+<br>Email: [adlina_jaffar@pa.gov.sg](adlina_jaffar@pa.gov.sg)
 
 
 **About the Singapore Sports Council**
