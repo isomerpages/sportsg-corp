@@ -128,7 +128,7 @@ For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 <br>
 The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at www.pa.gov.sg and www.OurCommunity.sg.
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0042Imagegif.gif)
 
 Signing up for your favourite courses just got easier. Simply log on to www.OurCommunity.sg on your smartphone!
 
