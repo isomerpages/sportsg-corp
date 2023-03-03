@@ -8,10 +8,7 @@ image: ""
 ---
 ## **Vision 2030 Implementation Begins With SportsCares**
 
-
-
-New 20th Recommendation Added to Vision 2030 Report In Final Submission to Government
-
+**New 20th Recommendation Added to Vision 2030 Report In Final Submission to Government**
 	
 Singapore, 25 August 2012 - SportCares, a new initiative to use sport as a force for social good, received its first donation at the "Football With A Heart" (FWAH) charity fundraiser dinner, lead-organised by Singapore Pools. SportCares is the first recommendation to be implemented under Vision 2030. The final Vision 2030 report was recently completed and includes a new 20th recommendation.
 
