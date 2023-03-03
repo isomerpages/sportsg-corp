@@ -62,12 +62,10 @@ Earlier this year, close to 10,000 residents took part in the annual Community G
 For full information (full listings, venues and dates) on the Singapore National Games, please visit SNG official site www.singaporenationalgames.sg
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0040Imagegif.gif)
 
-
-
 **Annex B: Fact Sheet on Clusters and Teams**
 <br>
 The Singapore National Games will see close to 5,000 community athletes from 15 clusters competing across 10 sports from 1 to 9 September 2012. Each cluster will be led by the respective Head of Delegation.
-
+![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0046Imagegif.gif)
 
 **Annex C: SNG Baton Relay**
 <br>
