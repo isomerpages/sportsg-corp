@@ -63,28 +63,9 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 | Canoe Slalom   | 29 July - 2 August 2012  | 
 | Canoe Sprint  | 6 August - 11 August 2012   |
 | Cycling - BMX  | 8 August - 10 August 2012   |
-
-
-
-
-
-
-
-
-
-
-
-Cycling - Mountain Bike
-
-11 August - 12 August 2012
-
-Cycling - Road
-
-28 July - 1 August 2012
-
-Cycling - Track
-
-2 August - 7 August 2012
+| Cycling - Mountain Bike  | 11 August - 12 August 2012  |
+| Cycling - Road  | 28 July - 1 August 2012   |
+| Cycling - Track  | 2 August - 7 August 2012   |
 
 Diving
 
