@@ -123,9 +123,9 @@ Athletes with an impairment should provide details of their impairment on ADAMS 
 If ADS asks an intellectually disabled athlete to provide whereabouts information, ADS shall give at least one of the following persons oral or written notice that ADS has made the request:
 
 (a) the athlete's spouse;
-
+<br>
 (b) the athlete's parent or guardian;
-
+<br>
 (c) the athlete's coach; or
 <br>
 (d) a representative of the NSA.
@@ -139,7 +139,7 @@ While updating will be permitted until the last minute, the athlete are advised 
 Updates to whereabouts filing can be made:
 
 (a) On-line via [ADAMS](https://adams.wada-ama.org/adams/)
-
+<br>
 (b) By Email to [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
 
 **THIRD PARTY AUTHORISATION**
@@ -262,34 +262,7 @@ Any combination of three Missed Test(s) and/ or Filing Failure(s) within a 12-mo
 
 A DTP athlete who is issued 3 warnings for Filing Failures may be included in the RTP where he/she is required to comply with stricter whereabouts requirements and be sanctioned for whereabouts failures. There is no time period for the consideration of warnings issued before a DTP athlete is included into the RTP.
 
-**ATHLETES WITH IMPAIRMENT**
-
-Athletes with an impairment should provide details of their impairment on ADAMS to assist the ADS with planning and conducting testing.
-
-If ADS asks an intellectually disabled athlete to provide whereabouts information, ADS shall give at least one of the following persons oral or written notice that ADS has made the request:
-
-(a) the athlete's spouse;
-
-(b) the athlete's parent or guardian;
-
-(c) the athlete's coach; or
-
-(d) a representative of the NSA.
-
-**CHANGES TO WHEREABOUTS**
-
-Where a change in circumstances means that an athlete's current whereabouts filing is no longer accurate or complete, the athlete must update the whereabouts filing as soon as possible so that the information on file is again accurate and complete, or else risk a Missed Test or Filing Failure for RTP athletes, or a Filing Failure for DTP athletes.
-
-While updating will be permitted until the last minute, the athlete are advised to minimise them by updating changes early. Persistent patterns of last-mnute updates may be investigated as anti-doping rule violation for evading sample collection or tampering with doping control.
-
-Updates to whereabouts filing can be made:
-
-(a) On-line via [ADAMS](https://adams.wada-ama.org/adams/)
-
-(b) By Email to [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
-
-**  
-THIRD PARTY AUTHORISATION**
+**THIRD PARTY AUTHORISATION**
 
 Athletes may delegate filing responsibilities for some or all required whereabouts filing to a third party, such as a coach, team manager or a NSA staff. Athletes remain ultimately responsible for making sure their whereabouts information is accurate, whether or not their whereabouts information are filed by the authorised representative or by the athlete.
 
