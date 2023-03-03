@@ -11,9 +11,8 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0042Imagegif.gif)
 Team Singapore Paddlers Rewarded Through SNOC MAP for Double Bronze at London 2012
-
 	
-Singapore, 25 September 2012 - Olympic medallists Feng Tianwei, Li Jiawei and Wang Yuegu were honoured tonight for their historic medal wins at the London 2012 Olympic Games. In recognition of their outstanding performances, the paddlers took home a well-deserved S$625,000 in total through the Singapore National Olympic Council (SNOC) Multi-Million Dollar Award Programme (MAP). The awards were presented by Guest-of-Honour Mr Teo Chee Hean, Deputy Prime Minister and President, Singapore National Olympic Council, and Mr Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, at the London 2012 Olympic Games Awards and Appreciation Dinner.
+**Singapore, 25 September 2012** - Olympic medallists Feng Tianwei, Li Jiawei and Wang Yuegu were honoured tonight for their historic medal wins at the London 2012 Olympic Games. In recognition of their outstanding performances, the paddlers took home a well-deserved S$625,000 in total through the Singapore National Olympic Council (SNOC) Multi-Million Dollar Award Programme (MAP). The awards were presented by Guest-of-Honour Mr Teo Chee Hean, Deputy Prime Minister and President, Singapore National Olympic Council, and Mr Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, at the London 2012 Olympic Games Awards and Appreciation Dinner.
 
 2. "Your mental strength and fortitude represent qualities we can all learn from," said DPM Teo, who is also Coordinating Minister for National Security and Minister for Home Affairs. "You have blazed the trail and inspired many young people who now dare to dream even bigger because of you!"
 
