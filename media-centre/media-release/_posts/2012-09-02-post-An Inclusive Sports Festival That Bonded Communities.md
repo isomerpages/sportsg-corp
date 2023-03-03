@@ -74,7 +74,7 @@ The top 3 Clusters with the highest points accumulated from the Excellence and P
 The Community Challenge Shield is an Overall Award accorded to recognise the Cluster for their best engagement outcomes/efforts to engage and bond their residents in the Community Games (CG) and Singapore National Games (SNG).
 
 The Overall Award comprises four categories, they are as follows:-
-(a) Best Decorated Cluster - Clusters which have done well in decorating their competition venues i.e. Community Clubs;
+(a) **Best Decorated Cluster** - Clusters which have done well in decorating their competition venues i.e. Community Clubs;
 
 (b) Best Cheerleading Cluster - Clusters which have done well in organising cheerleading groups to enliven the Games;
 
