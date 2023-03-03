@@ -101,32 +101,19 @@ V.         Meritorious Awards (Event)
 | 01     | National Bowling Women's Team<br>New Hui Fen <br>Jazreel Tan Shi Hua <br>Daphne Tan Shi Jing <br>Shayna Ng Lin Zhi <br>Cherie Tan Shi Hua <br>Jasmine Yeong-Nathan | Bowling
 | 02 | National Athletics 4x100m Relay Men's Team <br>Muhd Elfi Mustapa <br>Gary Yeo Foo Ee <br>Calvin Kang Li Loon <br>Lim Yao Peng <br>Muhd Amirudin Jamal <br>Lee Cheng Wei | Athletics
 | 03 | National Canoeing Women's K2 Team <br>Suzanne Seah <br>Stephenie Chen Jiexian | Canoeing
-
-04
-
-National Bowling Women's Doubles Team (World Cup)
+| 04 | National Bowling Women's Doubles Team (World Cup)
 
 New Hui Fen
 
 Jazreel Tan Shi Hua
 
-Bowling
-
-05
-
-National Bowling Women's Doubles Team (Asian Cup)
+| Bowling
+| 05 | National Bowling Women's Doubles Team (Asian Cup)
 
 Daphne Tan Shi Jing
 
-Bernice Lim Hui Ying
-
- 
-
-Bowling
-
-06
-
-National Bowling Women's Doubles Team (Commonwealth Championship)
+Bernice Lim Hui Ying | Bowling
+| 06 | National Bowling Women's Doubles Team (Commonwealth Championship)
 
 Geraldine Ng Su Yi
 
@@ -134,9 +121,8 @@ Shayna Ng Lin Zhi
 
  
 
-Bowling
-
-07
+| Bowling
+| 07
 
 National Women Artistic Gymnastics Team
 
@@ -150,25 +136,18 @@ Lim Heem Wei
 
 Foo En Ning
 
-Joey Tam Jing Ying
-
- 
-
-Gymnastics
-
-08
+Joey Tam Jing Ying 
+| Gymnastics
+| 08
 
 National Sailing 470 Men's Team
 
 Russell Kan Tsung Liang
 
 Terence Koh Seng Kiat
+| Sailing
 
- 
-
-Sailing
-
-09
+| 09
 
 National Sailing 470 Women's Team
 
@@ -178,9 +157,9 @@ Sara Tan Li Ching
 
  
 
-Sailing
+| Sailing
 
-10
+| 10
 
 National Bowling Team
 
@@ -190,13 +169,8 @@ Shayna Ng Lin Zhi
 
 Jason Yeong-Nathan
 
-Remy Ong
-
- 
-
-Bowling
-
-11
+Remy Ong | Bowling
+| 11
 
 National Shooting 10m Air Rifle Women's Team
 
@@ -205,12 +179,8 @@ Jasmine Ser Xiang Wei
 Cheng Jian Huan
 
 Sally Li Yafei
-
- 
-
-Shooting
-
-12
+| Shooting
+| 12
 
 National Swimming 4x100m Freestyle Relay Men's Team
 
@@ -221,18 +191,9 @@ Danny Yeo Kai Quan
 Clement Lim Yong'En
 
 Arren Quek Xin Hui
-
- 
-
-Swimming
-
-13
-
- 
-
- 
-
-14
+| Swimming
+| 13
+| 14
 
 National Swimming 4x100m Freestyle Relay Women's Team
 
@@ -247,12 +208,8 @@ Mylene Ong Chui Bin
 Amanda Lim Xiang Qi
 
 Tao Li
-
- 
-
-Swimming
-
-15
+| Swimming
+| 15
 
 National Table Tennis Women's Team
 
@@ -265,24 +222,16 @@ Yu Mengyu
 Sun Beibei
 
 Li Jiawei
-
- 
-
-Table Tennis
-
-16
+| Table Tennis
+| 16
 
 National Table Tennis Men's Doubles Team
 
 Ma Liang
 
 Pang Xuejie
-
- 
-
-Table Tennis
-
-17
+| Table Tennis
+| 17
 
 National Swimming 4x100m Medley Relay Women's Team
 
