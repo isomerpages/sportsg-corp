@@ -51,8 +51,8 @@ Photo by Singapore Sports Council and CapitaMalls Asia
 7.  Mr Ang Wei Neng, Member of Parliament for Jurong GRC
 8.  Mr Desmond Lee, Member of Parliament for Jurong GRC
 9.  Mr David Ong, BBM, Member of Parliament for Jurong GRC
- Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
- Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Chua Chu Kang GRC
+10.  Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
+11.  Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Chua Chu Kang GRC
  
 **For media enquiries, please contact:**
 <br>
