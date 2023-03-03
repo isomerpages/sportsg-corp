@@ -30,8 +30,8 @@ Singapore, 15 August 2012 - With 16 days to go to the start of the inaugural Sin
 
 7. To heighten the mood and celebrate a special five-day countdown to the start of the SNG, a 'Spot-the-Nila' contest will be held via SNG Facebook from 27 to 31 August 2012, where the public is invited to spot Nila or any of the 15 cluster mascots around Singapore and get a chance to win an exclusive SNG souvenir. Details of the contest are available at the SNG Facebook page at www.facebook.com/singaporenationalgames.
 
-Strong Support for SNG from Community
-
+**Strong Support for SNG from Community**
+<br>
 8. Since the announcement of the SNG 2012 in November 2011, close to 10,000 Singapore residents participated in the seven sports in the CG, which serve as the qualifying round for the SNG in the years it is held. Of these, more than 300 teams have qualified for the SNG. In total, the SNG will see close to 5,000 participants competing across 10 sports, as well as 3,000 volunteers in various capacities to ensure the smooth-running of the event.
 
 9. Republic Polytechnic is one of the strong supporters of the SNG, with more than 1,000 students being deployed as volunteers for the Games. Said Mr Ganesh Kalyanam, Director, Office of Student and Graduate Affairs, Republic Polytechnic, "Republic Polytechnic (RP) believes in the holistic education of our students. To participate in sports or to volunteer in a national sporting event, whether it is logistics support, event management, reporting, or even through dance celebrations, the Singapore National Games provide an opportunity for RP students to engage with the dreams and goals of Singaporeans."
