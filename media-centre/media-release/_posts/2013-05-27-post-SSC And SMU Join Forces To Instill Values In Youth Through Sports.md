@@ -66,9 +66,9 @@ Kong Hwee Ting
 <br>Tel: +65 6808 5238
 <br>Email: [htkong@smu.edu.sg](htkong@smu.edu.sg)
 
-Enclosures
+**Enclosures**
 
-<br>**Annex A: 'Game For Life' Toolkit**
+**Annex A: 'Game For Life' Toolkit**
 <br>**Annex B: LifeLessons**
 
 **Annex A: 'Game For Life' Toolkit**
