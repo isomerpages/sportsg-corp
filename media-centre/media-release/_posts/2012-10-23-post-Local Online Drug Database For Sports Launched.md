@@ -11,10 +11,9 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/LOCALONLINEDRUGDATABASEFORSPORTSLAUNCHEDMainPar0042Imagegif.gif)
 Move aimed at heightening awareness of banned substances to prevent accidental doping
 
-	
-Singapore, 8 October 2012 - The Singapore Sports Council (SSC), in collaboration with the Health Sciences Authority (HSA), and the Pharmaceutical Society of Singapore (PSS) has launched CheckDrugs, an online database for sports that contains a list of all registered drugs in Singapore and its status against the World Anti-Doping Agency (WADA) Prohibited List.
+**Singapore, 8 October 2012** - The Singapore Sports Council (SSC), in collaboration with the Health Sciences Authority (HSA), and the Pharmaceutical Society of Singapore (PSS) has launched CheckDrugs, an online database for sports that contains a list of all registered drugs in Singapore and its status against the World Anti-Doping Agency (WADA) Prohibited List.
 
-2. Accessible at http://app.antidoping.org.sg/public/checkdrugs.aspx, this database is specially designed for athletes, athlete support personnel, and medical practitioners to check if drugs prescribed or bought over-the-counter at pharmacies in Singapore contain substances that are banned in- and out-of-competition. This database has been made possible due to the tripartite agreement entered by the three parties earlier this year.
+2. Accessible at [http://app.antidoping.org.sg/public/checkdrugs.aspx](http://app.antidoping.org.sg/public/checkdrugs.aspx), this database is specially designed for athletes, athlete support personnel, and medical practitioners to check if drugs prescribed or bought over-the-counter at pharmacies in Singapore contain substances that are banned in- and out-of-competition. This database has been made possible due to the tripartite agreement entered by the three parties earlier this year.
 
 3. "We are delighted to have come together with HSA and PSS to provide this platform for Singapore's sporting and medical community to prevent any accidental doping by our athletes," said Mr Lim Teck Yin, Chief Executive Officer, SSC. "Integrity must be a deeply held principle in our sporting fraternity and Team Singapore's pursuit of excellence. Our goal is to keep Singapore sport free of doping. Athletes and officials are responsible for ensuring that they do not violate anti-doping rules and this database will offer them an additional tool to meet this responsibility."
 
@@ -34,21 +33,21 @@ Singapore, 8 October 2012 - The Singapore Sports Council (SSC), in collaboration
 <br>Eric Ong
 vManager, Media Relations
 <br>Singapore Sports Council
-<br>Email: eric_ong@ssc.gov.sg
+<br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
 Estelle Koh 
 <br>Health Sciences Authority
-<br>Email: estelle_koh@hsa.gov.sg
+<br>Email: [estelle_koh@hsa.gov.sg](estelle_koh@hsa.gov.sg)
 
 **About the Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg.
 <br>
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 <br>
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About Anti-Doping Singapore**
 <br>
