@@ -40,7 +40,7 @@ Significantly, the infusion of values education does not hinder but, in fact, su
 
 Indeed, Kaki and Mulligan’s keen understanding of their coaches’ lessons is a clear indicator that the conscious inclusion of values through the Games for Life framework has been successful so far. Even the parents have noticed positive changes in their children, and attribute it to “coaching methods” provided at the Academy, as Steven Chua puts it.
 
-“I think my son Jovan, \[who trains with the Academy\], has developed better time management skills, discipline, and learnt how to manage and overcome setbacks,” he added.
+“I think my son Jovan, (who trains with the Academy), has developed better time management skills, discipline, and learnt how to manage and overcome setbacks,” he added.
 
 “The players are getting used to these values in the training session. For example, if someone falls down, another will try to help him. These kinds of values are important to us, and \[our players learning the right values with us is\] maybe the most important thing in our academy,” affirmed Ismael.
 
