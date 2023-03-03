@@ -67,7 +67,7 @@ WATER CONTINGENT SAIL PAST DURING SNG 2012 OPENING CEREMONY AT PUNGGOL WATERWAY
 * Cluster identity and passion and love for SNG
 
 WHEN WILL THE RESULTS OF THE AWARDS BE ANNOUNCED?
-Results will be announced after the closing ceremony of the SNG 2012 on 9 September 2012 at Bishan Stadium.
+<br>Results will be announced after the closing ceremony of the SNG 2012 on 9 September 2012 at Bishan Stadium.
 
 
 **For media enquiries, please contact:**
