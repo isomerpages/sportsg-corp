@@ -63,7 +63,7 @@ The GFL CoP sessions are previously held on Sport Singapore's premise at Singapo
 Please [contact us](mailto:hong_xue_en@sport.gov.sg) if you have any questions.
 
 **Resources:**
-**Resources:**
+
 [Stories - Winning At Life](/sport-leadership/game-for-life/stories-winning-at-life/)
 
 [Stories - The Winning Mind](/sport-leadership/game-for-life/stories-the-winning-mind/)
@@ -75,4 +75,3 @@ Please [contact us](mailto:hong_xue_en@sport.gov.sg) if you have any questions
 [Guide](/sports-education/sports-leadership/guide/)
 
 [Book](/sports-education/sports-leadership/book/)
-
