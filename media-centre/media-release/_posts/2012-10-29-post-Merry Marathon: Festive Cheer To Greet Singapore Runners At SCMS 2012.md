@@ -52,22 +52,12 @@ More Ways to Motivate Runners
 Enclosures
 
 Annex A: Race Information
-Annex B: SCMS 2012 Baggage Deposit and Collection Locations and Timings
-Annex C: SCMS 2012 Route Maps (attached separately)
-
-
-
-
-Annex A: Race Information
-
 
 Annex B: SCMS 2012 Baggage Deposit and Collection Locations and Timings
 
-
-Annex C: SCMS 2012 Route Maps
+**Annex C: SCMS 2012 Route Maps**
 
 [SCMS 2012 Route Maps [496 Kb]](/files/Media%20Centre/Media%20Release/2012/Oct/SCMS%202012%20Route%20Mapspdf.pdf)
-
 
 **For media enquiries, please contact:**
 <br>
@@ -86,15 +76,15 @@ Eric Ong
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-
+<br>
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-
+<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 
 
-About Standard Chartered Bank in Singapore
-
+**About Standard Chartered Bank in Singapore**
+<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
