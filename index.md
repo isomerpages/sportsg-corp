@@ -39,7 +39,7 @@ sections:
       url: /what-we-do/academy-and-clubs/
   - infopic:
       title: Become A Certified Coach
-      subtitle: Coache's Corner
+      subtitle: Coaches' Corner
       button: Apply Now
       alt: Image alt text
       url: /support-resources/coaches-corner/introduction/
@@ -51,5 +51,5 @@ sections:
       url: /sports-education/sports-leadership/workshop-and-training/
   - resources:
       title: Media Center
-      button: Resources Button Name
+      button: Read more
 ---
