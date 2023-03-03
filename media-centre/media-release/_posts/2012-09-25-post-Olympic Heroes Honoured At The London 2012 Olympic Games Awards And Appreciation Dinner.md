@@ -48,7 +48,7 @@ All awards are presented to the winning athlete, not the National Sports Associa
 The Tote Board/Singapore Pools (Pte) Ltd is the primary sponsor of the SNOC MAP awards.
 
 Annex C: List of Appreciation Plaque Recipients
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0054Imagegif.gif)
 
 For media enquiries, please contact:
 
