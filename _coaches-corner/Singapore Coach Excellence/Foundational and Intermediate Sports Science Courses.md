@@ -12,6 +12,6 @@ Both courses are part of the Singapore Coach Excellence (SG-Coach) Programme, a
 
 Further information on both courses will be **updated on this webpage at a later date.**
 
-**[Foundational / Intermediate Sports Science Course Waivers](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Singapore-Coach-Excellence-Programme-SG-Coach/Foundational-and-Intermediate-Sports-Science-Courses/Foundational-and-Intermediate-Sports-Science-Course-Waivers)**
+**[Foundational / Intermediate Sports Science Course Waivers](/coaches-corner/singapore-coach-excellence/foundational-intermediate-sports-science-course-waivers/)**
 
 Waiver and exam-only pathways are given to graduates with relevant qualifications. Please click above link for full list.
