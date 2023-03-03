@@ -9,7 +9,9 @@ image: ""
 ## **SSC And The Japan Sport Council Ink Partnership To Further Develop Sports**
 ![](/images/Media%20Centre/Media%20Release/2013/Apr/JSC%20SSC.jpeg)
 **Singapore, 4 April 2013**  - The Singapore Sports Council (SSC) and the Japan Sport Council (JSC) signed a three-year Memorandum of Understanding (MOU) in Tokyo yesterday, marking both parties' commitment to forge closer bonds in an effort to further develop sports in Singapore and Japan.
+
 ![](/images/Media%20Centre/Media%20Release/2013/Apr/SSCANDJAPANSPORTCOUNCILINKPARTNERSHIPTOFURTHERDEVELOPSPORTSMainPar0061Imagegif.gif)
+
 2. Signed during the SSC's study visit to Tokyo by SSC Chief Executive Officer Lim Teck Yin and JSC President Ichiro Kono, the agreement seeks to establish collaboration on a number of key areas, such as the:
 Exchange of expertise on the development of sports programmes, including at the grassroots level
 Exchange of information on coaching education and development
