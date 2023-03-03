@@ -6,13 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-NSAs & SSC Collaborate To Enhance The Professional Management Of NSAs
-05 Jun 2012
+### **NSAs & SSC Collaborate To Enhance The Professional Management Of NSAs**
 
+*Enhanced Organisational Excellence Framework, Sharing of Guidelines and Best Practices, Matchmaking NSAs with Volunteers, Amongst Steps to Help NSAs*
 
-Enhanced Organisational Excellence Framework, Sharing of Guidelines and Best Practices, Matchmaking NSAs with Volunteers, Amongst Steps to Help NSAs
-
-Singapore, 5 June 2012 - The Singapore Sports Council (SSC), following a series of consultation sessions with the National Sports Associations (NSAs) will be rolling out an improved Organisational Excellence (OE) framework to enhance the professional management of NSAs.
+**Singapore, 5 June 2012** - The Singapore Sports Council (SSC), following a series of consultation sessions with the National Sports Associations (NSAs) will be rolling out an improved Organisational Excellence (OE) framework to enhance the professional management of NSAs.
 
 2. Revealing this at a media briefing, SSC's Chief Executive Officer Lim Teck Yin said, "We have heard the NSAs' feedback, understand their difficulties and are working together to help them find solutions to the challenges that they face."
 
