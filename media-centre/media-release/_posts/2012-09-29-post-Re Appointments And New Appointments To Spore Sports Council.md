@@ -28,13 +28,13 @@ image: ""
 * Member - Prof Tan Cheng Han, Professor & immediate past Dean NUS Faculty of Law. Advisor Singapore Taekwondo
 * Member - Ms Jessica Tan Soon Neo, General Manager, Microsoft (Asia Pacific). President, Netball Singapore
 
-Out-going members
-Member - BG Chia Choon Hoong, Commander 9 Div/Chief Infantry Officer, Ministry of Defence
-Member - Dr Janice Khoo, General Practitioner, The Rafflesian Clinic & Surgery
-Member - Mr Lee Hong Chuan, Manager, Disaster Recovery & System Operations, IBM Singapore
-Member - Ms Ong Toon Hui, Deputy Secretary, Ministry of Community Development, Youth and Sports
-Member - Dr Saiful Nizam bin Subari, Family physician, National Healthcare Group General Practitioners
-Member - Dr Benedict Tan, Sports physician, Head/Senior consultant, Changi General Hospital Sports Medicine Centre and President, Singapore Sailing
+**Out-going members**
+* Member - BG Chia Choon Hoong, Commander 9 Div/Chief Infantry Officer, Ministry of Defence
+* Member - Dr Janice Khoo, General Practitioner, The Rafflesian Clinic & Surgery
+* Member - Mr Lee Hong Chuan, Manager, Disaster Recovery & System Operations, IBM Singapore
+* Member - Ms Ong Toon Hui, Deputy Secretary, Ministry of Community Development, Youth and Sports
+* Member - Dr Saiful Nizam bin Subari, Family physician, National Healthcare Group General Practitioners
+* Member - Dr Benedict Tan, Sports physician, Head/Senior consultant, Changi General Hospital Sports Medicine Centre and President, Singapore Sailing
 
 2. MCYS and SSC welcome the new Council members and express their appreciation to all outgoing members for their invaluable service. The composition of the new Council is at Annex.
 
