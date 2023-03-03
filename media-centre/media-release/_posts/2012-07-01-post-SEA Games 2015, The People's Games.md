@@ -92,28 +92,28 @@ Mr Chan Chun Sing
 Jemuel Fu
 <br>Executive, Media Relations
 <br>Singapore Sports Council
-<br>Email: jemuel_fu@ssc.gov.sg 
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg) 
 
 S. Parameswaran
 <br>Assistant Director, Media Relations
 <br>Singapore Sports Council
-<br>Email: parames_seenivasagam@ssc.gov.sg
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 Roy Teo
 <br>Manager
 <br>CIRD, MCYS
-<br>Email: roy_teo@mcys.gov.sg
+<br>Email: [roy_teo@mcys.gov.sg](roy_teo@mcys.gov.sg)
 
-For further information on the 28th SEA Games Singapore, please visit www.seagames2015.com
+For further information on the 28th SEA Games Singapore, please visit [www.seagames2015.com](www.seagames2015.com)
 <br>
-Follow the 28th SEA Games Singapore 2015 on Facebook at www.facebook.com/SEAGAMES2015 and @seagames2015 on Twitter.
+Follow the 28th SEA Games Singapore 2015 on Facebook at [www.facebook.com/SEAGAMES2015 ](www.facebook.com/SEAGAMES2015)and @seagames2015 on Twitter.
 
 
 **About the Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg.
 <br>
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
 <br>
