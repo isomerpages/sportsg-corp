@@ -11,7 +11,7 @@ image: ""
 The Inaugural Singapore National Games Came To A Close With A Bang As More Than 5,000 Participants Celebrated The Friendships Built During The Games
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0061Imagegif.gif)
 	
-Singapore, 9 September 2012 - After nine days of excitement filled Game days, the first-ever national multi-sport event, Singapore National Games (SNG), closed to an exuberant crowd comprising community athletes, volunteers, game officials, participants and members of the public at a Closing Ceremony held this evening at Bishan Stadium. The event, officiated by President Tony Tan Keng Yam, highlighted the friendships that were built between athletes and communities during the inaugural SNG.
+**Singapore, 9 September 2012** - After nine days of excitement filled Game days, the first-ever national multi-sport event, Singapore National Games (SNG), closed to an exuberant crowd comprising community athletes, volunteers, game officials, participants and members of the public at a Closing Ceremony held this evening at Bishan Stadium. The event, officiated by President Tony Tan Keng Yam, highlighted the friendships that were built between athletes and communities during the inaugural SNG.
 
 2. Held from 1 to 9 September 2012, the inaugural SNG brought together more than 5,000 community athletes, officials and volunteers who played an integral role in making the Games a success. Singapore residents also turned out and cheered on their family members, friends and neighbours as spectators and cheerleaders at venues across the island.
 
