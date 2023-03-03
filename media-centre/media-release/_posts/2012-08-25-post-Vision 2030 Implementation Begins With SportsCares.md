@@ -30,9 +30,8 @@ image: ""
 
 9. Charitable and interest groups, public and private organisations, as well as members of the community are welcome to join the SportCares Movement by emailing: sportcares@ssc.gov.sg.
 
-**New 20th Recommendation Included in Finalised Vision 2030 Report
-**
-10. In the finalised Vision 2030 report, a 20th recommendation to provide support for new forms of recreation and sport has been added to the previous preliminary recommendations. The new recommendation advocates the facilitation of new sporting activities, including fiscal, manpower, administrative, infrastructure and programming support.
+**New 20th Recommendation Included in Finalised Vision 2030 Report**
+<br>10. In the finalised Vision 2030 report, a 20th recommendation to provide support for new forms of recreation and sport has been added to the previous preliminary recommendations. The new recommendation advocates the facilitation of new sporting activities, including fiscal, manpower, administrative, infrastructure and programming support.
 
 11. "Sport is played by people from all walks of life, so it has a natural ability to keep pace with changes in our society. SSC exists to serve people and communities through sport," said Mr Seow. "We are exploring ways to help new forms of sport grow if they promote the values of Vision 2030. Sport must help people prepare for a more demanding future. It must be inclusive so that all can have access. And it must do what sport can do best: the activities must be designed to promote community bonding and national pride. At its essence, Vision 2030 wants to see people of diverse backgrounds, abilities and interests pursuing their sport of choice. We want to see the power of sport manifested in the lives of people and we are committed to building capabilities, creating more opportunities and greater access for all in Singapore to live better through sport."
 
