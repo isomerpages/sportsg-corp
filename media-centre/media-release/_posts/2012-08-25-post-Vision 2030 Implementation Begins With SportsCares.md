@@ -37,10 +37,10 @@ image: ""
 
 -END-
 
-Annex A: About SportCares
-
-SportCares
-Live Better Through Sports
+**Annex A: About SportCares**
+<br>
+**SportCares
+Live Better Through Sports**
 
 At the heart of SportCares is the steadfast belief that sport can be a force for social good. Sport can be activated to improve the lives of Singaporeans who are struggling with poverty, living in high-risk situations or simply lack the resources needed to realise higher goals in life.
 
