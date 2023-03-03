@@ -80,15 +80,15 @@ The People's Association's mission is to build and to bridge communities in achi
 
 Signing up for your favourite courses just got easier. Simply log on to www.OurCommunity.sg on your smartphone!
 
-About Sunrise & Company Pte Ltd
-
+**About Sunrise & Company Pte Ltd**
+<br>
 Sunrise & Company Pte Ltd is one of the leading wholesalers/distributors of branded sports equipment, accessories, apparel and sports footwear in several countries of South East Asia and South Asia. The company has its headquarter in Singapore and offices/associates in Malaysia, Indonesia, Brunei, Vietnam, Philippines, Hong Kong, Macau, India & Sri Lanka.
 
 The internationally renowned brands represented by the company are:
 
-Yonex - World leader for top quality badminton racquets and related products, tennis racquets and golf equipment.
+**Yonex** - World leader for top quality badminton racquets and related products, tennis racquets and golf equipment.
 
-Mikasa - The leading international game ball brand from Japan. It is the official game ball of Olympics for the sport of Indoor Volley Ball, Beach Volleyball and Water polo.
+**Mikasa** - The leading international game ball brand from Japan. It is the official game ball of Olympics for the sport of Indoor Volley Ball, Beach Volleyball and Water polo.
 
 Sunrise's mission statement "to be the No. 1 sports goods and lifestyle company in Asia, providing a healthy lifestyle" reflects the company's dedication to promoting and developing sports in the region, and this is exemplified in its active involvement in international sporting events.
 
