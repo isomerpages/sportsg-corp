@@ -28,3 +28,6 @@ Activities were designed to challenge the students to step out of their comfort 
 
 ![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/Event_9.jpeg)
 
+![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/Event_10.jpeg)
+
+![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/Event_12.jpeg)
