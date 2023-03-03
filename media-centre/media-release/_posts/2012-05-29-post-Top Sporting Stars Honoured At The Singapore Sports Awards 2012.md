@@ -58,42 +58,12 @@ The winners are:
 | 04 | Audrey Yong Pei Lin | Sailing | 
 | 05 | Shana Lim Jia Yi | Swimming | 
 | 06 | Teo Zhen Ren | Swimming | 
+| 07 | Arren Quek Xin Hui | Swimming
+| 08 | Jeremy Kevin Mathews | Swimming
+| 09 | Isabelle Li Siyun | Table Tennis | 
+| 10 | Muhd Norhalim Mohd Zahruddin | Taekwondo | 
 
-07
-
-Arren Quek Xin Hui
-
- 
-
-Swimming
-
-08
-
-Jeremy Kevin Mathews
-
- 
-
-Swimming
-
-09
-
-Isabelle Li Siyun
-
- 
-
-Table Tennis
-
-10
-
-Muhd Norhalim Mohd Zahruddin
-
- 
-
-Taekwondo
-
- 
-
-II.       Sportsboy/ Sportsgirl Meritorious Awards (Event)
+Sportsboy/ Sportsgirl Meritorious Awards (Event)
 
  
 
