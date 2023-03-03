@@ -81,16 +81,16 @@ For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
 
-About CapitaMalls Asia (www.capitamallsasia.com)
-
+**About CapitaMalls Asia (www.capitamallsasia.com)**
+<br>
 CapitaMalls Asia Limited is one of the largest listed shopping mall developers, owners and managers in Asia by total property value of assets and geographic reach. CapitaMalls Asia has an integrated shopping mall business model encompassing retail real estate investment, development, mall operations, asset management and fund management capabilities. It has interests in and manages a pan-Asian portfolio of 97 shopping malls across 52 cities in the five countries of Singapore, China, Malaysia, Japan and India, with a total property value of approximately S$30.7 billion and a total GFA of approximately 91.6 million sq ft.
 
 Shopping malls in the portfolio include ION Orchard and Plaza Singapura - which are located in one of the world's most famous shopping streets, Orchard Road - Raffles City Singapore and Clarke Quay in Singapore. Our landmark shopping malls in China are CapitaMall Crystal in Beijing; Hongkou Plaza in Shanghai and Raffles City Shanghai; and CapitaMall Jinniu in Chengdu. The portfolio also includes Gurney Plaza in Penang, Malaysia; Vivit Square in Tokyo, Japan; as well as Forum Value Mall in Bangalore, India.
 
 CapitaMalls Asia's principal business strategy is to invest in, develop and manage a diversified portfolio of real estate used primarily for retail purposes in Asia, and to strengthen its market position as a leading developer, owner and manager of shopping malls in Asia.
 
-About JCube
-
+**About JCube**
+<br>
 Nestled in the heart of the up and coming Jurong Lake District, JCube is an ultra-hip mall with Singapore's only Olympic-size ice rink and IMAX cinema in the suburbs. The mall boasts a unique faceted facade inspired by an ice cube, reflecting natural light by day and sparkling by night. JCube has been awarded the Building and Construction Authority's highest green accolade - Green Mark Platinum - for its environmentally friendly features.
 
 Located close to Jurong East MRT interchange and bus interchange, JCube, which replaces the former Jurong Entertainment Centre, has a net lettable area of 210,000 sq ft in its five levels of retail, dining and entertainment options. There are two levels of basement parking and a rooftop terrace-cum-event space on Level 5, called JStage. With its new-to-market brands and extended dining options, JCube is set to be the preferred leisure and entertainment destination for youth, PMEBs and residents who live and work in Singapore's West.
