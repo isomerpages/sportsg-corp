@@ -34,9 +34,9 @@ image: ""
 
 Following Team Singapore in Action
 
-11. Through the national well-wishing campaign, launched on 1 June 2012, Singapore Sports Council hopes to gather over 200,000 well-wishes for the contingents headed to London 2012. Together with partners such as SingTel, McDonalds, Samsung and National Library Board, the well-wishing campaign aims to rally Singaporeans behind the athletes as they prepare to compete on the world's most prestigious sporting stage. Singaporeans can support Team Singapore by submitting their well-wishes online via the mobile portal: http://supportteamsingapore.sg/ or penning their words of encouragement at 20 selected McDonald's outlets, 24 public libraries, ITEs, Velocity, Singtel ComCentr as well as Samung Mobile shops and pop-up stores across the island. Till 30 June 2012, three lucky supporters will stand to win 'I Love Team Singapore' travel packages for two to London. Limited edition 'I Love Team Singapore' merchandise and other attractive prizes are also up for grabs.
+11. Through the national well-wishing campaign, launched on 1 June 2012, Singapore Sports Council hopes to gather over 200,000 well-wishes for the contingents headed to London 2012. Together with partners such as SingTel, McDonalds, Samsung and National Library Board, the well-wishing campaign aims to rally Singaporeans behind the athletes as they prepare to compete on the world's most prestigious sporting stage. Singaporeans can support Team Singapore by submitting their well-wishes online via the mobile portal: [http://supportteamsingapore.sg](http://supportteamsingapore.sg)/ or penning their words of encouragement at 20 selected McDonald's outlets, 24 public libraries, ITEs, Velocity, Singtel ComCentr as well as Samung Mobile shops and pop-up stores across the island. Till 30 June 2012, three lucky supporters will stand to win 'I Love Team Singapore' travel packages for two to London. Limited edition 'I Love Team Singapore' merchandise and other attractive prizes are also up for grabs.
 
-12. Singaporeans can update themselves on Team Singapore's performance at the Games through Team Singapore's Facebook page and website (www.Facebook.com/TeamSG and www.teamsingapore.com.sg respectively).
+12. Singaporeans can update themselves on Team Singapore's performance at the Games through Team Singapore's Facebook page and website ([www.Facebook.com/TeamSG](www.Facebook.com/TeamSG) and [www.teamsingapore.com.sg](www.teamsingapore.com.sg) respectively).
 
 13. The 2012 Olympic Games will be held in London, from 27 July to 12 August 2012 and the 2012 Paralympic Games will take place between 29 August and 9 September 2012.
 
@@ -44,10 +44,10 @@ Following Team Singapore in Action
 
 Annex A: Fact Sheet on the London 2012 Olympic Games
 DATE:              27 July - 12 August 2012
-
+<br>
 VENUE:            London, United Kingdom
-
-WEBSITE:       http://www.london2012.com
+<br>
+WEBSITE:       [http://www.london2012.com](http://www.london2012.com)
 
 NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 
