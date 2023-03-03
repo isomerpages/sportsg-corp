@@ -68,38 +68,8 @@ II. Sportsboy/ Sportsgirl Meritorious Awards (Event)
 | S/N | AWARDEE | SPORTS |
 | -------- | -------- | -------- |
 | 01     | National Optimist Sailing Team at the Asian Team Racing Championship <br>Fathin Rasyiqin Binte Mohd Firdaus <br>Andre Chew Jann <br>Jillian Lee Sook Ying <br>Joshua Matthew Lim Tze Han <br>Loh Jia Yi | Sailing
-
-02
-
-National Table Tennis Junior Men's Team
-
-Kerry Tan Kiat Yi
-
-Clarence Chew Zheyu
-
-Tay Jit Kiat
-
-Pang Xuejie
-
- 
-
-Table Tennis
-
-03
-
-National Table Tennis Junior Women's Team
-
-Ng Xue Qi
-
-Chau Hai Qing
-
-Cheryl Tang Jiawen
-
-Isabelle Li Siyun
-
-Table Tennis
-
- 
+| 02 | National Table Tennis Junior Men's Team <br>Kerry Tan Kiat Yi <br>Clarence Chew Zheyu <br>Tay Jit Kiat <br>Pang Xuejie  | Table Tennis
+| 03  | National Table Tennis Junior Women's Team <br>Ng Xue Qi <br>Chau Hai Qing <br>Cheryl Tang Jiawen <br>Isabelle Li Siyun | Table Tennis
 
 III.     Sportsboy/ Sportsgirl Meritorious Awards (Team Sport)
 
