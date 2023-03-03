@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ## **Committee Tasked To Create Lifelong Opportunities In Sports Unveiled**
-
+![](/images/Media%20Centre/Media%20Release/2012/Nov/nsys.jpeg)
 	
 **Singapore, 9 November 2012** - Reducing the drop-off in sports participation after full-time education; developing integrated pathways to create sports champions; creating more opportunities for regular sports participation at all stages in life; rooting out bad sportsmanship while inculcating values and building character - these are just a few of the outcomes the newly formed Sports Pathways Committee (SPC) aims to achieve in the coming years.
 
