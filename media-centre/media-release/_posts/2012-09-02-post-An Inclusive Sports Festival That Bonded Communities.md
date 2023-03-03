@@ -95,27 +95,22 @@ Annex B: SNG Sports Points System for Sports Challenge Shield and Community Chal
 * The overall winning Cluster for each sport will be based on the total points derived from two components, Excellence and Participation. The diagram below shows the weightage for each component.
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0041Imagegif.gif)
  
-
 2.1 Points System for Excellence Component (70%)
 Points will be awarded to the top eight positions in every event (individual and team) for all sports to reward Clusters for athletes' performance. Points will be doubled for teams that managed to form an All CARE team. The total points scored will constitute 70% of the total score for each sport. The table below shows how the points will be computed.
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0048Imagegif.gif)
 
  
-
 Notes:
 * If there is no 3rd position play-off, losing semi-finalists will be awarded seven points each
 ** If quarter-finals are to be played, losing quarter-finalists will be awarded five points each
 The following table shows the sports events that would constitute to individual and team points.
 
 
-
- 
-
 2.2 Points System for Participation Component (30%)
 Each cluster will be awarded points based on the total number of participants registered during the Community Games and Singapore National Games 2012 for each sport. The total points scored will constitute to 30% of the total score for each sport. The table below shows how the points will be computed.
 
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0053Imagegif.gif)
 
  
 
