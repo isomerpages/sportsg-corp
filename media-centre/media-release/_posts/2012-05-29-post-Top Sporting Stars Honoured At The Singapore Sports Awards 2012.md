@@ -127,101 +127,12 @@ V.         Meritorious Awards (Event)
 | S/N | AWARD | AWARDEE | SPORTS |
 | -------- | -------- | -------- | -------- |
 | 04    | Sportsboy/ Sportsgirl Team of the Year (Event)  | National Optimist Sailing Team at the World Team Racing Championship <br>Ryan Lo Jun Han <br>Elisa Yukie Yokoyama <br>Kimberly Lim Min <br>Jillian Lee Sook Ying <br>Jessica Goh Kai Ling  | Sailing
-| 05 | Team of the Year (Event) | National Wushu Women's Duilian Team <br>Tao Yi Jun <br>Tay Yu Juan <br>Emily Sin Min Li
-
- 
-
-National Bowling Women's Team (is awarded the Meritorious Award)
-
-New Hui Fen
-
-Daphne Tan Shi Jing
-
-Cherie Tan Shi Hua
-
-Geraldine Ng Su Yi
-
-Jazreel Tan Shi Hua
-
-Shayna Ng Lin Zhi
-
- 
-
-Wushu
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Bowling
-
-06
-
-Coach of the Year
-
- 
-
-William Woo Nam Fatt
-
- 
-
-Bowling
-
- 
-
-07
-
-Sportsgirl of the Year
-
- 
-
-Amanda Lim Xiang Qi
-
-Swimming
-
-08
-
-Sportsboy of the Year
-
- 
-
-Quah Zheng Wen
-
-Swimming
-
- 
-
-09
-
-Sportswoman of the Year
-
- 
-
-Fu Mingtian
-
- 
-
-Badminton
-
-10
-
-Sportsman of the Year
-
- 
-
-Joseph Isaac Schooling
-
- 
-
-Swimming
-
- 
+| 05 | Team of the Year (Event) | National Wushu Women's Duilian Team <br>Tao Yi Jun <br>Tay Yu Juan <br>Emily Sin Min Li <br><br>National Bowling Women's Team (is awarded the Meritorious Award) <br>New Hui Fen <br>Daphne Tan Shi Jing <br>Cherie Tan Shi Hua <br>Geraldine Ng Su Yi <br>Jazreel Tan Shi Hu <br>Shayna Ng Lin Zhi | Wushu <br>Bowling
+| 06 | Coach of the Year | William Woo Nam Fatt | Bowling
+| 07 | Sportsgirl of the Year | Amanda Lim Xiang Qi | Swimming
+| 08| Sportsboy of the Year | Quah Zheng Wen| Swimming
+| 09| Sportswoman of the Year | Fu Mingtian | Badminton
+| 10| Sportsman of the Year | Joseph Isaac Schooling | Swimming
 
 
 **For media enquiries, please contact:**
