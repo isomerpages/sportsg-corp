@@ -31,3 +31,13 @@ Activities were designed to challenge the students to step out of their comfort 
 ![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/Event_10.jpeg)
 
 ![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/Event_12.jpeg)
+
+ActiveSG facilitator Fu Yong said, “Having worked with the Eliza & Ee Theng from CoachSG on the design of this programme since January, it’s fulfilling to see all our work coming to fruition in the form of the participants enjoying themselves and learning from the LTS Programme,” 
+
+“Team sports bring out enthusiasm and emotions that often tend to be suppressed in other settings of these kids’ lives. Sports help bring them out of the comfort zone and into the learning zone. We see the kids picking up useful teamwork skills when organizing their own games, and seeing how much their ideas appeal to the rest.”
+
+“We hope to see these kids come back as facilitators for the LTS Programme someday!”
+
+![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/z_Finale.jpeg)
+
+**For more information on the overall design and other modules of the LTS Programme, check it out here:** [https://www.myactivesg.com/read/2017/7/developing-young-leaders-through-sport](https://www.myactivesg.com/read/2017/7/developing-young-leaders-through-sport)
