@@ -10,14 +10,13 @@ image: ""
 ## **SportsCares Partners Grassroots To Change The Lives Of Vulnerable Youth Through Football**
 ![](/images/Media%20Centre/Media%20Release/2013/May/SSCANDSMUJOINFORCESTOINSTILLVALUESINYOUTHTHROUGHSPORTSMainPar0061Imagegif.gif)
 	
-Singapore, 18 May 2013 - The SportCares Foundation, the philanthropic arm of Singapore Sports Council (SSC), today officially launched a football programme in Jurong to change the lives of underprivileged and at-risk youth, in partnership with local grassroots organisations. Known as Saturday Night Lights (SNL), the programme exemplifies the work being done by SportCares to help people live better through sports. SportCares was the first recommendation to be put into action under the Vision 2030 sports masterplan.
+**Singapore, 18 May 2013** - The SportCares Foundation, the philanthropic arm of Singapore Sports Council (SSC), today officially launched a football programme in Jurong to change the lives of underprivileged and at-risk youth, in partnership with local grassroots organisations. Known as Saturday Night Lights (SNL), the programme exemplifies the work being done by SportCares to help people live better through sports. SportCares was the first recommendation to be put into action under the Vision 2030 sports masterplan.
 
 2. Mr Richard Seow, Chairman of the SSC, said: "SportCares was conceived to leverage sport as a force for social good. Through SportCares, we are cultivating strong social values, sport philanthropy and volunteerism across different communities. Saturday Night Lights is a wonderful demonstration that people from all walks of life can come together to help each other live better through sports. Through this joining of hands, we hope to see many more of such programmes sprout all over Singapore."
 
 3. Saturday Night Lights provides a holistic sporting experience for youth where and when they need it most. From 7 to 11 pm, SNL offers a welcoming environment, quality coaching, supportive volunteers, bus services and a nutritious meal at the end of the night - all at no charge to the youth. The coaches and the volunteers from the community, the corporate world, and SportCares and SSC use football to reinforce good values such as respect for team work and leadership, discipline in thinking and action and a commitment to a greater purpose.
 
-Leveraging partnerships with grassroots organisations
-
+**Leveraging partnerships with grassroots organisations**
 	
 4. Over the past eight weeks, three groups of youth from the Beacon of Life Football Academy (BOLA) in Taman Jurong, Henderson Free Kicks Programme and Delta League from Jurong Springs have been participating in a pilot run of the SNL football programme. The teams' involvement was a result of ongoing partnerships between SportCares and grassroots organisations.
 
@@ -29,14 +28,14 @@ Leveraging partnerships with grassroots organisations
 
 8. On Delta League's participation, Deputy Assistant Commissioner of Police (DAC) Melvin Yong, Commander of Clementi Police Division, said: "The Delta League has shown that football is an effective way of reaching out to youths to positively engage and influence them during the school holidays. We are pleased to be partnering with the SportCares Foundation and the Saturday Night Lights programme, to extend this outreach beyond the school holidays."
 
-SNL pilot effects positive changes in character
+**SNL pilot effects positive changes in character**
 
 9. The SNL pilot may have been running for just eight weeks, but organisers and volunteers are already seeing positive changes in character in the boys.
 
 10. Ms Laura Reid, Assistant Director, SportCares Foundation, Singapore Sports Council, said: "We are seeing flashes of self-belief and confidence from our most vulnerable group of boys who came into SNL with very little of either. We can feel the team spirit emanating from the teams when they cheer each other on during the friendly matches at the end of the night. We know they are more committed to self-improvement, as evidenced by the deeper effort they are putting into their training. We know that for a fact because they are drinking double the amount of water during the night than when they first started eight weeks ago!"
 
-Future plans
-
+**Future plans**
+<br>
 11. With the completion of this pilot run, Ms Reid hopes to see SNL grow and reach out to more communities. She said: "We look forward to introducing the programme to other regions in Singapore. In the longer term, we also hope to adapt the programme for other sports such as basketball or floorball."
 
 12. For more information on how to contribute to SportCares as a partner or volunteer, please send an email to sportcares@ssc.gov.sg.
@@ -53,7 +52,7 @@ Siti Nurhidayati
 <br>Senior Executive, Media Relations 
 <br>Corporate Communications & Relations 
 <br>Tel: 6500 5246
-<br>Email: siti_nurhidayati@ssc.gov.sg
+<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
 
 **About the Singapore Sports Council**
 <br>
