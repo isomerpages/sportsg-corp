@@ -14,7 +14,7 @@ image: ""
 The List classifies the programmes into two categories:
 
 (a) Category A: Pay-TV retailers cannot acquire exclusive "live" or "delayed" rights to broadcast all or part of the programme; and
-
+<br>
 (b) Category B: Pay-TV retailers can acquire exclusive "live" rights, but not exclusive "delayed" rights to broadcast all or part of the programme.
 
 Introduced in 2003, the List helps to increase the opportunity for local viewers to watch programmes of public interest and national significance on free-to-air TV. The new List, which comes into effect from 12 Jan 2013, now comprises both Category A and B programmes as follows:
