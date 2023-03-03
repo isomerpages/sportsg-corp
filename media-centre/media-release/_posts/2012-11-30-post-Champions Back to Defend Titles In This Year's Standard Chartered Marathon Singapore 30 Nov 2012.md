@@ -46,46 +46,44 @@ Annex C: SCMS Race Results (2009 - 2011)
 Annex A: List of Elite Athletes
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0047Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0051Imagegif.gif)
-Annex B: Profiles of Top Elite Athletes
-Charles Mwai Kanyao
 
-Gender: Male
-Country: Kenya
-Birth Date: 20 April 1976
+Annex B: Profiles of Top Elite Athletes
+<br>Charles Mwai Kanyao
+<br>Gender: Male
+<br>Country: Kenya
+<br>Birth Date: 20 April 1976
 
 Personal Records:
-Full Marathon: 2:14:14
-
+<br>Full Marathon: 2:14:14
+<br>
 Charles Mwai Kenyao is a Kenyan long distance runner who specialises in the Marathon. Kenyao achieved his first major marathon victory in Singapore last year, clinching the title at the Standard Chartered Marathon Singapore with a time of 2:14:34. Kenyao was also runner-up in Kuala Lumpur Marathon in June this year.
 
 Career Highlights:
-2009 Khon Kaen Marathon (2:14:14) – Personal Best
-2010 Bangkok Marathon, Second (2:17:09)
-2011 Singapore Marathon, Champion (2:14:34)
-2012 Kuala Lumpur Marathon, Second (2:15:51)
+<br>2009 Khon Kaen Marathon (2:14:14) – Personal Best
+<br>2010 Bangkok Marathon, Second (2:17:09)
+<br>2011 Singapore Marathon, Champion (2:14:34)
+<br>2012 Kuala Lumpur Marathon, Second (2:15:51)
 
 Kenneth Mburu Mungara
-
-Gender: Male
-Country: Kenya
-Birth Date: 7 September 1973
+<br>Gender: Male
+<br>Country: Kenya
+<br>Birth Date: 7 September 1973
 
 Personal Records:
-Full Marathon: 2:07:36
-
+<br>Full Marathon: 2:07:36
 Kenneth Mburu Mungara was the champion of the Standard Chartered Marathon Singapore 2010 with a time of 2:14:06, his first time competing in the Republic. Mungara also broke his personal record the next year at the 2011 Prague Marathon with a time of 2:07:36. Mungara then moved on to clinch the champion’s title in the Toronto Waterfront Marathon, making it his fourth consecutive year in winning that title from 2008 to 2011.
 
 Career Highlights:
-2008 Tiberias Marathon, Second (2:10:37)
-2008 Prague Marathon, Champion (2:11:06)
-2008 Toronto Waterfront Marathon, Champion (2:11:01)
-2009 Mumbai Marathon, Champion (2:11:51) - Course Record
-2009 Prague Marathon, Third (2:10:29)
-2009 Toronto Waterfront Marathon, Champion (2:08:32) – Course & Canadian Record
-2010 Toronto Waterfront Marathon, Champion (2:07:58) – Course & Canadian Record
-2010 Singapore Marathon, Champion (2:14:32)
-2011 Prague Marathon, Champion (2:07:36)
-2011 Toronto Waterfront Marathon, Champion (2:09:51)
+<br>2008 Tiberias Marathon, Second (2:10:37)
+<br>2008 Prague Marathon, Champion (2:11:06)
+<br>2008 Toronto Waterfront Marathon, Champion (2:11:01)
+<br>2009 Mumbai Marathon, Champion (2:11:51) - Course Record
+<br>2009 Prague Marathon, Third (2:10:29)
+<br>2009 Toronto Waterfront Marathon, Champion (2:08:32) – Course & Canadian Record
+<br>2010 Toronto Waterfront Marathon, Champion (2:07:58) – Course & Canadian Record
+<br>2010 Singapore Marathon, Champion (2:14:32)
+<br>2011 Prague Marathon, Champion (2:07:36)
+<br>2011 Toronto Waterfront Marathon, Champion (2:09:51)
 
 Luke Kibet
 
