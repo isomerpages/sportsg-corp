@@ -24,3 +24,9 @@ Ms Teo Siew Lan, PE teacher and volleyball coach from St Hilda Secondary shared 
 *Mr Mohammed Azhar Bin Yusof, Deputy Director of Coach Development, CoachSG sharing on his sporting experiences as an athlete to a teacher, coach and paren*t
 
 Mr Mohammed Azhar Bin Yusof, Deputy Director of Coach Development in CoachSG shared on how his coaching beliefs and philosophies have been shaped over the years through various experiences in sport as an athlete, teacher, coach and also a parent. He emphasized on how these beliefs and philosophies undergird one’s actions as what teachers and coaches say and do has an impact on student athletes under their care. This realization was cemented through his interactions with his coaches as an athlete over the years where their leadership has left a significant impact in his life.
+
+![Hanif_ARahman](/images/Sport%20Leadership%20Latest/GFL%20CoP/Hanif_ARahman.jpeg)
+
+*Mr Hanif Abdul Rahman, Principal Master Teacher, PESTA sharing on his experiences in New Zealand*
+
+Wrapping up the presentations, Mr Hanif Abdul Rahman, Principal Master Teacher for PE at MOE’s PE & Sports Teacher Academy (PESTA) shared on his experiences in New Zealand where he met Richie McCaw, ex-captain of the New Zealand All Blacks during a working opportunity. His takeaways included how building high performing teams start with self leadership where self awareness is important. In his presentation, Mr Hanif touched on how the teacher and coach can play a part in creating a team ethos in CCA teams so as to leave a lasting legacy in the team.
