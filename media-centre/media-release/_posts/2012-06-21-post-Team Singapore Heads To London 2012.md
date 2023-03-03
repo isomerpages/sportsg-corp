@@ -55,8 +55,8 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 | -------- | -------- | -------- |
 | Opening Ceremony    | 27 July 2012    | 
 | Closing Ceremony   | 12 August 2012    |  
-| Canoe Sprint   | 6 August - 11 August 2012    |    
-| Gymnastics - Artistic   | 28 July - 7 August 2012   | 
+| Archery   | 27 July - 3 August 2012   |    
+| Badminton  | 28 July - 5 August 2012  | 
 | Sailing  | 29 July - 11 August 2012   | 
 | Shooting   | 28 July - 6 August 2012    |  
 | Swimming   | 28 July - 10 August 2012    |    
@@ -71,17 +71,10 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 
 
 
-Archery
 
-27 July - 3 August 2012
 
-Athletics
 
-3 August - 12 August 2012
 
-Badminton
-
-28 July - 5 August 2012
 
 Basketball
 
