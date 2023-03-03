@@ -2,5 +2,6 @@ collections:
   singapore-sports-institute:
     output: true
     order:
+      - High Performance Sports/High Performance Planning.md
       - High Performance Sports/.keep
       - Sport Science/.keep
