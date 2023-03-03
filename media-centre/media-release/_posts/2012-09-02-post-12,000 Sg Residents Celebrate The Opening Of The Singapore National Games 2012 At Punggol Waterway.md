@@ -45,7 +45,7 @@ The athletes and officials raise their right hands while reciting the oath in un
 Fact Sheet - Cluster Raft Design Competition**
 <br>
 OBJECTIVES
-(a) To ignite the sporting passion of all Singaporeans
+<br>(a) To ignite the sporting passion of all Singaporeans
 (b) To leverage on the occasion to build bonds and friendship among residents
 (c) To demonstrate the "We are one" Singapore Spirit
 
