@@ -29,7 +29,7 @@ Sporting Heroes
 
 7. Asia's swim queen Tao Li made a splash in the pool when she smashed her own national record in the women's 100m backstroke and came in 10th overall in her pet event, the women's 100m butterfly, where she clocked her best time since Beijing 2008.
 
-Making Their Mark
+**Making Their Mark**
 
 8. With more than half of the contingent making their Olympic debut, these first time Olympians took on the challenge with pride and delivered excellent performances. This was also the first time Singapore was represented in gymnastics, canoeing and women's weightlifting at the Olympics.
 
