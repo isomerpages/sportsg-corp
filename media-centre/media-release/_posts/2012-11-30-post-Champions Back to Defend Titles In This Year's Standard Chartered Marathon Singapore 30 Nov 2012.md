@@ -149,11 +149,11 @@ Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5014
-<br>Email: eric_ong@ssc.gov.sg
+<br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
 Ho Shu Fen
 <br>Fulford PR
-<br>Email: sfho@fulfordpr.com
+<br>Email: [sfho@fulfordpr.com](sfho@fulfordpr.com)
 
 
 **About the Singapore Sports Council**
