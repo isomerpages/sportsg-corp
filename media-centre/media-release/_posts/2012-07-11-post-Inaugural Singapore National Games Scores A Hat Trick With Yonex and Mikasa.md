@@ -49,11 +49,11 @@ For more information regarding the Games, please visit the singaporenationalgame
 <br>
 U-Lynn LEE
 <br>Fulford Public Relations 
-<br>Email: ullee@fulfordpr.com
+<br>Email: [ullee@fulfordpr.com](ullee@fulfordpr.com)
 
 Tanty Nazlianah ROSLI 
 <br>Singapore Sports Council 
-<br>Email: tanty_nazlianah@ssc.gov.sg
+<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
 
 Adlina JAFFAR
 <br>People's Association
