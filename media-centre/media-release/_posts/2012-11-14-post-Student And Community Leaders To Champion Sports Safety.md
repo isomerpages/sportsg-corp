@@ -8,7 +8,7 @@ image: ""
 ---
 ## **Student And Community Leaders To Champion Sports Safety**
 
-	
+![](/images/Media%20Centre/Media%20Release/2012/Nov/STUDENTANDCOMMUNITYLEADERSTOCHAMPIONSPORTSSAFETYMainPar0042Imagegif.gif)
 **Singapore, 14 November 2012** - Student and community leaders champion sports safety and inspire others to follow suit, with the launch of the Sports Safety Champs Programme today. This is part of the Singapore Sports Council's (SSC) ongoing effort to prevent and reduce sports-related accidents in Singapore.
 
 **Sports Safety is everyone's responsibility**
