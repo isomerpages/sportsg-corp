@@ -21,7 +21,7 @@ The book, 'GAME FOR LIFE: 25 Journeys' chronicles the transformation of 25 ordin
 Readers of all ages especially youths, parents and educators will find the book inspiring, relevant and reflective.  
   
 **Where can I get the book?**
-The full e-copy of the book can be [download here](/files/Sport%20Education/Sports%20Leadership/Book/Game_For_Life_Book_Full_Version.pdf)
+The full e-copy of the book can be [download here](/files/Sport%20Education/Sports%20Leadership/Book/Game_For_Life_Book_Full_Version.pdf).
 
 A hardcopy Game For Life Book can be requested from the Character & Leadership Development Department, Sport Singapore.  
   
