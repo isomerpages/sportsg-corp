@@ -45,11 +45,10 @@ The winners are:
 -END-
 
 **Annex A - List of Awardees
- <br>**Meritorious Awards**
-
  
+ **Meritorious Awards**
 
-I.         Sportsboy/ Sportsgirl Meritorious Awards (Individual)
+1. Sportsboy/ Sportsgirl Meritorious Awards (Individual)
 
  
 
