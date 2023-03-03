@@ -15,9 +15,9 @@ image: ""
 
 2. Chef de Mission for Team Singapore to the London 2012 Olympics, Mrs Jessie Phua, said, "Our athletes have outdone themselves at these Games. My warmest congratulations to all of them, especially to our table tennis athletes who have brought glory to Singapore and to all who have set new records and raised the bar higher by clocking their personal bests."
 
-3. "The dedication and fighting spirit that our athletes have shown has been an inspiration for all of us. Team Singapore has done us proud here at the world?s greatest sporting stage," added Mrs Phua. ?We have shown the world what Singapore is capable of."
+3. "The dedication and fighting spirit that our athletes have shown has been an inspiration for all of us. Team Singapore has done us proud here at the world?s greatest sporting stage," added Mrs Phua.? We have shown the world what Singapore is capable of."
 
-Sporting Heroes
+**Sporting Heroes**
 
 4. Singapore's position as a credible force in table tennis was cemented by the impressive performances of our paddlers in London. 25-year-old table tennis star Feng Tianwei captured the nation's attention when she took just 25 minutes to defeat Japan's Kasumi Ishikawa in the women's table tennis singles bronze medal match, clinching Singapore's first ever Olympic bronze medal and our first individual medal in 52 years.
 
