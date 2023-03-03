@@ -80,3 +80,10 @@ Updates to the 60-minute slot must be made before the start of the 60-minute slo
 **Whereabouts Information 7****: Travel Information**
 
 All **RTP** athletes must provide their details of their travel plans if they have _**all-day**_ travel plans that prevent them from entering an accessible 60-minute time slot or an **_all-night_** travel plan that would prevent them from entering a fixed and accessible overnight accommodation entry.
+
+**Summary of Whereabouts Information Requirements**
+
+| Testing Pool | Whereabouts Information | Daily 60-minute Slot |
+| -------- | -------- | -------- |
+| RTP  | Complete mailing address, email address and contact numbers<br>Address of daily overnight residence <br>Competition details<br>Training details<br>Details of other regular activities<br>Travel plans (when required)|YES |
+DTP| Complete mailing address, email address and contact numbers<br>Competition details<br>Training details<br>Details of other regular activities| NO
