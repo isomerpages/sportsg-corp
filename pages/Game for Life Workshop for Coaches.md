@@ -10,3 +10,5 @@ The bi-annual Game-for-Life (GFL) workshop organised by CoachSG’s Character & 
 The experiential workshop took the coaches through a series of practical activities that allowed coaches to experience a floorball training session infused with values conducted by Gobi, and Ranald Joseph, who is the strength and conditioning coach of the men’s national floorball team.
 
 This was followed by addressing coaches’ challenges on teaching values, and understanding the GFL framework as a structured approach to infuse values within training sessions. The session ended with the coaches getting the opportunity to design & deliver sport activities based on the GFL training template.
+
+#### **Coaches enjoying learning floorball - Practical Demonstration**
