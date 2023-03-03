@@ -48,7 +48,7 @@ The winners are:
  
  **Meritorious Awards**
 
-1. Sportsboy/ Sportsgirl Meritorious Awards (Individual)
+I. Sportsboy/ Sportsgirl Meritorious Awards (Individual)
 
 | S/N | AWARDEE | SPORTS |
 | -------- | -------- | -------- |
@@ -63,7 +63,7 @@ The winners are:
 | 09 | Isabelle Li Siyun | Table Tennis | 
 | 10 | Muhd Norhalim Mohd Zahruddin | Taekwondo | 
 
-Sportsboy/ Sportsgirl Meritorious Awards (Event)
+II. Sportsboy/ Sportsgirl Meritorious Awards (Event)
 
  
 
