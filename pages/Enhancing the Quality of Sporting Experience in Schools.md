@@ -29,7 +29,7 @@ Led by CoachSG’s Character & Leadership Development (CLD) Team, the first seri
 
 ![Building Culture](/images/Sport%20Leadership%20Latest/Enhancing%20the%20Quality/Building_Culture.png)
 
-Building Culture: Taken from: [_https://www.torbenrick.eu/blog/culture/corporate-culture-is-driving-the-strategy-or-undermining-it/_](https://www.torbenrick.eu/blog/culture/corporate-culture-is-driving-the-strategy-or-undermining-it/)
+Building Culture: Taken from: [https://www.torbenrick.eu/blog/culture/corporate-culture-is-driving-the-strategy-or-undermining-it/](https://www.torbenrick.eu/blog/culture/corporate-culture-is-driving-the-strategy-or-undermining-it/)
 
 The 3 hour session facilitated conversations between CCA coaches & teachers about:
 
