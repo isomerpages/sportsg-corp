@@ -13,3 +13,5 @@ third_nav_title: Sports Leadership
 [Upcoming Game For Life Toolkit Sharing Session](/upcoming-game-for-life-toolkit-sharing-session)
 
 [Leaders Through Sport Programme](leaders-through-sport-programme)
+
+[Game for Life Workshop for Coaches](game-for-life-workshop-for-coaches)
