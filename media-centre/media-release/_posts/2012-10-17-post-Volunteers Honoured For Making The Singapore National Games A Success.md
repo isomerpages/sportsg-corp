@@ -11,7 +11,7 @@ image: ""
 SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
 **Singapore, 17 October 2012** - The inaugural Singapore National Games (SNG), which was held from 1 to 9 September this year, exceeded expectations in participation numbers, bonding the community and forging friendships. The success of the Games would not have been possible without the tireless contributions of the 3,000 volunteers.
-
+![](/images/Media%20Centre/Media%20Release/2012/Oct/VOLUNTEERSHONOUREDFORMAKINGTHESINGAPORENATIONALGAMESASUCCESSMainPar0061Imagegif.gif)
 2. "Under the sun or in the rain, early in the morning or late in the evening, the volunteers were always there to make sure that all the events ran smoothly," said Mr Lim Swee Say, Minister, Prime Minister's Office and Deputy Chairman, People's Association (PA). "The time and effort put in by the volunteers had certainly contributed to the successful staging of the Games. More than that, their enthusiasm and passion had certainly made a difference in bonding the community through sports."
 
 3. To highlight their exemplary participation, the Organising Committee also accorded the SNG Most Supportive Volunteer Organisations award to the top five participating entities, which included Republic Polytechnic (RP), National Volunteer & Philanthropy Centre (NVPC), Members Church of God International Singapore, Institute of Technical Education (ITE) College Central and Singapore Polytechnic (SP).
