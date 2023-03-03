@@ -57,21 +57,21 @@ LifeLessons to develop life-long skills and attitudes
 For media enquiries, please contact:
 
 Bridgitte Lee
-Senior Executive, Media Relations
-Singapore Sports Council
-Tel: +65 6500 5249
-Email: bridgitte_lee@ssc.gov.sg
+<br>Senior Executive, Media Relations
+<br>Singapore Sports Council
+<br>Tel: +65 6500 5249
+<br>Email: [bridgitte_lee@ssc.gov.sg](bridgitte_lee@ssc.gov.sg)
 
 Kong Hwee Ting
-Senior Manager, Corporate Communications
-Singapore Management University
-Tel: +65 6808 5238
-Email: htkong@smu.edu.sg
+<br>Senior Manager, Corporate Communications
+<br>Singapore Management University
+<br>Tel: +65 6808 5238
+<br>Email: [htkong@smu.edu.sg](htkong@smu.edu.sg)
 
 Enclosures
 
-Annex A: 'Game For Life' Toolkit
-Annex B: LifeLessons
+<br>**Annex A: 'Game For Life' Toolkit**
+<br>**Annex B: LifeLessons**
 
 **Annex A: 'Game For Life' Toolkit**
 <br>
@@ -101,60 +101,60 @@ It is a collection of 25 personal stories of Singaporeans, whose lives have been
 
 These inspiring and values-driven stories are set to motivate readers to discover and experience the power of sport in shaping lives.
 
-Annex B: SMU LifeLessons - Frequently Asked Questions
+**Annex B: SMU LifeLessons - Frequently Asked Questions**
 
-1. What is SMU LifeLessons?
-
+**1. What is SMU LifeLessons?**
+<br>
 SMU LifeLessons is a values-based out-of-classroom education programme developed for the 4-year undergraduate course at the Singapore Management University (SMU).
 
 It comprises 3 years of structured education through one's participation in out-of classroom activities in the first three years of university life, focused on the self, self and one's team/group/immediate neighbours, and self and the larger community or society, respectively. An additional year is built in for selected students in the fourth year for the development of facilitation and coaching skills.
 
-2. Why are values important?
-
+**2. Why are values important?**
+<br>
 The world around us is changing at a very fast pace, with technological advancements providing opportunities for people to relate to one another in ways never before possible. Yet certain issues remained unsolved - poverty, growing income gaps, inter-cultural differences, human trafficking, environmental concerns. Recently, events in the world of finance and banking have cast a shadow of doubt on the integrity of the systems and its people. In Singapore, we are facing the challenges of rising costs, an ageing population, and even the manner in which we relate to foreigners who come to make Singapore their home.
 
 These issues call for a deeper understanding of our values, both personally and as part of a larger community. There is a need, more than ever before, for us to anchor our values to make better decisions, to position Singapore as one of the best places to live, work, and play. In our pursuit to be competitive and the best in the world, there is a greater need for us to bring out the best in ourselves and be the best for the world.
 
-3. Why do values need to be taught?
-
+**3. Why do values need to be taught?**
+<br>
 Recent events both locally and internationally in various sectors (e.g., banking, procurement processes) indicate a need for professionals to be imbued with strong values. Values such as integrity, loyalty, trust, and others, cannot be taken for granted, and are increasingly under-valued in a complex and fast-changing environment. Even in the sporting world, the Lance Armstrong saga has rocked common belief that "sports build character". The need for values to be taught (and not left to chance to be "caught" is well-documented in research. Contextual, real-world experiences and dilemmas have been identified as one of the better platforms for learning to take place, but only if deliberate efforts are made to bring out lessons learnt.
 
-4. Why does SMU want to embark on SMU LifeLessons?
-
+**4. Why does SMU want to embark on SMU LifeLessons?**
+<br>
 As a premier university in Asia, SMU provides a holistic undergraduate education. The student life experience has been integral to the SMU's assertion that her graduates are well-prepared to meet the challenges of the future. SMU is now embarking on SMU LifeLessons to provide a framework to this out-of-classroom education which is values-based, with the intention of better-defining the students on values and a sense of purpose, preparing them better for the future, and inspiring them to be their best for themselves and for others.
 
-5. Which values will SMU LifeLessons focus on?
-
+**5. Which values will SMU LifeLessons focus on?**
+<br>
 At the very heart of SMU LifeLessons is the identification and understanding of each individual's core values, and why these are important lessons in life, for life. Early in the first year, students will be challenged to articulate their personal values, purpose, vision, and mission in life, and understand the implications of these in the choices they make including their career, relationships, and other decisions.
 
 Apart from one's personal values, the SMU CIRCLE values (Commitment, Integrity, Responsibility, Collegiality, Leadership, and Excellence) will be shared.
 
 Throughout the three-year programme, students will engage in deeper discussions on the meaning and relevance of these values (both the personal and SMU values) to others (one's team or group, family, club, neighbours, the larger community and society).
 
-6. Is SMU LifeLessons all about values?
-
+**6. Is SMU LifeLessons all about values?**
+<br>
 No. SMU LifeLessons is values-based. That is, the programme seeks to develop the sensitivity and sensibility around values being the under-pinning force of our decisions and choices. Soft skills such as people management, motivating teams and managing conflict, event organisation will also be taught, against the backdrop of values.
 
-7. Who will be delivering SMU LifeLessons?
-
+**7. Who will be delivering SMU LifeLessons?**
+<br>
 SMU Office of Student Life (OSL) will spearhead the delivery of SMU LifeLessons. Several individuals (including faculty) and alumni will also be invited to form a pool of facilitators, in the coaching and facilitation module.
 
 SMU will also ride on our partnerships with other agencies and institutions (e.g., the Singapore Sports Council) to offer parts of SMU LifeLessons. SMU has inked an MOU with SSC last year (February), which provides a framework for collaboration to promote sport and explore possibilities of working together in sport-related initiatives.
 
-8. What does an SMU student get out of SMU LifeLessons? Can he secure a better-paying job?
-9. 
+**8. What does an SMU student get out of SMU LifeLessons? Can he secure a better-paying job?**
+<br>
 The SMU student will be able to reap returns based on his/her efforts committed to this programme. The programme does not have examinations or assessment grades and does not contribute to the student's Grade Point Average (GPA), presently. The onus lies with the student to participate, read, and engage others in discussions structured for the programme. Through his/her active participation in CCAs, lessons in life and lessons for life will surface because of the deliberate nature of the programme.
 
 At the end of the programme, students will receive a transcript that documents the learning through SMU LifeLessons, and not just a participation record.
 
 Although there is no guarantee of a better-paying job as an outcome of being on the SMU LifeLessons programme, we have noted that, increasingly, employers are asking for graduates who are better-grounded, who can face the challenges of the future and lead others there. Graduates with these skill sets and experiences are more likely to be emplaced.
 
-9. When will LifeLessons start?
-
+**9. When will LifeLessons start?**
+<br>
 SMU LifeLessons will be opened to the first year students (incoming cohort) in year 2013 (AY2013/2014). The programme will be rolled-out in phases.
 
-10. What does a student do on SMU LifeLessons?
-
+**10. What does a student do on SMU LifeLessons?**
+<br>
 SMU will look at the values-education through its many current platforms. These platforms include SMU participation in the 80-hour community service initiatives, orientation camps, minimum 10 weeks' compulsory internship programme, as well as student exchange opportunities, CCA groups and other student associations and events.
 
 Through these platforms, structured conversations around the experience, supported by models, articles and other reading materials, will be crafted to bring out the values education. Students will be encouraged to do journal reflections, read the articles, and contribute in discussions.
