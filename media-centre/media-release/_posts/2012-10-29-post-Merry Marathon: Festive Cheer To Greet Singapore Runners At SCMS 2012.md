@@ -23,20 +23,20 @@ Singapore, 29 October 2012 - December is traditionally associated with the Chris
 
 6. In addition to enhancing the race experience through the festive theme, major improvements have been made to the running routes to ensure that runners have a smooth and enjoyable run.
 
-Improved Race Conditions
-
+**Improved Race Conditions**
+<br>
 7. Full Marathon participants can expect better route management with the route at South Bridge Road omitted. Instead, there will be an earlier turn at Upper Pickering Road, with a wider path for runners to prevent congestion. Participants will also be greeted by the breathtaking views of the Gardens by the Bay (South) at the 37km mark.
 
 8. With a limit of 10,000 registration slots for the Half-Marathon, participants of this category can also look forward to an improved running experience this year. The route along the Tanjong Beach roundabout has been removed, eliminating the congestion that was experienced at the hair-pin turn in Sentosa last year. In addition, all categories will have improved wave starts to minimise crowding at the first few kilometres.
 
-Enhanced Baggage Deposit System
-
+**Enhanced Baggage Deposit System**
+<br>
 9. A smoother baggage deposit system awaits runners this year. Runners were able to opt for the baggage deposit service at the point of registration and will be presented with a Baggage Service Pack (BSP) at the Race Entry Pack Collection (REPC) at the end of November.
 
 10. Runners can pre-pack their belongings and fill up their personal details on the bag within the BSP, which will help to reduce the waiting times at the deposit counters come race day.
 
-More Ways to Motivate Runners
-
+**More Ways to Motivate Runners**
+<br>
 11. Runners can look forward to music performances and giant BMW Cheer Video screens along the route. Another 'first' this year will be the Cheer Markers at every distance marker displaying inspirational words of encouragement sent in by runners for runners.
 
 12. Supporters can also board the Cheer Mobiles to get to Cheer Stations to catch the runners along the route. Cheer Kits will be available at every Cheer Station for supporters to use to cheer on the runners as they pass by.
