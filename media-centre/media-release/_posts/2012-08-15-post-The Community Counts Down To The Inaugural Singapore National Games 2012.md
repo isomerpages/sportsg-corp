@@ -77,8 +77,8 @@ Approximately 1,740 Baton Bearers representing 87 Constituencies will be passing
 
 Together with the One Community Walk, the event will see the participation of about 100,000 Singapore residents.
 
-SNG Baton Relay - Baton Design
-
+**SNG Baton Relay - Baton Design**
+![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0049Imagegif.gif)
 	
 The SNG Baton represents the elements of Unity, Passion, Community Togetherness and Bonding.
 
@@ -86,8 +86,8 @@ The four metal strips in gold, silver, bronze and black rising from the base of 
 
 The baton holder at its base is the heaviest part of the baton?s structure which symbolises the importance of a firm foundation and a solid anchor needed to build a nation.
 
-Annex D: Spot-the-Nila Contest
-
+**Annex D: Spot-the-Nila Contest**
+<br>
 Celebrating a special five-day countdown to the start of the Singapore National Games 2012, 15 cluster mascots will be making appearances around Singapore from 27 to 31 August 2012. Each of the mascots has been customised with accessories and graphics, based on the original Singapore National Games (SNG) mascot, Nila, to showcase the unique identify of each cluster participating in the SNG.
 
 To take part in the 'Spot the Nila' Contest, Singapore residents will need to capture their encounters with Nila and share the photograph on the official SNG Facebook fan page (www.facebook.com/singaporenationalgames). Fans can also listen for daily hints on the whereabouts of the mascots on MediaCorp Radio station 987FM during the station's evening segment from 4.00pm to 8.00pm.
