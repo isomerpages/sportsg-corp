@@ -28,17 +28,17 @@ Singapore, 2 December 2012 - Starting from 5.00am, 53,000 people started off on 
 Annex: Results of Standard Chartered Marathon Singapore 2012
 ![](/images/Media%20Centre/Media%20Release/2012/Dec/53000RUNNERSGETINTOTHEFESTIVEMOODASTHEYRACETHROUGHTHECITYOFSINGAPOREMainPar0055Imagegif.gif)
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Eric Ong
-Manager, Media Relations
-Singapore Sports Council
-Tel: (65) 6500 5014
-Email: eric_ong@ssc.gov.sg
+<br>Manager, Media Relations
+<br>Singapore Sports Council
+<br>Tel: (65) 6500 5014
+<br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
 Ho Shu Fen
-Fulford PR
-Email: sfho@fulfordpr.com
+<br>Fulford PR
+<br>Email: [sfho@fulfordpr.com](sfho@fulfordpr.com)
 
 
 About the Singapore Sports Council
