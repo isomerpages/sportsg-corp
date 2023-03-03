@@ -56,8 +56,7 @@ Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports
 <br>Mr Desmond Lee, Member of Parliament for Jurong GRC
 <br>Mr David Ong, BBM, Member of Parliament for Jurong GRC
 <br>Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
-
-Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of <br>Parliament for Chua Chu Kang GRC
+<br>Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of <br>Parliament for Chua Chu Kang GRC
 
 **For media enquiries, please contact:**
 <br>
