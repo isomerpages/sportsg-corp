@@ -16,11 +16,12 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Infobar title
+      title: Serving Through Sport With Passion And Pride
       subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
+        Singapore through innovative, fun and meaningful sporting experiences.
+      button: Learn more
+      url: /about-us/our-core-values/
   - infopic:
       title: Start Your Fitness Journey With Sport
       subtitle: What We Do
@@ -34,11 +35,11 @@ sections:
       alt: Image alt text
       url: /support-resources/coaches-corner/introduction/
   - infopic:
-      title: Teach About Sport With Game For Life
-      subtitle: Sport Leadership
+      title: Develop A Love For Sport
+      subtitle: Sport Education
       button: Learn More
       alt: Image alt text
-      url: /sports-education/sports-leadership/workshop-and-training/
+      url: /sports-education/history-of-sportsg/introduction/
   - resources:
       title: Media Center
       button: Read more
