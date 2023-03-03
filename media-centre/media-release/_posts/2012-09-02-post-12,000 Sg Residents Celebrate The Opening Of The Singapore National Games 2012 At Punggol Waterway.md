@@ -55,16 +55,16 @@ WATER CONTINGENT SAIL PAST DURING SNG 2012 OPENING CEREMONY AT PUNGGOL WATERWAY
 
 2 The water contingent will row through the Punggol Waterway from the start point to the kayak point where the whole parade will end. Approximate distance is 1.2km.
 
-CRITERIA
-Each Cluster will have to construct and decorate the two Rafts, where each raft is made of 4 Double Open Top Kayaks and a Triple Kayak in the middle.
-Each Cluster will be judged based on their creative presentation, decoration, costumes, props, synchronisation, energy level, special X factor and interesting presentation of Sports/Cluster branding and identity.
+**CRITERIA**
+* Each Cluster will have to construct and decorate the two Rafts, where each raft is made of 4 Double Open Top Kayaks and a Triple Kayak in the middle.
+* Each Cluster will be judged based on their creative presentation, decoration, costumes, props, synchronisation, energy level, special X factor and interesting presentation of Sports/Cluster branding and identity.
 
-HOW ARE CLUSTER CONTINGENT ASSESSED?
-Creative presentation
-Decoration of the Raft
-Creative use of props & costumes
-Level of synchronisation and energy level
-Cluster identity and passion and love for SNG
+**HOW ARE CLUSTER CONTINGENT ASSESSED?**
+* Creative presentation
+* Decoration of the Raft
+* Creative use of props & costumes
+* Level of synchronisation and energy level
+* Cluster identity and passion and love for SNG
 
 WHEN WILL THE RESULTS OF THE AWARDS BE ANNOUNCED?
 Results will be announced after the closing ceremony of the SNG 2012 on 9 September 2012 at Bishan Stadium.
