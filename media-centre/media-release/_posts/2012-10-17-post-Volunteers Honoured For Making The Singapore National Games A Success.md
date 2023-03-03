@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Volunteers Honoured For Making The Singapore National Games A Success
-17 Oct 2012
-
+## **Volunteers Honoured For Making The Singapore National Games A Success**
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/SNG%202012%20Volunteer%20Appreciation%20Night_2012_10_17_153.jpeg)
 SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
