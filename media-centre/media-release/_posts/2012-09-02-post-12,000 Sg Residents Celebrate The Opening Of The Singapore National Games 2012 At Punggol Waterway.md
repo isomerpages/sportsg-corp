@@ -26,7 +26,7 @@ The Singapore National Games 2012
 List of SNG Baton Bearers and Pledge-Takers
 
 (I) List of SNG 2012 Baton Bearers
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGRESIDENTSOFALLAGESRACESANDBKGDSCELEBRATEOPENINGSGNATIONALGAMES2012ATMainPar0040Imagegif.gif)
 
 
 (II) List of SNG 2012 Pledge-Takers
