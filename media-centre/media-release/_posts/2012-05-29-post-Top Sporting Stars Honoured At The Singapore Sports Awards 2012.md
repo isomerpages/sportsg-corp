@@ -50,61 +50,14 @@ The winners are:
 
 1. Sportsboy/ Sportsgirl Meritorious Awards (Individual)
 
- 
-
-S/N
-
-AWARDEE
-
-SPORTS
-
-01
-
-New Hui Fen
-
- 
-
-Bowling
-
-02
-
-Terry Tay Wei An
-
- 
-
-Gymnastics
-
-03
-
-Elisa Yukie Yokoyama
-
- 
-
-Sailing
-
-04
-
-Audrey Yong Pei Lin
-
- 
-
-Sailing
-
-05
-
-Shana Lim Jia Yi
-
- 
-
-Swimming
-
-06
-
-Teo Zhen Ren
-
- 
-
-Swimming
+| S/N | AWARDEE | SPORTS |
+| -------- | -------- | -------- |
+| 01     | New Hui Fen   | Bowling  |
+| 02 | Terry Tay Wei An | Gymnastics | 
+| 03 | Elisa Yukie Yokoyama | Sailing | 
+| 04 | Audrey Yong Pei Lin | Sailing | 
+| 05 | Shana Lim Jia Yi | Swimming | 
+| 06 | Teo Zhen Ren | Swimming | 
 
 07
 
