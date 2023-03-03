@@ -1,4 +1,5 @@
 collections:
   singapore-sports-institute:
     output: true
-    order: []
+    order:
+      - Sport Science/.keep
