@@ -45,26 +45,26 @@ Annex A: Team Singapore Performance at London 2012
 
 
 
-For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 In Singapore:
-Lin Kuek
-Hill+Knowlton Strategies
-Email: lin.kuek@hkstrategies.com
+<br>Lin Kuek
+<br>Hill+Knowlton Strategies
+<br>Email: lin.kuek@hkstrategies.com
 
 Patricia Yee
-Executive
-Media Relations
-Singapore Sports Council
-Email: patricia_yee@ssc.gov.sg
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Email: patricia_yee@ssc.gov.sg
 
 In London:
-Antony Lee
-Singapore National Olympic Council
-Email: antonylee@snoc.org.sg
+<br>Antony Lee
+<br>Singapore National Olympic Council
+<br>Email: antonylee@snoc.org.sg
 
-About Team Singapore
-
+**About Team Singapore**
+<br>
 On 20 April 2001, the current President and then-Deputy Prime Minister Dr Tony Tan united Singapore's top athletes, coaches and officials under one banner as Team Singapore. The Team has ever since flown the Singapore flag proudly at major multi-sport Games and international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is collectively Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
