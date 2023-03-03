@@ -20,8 +20,9 @@ image: ""
 
 **Winners Unveiled**
 
-5. Guests at the SSA 2012 waited with bated breath for winners of the main awards to be announced by Chairman of the SSA 2012 Organising Committee, Mr Low Teo Ping who is also the Vice-President of the SNOC. <br>The winners are:
+5. Guests at the SSA 2012 waited with bated breath for winners of the main awards to be announced by Chairman of the SSA 2012 Organising Committee, Mr Low Teo Ping who is also the Vice-President of the SNOC.
 
+The winners are:
 * Sportsboy/Sportsgirl Team of the Year (Event): National Optimist Sailing Team at the World Team Racing Championship
 * Team of the Year (Event): National Wushu Women's Duilian Team
 * Coach of the Year: William Woo Nam Fatt
@@ -33,7 +34,8 @@ image: ""
 6. The loudest cheers from the room were heard when the winners of Sportsman and Sportswoman of the Year were announced. The complete list of winners can be found in Annex A.
 
 7. Winners for three new award categories, the "Best Sport Event of the Year (International)", "Best Sport Event of the Year (Local)", and "Most Inspiring Sports Story of the Year" were also revealed at the event. 
-<br>The winners are:
+
+The winners are:
 * Best Sport Event of the Year (International): 2011 Formula 1 SingTel Singapore Grand Prix
 * Best Sport Event of the Year (Local): OCBC Cycle Singapore
 * Most Inspiring Sports Story of the Year: "Not just flesh and blood, but the football HEART" by Terrence Voon from The Straits Times
