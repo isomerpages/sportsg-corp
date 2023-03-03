@@ -210,7 +210,7 @@ Wrestling
  
 
 TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS: 18 Athletes & 33 Officials
-
+<br>
 CHEF DE MISSION TO LONDON 2012 OLYMPICS: Mrs Jessie Phua
 <br>TEAM SINGAPORE FLAG BEARER: Feng Tian Wei (Table Tennis)
 <br>TEAM SINGAPORE PLEDGE TAKER: Lim Heem Wei (Gymnastics)
