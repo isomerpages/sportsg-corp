@@ -6,14 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-Record Olympic Medal Haul For Team Singapore
-11 Aug 2012
-
+## **Record Olympic Medal Haul For Team Singapore**
 
 *Paddler Feng Tianwei Ends Singapore's 52-year Wait for Individual Medal*
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/RECORDOLYMPICMEDALHAULFORTEAMSINGAPOREMainPar0042Imagegif.gif)
 	
-London, 11 August 2012 - It was a dream Olympics for Team Singapore at London 2012 - the Games that will go down in local sporting history as the year Singapore doubled its Olympic medal count, bringing home two bronze medals in table tennis to add to our silver medals from Beijing in 2008 and Rome in 1960.
+**London, 11 August 2012** - It was a dream Olympics for Team Singapore at London 2012 - the Games that will go down in local sporting history as the year Singapore doubled its Olympic medal count, bringing home two bronze medals in table tennis to add to our silver medals from Beijing in 2008 and Rome in 1960.
 
 2. Chef de Mission for Team Singapore to the London 2012 Olympics, Mrs Jessie Phua, said, "Our athletes have outdone themselves at these Games. My warmest congratulations to all of them, especially to our table tennis athletes who have brought glory to Singapore and to all who have set new records and raised the bar higher by clocking their personal bests."
 
