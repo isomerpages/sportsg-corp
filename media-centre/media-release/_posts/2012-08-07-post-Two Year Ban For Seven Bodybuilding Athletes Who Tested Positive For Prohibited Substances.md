@@ -34,7 +34,7 @@ image: ""
 S. Parameswaran
 <br>Assistant Director, Media Relations
 <br>Singapore Sports Council
-<br>Email: parames_seenivasagam@ssc.gov.sg
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 **About Anti-Doping Singapore**
 <br>
