@@ -60,14 +60,8 @@ Coaches who have completed Module 1 can opt in for a summative assessment to b
 (Subsidized rate applies only with condition of agreement to the volunteering requirement to conduct 2 sessions (4 hrs each) of [ActiveSG TeamUP](https://www.myactivesg.com/read/2017/3/upping-the-game-in-team-building) as an assistant coach. You may refer to the [FAQ](/sports-education/sports-leadership/teamup-certification-faq/) if you have any questions on the requirement.)
 
 **Non-NROC Members**: $667.60 
-
-**CCE hours:**
-
-10 
-
-**Registration:**
-
-Please [register here](https://www.sportsingapore.gov.sg/athletes-coaches/coachsg/workshops/building-an-effective-sports-team-every-season).
+<br>
+**CCE hours:**: 10 
 
 **Payment is to be made by cash / cheque to CoachSG, 3 Stadium Drive, Singapore 397630, 3 working days before start of course.**
 
