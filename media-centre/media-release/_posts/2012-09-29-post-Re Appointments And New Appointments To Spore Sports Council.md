@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ## **Re-Appointments And New Appointments To Singapore Sports Council**
 
 **Singapore, 28 September 2012** - The Ministry of Community Development, Youth and Sports (MCYS) announced today the appointments of the members to Singapore Sports Council. Six new members have been appointed and eight current members, including Chairman Mr Richard Seow and Deputy Chairman Mr Cheah Kim Teck, re-appointed. These appointments will take effect from 1 October 2012 and will be for a two-year term.
@@ -42,7 +41,7 @@ Member - Dr Benedict Tan, Sports physician, Head/Senior consultant, Changi Gener
 -END-
 
 Annex
-
+![](/images/Media%20Centre/Media%20Release/2012/Sep/REAPPOINTMENTSANDNEWAPPOINTMENTSTOSINGAPORESPORTSCOUNCILMainPar0044Imagegif.gif)
 **For media enquiries, please contact:**
 <br>Ms Nur Diana Jamaludin
 <br>Assistant Director (Media Relations)
