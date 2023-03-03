@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-An Inclusive Sports Festival That Bonded Communities
-09 Sep 2012
-
+## **An Inclusive Sports Festival That Bonded Communities**
 
 The Inaugural Singapore National Games Came To A Close With A Bang As More Than 5,000 Participants Celebrated The Friendships Built During The Games
 
