@@ -142,20 +142,7 @@ Kids Dash - 750m
 
 -    Only one parent/guardian issued with an identification tag will be allowed to accompany any child six years and below.
 
-Corporate Categories
 
-Team Composition
-
-Corporate Distance Challenge
-
-Any number of runners from any race category
-
-(Team members must be from the same private corporation or company, regardless of gender)
-
-Non-Profit Organisation Distance Challenge
-
-Any number of runners from any race category
-
-(Team members must be from the same educational institution / embassy / Singapore statutory board / ministry, regardless of gender)
+![](/images/Media%20Centre/Media%20Release/2012/Jul/SC%20Marathon%20SG%20Takes%20It%20To%20The%20Next%20Level%20Following%20Gold%20Label%20CertificationIMAGE2.png)
 
 Note: For Distance Challenges - Companies / Organisations will compete based on the total distance completed by their staff / members regardless of their race category or finishing time.
