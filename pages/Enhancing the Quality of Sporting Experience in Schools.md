@@ -18,3 +18,11 @@ Led by CoachSG’s Character & Leadership Development (CLD) Team, the first seri
 ![CCA Coaches & Teachers in discussion about the Vision for their respective Sport](/images/Sport%20Leadership%20Latest/Enhancing%20the%20Quality/PFUZ1758.jpeg)
 
 *CCA Coaches & Teachers in discussion about the Vision for their respective Sport*
+
+![Eliza Tan, from CoachSG (CLD), leading the session](/images/Sport%20Leadership%20Latest/Enhancing%20the%20Quality/XFNF4525.jpeg)
+
+*Eliza Tan, from CoachSG (CLD), leading the session*
+
+![eachers & Coaches sharing about their Vision statements with other CCAs in World Cafe Style](/images/Sport%20Leadership%20Latest/Enhancing%20the%20Quality/DANE5604.jpeg)
+
+*Teachers & Coaches sharing about their Vision statements with other CCAs in World Cafe Style*
