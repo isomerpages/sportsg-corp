@@ -6,11 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore High Performance Sports Steering Committee
-26 Feb 2013
+## **Singapore High Performance Sports Steering Committee**
 
-
-Singapore, 26 February 2013 - The Ministry of Culture, Community and Youth announced the formation of a Singapore High Performance Sports Steering Committee today. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, will chair the Committee, which will be appointed for two years, starting 2013, and include key stakeholders from the Singapore National Olympic Council, Singapore National Paralympic Council, National Sports Associations (NSA), and members of the sporting fraternity. See Annex for the composition of the Steering Committee.
+**Singapore, 26 February 2013** - The Ministry of Culture, Community and Youth announced the formation of a Singapore High Performance Sports Steering Committee today. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, will chair the Committee, which will be appointed for two years, starting 2013, and include key stakeholders from the Singapore National Olympic Council, Singapore National Paralympic Council, National Sports Associations (NSA), and members of the sporting fraternity. See Annex for the composition of the Steering Committee.
 
 2. The Steering Committee will be providing strategic guidance on the national High Performance System (HPS). It is part of the Government's continued support for our Singapore athletes to pursue their sporting aspirations towards excellence. Specifically, the Terms of Reference of the Committee are:
 To provide strategic guidance on the HPS.
@@ -22,7 +20,6 @@ To approve the annual HPS plans for supported sports. (These refer to sports in 
 4. The HPS will also cater for an enhanced level of support for a selected group of athletes, under the Sports Excellence (SpEx) Scholarship, to allow them to train and compete full time in the same manner as athletes from established sporting nations.
 
 5. The Steering Committee will be evaluating the first batch of athletes for the SpEx Scholarship in the next two months. Selection will be based on the assessed potential and demonstrated performance of the athletes. More details will be announced in due course.
-
 
 **Ministry of Culture, Community and Youth
 26 February 2013**
