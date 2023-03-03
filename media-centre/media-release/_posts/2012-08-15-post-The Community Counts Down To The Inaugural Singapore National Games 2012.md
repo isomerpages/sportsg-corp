@@ -45,8 +45,8 @@ Strong Support for SNG from Community
 
 -END-
 
-Annex A: Fact Sheet on SNG
-
+**Annex A: Fact Sheet on SNG**
+<br>
 The Singapore National Games 2012 (SNG) is a new biennial multi-sports festival that bridges community participation and sports excellence, and will offer residents of all ages, races and from different estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
 
 The inaugural SNG will see community teams pitting against each other in ten sports. The SNG will be jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, the Community Sports Clubs, as well as the National Sports Associations (NSAs) of the ten sports. It aims to be a meaningful and memorable sporting festival that ignites passion, builds character, and connects people and bonds Singaporeans.
@@ -64,13 +64,13 @@ For full information (full listings, venues and dates) on the Singapore National
 
 
 
-Annex B: Fact Sheet on Clusters and Teams
-
+**Annex B: Fact Sheet on Clusters and Teams**
+<br>
 The Singapore National Games will see close to 5,000 community athletes from 15 clusters competing across 10 sports from 1 to 9 September 2012. Each cluster will be led by the respective Head of Delegation.
 
 
-Annex C: SNG Baton Relay
-
+**Annex C: SNG Baton Relay**
+<br>
 The Singapore National Games (SNG) Baton Relay is held in conjunction with the annual One Community Walk, a nation-wide mass walking event organised by the People?s Association, on Sunday, 26 August 2012, at 8.00am.
 
 Approximately 1,740 Baton Bearers representing 87 Constituencies will be passing a custom-made baton within their constituencies, while covering a total distance of approximately 174 kilometres across Singapore. After the baton has been passed to the final representative in each of the 87 constituencies, a message will be read out to signify the community?s support to the community athletes participating in the upcoming Singapore National Games 2012.
