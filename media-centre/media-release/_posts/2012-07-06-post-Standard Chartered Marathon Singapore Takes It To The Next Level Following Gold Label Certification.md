@@ -37,16 +37,16 @@ Date: Sunday, 2 December 2012
 Start:                               
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/Annex%20A-%20Standard%20Chartered%20Marathon%20Singapore%202012%20Fact%20Sheet.png)
 Finish: St Andrew's Road, The Padang
-
- Organiser: Singapore Sports Council
-
- Partners in Sports: Tote Board and Singapore Pools
-
+<br>
+Organiser: Singapore Sports Council
+<br>
+Partners in Sports: Tote Board and Singapore Pools
+<br>
  Title Sponsor: Standard Chartered Bank
-
+<br>
  Co-Sponsor & Official Apparel: ASICS
-
- Official Sponsors:
+<br>
+Official Sponsors:
 
 100PLUS
 
