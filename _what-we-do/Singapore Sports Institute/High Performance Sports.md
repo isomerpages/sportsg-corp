@@ -8,4 +8,4 @@ The High Performance Sports Department supports carded athletes in the HPS Talen
 
 **HIGH PERFORMANCE PLANNING**
 ![high performance planning](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/high%20performance.jpg)
-[Read More]()
+[Read More](what-we-do/Singapore-Sports-Institute/ high-performance-planning)
