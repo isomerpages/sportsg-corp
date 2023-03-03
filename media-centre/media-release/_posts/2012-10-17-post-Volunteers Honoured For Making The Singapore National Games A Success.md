@@ -58,18 +58,18 @@ To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and Singa
 <br>
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
 <br>
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About People's Association**
 <br>
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at www.pa.gov.sg and www.OurCommunity.sg.
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at[ www.pa.gov.sg]( www.pa.gov.sg) and[ www.OurCommunity.sg]( www.OurCommunity.sg).
 
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/VOLUNTEERSHONOUREDFORMAKINGTHESINGAPORENATIONALGAMESASUCCESSMainPar0042Imagegif.gif)
-Signing up for your favourite courses just got easier. Simply log on to www.OurCommunity.sg on your smartphone!
+Signing up for your favourite courses just got easier. Simply log on to [www.OurCommunity.sg ](www.OurCommunity.sg )on your smartphone!
 
 **About Community Games**
 <br>
-The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit www.pacsc.org.sg and www.facebook.com/communitysportsclub
+The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.facebook.com/communitysportsclub](www.facebook.com/communitysportsclub)
 
 **About the Community Sports Clubs**
 <br>
