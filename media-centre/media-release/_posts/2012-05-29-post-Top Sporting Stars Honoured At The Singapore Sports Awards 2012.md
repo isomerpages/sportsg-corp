@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **Top Sporting Stars Honoured At The Singapore Sports Awards 2012**
-
+![](/images/Media%20Centre/Media%20Release/2012/May/TOPSPORTINGSTARSHONOUREDATTHESINGAPORESPORTSAWARDS2012MainPar0042Imagegif.gif)
 *Fu Mingtian and Joseph Schooling Earned Top Spots at the Event*
 
 **Singapore, 29 May 2012** - The Sporting Singapore fraternity gathered tonight at the Singapore Sports Awards (SSA) 2012 to honour the nation's top sporting talents for their notable achievements in the past year. The event, graced by President Tony Tan Keng Yam and Mrs Mary Tan, saw athletes and officials being awarded with Singapore's most prestigious recognition for sporting achievements.
