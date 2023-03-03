@@ -36,7 +36,7 @@ List of SNG Baton Bearers and Pledge-Takers**
 
 **The Singapore National Games 2012
 SNG Athletes & Officials' Oath**
-
+<br>
 The athletes and officials raise their right hands while reciting the oath in unison:
 
 "On behalf of all the athletes and officials taking part in the Singapore National Games, we promise to abide by the rules of the Games, in the true spirit of sportsmanship and for the honour of our people and greater good of our communities."
