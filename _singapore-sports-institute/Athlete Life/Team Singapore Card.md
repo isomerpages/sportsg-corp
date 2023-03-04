@@ -96,3 +96,10 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer cannot be used in conjunction with any existing promotions or discounts at the store unless otherwise stated.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Offer is valid till 31 Dec 2022.
+
+##### **YU KEE SPECIALITIES**
+*   10% discount for all food and beverage items located at Yu Kee Specialities, level 2 of Kallang Wave Mall.
+*   Offer cannot be used in conjunction with any other existing promotions or discounts at Yu Kee Specialities.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Yu Kee Group reserves the right to amend the terms & conditions without prior notice.
+*   Offer is valid till 31 Dec 2023.
