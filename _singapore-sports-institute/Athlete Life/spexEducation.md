@@ -14,10 +14,5 @@ To implement a comprehensive athlete support system designed to help student-ath
 **Benefits for the Student-athlete:**
 
 
-| Athlete Life Coaching & Support | Academic Flexibility & Support\*\* |
-| -------- | -------- 
-| - Education counselling<br> - Support letters for admission/scholarship applications | - Alternative academic scheduling <br>- Alternative learning modes<br>- Alternative assessment modes<br>- Local & Overseas Athlete-friendly pathways |
 
 <small>\*\*(subject to approval by individual Institutes of Higher Learning)</small>
-
-
