@@ -14,3 +14,16 @@ The Team Singapore rewards card was subsequently made available via the ActiveSG
 
 **Our Card Partners include:**
 ![TeamSG_card_partners_for_2022_](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/TeamSG_card_partners_for_2022_-_July_update.jpeg)
+
+Singapore Sport Institute would like to thank our valued card partners for supporting our athletes in achieving their goals. Whether it is sports, lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits and privileges ranging from sporting apparel, footwear and accessories to lifestyle products. In addition, our athletes can enjoy up to 20% discount at selected dining choices at Kallang Wave Mall and Kallang Leisure Park which are ideally located within the Sport Hub. Some of the reward privileges also extend to various participating outlets across Singapore.
+
+<hr>
+
+#### **Benefits and Privileges**
+
+Enjoy these benefits and privileges from our valued card partners for TS Athletes\*.
+
+\*The Team Singapore rewards physical card or eCard (“TS Rewards Card”) must be presented at all partners’ physical / online stores and Food & Beverage dining participating outlets, except for OSIM. The card is not valid at any OSIM retail stores in Singapore. The discount shall only be offered to holders of the TS Rewards Card and is non-transferable.
+
+<hr>
+
