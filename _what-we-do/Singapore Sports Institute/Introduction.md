@@ -20,7 +20,7 @@ Athlete Life aims to support athletes in their education, career, and personal d
 
 **SPORT SCIENCE**
 ![Sports Science](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Capture%20sport%20science.jpg)
-Our Sport Science Centre is committed to helping talented athletes optimise their performance through direct application of leading-edge science, performance testing and monitoring, applied research and education.<br/>[Read More](/what-we-do/Singapore-Sports-Institute/sport-science/)
+Our Sport Science Centre is committed to helping talented athletes optimise their performance through direct application of leading-edge science, performance testing and monitoring, applied research and education.<br/>[Read More](/what-we-do/singapore-sports-institute/sport-science/)
 
 **SPORT MEDICINE**
 ![Sport Medicine](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Sport%20medicine.jpg)
