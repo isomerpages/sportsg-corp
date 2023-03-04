@@ -84,3 +84,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Shiloh Remnant Pte Ltd reserves the right to amend the terms & conditions without prior notice.
 *   Offer is valid from 01 Jun 2022 to 31 Dec 2023.
+
+##### **TEA TREE CAFE**
+*   10% off total bill at the Tea Tree Café, located at Kallang Wave Mall (Level 1).
+*   Discount shall not be applicable for promotional items.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Offer is valid till 31 December 2022.
