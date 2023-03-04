@@ -44,6 +44,6 @@ This was followed by addressing coaches’ challenges on teaching values, and un
 
 **Character is not automatically built through sports**_, but only through the **consistent and persistent efforts** of parents, teachers, and **coaches** will **_sportsmanship and other positive values be learned and demonstrated.”**
 
-**_–_** _Angela Lumpkin (2011) Building Character Through Sports_
+- Angela Lumpkin (2011) Building Character Through Sports_
 
 To find out more about the Game-For-Life Toolkit, please click [here](/sports-education/sports-leadership/game-for-life/).
