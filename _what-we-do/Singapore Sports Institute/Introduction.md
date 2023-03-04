@@ -24,12 +24,12 @@ Our Sport Science Centre is committed to helping talented athletes optimise thei
 
 **SPORT MEDICINE**
 ![Sport Medicine](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Sport%20medicine.jpg)
-Our Sport Medicine Centre focuses on the diagnosis and treatment of injuries associated with athletic training and participation.<br/>[Read More](/what-we-do/Singapore-Sports-Institute/sport-medicine/)
+Our Sport Medicine Centre focuses on the diagnosis and treatment of injuries associated with athletic training and participation.<br>[Read More](/what-we-do/Singapore-Sports-Institute/sport-medicine/)
 
 **INNOVATION**
 ![SSI Innovation](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/SSI_NEW.jpg)
-Singapore Sport Institute (SSI) recognises that embracing innovation is a critical component to stay ahead of the curve in the face of an ever-changing sport eco-system.<br/>[Read More](/what-we-do/Singapore-Sports-Institute/innovation/)
+Singapore Sport Institute (SSI) recognises that embracing innovation is a critical component to stay ahead of the curve in the face of an ever-changing sport eco-system.<br>[Read More](/what-we-do/singapore-sports-institute/innovation/)
 
 **SCIENCE & TECHNOLOGY**
 ![Science and Tech](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Science%20and%20Tech%20RnD%20SSI.jpg)
-Sport Singapore recognises the importance of R&D in promoting the application of science and technology (S&T) in sports to provide athletes with the edge for podium success in international games.<br/>[Read More](/what-we-do/Singapore-Sports-Institute/science-technology/)
+Sport Singapore recognises the importance of R&D in promoting the application of science and technology (S&T) in sports to provide athletes with the edge for podium success in international games.<br/>[Read More](/what-we-do/singapore-sports-institute/science-technology/)
