@@ -42,7 +42,7 @@ This was followed by addressing coaches’ challenges on teaching values, and un
 
 ![](/images/Sport%20Leadership%20Latest/GFL%20Workshop%20for%20Coaches/Coaches_Commitment.png)
 
-**Character is not automatically built through sports_**_, but only through the **consistent and persistent efforts** of parents, teachers, and **coaches** will_ **_sportsmanship and other positive values be learned and demonstrated.”**
+**Character is not automatically built through sports**_, but only through the **consistent and persistent efforts** of parents, teachers, and **coaches** will **_sportsmanship and other positive values be learned and demonstrated.”**
 
 **_–_** _Angela Lumpkin (2011) Building Character Through Sports_
 
