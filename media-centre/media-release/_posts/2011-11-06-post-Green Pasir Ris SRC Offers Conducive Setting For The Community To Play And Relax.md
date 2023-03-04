@@ -37,6 +37,7 @@ Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singa
 12.  SSC is also aiming for Pasir Ris SRC to attain the Building and Construction Authority's Green Mark platinum award, the highest accolade given to environmentally friendly buildings in Singapore.
 
 -END-
+
 Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre
 Pasir Ris Sports and Recreation Centre (SRC) spans over 1.4 hectares in size and comprises facilities including a swimming complex with two pools, a multi-purpose indoor sports hall with a viewing gallery for 2,000 spectators, a gymnasium with pool view, two tennis courts, a 5-a-side soccer court, and a dance studio.
 
