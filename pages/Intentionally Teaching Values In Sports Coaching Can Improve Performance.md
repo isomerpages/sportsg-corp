@@ -28,3 +28,13 @@ And she has seen **positive reception from her players** by using this method 
 ![](/images/Sport%20Leadership%20Latest/Intentionally%20Teaching%20Values/Community_of_Practice_Netball_20170605_YLEE_03_web.png)
 
 *Ng Ee Theng of CoachSG shares with netball coaches during the community of practice sharing session. Photo: Sport Singapore*
+
+While developing values and life skills in players is something that will help them for the rest of their lives, intentionally teaching these values is also something that can go hand in hand with sports coaching when developing sporting champions. 
+
+_“It definitely complements each other because you may have the skills, but if you don’t have the right behaviour, you won’t get the result you set for yourself,”_ said Joanne Loo, the national youth team coach.
+
+Having been with the youth team for four years, she used to focus more on technical skills and developing physical abilities, but it changed this year with a new head coach. And the results were tremendous.
+
+*“This year… a lot of values were instilled in our trainings and games, and in their behaviour - ownership and commitment."*
+
+*“In fact, this has gone way beyond our expectations and we have recently won Asian Youth Championships after 23 years.”*
