@@ -27,9 +27,8 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 
 <hr>
 
-#### **Sports**
+#### **SPORTS**
 ##### **ADIDAS**
-
 *   30% on all Adidas items is exclusively valid at:
 	*   Adidas Suntec City (BCS), unit #01-323/324
 	*   Adidas Vivo City L1 (BCS+), unit #01-73
@@ -103,3 +102,5 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Yu Kee Group reserves the right to amend the terms & conditions without prior notice.
 *   Offer is valid till 31 Dec 2023.
+
+#### **LIFESTYLE**
