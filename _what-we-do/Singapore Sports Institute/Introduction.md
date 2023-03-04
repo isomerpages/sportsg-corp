@@ -4,7 +4,7 @@ permalink: /what-we-do/Singapore-Sports-Institute/introduction/
 description: ""
 third_nav_title: Singapore Sports Institute
 ---
-Our Vision: To become a 21st Century World Class Sport Institute&nbsp;
+**Our Vision: To become a 21st Century World Class Sport Institute**
 
 SSI endeavors to be a sport institute of significance where we provide the best support to Team Singapore athletes, so that they can perform at their maximum potential, to fulfill their sporting aspirations and to inspire the Singapore Spirit.
 
