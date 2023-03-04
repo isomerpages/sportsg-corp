@@ -43,5 +43,3 @@ Pasir Ris Sports and Recreation Centre (SRC) spans over 1.4 hectares in size and
 It is designed as a place for play and relaxation and is the first SRC in Singapore that is specially designed to give guests the feeling of being in a 'green' sporting sanctuary right in the middle of the town centre.
 
 The SRC is designed with environmentally friendly and energy-saving features such as a rainwater-harvesting system to irrigate surrounding plants, vertical 'green' walls and landscaping to reduce ambient heat gained, and photo-voltaic cells for energy generation.
-
-
