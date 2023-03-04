@@ -19,7 +19,7 @@ Singapore Sport Institute would like to thank our valued card partners for suppo
 
 <hr>
 
-#### **Benefits and Privileges**
+### **Benefits and Privileges**
 
 Enjoy these benefits and privileges from our valued card partners for TS Athletes\*.
 
@@ -27,3 +27,15 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 
 <hr>
 
+#### **Sports**
+##### **ADIDAS**
+
+*   30% on all Adidas items is exclusively valid at:
+	*   Adidas Suntec City (BCS), unit #01-323/324
+	*   Adidas Vivo City L1 (BCS+), unit #01-73
+	*   Marina Bay Sands (BCS), unit #B2-45/46
+	*   Brand Centre Orchard
+	*   Vivo City B1 (OCS), unit #B1-06
+	*   Offer cannot be used in conjunction with any other existing promotions or discounts at the Adidas Stores.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   This offer is only valid till 31 December 2022.
