@@ -41,4 +41,4 @@ Keep up with the latest happenings with our emPower newsletter. Download the PDF
 
 [spexBusiness Network Partners](/spexbusiness-network-partners/)
 
-[Athletes Stories](/athletes-stories/)
+[Athletes Stories](/spexbusiness-athletes-stories/)
