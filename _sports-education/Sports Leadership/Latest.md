@@ -15,3 +15,5 @@ third_nav_title: Sports Leadership
 [Leaders Through Sport Programme](leaders-through-sport-programme)
 
 [Game for Life Workshop for Coaches](game-for-life-workshop-for-coaches)
+
+[Intentionally Teaching Values In Sports Coaching Can Improve Performance](/intentionally-teaching-values-in-sports-coaching-can-improve-performance)
