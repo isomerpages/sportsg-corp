@@ -41,3 +41,17 @@ Singapore, 1 November 2011 - A 14-year-old synchronised swimmer, a 76-year-old d
 12. Muhammad Firdaus Nordin, Singapore's first wheelchair racer to qualify for the Paralympic Games in Beijing 2008, will be racing for the Republic at the 6th ASEAN Para Games. The contingent of 36 athletes and 21 officials also includes swimmers Yip Pin Xiu and Theresa Goh who have both qualified for the London 2012 Paralympics. Of the young athletes making their debut at the 6th ASEAN Para Games, almost all of them are under 21 years of age.
 
 13. "Our para athletes have gone through grueling preparations and will face new challenges and difficulties at the Games. They are an immense inspiration to our nation and their will to perform their very best at the Games epitomises the human spirit's strength and resolve. I am sure that their strong perseverance and determination will come through in Solo and they can bring back the medals they seek," said Mr Ee Tiang Hwee, Chef-de-Mission for Team Singapore to the 6th ASEAN Para Games.
+
+
+Following Team Singapore's Action on New Media
+
+14. Team Singapore's Facebook page and website (www.teamsingapore.com.sg) will also provide fans with updates during key events at the Games, quotes, results and photographs of Team Singapore athletes in action. Members of the public are also encouraged to send in their well-wishes and dedicate the values they feel best represent the Singapore Spirit for the athletes to take to the Games on both Facebook and the Team Singapore website.
+
+Enclosures
+Annex A - 26th SEA Games Fact Sheet [215 Kb]
+Annex B - 6th ASEAN Para Games Fact Sheet [180 Kb]
+Annex C - Team Singapore Contingent List at the 26th SEA Games Jakarta-Palembang, Indonesia
+Annex D - 6th ASEAN Para Games Contingent List
+Annex E - Profile of CDM Dr Tan Eng Liang [213 Kb]
+Annex F - Profile of CDM Ee Tiang Hwee [233 Kb]
+
