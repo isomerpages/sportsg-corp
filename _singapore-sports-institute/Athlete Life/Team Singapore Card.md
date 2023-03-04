@@ -104,3 +104,13 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer is valid till 31 Dec 2023.
 
 #### **LIFESTYLE**
+
+##### **HYDRAGUN**
+*   20% discount on HYDRAGUN products is exclusively valid at [HYDRAGUN online store](https://www.hydragun.com/)
+*   Athletes must upload a picture/screenshot of their TS Rewards Card (physical card or eCard) via any of the following methods for the discount to be valid:
+    *   Chat function at the bottom right corner of HYDRAGUN website. Note that “live” chat function will only be available on HYDRAGUN website 7am-7pm (Singapore Time), Mondays to Friday; or
+    *   Email ([support@hydragun.com](mailto:support@hydragun.com)); or
+    *   WhatsApp chat (+65 80119037).
+*   For step-by-step guide to enjoy Team Singapore rewards card discount on HYDRAGUN website, please click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/Steps_for_requesting_Team_Singapore_discount_on_hydragunsg_1.pdf)
+*   Offer cannot be used in conjunction with any existing promotions or discounts at the store unless otherwise stated.
+*   Offer is valid till 31 Dec 2023.
