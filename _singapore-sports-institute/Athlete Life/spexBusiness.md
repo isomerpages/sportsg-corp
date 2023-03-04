@@ -37,8 +37,8 @@ Keep up with the latest happenings with our emPower newsletter. Download the PDF
 
 **Related Articles:**
 
-[spexEntrepreneurship](/singapore-sports-institute/athlete-life/spexentrepreneurship/)
+[spexEntrepreneurship](/spexentrepreneurship/)
 
-[spexBusiness Network Partners](/singapore-sports-institute/athlete-life/spexbusiness-network-partners/)
+[spexBusiness Network Partners](/spexbusiness-network-partners/)
 
-[Athletes Stories](/singapore-sports-institute/athlete-life/athletes-stories/)
+[Athletes Stories](/athletes-stories/)
