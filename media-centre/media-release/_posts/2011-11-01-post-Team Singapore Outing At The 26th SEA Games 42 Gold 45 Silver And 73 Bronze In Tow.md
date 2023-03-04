@@ -57,3 +57,9 @@ Top Performers
 -END-
 
 **Team Singapore Medal Tally**
+
+
+| S/NO | Medal | Sport | Event | Athlete |Date |
+| -------- | -------- | -------- | -------- | -------- |-------- |
+| Text     | Text     | Text     |Text     |Text     |Text     |
+
