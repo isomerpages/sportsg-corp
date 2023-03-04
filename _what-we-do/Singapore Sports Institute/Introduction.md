@@ -16,7 +16,7 @@ Sport Singapore adopts a two pronged approach to high performance sports: in par
 
 **ATHLETE LIFE**
 ![Athlete Life](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Athletelife.jpg)
-Athlete Life aims to support athletes in their education, career, and personal development alongside their sporting goals.<br/>[Read More](/what-we-do/Singapore-Sports-Institute/athlete-life/)
+Athlete Life aims to support athletes in their education, career, and personal development alongside their sporting goals.<br/>[Read More](/what-we-do/singapore-sports-institute/athlete-life/)
 
 **SPORT SCIENCE**
 ![Sports Science](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Capture%20sport%20science.jpg)
