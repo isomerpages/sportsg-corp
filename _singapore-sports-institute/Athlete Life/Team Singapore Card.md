@@ -39,3 +39,17 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 	*   Offer cannot be used in conjunction with any other existing promotions or discounts at the Adidas Stores.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   This offer is only valid till 31 December 2022.
+
+##### **Under Armour**
+
+*   \* 20% on all Under Armour regular price items is exclusively valid only in Under Armour Brand Houses at:
+    *   Orchard Central, unit #01-07/08
+    *   Bugis Junction, unit #01-77
+    *   Paragon, unit #04-34
+    *   Parkway Parade, unit #01-37
+    *   Funan, unit #01-09/10
+    *   VivoCity, unit #02-21
+*   \* Discount is not valid for all [UA Sportsmask](https://www.underarmour.com.sg/en-sg/p/accessories-facemasks-hoods-gaiters/ua_sportsmask_featherweight/1372228.html), [Project Rock collection](https://www.underarmour.com.sg/en-sg/c/project-rock/) and [Curry Brand collection](https://www.underarmour.com.sg/en-sg/t/curry-brand/).
+*   Offer cannot be used in conjunction with any other existing promotions or discounts at the Under Armour stores.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Offer is only valid till 31 December 2023.
