@@ -38,7 +38,8 @@ Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singa
 
 -END-
 
-Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre
+**Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre**
+
 Pasir Ris Sports and Recreation Centre (SRC) spans over 1.4 hectares in size and comprises facilities including a swimming complex with two pools, a multi-purpose indoor sports hall with a viewing gallery for 2,000 spectators, a gymnasium with pool view, two tennis courts, a 5-a-side soccer court, and a dance studio.
 
 It is designed as a place for play and relaxation and is the first SRC in Singapore that is specially designed to give guests the feeling of being in a 'green' sporting sanctuary right in the middle of the town centre.
