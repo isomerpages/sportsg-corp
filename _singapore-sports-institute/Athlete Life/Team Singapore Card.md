@@ -53,3 +53,18 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at the Under Armour stores.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Offer is only valid till 31 December 2023.
+
+#### **Dinning**
+
+##### **CHICHA SAN CHEN**
+
+*   5% discount off Food & Beverages items at CHICHA San Chen at level 1 of Kallang Wave Mall
+*   Offer cannot be used in conjunction with any other existing promotions or discounts at CHICHA San Chen
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Offer is valid till 31 December 2023.
+
+##### **FUN TOAST**
+*   10% on all Food and Beverage items at Fun Toast @ Sports Hub Pte Ltd located at Kallang Wave Mall, level 1.
+*   Offer cannot be used in conjunction with any other existing promotions or discounts.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Offer is only valid till 31 December 2023.
