@@ -157,3 +157,37 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     *   All offers are extended to the card holder only and not to be used in conjunction with other promotions.
     *   TS Rewards Card must be presented prior to payment for the discount to be valid.
     *   All offers are valid till 31 December 2023.
+
+##### **RAFFLES MEDICAL**
+1.  GP Consultation from $18.47 (exclude the cost of medications, injections, procedure & practice cost)
+2.  Health Screening Packages from $116.64
+3.  Flu (4-in-1) Vaccination @ $32.01; Pneumococcal (Pneumovax 23) Vaccination @ $68.04; Hepatitis A & B (Twinrix) @ $91.37; All other Vaccination @ members’ rates
+4.  Medical Check-up from $38.86
+5.  Specialist Outpatient Consultation:-
+    *   First Consultation from $151.20
+    *   Subsequent Consultation from $106.20
+_(exclude the cost of medications, injections, operations, special procedures, laboratory tests, if any)_
+
+8.  Dental Scaling & Polishing @ $150. Package includes:-
+    *   Oral Examination and Diagnosis (with General Dentist)
+    *   Scaling and Polishing
+    *   Topical Fluoride
+
+**Terms & Conditions:**
+
+*   Price is in Singapore dollars and inclusive of GST.
+*   Price excludes practice cost and doctor’s consultation charge.
+*   The quoted rates are not applicable for any ongoing credit card, corporate programmes, other benefits & promotions.
+*   Items in the package are non-exchangeable and non-refundable, including unutilised portion.
+*   GP services are available at Raffles Medical Clinics in Singapore and Raffles Health Screeners and are not available at Raffles Executive Medical Centre and 24-Hour Emergency at Raffles Hospital.
+*   Prior appointment is required for health screening and vaccination services.
+*   Listed terms are subject to change without prior notice.
+*   For offer on 6) Dental Scaling & Polishing Package:-
+    <br>*   Price quoted does not include practice cost, costs of prescribed medications, injections, x-rays and other investigations.
+    *   The price reflects types of services offered by the general dental practitioner, time spent on and complexity of the case. Patients will be informed before treatment if any fees to be charged differ from those listed above.
+    *   Full payment will be collected before laboratory works (if any) can be processed.
+    *   Not to be used in conjunction with any other ongoing promotions, packages, or privileges.
+    *   Corporate discount does not apply to laboratory works, oral hygiene products, medication and other services by external vendors, etc. and specialist dental services.
+    *   Consumables charge is applicable for every dental visit. Consumables charge are for items such as disposable gloves, gowns, cups and bibs, disinfectants, autoclaving pouches etc._
+*   Team Singapore Rewards Card/ E-Card must be presented by card holder and cardholder’s family member prior to payment for the discount to be valid. Offer is extended to the card holder and card holders’ family members only.
+*   Mode of payment – Cash/Credit Card/ NETS.
