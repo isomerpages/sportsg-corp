@@ -4,8 +4,6 @@ permalink: /Singapore-Sports-Institute/high-performance-planning/
 description: ""
 third_nav_title: High Performance Sports
 ---
-
-
 The High Performance Sport System aims to provide the best support to Team Singapore athlete so that they can fulfil their sporting aspirations and to inspire the Singapore Spirit.
 
 **Periodisation Programme**
@@ -41,5 +39,5 @@ Each year, the spexScholarship is open to nominations by any NSA. For FY 2021, t
 **Submission Guidelines:**
 
 Please download and read all files carefully before submission. Incomplete and/or self-nominations will not be considered.
-* Singapore High Performance Sports Handbook 2022
-* FY23 spexScholarship Nomination Guidelines
+* [Singapore High Performance Sports Handbook 2022](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/High%20Performance%20Planning/Singapore_High_Performance_Sports_Handbook_2021-V92_19Sep2022.pdf)
+* [FY23 spexScholarship Nomination Guidelines](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/High%20Performance%20Planning/FY23_spexScholarship_Nomination_Guidelines.pdf)
