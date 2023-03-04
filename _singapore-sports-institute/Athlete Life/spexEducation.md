@@ -159,3 +159,9 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
         </tr>
     </tbody>
 </table>
+
+\*sport scholarships/grants available
+
+Singapore Olympic Foundation -Peter Lim (Sports Scholarship) : [https://sof.sg/scholarship/](https://sof.sg/scholarship/)
+
+**(b) Other Sport Scholarships**
