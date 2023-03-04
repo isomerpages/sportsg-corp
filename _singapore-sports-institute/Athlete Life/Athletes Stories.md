@@ -18,6 +18,9 @@ ITE has supported Jaris in allowing him to train and compete through providing:
 *   Additional make-up classes whenever he is back from competitions
 *   Leave of absence for overseas training and competition stints
 
+> “It was tough as at ITE. Luckily I had good support from the school and friends who were always there to help me with my schoolwork whenever I missed classes. The support allowed me to focus on my studies and bowling, providing me with the opportunity to fulfil my dream of pursuing the customised RP-SSP DSLM course and bowl at my highest potential.” - Muhammad Jaris Goh, Team Singapore Bowler  
+2015 Qubica AMF Men’s World Cup, Bronze Medallist
+
 ![VeronicaShantiPereira](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/VeronicaShantiPereira.png)
 
 #### **Veronica Shanti Pereira – Team Singapore Track & Field Athlete**
@@ -31,3 +34,6 @@ Republic Polytechnic has supported Shanti in allowing her to train and compete t
 *   A customised class schedule which allows Shanti to train twice a day 
 *   A flexible academic load allowing her to take deferment of modules so as to train full-time towards major games
 *   A mentor to provide education and career guidance to help in the concurrent pursuit of sports and academic excellence
+
+> “If it weren't for the flexible academic pathway offered, the coaches I was under and the staff who guided me, I wouldn't have been able to make to where I am today, including winning the 200m gold at the Singapore 2015 Southeast Asian Games. That was the ultimate breakthrough in my running career and I could not have done it without the well-balanced support that the Sports School and Republic Polytechnic had provided me with.” -  Shanti Veronica Pereira, Team Singapore Track & Field Athlete  
+2015 SEA Games, Women’s 200m Gold Medallist
