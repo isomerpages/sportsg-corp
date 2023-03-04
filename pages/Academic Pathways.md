@@ -58,3 +58,8 @@ description: ""
 *For more information, you may visit this website:*
 
 [SportSG | spexEducation (sportsingapore.gov.sg)](/singapore-sports-institute/athlete-life/spexeducation/)
+
+**Related Articles:**
+[Academic Pathways](/academic-pathways)
+
+[Athletes Stories](/athletes-stories)
