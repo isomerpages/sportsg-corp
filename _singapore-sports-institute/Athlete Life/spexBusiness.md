@@ -17,3 +17,20 @@ Check out the video for a recap of the 2018 activities and to find out how our s
 ### **emPower - a spexBusiness newsletter**
 
 Keep up with the latest happenings with our emPower newsletter. Download the PDF newsletter available below.
+
+[Issue 2](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_Newsletter_EMPOWER_issue_2.pdf)
+[Issue 3](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_Newsletter_EMPOWER_issue_3.pdf)
+[Issue 4](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_Newsletter_EMPOWER_issue_4.pdf)
+[Issue 5](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_Newsletter_EMPOWER_issue_5.pdf)
+[Issue 6](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_6.pdf)
+[Issue 7](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_Newsletter_EMPOWER_issue_7.pdf)
+[Issue 8](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_8.pdf)
+[Issue 9](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_9.pdf)
+[Issue 10](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_10.pdf)
+[Issue 11](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_11.pdf)
+[Issue 12](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_12.pdf)
+[Issue 13](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_13.pdf)
+[Issue 14](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_14.pdf)
+[Issue 15](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_15.pdf)
+[Issue 16](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_16.pdf)
+[Issue 17](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_17.pdf)
