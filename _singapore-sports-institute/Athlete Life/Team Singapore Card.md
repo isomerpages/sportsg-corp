@@ -124,3 +124,36 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer for the OSIM eDM Flash Sales will be valid till 31 December 2023.
 
 <hr>
+
+#### **HEALTHCARE**
+##### **NEWPORT DENTAL**
+1.  **Enjoy 20% off for Dental Care Services** which includes the following:
+    *   Examinations and Diagnosis
+    *   Scaling and Polishing
+    *   Xray (PA/Bite Wings)
+    *   Full Mouth Xray (Panaoramic Radiograph/Orthopantomogram)
+    *   Topical Fluoride
+    *   Fillings/Tooth Colored
+    *   Extractions
+    *   Root Canal Treatment inclusive of LA, Xrays
+    
+    *   Anterior
+    *   Pre Molar
+    *   Molar
+    
+    *   Teeth Whitening in office
+    *   Teeth Whitening Take Home
+    *   Night Guard Soft
+    *   Hard Acrylic
+    *   Mouthguard
+2.  **Sign up for 2 sessions\* of stain removal cleaning @ a discounted rate of $165 (before 8% service fee)** which includes the following:
+    *   Consultation
+    *   Scaling
+    *   Polishing
+    *   Prophyjet
+    *   Fluoride treatment
+ <br>\*The above 2 sessions have to be scheduled within a 7-month period.
+3.  **30% off mouthguard with every purchase of stain removal cleaning package**
+    *   All offers are extended to the card holder only and not to be used in conjunction with other promotions.
+    *   TS Rewards Card must be presented prior to payment for the discount to be valid.
+    *   All offers are valid till 31 December 2023.
