@@ -78,3 +78,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   The Quartet Guys Pte Ltd reserves the right to amend the terms and conditions without prior notice.
 *   Offer is valid till 31 Dec 2023.
+
+##### **PRESOTEA**
+*   15% discount on all food & beverages at Presotea at Kallang Leisure Park.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Shiloh Remnant Pte Ltd reserves the right to amend the terms & conditions without prior notice.
+*   Offer is valid from 01 Jun 2022 to 31 Dec 2023.
