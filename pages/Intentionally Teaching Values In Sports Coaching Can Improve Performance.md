@@ -24,3 +24,7 @@ One key aspect of the GFL framework is for the instructor to take action to deli
 And she has seen **positive reception from her players** by using this method of positive reinforcement. 
 
 *“Last time, I would tend to just tell them the things they would be doing. But when I gave credit to positive behaviour, the girl was very happy and the team was clapping,”_ she said. _“I realised the girls love it.”*
+
+![](/images/Sport%20Leadership%20Latest/Intentionally%20Teaching%20Values/Community_of_Practice_Netball_20170605_YLEE_03_web.png)
+
+*Ng Ee Theng of CoachSG shares with netball coaches during the community of practice sharing session. Photo: Sport Singapore*
