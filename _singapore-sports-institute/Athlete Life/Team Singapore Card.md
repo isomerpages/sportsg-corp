@@ -57,7 +57,6 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 #### **Dinning**
 
 ##### **CHICHA SAN CHEN**
-
 *   5% discount off Food & Beverages items at CHICHA San Chen at level 1 of Kallang Wave Mall
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at CHICHA San Chen
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
@@ -68,3 +67,14 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer cannot be used in conjunction with any other existing promotions or discounts.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Offer is only valid till 31 December 2023.
+
+##### **MY KAMPUNG**
+*   10% on all Food and Beverages items at My Kampung, level 2 of Kallang Wave Mall.
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Offer is valid till 31 December 2023.
+
+##### **MY LITTLE COCONUT**
+*   10% discount on all beverages at My Little Coconut at Kallang Wave Mall (#02-13).
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   The Quartet Guys Pte Ltd reserves the right to amend the terms and conditions without prior notice.
+*   Offer is valid till 31 Dec 2023.
