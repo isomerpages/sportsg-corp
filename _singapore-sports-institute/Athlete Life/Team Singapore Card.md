@@ -28,6 +28,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 <hr>
 
 #### **SPORTS**
+
+<hr>
+
 ##### **ADIDAS**
 *   30% on all Adidas items is exclusively valid at:
 	*   Adidas Suntec City (BCS), unit #01-323/324
@@ -54,6 +57,8 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer is only valid till 31 December 2023.
 
 #### **Dinning**
+
+<hr>
 
 ##### **CHICHA SAN CHEN**
 *   5% discount off Food & Beverages items at CHICHA San Chen at level 1 of Kallang Wave Mall
@@ -104,6 +109,8 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Offer is valid till 31 Dec 2023.
 
 #### **LIFESTYLE**
+
+<hr>
 
 ##### **HYDRAGUN**
 *   20% discount on HYDRAGUN products is exclusively valid at [HYDRAGUN online store](https://www.hydragun.com/)
