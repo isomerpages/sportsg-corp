@@ -19,3 +19,5 @@ third_nav_title: Sports Leadership
 [Intentionally Teaching Values In Sports Coaching Can Improve Performance](/intentionally-teaching-values-in-sports-coaching-can-improve-performance)
 
 [DOW Chemical Participates in TeamUP](/dow-chemical-participates-in-teamup)
+
+[Evergreen Secondary School (EVGSS) reaps benefits through Game For Life framework](/evergreen-secondary-school-evgss-reaps-benefits-through-game-for-life-framework/)
