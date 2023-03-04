@@ -108,4 +108,3 @@ Formed on 23 June 2008, the Singapore National Paralympic Council (SNPC) is the 
 About the Singapore Disability Sports Council
 
 The Singapore Disability Sports Council (SDSC) is the only organisation in Singapore that caters sports for persons across all kinds of disabilities. It aims to help people with disability lead full and independent lives through sports. Besides providing sporting opportunities for them to realize their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. Find out more at www.sdsc.org.sg.
-
