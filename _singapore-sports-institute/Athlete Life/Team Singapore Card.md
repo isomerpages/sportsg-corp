@@ -114,3 +114,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   For step-by-step guide to enjoy Team Singapore rewards card discount on HYDRAGUN website, please click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/Steps_for_requesting_Team_Singapore_discount_on_hydragunsg_1.pdf)
 *   Offer cannot be used in conjunction with any existing promotions or discounts at the store unless otherwise stated.
 *   Offer is valid till 31 Dec 2023.
+
+##### **OSIM**  
+*   Offers are only available via electronic direct mail (eDM) Flash Sales.
+*   eDM Flash Sale will be conducted every quarter, and offer cannot be combined with other OSIM retail shop offers.
+*   OSIM will send the eDM (in PDF format) to SportSG for subsequent communication to TS athletes via email.
+*   Offer for the OSIM eDM Flash Sales will be valid till 31 December 2023.
