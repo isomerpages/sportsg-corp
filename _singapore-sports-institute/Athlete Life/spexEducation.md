@@ -12,3 +12,12 @@ Athlete Life’s mandate focuses on helping athletes to strive towards the pinna
 To implement a comprehensive athlete support system designed to help student-athletes achieve in their sport at the highest possible level without compromising their academic aspirations.
 
 **Benefits for the Student-athlete:**
+
+
+| Athlete Life Coaching & Support | Academic Flexibility & Support\*\* |
+| -------- | -------- 
+| - Education counselling<br> - Support letters for admission/scholarship applications | - Alternative academic scheduling <br>- Alternative learning modes<br>- Alternative assessment modes<br>- Local & Overseas Athlete-friendly pathways |
+
+<small>\*\*(subject to approval by individual Institutes of Higher Learning)</small>
+
+
