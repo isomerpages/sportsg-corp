@@ -8,7 +8,7 @@ Singapore Sport Institute's mandate focuses on helping athletes strive towards t
 
 Forming this specialized network of employers will strategically help Team Singapore Athletes to cope effectively with the dual demands of sports and their career; and prepare them to transit into successful post-sports career.
 
-Athletes looking for jobs may check out the opportunities available with our corporate partners listed under the [spexBusiness Network Partners](https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sport-Institute/Athlete-Services-and-Development/spexBusiness/spexBusiness-Partners) section.
+Athletes looking for jobs may check out the opportunities available with our corporate partners listed under the [spexBusiness Network Partners](/spexbusiness-network-partners/) section.
 
 Check out the video for a recap of the 2018 activities and to find out how our spexBusiness partners have benefitted from the spexBusiness network.
 
