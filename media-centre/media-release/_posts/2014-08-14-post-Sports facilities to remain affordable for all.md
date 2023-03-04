@@ -23,7 +23,7 @@ Singapore Citizens and Permanent Residents will enjoy public sports facilities a
   
 6. The Sports Hub will be making the rates of its facilities available on its website (www.sportshub.com.sg) from 15 August. Said SportsHub Pte Ltd Chief Executive Officer Mr Philippe Collin Delavaud: “The Singapore Sports Hub works closely with Sport Singapore on key decisions, including determining the rates for the usage of Sports Hub facilities. Sports Hub patrons can be assured that our rates will be competitive with other sports facilities across the island, and in line with Sport Singapore’s pricing policy.”  
    
-End
+END
 
 **For media enquiries, please contact:**  
   
