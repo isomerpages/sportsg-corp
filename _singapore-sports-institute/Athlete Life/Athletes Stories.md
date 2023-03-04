@@ -37,3 +37,21 @@ Republic Polytechnic has supported Shanti in allowing her to train and compete t
 
 > “If it weren't for the flexible academic pathway offered, the coaches I was under and the staff who guided me, I wouldn't have been able to make to where I am today, including winning the 200m gold at the Singapore 2015 Southeast Asian Games. That was the ultimate breakthrough in my running career and I could not have done it without the well-balanced support that the Sports School and Republic Polytechnic had provided me with.” -  Shanti Veronica Pereira, Team Singapore Track & Field Athlete  
 2015 SEA Games, Women’s 200m Gold Medallist
+
+![NurulShafiqahMOHAMEDSAIFUL](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/NurulShafiqahMOHAMEDSAIFUL27Sep13ByVincentNghaiHiRes003.png)
+
+#### **Nurul Shafiqah Mohamed Saiful – Team Singapore Silat Athlete**
+
+**Bachelor of Sport Science & Management, Nanyang Technological University**
+
+Shafiqah is currently a 1st year undergraduate student-athlete from NTU’s Bachelor of Sport Science & Management.  
+  
+How Shafiqah has benefitted from NTU’s Sports Science & Management programme:  
+
+*   Through the Discretionary Admission Scheme
+*   Though flexible scheduling to customize her academic workload
+*   Through multiple leave of absence to prepare for competition
+*   Through the help of a mentor in Athlete Life Coaching
+
+>“With all these support, I am able to put in 100% for both sports and academics instead of compromising on one. My time can be fully devoted to training as well as my studies.” - Nurul Shafiqah Mohamed Saiful, Team Singapore Silat Athlete  
+2013 Pencak Silat World Championships- Bronze Medallist
