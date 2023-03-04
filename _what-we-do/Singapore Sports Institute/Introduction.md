@@ -24,7 +24,7 @@ Our Sport Science Centre is committed to helping talented athletes optimise thei
 
 **SPORT MEDICINE**
 ![Sport Medicine](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Sport%20medicine.jpg)
-Our Sport Medicine Centre focuses on the diagnosis and treatment of injuries associated with athletic training and participation.<br>[Read More](/what-we-do/singapore-sports-institute/sport-science/)
+Our Sport Medicine Centre focuses on the diagnosis and treatment of injuries associated with athletic training and participation.<br>[Read More](/what-we-do/singapore-sports-institute/sport-medicine/)
 
 **INNOVATION**
 ![SSI Innovation](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/SSI_NEW.jpg)
