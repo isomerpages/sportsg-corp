@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Team Singapore Exemplifies The Singapore Spirit
+### **Team Singapore Exemplifies The Singapore Spirit**
+
 01 Nov 2011
 
 
@@ -48,10 +49,15 @@ Following Team Singapore's Action on New Media
 14. Team Singapore's Facebook page and website (www.teamsingapore.com.sg) will also provide fans with updates during key events at the Games, quotes, results and photographs of Team Singapore athletes in action. Members of the public are also encouraged to send in their well-wishes and dedicate the values they feel best represent the Singapore Spirit for the athletes to take to the Games on both Facebook and the Team Singapore website.
 
 Enclosures
-Annex A - 26th SEA Games Fact Sheet [215 Kb]
-Annex B - 6th ASEAN Para Games Fact Sheet [180 Kb]
-Annex C - Team Singapore Contingent List at the 26th SEA Games Jakarta-Palembang, Indonesia
-Annex D - 6th ASEAN Para Games Contingent List
-Annex E - Profile of CDM Dr Tan Eng Liang [213 Kb]
-Annex F - Profile of CDM Ee Tiang Hwee [233 Kb]
 
+[ Annex A - 26th SEA Games Fact Sheet](/files/Media%20Centre/Media%20Release/2011/November/Annex%20A%20%2026th%20SEA%20Games%20Fact%20Sheetpdf.pdf) [215 Kb]
+
+[Annex B - 6th ASEAN Para Games Fact Sheet ](/files/Media%20Centre/Media%20Release/2011/November/Annex%20B%20%206th%20ASEAN%20Para%20Games%20Fact%20Sheetpdf.pdf) [180 Kb]
+
+Annex C - Team Singapore Contingent List at the 26th SEA Games Jakarta-Palembang, Indonesia
+
+Annex D - 6th ASEAN Para Games Contingent List
+
+[Annex E - Profile of CDM Dr Tan Eng Liang](/files/Media%20Centre/Media%20Release/2011/November/Annex%20E%20%20Profile%20of%20CDM%20Dr%20Tan%20Eng%20Liangpdf.pdf) [213 Kb]
+
+[Annex F - Profile of CDM Ee Tiang Hwee ](/files/Media%20Centre/Media%20Release/2011/November/Annex%20F%20%20Profile%20of%20CDM%20Ee%20Tiang%20Hweepdf.pdf)[233 Kb]
