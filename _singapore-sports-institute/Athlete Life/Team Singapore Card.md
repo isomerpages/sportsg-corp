@@ -28,9 +28,6 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 <hr>
 
 #### **SPORTS**
-
-<hr>
-
 ##### **ADIDAS**
 *   30% on all Adidas items is exclusively valid at:
 	*   Adidas Suntec City (BCS), unit #01-323/324
@@ -56,10 +53,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Offer is only valid till 31 December 2023.
 
-#### **Dinning**
-
 <hr>
 
+#### **Dinning**
 ##### **CHICHA SAN CHEN**
 *   5% discount off Food & Beverages items at CHICHA San Chen at level 1 of Kallang Wave Mall
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at CHICHA San Chen
@@ -108,10 +104,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   Yu Kee Group reserves the right to amend the terms & conditions without prior notice.
 *   Offer is valid till 31 Dec 2023.
 
-#### **LIFESTYLE**
-
 <hr>
 
+#### **LIFESTYLE**
 ##### **HYDRAGUN**
 *   20% discount on HYDRAGUN products is exclusively valid at [HYDRAGUN online store](https://www.hydragun.com/)
 *   Athletes must upload a picture/screenshot of their TS Rewards Card (physical card or eCard) via any of the following methods for the discount to be valid:
@@ -127,3 +122,5 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   eDM Flash Sale will be conducted every quarter, and offer cannot be combined with other OSIM retail shop offers.
 *   OSIM will send the eDM (in PDF format) to SportSG for subsequent communication to TS athletes via email.
 *   Offer for the OSIM eDM Flash Sales will be valid till 31 December 2023.
+
+<hr>
