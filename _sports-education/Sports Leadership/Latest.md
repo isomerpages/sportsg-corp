@@ -21,3 +21,5 @@ third_nav_title: Sports Leadership
 [DOW Chemical Participates in TeamUP](/dow-chemical-participates-in-teamup)
 
 [Evergreen Secondary School (EVGSS) reaps benefits through Game For Life framework](/evergreen-secondary-school-evgss-reaps-benefits-through-game-for-life-framework/)
+
+[Game for Life Toolkit is featured in Olympic Values Education Program Digital Toolkit](/game-for-life-toolkit-is-featured-in-olympic-values-education-program-digital-toolkit/)
