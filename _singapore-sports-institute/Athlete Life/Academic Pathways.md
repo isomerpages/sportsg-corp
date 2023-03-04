@@ -31,4 +31,4 @@ third_nav_title: Athlete Life
 
 *For more information, you may visit this website:*
 
-[SportSG | spexEducation (sportsingapore.gov.sg)](https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sport-Institute/Athlete-Services-and-Development/spexEducation)
+[SportSG | spexEducation (sportsingapore.gov.sg)](/singapore-sports-institute/athlete-life/spexeducation/)
