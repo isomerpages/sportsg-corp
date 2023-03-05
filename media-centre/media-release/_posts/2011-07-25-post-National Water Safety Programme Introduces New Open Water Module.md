@@ -85,3 +85,39 @@ Performing an accompanied rescue of a person in distress 20m from safety by usin
 
 Water Safety Knowledge
 Answering theoretical questions on the open water environment, marine animals, and safety concerns and issue
+
+For media enquiries, please contact:
+
+Derrick Chee
+Secretariat, National Water Safety Council
+Ministry of Community Development, Youth and Sports
+DID: 6354 8246
+Email: derrick_chee@mcys.gov.sg 
+
+Jemuel Fu
+Executive, Media Relations
+Singapore Sports Council
+DID: 6500 5245
+Email: jemuel_fu@ssc.gov.sg
+
+About SwimSafer
+
+SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit www.singaporesports.sg/SwimSafer.
+
+Have Fun, Swim Safe.
+
+About the National Water Safety Council, Singapore
+
+The National Water Safety Council, Singapore (NWSC) was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council recently launched the Code of Practice for the Design and Management of Aquatic Facilities with the Building and Construction Authority (BCA) to promote safe water facilities for the public.
+
+About the Singapore Sports Council
+
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
+
+Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg.
+
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com.
+
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
