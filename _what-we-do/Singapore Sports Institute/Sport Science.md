@@ -26,4 +26,4 @@ The disciplines in the Sport Science Centre includes: 
 
 [Strength & Conditioning](/singapore-sports-institute/sport-science/strength-conditioning/)
 
-[Major Games Preparation]
+[Major Games Preparation](/singapore-sports-institute/sport-science/major-games-preparation/)
