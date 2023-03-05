@@ -22,7 +22,7 @@ The disciplines in the Sport Science Centre includes: 
 
 [Sport Physiology](/singapore-sports-institute/sport-science/sport-physiology/)
 
-[Sport Psychology]
+[Sport Psychology](/singapore-sports-institute/sport-science/sport-psychology)
 
 [Strength & Conditioning](/singapore-sports-institute/sport-science/strength-conditioning/)
 
