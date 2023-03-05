@@ -57,4 +57,3 @@ Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.faceb
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com.
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
-
