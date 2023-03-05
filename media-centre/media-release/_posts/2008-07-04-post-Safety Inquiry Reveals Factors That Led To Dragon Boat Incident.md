@@ -30,7 +30,7 @@ c) Recommendation Three - The SDBA and its affiliates should put in place a prop
 
 4. Said Bernard Tan: "What happened in Cambodia on 23 November 2007 was a tragedy. It was a tragedy not only for the Team, the SDBA, the dragon boat community, but also the Singapore sports fraternity as a whole. What is important is that we learn from this incident. We believe that the greatest tragedy and greatest injustice to the five lives lost is for us not to learn anything and to allow for another accident to recur."
 
-For media inquiries, please contact the following on behalf of the SI Inquiry Panel:
+**For media inquiries, please contact the following on behalf of the SI Inquiry Panel:**
 
 Alvin Hang
 <br>
