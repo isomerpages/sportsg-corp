@@ -46,7 +46,6 @@ table, th, td {
   border: 0.5px solid black;
 }
 </style>
-</head>
 <body>
 
 <p>3rd Asian Indoor Games Vietnam 2009 - Contingent List</p>
