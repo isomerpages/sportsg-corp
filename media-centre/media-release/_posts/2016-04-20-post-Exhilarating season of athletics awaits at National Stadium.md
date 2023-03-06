@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Exhilarating season of athletics awaits at National Stadium**
 From 28 April to 8 May this year, Singaporeans will be in for an exhilarating experience as the athletics season kicks off at the National Stadium. The season will see four key events – Singapore Open Track and Field Championships, National School Games Track and Field Finals, ActiveSG Athletics Fiesta, and Asia Masters Athletics Championships – taking place consecutively for the first time, providing a whole host of activities fit for all ages and abilities.  
   
@@ -24,38 +23,39 @@ Said SportSG’s Chief Executive Officer Lim Teck Yin: “It is our aspiration t
   
 According to Manu Sawhney, Chief Executive Officer of SSH: “We are excited to be the venue of choice for this series of athletic competitions. The National Stadium is perfectly primed for events where professional and amateur athletes as well as fans and the community, come to play and partake of excellent sporting activity. We look forward to hosting athletes of all ages and persuasion in an inspiring celebration of athletic excellence at the Singapore Sports Hub.”  
   
-For details, please visit:  
+**For details, please visit:**  
+
+• Singapore Open Track and Field Championships: [http://www.singaporeathletics.org.sg/78th-singapore-open-track-field-championships-2016  ](http://www.singaporeathletics.org.sg/78th-singapore-open-track-field-championships-2016  )  
+• National Inter-School Track and Field Championships: [[https://nsg.moe.edu.sg/sssc/track-field/index](https://nsg.moe.edu.sg/sssc/track-field/index)]   
+• ActiveSG Athletics Fiesta: [https://www.myactivesg.com/athletics-fiesta](https://www.myactivesg.com/athletics-fiesta)  
+• Asia Masters Athletics Championships: [http://www.singaporeathletics.org.sg/amac2016/ ](http://www.singaporeathletics.org.sg/amac2016/ ) 
   
-• Singapore Open Track and Field Championships: http://www.singaporeathletics.org.sg/78th-singapore-open-track-field-championships-2016  
-• National Inter-School Track and Field Championships: http://www.sssc.sg/games-categories/track-and-field/  
-• ActiveSG Athletics Fiesta: https://www.myactivesg.com/athletics-fiesta  
-• Asia Masters Athletics Championships: http://www.singaporeathletics.org.sg/amac2016/  
   
-  
-For media enquiries, please contact:  
-Jaime Cheong  
+**For media enquiries, please contact:** 
+
+**Jaime Cheong**  
 General Manager (Designate)  
 Singapore Athletics  
 Tel: +65 9710 4465 (HP)  
-Email: Jaime@athletics.sg  
+Email: [Jaime@athletics.sg](Jaime@athletics.sg)  
   
-Siti Nurhidayati  
+**Siti Nurhidayati**  
 Manager  
 Public Relations  
 Sport Singapore  
 Tel: +65 6500 5246 (O) / +65 9647 7432 (HP)  
-Email: siti\_nurhidayati@sport.gov.sg  
+Email: [siti_nurhidayati@sport.gov.sg ](siti_nurhidayati@sport.gov.sg ) 
   
-Sim Liang Ying  
+**Sim Liang Ying**  
 Officer, Media Relations  
 Communications Division  
 Communications & Engagement Group  
 Ministry of Education  
 Tel: +65 6879 6111 (O) / +65 9880 7129 (HP)  
-Email: SIM\_liang\_ying@moe.gov.sg  
+Email: [SIM_liang_ying@moe.gov.sg](SIM_liang_ying@moe.gov.sg)  
   
-Sam Eatwell  
+**Sam Eatwell**  
 Communications Manager  
 SportsHub Pte Ltd  
 Tel: +65 6340 9233 (O) / +65 9397 5288 (HP)  
-Email: sam.eatwell@sportshub.com.sg
+Email: [sam.eatwell@sportshub.com.sg](sam.eatwell@sportshub.com.sg)
