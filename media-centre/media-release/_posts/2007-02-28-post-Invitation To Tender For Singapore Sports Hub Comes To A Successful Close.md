@@ -36,7 +36,7 @@ Enclosures
 [Annex C: Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2007/February/ANNEXC280207pdf.pdf)
 
 
-For media inquiries, please contact:
+**For media enquiries, please contact:**
 
 Alvin Hang
 <br>
