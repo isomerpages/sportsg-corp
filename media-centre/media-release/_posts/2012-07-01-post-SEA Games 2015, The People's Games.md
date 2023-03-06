@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **SEA Games 2015 - The People's Games**
-
+### **SEA Games 2015 - The People's Games**
 
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/SEA%20Games%20logo.jpeg)
 
