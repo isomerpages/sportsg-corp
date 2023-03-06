@@ -8,9 +8,9 @@ image: ""
 ---
 ## **Singapore National Games 2012 To Ignite Passion And Bond Communities**
 
-Launch of New Multi-Sports Festival That Will Serve as A Bridge Between Sports Excellence and Community Participation
+*Launch of New Multi-Sports Festival That Will Serve as A Bridge Between Sports Excellence and Community Participation*
 
-Singapore, 26 November 2011 - A new sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete and volunteer.
+**Singapore, 26 November 2011** - A new sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete and volunteer.
 
 2. The inaugural Singapore National Games 2012 (SNG) was launched today on the sidelines of the Singapore River Regatta 2011. A new national community multi-sports competition to be held once every two years, the 2012 edition will pit community teams against each other in ten sports, with a trophy awarded to the overall champion of teams. The SNG will be jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, as well as the National Sports Associations (NSA) of the ten sports in the inaugural SNG. It aims to be a meaningful and memorable sporting festival that ignites passion, builds character, connects people and bonds Singaporeans.
 
