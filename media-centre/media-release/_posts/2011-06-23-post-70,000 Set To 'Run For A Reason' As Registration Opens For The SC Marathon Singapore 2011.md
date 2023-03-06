@@ -12,7 +12,7 @@ image: ""
 
 *SSC Committed to Enhance Race Day Experience for Participants and Supporters Alike With Greater Race Engagement*
 
-Singapore, 23 June 2011 - The Standard Chartered Marathon Singapore (SCMS) 2011 promises something for everyone - with greater race engagement, community involvement, and exciting experiences.
+**Singapore, 23 June 2011** - The Standard Chartered Marathon Singapore (SCMS) 2011 promises something for everyone - with greater race engagement, community involvement, and exciting experiences.
 
 2 SCMS' organiser, the Singapore Sports Council (SSC) is increasing its efforts to enhance the race experience for runners this year, and is exploring ways to move the baggage collection point closer to the Padang from the F1 Pit building, heeding the feedback received by participants last year.
 
@@ -36,12 +36,12 @@ More Runners & Community Engagement Activities
 
 11 "With an increase in community engagement activities, the SSC is confident that the People's Race will continue to grow and play a vital role in helping to cultivate a vibrant sporting culture in Singapore. Said Mr Lim, "Sporting Singapore has always provided space for everyone who wants to play sports, and the Standard Chartered Marathon Singapore personifies this philosophy of inclusivity."
 
-12 The inaugural SCMS attracted a record 60,000 participants in 2010. For further details of the SCMS 2011, please visit www.marathonsingapore.com and www.facebook.com/marathonSG.
+12 The inaugural SCMS attracted a record 60,000 participants in 2010. For further details of the SCMS 2011, please visit [www.marathonsingapore.com](www.marathonsingapore.com) and [www.facebook.com/marathonSG](www.facebook.com/marathonSG).
 
 -End-
 
 Enclosure
-SCMS 2011 Event Launch - Fact Sheet [219 Kb]
+[SCMS 2011 Event Launch - Fact Sheet](/files/Media%20Centre/Media%20Release/2011/Jun/SCMS%202011%20%20Event%20Launch%20%20Fact%20Sheet%20Finalpdf.pdf) [219 Kb]
 
 **
 For media enquiries, please contact:**
