@@ -133,3 +133,5 @@ table, th, td {
 </table>
 
 </body>
+
+_\* Singapore time_
