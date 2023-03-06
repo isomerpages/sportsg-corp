@@ -39,7 +39,7 @@ The submission deadlines for each quarter are:
 | Submission Deadline | For Quarter Starting |
 | -------- | -------- | 
 | 15 December     | 1 January (1st Quarter)     | 
-| 15 March     | 1 April(2nd Quarter)     | 
+| 15 March     | 1 April (2nd Quarter)     | 
 | 15 June     | 1 July (3rd Quarter)     | 
 | 15 September     | 1 October (4th Quarter)     |
 
