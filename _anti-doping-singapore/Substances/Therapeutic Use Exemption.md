@@ -74,11 +74,8 @@ The TUE application should be submitted to:
 **Anti-Doping Singapore**  
 <br>
 3 Stadium Drive  
-<br>
 Singapore 397630  
-<br>
 Fax: +65-64409205  
-<br>
 Email: [Sport_TUE_ADS@sport.gov.sg](mailto:Sport_TUE_ADS@sport.gov.sg)
 
 Note: A TUE granted by the ADS TUE Committee may not be acknowledged by the International Federation. It is the athlete's responsibility to be aware of the requirements of the International Federation or event organiser prior to competing. International Federation's may have different TUE application and information requirements and forms.
