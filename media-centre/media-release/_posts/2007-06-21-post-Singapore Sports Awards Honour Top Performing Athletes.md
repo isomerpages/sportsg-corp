@@ -28,7 +28,7 @@ The International Olympic Committee (IOC) aims to reward individuals who have pr
 
 The Singapore Sports Awards 2007 has rounded up a fantastic 2006 for sports in Singapore, and signalled the beginning of another journey for Team Singapore towards this year's Southeast Asian Games at Thailand and the next pinnacle ? Beijing Olympics 2008.
 
-For media inquiries, please contact:
+**For media enquiries, please contact:**
 
 Charlotte Ong
 <br>
