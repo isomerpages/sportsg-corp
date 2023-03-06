@@ -25,21 +25,21 @@ Singapore, 21 June 2011 - The Singapore Sports Council (SSC) announced today a b
 -End-
 
 For media enquiries, please contact:
-
+<br>
 Samantha See
-Fulford Public Relations
-DID: 6324 9316
-Email: ssee@fulfordpr.com
+<br>Fulford Public Relations
+<br>DID: 6324 9316
+<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
 
 Jemuel Fu
-Executive, Media Relations
-Singapore Sports Council
-DID: 6500 5245
-Email: jemuel_fu@ssc.gov.sg
+<br>Executive, Media Relations
+<br>Singapore Sports Council
+<br>DID: 6500 5245
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
 
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and SingaporeSports.sg
