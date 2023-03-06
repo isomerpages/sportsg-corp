@@ -17,7 +17,7 @@ The National Sports Participation Survey 2005 conducted by the SSC showed that o
 
 Mrs Yu-Foo Yee Shoon, Minister of State for Community Development, Youth and Sports and MP for Holland-Bukit Timah GRC, shared: "Sporting activities are not just a way for our women to keep fit; they are also great for family bonding. The family that plays together can also enjoy quality time together. As modern women in today's hectic society, we need to be equipped with good time management skills to juggle career, family and sports. Such mass fitness carnivals provide the platform for women to step forward and take up sporting pursuits which can be part of their everyday lives."
 
-The Singapore Sports Council is encouraged by the response to this year's AWDO 2007.
+##### **The Singapore Sports Council is encouraged by the response to this year's AWDO 2007.**
 
 Mr Kelvin Chua, General Manager of High Participation for SSC, said: "It is heartening to see Singaporean women from all walks of life coming out in droves to take up the challenge of leading a more active lifestyle. We are happy to have the six female DJs from SPH Unionworks to join us in the aerobics marathon. This is the first time that they are joining the aerobics marathon and it is definitely a good example to show that it is never too difficult as long as you take the first step. On our part, the SSC continues to instil the excitement and novelty of our WDO events by making them current to the people. For example, tapping on the fitness dance trends, we included the Dance Beat activity this year. There are also more activity choices for women to participate in, including new categories like the Iron Woman and Her Gym Quest which will be making their debut this year."
 
@@ -34,7 +34,7 @@ Enclosures:
 [Annex 2: Amore Women's Day Out 2007 Sponsors](/files/Media%20Centre/Media%20Release/2007/September/Annex2AWDOsponsors.pdf)
 
 
-About the Sport A New You Campaign
+**About the Sport A New You Campaign**
 <br>
 The Sport A New You campaign aims to encourage women, especially those aged 35 and above who have to juggle career and family, to lead a more active and sporting lifestyle. The campaign runs from 1 July to 31 October 2007. Throughout the four months, the SSC will organise key events and activities to encourage the targeted women segments in sports participation.
 
@@ -43,13 +43,13 @@ Other key events under the campaign include the Great Singapore Shopathon, Heart
 For more information about the Sport A New You campaign and its activities, please visit http://www.womenandsports.sg.
 
 
-About Singapore Sports Council
+**About Singapore Sports Council**
 <br>
 The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
 
 Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
 
-**For more information and enquiries, please contact:**
+**For media enquiries, please contact:**
 
 Soh Li Sar
 <br>
