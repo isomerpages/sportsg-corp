@@ -11,6 +11,7 @@ image: ""
 
 
 *Most Categories are at Least 50% Filled Up; More Reasons to 'Run For Good' with Introduction of New Charity Platform*
+![](/images/Media%20Centre/Media%20Release/2011/Jul/Standardcharteredrun2011.jpeg)
 
 **Singapore, 2 July 2011** - History has been made again for the Standard Chartered Marathon Singapore (SCMS) 2011, as registration hit the halfway mark with 35,000 runners signed up as of 3pm today - a mere nine days since registration opened on 23 June at 11am. This meant that the Marathon saw an average of three sign-ups every minute over this period.
 
