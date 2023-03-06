@@ -82,21 +82,9 @@ Senior Awards
 <br> Li Jiawei | Table Tennis
 | 35 | Meritorious Awards (Event)  | National Table Tennis Men's Team <br>Gao Ning <br>Yang Zi
 <br>Cai Xiaoli <br>Pang Xuejie <br>Ma Liang | Table Tennis
-| 36 | Meritorious Awards (Event)  | National Table Tennis Women's Doubles Team
-
-Feng Tianwei
-
-Wang Yuegu
-
-Table Tennis
+| 36 | Meritorious Awards (Event)  | National Table Tennis Women's Doubles Team <br>Feng Tianwe <br>Wang Yuegu |Table Tennis
 | 37 | Meritorious Awards (Event)  | 
-National Table Tennis Men's Doubles Team
-
-Gao Ning
-
-Yang Zi
-
-Table Tennis
+National Table Tennis Men's Doubles Team <br>Gao Ning <br>Yang Zi  | Table Tennis
 
  
 
