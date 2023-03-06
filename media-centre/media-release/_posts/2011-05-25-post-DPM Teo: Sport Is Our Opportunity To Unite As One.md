@@ -73,23 +73,8 @@ Senior Awards
 | 26 | Meritorious Awards (Event)  | National Sailing Hobie 16 Team<br>Teo Wee Chin<br>Justin Wong Ming Ho | Sailing
 | 27 | Meritorious Awards (Event)  | National Sailing 420 Women's Team <br>Dawn Liu Xiaodan <br>Siobhan Tam Shiu Wun  | Sailing
 | 28 | Meritorious Awards (Event)  | National Shooting Women's 50m Rifle 3- Position Doubles Team <br>Jasmine Ser Xiang Wei <br>Aqilah Bte Sudhir | Shooting
-| 29| Meritorious Awards (Event)  | National Shooting 25m Standard Pistol Men's Pair
-
-Gai Bin
-
-Poh Lip Meng
-
-Shooting
-
-30
-
-National Shooting 10m Air Rifle Women's Pair
-
-Jasmine Ser Xiang Wei
-
-Cheng Jian Huan
-
-Shooting
+| 29| Meritorious Awards (Event)  | National Shooting 25m Standard Pistol Men's Pair <br>Gai Bin <br>Poh Lip Men  | Shooting
+| 30 | Meritorious Awards (Event)  | National Shooting 10m Air Rifle Women's Pair <br>Jasmine Ser Xiang Wei <br>Cheng Jian Huan | Shooting
 
 31
 
