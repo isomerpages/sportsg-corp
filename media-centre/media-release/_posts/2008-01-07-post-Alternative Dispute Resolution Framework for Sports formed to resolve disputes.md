@@ -10,7 +10,7 @@ image: ""
 
 Singapore, 7 January 2008 - The Singapore Sports Council (SSC) has taken another bold step to reinforce Singapore's position as a leading sports hub. Today, Singapore's first-ever Framework for Alternative Dispute Resolution for Sports (ADR Sports) to resolve sports disputes was officially launched with the signing of a memorandum of understanding among several parties at a signing ceremony held at SSC.
 
-Enhancement of professional practices and organisational excellence in NSAs
+##### **Enhancement of professional practices and organisational excellence in NSAs**
 
 2. The ADR Sports is an initiative spearheaded by the SSC and developed in collaboration with the Singapore National Olympic Council (SNOC), the Singapore Mediation Centre (SMC), the Singapore International Arbitration Centre (SIAC) and the Singapore Institute of Arbitrators (SIArb). It aims to resolve problems faced by NSAs in areas such as athlete selections, discipline and contractual disputes. To do so, the ADR Sports will leverage on existing arbitral and mediation institutes rules, systems, expertise and reputation in resolving disputes. Relationships are hence preserved due to confidentiality.
 
@@ -18,7 +18,7 @@ Enhancement of professional practices and organisational excellence in NSAs
 
 4. In the majority of the cases, resolution should be implemented within the internal processes of the NSAs. However, should they be unsuccessful, the affected parties can refer the matter to the ADR Sports for mediation and arbitration for a conclusive resolution. All information exchanged during mediation and arbitration will be kept strictly confidential.
 
-	Enhancing Singapore's position as a global sports hub for alternative dispute resolution
+##### **Enhancing Singapore's position as a global sports hub for alternative dispute resolution**
 
 5. The availability of the ADR Sports will also enhance Singapore's attractiveness with best practices in the area of dispute resolution. This is also synergistic with Singapore's commitment to develop the sports industry's ADR infrastructure and services, as they are able to support various thrusts such as:
 <br>
@@ -48,7 +48,7 @@ e) Growth in other supporting services such as sports law
 <br>
 [Annex D - Address by Mr Oon Jin Teik, CEO, SSC](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20D2020CEOs20Opening20Remarks.pdf)
 
-**For media queries, please contact:**
+**For media enquiries, please contact:**
 <br>
 Ms Hazwani Hasni
 <br>
