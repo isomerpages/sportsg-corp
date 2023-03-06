@@ -57,21 +57,23 @@ Mobile: 9847 6949
 Email: [wlkoh@fulfordpr.com](mailto:wlkoh@fulfordpr.com)
 
 
-**About SSC**
+***About SSC***
 <br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
-**About Standard Chartered Bank**
+*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.*
+
+***About Standard Chartered Bank***
 <br>
+
 *Standard Chartered - leading the way in Asia, Africa and the Middle East*
 
-Standard Chartered PLC is listed on both the London Stock Exchange and the Stock Exchange of Hong Kong and is ranked in the top 25 among FTSE-100 companies, by market capitalisation.
+*Standard Chartered PLC is listed on both the London Stock Exchange and the Stock Exchange of Hong Kong and is ranked in the top 25 among FTSE-100 companies, by market capitalisation.*
 
-Standard Chartered has a history of over 150 years in banking and is in many of the world's fastest growing markets. It has an extensive global network of over 1,200 branches (including subsidiaries, associates and joint ventures) in 56 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas. As one of the world's most international banks, Standard Chartered employs almost 44,000 people, representing 89 nationalities, worldwide.
+*Standard Chartered has a history of over 150 years in banking and is in many of the world's fastest growing markets. It has an extensive global network of over 1,200 branches (including subsidiaries, associates and joint ventures) in 56 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas. As one of the world's most international banks, Standard Chartered employs almost 44,000 people, representing 89 nationalities, worldwide.*
 
-Standard Chartered's strengths lie in its breadth, diversity and balance and is trusted across its network for its standard of governance and corporate responsibility. The Bank is committed to all its stakeholders by living its values in its approach to managing its people, exceeding expectations of its customers, making a difference in the communities that we operate in and working with its regulators.
+*Standard Chartered's strengths lie in its breadth, diversity and balance and is trusted across its network for its standard of governance and corporate responsibility. The Bank is committed to all its stakeholders by living its values in its approach to managing its people, exceeding expectations of its customers, making a difference in the communities that we operate in and working with its regulators.*
 
-Standard Chartered uniquely derives 95% of profits from Asia, Africa and the Middle East. Serving both Consumer and Wholesale Banking customers, the Bank combines deep local knowledge with global capability to offer a wide range of innovative products and services as well as award winning solutions.
+*Standard Chartered uniquely derives 95% of profits from Asia, Africa and the Middle East. Serving both Consumer and Wholesale Banking customers, the Bank combines deep local knowledge with global capability to offer a wide range of innovative products and services as well as award winning solutions.*
 
 
 Some of the major awards won in 2005 by the Bank include:
@@ -83,4 +85,4 @@ Some of the major awards won in 2005 by the Bank include:
 6. The Asset's Best Cash Management Bank for South Asia
 7. Retail Banker International's Best Retail Bank in Asia Pacific.
 
-For more information on Standard Chartered, please log on to www.standardchartered.com
+*For more information on Standard Chartered, please log on to [www.standardchartered.com](www.standardchartered.com)*
