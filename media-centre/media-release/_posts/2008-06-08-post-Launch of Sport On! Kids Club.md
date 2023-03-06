@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Launch of Sport On! Kids Club**
 
-Keeping the FUN in Sports!
+##### **Keeping the FUN in Sports!**
 
 The Singapore Sports Council launched its first children's sports club, Sport On! Kids Club, at IMM, Level 3, Garden Plaza today. Sport On! Kids Club also pledged its support for the Team Singapore athletes at today's launch which inaugurated the well-wishing campaign for the Team at the Beijing 2008 Olympic Games. Targeting children between the ages of 3 to 12 years old, the club aims to promote sports as an active and healthy lifestyle choice for children and their families.
 
