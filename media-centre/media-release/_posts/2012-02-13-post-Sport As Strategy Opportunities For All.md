@@ -153,6 +153,17 @@ Annex D - Vision 2030 Steering Committee Members
 
 For media enquiries, please contact:
 
+| No | Name and Designation | 
+| -------- | -------- | 
+| 1  | Mr Chan Chun Sing (Chairman)<br >Acting Minister, Ministry of Community Development, Youth and Sports     | 
+| 2  | Mr Teo Ser Luck (Deputy Chairman)<br>Minister of State, Ministry of Trade & Industry   | 
+| 3  | Ms Yeoh Chee Yan<br>Second Permanent Secretary, Ministry of Education   | 
+| 4  | Mr Ng Wai Choong<br>Deputy Secretary (Policy), Ministry of Finance  |
+| 5  | Mr Yam Ah Mee<br>Chief Executive Director, People's Association  |
+| 6  | Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board  |
+
+
+
 **S. Parameswaran (Parames)**
 <br>
 Assistant Director, Corporate Communications & Relations
