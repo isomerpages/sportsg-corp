@@ -161,6 +161,21 @@ For media enquiries, please contact:
 | 4  | Mr Ng Wai Choong<br>Deputy Secretary (Policy), Ministry of Finance  |
 | 5  | Mr Yam Ah Mee<br>Chief Executive Director, People's Association  |
 | 6  | Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board  |
+| 7  | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority  |
+| 8  | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board  |
+| 9  | Mr Richard Seow<br>Chairman, Singapore Sports Council  |
+| 10  | Mr Tan Soo Nan<br>Chief Executive of Singapore Totalisator Board  |
+| 11  | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank |
+| 12  | Mr Tan Tong Hai<br>Chief Operating Officer, Starhub |
+| 13  | Mr Antonio Del Rosario<br>General Manager, Coca-Cola Singapore |
+| 14  | Dr Aymeric Lim<br>Chairman, Medical Board, National University Hospital |
+| 15  | Mr Andre Ahchak<br>Senior Director, VOX Group Pte Ltd |
+| 16  | Ms Saw Phaik Hwa<br>Ex-CEO, SMRT |
+| 17  | Ms Jessie Phua<br>Council Member, Singapore National Olympic Council |
+| 18  | Dr Teo-Koh Sock Miang<br>President, Special Olympics Singapore |
+| 19  | Dr Teo Ho Pin<br>Mayor, North-West District |
+| 20  | Mr Zainudin Nordin<br>President, Football Association of Singapore |
+| 21  | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation |
 
 
 
