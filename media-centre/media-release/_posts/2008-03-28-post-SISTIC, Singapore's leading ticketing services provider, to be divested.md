@@ -20,7 +20,7 @@ The SISTIC board announced today that its shareholders would be divesting their 
 
 
 **For media inquiries, please contact:**
-<br>
+
 Gayle Wong (Ms)
 <br>
 Assistant Director (Group Communications)
