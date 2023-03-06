@@ -41,9 +41,9 @@ Mobile: 9272 0112
 Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 
 Annex A
-
-			
-
+<br>
+3rd Asian Indoor Games Vietnam 2009 - Contingent List
+<br>
 | S/N | Sport | Event | Name of Athlete |
 | -------- | -------- | -------- | -------- |
 | 1 | Bowling | Men's Single | Lionel Lim Guo Liang |
