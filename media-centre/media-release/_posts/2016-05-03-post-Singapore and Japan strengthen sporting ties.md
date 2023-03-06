@@ -27,4 +27,4 @@ Mr Kazumi Ohigashi, President of Japan Sport Council, shared: “In the field of
 Members of the Japanese delegation were also involved in a SJ50 Sport Conference, an Olympic Value Education Program and a tour of the Sports Hub facilities.  
   
 
-Mr Lim added: “With Japan poised to host major games in 2019, 2020 and 2021, I am excited at the renewal of this MOU that will offer new and even more opportunities for collaboration beyond high performance sports. I would like to express our deepest appreciation to affirming Sport Singapore’s commitment to a deeper collaboration.”
+Mr Lim added: “With Japan poised to host major games in 2019, 2020 and 2021, I am excited at the renewal of this MOU that will offer new and even more opportunities for collaboration beyond high-performance sports. I would like to express our deepest appreciation to affirming Sport Singapore’s commitment to a deeper collaboration.”
