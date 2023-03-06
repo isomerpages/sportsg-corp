@@ -176,6 +176,9 @@ For media enquiries, please contact:
 | 19  | Dr Teo Ho Pin<br>Mayor, North-West District |
 | 20  | Mr Zainudin Nordin<br>President, Football Association of Singapore |
 | 21  | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation |
+| 22  | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer & Philanthropy Centre |
+| 23  | Mr Leslie Tan<br>Founder and Editor, Red Sports |
+| 24  | Ms Asmah Hanim binte Mohamad<br>Honorary Assistant Secretary, Singapore Athletic Association |
 
 
 
