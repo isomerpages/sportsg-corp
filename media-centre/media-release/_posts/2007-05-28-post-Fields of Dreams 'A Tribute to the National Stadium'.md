@@ -29,7 +29,7 @@ After the last ball has been kicked, the closing ceremony will commence, hosted 
 Concludes Mr Oon Jin Teik, CEO of co-organiser Singapore Sports Council, "It's going to be a night to remember. And we invite the public to come together, relive memories, and bid a final goodbye to the stadium. She has served us well for 34 years, and the entire event is a fitting tribute to close one chapter and open the next."
 
 
-Ticketing Information
+##### **Ticketing Information**
 
 "Field of Dreams - A Tribute to the National Stadium"
 Tickets sold through SISTIC website (www.sistic.com.sg), authorized agents and telephone hotline (Tel: 6348 5555).
@@ -41,7 +41,7 @@ Match Day (30 June):
 $20 Adult (excl. $2 SISTIC fee) / $12 Child/Student (excl. $1 SISTIC fee)
 
 
-For media inquiries, please contact:
+**For media enquiries, please contact:**
 
 Susmita Dayanandan
 <br>
@@ -56,6 +56,6 @@ Fax: 6345 2541
 Email: [susmita_dayanandan@ssc.gov.sg](mailto:susmita_dayanandan@ssc.gov.sg)
 
 
-About SSC
-
+**About SSC**
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
