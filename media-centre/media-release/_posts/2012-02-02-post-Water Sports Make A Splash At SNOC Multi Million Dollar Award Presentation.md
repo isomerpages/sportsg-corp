@@ -43,3 +43,4 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 It is mandatory for all athletes to plough back 20% of the SNOC MAP awards to their National Sports Association for future training and development.
 
 Click [here](/files/Media%20Centre/Media%20Release/2012/Feb/water-sports-make-a-splash-at-snoc-multi-million-dollar-award-presentation.pdf) to download **Annex B - SNOC MAP Award Recipients** and **Annex C - Fact Sheet**
+
