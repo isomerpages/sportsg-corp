@@ -14,8 +14,7 @@ The Wakeboard & Waterskate Rail Jam will create a big splash as competitors flau
 
 "The Wakeboard & Waterskate Rail Jam gives the public the opportunity to be exposed to this popular sport as they are just meters away from the action. They will be able to immerse themselves in the heat of the action as riders perform moves on the various obstacles, some of which are likely to have a high degree of difficulty," said Mr. Paul Fong, General Manager of the Singapore Waterski and Wakeboard Federation.
 
-Another competitive event that is on display is the Jetsports SuperCourse Team Relay Challenge. The high-speed, fast track personal water craft endurance race will make its debut as the region's first. The fast sweeping technical turns allows the
-powerful watercraft to crank out speeds in excess of 120 Km per hour. The track is approximately 1.7 km in length for one lap with an average race time of 45 minutes. This highly defined course pays emphasis on speed and team strategy, giving riders more options to overtake during the race.
+Another competitive event that is on display is the Jetsports SuperCourse Team Relay Challenge. The high-speed, fast track personal water craft endurance race will make its debut as the region's first. The fast sweeping technical turns allows the powerful watercraft to crank out speeds in excess of 120 Km per hour. The track is approximately 1.7 km in length for one lap with an average race time of 45 minutes. This highly defined course pays emphasis on speed and team strategy, giving riders more options to overtake during the race.
 
 When asked about his thoughts on being part of WaterFest by the Bay, Mr. Justin Lee, President of the Singapore Powerboat Association (SPBA) said, "We would like to add a little motor racing element on the water this year. The inaugural SuperCourse has all the indications of becoming a regional event with riders from across Asia taking part, and to watch Daytona-type racing on water within close proximity from the floating platform - it will be something different and definitely exhilarating!"
 
@@ -84,10 +83,10 @@ Hp: 9766 8378
 Email: [evelyn_liu@ssc.gov.sg](mailto:evelyn_liu@ssc.gov.sg)
 
 
-About WaterFest Singapore 2007
+**About WaterFest Singapore 2007**
 <br>
 The WaterFest Singapore 2007 is Singapore's only international water-sports festival that encompasses competitive and lifestyle events that are fun and exhilarating. The 6-week long festival is into its third year running and will kick off on 25-26 August with events extending till 7 Oct. WaterFest Singapore aims to raise the profile of water sports and water-related recreational activities and bring Singaporeans closer to the various water locales all over the island. Encompassing fun and exhilarating events, WaterFest Singapore hopes to get Singaporeans to experience and enjoy our water facilities and integrate water-related culture and sport into their lifestyles.
 
-About Singapore Sports Council
+**About Singapore Sports Council**
 <br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
