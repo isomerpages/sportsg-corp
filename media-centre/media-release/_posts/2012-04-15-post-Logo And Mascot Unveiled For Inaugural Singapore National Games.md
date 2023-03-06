@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Logo And Mascot Unveiled For Inaugural Singapore National Games**
 
-![](/images/Media%20Centre/Media%20Release/2012/May/Logo.gif)
+![](/images/Media%20Centre/Media%20Release/2012/Apr/Logo.gif)
 
 *Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents Competing in Badminton, Basketball, Bowling and Football Across the Island*
 
@@ -60,7 +60,7 @@ Registration opens on 18 April to 31 May 2012
 Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.sg/)
 
 #### **Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet**
-![](/images/Media%20Centre/Media%20Release/2012/May/SinagporeNationalGames.gif)
+![](/images/Media%20Centre/Media%20Release/2012/Apr/SinagporeNationalGames.gif)
 
 **Designer**: Yong Wen Yeu
 **School**: Nanyang Academy of Fine Arts
@@ -69,7 +69,7 @@ Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.
 **Rationale**:
 The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
 
-![](/images/Media%20Centre/Media%20Release/2012/May/lion_logo.gif)
+![](/images/Media%20Centre/Media%20Release/2012/Apr/lion_logo.gif)
 
 **Designer**: Beatrice Cho
 **School**: Singapore Polytechnic
