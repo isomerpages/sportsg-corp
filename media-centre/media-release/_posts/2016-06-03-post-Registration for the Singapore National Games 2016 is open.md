@@ -15,6 +15,4 @@ List of Para-Sports: Archery (Para), Boccia (Para), Tenpin Bowling (Para), Swimm
   
 This event is open to all Singapore Citizens, Permanent Residents and Foreigners across Youth, Open & Master categories.  
   
-Registration will close on 8 July 2016.  
-  
-For more information, log on to [https://www.myactivesg.com/getactivesingapore/singapore-national-games](https://www.myactivesg.com/getactivesingapore/singapore-national-games).
+Registration will close on 8 July 2016.
