@@ -41,6 +41,31 @@ Mobile: 9272 0112
 Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 
 Annex A
+
+			
+
+| S/N | Sport | Event | Name of Athlete |
+| -------- | -------- | -------- | -------- |
+| 1 | Bowling | Men's Single | Lionel Lim Guo Liang |
+|  |  | Men's Double |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <style>
 table, th, td {
   border: 0.5px solid black;
