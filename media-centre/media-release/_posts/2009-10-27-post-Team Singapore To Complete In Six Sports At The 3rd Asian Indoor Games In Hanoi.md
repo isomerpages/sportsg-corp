@@ -29,7 +29,7 @@ The Singapore National Olympic Council (SNOC) is the national nonprofit organisa
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
 **For media enquiries, please contact:**
-
+<br>
 Hazwani Hasni Executive, Marketing Communications
 <br>
 Singapore Sports Council
@@ -40,7 +40,7 @@ Mobile: 9272 0112
 <br>
 Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 
-Annex A
+**Annex A**
 <br>
 3rd Asian Indoor Games Vietnam 2009 - Contingent List
 <br>
