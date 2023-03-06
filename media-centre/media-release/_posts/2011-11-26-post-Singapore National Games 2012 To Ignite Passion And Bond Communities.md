@@ -34,11 +34,11 @@ image: ""
 
 12. Registration for the Games will be in two phases as some sports will not need a qualifying round. Registration for the Community Games 2012 will open in January 2012 for seven sports, while registration for the remaining three sports for the SNG 2012 will open in May 2012.
 
-13. For more information regarding the Games, please visit the PA and SSC websites: (www.pacsc.org.sg) and (www.ssc.gov.sg). Public enquiries regarding in the Games can be directed to the following Hotline: 6238 2058
+13. For more information regarding the Games, please visit the PA and SSC websites: ([www.pacsc.org.sg](www.pacsc.org.sg)) and ([www.ssc.gov.sg](www.ssc.gov.sg)). Public enquiries regarding in the Games can be directed to the following Hotline: 6238 2058
 
 -END-
 
-Annex - Information and Rules: Singapore National Games <br>2012/Community Games 2012
+**Annex - Information and Rules: Singapore National Games **<br>2012/Community Games 2012
 <br>[Games Info and General Rules](/files/Media%20Centre/Media%20Release/2011/November/Games%20Info%20and%20General%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [208 Kb]
 <br>[Athletics Rules](/files/Media%20Centre/Media%20Release/2011/November/Athletics%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [448 Kb]
 <br>[Badminton Rules ](/files/Media%20Centre/Media%20Release/2011/November/Badminton%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf)[202 Kb]
@@ -51,17 +51,17 @@ Annex - Information and Rules: Singapore National Games <br>2012/Community Games
 <br>[Swimming Rules](/files/Media%20Centre/Media%20Release/2011/November/FinalCgSng2012SwimmingRulesStandardised%20as%20at%2024%20November%202011pdf.pdf) [237 Kb]
 <br>[Table Tennis Rules](/files/Media%20Centre/Media%20Release/2011/November/Table%20Tennis%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [226 Kb]
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 <br>
 Ms Lorraine Tiang
 <br>Manager, Corporate & Marketing Communications
 <br>People's Association 
-<br>Email: lorraine_tiang@pa.gov.sg
+<br>Email:[ lorraine_tiang@pa.gov.sg]( lorraine_tiang@pa.gov.sg)
 
 Ms Samantha See
 <br>Account Manager
 <br>Fulford Public Relations
-<br>Email: ssee@fulfordpr.com
+<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
 
 
 **About the Singapore Sports Council**
