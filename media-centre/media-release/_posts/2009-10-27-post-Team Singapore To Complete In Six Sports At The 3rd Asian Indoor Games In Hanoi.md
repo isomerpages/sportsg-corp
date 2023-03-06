@@ -41,7 +41,6 @@ Mobile: 9272 0112
 Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 
 Annex A
-
 <style>
 table, th, td {
   border: 0.5px solid black;
