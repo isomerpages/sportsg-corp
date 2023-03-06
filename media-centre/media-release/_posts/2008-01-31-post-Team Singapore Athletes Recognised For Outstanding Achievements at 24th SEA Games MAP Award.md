@@ -21,7 +21,7 @@ Singapore, 31 January 2008 - Athletes, coaches, officials, partners and sponsors
 
 6. At the event, appreciation plaques were given out to sponsors and supporters of Team Singapore to thank them for their unstinting support during the 24th SEA Games. They included Singapore Totalisator Board, Singapore Pools Pte Ltd, Yonex-Sunrise, NTUC Fairprice and Nestle Singapore Pte Ltd.
 
-**Team Singapore Sports Idols 2007 Unveiled**
+##### **Team Singapore Sports Idols 2007 Unveiled**
 
 7. The top 21 Team Singapore Sports Idol 2007 were also unveiled this evening as part of the MAP Award Presentation and Team Singapore Appreciation Dinner. The campaign, which started in September 2007 saw some 400 Team Singapore athletes vying for the top honours. During the two-month long campaign, Singaporeans voted for their favourite sports personalities via sms and the website. Over 150,000 votes were received.
 
@@ -29,12 +29,12 @@ Singapore, 31 January 2008 - Athletes, coaches, officials, partners and sponsors
 
 9. For more information on Team Singapore at the 24th SEA Games, please refer to www.teamsingapore.com.sg.
 
-Enclosures:
+**Enclosures:**
 <br>
 Speech by Mr Teo Chee Hean, Minister for Defence & President of SNOC
 
 
-**For media queries, please contact:**
+**For media enquiries, please contact:**
 
 Ms Hazwani Hasni
 <br>
