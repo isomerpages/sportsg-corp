@@ -17,9 +17,9 @@ The proceeds from this fundraiser will help SportCares continue to make a real d
   
 Melissa Pine, Vice-President of WTA Asia-Pacific and Tournament Director of the BNP Paribas WTA Finals Singapore presented by SC Global, said, “Our players are great role models and we are glad that they gave their time today to a cause that has such great synergy with the WTA. Tennis can bring so many benefits and we are glad to be part of such a meaningful endeavor through our work with SportCares.”  
   
-To explore opportunities of getting involved with SportCares, interested parties may reach out through the official SportCares Facebook page - www.facebook.com/SportCaresSG.  
+To explore opportunities of getting involved with SportCares, interested parties may reach out through [the official SportCare Facebook page](www.facebook.com/SportCaresSG).
   
-ACKNOWLEDGMENT OF DONORS  
+**ACKNOWLEDGMENT OF DONORS**
   
 1. Mr. Glenn Turner, CEO, Fresh Trust Pte. Ltd.   
 2. Singapore Olympic Foundation - Peter Lim Scholarship  
@@ -29,22 +29,20 @@ ACKNOWLEDGMENT OF DONORS
   
   
   
-MEDIA CONTACTS:  
+#### **Media Contacts**
   
-SportCares Foundation  
-Rozann Phua, rozann@asiaprwerkz.com, 9155 5962  
-Vanessa Li, vanessa@asiaprwerkz.com, 9616 0431  
+**SportCares Foundation**
+
+* Rozann Phua, rozann@asiaprwerkz.com, 9155 5962  
+* Vanessa Li, vanessa@asiaprwerkz.com, 9616 0431  
   
-WTA  
-Darrelle Eng, deng@wtatennis.com, +65 8318 8010  
+**WTA**
+* Darrelle Eng, deng@wtatennis.com, +65 8318 8010  
   
   
-ABOUT SPORTCARES FOUNDATION  
+**About SportsCares Foundation**  
 SportCares Foundation is the philanthropic arm of Sport Singapore (SportSG) and was officially established in October 2012 as a key recommendation of SportSG’s Vision 2030: Live Better Through Sport master plan. SportCares is at the heart of a growing national movement to use sport for social good. With support from partners in the community and corporate sectors, SportCares has organised programmes and projects that have touched the lives of more than 8,000 underprivileged children and youth. While each programme has its unique characteristics, SportCares’ mission has never varied: to empower people in need, by providing opportunities for social inclusion and community bridging through sport.  
   
-ABOUT THE WTA  
+**About the WTA**
 The WTA is the global leader in women’s professional sport with more than 2,500 players representing 92 nations competing for a record $137 million in prize money. The 2016 WTA competitive season includes 56 events and four Grand Slams in 34 countries. In 2015, The WTA was watched by 395 million fans on television and digital channels around the world. The 2016 WTA competitive season concludes with the BNP Paribas WTA Finals Singapore presented by SC Global from October 23-30, 2016 and the WTA Elite Trophy in Zhuhai, China from November 1-6, 2016.  
 Further information on the WTA can be found at www.wtatennis.com, facebook.com/WTA and twitter.com/WTA.  
-  
-
-####
