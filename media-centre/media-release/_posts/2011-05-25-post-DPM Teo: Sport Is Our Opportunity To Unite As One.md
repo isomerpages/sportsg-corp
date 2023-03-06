@@ -85,23 +85,9 @@ Senior Awards
 
 **SPORTSBOY/SPORTSGIRL AWARDS**
 
- 
-
-S/N
-
-Awards
-
-Awardees
-
-Sports
-
-01
-
-Sportsboy of the Year
-
-Darren Choy Wong Loong
-
-Sailing
+ | S/N | Awards | Awardees | Sports |
+| -------- | -------- | -------- | -------- |
+| 01     | Sportsman of the Year     | Darren Choy Wong Loong    | Sailing
 
  
 
@@ -136,18 +122,6 @@ Sailing
 Team of the Year
 
 (Team Sport)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
