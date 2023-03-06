@@ -60,50 +60,13 @@ Senior Awards
 | 13 | Meritorious Awards (Individual) | Aqilah Binte Sudhir | Shooting
 | 14 | Meritorious Awards (Individual) | Poh Lip Meng | Shooting
 | 15 | Meritorious Awards (Individual) | Nigel Lim Swee Hon | Shooting
-
-16
-
-Tao Li
-
-Swimming
-
-17
-
-Feng Tianwei
-
-Table Tennis
-
-18
-
-Yang Zi
-
-Table Tennis
-
-19
-
-Wang Yuegu
-
-Table Tennis
-
-20
-
-Gao Ning
-
-Table Tennis
-
-21
-
-Yu Mengyu
-
-Table Tennis
-
- 
-
-22
-
-Meritorious Awards (Event)
-
-National Badminton Women's Doubles Team
+| 16 | Meritorious Awards (Individual) | Tao Li | Swimming
+| 17 | Meritorious Awards (Individual) |  Feng Tianwei | Table Tennis
+| 18 | Meritorious Awards (Individual) |  Yang Zi  | Table Tennis
+| 19 | Meritorious Awards (Individual) |  Wang Yuegu  | Table Tennis
+| 20 | Meritorious Awards (Individual) | Gao Ning | Table Tennis
+| 21 | Meritorious Awards (Individual) | Yu Mengyu | Table Tennis
+| 22 | Meritorious Awards (Event)  | National Badminton Women's | Doubles Team
 
 Shinta Mulia Sari
 
