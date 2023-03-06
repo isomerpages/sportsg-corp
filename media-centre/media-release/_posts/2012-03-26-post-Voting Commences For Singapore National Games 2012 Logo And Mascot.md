@@ -74,3 +74,78 @@ When we utter the word 'Lion' the first word that comes into our mind is strengt
 **School:** Nanyang Polytechnic  
 **Rationale:**  
 The character design was greatly inspired by the Singapore 2010 Youth Olympic Games' mascots. Therefore, the concept was to use the lion as a symbol of our nation, as it has an active and strong character. The orange colour used for the mascot represents passion and participation while the red fur represents competitiveness. I have named my mascot 'Jian Kang' to promote an active nation that leads a healthy lifestyle.
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo4.gif" style="width: 150px"  />
+
+**Designer:** Jon Tan and Eng Sui Kee  
+**School:** Singapore Polytechnic  
+**Rationale:**  
+Unique (to Singapore) yet commonplace (in Singapore), the Singapura cat perfectly represents the nature of the Singaporean spirit. The familiar sight of this adorable feline is a comforting reminder that this is home. Competitor or supporter let Kuching bring the joy and camaraderie of the Singapore National Games into your heart!
+
+#### **Annex C: Fact Sheet on Singapore National Games**
+
+The Singapore National Games 2012 (SNG) is a new biennial sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete and volunteer.
+
+The inaugural SNG will see community teams pitting against each other in ten sports, with a trophy awarded to the overall champion of teams. The SNG will be jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, as well as the National Sports Associations (NSA) of the ten sports in the inaugural SNG. It aims to be a meaningful and memorable sporting festival that ignites passion, builds character, and connects people and bonds Singaporeans.
+
+The Community Games (CG), which now runs annually, will serve as the qualifying round for the SNG in the years when it is held. For 2012, CG will be held from April to July and the SNG will be held from 1 to 9 September.
+
+The ten sports featured in 2012 are: Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. To bring the competitions to the heart of the community, the 2012 Games will be held at various venues around Singapore, including schools, the Bedok Reservoir and the Singapore Sports School. Teams will be formed according to geographical clusters based on community groupings. Members of the winning teams will each be awarded a medal, with trophies being awarded to the winning teams.
+
+Participation will be open to Singapore Citizens as well as non-Citizens, including Singapore Permanent Residents. National athletes are also eligible to compete. However in general, National athletes and non-citizens may only make up at most 20% of the team size, or one member of the team, whichever is higher. In order to encourage wide participation from all age groups and races, as well as residents living in both public and private estates, team composition for all sports have been formulated through discussion with the respective NSAs. With various team mix requirements, it is intended that more enthusiasts with different abilities will be able to be part of this nation-wide competition.
+
+Registration for four sports for CG 2012 Badminton, Basketball, Bowling and Football has closed on 20 March. Interested residents can still register for the remaining six sports by downloading the registration forms at the following websites:
+
+For Netball, Sepak Takraw and Table Tennis
+Registration closes on 10 April 2012
+Find out more at: www.pacsc.org.sg and www.facebook.com/CommunityGamesSingapore
+Enquiries can be directed to hotline: 6238 2058 or [pa_community_games@pa.gov.sg](mailto:pa_community_games@pa.gov.sg).
+
+For Athletics, Dragon Boat and Swimming
+Registration opens on 10 April to 31 May 2012
+Find out more at: [singaporenationalgames.sg](singaporenationalgames.sg).
+
+The SNG is led by a Steering Committee comprising various stakeholders including representatives from the relevant NSAs, statutory boards, the Community Sports Clubs (CSCs) Council and the media. This is aimed at a consultative, inclusive approach in planning the Games.
+
+For more information regarding the Games, please visit the [singaporenationalgames.sg](singaporenationalgames.sg).
+
+For media enquiries, please contact:
+
+Letchumi Jaiganth
+Manager, Media Relations 
+Singapore Sports Council 
+Email: [letchumi_jaiganth@ssc.gov.sg](mailto:letchumi_jaiganth@ssc.gov.sg)
+
+Tanty Nazlianah
+Senior Manager, Media Relations
+Singapore Sports Council
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
+
+Adlina Jaffar
+Head (Publicity) 
+People's Association
+Email: [adlina_jaffar@pa.gov.sg](mailto:adlina_jaffar@pa.gov.sg)
+
+**About the Singapore Sports Council**
+
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
+
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg).
+
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
+
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [www.Vision2030.sg](www.Vision2030.sg).
+
+**About People's Association**
+
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.OurCommunity.sg](www.OurCommunity.sg).
+
+**What's happening in OurCommunity?**
+
+Find out about PA's new hungrygowhere feature, and the latest courses, activities, interest groups and facilities on your smartphone. Discover your community today at [www.OurCommunity.sg](www.OurCommunity.sg).
+
+About Community Games
+
+The Community Games (CG) 2012 is a multi-sports competition to be held across the island, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.facebook.com/CommunityGamesSingapore](www.facebook.com/CommunityGamesSingapore).
