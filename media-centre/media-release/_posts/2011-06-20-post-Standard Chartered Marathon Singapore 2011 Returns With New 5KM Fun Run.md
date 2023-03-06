@@ -8,7 +8,7 @@ image: ""
 ---
 ## **Standard Chartered Marathon Singapore 2011 Returns With New 5KM Fun Run**
 
-
+![](/images/Media%20Centre/Media%20Release/2011/Jun/Standardcharteredrun2011.jpeg)
 *Singapore's Marquee Running Event Opens for Registration on 23 June 2011*
 
 **Singapore, 21 June 2011** - The Singapore Sports Council (SSC) announced today a brand new non-competitive race category, the 5km Fun Run, for the Standard Chartered Marathon Singapore (SCMS) 2011, to further cater to runners of all ages and levels, enhancing the Marathon's reputation as an all-inclusive race.
