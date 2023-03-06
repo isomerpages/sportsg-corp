@@ -25,8 +25,8 @@ Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Loc
 
 7. The SSC will "continue to work hand-in-hand with Standard Chartered Bank and our partners" to create more successful SCMS editions over the years, said Mr Lim. "The inaugural Standard Chartered Marathon Singapore 2010 set the bar very high, but Singapore is known for its innovation and service excellence. We plan to have some new twists to make the event even more enjoyable for marathon fans from Singapore, the region and beyond. This is the People's Race."
 
-8. The inaugural SCMS attracted a record 60,000 participants in 2010. Details of the SCMS 2011, including the routes, categories for participation are expected to be announced by race organiser SSC towards the end of June 2011. The information will also be available on the Marathon's website at www.marathonsingapore.com and on www.facebook.com/marathonSG.
-statics0
+8. The inaugural SCMS attracted a record 60,000 participants in 2010. Details of the SCMS 2011, including the routes, categories for participation are expected to be announced by race organiser SSC towards the end of June 2011. The information will also be available on the Marathon's website at [www.marathonsingapore.com](www.marathonsingapore.com) and on [www.facebook.com/marathonSG](www.facebook.com/marathonSG).
+
 -End-
 
 **About the Singapore Sports Council**
@@ -37,8 +37,8 @@ To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and Singap
 <br>
 Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/singaporesports )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+
 
 **About Standard Chartered Bank in Singapore**
 <br>
