@@ -67,12 +67,7 @@ Senior Awards
 | 20 | Meritorious Awards (Individual) | Gao Ning | Table Tennis
 | 21 | Meritorious Awards (Individual) | Yu Mengyu | Table Tennis
 | 22 | Meritorious Awards (Event)  | National Badminton Women's | Doubles Team
-
-Shinta Mulia Sari
-
-Yao Lei
-
-Badminton
+| 23 | Meritorious Awards (Event)  | Yao Lei | Badminton
 
 23
 
