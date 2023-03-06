@@ -74,6 +74,6 @@ Help sources:
         *   Big Love: 6445 0400
         *   HEART@Fei Yue: 6819 9170
     *   ComCare Call at 1800 222 0000
-    *   http://www.stopfamilyviolence.sg
+    *   [http://www.stopfamilyviolence.sg](http://www.stopfamilyviolence.sg)
 
 • However, in the event that a life is in danger, call the Police immediately.
