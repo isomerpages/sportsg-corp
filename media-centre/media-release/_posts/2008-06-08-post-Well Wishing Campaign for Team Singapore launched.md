@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Well-Wishing Campaign for Team Singapore launched**
 
-A passionate show of support for Beijing-bound athletes
+##### **A passionate show of support for Beijing-bound athletes**
 
 Team Singapore athletes received a boost of support to their preparations for the Beijing 2008 Olympic and Paralympic Games when Dr Vivian Balakrishnan, Minister for Community Development, Youth & Sports (MCYS) officially launched the first Olympic well-wishing campaign as Guest of Honour at the IMM Mall today. This event is the first of a series of well-wishing activities organised by the Singapore Sports Council (SSC) to rally Singaporeans behind the athletes as they get ready for the world's biggest sporting stage - the Beijing 2008 Olympic and Paralympic Games.
 
