@@ -32,7 +32,7 @@ To file your Whereabouts Information or for more information about ADAMS, click 
 * [ADS Athlete Retirement Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf) -  Form for notifying ADS when an athlete retires from sport when in any of ADS testing pools.
 *Updated 11 June 2021*
 
-* [ ADS Athlete Return to Competition Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Return_to_Competition_Notification_Form_20210611.pdf) - Form for notifying ADS when retired ADS testing pool athlete returns to competition.
+* [ADS Athlete Return to Competition Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Return_to_Competition_Notification_Form_20210611.pdf) - Form for notifying ADS when retired ADS testing pool athlete returns to competition.
 *Updated 11 June 2021*
 
 [ADAMS Whereabouts Tutorial for Athletes](https://www.youtube.com/watch?v=UmTpHy9oJc8&index=2&list=PLA9222704E5323A3F)
