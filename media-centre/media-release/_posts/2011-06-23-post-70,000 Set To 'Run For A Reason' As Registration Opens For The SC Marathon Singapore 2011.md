@@ -7,11 +7,10 @@ layout: post
 description: ""
 image: ""
 ---
-70,000 Set To 'Run For A Reason' As Registration Opens For The Standard Chartered Marathon Singapore 2011
-23 Jun 2011
+## **70,000 Set To 'Run For A Reason' As Registration Opens For The Standard Chartered Marathon Singapore 2011**
 
 
-SSC Committed to Enhance Race Day Experience for Participants and Supporters Alike With Greater Race Engagement
+*SSC Committed to Enhance Race Day Experience for Participants and Supporters Alike With Greater Race Engagement*
 
 Singapore, 23 June 2011 - The Standard Chartered Marathon Singapore (SCMS) 2011 promises something for everyone - with greater race engagement, community involvement, and exciting experiences.
 
