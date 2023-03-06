@@ -14,7 +14,7 @@ Singapore Sports Council Gears Up for Sports Hub & Other Major Sports Programmes
 
 2. Speaking at a press conference to release its annual report, Singapore Sports Council Chairman Alex Chan said: "In fiscal year 2006 (FY06), the triple engines of growth - sports participation, excellence and industry - continued to roar with achievement. Not only are we on target, we are surpassing expectations. Three groundbreaking developments in the past year will drive Singapore sport into new realms over the next 10 to 15 years: Sports Hub, Formula One and the push to develop a sports culture. We saw Singapore's historical best performance at the Asian Games; record-breaking participation numbers at our Standard Chartered Singapore Marathon; and we launched the pilot implementation of outcome-based funding for National Sports Associations. On the back of these achievements, SSC will focus on developing the people factor to promote sports participation, industry and excellence going forward. SSC will look into initiatives to create jobs and enhance manpower capabilities in the sports industry; enhance the customer experience through better product offerings; and support elite athletes through enhanced sports medicine & sports science capabilities to drive sports excellence."
 
-Creating Jobs & Enhancing Manpower Capabilities
+##### **Creating Jobs & Enhancing Manpower Capabilities**
 
 3. Singapore will be hosting many mega sports events over the next 10 years. Formula
 One will start next year for five years, Singapore will host the South East Asian Games in 2013, Singapore is bidding to host the 2010 Youth Olympic Games and we will see more motor sports events coming to town with the recent announcement to build a permanent racetrack in Changi. And once the Sports Hub is up and running, even more mega sports events are expected.
@@ -37,12 +37,12 @@ One will start next year for five years, Singapore will host the South East Asia
 
 12. If done right, Singapore could produce more world-class officials like Singapore world Cup referee Shamsul Maidin.
 
-Enhancing Product Offerings & Providing New Customer Experiences
+##### **Enhancing Product Offerings & Providing New Customer Experiences**
 
 13. Sports as Entertainment will be a key direction in how SSC brings about new demand. To achieve this, SSC will be reviewing the way it develops and organizes its sports events and develops its sports facilities. This will ensure a great customer experience and ultimately promote interest in sports.
 
 
-Sports Events to Take on a Fun Element
+#####  **Sports Events to Take on a Fun Element**
 
 14. While SSC has a good track record in organizing and facilitating sport events, it will now factor in more entertainment into its events in the future. By making sports events more appealing and attractive, higher participation rates and large spectatorship will follow naturally.
 
@@ -62,7 +62,7 @@ Sports Events to Take on a Fun Element
 
 20. "By the time the Sports Hub is up and when Singapore hosts major events such as the SEA Games and possibly the YOG, we envisage people in Singapore wanting to come for more sports events and enjoying themselves either as spectators or participants. Should Singapore win the bid to host the Youth Olympic Games, the SSC is committed to work with the various agencies to ensure a great games venue experience for all the sports," added Oon.
 
-New Look All-in-One Sports Facilities to Promote Sports Participation
+##### **New Look All-in-One Sports Facilities to Promote Sports Participation**
 
 21. To encourage greater participation in sports at its facilities, SSC will look at designing and developing all-in-one facilities for sports, entertainment and leisure pursuits. A good example is SSC's Jurong West Sports & Recreation Centre, which was officially opened last Sunday.
 
@@ -71,7 +71,7 @@ New Look All-in-One Sports Facilities to Promote Sports Participation
 
 23. This new approach in designing our facilities complements the upgrading plans that will take place in preparation for the YOG should Singapore win the bid. We want spectators and participants to have great facilities that will enhance their viewing and participation experience.
 
-Supporting Elite Athletes Through Enhanced Sports Medicine & Sports Science Capabilities to Drive Sports Excellence
+#####  **Supporting Elite Athletes Through Enhanced Sports Medicine & Sports Science Capabilities to Drive Sports Excellence**
 
 24. Sport Medicine and Sports Science (SMSS) is a critical component in Singapore's strategy to achieve sporting glory on the world stage. Given Singapore's small size and limited pool of resources, SSC will be working with the NSAs to make full use of the competitive advantage that SMSS can deliver.
 
@@ -93,6 +93,6 @@ DID: 6340 9591
 <br>
 Mobile: 9753 7976
 
-About SSC
+**About SSC**
 <br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
