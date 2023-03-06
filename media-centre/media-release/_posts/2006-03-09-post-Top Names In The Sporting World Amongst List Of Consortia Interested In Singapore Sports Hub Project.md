@@ -13,7 +13,7 @@ At the close of the pre-qualification stage of the tender exercise for the Singa
 
 Said Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, "I am pleased that top-tier foreign and local companies such as stadium architect HOK, Macquarie Bank, Alpine, SMG Entertainment, Dragages, HSBC and Woh Hup are part of the consortia bidding for the project. The presence of such illustrious companies indicates that there is strong global market interest to participate in the project."
 
-The Ministry of Community Development, Youth and Sports (MCYS) and the SSC will evaluate the pre-qualification submissions and shortlist the consortia eligible for the next phase of the project - the Invitation to Tender stage in April 2006 whereby shortlisted consortia will have until December 2006 to submit their formal detailed proposals.
+The Ministry of Community Development, Youth and Sports (MCYS) and the SSC will evaluate the pre-qualification submissions and shortlist the consortia eligible for the next phase of the project - the Invitation to Tender stage in April 2006, whereby shortlisted consortia will have until December 2006 to submit their formal, detailed proposals.
 
 The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship PPP project of this nature.
 
