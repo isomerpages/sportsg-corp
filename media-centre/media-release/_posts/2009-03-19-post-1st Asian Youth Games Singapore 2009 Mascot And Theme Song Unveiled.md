@@ -6,19 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-1st Asian Youth Games Singapore 2009 Mascot And Theme Song Unveiled
-Singapore , 19 Mar 2009
+### **1st Asian Youth Games Singapore 2009 Mascot And Theme Song Unveiled**
 
-1st Asian Youth Games Singapore 2009 - Mascot and Theme Song Unveiled
-statics0
 Singapore, 19 March 2009 - The official mascot and theme song for the first Asian Youth Games Singapore has been officially unveiled today by Guest-of-Honour Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports & Ministry of Transport at a ceremony witnessed by hundreds of Singaporeans at Velocity.
 
+**Official Mascot**
+<br>
+2. The AYG's official mascot is the embodiment of the values and spirit of the AYG. The sprightly lion exemplifies friendship, respect and excellence. It constitutes a spirited representation of young hearts and minds in pursuit of sporting excellence. Members of the public are invited to participate in the 'Name the AYG Mascot' Contest which begins today. The deadline for the submission of names is 27 March 2009 and the official name of the mascot will be announced on 15 April 2009.
 
-Official Mascot
-
-2 The AYG's official mascot is the embodiment of the values and spirit of the AYG. The sprightly lion exemplifies friendship, respect and excellence. It constitutes a spirited representation of young hearts and minds in pursuit of sporting excellence. Members of the public are invited to participate in the 'Name the AYG Mascot' Contest which begins today. The deadline for the submission of names is 27 March 2009 and the official name of the mascot will be announced on 15 April 2009.
-
-3 Mr Teo Ser Luck said, "These are exciting times for Singapore sports, as well as for the participating nations, and despite the mounting pressure that we showcase a memorable AYG, I am confident that the collective teamwork, buttressed by contributions from sponsors, partners, volunteers and the community, that is, each and every one of you here, will help us deliver the milestone that the AYG is. Your involvement can be as simple as being a spectator during the Games, cheering on our local heroes. Or you may wish to volunteer your skills then, to get even closer to the exciting happenings."
+3. Mr Teo Ser Luck said, "These are exciting times for Singapore sports, as well as for the participating nations, and despite the mounting pressure that we showcase a memorable AYG, I am confident that the collective teamwork, buttressed by contributions from sponsors, partners, volunteers and the community, that is, each and every one of you here, will help us deliver the milestone that the AYG is. Your involvement can be as simple as being a spectator during the Games, cheering on our local heroes. Or you may wish to volunteer your skills then, to get even closer to the exciting happenings."
 
 4. Mr Oon Jin Teik, Co-Chair of SAYGOC and Chief Executive Officer of SSC said, "The mascot best embodies the spirit of the Asian Youth Games ? it is young, vibrant and is highly representative of Singapore. Over the next week, we hope to engage the Singapore community to get involved in naming the AYG mascot."
 
@@ -46,7 +42,7 @@ The Singapore Sports Council (SSC) is Singapore's lead agency tasked with develo
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
 
 **For media enquiries, please contact:**
-
+<br>
 Ion Danker
 <br>
 Media Relations Officer
@@ -57,7 +53,7 @@ DID: 6500 5234
 <br>
 Mobile: 9113 7260
 <br>
-Email: ion_danker@ssc.gov.sg
+Email: [ion_danker@ssc.gov.sg](mailto:ion_danker@ssc.gov.sg)
 
 Tanty Nazlianah Rosli
 <br>
@@ -69,7 +65,7 @@ DID: 6500 5241
 <br>
 Mobile: 9237 2020
 <br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Winnie Lim
 <br>
@@ -81,8 +77,7 @@ DID: 68796023
 <br>
 Mobile: 9615 4899
 <br>
-Email: winnie_lim@moe.gov.sg
-
+Email: [winnie_lim@moe.gov.sg](mailto:winnie_lim@moe.gov.sg)
 Jeanne Tan
 <br>
 Corporate Communications Executive
@@ -93,4 +88,4 @@ DID: 68796118
 <br>
 Mobile: 9634 7199
 <br>
-Email: jeanne_tan@moe.gov.sg
+Email: [jeanne_tan@moe.gov.sg](mailto:jeanne_tan@moe.gov.sg)
