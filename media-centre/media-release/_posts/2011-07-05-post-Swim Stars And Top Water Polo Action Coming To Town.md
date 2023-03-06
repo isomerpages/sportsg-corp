@@ -6,12 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **Swim Stars And Top Water Polo Action Coming To Town**
-
-05 Jul 2011
-
-
-Singapore's Training Hub Status Gets a Boost, Public Can Get Up Close and Personal With Stars
+### **Singapore's Training Hub Status Gets a Boost, Public Can Get Up Close and Personal With Stars**
 
 Singapore, 5 July 2011 - Some of the world's top swim nations have chosen Singapore as the venue for their final preparations en route to what is the biggest aquatics competition this year - the 14th FINA World Championships, held in Shanghai, China from 16-31 July 2011.
 
@@ -23,7 +18,7 @@ Singapore, 5 July 2011 - Some of the world's top swim nations have chosen Singap
 
 5. The SSC has a dedicated team of liaison officers that are on hand to help the visiting teams adjust as fast as possible. These liaison officers help them with logistical matters such as phone cards, meals, transport, and training equipment; essentially making their transition as seamless as possible so that athletes and coaches are able to focus solely on their performance without any distractions.
 
-A Chance to Catch World-Class Aquatic Action
+##### **A Chance to Catch World-Class Aquatic Action**
 
 6. While the teams are here, Singaporeans will get the opportunity to get up close and personal with some of these sports superstars. Autograph signing and open training sessions with the Australian and French teams along with Water Polo and Diving competitions are just some of the many activities that the public can look forward to.
 
@@ -33,28 +28,25 @@ A Chance to Catch World-Class Aquatic Action
 
 9. Expressing the value-add visiting teams bring when they come to train in Singapore, Bob Gambardella had this to say, "Singapore also has a lot to gain from hosting these world-class teams. They bring with them experience, and knowledge that we will be able to tap into and share with the local sports fraternity. Local coaches, officials, and athletes will get a chance to learn and share best practices and ideas from the best in their field. In addition, these sporting superstars will also be a source of inspiration and encouragement to aspiring young athletes in Singapore. This certainly contributes to the advancement of Sporting Singapore."
 
--End-
-
 Annex A - Activities Calendar
 Activities Calendar [108 Kb]
 
+**For media enquiries, please contact:**
 
-For media enquiries, please contact:
-
-Patricia Yee
-Executive, Media Relations
-Singapore Sports Council
+Patricia Yee<br>
+Executive, Media Relations<br>
+Singapore Sports Council<br>
 Email: patricia_yee@ssc.gov.sg
 
-Tanty Nazlianah Rosli
-Senior Manager, Media Relations
-Singapore Sports Council
-Office: 6500 5241
+Tanty Nazlianah Rosli<br>
+Senior Manager, Media Relations<br>
+Singapore Sports Council<br>
+Office: 6500 5241<br>
 Email: tanty_nazlianah@ssc.gov.sg
 
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
