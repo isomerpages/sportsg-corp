@@ -24,7 +24,7 @@ Lai also reiterated that the Athletics Club, as with all other ActiveSG academie
   
 Supported by Head Coaches Melvin Tan and Steven Quek who are no strangers in the field, the ActiveSG Athletics Club will hold its training sessions at five locations across the island: Bedok Stadium, Bishan Stadium, Bukit Gombak Stadium, Home of Athletics (Kallang Practice Track) and Woodlands Stadium.  
   
-7 Starting from 30 May 2016, it will kick off two programmes for the year – the “Athletics for Kids” for children aged 6 to 12 years, and “Athletics for Youth” for those aged 13 to 24 years. Priced at $130 and $180 per season respectively, the former will look into the development of athletics fundamentals through games and fun challenges, while the latter will guide participants towards training for specific track and field events of their choice. Both programmes will run 1.5-hour training sessions on weekday evenings from 6:30pm to 8:00pm and/or weekend afternoons from 4:30pm to 6:00pm, thrice a week. Registration will commence from Friday, 6 May 2016 on www.myactivesg.com.  
+Starting from 30 May 2016, it will kick off two programmes for the year – the “Athletics for Kids” for children aged 6 to 12 years, and “Athletics for Youth” for those aged 13 to 24 years. Priced at $130 and $180 per season respectively, the former will look into the development of athletics fundamentals through games and fun challenges, while the latter will guide participants towards training for specific track and field events of their choice. Both programmes will run 1.5-hour training sessions on weekday evenings from 6:30pm to 8:00pm and/or weekend afternoons from 4:30pm to 6:00pm, thrice a week. Registration will commence from Friday, 6 May 2016 on www.myactivesg.com.  
   
 Said Quek: “I am honoured to be appointed head coach of the ActiveSG (Distance Running) Athletics Club. This is an excellent opportunity to work with our youth not only in the technical aspects of track and field, but also a platform to guide them on the fundamental values and life skills that are so important in both long term sports development and life in general. Through a progressive and comprehensive year-round training programme, I hope that the athletes could raise the level of performance and build on the recent achievements of our distance runners.”  
   
@@ -35,7 +35,7 @@ Said Tan: "The idea of having an athletics club for the public is awesome. The o
 Participants of the ActiveSG Athletics Club will also be able to rub shoulders with and be inspired by some of Singapore’s home-grown track and field stars across generations. Coming onboard as Team Singapore Sport Ambassadors are Calvin Kang, C Kunalan, Dipna Lim-Prasad, Glory Barnabas, Kenneth Khoo, Lieu Teck Hua, Shanti Pereira, and U K Shyam, who will make their appearances at some training sessions to share their experiences, lend advice and motivate the youths.  
   
 
-**Annex A: ActiveSG Athletics Club Factsheet**  
+#### **Annex A: ActiveSG Athletics Club Factsheet**  
 
 **Overview**
 
@@ -49,14 +49,15 @@ Beyond acquiring an athletics skill set, the programmes will also help to develo
 | Age: 6 to 12 years | Age: 13 to 24 years |
 | About the programme | About the programme|
 | This introduces children to the basic components of athletics in a fun approach through games and age-appropriate instructions. It aims to develop children’s foundation in various athletic disciplines as well as for participation in all other sports. | This is for youth with basic exposure to the fundamentals of athletics and those with a keen interest to develop specific athletic abilities. Through the technical expertise of the club’s coaches, athletes will develop skills and perform to their best abilities. |
-| Outline | Outline | 
+
+| Outline | Outline |
+| -------- | -------- |
 | Development of athletics fundamentals through games and fun challenges | Train for specific athletics events of choice:<br>1.  Sprints <br>2.  Middle and long distance <br>3.  Field: jumps & throws |
 | Multi-discipline exposure (runs, jumps and throws) | Opportunities for cross-event training |
 | Mini-competitions within training sessions | *   Time-trials within training sessions |
 | $130* per season <br>3 times per week <br>Training sessions will be held on:<br>Weekday: 6:30pm – 8:00pm <br>Weekend: 4:30pm – 6:00pm<br>10 weeks (1.5 hours/session) | $180* per season <br>3 times per week <br>Training sessions will be held on:<br>Weekday: 6:30pm – 8:00pm <br>Weekend: 4:30pm – 6:00pm<br>10 weeks (1.5 hours/session) |
 
-_ActiveSG members can offset 30% of the fee with ActiveSG dollars._ 
-
+**_ActiveSG members can offset 30% of the fee with ActiveSG dollars._**
   
 
 **Training Venues**
@@ -68,4 +69,3 @@ Training sessions are held at five venues across the island: 
 *   Bukit Gombak Stadium
 *   Home of Athletics (Kallang Practice Track)
 *   Woodlands Stadium
-
