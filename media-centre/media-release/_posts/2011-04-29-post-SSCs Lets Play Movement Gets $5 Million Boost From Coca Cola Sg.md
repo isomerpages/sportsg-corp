@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore Sports Council's Let's Play Movement Gets S$5 Million Boost From Coca-Cola Singapore
-Singapore , 29 Apr 2011
+## **Singapore Sports Council's Let's Play Movement Gets S$5 Million Boost From Coca-Cola Singapore**
 
 SINGAPORE SPORTS COUNCIL'S LET'S PLAY MOVEMENT GETS S$5 MILLION BOOST FROM COCA-COLA SINGAPORE
 SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Communities
