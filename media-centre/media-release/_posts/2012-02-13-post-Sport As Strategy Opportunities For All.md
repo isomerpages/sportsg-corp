@@ -178,7 +178,29 @@ For media enquiries, please contact:
 | 21  | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation |
 | 22  | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer & Philanthropy Centre |
 | 23  | Mr Leslie Tan<br>Founder and Editor, Red Sports |
-| 24  | Ms Asmah Hanim binte Mohamad<br>Honorary Assistant Secretary, Singapore Athletic Association |
+| 24  | Ms Asmah Hanim binte Mohamad<br>Honorary Assistant Secretary, Singapore Athletic Association |For media enquiries, please contact:
+
+S. Parameswaran (Parames)
+<br>
+Assistant Director, Corporate Communications & Relations
+<br>
+Singapore Sports Council
+<br>
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
+
+Alvin Hang
+<br>
+Director, Corporate Communications & Relations
+<br>
+Singapore Sports Council
+<br>
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
+
+**About the Singapore Sports Council**
+
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
 
 
 
