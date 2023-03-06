@@ -138,3 +138,28 @@ _____________________________________________________
 | 17 | Football | 0 | 0 | 1 | 0 |
 | 18 | Boxing | 0 | 0 | 1 | 1 |
 ||Total: | 33 | 30 | 35 | 98 |
+
+**Annex C
+<br>
+List of Medal Winners**
+
+| Sport | Event	| Athletes	| Medal |
+| ---- | ---- | ---- | ---- |
+| Archery | Men's Compound | Adriel Chua Boon Rong |	Silver |
+| | Women's Recurve	| Vansessa Loh Tze Rong, Cheok Khang Keng Elizabeth, Wendy Tan Liu Jie and Wong Sook Wai Samantha | Silver |
+| Athletics | Men's Discus	| James Wong Tuck Yin	| Gold| 
+| | Women's Shot Put	| Zhang Guirong	| Gold |
+| | Men's 4x100m Relay	| Amiruddin Jamal	Silver, Izwan Firdaus,  Muhd Elfi Mustafa and Yeo Foo Ee | Gary |
+| Badminton | Women's Doubles	| Shinta Mulia Sari and Yao Lei | Silver |
+|| Men's Team | Ronald Susilo, Kendrick Lee Yen Hui, Hendri Kurniawan, Wong Zi Liang Derek, Hendra Wijaya, Ashton Chen Yong Zhao, Yeo Zhao Jiang Terry, Kelvin Ho Ying Chong, Tang Yew Loong Jonathan and Wong Hao Cong Jeffrey | Bronze|
+| | Women's Team | Li Li, Xing Aiying, Li Yujia, Zhang Beiwen, Liu Fan Frances, Shinta Mulia Sari, Fu Mingtian, Yao Lei, Vanessa Neo Yu Yan and Chen Jiayuan | Bronze |
+| Boxing | Lightweight Up to 60Kg |	Khairul Anuar bin Hamid |	Bronze |
+| Cuesports | Men's Snooker Doubles	| Ang Boon Chin	and Lim Chun Kiat | Gold |
+| | Men's Billiards Singles	| Peter Gilchrist	| Gold |
+| | Women's 9 Ball Pool Single |Charlene Chai | Silver |
+| | Men's Billiards Doubles |	Lim Chun Kiat	and Peter Gilchrist | Bronze |
+| | Men's 9 Pool Doubles	| Chan Keng, Kwang and Toh Lian Han | Bronze |
+| Cycling | Time Trial	| Dinah Chen Siew Keng	| Bronze |
+
+
+
