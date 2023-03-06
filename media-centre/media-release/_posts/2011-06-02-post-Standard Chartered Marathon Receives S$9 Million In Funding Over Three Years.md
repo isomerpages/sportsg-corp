@@ -6,16 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-Standard Chartered Marathon Singapore Receives S$9.75 Million In Funding Over Three Years
-Singapore , 02 Jun 2011
+## **Standard Chartered Marathon Singapore Receives S$9.75 Million In Funding Over Three Years**
 
 STANDARD CHARTERED MARATHON SINGAPORE RECEIVES S$9.75 MILLION IN FUNDING OVER THREE YEARS
 Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Local Running Event
 Singapore, 2 June 2011 - The sports community in Singapore will have more reasons to run, as Standard Chartered Bank (SCB) announced their continued support of the Standard Chartered Marathon Singapore (SCMS) with a S$9.75 million injection to the event and a three-year partnership with event organiser Singapore Sports Council (SSC) till 2013.
 
-2 Guest-of-Honour Major General (NS) Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, was on hand to witness this landmark announcement, heralding the largest-ever corporate sponsorship for a running event in Singapore.
+2. Guest-of-Honour Major General (NS) Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, was on hand to witness this landmark announcement, heralding the largest-ever corporate sponsorship for a running event in Singapore.
 
-3 Commenting on the continued support of the SCMS, Mr Ray Ferguson, Regional Chief Executive Officer (Singapore and Southeast Asia) Standard Chartered Bank said, "After a very successful inaugural SCMS in 2010, we are delighted to announce our continued support for the event as title sponsor. The marathon has been a great platform for engaging all our stakeholders, and it resonates with what we stand for as an organisation - courage, a 'can-do' attitude, partnership, leading by example and the determination to 'go the distance'. We want to be involved in the growth of the race and help develop this marathon as Asia's pinnacle race together with our partner and event organiser, Singapore Sports Council."
+3. Commenting on the continued support of the SCMS, Mr Ray Ferguson, Regional Chief Executive Officer (Singapore and Southeast Asia) Standard Chartered Bank said, "After a very successful inaugural SCMS in 2010, we are delighted to announce our continued support for the event as title sponsor. The marathon has been a great platform for engaging all our stakeholders, and it resonates with what we stand for as an organisation - courage, a 'can-do' attitude, partnership, leading by example and the determination to 'go the distance'. We want to be involved in the growth of the race and help develop this marathon as Asia's pinnacle race together with our partner and event organiser, Singapore Sports Council."
 
 4 Standard Chartered Bank's long-term commitment with marathons span over a decade, with the bank backing nine marathons globally, including the SCMS. The three-year sponsorship deal for the SCMS is one of the bank's largest and on-going sponsorships of a sports event in Singapore. The deal is a testament of the success and popularity of the Standard Chartered Marathon Singapore among Singaporeans.
 
@@ -64,4 +63,3 @@ Singapore Sports Council
 Office: (65) 6500 5241
 Email: tanty_nazlianah@ssc.gov.sg
 statics0
- 
