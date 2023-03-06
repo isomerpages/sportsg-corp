@@ -14,4 +14,3 @@ Vision 2030 began with this question: **“How can Sport best serve Singapore i
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
