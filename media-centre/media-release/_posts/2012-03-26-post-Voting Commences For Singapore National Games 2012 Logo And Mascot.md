@@ -60,3 +60,17 @@ I used the first letter of each word in the slogan 'Singapore National Games' as
 **School:** Singapore Polytechnic  
 **Rationale:**  
 My mascot's name is Kucinta. It is unique to Singapore but not many people of my age are aware of it. It being a street cat is part and parcel of the community, or used to be when people would play with street cats. This action shows the friendliness and warmth among the community during the kampong days. Furthermore, the name Kucinta consists of the term 'love', which symbolises the passion in sports and care for the community. I think Kucinta would serve as a good reminder of the good old days.
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo3.gif" style="width: 150px"  />
+
+**Designer**: Beatrice Cho
+**School**: Singapore Polytechnic
+**Rationale**:
+When we utter the word 'Lion' the first word that comes into our mind is strength. It also upholds many beliefs, such as courage, power, royalty and wisdom. Sang Nila Utama, founder of Singapore and the Merlion is the reason I decided to name my mascot 'Nila'. The SNG will create friendly rivalry and bring friendship to another level. These elements are infused and depicted in my mascot by the fiery mane and the heart shaped face. The fiery mane symbolises the burning passion of the athletes fighting to win. The heart-shaped face displays love which represents how people interact with one another and come together as a community.
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/nyp_logo1.gif" style="width: 150px"  />
+
+**Designer:** Lim Chi Yang  
+**School:** Nanyang Polytechnic  
+**Rationale:**  
+The character design was greatly inspired by the Singapore 2010 Youth Olympic Games' mascots. Therefore, the concept was to use the lion as a symbol of our nation, as it has an active and strong character. The orange colour used for the mascot represents passion and participation while the red fur represents competitiveness. I have named my mascot 'Jian Kang' to promote an active nation that leads a healthy lifestyle.
