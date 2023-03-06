@@ -104,22 +104,12 @@ Senior Awards
 | 15 | Meritorious Awards (Individual) | Daryl Tan Jia Jun| Taekwondo
 | 16 | Meritorious Awards (Individual) | Jason Tan Junwei | Taekwondo
 | 17 | Meritorious Awards (Individual) | Yong Yi Xiang | Wushu
-| 18 | Meritorious Awards (Individual) | 
-18
-
- 
-
-Fung Hui Xin| Wushu
-
-| 19 | Meritorious Awards (Individual) | 
-
- 
-
-Etienne Lee Zhe Xuan
+| 18 | Meritorious Awards (Individual) | Fung Hui Xin| Wushu
+| 19 | Meritorious Awards (Individual) | Etienne Lee Zhe Xuan
 
 Wushu
 
-20
+| 20 | Meritorious Awards (Individual) | 
 
  
 
