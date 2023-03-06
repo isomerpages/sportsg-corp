@@ -11,7 +11,7 @@ The first Centre of Expertise for Disability Sports was launched at the ActiveSG
   
 In conjunction with the launch, Sport Singapore will be introducing the “Yes! I Can” Swim Programme for persons with disabilities at the ActiveSG Sengkang Swimming Complex. There will be three public programmes and one programme for special education schools from June onwards. Participants will learn aquatic movement skills through engaging and fun activities, and benefit from more personalised attention in a small class size.  
   
-Mr Lim Teck Yin, CEO of Sport Singapore shared that this is part of the roadmap towards realising Vision 2030 in creating opportunities for everyone to Live Better through Sport. “Swimming is a great sport that is suited for people of different abilities. It is invigorating and develops a good sense of water confidence. The launch of this first Centre of Expertise at the ActiveSG Sengkang Sports Centre will be the first of more initiatives to come for para sports. In the coming months, selected ActiveSG Sports Centres and gyms will be retrofitted to be more inclusive. We will also be introducing more para-sports, such as Badminton, Boccia, Football and Goalball at different ActiveSG Sports Centres. We intend for inclusive sports programming to be the norm.”  
+Mr Lim Teck Yin, CEO of Sport Singapore shared that this is part of the roadmap towards realising Vision 2030 in creating opportunities for everyone to Live Better through Sport. “Swimming is a great sport that is suited for people of different abilities. It is invigorating and develops a good sense of water confidence. The launch of this first Centre of Expertise at the ActiveSG Sengkang Sports Centre will be the first of more initiatives to come for para sports. In the coming months, selected ActiveSG Sports Centres and gyms will be retrofitted to be more inclusive. We will also be introducing more para sports, such as Badminton, Boccia, Football and Goalball at different ActiveSG Sports Centres. We intend for inclusive sports programming to be the norm.”  
   
 **Disability Sports Master Plan**  
 
@@ -23,4 +23,4 @@ Greater emphasis will also be placed on developing professional capabilities in 
   
 Said Minister Grace Fu, “Sport has the ability to raise self-esteem and to inspire. Never have we felt its potential greater than at the ASEAN Para Games when we were inspired by the achievements of the athletes. Through the Disability Sports Master Plan, we want to harness the potential of sport further by making it easier for those with disabilities to lead an active lifestyle. Today’s launch is an important first step for us. In time to come, Singapore will become a more inclusive society, where persons of all abilities can enjoy sports together.”  
   
-A copy of the Disability Sports Master Plan can be found at www.mccy.gov.sg.
+A copy of the Disability Sports Master Plan can be found at [www.mccy.gov.sg](www.mccy.gov.sg).
