@@ -23,7 +23,7 @@ Live broadcast will be from 9 to 18 December 2009
 6. For more information on Team Singapore at the 25th SEA Games, please visit www.teamsingapore.com.sg
 
 **About Team Singapore**
-
+<br>
 Originally mooted by the then-Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
@@ -33,7 +33,7 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 For further information, please visit www.teamsingapore.com.sg
 
 **About the Singapore Sports Council**
-
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
 **For media enquiries, please contact:**
@@ -42,7 +42,7 @@ Lorna Campbell
 <br>
 Fulford PR
 <br>
-Email: lcampbell@fulfordpr.com
+Email: [lcampbell@fulfordpr.com](mailto:lcampbell@fulfordpr.com)
 
 Tanty Nazlianah Rosli
 <br>
@@ -50,13 +50,13 @@ Manager
 <br>
 Integrated Marketing Communications
 <br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Sheila Rasu
 <br>
 Fulford PR
 <br>
-Email: srasu@fulfordpr.com
+Email: [srasu@fulfordpr.com](mailto:srasu@fulfordpr.com)
 
 **Annex A**
 <br>
