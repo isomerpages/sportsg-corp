@@ -33,7 +33,7 @@ image: ""
 9. For further details of the SCMS 2011, please visit the Marathon's official website and Facebook page at [www.marathonsingapore.com](www.marathonsingapore.com) and [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG).
 
 
-* More charities will be added to the list for the 'Run for good' programme*
+[1} * More charities will be added to the list for the 'Run for good' programme*
 
 -End-
 
