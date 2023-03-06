@@ -15,17 +15,18 @@ The inaugural event is part of organiser Ironman Asia’s promise to enhance the
   
 At the SCMS Official Warm Up, runners will experience race day conditions with basic support such as water points, first-aid stations, and split start pens, along with an official timing that will offer a benchmark of their current performance, and what they need to do to achieve their personal bests.  
   
-A unique race for every runner  
+**A unique race for every runner**  
 Depending on their level of comfort, runners can choose a test run of either 5, 10, 15 or 21km, with a final cut-off time of three hours. the SCMS Official Warm Up flags off at the Singapore Sports Hub with staggered starts based on the individual’s race-time.  
   
 Pacers will guide runners as they cover the route that will begin at the iconic National Stadium, before turning onto Stadium Drive, Kallang Basin, and the historic Merdeka Bridge as they run along the meandering Kallang River, before turning returning to the starting point.  
   
 In addition to this test run, SCMS 2016 will also be hosting a series of workshops and running clinics to help runners learn more about nutrition, running techniques, training routines, recovery methods and more. These events, featuring expert speakers such as former New Zealand National triathlete Ben Pulham, aim to add value to the runners’ race preparations and provide a better race experience during the SCMS race day.  
   
-Registration for the SCMS Official Warm Up is now open on the SCMS website (www.marathonsingapore.com). SCMS 2016 registrants and Standard Chartered Bank cardholders enjoy special discounted rates ranging from S$25 to S$50. They will receive the official race pack consisting of a Brooks running tee, participant medal and race bib which records their official timing for the test run. Other runners can join the test run for a registration fee ranging from S$35 to S$60.  
+Registration for the SCMS Official Warm Up is now open on the [SCMS website](www.marathonsingapore.com). SCMS 2016 registrants and Standard Chartered Bank cardholders enjoy special discounted rates ranging from S$25 to S$50. They will receive the official race pack consisting of a Brooks running tee, participant medal and race bib which records their official timing for the test run. Other runners can join the test run for a registration fee ranging from S$35 to S$60.  
   
-For more information, please visit: www.marathonsingapore.com  
-Follow the race:  
+For more information, please visit: [www.marathonsingapore.com ](www.marathonsingapore.com ) 
+
+**Follow the race:**  
 Facebook: www.facebook.com/MarathonSG  
 Instagram: @MarathonSG  
 Twitter: @MarathonSG
