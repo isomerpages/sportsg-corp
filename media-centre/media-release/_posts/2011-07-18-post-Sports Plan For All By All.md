@@ -8,9 +8,6 @@ image: ""
 ---
 ### **"Sports Plan For All, By All"**
 
-18 Jul 2011
-
-
 Singapore, 18 July 2011 - Under a new initiative called 'Vision 2030', the Ministry of Community Development, Youth and Sports (MCYS) and the Singapore Sports Council (SSC) will work with the Public-Private-People sectors to jointly develop proposals on how sport can best serve Singapore's future needs.
 
 2. Sports will be used as a strategy for individual development, community bonding and nation building in the next two decades. Vision 2030 will incorporate considerations of Singapore's future challenges, including an ageing population; the pressure of living in an increasingly urban environment; higher expectations from individuals regarding the quality of life and a shrinking workforce with rising demands regarding job satisfaction.
@@ -36,36 +33,22 @@ vii. Organising for Success
 
 9. The sports masterplan is expected to be ready in early 2012.
 
-Quotes from V2030 Steering Committee Members
+##### **Quotes from V2030 Steering Committee Members**
  
+> **"I am happy to be part of the steering committee looking at exploring the full potential of sport for the community. I feel that sport should take root from the ground up. Sports participation rising from community level will help people see and feel the real benefits of sport. And, sports initiatives need not take a top-down approach. I have seen peer-led programmes have greater success. When a group of friends gets together to organise a sporting activity, the level of acceptance and engagement is far more reaching."**
 
-"I am happy to be part of the steering committee looking at exploring the full potential of sport for the community. I feel that sport should take root from the ground up. Sports participation rising from community level will help people see and feel the real benefits of sport. And, sports initiatives need not take a top-down approach. I have seen peer-led programmes have greater success. When a group of friends gets together to organise a sporting activity, the level of acceptance and engagement is far more reaching."
-
-Mr Andre Ahchak
+Mr Andre Ahchak<br>
 Senior Director at VOX Group Pte Ltd
 
- 
 
- 
+> **"Sport is not about chasing medals or glory. We should move away from this ideology of sport being a means to an end. Everyone, especially children, should be able to play sports. Not just one sport, but more sports. They should enjoy sports, and not feel pressured by it. This is a very important mindset change that will lead people to realise the true value of sport. The committee has convened at the right time and we want the public at large to share their ideas with us and be part of the change. At NVPC, we would also like to see a lot more sports volunteers and donors, as sports can truly engage the entire Singapore community."**
 
-"Sport is not about chasing medals or glory. We should move away from this ideology of sport being a means to an end. Everyone, especially children, should be able to play sports. Not just one sport, but more sports. They should enjoy sports, and not feel pressured by it. This is a very important mindset change that will lead people to realise the true value of sport. The committee has convened at the right time and we want the public at large to share their ideas with us and be part of the change. At NVPC, we would also like to see a lot more sports volunteers and donors, as sports can truly engage the entire Singapore community."
-
-Mr Laurence Lien
-
+Mr Laurence Lien<br>
 CEO, National Volunter and Philanthropy Centre
 
- 
+> **"Whether you play sports with your friends on weekends or play at major competitions, the underlying reason why everyone engages in sports is because it is fun. The uniqueness of sports is that while it is fun, it teaches very important life-skills such as time management, critical thinking, creativity and teamwork, just to name a few. Sports really prepares us for the future. Sports also unites families, friends, communities and the nation as it transcends beyond barriers, like social status and, mental and physical abilities. That's the beauty of sports. The committee, with the views from the public, will see how we can harness the values of sport and appreciate them."**
 
- 
-
-"Whether you play sports with your friends on weekends or play at major competitions, the underlying reason why everyone engages in sports is because it is fun. The uniqueness of sports is that while it is fun, it teaches very important life-skills such as time management, critical thinking, creativity and teamwork, just to name a few. Sports really prepares us for the future. Sports also unites families, friends, communities and the nation as it transcends beyond barriers, like social status and, mental and physical abilities. That's the beauty of sports. The committee, with the views from the public, will see how we can harness the values of sport and appreciate them."
-
-Mrs Jessie Phua
-
+Mrs Jessie Phua<br>
 Council Member, Singapore National Olympic Council
-
- 
-
--End-
 
 Annex A: Vision 2030 Steering Committee Members
