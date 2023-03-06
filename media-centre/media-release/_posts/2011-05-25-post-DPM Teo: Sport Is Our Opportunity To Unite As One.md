@@ -49,18 +49,7 @@ Senior Awards
 | 02     | Sportswoman of the Year     | Jasmine Ser Xiang Wei     |  Shooting     |
 | 03 | Coach of the Year | William Woo Nam Fatt | Bowling
 | 04 | Team of the Year (Event) | National Table Tennis Women's Team <br>Feng Tianwei <br>Wang Yueg <br>Sun Beibei <br>Yu Mengyu <br>Li Jiawei  | Table Tennis
-
- 
-
-05
-
-Meritorious Awards (Individual)
-
-Cherie Tan Shi Hua
-
- 
-
-Bowling
+| 05 | Meritorious Awards (Individual) | Cherie Tan Shi Hua | Bowling
 
 06
 
