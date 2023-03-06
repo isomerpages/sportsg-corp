@@ -8,9 +8,9 @@ description: ""
 image: ""
 ---
 ### **NBA partners with Sport Singapore to bring Jr NBA to Singapore Youth for the first time**
-The National Basketball Association (NBA) and Sport Singapore today announced a partnership to bring the Jr. NBA to Singapore for the first time. The Jr. NBA, the league’s global youth basketball participation program for boys and girls, teaches the fundamental skills as well as the core values of the game at the grassroots level in an effort to help grow and improve the youth basketball experience for players, coaches and parents. Jr. NBA Singapore 2016 will tip off July 27 at Choa Chu Kang Sports Hall and run through September.
+The National Basketball Association (NBA) and Sport Singapore today announced a partnership to bring the Jr. NBA to Singapore for the first time. The Jr. NBA, the league’s global youth basketball participation program for boys and girls, teaches the fundamental skills as well as the core values of the game at the grassroots level in an effort to help grow and improve the youth basketball experience for players, coaches and parents. Jr. NBA Singapore 2016 will tip off 27 July at Choa Chu Kang Sports Hall and run through September.
 
-![](/images/Media%20Centre/Media%20Release/2016/Jr%20NBA%20programme%20Singapore_ActiveSG%20Basketball%20Academy_Rv1.jpeg)
+![](/images/Media%20Centre/Media%20Release/2016/July/Jr%20NBA%20programme%20Singapore_ActiveSG%20Basketball%20Academy_Rv1.jpeg)
 
 The Jr. NBA is currently being conducted across Southeast Asia in Indonesia, Malaysia, Philippines, Thailand and Vietnam. Participants are trained in the fundamentals of basketball and learn the importance of the Jr. NBA’s core values, including sportsmanship, teamwork, a positive attitude, and respect. To date, the programme has reached more than 1.5 million kids, parents and coaches across Southeast Asia through camps, clinics, and NBA Cares community outreach activities, and aims to reach five million kids by 2020.  
   
