@@ -35,3 +35,131 @@ Singapore, 25 March 2012 - More than 500 participants from 44 teams competed for
 11. NCC 2012 is held in conjunction with the Let's Play movement, an initiative by SSC to encourage all Singaporeans to embrace a sporting lifestyle, be it through playing, watching, cheering or volunteering for sports.
 
 -END-
+
+**Annex A - Results List of the National Cheerleading Championships 2012**
+
+<table border="1" cellspacing="0" cellpadding="0" width="529">
+    <tbody>
+        <tr>
+            <td colspan="2" valign="top" style="background-color: #bfbfbf;">
+            <p style="line-height: normal;"><strong><span style="font-size: 9pt; font-family: Verdana, sans-serif;">'Competitive'
+            Cheerleading Segment</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Partner
+            Stunts - Open</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> <span class="SpellE">Ulu</span> <span class="SpellE">Pandan</span> Wildcards
+            (Gary and Jasmine)<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> <span class="SpellE">Ulu</span> <span class="SpellE">Pandan</span> Wildcards
+            (Ochi and <span class="SpellE">Joline</span>)<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> Avatar</span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Group
+            Stunts - All Female</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> KR Steppers<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> SMU Flare Team Gold<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> &nbsp;Alpha <span class="SpellE">Vimbz</span></span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Group
+            Stunts - Mixed </span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> <span class="SpellE">Ulu</span> <span class="SpellE">Pandan</span> Wildcards<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> ASTROS<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> Legacy All Stars</span></p>
+            <p style="line-height: normal;">
+            <br>
+            </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Team
+            - Primary School</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> Shooting Stars from St. Hilda?s Primary<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> MG Dazzlers Senior from MGS Primary<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> MG Dazzlers Junior from MGS Primary</span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Team
+            - Secondary School &amp; Junior College</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> MG Sizzlers from MGS Secondary<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> <span class="SpellE">Avengerz</span> from <span class="SpellE">Ang</span> Mo Kio
+            Secondary</span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Team
+            - Institute of Higher Learning</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> SP Gusto Team A<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> NP Magnum Force Team Gold<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> <span class="SpellE">NTU</span> Aces</span></p>
+            <p style="line-height: normal;">&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Team
+            - Open </span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> <span class="SpellE">Ulu</span> <span class="SpellE">Pandan</span> Wildcards<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> KR Steppers<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> <span class="SpellE">Denvers</span></span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" valign="top" style="background-color: #bfbfbf;">
+            <p style="line-height: normal;"><strong><span style="font-size: 9pt; font-family: Verdana, sans-serif;">'Freestyle' Cheering Segment</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Community</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> <span class="SpellE">Albirex</span> Cheerleading School from <span class="SpellE">Yuhua</span> Constituency<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> <span class="SpellE">Davengerz</span> from <span class="SpellE">Potong</span> <span class="SpellE">Pasir</span> Constituency<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> Young Heart from <span class="SpellE">Jalan</span> <span class="SpellE">Besar</span> Constituency</span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 214px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">Open</span></p>
+            </td>
+            <td valign="top" style="width: 315px;">
+            <p style="line-height: normal;"><span style="font-size: 9pt; font-family: Verdana, sans-serif;">1<sup>st</sup> KR Steppers from <span class="SpellE">NUS</span> Kent Ridge Hall<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">2<sup>nd</sup> AC Pistols from ACS(I)<br>
+            </span><span style="font-size: 9pt; font-family: Verdana, sans-serif;">3<sup>rd</sup> Genesis from <span class="SpellE">ITE</span> College East</span></p>
+            <p style="line-height: normal;"></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
