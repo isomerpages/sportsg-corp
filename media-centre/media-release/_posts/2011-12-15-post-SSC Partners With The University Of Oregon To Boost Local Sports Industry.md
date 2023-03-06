@@ -137,7 +137,8 @@ Baseball, Basketball, Cross country, Football, Golf, Tennis, Track and field
 Women's Sports
 Acrobatics & Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softball, Tennis, Track and field, Volleyball
 
-Club Sports
+**Club Sports**
+
 Archery
 Badminton
 Baseball
@@ -152,8 +153,6 @@ Disc golf
 Equestrian
 Fencing
 Golf
-
-
 Ice hockey
 Jiu jitsu
 Juggling
@@ -168,8 +167,6 @@ Running
 Sailing
 Scuba
 Skiing (Alpine)
-
-
 Snowboarding
 Soccer
 Softball
@@ -183,4 +180,3 @@ Volleyball
 Waterpolo
 Waterski-Wakeboard
 Wushu
-
