@@ -180,3 +180,43 @@ Volleyball
 Waterpolo
 Waterski-Wakeboard
 Wushu
+
+Annex B: Profile of Paul Swangard
+
+	Paul Swangard
+Paul Swangard is the Woodard Family Foundation Sports Business Fellow and the Managing Director of the James H. Warsaw Sports Marketing Centre. Since 2001, he has led the day-to-day operations of the internationally recognised center. He teaches both at the undergraduate and graduate level and serves as one of the centre's primary industry analysts on sports business issues.
+
+His comments on the industry have appeared in numerous publications including the Wall Street Journal, New York Times and USA Today along with appearances on ABC's Nightline, ESPN's Outside the Lines, CNBC's Power Lunch and NBC's Olympic Games coverage. In addition to numerous consulting projects with leading sports firms including EA Sports and Bandon Dunes Golf Resort, Swangard is a frequent guest speaker and lecturer who has taught courses in both Europe and Asia including Executive Education programs for the Chinese Olympic Committee.
+
+Prior to the Warsaw Centre, Swangard was an award-winning sports journalist and freelance broadcaster. He is also considered as one of the United State's top track and field public address announcers having called dozens of major meets including the US Track and Field Indoor and Outdoor Championships, the Millrose games, Prefontaine Classic (IAAF Samsung Diamond League), adidas Grand Prix (IAAF Samsung Diamond League) and the USA Olympic Track and Field trials. A Eugene native, Swangard received his bachelors in Broadcast Journalism from the University of Oregon in 1990 and his MBA with a concentration in Sports Business from the University of Oregon in 1999.
+
+For media enquiries, please contact:
+
+**Patricia Yee**
+<br>
+Executive, Media Relations
+<br>
+Singapore Sports Council
+<br>
+Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
+
+**S. Parameswaran (Parames)**
+<br>
+Assistant Director, Media Relations
+<br>
+Singapore Sports Council
+<br>
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
+
+
+About the Singapore Sports Council
+
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
+
+Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
+
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
