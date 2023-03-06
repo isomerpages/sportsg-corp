@@ -46,36 +46,8 @@ Senior Awards
 | S/N | Awards | Awardees | Sports |
 | -------- | -------- | -------- | -------- |
 | 01     | Sportsman of the Year     | Gai Bin     |  Shooting     |
-
-
-
-
-
-Sportsman of the Year
-
-
-
-
-
- 
-
-02
-
-Sportswoman of the Year
-
-Jasmine Ser Xiang Wei
-
-Shooting
-
- 
-
-03
-
-Coach of the Year
-
-William Woo Nam Fatt
-
-Bowling
+| 02     | Sportswoman of the Year     | Jasmine Ser Xiang Wei     |  Shooting     |
+| 03 | Coach of the Year | William Woo Nam Fatt | Bowling
 
  
 
