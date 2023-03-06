@@ -4,7 +4,6 @@ permalink: /singapore-sports-institute/high-performance-planning/
 description: ""
 third_nav_title: High Performance Sports
 ---
-
 The High Performance Sport System aims to provide the best support to Team Singapore athlete so that they can fulfil their sporting aspirations and to inspire the Singapore Spirit.
 
 **Periodisation Programme**
@@ -25,7 +24,7 @@ All athletes must be nominated by their respective National Sports Associations 
 
 **Multiple Achievements:**
 
-Consideration for High Performance Sports pathway support is based on the athlete’s profile / potential to achieve at the Major games or its equivalent. Performance is assessed based on the athlete’s holistic achievement profile and not on just a single point of achievement during the assessment period.
+Consideration for High-Performance Sports pathway support is based on the athlete’s profile / potential to achieve at the Major games or its equivalent. Performance is assessed based on the athlete’s holistic achievement profile and not on just a single point of achievement during the assessment period.
 
 **Sport Excellence Scholarship (spexScholarship)**
 
