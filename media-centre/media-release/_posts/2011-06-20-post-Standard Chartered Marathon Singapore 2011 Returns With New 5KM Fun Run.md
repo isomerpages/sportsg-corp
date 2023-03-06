@@ -42,9 +42,9 @@ About the Singapore Sports Council
 
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
+To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and SingaporeSports.sg
 <br>
-Follow SSC on Twitter at: www.twitter.com/singaporesports and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
+Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/singaporesports )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
 <br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
