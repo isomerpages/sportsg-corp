@@ -48,26 +48,7 @@ Senior Awards
 | 01     | Sportsman of the Year     | Gai Bin     |  Shooting     |
 | 02     | Sportswoman of the Year     | Jasmine Ser Xiang Wei     |  Shooting     |
 | 03 | Coach of the Year | William Woo Nam Fatt | Bowling
-
- 
-
-04
-
-Team of the Year (Event)
-
-National Table Tennis Women's Team
-
-Feng Tianwei
-
-Wang Yuegu
-
-Sun Beibei
-
-Yu Mengyu
-
-Li Jiawei
-
-Table Tennis
+| 04 | Team of the Year (Event) | National Table Tennis Women's Team <br>Feng Tianwei <br>Wang Yueg <br>Sun Beibei <br>Yu Mengyu <br>Li Jiawei  | Table Tennis
 
  
 
