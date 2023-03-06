@@ -8,7 +8,7 @@ image: ""
 ---
 #### **Voting Commences For Singapore National Games 2012 Logo And Mascot**
 
-Singapore, 26 March 2012 - The public can now vote for the logo and mascot designs for the inaugural Singapore National Games (SNG)! They can take part in an online public voting at SNG's official website: singaporenationalgames.sg from today till 8 April, and choose the SNG logo and mascot designs they like best.
+Singapore, 26 March 2012 - The public can now vote for the logo and mascot designs for the inaugural Singapore National Games (SNG)! They can take part in an online public voting at SNG's official website: [singaporenationalgames.sg](singaporenationalgames.sg) from today till 8 April, and choose the SNG logo and mascot designs they like best.
 
 2. The SNG is a community-based multi-sports competition jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, as well as 10 National Sports Associations (NSAs). Held once every two years, the SNG will offer sports enthusiasts of all ages an opportunity to be part of Singapore's exciting sporting landscape. The SNG 2012 will take place from 1 September to 9 September 2012, and community teams from 15 clusters will pit against each other in ten sports.
 
@@ -21,3 +21,4 @@ Singapore, 26 March 2012 - The public can now vote for the logo and mascot desig
 6. The winners of the logo and mascot contest will be announced on 15 April 2012 during the launch of the Community Games 2012 which serves as the qualifying round for SNG 2012. Participants with the winning designs will each receive $1,000 cash and an internship opportunity at Publicis Singapore.
 
 -END-
+
