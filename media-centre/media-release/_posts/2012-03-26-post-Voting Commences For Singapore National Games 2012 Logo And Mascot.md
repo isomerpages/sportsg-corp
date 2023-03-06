@@ -22,3 +22,4 @@ Singapore, 26 March 2012 - The public can now vote for the logo and mascot desig
 
 -END-
 
+#### **Annex A: SNG - Shortlisted Logo Designs**
