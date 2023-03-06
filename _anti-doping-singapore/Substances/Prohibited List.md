@@ -11,6 +11,7 @@ The List of Prohibited Substances and Methods, updated annually by the World Ant
 For easier access, the List is now available on the various mobile devices and platforms. Visit the Prohibited List [mobile site](http://list.wada-ama.org/) or download the application for iPhones.
 
 **PRINCIPLE OF STRICT LIABILITY**
+
 Athletes should know that, under the Code, they are strictly liable whenever a prohibited substance is found in their urine or blood sample. This means that a violation occurs whether or not the athlete intentionally, knowingly or unknowingly, used a prohibited substance or was negligent or otherwise at fault. It is therefore very important for athletes to understand not only what is prohibited, but also what might potentially cause an inadvertent doping violation.
 
 Athletes should always check with their International Federation or Anti-Doping Singapore (ADS) to find out what additional substances and methods are prohibited in their sport.  Athletes should always make their doctor aware that they are athletes and about using drugs in the List. Those who are unsure of what a product contains should not take it until they are sure it is not prohibited. Ignorance is never an excuse.
