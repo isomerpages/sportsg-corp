@@ -8,6 +8,8 @@ image: ""
 ---
 ### **Greater Opportunities For The Community To Play Sports On Ice**
 
+![](/images/Media%20Centre/Media%20Release/2012/May/skatestar.gif)
+
 *SkateStar Programme to Introduce Ice Skating to the Heartlands*
 	
 Singapore, 2 April 2012 - The Rink, Singapore's first Olympic-size ice rink located at the country's newest mall JCube in Jurong East, opened its doors to the public today with plenty in store for the community at large.
