@@ -53,12 +53,7 @@ Senior Awards
 | 06 | Meritorious Awards (Individual)| Remy Ong | Bowling
 | 07  | Meritorious Awards (Individual)  | Peter Edward Gilchrist  | Billiards
 | 08 | Meritorious Awards (Individual) | Lim Heem Wei  | Gymnastics
-
-09
-
-Chan Thuang Tong David-Jonathan
-
-Gymnastics
+| 09 | Meritorious Awards (Individual) | Chan Thuang Tong David-Jonathan | Gymnastics
 
 10
 
