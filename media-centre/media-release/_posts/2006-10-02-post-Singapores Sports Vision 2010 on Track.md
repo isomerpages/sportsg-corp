@@ -35,7 +35,7 @@ SSC will be strengthening the integration of sports participation and excellence
 In line with SSC's focus on strengthening integrating sports participation and excellence programmes for children and youth, the SSC has set up a Youth Sport Development Division. "Currently, sports participation and excellence programmes undertaken by sports partners in the children and youth age groups are not strongly linked. This presents an opportunity for us to develop a larger pool of sports talents as we create more opportunities and encourage more children and youth to play sport, to play it longer, and to play it better along the athlete development pathway," added Oon.
 
 
-Enclosures
+**Enclosures**
 <br>
 [Sports Participation Rate and Major Games Medal Tally & Ranking](/files/Media%20Centre/Media%20Release/2006/October/2OctMREnc.pdf)
 
