@@ -26,7 +26,7 @@ The establishment of the ADSF builds upon the first International Foundation of 
 
 
 **For more information, please contact:**
-
+<br>
 Singapore Disability Sports Council
 <br>
 Daphne Lim
@@ -67,9 +67,8 @@ HP : 9431 6141
 
 
 
-***About Sailability Singapore***
+**About Sailability Singapore**
 <br>
-
 *Based in Changi Sailing Club, the Sailability Singapore programme was launched to introduce sailing to the disabled community in Singapore and realize their inclusion in sports and recreation. The programme was made possible by Singapore Disability Sports Council, with the support of Singapore Sports Council, Singapore Sailing Federation, Changi Sailing Club and the sponsorship of a few corporations, namely the Neptune Orient Line Group. It is Sailability Singapore's vision that one day, more and more people with disabilities can participate in sailing and excel in the sports at various regional and international regattas and championships.*
 
 **About Singapore Disability Sports Council (SDSC)**
