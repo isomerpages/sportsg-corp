@@ -70,14 +70,14 @@ It is time to break the silence on family violence. Everyone can play their part
 If you are, or someone you know is experiencing family violence, you can contact/access:
 
 **Family Violence Specialist Centres**
-PAVE: 6555 0390
-TRANS SAFE Centre: 6449 9088
-Care Corner Project StART: 6476 1482
+* PAVE: 6555 0390
+* TRANS SAFE Centre: 6449 9088
+* Care Corner Project StART: 6476 1482
 
 **Child Protection Specialist Centres**
-Big Love: 6445 0400
-HEART@Fei Yue: 6819 9170
-ComCare Call at 1800 222 0000
-[http://www.stopfamilyviolence.sg](http://www.stopfamilyviolence.sg)
+* Big Love: 6445 0400
+* HEART@Fei Yue: 6819 9170
+* ComCare Call at 1800 222 0000
+* [http://www.stopfamilyviolence.sg](http://www.stopfamilyviolence.sg)
 
 However, in the event that a life is in danger, call the Police immediately.
