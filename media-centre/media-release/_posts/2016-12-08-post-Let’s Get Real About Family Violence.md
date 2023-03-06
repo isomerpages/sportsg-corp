@@ -40,7 +40,7 @@ The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies worki
   
 On 16 November 2016, Minister for Social and Family Development Mr Tan Chuan-Jin launched a three-year “Break the Silence” campaign with a focus on the bystanders of family violence. These bystanders are people (who may be friends, family, neighbours, co-workers or even strangers) who witness family violence, or know about it (e.g. heard from a third party) but may not know how to respond to this situation.  
   
-MSF wants to bring home the message that family violence is not a private matter. To this end, MSF has:
+**MSF wants to bring home the message that family violence is not a private matter. To this end, MSF has:**
 
 a. Launched “First Steps” video on social media platforms (MSF Youtube and MSF Facebook)
 
@@ -53,7 +53,7 @@ c. Continued to rove community roadshows to educate the public about what family
 
 d. Continued to rove “Breaking my silence” - a roving family-violence themed art exhibition. This exhibition comprises artwork by survivors of family violence, who reside in a crisis shelter. The art work is very telling of their pain, fear, isolation, sadness, struggles, courage, hopes and dreams. After touring the art exhibition, viewers can place a sticker on a pledge board, as their personal pledge that they will proactively act if they witness family violence happening in their midst.  
   
-MSF also wants to equip bystanders with resources on how to safely step in, to help those who may be affected by family violence:
+**MSF also wants to equip bystanders with resources on how to safely step in, to help those who may be affected by family violence:**
 
 a. MSF has rolled out a new suite of collaterals targeting potential bystanders of family violence, so that bystanders are equipped to become active agents of change in stopping family violence.  
   
