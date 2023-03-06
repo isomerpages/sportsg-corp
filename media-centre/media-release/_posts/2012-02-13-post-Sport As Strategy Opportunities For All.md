@@ -89,7 +89,7 @@ Enhance SSC sports facilities through the use of universal design principles to 
 -END-
 
 
-Annex A - About Vision 2030
+**Annex A - About Vision 2030**
 
 Vision 2030 is a joint project led by the Singapore Sports Council and the Ministry of Community Development, Youth and Sports with active participation from the public, people and private sectors. From July 2011, the Vision 2030 Team engaged in discussions with people from all walks of life, from executives to parents to youth to civil servants. We met with sports leaders, urban planners, teachers, volunteers, doctors, retirees and stay-at-home mums. We began every conversation with a basic question: How could sport best serve Singapore in the coming decades?
 
@@ -98,10 +98,6 @@ At Vision 2030, we believe that sport can help to maintain Singapore's social in
 By its very nature, sport develops the attributes that we want and need to compete in the evolving global conditions: a winning spirit, a respect for teamwork, a commitment to leadership and, yes, a love of country. These are principles that we want firmly rooted, not just in our athletes but throughout our society, in our workforce, our professionals, our educators, our policy planners and our uniformed and public service officers.
 
 This is the spirit of Vision 2030. Live better through sports.
-
-Annex B - Vision 2030 Preliminary Recommendations
-
-Click here to view the recommendations.
 
 Annex C - Vision 2030 Engagements
 
@@ -154,3 +150,27 @@ Breakfast dialogue session hosted by Acting Minister, MCYS, with news editors
 Engagement session with corporate organisations, Voluntary Welfare Organisations and NSAs
 
 Annex D - Vision 2030 Steering Committee Members
+
+For media enquiries, please contact:
+
+**S. Parameswaran (Parames)**
+<br>
+Assistant Director, Corporate Communications & Relations
+<br>
+Singapore Sports Council
+<br>
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
+
+**Alvin Hang**
+<br>
+Director, Corporate Communications & Relations
+<br>
+Singapore Sports Council
+<br>
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
+
+**About the Singapore Sports Council**
+
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
