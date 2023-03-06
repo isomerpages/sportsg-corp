@@ -19,26 +19,21 @@ Said Mr. Baey, “Sport has the power to improve lives and make a difference in 
   
 As Ms. Syptak-Ramnath said “Gender violence doesn’t take place in a vacuum. It’s often an extension of existing gender barriers and stereotypes that confine men and women to pre-determined roles and harmful relationships. That’s why programs like SportCares are so important in changing this paradigm as they teach girls the skills and inner strength to succeed on and off the playing field, and at the same time they remind boys and girls alike that teamwork and mutual respect knows no gender. That’s an important first step in building strong communities for the future, with empowered and informed citizens who can stand up together against family violence, wherever it occurs. U.S. Embassy Singapore is proud to join our partners in shining a spotlight on this important issue.  
   
-MSF’s collaboration with SportCares on the football camp is an important outlet for their campaign Break The Silence | Against Family Violence to reach the wider community. “When girls feel afraid of their partners, they often share their fears with close friends and family members first. Our collaboration with partners like SportCares can drive the message that those close to the victims, and even bystanders like neighbours, have an important role to play in preventing family violence. Simple acts like keeping a closer look-out for early warning signs or sharing the helpline numbers can help save lives. We hope more will realise that family violence is not a private matter, and that we can all help to prevent, detect and report abuse,” said Ms. Jasmin Lopez, Senior Assistant Director, Rehabilitation and Protection Group of MSF.  
+MSF’s collaboration with SportCares on the football camp is an important outlet for their campaign Break The Silence `|` Against Family Violence to reach the wider community. “When girls feel afraid of their partners, they often share their fears with close friends and family members first. Our collaboration with partners like SportCares can drive the message that those close to the victims, and even bystanders like neighbours, have an important role to play in preventing family violence. Simple acts like keeping a closer look-out for early warning signs or sharing the helpline numbers can help save lives. We hope more will realise that family violence is not a private matter, and that we can all help to prevent, detect and report abuse,” said Ms. Jasmin Lopez, Senior Assistant Director, Rehabilitation and Protection Group of MSF.  
   
 National track star Dipna Lim Prasad hopes her journey as a sportswoman can inspire the girls to have a voice and speak out against family violence. “I want the girls to know that like me, each of them is strong enough, skilful enough and capable enough and that they are worthy of the accolades they deserve. I hope whatever I’ve shared earlier can help instill worth in the girls because if someone doesn’t feel worthy, they might be subjected to something that they don’t deserve, just because they don’t have the courage or strength to say otherwise.”  
   
 Ong Shixuen, 10-year-old camp participant shared, “I had a lot of fun and made many new friends at the camp. What surprised me was that I learnt so much from the sharing session on family violence. I should not be afraid of speaking out if my friends or I are facing any form of violence. The violence does not define me as a person, and it should not stop me from striving to become better.”  
-  
-  
+#### **About SportCares**
 
-####
-
-  
-  
-About SportCares  
 SportCares Foundation is the philanthropic arm of Sport Singapore (SportSG) and was officially established in October 2012 as a key recommendation of SportSG’s Vision 2030: Live Better Through Sport master plan. SportCares is at the heart of a growing national movement to use sport for social good. With support from partners in the community and corporate sectors, SportCares has organised programmes and projects that have touched the lives of more than 8,000 underprivileged children and youth. While each programme has its unique characteristics, SportCares’ mission has never varied: to empower people in need, by providing opportunities for social inclusion and community bridging through sport.  
   
-About Break The Silence | Against Family Violence Campaign  
-MSF has launched a three-year campaign, called “Break the Silence – Against Family Violence.” This targets all persons who witness or know about accounts of family violence. More details on the campaign can be found in Annex A.  
+About Break The Silence `|` Against Family Violence Campaign  
+MSF has launched a three-year campaign, called “Break the Silence - Against Family Violence.” This targets all persons who witness or know about accounts of family violence. More details on the campaign can be found in Annex A.  
   
-About U.S. Embassy Singapore  
-The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at http://singapore.usembassy.gov.  
+**About U.S. Embassy Singapore**
+
+The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at [http://singapore.usembassy.gov](http://singapore.usembassy.gov).  
   
 **Annex A**  
 “BREAK THE SILENCE” CAMPAIGN  
