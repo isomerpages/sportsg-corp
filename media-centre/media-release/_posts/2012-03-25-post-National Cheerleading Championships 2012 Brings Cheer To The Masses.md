@@ -9,6 +9,8 @@ image: ""
 ### **National Cheerleading Championships 2012 Brings Cheer To The Masses**
 
 *Seniors and Youths Came Together to Compete in the First Ever Freestyle Cheering Contest for the Community*
+
+![](/images/Media%20Centre/Media%20Release/2012/Mar/cheerleading.gif)
 	
 Singapore, 25 March 2012 - More than 500 participants from 44 teams competed for top honours in their respective divisions at the National Cheerleading Championships (NCC) 2012. Organised by the Singapore Sports Council (SSC) and Federation of Cheerleading (Singapore), this year's participation field was the largest in the three-year history of the competition, and featured a brand new category for the community to participate in under the event's 'Freestyle' cheering segment.
 
