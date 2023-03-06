@@ -7,3 +7,5 @@ description: ""
 image: ""
 ---
 ### **Singapore Celebrates 1000th BCA Green Mark Building Project**
+
+*Pasir Ris Residents 'Walk the Green Talk' to Celebrate Pasir Ris Sports nd Recreation Centre's Achievement on being Singapore's 1000th Green Building*
