@@ -9,7 +9,7 @@ image: ""
 ### **Let’s Get Real About Family Violence**
 Through the influence and reach of football, SportCares had an important conversation today about family violence to a group of girls and young women.  
 
-In partnership with the Ministry of Social and Family Development (MSF) and the U.S. Embassy Singapore, SportCares hosted a one-day football camp themed “Play Like a Girl, Break The Silence `|` Against Family Violence” for some 130 low-income girls and young women from various community groups.  
+In partnership with the Ministry of Social and Family Development (MSF) and the U.S. Embassy Singapore, SportCares hosted a one-day football camp themed “Play Like a Girl, Break The Silence - Against Family Violence” for some 130 low-income girls and young women from various community groups.  
   
 Donning orange jerseys in a show of solidarity with the United Nations #OrangeTheWorld initiative, the girls and young women participated in a series of football activities and games led by Chris Yip-Au, SportCares Saturday Night Lights coach and national women’s football player. They also participated in a sharing session on cultivating self-confidence and self-respect involving AWARE and Team Singapore athletes, Dipna Lim Prasad and Micky Lin.  
   
@@ -28,7 +28,8 @@ Ong Shixuen, 10-year-old camp participant shared, “I had a lot of fun and made
 
 SportCares Foundation is the philanthropic arm of Sport Singapore (SportSG) and was officially established in October 2012 as a key recommendation of SportSG’s Vision 2030: Live Better Through Sport master plan. SportCares is at the heart of a growing national movement to use sport for social good. With support from partners in the community and corporate sectors, SportCares has organised programmes and projects that have touched the lives of more than 8,000 underprivileged children and youth. While each programme has its unique characteristics, SportCares’ mission has never varied: to empower people in need, by providing opportunities for social inclusion and community bridging through sport.  
   
-About Break The Silence `|` Against Family Violence Campaign  
+**About Break The Silence - Against Family Violence Campaign**
+
 MSF has launched a three-year campaign, called “Break the Silence - Against Family Violence.” This targets all persons who witness or know about accounts of family violence. More details on the campaign can be found in Annex A.  
   
 **About U.S. Embassy Singapore**
