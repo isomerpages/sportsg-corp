@@ -24,7 +24,7 @@ image: ""
 
 6. Online registration for the SCMS 2011 is ongoing with the Early Bird period ending on 20 July. Walk-in registration is also available at selected SSC Sports & Recreation Centres (SRCs).
 
-'Run for good' introduces new platform
+**'Run for good' introduces new platform**
 
 7. Along with creating an event that involves the community on a whole, the SSC is looking to translate the growing involvement to having participants taking part in the race with an additional purpose. Charity has always been part of the event, but to encourage more runners to be involved with its 'Run for good' programme, the SSC has introduced a brand new concept hosted on the online platform GIVE.sg, the Official Charity Fundraising Platform for 2011.
 
