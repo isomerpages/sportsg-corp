@@ -99,54 +99,17 @@ Senior Awards
 | 10 | Meritorious Awards (Individual) | Herwan Harrywanto | Silat
 | 11 | Meritorious Awards (Individual) | Rainer Ng Kai Wee  | Swimming
 | 12 | Meritorious Awards (Individual) | Pang Xuejie | Table Tennis
-
-13
-
- 
-
-Isabelle Li Siyun
-
-Table Tennis
-
-14
-
- 
-
-Nurul Shafinas Binte Abdul Rahman
-
-Taekwondo
-
-15
-
- 
-
-Daryl Tan Jia Jun
-
-Taekwondo
-
-16
-
- 
-
-Jason Tan Junwei
-
-Taekwondo
-
-17
-
- 
-
-Yong Yi Xiang
-
-Wushu
+| 13 | Meritorious Awards (Individual) | Isabelle Li Siyun | Table Tennis
+| 14 | Meritorious Awards (Individual) | Nurul Shafinas Binte Abdul Rahman| Taekwondo
+| 15 | Meritorious Awards (Individual) | Daryl Tan Jia Jun| Taekwondo
+| 16 | Meritorious Awards (Individual) | Jason Tan Junwei | Taekwondo
+| 17 | Meritorious Awards (Individual) | Yong Yi Xiang | Wushu
 
 18
 
  
 
-Fung Hui Xin
-
-Wushu
+Fung Hui Xin| Wushu
 
 19
 
