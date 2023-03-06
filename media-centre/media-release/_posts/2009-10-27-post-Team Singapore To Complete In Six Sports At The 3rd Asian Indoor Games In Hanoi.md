@@ -110,4 +110,3 @@ Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 | 36 | Chess Xiangqi | Rapid Individual Men | Kng Ter Yong |
 | 37 | | Rapid Individual Men | Alvin Woo Tsung Han |
 _________________________________________________________
-*Singapore time
