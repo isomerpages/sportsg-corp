@@ -33,62 +33,13 @@ SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commun
 -End-
 
 **Annex A - Schedule of Let's Play Non-Stop!
-Month**
 
 | Month| Sport | Mall | Sports and Recreation Centre | Mall <br>(12- 8pm)  | SRC <br>(12- 4pm)
 | -------- | -------- | -------- | -------- |-------- |-------- |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-April
-
-Netball
-
-IMM
-
-Sengkang SRC
-
-April 29 & 30
-
-May 1
-
-May
-
-Bowling
-
-Junction 8
-
-Tampines SRC
-
-May 14 & 15
-
-May 21
-
-June
-
-Badminton
-
-Bukit Panjang Plaza
-
-Yio Chu Kang SRC
-
-June 4 & 5
-
-June 11
-
-July
+| April    | Netball     | IMM     | Sengkang SRC    | April 29 & 30   | May 1
+| May | Bowling | Junction 8 | Tampines SRC | May 14 & 15 | May 21
+| June | Badminton | Bukit Panjang Plaza | Yio Chu Kang SRC | June 4 & 5 | June 11
+| July
 
 Athletics
 
