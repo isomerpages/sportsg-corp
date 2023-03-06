@@ -27,15 +27,11 @@ Mr Richard Lim, 77, who took part in the towel workout said, “The fitness inst
   
 The inaugural event of FIT for FUNction was conducted at a community event organised in conjunction with World Physiotherapy Day, where about 100 seniors came down to the Pasir Ris Sports Complex to take the test and participate in various other senior-friendly activities. The next session will be conducted on 1 October at the Yishun Wellness Centre followed by another session at the Toa Payoh Sports Complex on 20 November in conjunction with the celebration of the 75th Diamond Jubilee of physiotherapy services in Singapore.  
   
-To find out more information of the FIT for FUNction Fitness Test or ActiveSG programmes for seniors, visit MyActiveSG.com or approach the guest officers at ActiveSG sport centres.  
+To find out more information of the FIT for FUNction Fitness Test or ActiveSG programmes for seniors, visit [myactivesg.com](MyActiveSG.com) or approach the guest officers at ActiveSG sport centres.  
   
 
-####
-
-  
-  
-About ActiveSG  
+####  **About ActiveSG**  
 As a key recommendation of Vision 2030 – Singapore’s master plan for sports, ActiveSG was launched in April 2014 as the national movement for sport and physical activities. ActiveSG aims to create a sporting ecosystem that provides innovative and experiential sport related programmes at sports centres island-wide. This movement will act as an enabler to build a community for individuals, families and organisations from different zones where Singaporeans can come together to learn, train, compete and host a range of sports. Working together with communities, National Sports Associations (NSAs), schools, corporations, public agencies and interest groups, ActiveSG aims to co-create programmes that are affordable and inclusive for all skill levels and age groups.  
   
-Singapore Physiotherapy Association  
+####  **Singapore Physiotherapy Association** 
 Founded in 1964, the Singapore Physiotherapy Association (SPA) is the only professional body to represent and advocate for the profession and practice of physiotherapy in Singapore. As a non-profit organisation, it encourages high standards of physiotherapy practice, education and research, promotes safe, effective and proven clinical standards, as well as support and unite physiotherapists in Singapore and abroad. The SPA is also a member of the World Confederation for Physical Therapy.
