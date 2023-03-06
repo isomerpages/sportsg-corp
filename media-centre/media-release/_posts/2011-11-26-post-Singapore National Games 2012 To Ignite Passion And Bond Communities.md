@@ -42,7 +42,7 @@ Annex - Information and Rules: Singapore National Games <br>2012/Community Games
 <br>[Games Info and General Rules](/files/Media%20Centre/Media%20Release/2011/November/Games%20Info%20and%20General%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [208 Kb]
 <br>[Athletics Rules](/files/Media%20Centre/Media%20Release/2011/November/Athletics%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [448 Kb]
 <br>[Badminton Rules ](/files/Media%20Centre/Media%20Release/2011/November/Badminton%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf)[202 Kb]
-<br>Basketball Rules [174 Kb]
+<br>[Basketball Rules](/files/Media%20Centre/Media%20Release/2011/November/Basketball%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [174 Kb]
 <br>Bowling Rules [171 Kb]
 <br>Dragon Boat Rules [169 Kb]
 <br>Football Rules [176 Kb]
