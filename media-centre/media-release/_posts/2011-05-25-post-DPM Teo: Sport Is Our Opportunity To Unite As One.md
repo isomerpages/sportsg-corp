@@ -109,17 +109,13 @@ Senior Awards
 
 Wushu
 
-| 20 | Meritorious Awards (Individual) | 
-
- 
-
-Ho Lin Ying
+| 20 | Meritorious Awards (Individual) | Ho Lin Ying
 
 Wushu
 
  
 
-21
+| 21 | Meritorious Awards (Individual) | 
 
 Meritorious Awards
 
