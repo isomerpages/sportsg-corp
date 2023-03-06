@@ -90,14 +90,7 @@ Senior Awards
 | 01     | Sportsman of the Year     | Darren Choy Wong Loong    | Sailing
 | 02 | Sportsgirl of the Year | New Hui Fen | Bowling
 | 03 | Team of the Year <br>(Event) | National Sailing 420 Boys' Team <br>Justin Liu Xiaman <br>Sherman Cheng Feng Yuan | Sailing
-
- 
-
-04
-
-Team of the Year
-
-(Team Sport)
+| 04 | Team of the Year <br>(Team Sport)
 
  
 
