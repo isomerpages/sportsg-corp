@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ## **Standard Chartered Marathon Singapore Receives S$9.75 Million In Funding Over Three Years**
-![](/images/Media%20Centre/Media%20Release/2011/Jun/Standardcharteredrun2011.jpeg)
+
 **STANDARD CHARTERED MARATHON SINGAPORE RECEIVES S$9.75 MILLION IN FUNDING OVER THREE YEARS
 Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Local Running Event**
 
