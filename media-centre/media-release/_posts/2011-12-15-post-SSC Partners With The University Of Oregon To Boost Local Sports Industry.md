@@ -20,11 +20,11 @@ Singapore, 15 December 2011 - From Olympic medalists to founders of one of the w
 
 4 The Memorandum of Understanding (MOU) which was inked today between SSC's CEO, Mr Lim Teck Yin and UO's representative, Mr Paul Swangard, Managing Director of the Warsaw Sports Marketing Centre, aims to nurture a mutually beneficial partnership between the two organisations, specifically focusing on three main areas of collaboration:
 
-Providing local sports leaders with learning opportunities in the 'TrackTown USA' sporting culture at the University of Oregon
-Connecting local students to sports-related education and industry experience in Oregon;
-Giving UO graduate students the opportunity to work with SSC and local industry partners.
+* Providing local sports leaders with learning opportunities in the 'TrackTown USA' sporting culture at the University of Oregon
+* Connecting local students to sports-related education and industry experience in Oregon;
+* Giving UO graduate students the opportunity to work with SSC and local industry partners.
 
-Local Sports Leaders to be Exposed to Oregon's Sports Culture
+##### **Local Sports Leaders to be Exposed to Oregon's Sports Culture**
 
 5. Oregon is home to some of the biggest players in the business of sports, the athletes at UO are regular features at the Olympics and World Championships, and the residents are ardent fans who come out in full force to support their sports teams. The sports culture and love for sports in Oregon is one that can be compared to few others in the United States.
 
@@ -32,7 +32,7 @@ Local Sports Leaders to be Exposed to Oregon's Sports Culture
 
 7. Mr Lim Teck Yin, CEO of the SSC, said, "The training and development of world-class personnel is going to be important to the evolution of Singapore's sports scene. UO has a mature sports industry and culture, as evidenced through the extraordinary reach of both the TrackTown USA brand and the Oregon Ducks brand. This partnership will no doubt infuse more energy, efficiency and innovation in the development of our sports industry."
 
-Education and Industry Experience for Singaporean Students and Athletes
+##### **Education and Industry Experience for Singaporean Students and Athletes**
 
 8. "As Singapore's sports industry continues to grow, we need to create a pipeline of trained experts who are able to add value and continue to expand our businesses," said Mr Lim. "With the Warsaw Sports Marketing Centre at UO running the country's premier sports business programme, and with a highly regarded sports science faculty, UO is a perfect training ground at which to nurture the sports leaders and visionaries of tomorrow."
 
@@ -40,16 +40,15 @@ Education and Industry Experience for Singaporean Students and Athletes
 
 10. Mr Paul Swangard, Managing Director of the Warsaw Sports Marketing Centre said, "Sport is in the University of Oregon's DNA. We are honored and excited to be partnering with the SSC to share our expertise and connections with the emerging sport community. Our sincere hope is to help accelerate the development of the sport market in Singapore by providing the SSC and its partners with the knowledge capital and human capital it needs to fuel that growth."
 
-UO Graduate Students to Work with the SSC and Industry Partners
+##### **UO Graduate Students to Work with the SSC and Industry Partners**
 
 11. Recognising the enormous potential for growth within Singapore's sports industry, UO is keen to send graduate students to Singapore on various programmes to explore the opportunities for collaboration, and implement sports initiatives.
 
 12. From as early as June 2012, this collaboration expects to see a group of three to four students from UO's graduate programme arrive in Singapore for a 10-week internship, where they will collaborate with the SSC in areas such as athlete marketing, spectatorship, and other areas relevant to Singapore's sports development.
 
 13. On his hopes for the benefits this MOU will bring to Singapore, Mr Seow said, "Building and strengthening the skills in the sports sector will enable a more sustainable and vibrant sports eco-system. We expect that this collaboration with UO will yield results that pave the way for better careers and higher standards of professionalism in Singapore sports."
-
--END-
-Annex A: University of Oregon Fact Sheet
+ 
+**Annex A: University of Oregon Fact Sheet**
 
 Celebrating its 128th anniversary, the University of Oregon has welcomed six generations of outstanding leaders since opening in 1876. Today's students, like the nearly 200,000 alumni before them, have access to the most current knowledge in classes, as well as laboratories and seminars conducted by leading researchers.
 
@@ -73,53 +72,53 @@ To learn more about the University of Oregon and how it is transforming lives, p
 
 The university's seven professional schools and colleges offer programs that provide training to meet specific career goals. However, all programs require a substantial number of liberal arts courses in the College of Arts and Sciences to ensure a well-balanced education.
 
-The College of Arts and Sciences
-
+**The College of Arts and Sciences**
+<br>
 The College of Arts and Sciences house the state's only honours college, bringing together some of the most promising students and specially selected faculty members in a challenging academic program with carefully designed small classes and close advising.
 
 Many of the college's departments enjoy national acclaim, including high rankings for the psychology curriculum and the forensics program. The National Science Foundation designated UO as one of the three original centres of excellence in Science.
 
 The College also offers preparatory programs for the advanced study of engineering and law and health related fields such as dentistry, medicine and pharmacology.
 
-Charles H. Lundquist College of Business of Business
-
+**Charles H. Lundquist College of Business of Business**
+<br>
 The Charles H. Lundquist College of Business undergraduate program ranks 40th among all public universities in the nation, and the Master's programs in business (MBA) rank in the top 10 percent of accredited programs in the U.S.
 
-College of Education
-
+**College of Education**
+<br>
 The College of Education offers primarily graduate-level training programs. Currently, Educational studies and a fifth-year secondary school licensure program are the only undergraduate majors. Its special education and graduate programs are nationally ranked, and a graduate program in athletic medicine and training is one of the most popular in the region.
 
-School of Architecture and Allied Arts
-
+**School of Architecture and Allied Arts**
+<br>
 The School of Architecture and Allied Arts has one of the nation's strongest programs in energy-conscious design and housing research and an interior architecture programs regarded among the top three in the United States.
 
 One of only 80 universities nationwide whose journalism programs are recognized by the Accrediting Council on Education in Journalism and Mass Communications, Oregon is the only institution in the western United States and one of seven in the country accredited in five professional media specializations.
 
-School of Law
-
+**School of Law**
+<br>
 The School of Law has been a member of the Association of American Law Schools since 1919 and was approved by the American Bar Association in 1923. It has a three-year postgraduate program leading to a doctorate degree in jurisprudence.
 
-School of Music
-
+**School of Music**
+<br>
 The School of Music is the largest professional music school in the Pacific Northwest and one of the most significant in the western U.S. The school has more than 20 performing groups, ranging from a symphonic orchestra to a gospel choir.
 
 For more information on the University of Oregon please visit the following links:
-http://www.uoregon.edu
-http://admissions.uoregon.edu/profile.html
-http://uoregon.edu/sports
-www.goDucks.com
+* http://www.uoregon.edu
+* http://admissions.uoregon.edu/profile.html
+* http://uoregon.edu/sports
+* www.goDucks.com
 
-Campus Profile
-
+**Campus Profile**
+<br>
 The Oregon University System publishes data based on the fourth week of enrollment of each fall term. This data is based on fall term 2011. New data will be available in November 2012.
 
-Enrollment
-
-Total - 24,447
-Undergraduates - 20,631
-Graduates - 3,816
-Full-time - 21,896
-Part-time - 2,551
+**Enrollment**
+<br>
+* Total - 24,447
+* Undergraduates - 20,631
+* Graduates - 3,816
+* Full-time - 21,896
+* Part-time - 2,551
 
 Most popular majors among undergraduates
 
@@ -139,47 +138,47 @@ Acrobatics & Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softba
 
 **Club Sports**
 
-Archery
-Badminton
-Baseball
-Bass Fishing
-Bowling
-Climbing
-Crew
-Cricket
-Cycling
-Dance
-Disc golf
-Equestrian
-Fencing
-Golf
-Ice hockey
-Jiu jitsu
-Juggling
-Kendo
-Lacrosse
-Mountain biking
-Nordic ski
-Racquetball
-Ranger challenge
-Rugby
-Running
-Sailing
-Scuba
-Skiing (Alpine)
-Snowboarding
-Soccer
-Softball
-Surfing
-Swimming
-Table Tennis
-Tennis
-Triathlon
-Ultimate
-Volleyball
-Waterpolo
-Waterski-Wakeboard
-Wushu
+* Archery
+* Badminton
+* Baseball
+* Bass Fishing
+* Bowling
+* Climbing
+* Crew
+* Cricket
+* Cycling
+* Dance
+* Disc golf
+* Equestrian
+* Fencing
+* Golf
+* Ice hockey
+* Jiu jitsu
+* Juggling
+* Kendo
+* Lacrosse
+* Mountain biking
+* Nordic ski
+* Racquetball
+* Ranger challenge
+* Rugby
+* Running
+* Sailing
+* Scuba
+* Skiing (Alpine)
+* Snowboarding
+* Soccer
+* Softball
+* Surfing
+* Swimming
+* Table Tennis
+* Tennis
+* Triathlon
+* Ultimate
+* Volleyball
+* Waterpolo
+* Waterski-Wakeboard
+* Wushu
 
 **Annex B: Profile of Paul Swangard**
 ![](/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0042Imagegif.gif)
@@ -189,7 +188,7 @@ His comments on the industry have appeared in numerous publications including th
 
 Prior to the Warsaw Centre, Swangard was an award-winning sports journalist and freelance broadcaster. He is also considered as one of the United State's top track and field public address announcers having called dozens of major meets including the US Track and Field Indoor and Outdoor Championships, the Millrose games, Prefontaine Classic (IAAF Samsung Diamond League), adidas Grand Prix (IAAF Samsung Diamond League) and the USA Olympic Track and Field trials. A Eugene native, Swangard received his bachelors in Broadcast Journalism from the University of Oregon in 1990 and his MBA with a concentration in Sports Business from the University of Oregon in 1999.
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 **Patricia Yee**
 <br>
@@ -208,8 +207,8 @@ Singapore Sports Council
 Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
