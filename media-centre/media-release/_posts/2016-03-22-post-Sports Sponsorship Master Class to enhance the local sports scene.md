@@ -13,7 +13,7 @@ Sport Singapore and the Singapore Workforce Development Agency (WDA) have come t
   
 Leveraging on the bustling year for local sports in 2015, this second series of master classes aims to keep the momentum going for sports sponsorship.  
   
-To date, 74 participants have attended the Sports Master Class Series on the thematic ‘Sponsorship’. The attendees were from 47 organisations, of which 34 were small- and medium- sized enterprises, including NSAs.  
+To date, 74 participants have attended the Sports Master Class Series on the thematic ‘Sponsorship’. The attendees were from 47 organisations, of which 34 were small- and medium-sized enterprises, including NSAs.  
   
 This includes a basic level “Seeking Sponsorship” master class and/or an advance “Sponsorship War Room” master class, culminating in a “The ASA Exchange” session. The ASA Exchange simulates real-life scenarios, the NSAs pitched themselves to companies in a “Speed Dating” session. The “sellers”, or NSAs, would put forward compelling reasons on how companies can gain from their involvement through the NSAs’ event or sport. The “buyers”, or companies, would then assess these pitches, and hopefully see value of sports marketing, importance of sponsorship activation and how sport can translate into benefit for the company’s brand name. (Details of each class in Annex A)  
   
