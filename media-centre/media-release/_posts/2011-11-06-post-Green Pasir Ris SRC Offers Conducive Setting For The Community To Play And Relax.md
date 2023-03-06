@@ -8,10 +8,7 @@ description: ""
 image: ""
 ---
 ### **'Green' Pasir Ris SRC Offers Conducive Setting For The Community To Play And Relax**
-
-06 Nov 2011
-
-
+ 
 Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singapore Sports Council's (SSC) newest addition to its family of 21 SRCs, features a comprehensive range of sports facilities with a diverse retail mix to provide an all rounded experience for guests.
 
 2.  Deputy Prime Minister Teo Chee Hean graced the official opening of Pasir Ris SRC this morning along with Mr Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, Members of Parliament for Pasir Ris-Punggol GRC and Punggol East SMC, as well as Government Parliamentary Committee member for Community Development, Youth and Sports, Mr Vikram Nair. They were joined by grassroot leaders and fellow residents as they celebrated the launch of their new 'playground'.
@@ -36,7 +33,6 @@ Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singa
 
 12.  SSC is also aiming for Pasir Ris SRC to attain the Building and Construction Authority's Green Mark platinum award, the highest accolade given to environmentally friendly buildings in Singapore.
 
--END-
 
 **Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre**
 
