@@ -8,9 +8,6 @@ image: ""
 ---
 ### **BMW Asia Announces Sponsorship Of Standard Chartered Marathon Singapore 2011**
 
-04 Aug 2011
-
-
 Full and Half Marathon Runners Stand a Chance to Win a Brand New BMW X1 sDrive18i
 
 Singapore, 4 August 2011 - BMW Asia today announced its inaugural co-sponsorship of the Standard Chartered Marathon Singapore 2011 (SCMS). BMW Asia along with the race organiser, Singapore Sports Council (SSC), unveiled a series of initiatives aimed at further engaging participants and improving the race experience for SCMS 2011 runners, in the lead up to and during the race on 4 December 2011.
@@ -27,13 +24,12 @@ Singapore, 4 August 2011 - BMW Asia today announced its inaugural co-sponsorship
 
 7. "While BMW has relentlessly developed the superior technology to make its cars perform at their optimal level, marathon runners also have to follow a rigorous and well-planned training program in order to achieve their best result on race day," added Mr Fiorentinos.
 
-Win the BMW X1 sDrive18i
+##### **Win the BMW X1 sDrive18i**
 
 8. All Singapore citizens and Singapore Permanent Residents, who are 18 years and above as of 4 August 2011, and have signed up for either the Full Marathon or Half Marathon race category of the Standard Chartered Marathon Singapore 2011, will be eligible to win the BMW X1 sDrive18i simply by registering for Team BMW. The lucky draw for the BMW X1 sDrive18i will be conducted one week after race day.
 
 9. The BMW X1 sDrive18i comes with all the features so typical of a BMW X model and at the same time offers a new interpretation of BMW's Sheer Driving Pleasure. This youngest member in the wide range of BMW X models stands for versatile sportiness and supreme agility, with looks characterised by self-confident elegance and modern style. The BMW X1 brings together the features typical of a Sports Activity with the driving characteristics, dynamic performance and outstanding fuel economy and emission management of the BMW 1 Series.
 
--END-
 Annex A - Details of BMW's Sponsorship of Standard Chartered Marathon Singapore 2011
 
 1. Official Pacers Programme
