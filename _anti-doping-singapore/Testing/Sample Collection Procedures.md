@@ -91,7 +91,7 @@ The DCO will provide a copy of the Doping Control Test Form to you for your reco
 ![step9](/images/What%20We%20Do/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step9.jpeg)
 
 ##### **STEP 10: SECURING AND TRANSPORTING THE SAMPLE**
-Once the samples are placed in a security sealed transit bag they are sent to a WADA accredited laboratory, by a secure chain of custody, for analysis. This ensures that every step of the process is fully documented and only those authorised to handle the sample do so.
+Once the samples are placed in a security-sealed transit bag they are sent to a WADA accredited laboratory, by a secure chain of custody, for analysis. This ensures that every step of the process is fully documented and only those authorised to handle the sample do so.
 
 The copy of the Doping Control Form that the laboratory receives does not contain any information that could identify you.
 
@@ -110,4 +110,4 @@ Athletes with an intellectual disability must be accompanied by an adult athlete
 
 Athletes who use condom drainage or indwelling catheter drainage should remove the existing collection bag and drain the system so that a fresh sample can be collected.
 
-Athletes who self-catheterize may use their own catheter to provide a sample (this catheter should be in a tamper-evident packaging), or use one provided by the DCO if available.
+Athletes who self-catheterise may use their own catheter to provide a sample (this catheter should be in a tamper-evident packaging), or use one provided by the DCO if available.
