@@ -80,6 +80,7 @@ When we utter the word 'Lion' the first word that comes into our mind is strengt
 
 #### **Annex C: CG Competition Schedule for 15 April 2012**
 
+##### **Badminton**
 ![](/images/Media%20Centre/Media%20Release/2012/May/badminton_west_cost.png?v1)
 
 ![](/images/Media%20Centre/Media%20Release/2012/May/badminton_marina_parade.png?v1)
@@ -95,3 +96,5 @@ When we utter the word 'Lion' the first word that comes into our mind is strengt
 ![](/images/Media%20Centre/Media%20Release/2012/May/bowling1.png)
 ![](/images/Media%20Centre/Media%20Release/2012/May/bowling2.png)
 ![](/images/Media%20Centre/Media%20Release/2012/May/bowling3.png)
+
+##### **Basketball**
