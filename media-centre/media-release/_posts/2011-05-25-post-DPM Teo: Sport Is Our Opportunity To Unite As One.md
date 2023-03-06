@@ -107,7 +107,7 @@ Senior Awards
 | 18 | Meritorious Awards (Individual) | Fung Hui Xin| Wushu
 | 19 | Meritorious Awards (Individual) | Etienne Lee Zhe Xuan | Wushu
 | 20 | Meritorious Awards (Individual) | Ho Lin Ying | Wushu
-| 21 | Meritorious Awards (Individual) |  Meritorious Awards<br>(Event) <br>National Bowling Girls' Doubles Team <br>Bernice Lim Hui Ying <br>New Hui Fen | Bowling
+| 21 | Meritorious Awards (Event) |  National Bowling Girls' Doubles Team <br>Bernice Lim Hui Ying <br>New Hui Fen | Bowling
 
 22
 
