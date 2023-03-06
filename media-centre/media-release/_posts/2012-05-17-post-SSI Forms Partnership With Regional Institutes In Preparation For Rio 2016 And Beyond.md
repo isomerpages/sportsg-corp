@@ -11,7 +11,6 @@ image: ""
 
 SSI Signs MOUs with China, Hong Kong and Korean Sports Institutes to Boost Sports Science and Medicine Support for Team Singapore
 
-	
 Singapore, 17 May 2012 - To help Team Singapore athletes prepare better for the 2016 Olympics in Rio and beyond, the Singapore Sports Institute (SSI) is tapping on its wider network of Asian Sports Institutes for more training, athletes development as well as sports medicine and sports science capability development opportunities. By collaborating with these sports institutes, the SSI hopes to increase its depth and breadth of sport science and medicine support for our athletes.
 
 2. The MOU signings are part of the sports science and medicine symposium that is being held in Singapore on 17 and 18 May 2012. The conference brings together the widest representation of regional sports institutes to date, with delegates from China, Hong Kong, Japan, Korea and Malaysia taking part.
