@@ -45,3 +45,9 @@ My tagline and logo depicts how our community can come together through sports. 
 **Rationale:**  
 The logo is based on the passion felt by all who are involved in sports. The flame, which forms the lion's mane, represents the fire in their passion. The lion represents Singapore and also symbolises the character of Singaporeans; courageous, full of strength and relentlessly striving for excellence. The colour red is used to further emphasise the Singapore Spirit.
 
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo1.gif" style="width: 150px"  />
+
+**Designer**: Kyle Ngo Wee Hian
+**School**: Singapore Polytechnic
+**Rationale**:
+I used the first letter of each word in the slogan 'Singapore National Games' as the concept of my design by combining strong fluid figures along with refined shapes. Dull tones of red were used as it represents the passion and spirit of coming together as one. Each figure represents a different sport - for instance, the 'S' resembles an athlete swimming. I hope that my logo not only invokes a sense of bonding among Singaporeans, but reiterates the fact that sports is for everyone.
