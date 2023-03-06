@@ -85,18 +85,29 @@ Annex A
 | 15 |  | Women's 6 red Snooker | Chai Zeet Huey |
 |  |  | Women's 9 Ball Pool |
 |  |  | Women's 8 Ball Pool |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 16 | Dancesports | Waltz | Kelvin Toh Kian Heng |
+| | | Viennese Waltz| Tiara Zhang Zhi Zhen |
+| 17 | | Paso Doble | Sng Li Wei |
+| | |Jive | Tan Wei Jing |
+| 18 | Petanque | Men's Double | Gary Tan Gong Neng |
+| 19 | | Men's Double | Low Yee Wee |
+| 20 | | Men's Single | Cheng Zhi Ming |
+| 21 | | Women's Double | Heo Boon Huay |
+| 22 | | Women's Double | Goh Heoi Bin |
+| 23 | |Women's Single | Nur Izzati Ismail |
+| 24 | Silat | Women's Class A > 45kg-50kg | Nurindah Mursani |
+| 25 | | Women's Class B >50kg-55kg | Nur Dinniyathi Mohamed Julaimi |
+| 26 | | Women's Class D >60kg-65kg | Nur Zulaikha Zakaria |
+| 27 | | Women's Seni Tunggal | Rabiatul Adawiyah Yusak |
+| 28 | | Men's Class D >60kg-65kg | Mohamed Saifullah Mohamed Julaimi |
+| 29 | | Men's Class E >65kg-70kg | Mohamed Saifuddin Mohamed Julaimi |
+| 30 | | Men's Class F >70kg-75kg | Mohamad Elyasak Said |
+| 31 | | Men's Class G >75kg-80kg | Muhammad Shakir Juanda |
+| 32 | | Men's Class H >80kg-85kg | Muhammad Nur Shafiq Mohd Saiful |
+| 33 | | Men's Seni Regu | Muhammad Azri Abdullah |
+| 34 | | Men's Seni Regu | Syarif Hidayatullah Abdul Raziz |
+| 35 | | Men's Seni Regu | Khairul Arifin |
+| 36 | Chess Xiangqi | Rapid Individual Men | Kng Ter Yong |
+| 37 | | Rapid Individual Men | Alvin Woo Tsung Han |
+________________________________________________
 *Singapore time
