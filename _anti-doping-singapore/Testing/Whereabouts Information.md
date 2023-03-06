@@ -65,11 +65,11 @@ On days where there are no training or competition, RTP and DTP athletes are r
 
 **_Requirements Applicable ONLY to RTP Athletes:_**
 
-**Whereabouts Information 5****: Daily Overnight Residence**
+**Whereabouts Information 5: Daily Overnight Residence**
 
 All **RTP** athletes must provide a complete address of the place where they are staying overnight, eg. home, temporary lodgings, hotel, etc. The information should be updated immediately if there are changes.
 
-**Whereabouts Information 6****: Daily 60-minute Slot**
+**Whereabouts Information 6: Daily 60-minute Slot**
 
 All **RTP** athletes must enter one specific 60-minute slot each day at a specified location between 5 am and 11 pm where they will be available for testing. The Athlete must provide sufficient information to enable the Doping Control Officer to find the location, to gain access to the location, and to find the athlete at the location.
 
