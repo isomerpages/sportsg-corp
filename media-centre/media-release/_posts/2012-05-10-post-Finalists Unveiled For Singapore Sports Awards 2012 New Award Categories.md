@@ -29,7 +29,6 @@ Singapore, 10 May 2012 - The nation's most prestigious recognition for sporting 
 | Barclays Singapore Open 2011  | Sundown Marathon 2011    | 
 | HSBC Women's Champions 2011 |  | 
 
-
 6. The winner for the 'Most Inspiring Sports Story of the Year', will receive $1,000 cash prize and a trophy, while winners of the 'Best Sport Event (International)' and 'Best Sport Event (Local)' will be presented with a trophy each. The winners will be made known at the Singapore Sports Awards 2012 event on 29 May 2012.
 
 -END-
