@@ -83,9 +83,7 @@ Senior Awards
 | 36 | Meritorious Awards (Event)  | National Table Tennis Women's Doubles Team <br>Feng Tianwe <br>Wang Yuegu |Table Tennis
 | 37 | Meritorious Awards (Event)  | National Table Tennis Men's Doubles Team <br>Gao Ning <br>Yang Zi  | Table Tennis
 
- 
-
-SPORTSBOY/SPORTSGIRL AWARDS
+**SPORTSBOY/SPORTSGIRL AWARDS**
 
  
 
