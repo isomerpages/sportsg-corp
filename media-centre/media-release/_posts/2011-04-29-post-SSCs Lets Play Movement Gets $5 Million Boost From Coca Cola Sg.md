@@ -149,7 +149,7 @@ November 5
  
 
 Annex B - Fact Sheet on World Netball Championships
-Fact Sheet on World Netball Championships.pdf [126 Kb]
+[Fact Sheet on World Netball Championships.pdf ](/files/Media%20Centre/Media%20Release/2011/Apr/Fact%20Sheet%20on%20World%20Netball%20Championshipspdf.pdf)[126 Kb]
 
 About the Singapore Sports Council
 <br>
