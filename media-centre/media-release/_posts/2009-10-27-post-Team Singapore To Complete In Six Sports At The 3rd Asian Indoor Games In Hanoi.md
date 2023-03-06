@@ -113,9 +113,24 @@ table, th, td {
     <td></td>
 	</tr>
   <tr>
-	
-	
-	
+		<td>4</td>
+    <td></td>
+		<td>Men's Single</td>
+    <td>Benjamin Lim Jia Jun</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+		<td>Men's Double</td>
+    <td></td>
+  </tr>
+	  <tr>
+    <td></td>
+    <td></td>
+		<td>Men's Team</td>
+    <td></td>
+	</tr>
+  <tr>
 </table>
 
 </body>
