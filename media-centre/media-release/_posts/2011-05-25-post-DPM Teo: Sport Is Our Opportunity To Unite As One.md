@@ -111,10 +111,8 @@ Senior Awards
 | 22 | Meritorious Awards (Event) |  National Sailing 420 Girls' Team <br>Rachel Lee Qing <br>Cecilia Low Rui Qi | Sailing
 | 23 | Meritorious Awards (Event) |  National Sailing Optimist Team (World Cup) <br>Ryan Lo Jun Han <br>Kimberly Lim Min <br>Bryan Lee Teik Leung <br>Jillian Lee Sook Ying <br>Elisa Yukie Yokoyama | Sailing
 
- 
-
-About the Singapore National Olympic Council
-statics0
+**About the Singapore National Olympic Council**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 statics0
 About the Singapore Sports Council
