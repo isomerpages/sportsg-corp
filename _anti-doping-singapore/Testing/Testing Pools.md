@@ -15,7 +15,7 @@ An athlete who has been identified for inclusion in either the ADS RTP or ADS D
 Inclusion in the ADS RTP is based on a number of factors related to the athlete and the sport. These may include: 
 
 * Athletes already included in their International Federation's Registered Testing Pool
-* Possible performance enhancing effect that doping may elicit on the sport
+* Possible performance-enhancing effect that doping may elicit on the sport
 * Available doping analysis statistics of sports and disciplines
 * Available research on doping trends
 * International competition(s) for the year that is of significance to Singapore
@@ -28,7 +28,7 @@ Inclusion in the ADS RTP is based on a number of factors related to the athlete 
 * Unexpected and significant improvement in sporting performance
 * Training with Athlete Support Personnel previously associated with doping practices
 * Behaviour indicating doping
-* Persistent last minute changing of Whereabouts Information
+* Persistent last-minute changing of Whereabouts Information
 * Athlete sport performance history
 * Details of past doping controls
 * Reliable information from a third party
