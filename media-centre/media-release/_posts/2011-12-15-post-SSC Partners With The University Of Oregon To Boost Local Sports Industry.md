@@ -181,9 +181,8 @@ Waterpolo
 Waterski-Wakeboard
 Wushu
 
-Annex B: Profile of Paul Swangard
-
-	Paul Swangard
+**Annex B: Profile of Paul Swangard**
+![](/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0042Imagegif.gif)
 Paul Swangard is the Woodard Family Foundation Sports Business Fellow and the Managing Director of the James H. Warsaw Sports Marketing Centre. Since 2001, he has led the day-to-day operations of the internationally recognised center. He teaches both at the undergraduate and graduate level and serves as one of the centre's primary industry analysts on sports business issues.
 
 His comments on the industry have appeared in numerous publications including the Wall Street Journal, New York Times and USA Today along with appearances on ABC's Nightline, ESPN's Outside the Lines, CNBC's Power Lunch and NBC's Olympic Games coverage. In addition to numerous consulting projects with leading sports firms including EA Sports and Bandon Dunes Golf Resort, Swangard is a frequent guest speaker and lecturer who has taught courses in both Europe and Asia including Executive Education programs for the Chinese Olympic Committee.
