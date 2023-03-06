@@ -95,38 +95,10 @@ Senior Awards
 | 06 | Meritorious Awards (Individual) | Bernice Lim Hui Ying | 05 |Bowling
 | 07 | Meritorious Awards (Individual) | Audrey Yong Pei Lin| Sailing
 | 08| Meritorious Awards (Individual) | Kimberly Lim Min | Sailing
-
-09
-
- 
-
-Muhammad Nur Shafiq Bin Mohamed Saiful
-
-Silat
-
-10
-
- 
-
-Herwan Harrywanto
-
-Silat
-
-11
-
- 
-
-Rainer Ng Kai Wee
-
-Swimming
-
-12
-
- 
-
-Pang Xuejie
-
-Table Tennis
+| 09 | Meritorious Awards (Individual) | Muhammad Nur Shafiq Bin Mohamed Saiful  | Silat
+| 10 | Meritorious Awards (Individual) | Herwan Harrywanto | Silat
+| 11 | Meritorious Awards (Individual) | Rainer Ng Kai Wee  | Swimming
+| 12 | Meritorious Awards (Individual) | Pang Xuejie | Table Tennis
 
 13
 
