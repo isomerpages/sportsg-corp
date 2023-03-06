@@ -16,7 +16,7 @@ Said ActiveSG Chief Lai Chin Kwang, “We are pleased to introduce Tennis into o
   
 **Technical Director and Visiting Regional Coaches**  
   
-Robert Davis, an experienced coach on the Association of Tennis Professionals (ATP) circuit, has been appointed as the Technical Director of the Academy. Davis brings with him a deep understanding of the Southeast Asian Tennis culture, having worked with top players from the region including 2006 Asian Games Singles champion Danai Udomchoke of Thailand as well as Indonesia’s Christopher Rungkat and Lavinia Tananta (SEA Games 2011 Men’s and 2009 Women’s Singles champions respectively.)  
+Robert Davis, an experienced coach on the Association of Tennis Professionals (ATP) circuit, has been appointed as the Technical Director of the Academy. Davis brings with him a deep understanding of the Southeast Asian Tennis culture, having worked with top players from the region including 2006 Asian Games Singles champion Danai Udomchoke of Thailand as well as Indonesia’s Christopher Rungkat and Lavinia Tananta (SEA Games 2011 Men’s and 2009 Women’s Singles champions respectively).
   
 Davis will oversee the development of the guiding framework and pathway plan for the academy, including the recommendation of regional coaches. Udomchoke and Tananta have been confirmed together with Thanakorn Srichaphan - owner of the Srichaphan Tennis Academy in Thailand - as the first visiting regional coaches for the Academy.  
   
