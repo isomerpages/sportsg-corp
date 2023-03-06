@@ -13,9 +13,9 @@ Sport Singapore and the Singapore Workforce Development Agency (WDA) have come t
   
 Leveraging on the bustling year for local sports in 2015, this second series of master classes aims to keep the momentum going for sports sponsorship.  
   
-To date, 74 participants have attended the Sports Master Class Series on the thematic ‘Sponsorship’. The attendees were from 47 organisations, of which 34 were small and medium sized enterprises, including NSAs.  
+To date, 74 participants have attended the Sports Master Class Series on the thematic ‘Sponsorship’. The attendees were from 47 organisations, of which 34 were small- and medium- sized enterprises, including NSAs.  
   
-This includes a basic level “Seeking Sponsorship” master class and/or an advance “Sponsorship War Room” master class, culminating in a “The ASA Exchange” session. The ASA Exchange simulates real-life scenarios, the NSAs pitched themselves to companies in a “Speed Dating” session. The “sellers”, or NSAs, would put forward compelling reasons on how companies can gain from their involvement through the NSAs’ event or sport. The “buyers”, or companies, would then assess these pitches, and hopefully see value of sports marketing, importance of sponsorship activation and how sport can translate into benefit for the company’s brand name. (Details of each class in the Annex)  
+This includes a basic level “Seeking Sponsorship” master class and/or an advance “Sponsorship War Room” master class, culminating in a “The ASA Exchange” session. The ASA Exchange simulates real-life scenarios, the NSAs pitched themselves to companies in a “Speed Dating” session. The “sellers”, or NSAs, would put forward compelling reasons on how companies can gain from their involvement through the NSAs’ event or sport. The “buyers”, or companies, would then assess these pitches, and hopefully see value of sports marketing, importance of sponsorship activation and how sport can translate into benefit for the company’s brand name. (Details of each class in Annex A)  
   
 The intention of having these master classes is for participants to learn how to seek out sponsors, measure sponsorships effectively, understand the importance of working closely with companies to mutually benefit both the brands and NSAs, and build better events.  
   
@@ -39,25 +39,19 @@ Since the last series of the Sports Sponsorship Master class, there has been a d
   
   
 
-###
-
+#### **ANNEX A: Details on the Sports Sponsorship Master Class**  
   
+**“Seeking Sponsorship” Master Class, 3 November 2014**  
+  A pilot run For NSAs and other rights holders to understand the essentials of sport sponsorship, practical selling and building an effective commercial practice.  
   
-ANNEX A  
-  
-Details on the Sports Sponsorship Master Class:  
-  
-“Seeking Sponsorship” master class, 3 November 2014  
-A pilot run For NSAs and other rights holders to understand the essentials of sport sponsorship, practical selling and building an effective commercial practice.  
-  
-“Creating a Sponsorship Strategy” master class, 29 September & 6th October & 27 October 2015  
+**“Creating a Sponsorship Strategy” Master Class, 29 September & 6th October & 27 October 2015**  
 An immersive class for companies to learn about marketing through sponsorship, and the creation of sponsorship strategies and ideas, with an emphasis on case studies in sport sponsorship. Participants also embarked on a “field trip” to see sponsorship activations live at the 2015 BNP Paribus WTA Finals Singapore presented by SC Global.  
   
-“Seeking Sponsorship” master class, 22 February 2016  
+**“Seeking Sponsorship” Master Class, 22 February 2016**  
 For NSAs and other rights holders to understand the essentials of sport sponsorship, practical selling and building an effective commercial practice.  
   
-“Sponsorship War Room” master class, 23 February 2016  
+**“Sponsorship War Room” Master Class, 23 February 2016**   
 An advanced class for NSAs to learn to build cutting-edge sponsorship sales materials through sales techniques, and reality-style training exercises which include local case studies and a sponsorship pitch template that NSAs can work on.  
   
-“The ASA Exchange” Inaugural ‘Speed Dating’, 22 March 2016  
+**“The ASA Exchange” Inaugural ‘Speed Dating’, 22 March 2016**  
 The Asian Sponsorship Assessment Exchange or “The ASA Exchange”, is an assessment component of the master class where NSAs who have attended the “Sponsorship War Room” session will be able to pitch themselves in a ‘speed dating’ concept to selected companies, and be given feedback on their performance.
