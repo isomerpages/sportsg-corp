@@ -28,7 +28,7 @@ Our Sport Medicine Centre focuses on the diagnosis and treatment of injuries ass
 
 **INNOVATION**
 ![SSI Innovation](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/SSI_NEW.jpg)
-Singapore Sport Institute (SSI) recognises that embracing innovation is a critical component to stay ahead of the curve in the face of an ever-changing sport eco-system.<br>[Read More](/what-we-do/singapore-sports-institute/innovation/)
+SSI recognises that embracing innovation is a critical component to stay ahead of the curve in the face of an ever-changing sport eco-system.<br>[Read More](/what-we-do/singapore-sports-institute/innovation/)
 
 **SCIENCE & TECHNOLOGY**
 ![Science and Tech](/images/What%20We%20Do/Singapore%20Sports%20Institute/Introduction/Science%20and%20Tech%20RnD%20SSI.jpg)
