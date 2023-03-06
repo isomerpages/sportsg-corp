@@ -8,6 +8,8 @@ image: ""
 ---
 ### **Logo And Mascot Unveiled For Inaugural Singapore National Games**
 
+![](/images/Media%20Centre/Media%20Release/2012/May/Logo.gif)
+
 *Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents Competing in Badminton, Basketball, Bowling and Football Across the Island*
 
 Singapore, 15 April 2012 - After more than 4,000 votes cast online over three weeks, the inaugural Singapore National Games (SNG) now has a logo and mascot. Yong Wen Yeu and Beatrice Cho, winners of the logo and mascot designs respectively, were overjoyed as they witnessed the official unveiling of their creations at an event at the Senja-Cashew Community Club (CC) today. The event marks the start of the Community Games (CG) 2012, which serves as the qualifying round for SNG 2012.
@@ -55,25 +57,21 @@ Participation will be open to Singapore Citizens as well as non-Citizens, includ
 Registration for the seven sports for CG 2012 Badminton, Basketball, Bowling, Football, Netball, Sepak Takraw and Table Tennis has closed. Interested residents can still register for the remaining three sports:
 Athletics, Dragon Boat and Swimming
 Registration opens on 18 April to 31 May 2012
-Find out more at: singaporenationalgames.sg
+Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.sg/)
 
-For more information regarding the Games, please visit singaporenationalgames.sg.
+#### **Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet**
+![](/images/Media%20Centre/Media%20Release/2012/May/SinagporeNationalGames.gif)
 
-Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet
+**Designer**: Yong Wen Yeu
+**School**: Nanyang Academy of Fine Arts
+**Age**: 20
 
-
-Designer: Yong Wen Yeu
-School: Nanyang Academy of Fine Arts
-Age: 20
-
-Rationale:
+**Rationale**:
 The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
 
+**Designer**: Beatrice Cho
+**School**: Singapore Polytechnic
+**Age**: 19
 
-
-Designer: Beatrice Cho
-School: Singapore Polytechnic
-Age: 19
-
-Rationale:
+**Rationale**:
 When we utter the word 'Lion' the first word that comes into our mind is strength. It also upholds many beliefs, such as courage, power, royalty and wisdom. Sang Nila Utama, founder of Singapore and the Merlion is the reason I decided to name my mascot 'Nila'. The SNG will create friendly rivalry and bring friendship to another level. These elements are infused and depicted in my mascot by the fiery mane and the heart shaped face. The fiery mane symbolises the burning passion of the athletes fighting to win. The heart-shaped face displays love which represents how people interact with one another and come together as a community.
