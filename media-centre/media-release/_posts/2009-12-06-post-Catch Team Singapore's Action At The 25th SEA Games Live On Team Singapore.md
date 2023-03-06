@@ -59,5 +59,20 @@ Fulford PR
 Email: srasu@fulfordpr.com
 
 **Annex A**
-
+<br>
 **25th SEA Games, Laos Vientiane 2009 Webcast Schedule - Team Singapore Website**
+
+| Date | Day | Programme title |Start-End |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
+
+
+
+
+
+
+
