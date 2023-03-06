@@ -6,3 +6,730 @@ layout: post
 description: ""
 image: ""
 ---
+DPM Teo: Sport Is Our Opportunity To Unite As One
+Singapore , 25 May 2011
+
+DPM TEO: SPORT IS OUR OPPORTUNITY TO UNITE AS ONE
+Singapore, 25 May 2011 - Deputy Prime Minister Teo Chee Hean today called attention to the important role sport plays in Singapore's future.
+
+2 Speaking at the Singapore Sports Awards 2011 ceremony held at the Orchard Hotel, DPM Teo said, "Living in a nation of many races and many cultures, we need to find a common ground. Sport is that common ground, the space we can all share and celebrate. Sport is our opportunity to unite as one, regardless of language, religion, race or age."
+
+3 Also present at the event was Major General (NS) Chan Chun Sing, Acting Minister for Community Development, Youth and Sports. DPM Teo, who is also the Co-ordinating Minister for National Security, Minister for Home Affairs and President of the Singapore National Olympic Council, added that strong community bonds and a common identity for all Singaporeans were essential for Singapore to continue thriving and achieving success in today's competitive environment. Sport, with its incredible ability to break down barriers and unify a diversified population will certainly play a more prominent role in Singapore's constant strive for excellence.
+
+4 DPM Teo also reminded Team Singapore athletes and officials of their ability to "bring our nation to its feet," further illustrating the power of sport and the role it plays in nation building.
+
+5 National youth footballer Jeffrey Lightfoot, captain of the football under-16 team agreed with DPM Teo's comments and rallying call and said, "Playing in a stadium packed with cheering fans is truly inspiring. It gives us the extra boost in morale and confidence to keep on fighting even when we are down. It is also great to see Singaporeans from all walks of life, coming together under one roof, and holding the Singapore flag up high, in victory or in defeat."
+
+6 DPM Teo also called on Singaporeans to support Team Singapore athletes at the various upcoming events which will be taking place in Singapore and around the region for 2011, including the SEA Games 2011, which will be held in Palembang and Jakarta in November. Singapore will be playing host to the Li Ning Singapore Open 2011, the 23rd Canon Lion City Cup, the Mission Foods World Netball Championships 2011 Singapore, the 2011 Volkswagen Women?s World Cup and the 2011 ICF Canoe Marathon World Championships.
+
+7 Urging Team Singapore on, DPM Teo added, "I hope the Singapore Sports Awards will encourage all of you to work harder and push yourselves even further so that you are able to achieve all your sporting hopes and dreams. On behalf of all Singaporeans, please continue to provide us with many more special sporting moments. Every time you reach for the stars, you make us proud. You help us build partnerships, strengthen our community bonds and unite as one Singapore."
+
+8 A total of 79 athletes received 60 awards from DPM Teo and Acting Minister for Community Development, Youth and Sports Chan Chun Sing, who presented the Meritorious Awards to the athletes, at the Singapore Sports Awards 2011. These athletes and officials were each honoured with the country's most prestigious recognition of sporting excellence, for their contributions towards Singapore's sporting achievements in 2010.
+statics0
+-End-
+
+Annex A - About the Singapore Sports Awards
+The most prestigious annual recognition for sporting achievements in our city state, the Singapore Sports Awards were first introduced in late 1960's with the initial focus on sportsmen and sportswomen. Swimmers Tan Thuan Heng, and Patricia Chan were the first winners.
+
+Since then, the much coveted Sportsman and Sportswoman of the year titles have gone to some of the finest names in Singapore sport.
+
+The Awards were later extended to include Coach of the Year, and Team of the Year.
+
+In the same year, meritorious awards, given to recognise extraordinary efforts by Singaporean athletes were also given out for the first time.
+
+In 1978, the Sportsboy and Sportsgirl of the year awards were added. The focus on youth has also led to the introduction of the Meritorious awards for juniors in 1978. Since then, some of Singapore's brightest and most promising athletes have been recognised.
+
+The diversity of sports represented by the winners is a telling comment of how far Singapore sports has come. It not only shows the level of competition among sports but also reflects the fact that athletes and coaches have the opportunity to shine at the highest level whatever the discipline they choose to focus on. As Singapore moves towards excellence at the regional level and beyond, such democracy of sporting choices will serve us well.
+statics0
+Annex B - List of Singapore Sports Awards Recipients
+Senior Awards
+
+ 
+
+S/N
+
+Awards
+
+Awardees
+
+Sports
+
+01
+
+Sportsman of the Year
+
+Gai Bin
+
+Shooting
+
+ 
+
+02
+
+Sportswoman of the Year
+
+Jasmine Ser Xiang Wei
+
+Shooting
+
+ 
+
+03
+
+Coach of the Year
+
+William Woo Nam Fatt
+
+Bowling
+
+ 
+
+04
+
+Team of the Year (Event)
+
+National Table Tennis Women's Team
+
+Feng Tianwei
+
+Wang Yuegu
+
+Sun Beibei
+
+Yu Mengyu
+
+Li Jiawei
+
+Table Tennis
+
+ 
+
+05
+
+Meritorious Awards (Individual)
+
+Cherie Tan Shi Hua
+
+ 
+
+Bowling
+
+06
+
+Remy Ong
+
+Bowling
+
+07
+
+Peter Edward Gilchrist
+
+Billiards
+
+08
+
+Lim Heem Wei
+
+Gymnastics
+
+09
+
+Chan Thuang Tong David-Jonathan
+
+Gymnastics
+
+10
+
+Shermeen Lim Xin Yi
+
+Lawn Bowl
+
+11
+
+Colin Cheng Xinru
+
+Sailing
+
+12
+
+Scott Glen Sydney
+
+Sailing
+
+13
+
+Aqilah Binte Sudhir
+
+Shooting
+
+14
+
+Poh Lip Meng
+
+Shooting
+
+15
+
+Nigel Lim Swee Hon
+
+Shooting
+
+16
+
+Tao Li
+
+Swimming
+
+17
+
+Feng Tianwei
+
+Table Tennis
+
+18
+
+Yang Zi
+
+Table Tennis
+
+19
+
+Wang Yuegu
+
+Table Tennis
+
+20
+
+Gao Ning
+
+Table Tennis
+
+21
+
+Yu Mengyu
+
+Table Tennis
+
+ 
+
+22
+
+Meritorious Awards (Event)
+
+National Badminton Women's Doubles Team
+
+Shinta Mulia Sari
+
+Yao Lei
+
+Badminton
+
+23
+
+National Badminton Mixed Doubles Team
+
+Chayut Triyachart
+
+Yao Lei
+
+Badminton
+
+24
+
+National Bowling Women's Trios Team
+
+Cherie Tan Shi Hua
+
+Geraldine Ng Su Yi
+
+Shayna Ng Lin Zhi
+
+Bowling
+
+25
+
+National Bowling Men's Doubles Team
+
+Remy Ong
+
+Jason Yeong-Nathan
+
+Bowling
+
+26
+
+National Sailing Hobie 16 Team
+
+Teo Wee Chin
+
+Justin Wong Ming Ho
+
+Sailing
+
+27
+
+National Sailing 420 Women's Team
+
+Dawn Liu Xiaodan
+
+Siobhan Tam Shiu Wun
+
+Sailing
+
+28
+
+National Shooting Women's 50m Rifle 3- Position Doubles Team
+
+Jasmine Ser Xiang Wei
+
+Aqilah Bte Sudhir
+
+Shooting
+
+29
+
+National Shooting 25m Standard Pistol Men's Pair
+
+Gai Bin
+
+Poh Lip Meng
+
+Shooting
+
+30
+
+National Shooting 10m Air Rifle Women's Pair
+
+Jasmine Ser Xiang Wei
+
+Cheng Jian Huan
+
+Shooting
+
+31
+
+National Shooting 50m Free Pistol Men's Pair
+
+Gai Bin
+
+Nigel Lim Swee Hon
+
+Shooting
+
+32
+
+National Table Tennis Mixed Doubles Team
+
+Yang Zi
+
+Wang Yuegu
+
+Table Tennis
+
+33
+
+National Table Tennis Mixed Doubles Team
+
+Gao Ning
+
+Feng Tianwei
+
+Table Tennis
+
+34
+
+National Table Tennis Women's Doubles Team
+
+Sun Beibei
+
+Li Jiawei
+
+Table Tennis
+
+35
+
+National Table Tennis Men's Team
+
+Gao Ning
+
+Yang Zi
+
+Cai Xiaoli
+
+Pang Xuejie
+
+Ma Liang
+
+Table Tennis
+
+36
+
+National Table Tennis Women's Doubles Team
+
+Feng Tianwei
+
+Wang Yuegu
+
+Table Tennis
+
+37
+
+National Table Tennis Men's Doubles Team
+
+Gao Ning
+
+Yang Zi
+
+Table Tennis
+
+ 
+
+SPORTSBOY/SPORTSGIRL AWARDS
+
+ 
+
+S/N
+
+Awards
+
+Awardees
+
+Sports
+
+01
+
+Sportsboy of the Year
+
+Darren Choy Wong Loong
+
+Sailing
+
+ 
+
+02
+
+Sportsgirl of the Year
+
+New Hui Fen
+
+Bowling
+
+ 
+
+03
+
+Team of the Year
+
+(Event)
+
+National Sailing 420 Boys' Team
+
+Justin Liu Xiaman
+
+Sherman Cheng Feng Yuan
+
+Sailing
+
+ 
+
+04
+
+Team of the Year
+
+(Team Sport)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Football Under-15 Boys' Team
+
+Jeffrey Adam Lightfoot
+
+Mohammad Fashah Iskandar Bin S Rosedin
+
+Muhamad Amirul Iskandar Bin Khairul Anuar
+
+Syazwan Radhi Bin Kasim
+
+Ammirul Emmran Bin Mazlan Brandon Koh Kim Leong
+
+Mohamad Hanafi Bin Mohd Akbar Muhammad Syazwan Bin Mohamed Zin
+
+Sunny Ng Qiu Yang
+
+Jonathan Tan Zen Yang
+
+Illyas Lee Si Qin
+
+Hamzah Bin Fazil
+
+Dhukhilan s/o Jeevamani Muhammad Muhaimin Bin Suhaimi
+
+Muhammad Irfan Asyraf Bin Mohamed Aziz
+
+Bryan Nicolas Neubronner Muhammad Firdaus Bin Mohd Sham
+
+Muhammad Hazim Faiz Bin Hassan
+
+Football
+
+ 
+
+05
+
+Meritorious Awards (Individual)
+
+Abdud Dayyan Bin Mohamed Jaffar
+
+Archery
+
+06
+
+ 
+
+Bernice Lim Hui Ying
+
+Bowling
+
+07
+
+ 
+
+Audrey Yong Pei Lin
+
+Sailing
+
+08
+
+ 
+
+Kimberly Lim Min
+
+Sailing
+
+09
+
+ 
+
+Muhammad Nur Shafiq Bin Mohamed Saiful
+
+Silat
+
+10
+
+ 
+
+Herwan Harrywanto
+
+Silat
+
+11
+
+ 
+
+Rainer Ng Kai Wee
+
+Swimming
+
+12
+
+ 
+
+Pang Xuejie
+
+Table Tennis
+
+13
+
+ 
+
+Isabelle Li Siyun
+
+Table Tennis
+
+14
+
+ 
+
+Nurul Shafinas Binte Abdul Rahman
+
+Taekwondo
+
+15
+
+ 
+
+Daryl Tan Jia Jun
+
+Taekwondo
+
+16
+
+ 
+
+Jason Tan Junwei
+
+Taekwondo
+
+17
+
+ 
+
+Yong Yi Xiang
+
+Wushu
+
+18
+
+ 
+
+Fung Hui Xin
+
+Wushu
+
+19
+
+ 
+
+Etienne Lee Zhe Xuan
+
+Wushu
+
+20
+
+ 
+
+Ho Lin Ying
+
+Wushu
+
+ 
+
+21
+
+Meritorious Awards
+
+(Event)
+
+National Bowling Girls' Doubles Team
+
+Bernice Lim Hui Ying
+
+New Hui Fen
+
+Bowling
+
+22
+
+ 
+
+National Sailing 420 Girls' Team
+
+Rachel Lee Qing
+
+Cecilia Low Rui Qi
+
+Sailing
+
+23
+
+ 
+
+National Sailing Optimist Team (World Cup)
+
+Ryan Lo Jun Han
+
+Kimberly Lim Min
+
+Bryan Lee Teik Leung
+
+Jillian Lee Sook Ying
+Elisa Yukie Yokoyama
+
+Sailing
+
+ 
+
+About the Singapore National Olympic Council
+statics0
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+statics0
+About the Singapore Sports Council
+statics0
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
+
+Follow SSC on Twitter at: www.twitter.com/singaporesports and Facebook at: www.facebook.com/letsplaysg
+
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+statics0
+About Team Singapore
+statics0
+Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
+
+The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
+
+Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
+
+For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg) and [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
+statics0
+For media enquiries, please contact:
+<br>Patricia Yee
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5246
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+	
+Tanty Nazlianah Rosli
+<br>Senior Manager
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5241
+<br>Email:[ tanty_nazlianah@ssc.gov.sg]( tanty_nazlianah@ssc.gov.sg)
