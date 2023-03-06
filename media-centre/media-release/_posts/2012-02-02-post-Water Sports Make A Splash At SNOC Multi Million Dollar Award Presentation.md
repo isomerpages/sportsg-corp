@@ -9,6 +9,8 @@ image: ""
 ### **Water Sports Make A Splash At SNOC Multi-Million Dollar Award Presentation**
 
 *Tao Li and Amanda Lim Take Top Spots in SNOC MAP While 44 Athletes Were Rewarded For the First Time*
+
+![](/images/Media%20Centre/Media%20Release/2012/Feb/WATERSPORTSMAKEASPLASHATSNOCMULTIMILLIONDOLLARAWARDPRESENTATIONMainPar0028Imagegif.gif)
 	
 Singapore, 2 February 2012 - For their great outing at the 26th SEA Games, 50 Team Singapore athletes from five water sports - canoeing, sailing swimming, waterpolo, and water ski - earned themselves a well-deserved S$335,000 or close to 65 percent of the total SNOC Multi-Million Dollar Award Programme (MAP) reward of S$525,000. They were joined by 28 others to receive their awards from Mr Teo Chee Hean, Deputy Prime Minister and President of the Singapore National Olympic Council (SNOC); and Mr Chan Chun Sing, Acting Minister for Community Development Youth and Sports.
 
@@ -41,4 +43,3 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 It is mandatory for all athletes to plough back 20% of the SNOC MAP awards to their National Sports Association for future training and development.
 
 Annex B - SNOC MAP Award Recipients
-
