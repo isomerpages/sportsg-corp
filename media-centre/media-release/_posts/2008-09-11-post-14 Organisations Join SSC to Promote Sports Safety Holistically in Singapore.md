@@ -24,11 +24,11 @@ Singapore, 11 September 2008 - The Singapore Sports Council (SSC) announced toda
 
 8. "The Singapore Heart Foundation is delighted to be a partner in SSC's initiative to nurture a sports safety culture in Singapore. To this end, SHF is developing a self-instructional CPR 3A (Anyone Anytime Anywhere) Kit targeted at training coaches, families and students in CPR so that they can respond effectively in an emergency," said Mr Ho Sun Yee, CEO of the Singapore Heart Foundation.
 
-**Sports Safety Implementation Plans**
+##### **Sports Safety Implementation Plans**
 
 9. The three stages of the plan will be rolled out simultaneously over the next three years.
 
-**THINK SAFE**
+##### **THINK SAFE**
 
 10. The first stage of the implementation plan, THINK SAFE, is to concentrate on raising safety awareness and commitment among the public, focusing on individual responsibility. This includes considerable effort to educate the public that individuals have to assume personal responsibility for their safety and health while engaging in sporting activities. They have to listen to their body and know their limits.
 
@@ -103,7 +103,7 @@ Email: alvin_hang@ssc.gov.sg
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: www.ssc.gov.sg
 
 **About the Sports Safety Working Committee**
-
+<br>
 The Sports Safety Working Committee was formed to work on the implementation of the recommendations put forth by the Sports Safety Committee. The members of the working committee include the following:
 
 1. Singapore Sports Council (SSC) - Chair Organisation
