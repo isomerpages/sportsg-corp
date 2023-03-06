@@ -7,9 +7,11 @@ description: ""
 image: ""
 ---
 ### **ActiveSG Football Academy Welcomes Five Head Coaches**
-In less than a week, the ActiveSG Football Academy will be kicking off the first run of its programme at five different ActiveSG venues around the country. Parents interested to find more information or sign their child up for the programme can do so online at https://www.myactivesg.com/start-out/children-youth/academy/football.
+
+In less than a week, the ActiveSG Football Academy will be kicking off the first run of its programme at five different ActiveSG venues around the country. Parents interested to find more information or sign their child up for the programme can do so online at [www.myactivesg.com/programmes/academy/football](www.myactivesg.com/programmes/academy/football).
 
 Heading the programme at the various venues will be five new head coaches with a wealth of coaching experience under their belt, announced the ActiveSG Football Academy today.
+
 ActiveSG Football Academy Headcoaches
 Joining Academy Principal Aleksandar Duric will be - Richard Bok, Robin Chitrakar, Hyrizan Jufri, Mohamad Hairil Amin and Steven Tan – who will be helming the programme respectively at the Serangoon Sports Centre, Queenstown Sports Centre, Jurong East Sports Centre, Woodlands Sports Centre and the Kallang Cricket Field. As head coaches, the five of them will work with a team of assistant coaches to conduct the programme and monitor the progress of the participants.
 
