@@ -35,7 +35,7 @@ Guests also toured the photography exhibition, 'The Moment' presented by Team Si
 
 For more information on Team Singapore athletes' performance at the 15th Asian Games, please refer to www.teamsingapore.com.sg..
 
-**Enclosures:**
+Enclosures:
 <br>
 [Annex 1: Programme](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex1.pdf)
 <br>
