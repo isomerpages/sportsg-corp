@@ -7,7 +7,7 @@ third_nav_title: Resources
 #### **WORLD ANTI-DOPING AGENCY**
 
 ![World Anti-Doping Code](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/WADA_Code_2021.jpeg)
-[World Anti-Doping Code](https://www.wada-ama.org/en/resources/the-code/world-anti-doping-code) - The WAD Code provides the framework for harmonized anti-doping policies, rules and regulations within sport organisations and among public authorities. It works in conjunction with eight International Standards aimed at bringing harmonization among anti-doping organisations.
+[World Anti-Doping Code](https://www.wada-ama.org/en/resources/the-code/world-anti-doping-code) - The WAD Code provides the framework for harmonised anti-doping policies, rules and regulations within sport organisations and among public authorities. It works in conjunction with eight International Standards aimed at bringing harmonization among anti-doping organisations.
 
 ![Prohibited List](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISPL_2021.jpeg)
 [Prohibited List](https://www.wada-ama.org/en/resources/science-medicine/prohibited-list-documents) - The Prohibited List identifies the substances and methods prohibited in-competition, out-of-competition and in particular sports. The List is reviewed by WADA annually.
@@ -22,7 +22,7 @@ The International Standard for Testing harmonises the procedures for the conduct
 [International Standard for Laboratories](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-laboratories-isl) - 
 The International Standard for Laboratories ensures the production of valid test results and evidentiary data and to achieve uniform and harmonized results and reporting from all accredited laboratories.
 
-![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISTUE_2021.jpeg)[International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-therapeutic-use-exemptions-istue) - The International Standard for Therapeutic Use Exemptions ensures that the process of granting TUEs is harmonized across sports and countries.
+![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISTUE_2021.jpeg)[International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/en/resources/world-anti-doping-program/international-standard-therapeutic-use-exemptions-istue) - The International Standard for Therapeutic Use Exemptions ensures that the process of granting TUEs is harmonised across sports and countries.
 
 ![International Standard for Protection of Privacy and Personal Information](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/World%20Anti%20Doping%20Code/ISPPPI_2021.jpeg)
 [International Standard for Protection of Privacy and Personal Information](https://www.wada-ama.org/en/resources/data-protection/international-standard-for-the-protection-of-privacy-and-personal)
