@@ -80,11 +80,11 @@ For more information about The Coca-Cola Company or Coca-Cola Singapore, please 
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
 **For media enquiries on Coca-Cola, please contact:**
 <br>June Kong
 <br>Public Affairs and Communications
 <br>Coca-Cola Singapore
 <br>Office: (65) 6860 4067
-<br>Email: jkong@apac.ko.com
+<br>Email: [jkong@apac.ko.com](jkong@apac.ko.com)
