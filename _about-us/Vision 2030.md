@@ -7,5 +7,4 @@ Vision 2030 began with this question: **“How can Sport best serve Singapore i
 
 
 
-| ![](/images/Sport%20Education/Sports%20Leadership/Sports%20Leadership%20Workshops/Teambuilder.jpeg) | Column 2 |
-
+| ![](/images/Sport%20Education/Sports%20Leadership/Sports%20Leadership%20Workshops/Teambuilder.jpeg) | tedting |
