@@ -23,3 +23,25 @@ Singapore, 26 March 2012 - The public can now vote for the logo and mascot desig
 -END-
 
 #### **Annex A: SNG - Shortlisted Logo Designs**
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/nafa_logo.gif" style="width: 150px"  />
+
+**Designer: Yong Wen Yeu  
+School: Nanyang Academy of Fine Arts  
+Rationale:**  
+The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo.gif" style="width: 150px"  />
+
+**Designer: Serene Khor  
+School: Singapore Polytechnic  
+Rationale:**  
+My tagline and logo depicts how our community can come together through sports. There are 5 people coming together to form the running man and the star. This brings out the message of community involvement in creating a sporting culture to foster the spirit of sportsmanship, and how this event is able to bring out the best (star) in every participant. The concept of it being an origami is to show how perfection and strategy is required in sports. The 5 vibrant colours represent people from different walks of life and various parts of Singapore.!
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/NYP_logo.gif" style="width: 150px"  />
+
+**Designer:** Tay Yong Le  
+**School:** Nanyang Polytechnic  
+**Rationale:**  
+The logo is based on the passion felt by all who are involved in sports. The flame, which forms the lion's mane, represents the fire in their passion. The lion represents Singapore and also symbolises the character of Singaporeans; courageous, full of strength and relentlessly striving for excellence. The colour red is used to further emphasise the Singapore Spirit.
+
