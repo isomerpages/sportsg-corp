@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Three Consortiums Short-listed for Singapore Sports Hub Project**
 
-Three consortiums vying for the multi million-dollar Singapore Sports Hub project have been short-listed. The three consortiums are Alpine Consortium (led by Alpine Mayreder Bau GmbH); Singapore Gold Consortium (led by Macquarie Bank); and Singapore Sports Hub Consortium (led by Dragages Singapore Pte Ltd). The three were short-listed from an initial list of four consortiums, which submitted their pre-qualification documents on 28 February 2006 (Refer to Annex A for the names of companies that participated in the pre-qualification).
+Three consortiums vying for the multi-million-dollar Singapore Sports Hub project have been short-listed. The three consortiums are Alpine Consortium (led by Alpine Mayreder Bau GmbH); Singapore Gold Consortium (led by Macquarie Bank); and Singapore Sports Hub Consortium (led by Dragages Singapore Pte Ltd). The three were short-listed from an initial list of four consortiums, which submitted their pre-qualification documents on 28 February 2006 (Refer to Annex A for the names of companies that participated in the pre-qualification).
 
 The pre-qualification stage establishes and pre-qualifies bidders who demonstrate the expertise to execute the project. Potential bidders were pre-qualified based on compliance, eligibility, financial strength and technical ability.
 
@@ -44,10 +44,12 @@ Mobile: 9222-1010
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
-**About SSC**
+***About SSC***
 <br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
 
-**About Sports Hub**
+*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.*
+
+***About Sports Hub***
 <br>
-The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship and largest PPP project of this nature. The 35-hectare development is conveniently located next to the city and is easily accessible to the rest of Singapore. It will be connected to the Mass Rapid Transit (MRT) network and major expressways.
+
+*The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship and largest PPP project of this nature. The 35-hectare development is conveniently located next to the city and is easily accessible to the rest of Singapore. It will be connected to the Mass Rapid Transit (MRT) network and major expressways.*
