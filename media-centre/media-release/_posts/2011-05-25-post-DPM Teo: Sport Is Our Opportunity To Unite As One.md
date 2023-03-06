@@ -54,42 +54,12 @@ Senior Awards
 | 07  | Meritorious Awards (Individual)  | Peter Edward Gilchrist  | Billiards
 | 08 | Meritorious Awards (Individual) | Lim Heem Wei  | Gymnastics
 | 09 | Meritorious Awards (Individual) | Chan Thuang Tong David-Jonathan | Gymnastics
-
-10
-
-Shermeen Lim Xin Yi
-
-Lawn Bowl
-
-11
-
-Colin Cheng Xinru
-
-Sailing
-
-12
-
-Scott Glen Sydney
-
-Sailing
-
-13
-
-Aqilah Binte Sudhir
-
-Shooting
-
-14
-
-Poh Lip Meng
-
-Shooting
-
-15
-
-Nigel Lim Swee Hon
-
-Shooting
+| 10 | Meritorious Awards (Individual) | Shermeen Lim Xin Yi  | Lawn Bowl
+| 11 | Meritorious Awards (Individual) | Colin Cheng Xinru | Sailing
+| 12 | Meritorious Awards (Individual) | Scott Glen Sydney | Sailing
+| 13 | Meritorious Awards (Individual) | Aqilah Binte Sudhir | Shooting
+| 14 | Meritorious Awards (Individual) | Poh Lip Meng | Shooting
+| 15 | Meritorious Awards (Individual) | Nigel Lim Swee Hon | Shooting
 
 16
 
