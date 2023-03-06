@@ -70,14 +70,10 @@ Senior Awards
 | 23 | Meritorious Awards (Event)  | National Badminton Mixed Doubles Team <br>Chayut Triyach <br>Yao Lei  | Badminton
 | 24 | Meritorious Awards (Event)  | National Bowling Women's Trios Team <br>Cherie Tan Shi Hua <br>Geraldine Ng Su Yi <br>Shayna Ng Lin Zhi | Bowling
 | 25 | Meritorious Awards (Event)  | National Bowling Men's Doubles Team  <br>Remy Ong  <br>Jason Yeong-Nathan  | Bowling
-| 26 | Meritorious Awards (Event)  | National Sailing Hobie 16 Team
-<br>Teo Wee Chin<br>Justin Wong Ming Ho<br>Sailing
+| 26 | Meritorious Awards (Event)  | National Sailing Hobie 16 Team<br>Teo Wee Chin<br>Justin Wong Ming Ho | Sailing
 | 27 | Meritorious Awards (Event)  | National Sailing 420 Women's Team <br>Dawn Liu Xiaodan <br>Siobhan Tam Shiu Wun  | Sailing
 | 28 | Meritorious Awards (Event)  | National Shooting Women's 50m Rifle 3- Position Doubles Team <br>Jasmine Ser Xiang Wei <br>Aqilah Bte Sudhir | Shooting
-
-29
-
-National Shooting 25m Standard Pistol Men's Pair
+| 29| Meritorious Awards (Event)  | National Shooting 25m Standard Pistol Men's Pair
 
 Gai Bin
 
