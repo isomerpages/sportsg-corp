@@ -82,7 +82,6 @@ Annex A
 | 14 |  | Women's 6 red Snooker | Hoe Shu Wah |
 |  |  | Women's 9 Ball Pool |
 |  |  | Women's 8 Ball Pool |
-
 | 15 |  | Women's 6 red Snooker | Chai Zeet Huey |
 |  |  | Women's 9 Ball Pool |
 |  |  | Women's 8 Ball Pool |
