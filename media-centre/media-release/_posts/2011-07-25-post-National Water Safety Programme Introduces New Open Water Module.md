@@ -6,12 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **National Water Safety Programme Introduces New Open Water Module**
-
-25 Jul 2011
-
-
-SwimSafer Programme Further Enhanced with Re-Certification Courses and Water Safety Workshops for Instructors
+### **SwimSafer Programme Further Enhanced with Re-Certification Courses and Water Safety Workshops for Instructors**
 
 Singapore, 25 July 2011 - Parents now have the opportunity to ensure their children gain the necessary water safety knowledge and survival skills in open water through a new module, SwimSafer Open Water, launched by the National Water Safety Council (NWSC) and the Singapore Sports Council (SSC) today.
 
@@ -27,7 +22,7 @@ Singapore, 25 July 2011 - Parents now have the opportunity to ensure their child
 
 7. To date, more than 50,000 participants have benefitted from the SwimSafer programme since it was rolled out in July 2010, with 170 out of 178 primary schools taking part this year.
 
-SwimSafer Instructor Development Programme
+##### **SwimSafer Instructor Development Programme**
 
 8. NWSC and SSC have also introduced the SwimSafer Instructor Development Programme to further improve the quality of the SwimSafer programme and its instructors. More than 600 SwimSafer instructors will undergo periodic re-certification courses and water safety workshops to reacquaint themselves with the principles of SwimSafer, and to review the programme's existing concepts and skills. The courses and workshops also serve as platforms for instructors to share best practices and techniques in instruction.
 
@@ -39,79 +34,77 @@ SwimSafer Instructor Development Programme
 
 [1] Based on statistics from the Singapore Life Saving Society's Annual Reports (from 2006 to 2010) for cases heard in the Coroner's Court
 
--END-
+##### **Annex A - Six Progressive Stages of the SwimSafer Programme**
 
-Annex A - Six Progressive Stages of the SwimSafer Programme
-
-Stage 1: Introduction to Water Skills
+**Stage 1: Introduction to Water Skills**<br>
 The objective is for your child to gain confidence and develop independence in the water, as well as learn general and deep-end water safety. Techniques taught include forward and backward movement, entering and exiting the pool safely, and introduction to personal water survival skills.
 
-Stage 2: Fundamental Water Skills
+**Stage 2: Fundamental Water Skills**<br>
 General skills development will include unassisted step entry into water, sculling, feet-first surface dives, personal water safety skills and water safety awareness in an aquatic environment. Your child will be encouraged to achieve 25 metres of continuous swim.
 
-Stage 3: Personal Water Survival and Stroke Developmental Skills
+**Stage 3: Personal Water Survival and Stroke Developmental Skills**<br>
 Principles of personal water survival and basic rescue skills will be taught. Your child will demonstrate proficiency in sculling, underwater skills, and the use of a Personal Floatation Device. Your child will be encouraged to achieve 50 metres of continuous swim.
 
-Bronze: Personal Water Survival and Stroke Improvement Skills
+**Bronze: Personal Water Survival and Stroke Improvement Skills**<br>
 Development of your child's stroke techniques will be a focus here, along with coordinated breathing in deep water while swimming 100 metres. Principles of water craft safety will be introduced, as well as continual work on rescue and personal water survival skills.
 
-Silver: Intermediate Personal Water Survival and Stroke Refinement Skills
+**Silver: Intermediate Personal Water Survival and Stroke Refinement Skills**<br>
 Fundamental of diving will be introduced. Development of rescue skills and personal water survival skills also continue at more advanced levels. Your child will be required to demonstrate efficient stroke techniques to complete the Silver stage before progressing to the Gold stage.
 
-Gold: Advanced Personal Water Survival and Swimming Skills Proficiency
+**Gold: Advanced Personal Water Survival and Swimming Skills Proficiency**<br>
 Your child will be required to perform strokes with greater ease, efficiency, power and smoothness over 400 metres. Rescue skills and water safety knowledge will focus on lifesaving readiness. Standing dive and advanced personal water survival skills will continue to be taught.
 
-Annex B - Curriculum Outline of SwimSafer Open Water Module
+##### **Annex B - Curriculum Outline of SwimSafer Open Water Module**
 
-Entry and Exit
+**Entry and Exit**<br>
 Performing wade-in entry
 
-Scull and Body Orientation
+**Scull and Body Orientation**<br>
 Treading water for 3 minutes while signalling for help
 Demonstrating HELP position with Personal Flotation Device
 
-Underwater Skills
+**Underwater Skills**<br>
 Swimming a distance of 3m underwater
 
-Movement/Strokes
+**Movement/Strokes**<br>
 Swimming 200m continuously using front crawl with heads up, breaststroke, survival backstroke and sidestroke
 Putting on Personal Flotation Device, entering water safely, swimming 100m with chosen swim stroke, exiting water safely and removing Personal Flotation Device
 
-Survival Skills
+**Survival Skills**<br>
 Performing various self-preservation skills in a continuous sequence while dressed in swimwear, long sleeve shirt and long pants
 
-Rescue Skills
+**Rescue Skills**<br>
 Performing an accompanied rescue of a person in distress 20m from safety by using a buoyant aid
 
-Water Safety Knowledge
+**Water Safety Knowledge**<br>
 Answering theoretical questions on the open water environment, marine animals, and safety concerns and issue
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
-Derrick Chee
-Secretariat, National Water Safety Council
-Ministry of Community Development, Youth and Sports
-DID: 6354 8246
+Derrick Chee<br>
+Secretariat, National Water Safety Council<br>
+Ministry of Community Development, Youth and Sports<br>
+DID: 6354 8246<br>
 Email: derrick_chee@mcys.gov.sg 
 
-Jemuel Fu
-Executive, Media Relations
-Singapore Sports Council
-DID: 6500 5245
+Jemuel Fu<br>
+Executive, Media Relations<br>
+Singapore Sports Council<br>
+DID: 6500 5245<br>
 Email: jemuel_fu@ssc.gov.sg
 
-About SwimSafer
-
+**About SwimSafer**
+<br>
 SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit www.singaporesports.sg/SwimSafer.
 
 Have Fun, Swim Safe.
 
-About the National Water Safety Council, Singapore
-
+**About the National Water Safety Council, Singapore**
+<br>
 The National Water Safety Council, Singapore (NWSC) was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council recently launched the Code of Practice for the Design and Management of Aquatic Facilities with the Building and Construction Authority (BCA) to promote safe water facilities for the public.
 
-About the Singapore Sports Council
-
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
