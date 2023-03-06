@@ -90,73 +90,7 @@ Senior Awards
 | 01     | Sportsman of the Year     | Darren Choy Wong Loong    | Sailing
 | 02 | Sportsgirl of the Year | New Hui Fen | Bowling
 | 03 | Team of the Year <br>(Event) | National Sailing 420 Boys' Team <br>Justin Liu Xiaman <br>Sherman Cheng Feng Yuan | Sailing
-| 04 | Team of the Year <br>(Team Sport)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-National Football Under-15 Boys' Team
-
-Jeffrey Adam Lightfoot
-
-Mohammad Fashah Iskandar Bin S Rosedin
-
-Muhamad Amirul Iskandar Bin Khairul Anuar
-
-Syazwan Radhi Bin Kasim
-
-Ammirul Emmran Bin Mazlan Brandon Koh Kim Leong
-
-Mohamad Hanafi Bin Mohd Akbar Muhammad Syazwan Bin Mohamed Zin
-
-Sunny Ng Qiu Yang
-
-Jonathan Tan Zen Yang
-
-Illyas Lee Si Qin
-
-Hamzah Bin Fazil
-
-Dhukhilan s/o Jeevamani Muhammad Muhaimin Bin Suhaimi
-
-Muhammad Irfan Asyraf Bin Mohamed Aziz
-
-Bryan Nicolas Neubronner Muhammad Firdaus Bin Mohd Sham
-
-Muhammad Hazim Faiz Bin Hassan
+| 04 | Team of the Year <br>(Team Sport)|  National Football Under-15 Boys' Team  <br>Jeffrey Adam Lightfoo  <br>Mohammad Fashah Iskandar Bin S Rosedin <br>Muhamad Amirul Iskandar Bin Khairul Anuar <br>Syazwan Radhi Bin Kasim <br>Ammirul Emmran Bin Mazlan Brandon Koh Kim Leong <br>Mohamad Hanafi Bin Mohd Akbar Muhammad Syazwan Bin Mohamed Zin <br>Sunny Ng Qiu Yang <br>Jonathan Tan Zen Yang <br>Illyas Lee Si Qin <br>Hamzah Bin Fazil <br>Dhukhilan s/o Jeevamani Muhammad Muhaimin Bin Suhaimi <br>Muhammad Irfan Asyraf Bin Mohamed Aziz <br>Bryan Nicolas Neubronner Muhammad Firdaus Bin Mohd Sham <br>Muhammad Hazim Faiz Bin Hassan
 
 Football
 
