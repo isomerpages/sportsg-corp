@@ -16,6 +16,7 @@ The inaugural event is part of organiser Ironman Asia’s promise to enhance the
 At the SCMS Official Warm Up, runners will experience race day conditions with basic support such as water points, first-aid stations, and split start pens, along with an official timing that will offer a benchmark of their current performance, and what they need to do to achieve their personal bests.  
   
 **A unique race for every runner**  
+
 Depending on their level of comfort, runners can choose a test run of either 5, 10, 15 or 21km, with a final cut-off time of three hours. the SCMS Official Warm Up flags off at the Singapore Sports Hub with staggered starts based on the individual’s race-time.  
   
 Pacers will guide runners as they cover the route that will begin at the iconic National Stadium, before turning onto Stadium Drive, Kallang Basin, and the historic Merdeka Bridge as they run along the meandering Kallang River, before turning returning to the starting point.  
