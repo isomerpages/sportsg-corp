@@ -45,14 +45,14 @@ Annex - Information and Rules: Singapore National Games <br>2012/Community Games
 <br>[Basketball Rules](/files/Media%20Centre/Media%20Release/2011/November/Basketball%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [174 Kb]
 <br>[Bowling Rules](/files/Media%20Centre/Media%20Release/2011/November/Bowling%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [171 Kb]
 <br>[Dragon Boat Rules](/files/Media%20Centre/Media%20Release/2011/November/Dragon%20Boat%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [169 Kb]
-<br>Football Rules [176 Kb]
-<br>Netball Rules [283 Kb]
-<br>Sepak Takraw Rules [234 Kb]
-<br>Swimming Rules [237 Kb]
-<br>Table Tennis Rules [226 Kb]
+<br>[Football Rules](/files/Media%20Centre/Media%20Release/2011/November/Football%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [176 Kb]
+<br>[Netball Rules](/files/Media%20Centre/Media%20Release/2011/November/Netball%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [283 Kb]
+<br>[Sepak Takraw Rules](/files/Media%20Centre/Media%20Release/2011/November/Sepak%20TakrawSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [234 Kb]
+<br>[Swimming Rules](/files/Media%20Centre/Media%20Release/2011/November/FinalCgSng2012SwimmingRulesStandardised%20as%20at%2024%20November%202011pdf.pdf) [237 Kb]
+<br>[Table Tennis Rules](/files/Media%20Centre/Media%20Release/2011/November/Table%20Tennis%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [226 Kb]
 
 For media enquiries, please contact:
-
+<br>
 Ms Lorraine Tiang
 <br>Manager, Corporate & Marketing Communications
 <br>People's Association 
