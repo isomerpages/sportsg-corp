@@ -12,7 +12,7 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2011/Jun/Fundamentals%20Movement%20Skills%20Launch_2011_06_28_IMG_0071.jpeg)
 'FUN Start MOVE Smart!' - The First in a Series of Resources by the SSC to Set Children on the Road Towards Life-Long Active Living
 
-Singapore 28 June 2011 - The Singapore Sports Council (SSC) is laying the tracks that will take Singapore's sporting journey into a new era. The SSC's new Fundamental Movement Skills development programme will ensure that children in Singapore acquire the motor skills necessary to achieve physical literacy - the starting point towards the development of more specialised sports skills and the first step on the road to life-long active living.
+**Singapore 28 June 2011** - The Singapore Sports Council (SSC) is laying the tracks that will take Singapore's sporting journey into a new era. The SSC's new Fundamental Movement Skills development programme will ensure that children in Singapore acquire the motor skills necessary to achieve physical literacy - the starting point towards the development of more specialised sports skills and the first step on the road to life-long active living.
 
 2. The SSC is working on a series of resource guides and training workshops, for preschool teachers, parents, and coaches of children aged two to 10. The resource guides will provide the information and practical know-how needed to develop fundamental movement skills in young children.
 
