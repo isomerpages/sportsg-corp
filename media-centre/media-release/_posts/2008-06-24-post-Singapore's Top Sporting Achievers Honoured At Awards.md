@@ -6,11 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore's Top Sporting Achievers Honoured At Awards
-Singapore , 24 Jun 2008
+### **Singapore's Top Sporting Achievers Honoured At Awards**
 
-Singapore's Top Sporting Achievers Honoured At Awards
-statics0
 Gao Ning and Tao Li Named Sportsman & Sportswoman of the Year
 
 Over 60 Team Singapore athletes and coaches received the highest accolades in Singapore sports for their outstanding performances in 2007 at Singapore's most prestigious sports recognition event, the Singapore Sports Awards 2008 this evening.
@@ -33,24 +30,34 @@ Minister Teo also presented the 2008 International Olympic Committee (IOC) "Spor
 
 The Singapore Sports Awards 2008 captured the pinnacle of Singapore's sports in 2007, and signalled the beginning of another great journey for Team Singapore towards this year's Beijing Olympics in August.
 
-For media inquiries, please contact:
+**For media inquiries, please contact:**
 
 Ms Hazwani Hasni
+<br>
 Executive
+<br>
 Marketing Communications Division,
+<br>
 Singapore Sports Council
-Email: hazwani_hasni@ssc.gov.sg
+<br>
+Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
+<br>
 Office: 65005246
+<br>
 Mobile: 9272 0112
 
 Mr Robert Conceicao
+<br>
 Majic Communications Pte Ltd
-Email: robert@majic.sg
+<br>
+Email: [robert@majic.sg](mailto:robert@majic.sg)
+<br>
 Office: 65385132
+<br>
 Mobile: 9841 9354
 
-About Singapore National Olympic Council
-
+**About Singapore National Olympic Council**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
 **About Singapore Sports Council**
