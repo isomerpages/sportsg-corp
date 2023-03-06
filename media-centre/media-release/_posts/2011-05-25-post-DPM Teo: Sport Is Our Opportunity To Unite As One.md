@@ -6,26 +6,25 @@ layout: post
 description: ""
 image: ""
 ---
-DPM Teo: Sport Is Our Opportunity To Unite As One
-Singapore , 25 May 2011
+## **DPM Teo: Sport Is Our Opportunity To Unite As One**
 
 DPM TEO: SPORT IS OUR OPPORTUNITY TO UNITE AS ONE
 Singapore, 25 May 2011 - Deputy Prime Minister Teo Chee Hean today called attention to the important role sport plays in Singapore's future.
 
-2 Speaking at the Singapore Sports Awards 2011 ceremony held at the Orchard Hotel, DPM Teo said, "Living in a nation of many races and many cultures, we need to find a common ground. Sport is that common ground, the space we can all share and celebrate. Sport is our opportunity to unite as one, regardless of language, religion, race or age."
+2. Speaking at the Singapore Sports Awards 2011 ceremony held at the Orchard Hotel, DPM Teo said, "Living in a nation of many races and many cultures, we need to find a common ground. Sport is that common ground, the space we can all share and celebrate. Sport is our opportunity to unite as one, regardless of language, religion, race or age."
 
-3 Also present at the event was Major General (NS) Chan Chun Sing, Acting Minister for Community Development, Youth and Sports. DPM Teo, who is also the Co-ordinating Minister for National Security, Minister for Home Affairs and President of the Singapore National Olympic Council, added that strong community bonds and a common identity for all Singaporeans were essential for Singapore to continue thriving and achieving success in today's competitive environment. Sport, with its incredible ability to break down barriers and unify a diversified population will certainly play a more prominent role in Singapore's constant strive for excellence.
+3. Also present at the event was Major General (NS) Chan Chun Sing, Acting Minister for Community Development, Youth and Sports. DPM Teo, who is also the Co-ordinating Minister for National Security, Minister for Home Affairs and President of the Singapore National Olympic Council, added that strong community bonds and a common identity for all Singaporeans were essential for Singapore to continue thriving and achieving success in today's competitive environment. Sport, with its incredible ability to break down barriers and unify a diversified population will certainly play a more prominent role in Singapore's constant strive for excellence.
 
-4 DPM Teo also reminded Team Singapore athletes and officials of their ability to "bring our nation to its feet," further illustrating the power of sport and the role it plays in nation building.
+4. DPM Teo also reminded Team Singapore athletes and officials of their ability to "bring our nation to its feet," further illustrating the power of sport and the role it plays in nation building.
 
-5 National youth footballer Jeffrey Lightfoot, captain of the football under-16 team agreed with DPM Teo's comments and rallying call and said, "Playing in a stadium packed with cheering fans is truly inspiring. It gives us the extra boost in morale and confidence to keep on fighting even when we are down. It is also great to see Singaporeans from all walks of life, coming together under one roof, and holding the Singapore flag up high, in victory or in defeat."
+5. National youth footballer Jeffrey Lightfoot, captain of the football under-16 team agreed with DPM Teo's comments and rallying call and said, "Playing in a stadium packed with cheering fans is truly inspiring. It gives us the extra boost in morale and confidence to keep on fighting even when we are down. It is also great to see Singaporeans from all walks of life, coming together under one roof, and holding the Singapore flag up high, in victory or in defeat."
 
-6 DPM Teo also called on Singaporeans to support Team Singapore athletes at the various upcoming events which will be taking place in Singapore and around the region for 2011, including the SEA Games 2011, which will be held in Palembang and Jakarta in November. Singapore will be playing host to the Li Ning Singapore Open 2011, the 23rd Canon Lion City Cup, the Mission Foods World Netball Championships 2011 Singapore, the 2011 Volkswagen Women?s World Cup and the 2011 ICF Canoe Marathon World Championships.
+6. DPM Teo also called on Singaporeans to support Team Singapore athletes at the various upcoming events which will be taking place in Singapore and around the region for 2011, including the SEA Games 2011, which will be held in Palembang and Jakarta in November. Singapore will be playing host to the Li Ning Singapore Open 2011, the 23rd Canon Lion City Cup, the Mission Foods World Netball Championships 2011 Singapore, the 2011 Volkswagen Women?s World Cup and the 2011 ICF Canoe Marathon World Championships.
 
-7 Urging Team Singapore on, DPM Teo added, "I hope the Singapore Sports Awards will encourage all of you to work harder and push yourselves even further so that you are able to achieve all your sporting hopes and dreams. On behalf of all Singaporeans, please continue to provide us with many more special sporting moments. Every time you reach for the stars, you make us proud. You help us build partnerships, strengthen our community bonds and unite as one Singapore."
+7. Urging Team Singapore on, DPM Teo added, "I hope the Singapore Sports Awards will encourage all of you to work harder and push yourselves even further so that you are able to achieve all your sporting hopes and dreams. On behalf of all Singaporeans, please continue to provide us with many more special sporting moments. Every time you reach for the stars, you make us proud. You help us build partnerships, strengthen our community bonds and unite as one Singapore."
 
-8 A total of 79 athletes received 60 awards from DPM Teo and Acting Minister for Community Development, Youth and Sports Chan Chun Sing, who presented the Meritorious Awards to the athletes, at the Singapore Sports Awards 2011. These athletes and officials were each honoured with the country's most prestigious recognition of sporting excellence, for their contributions towards Singapore's sporting achievements in 2010.
-statics0
+8. A total of 79 athletes received 60 awards from DPM Teo and Acting Minister for Community Development, Youth and Sports Chan Chun Sing, who presented the Meritorious Awards to the athletes, at the Singapore Sports Awards 2011. These athletes and officials were each honoured with the country's most prestigious recognition of sporting excellence, for their contributions towards Singapore's sporting achievements in 2010.
+
 -End-
 
 Annex A - About the Singapore Sports Awards
