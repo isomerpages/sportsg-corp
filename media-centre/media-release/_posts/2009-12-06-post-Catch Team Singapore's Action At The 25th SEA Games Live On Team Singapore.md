@@ -65,14 +65,3 @@ Email: srasu@fulfordpr.com
 | Date | Day | Programme title |Start-End |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
-
-
-
-
-
-
-
-
-
