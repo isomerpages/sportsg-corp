@@ -40,7 +40,7 @@ Singapore, 28 October 2009 - As part of Singapore Sports Council's (SSC) continu
 12. Currently, there are 64 NSAs in Singapore with 26 NSAs already attained charity or IPC status.
 
 **For media enquiries, please contact:**
-
+<br>
 S. Parameswaran
 <br>
 Senior Manager, Corporate Communications & Relations
