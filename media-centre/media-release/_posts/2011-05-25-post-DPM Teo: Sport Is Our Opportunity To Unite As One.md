@@ -9,7 +9,7 @@ image: ""
 ## **DPM Teo: Sport Is Our Opportunity To Unite As One**
 
 DPM TEO: SPORT IS OUR OPPORTUNITY TO UNITE AS ONE
-Singapore, 25 May 2011 - Deputy Prime Minister Teo Chee Hean today called attention to the important role sport plays in Singapore's future.
+**Singapore, 25 May 2011** - Deputy Prime Minister Teo Chee Hean today called attention to the important role sport plays in Singapore's future.
 
 2. Speaking at the Singapore Sports Awards 2011 ceremony held at the Orchard Hotel, DPM Teo said, "Living in a nation of many races and many cultures, we need to find a common ground. Sport is that common ground, the space we can all share and celebrate. Sport is our opportunity to unite as one, regardless of language, religion, race or age."
 
@@ -43,15 +43,19 @@ statics0
 Annex B - List of Singapore Sports Awards Recipients
 Senior Awards
 
- 
+| S/N | Awards | Awardees | Sports |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     |  Text     |
+
+
 
 S/N
 
-Awards
 
-Awardees
 
-Sports
+
+
+
 
 01
 
