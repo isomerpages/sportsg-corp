@@ -23,7 +23,7 @@ The academy programme will adopt its core syllabus from the FAS Grassroots Manua
   
 “It is not enough in age-group football to just focus on the technical aspect of the training. At the ActiveSG Football Academy, we will also teach important values such as discipline, respect and teamwork to our participants, as well as equip them with valuble life skills. To ensure that, all coaches at the ActiveSG Football Academy will have to undergo a comprehensive coach education programme that will help them design and conduct a training programme steeped in values-based education and life skills development,” said Mr Duric.  
   
-There will be free trial clinics conducted by the Academy in April and May leading up to the start of the programme. Parents interested to find out more information about these clinics or sign their child up for the programme can do so at the event itself or online at https://www.myactivesg.com/start-out/children-youth/academy/football.  
+There will be free trial clinics conducted by the Academy in April and May leading up to the start of the programme. Parents interested to find out more information about these clinics or sign their child up for the programme can do so at the event itself or online at [https://www.myactivesg.com/programmes/academy/football](https://www.myactivesg.com/programmes/academy/football).  
   
 **Partnership with Tampines Rovers**  
 
@@ -33,7 +33,8 @@ As part of the partnership, Tampines Rovers will be providing coaches who will h
   
 Mr Krishna Ramachandra, Tampines Rovers chairman said, “I am extremely supportive of this programme and collaboration because it hits the spot – the true development of football as to be holistic and embrace all quarters. So with what ActiveSG academy presents is an enrichment of this sector of the footballing ecosystem. Tampines Rovers must always be synonymous with furthering national football and I want this culture and philosophy to outlive my reign. Finally, I am delighted that Tampines Rovers is reunited with a legendary stalwart like Aleksandar Duric. I am proud of what he is doing for Singapore football.”  
   
-Team Singapore Sport Ambassadors  
+**Team Singapore Sport Ambassadors**  
+
 Academy students will also have a chance to meet and interact with their favourite Team Singapore footballers as part of the academy programme. Team Singapore footballers and alumni such as Gabriel Quak, Lim Tong Hai, Lionel Lewis, Quah Kim Song and Razali Saad will be joining the academy as Team Singapore Sport Ambassadors.  
   
 As part of an initiative for former and present Team Singapore footballers to give back to the community, the Sport Ambassadors will be joining the training sessions as role models and share advice with the students.  
