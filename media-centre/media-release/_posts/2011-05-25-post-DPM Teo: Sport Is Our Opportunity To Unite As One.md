@@ -66,60 +66,13 @@ Senior Awards
 | 19 | Meritorious Awards (Individual) |  Wang Yuegu  | Table Tennis
 | 20 | Meritorious Awards (Individual) | Gao Ning | Table Tennis
 | 21 | Meritorious Awards (Individual) | Yu Mengyu | Table Tennis
-| 22 | Meritorious Awards (Event)  | National Badminton Women's <br>Doubles Team <br> Shinta Mulia Sari<br>Yao Lei | Badminton
-| 24 | Meritorious Awards (Event)  | Yao Lei | Badminton
-
-23
-
-National Badminton Mixed Doubles Team
-
-Chayut Triyachart
-
-Yao Lei
-
-Badminton
-
-24
-
-National Bowling Women's Trios Team
-
-Cherie Tan Shi Hua
-
-Geraldine Ng Su Yi
-
-Shayna Ng Lin Zhi
-
-Bowling
-
-25
-
-National Bowling Men's Doubles Team
-
-Remy Ong
-
-Jason Yeong-Nathan
-
-Bowling
-
-26
-
-National Sailing Hobie 16 Team
-
-Teo Wee Chin
-
-Justin Wong Ming Ho
-
-Sailing
-
-27
-
-National Sailing 420 Women's Team
-
-Dawn Liu Xiaodan
-
-Siobhan Tam Shiu Wun
-
-Sailing
+| 22 | Meritorious Awards (Event)  | National Badminton Women's Doubles Team <br> Shinta Mulia Sari<br>Yao Lei | Badminton
+| 23 | Meritorious Awards (Event)  | National Badminton Mixed Doubles Team <br>Chayut Triyach <br>Yao Lei  | Badminton
+| 24 | Meritorious Awards (Event)  | National Bowling Women's Trios Team <br>Cherie Tan Shi Hua <br>Geraldine Ng Su Yi <br>Shayna Ng Lin Zhi | Bowling
+| 25 | Meritorious Awards (Event)  | National Bowling Men's Doubles Team  <br>Remy Ong  <br>Jason Yeong-Nathan  | Bowling
+| 26 | Meritorious Awards (Event)  | National Sailing Hobie 16 Team
+<br>Teo Wee Chin<br>Justin Wong Ming Ho<br>Sailing
+| 27 | Meritorious Awards (Event)  | National Sailing 420 Women's Team <br>Dawn Liu Xiaodan <br>Siobhan Tam Shiu Wun  | Sailing
 
 28
 
