@@ -79,3 +79,15 @@ The logo is formed by the characters 'S, N, and G' which stands for Singapore Na
 When we utter the word 'Lion' the first word that comes into our mind is strength. It also upholds many beliefs, such as courage, power, royalty and wisdom. Sang Nila Utama, founder of Singapore and the Merlion is the reason I decided to name my mascot 'Nila'. The SNG will create friendly rivalry and bring friendship to another level. These elements are infused and depicted in my mascot by the fiery mane and the heart shaped face. The fiery mane symbolises the burning passion of the athletes fighting to win. The heart-shaped face displays love which represents how people interact with one another and come together as a community.
 
 #### **Annex C: CG Competition Schedule for 15 April 2012**
+
+![](/images/Media%20Centre/Media%20Release/2012/May/badminton_west_cost.png?v1)
+
+![](/images/Media%20Centre/Media%20Release/2012/May/badminton_marina_parade.png?v1)
+
+![](/images/Media%20Centre/Media%20Release/2012/May/badminton_sembawang.png)
+
+![](/images/Media%20Centre/Media%20Release/2012/May/badminton_neesoon.png)
+
+![](/images/Media%20Centre/Media%20Release/2012/May/badminton_pasirris.png)
+
+##### **Bowling**
