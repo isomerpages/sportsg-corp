@@ -9,9 +9,9 @@ image: ""
 ### **Two new initiatives and 39 companies boost support for One Team Singapore**
 ![](/images/Media%20Centre/Media%20Release/2017/February/Group%20Photo%20featuring%20TeamSG%20athletes%20with%20spexBusiness%20and%20spexEducation%20partners.jpeg)
 
-Nine new corporate partners have joined the Sports Excellence Business (_spex_Business), bringing the total to 39 companies from 22 diverse industries.
+Nine new corporate partners have joined the Sports Excellence Business (spexBusiness), bringing the total to 39 companies from 22 diverse industries.
 
-Three new Institutes of Higher Learning have also signed up to be part of the Sports Excellence Education (_spex_Education) scheme, joining seven other academic institutions to offer athlete life coaching and academic flexibility to our student athletes.
+Three new Institutes of Higher Learning have also signed up to be part of the Sports Excellence Education (spexEducation) scheme, joining seven other academic institutions to offer athlete life coaching and academic flexibility to our student athletes.
 
 Since the launch of both initiatives in November 2013, almost 500 Team Singapore athletes have directly benefited, including 92 athletes who had found employment opportunities with our partner companies.
 
