@@ -4,7 +4,6 @@ permalink: /anti-doping-singapore/testing/whereabouts-information/
 description: ""
 third_nav_title: Testing
 ---
-
 *An effective out-of-competition testing programme depends largely on accurate and updated whereabouts information.*
 
 Athletes who have been nominated by Anti-Doping Singapore (ADS) or their National Sports Association (NSA) to be included into the ADS Registered Testing Pool (RTP) or the ADS Domestic Testing Pool (DTP) are required to provide accurate and updated Whereabouts Information to ensure they can be tested at **anytime and anywhere with no advance notice**. 
@@ -78,7 +77,7 @@ This information must be accurate and updated at all times. The athlete is liabl
 
 Updates to the 60-minute slot must be made before the start of the 60-minute slot. This can be done through ADAMS or email ([ads@sport.gov.sg](mailto:ads@sport.gov.sg)) up to one minute before the start of the 60-minute slot. However, persistent last minute changes can be investigated as an anti-doping rule violation for evading sample collection or tampering with doping control.
 
-**Whereabouts Information 7****: Travel Information**
+**Whereabouts Information 7**: Travel Information**
 
 All **RTP** athletes must provide their details of their travel plans if they have _**all-day**_ travel plans that prevent them from entering an accessible 60-minute time slot or an **_all-night_** travel plan that would prevent them from entering a fixed and accessible overnight accommodation entry.
 
