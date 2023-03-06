@@ -157,13 +157,13 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
 
 Join SSC on Twitter at: www.twitter.com/singaporesports
-
+<br>
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-About Let's Play
-statics0
+
+**About Let's Play**
+<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
 statics0
 About Coca-Cola
