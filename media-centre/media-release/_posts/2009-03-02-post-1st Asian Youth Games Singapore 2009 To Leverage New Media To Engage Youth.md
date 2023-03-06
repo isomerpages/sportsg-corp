@@ -21,10 +21,7 @@ Mr Oon Jin Teik, Co-Chair of SAYGOC and Chief Executive Officer of SSC said, "Fo
 "We are delighted to be a part of the first-ever Asian Youth Games and this historic milestone in Asian sport. With our partners Perform and Content Craft, both market leaders in digital media services, we are committed to delivering a unique and interactive online experience that will educate, entertain and connect youth all across the region. Our goal is to create a web community that is driven by quality sports content and which is accessible throughout Asia. We look forward to helping to make the inaugural Asian Youth Games a huge success," said Mr Seamus O'Brien, Chairman and Chief Executive Officer, World Sport Group.
 
 For more details about the 1st Asian Youth Games Singapore 2009, please visit www.ayg2009.sg.
-<br>
 
--------------------------------------------------------------------------------------------------
-<br>
 Issued by the Singapore Asian Youth Games Organising Committee
 
 **About the 1st Asian Youth Games Singapore 2009**
