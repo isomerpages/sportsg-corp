@@ -42,7 +42,7 @@ Media Relations Officer
 <br>
 DID: 6500 5246
 <br>
-Email: hazwani_hasni@ssc.gov.sg
+Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
 Tanty Nazlianah Rosli
 <br>
@@ -52,7 +52,7 @@ Media Relations Officer
 <br>
 DID: 6500 5241
 <br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Jeanne Tan
 <br>
@@ -62,4 +62,4 @@ Corporate Communications Division
 <br>
 DID: 68796118
 <br>
-Email: Jeanne_tan@moe.gov.sg
+Email: [Jeanne_tan@moe.gov.sg](mailto:Jeanne_tan@moe.gov.sg)
