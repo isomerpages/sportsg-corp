@@ -53,7 +53,7 @@ RTP and DTP athletes must provide details of their competition schedule for the
 
 If an athlete exits a competition earlier or later than expected they must update their whereabouts immediately.
 
-Athletes are advised to work with their NSA and coach to identify a competition schedule for the forthcoming quarter. If this changes for any reason, for example due to injury, whereabouts filings must be updated immediately.
+Athletes are advised to work with their NSA and coach to identify a competition schedule for the coming quarter. If this changes for any reason, for example due to injury, whereabouts filings must be updated immediately.
 
 **Whereabouts Information 3: Training Schedule**
 
