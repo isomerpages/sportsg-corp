@@ -111,8 +111,30 @@ Email: dominic_tay@ssc.gov.sg
 | 10 | Brunei | 1 |  1 | 8 | 10 |
 | 11 | Timor Leste | 0 | 0 | 3 | 3 |
 | | Total: |370 | 372 | 500 | 1242 |
+_____________________________________________________
 
+**Annex B
+<br>
+25th SEA Games Singapore's Medal Tally**
 
-
-
-
+| S/No | Sport | Gold | Silver |  Bronze | Total |
+| -- | -- |  -- | -- |  -- | -- |
+| 1 | Swimming | 14 | 8 |  11 | 33 |
+| 2 | Shooting | 6 | 5 | 5 | 16 |
+| 3 | Table Tennis | 6 | 4 | 2 | 12 |
+| 4 | Cuesports | 2 | 1 | 2 | 5 |
+| 5 | Athletics | 2 | 1 | 0 | 3 |
+| 6 | Pencak Silat | 1 | 2 | 5 | 8 |
+| 7 | Wushu | 1 | 1 | 0 | 2 |
+| 8 | Waterpolo | 1 | 0 | 0 | 1 |
+| 9 | Golf | 0 | 2 | 0 | 2 |
+| 10 | Archery | 0 | 2 | 0 | 2 |
+| 11 | Badminton | 0 | 1 | 2 | 3 |
+| 12 | Judo | 0 | 1 |  2 | 3 |
+| 13 | Karate | 0 | 1 | 1 | 2 |
+| 14 | Wrestling | 0 | 1 | 0 | 1 |
+| 15 | Taekwondo | 0 | 0 | 2 | 2 |
+| 16 | Cycling | 0 | 0 | 1 | 1 |
+| 17 | Football | 0 | 0 | 1 | 0 |
+| 18 | Boxing | 0 | 0 | 1 | 1 |
+||Total: | 33 | 30 | 35 | 98 |
