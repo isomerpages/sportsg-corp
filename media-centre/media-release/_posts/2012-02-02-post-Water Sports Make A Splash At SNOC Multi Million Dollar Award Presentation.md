@@ -41,3 +41,5 @@ The Tote Board/Singapore Pools (Pte) Ltd is the primary sponsor of the SNOC MAP 
 Athletes who break the South East Asian or Asian Games records will be awarded $5,000 and $50,000 respectively. This incentive does not apply to sports with no official records.
 
 It is mandatory for all athletes to plough back 20% of the SNOC MAP awards to their National Sports Association for future training and development.
+
+Click [here](/files/Media%20Centre/Media%20Release/2012/Feb/water-sports-make-a-splash-at-snoc-multi-million-dollar-award-presentation.pdf) to download **Annex B - SNOC MAP Award Recipients** and **Annex C - Fact Sheet**
