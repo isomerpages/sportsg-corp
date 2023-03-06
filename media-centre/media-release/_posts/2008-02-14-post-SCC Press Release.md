@@ -8,7 +8,7 @@ image: ""
 ---
 ### **SCC Press Release**
 
-'LIVE LIFE, BREATHE SPORTS'
+#### **'LIVE LIFE, BREATHE SPORTS'**
 
 **SPORTING CULTURE COMMITTEE RELEASES ITS RECOMMENDATIONS**
 
@@ -27,7 +27,7 @@ The Sporting Culture Committee (SCC) released its report today, detailing 23 rec
 ISSUED BY THE MINISTRY OF COMMUNITY DEVELOPMENT, YOUTH AND SPORTS.
 
 **For media enquiries, please contact:**
-<br>
+
 Yvonne Lum
 <br>
 Assistant Manager, Communications and International Relations <br>
