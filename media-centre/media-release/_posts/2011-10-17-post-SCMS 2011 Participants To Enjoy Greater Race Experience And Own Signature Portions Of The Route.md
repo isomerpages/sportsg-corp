@@ -9,14 +9,11 @@ image: ""
 ---
 ### **SCMS 2011 Participants To Enjoy Greater Race Experience And 'Own' Signature Portions Of The Route**
 
-17 Oct 2011
-
-
 Singapore, 17 October 2011 - Come 4 December, runners at the Standard Chartered Marathon Singapore (SCMS) 2011 can expect a more positive race experience as a result of a number of key improvements made to the Marathon based on the feedback received from participants last year.
 
 2. Committed to better the race experience, SCMS Organiser, Singapore Sports Council (SSC), took extra efforts to improve the race routes and baggage collection point. "At the top of our list of priorities is creating an exciting and safe race experience for everyone. As we strive to further develop the Standard Chartered Marathon Singapore as the People's Race, these operational improvements goes towards providing a more positive race experience for all our participants," explained Mr David Voth, Senior Director, Sports Business, Singapore Sports Council, and Vice-chairman of the Standard Chartered Marathon Singapore 2011 Organising Committee.
 
-Improvements to SCMS 2011
+##### **Improvements to SCMS 2011**
 
 3. To ease congestion at the merging point of all three routes, participants of the 10km will now run on Nicoll Highway instead of hitting the East Coast Parkway (ECP) where the Full and Half Marathoners will be running on. They will also start their race at an earlier time of 7.15am on the Esplanade Bridge to create separation from runners in other categories towards the finish line.
 
@@ -26,7 +23,7 @@ Improvements to SCMS 2011
 
 6. Another significant improvement for SCMS 2011 will be the change in the baggage collection point, which was previously located at the F1 Pit Building for Full and Half Marathon participants. For SCMS 2011, the baggage collection point will be moved to the War Memorial Park for all categories. The new location is chosen due to its close proximity to the finish point at the Padang, which will enable runners to pick up their belongings with ease after the race.
 
-SCMS 2011 Route Naming Challenge
+##### **SCMS 2011 Route Naming Challenge**
 
 7. Adding to the colour of the race, the Organiser has also introduced the Route Naming Challenge which provides an opportunity for runners and supporters to 'own' eight key signature portions of the route. To participate in the Challenge, one simply needs to submit the proposed names and accompanying reasons to contest@marathonsingapore.com. The Challenge was also conducted at the SCMS 2011 road show at Clarke Quay (Central Fountain Square) this past Saturday, 15 October 2011, from 6pm to 2am.
 
