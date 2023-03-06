@@ -27,4 +27,4 @@ While some supplement manufacturers may guarantee the ingredients in their produ
   
 **STRICT LIABILITY**  
 
-Under the World Anti-Doping Code's strict liability clause, athletes are responsible for any substance found in their body no matter how it came to be there. If an athlete tests positive to a prohibited substance, it is likely to result in an automatic disqualification from competition and may lead to a sanction and period of ineligibility.
+Under the World Anti-Doping Code's strict liability clause, athletes are responsible for any substance found in their body no matter how it came to be there. If an athlete tests positive for a prohibited substance, it is likely to result in an automatic disqualification from competition and may lead to a sanction and period of ineligibility.
