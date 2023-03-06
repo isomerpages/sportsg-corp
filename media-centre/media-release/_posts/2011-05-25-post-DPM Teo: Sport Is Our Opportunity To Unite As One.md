@@ -91,24 +91,8 @@ Senior Awards
 | 02 | Sportsgirl of the Year | New Hui Fen | Bowling
 | 03 | Team of the Year <br>(Event) | National Sailing 420 Boys' Team <br>Justin Liu Xiaman <br>Sherman Cheng Feng Yuan | Sailing
 | 04 | Team of the Year <br>(Team Sport)|  National Football Under-15 Boys' Team  <br>Jeffrey Adam Lightfoot  <br>Mohammad Fashah Iskandar Bin S Rosedin <br>Muhamad Amirul Iskandar Bin Khairul Anuar <br>Syazwan Radhi Bin Kasim <br>Ammirul Emmran Bin Mazlan<br> Brandon Koh Kim Leong <br>Mohamad Hanafi Bin Mohd Akbar Muhammad Syazwan Bin Mohamed Zin <br>Sunny Ng Qiu Yang <br>Jonathan Tan Zen Yang <br>Illyas Lee Si Qin <br>Hamzah Bin Fazil <br>Dhukhilan s/o Jeevamani Muhammad Muhaimin Bin Suhaimi <br>Muhammad Irfan Asyraf Bin <br>Mohamed Aziz <br>Bryan Nicolas Neubronner <br>Muhammad Firdaus Bin Mohd Sham <br>Muhammad Hazim Faiz Bin Hassan | Football
-
- 
-
-05
-
-Meritorious Awards (Individual)
-
-Abdud Dayyan Bin Mohamed Jaffar
-
-Archery
-
-06
-
- 
-
-Bernice Lim Hui Ying
-
-Bowling
+| 05 | Meritorious Awards (Individual) | Abdud Dayyan Bin Mohamed Jaffar | Archery
+| 06 | Meritorious Awards (Individual) | Bernice Lim Hui Ying | 05 |Bowling
 
 07
 
