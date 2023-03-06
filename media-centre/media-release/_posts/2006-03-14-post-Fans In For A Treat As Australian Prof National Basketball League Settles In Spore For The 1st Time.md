@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **Fans In For A Treat As Australian Professional National Basketball League Settles In Singapore For The 1st Time**
+### **Fans in for a Treat as Australian Professional National Basketball League Settles in Singapore for the First Time**
 
 Come September this year, basketball fans will be in for a treat as they get to watch live professional basketball action from the Australian National Basketball League (NBL) right here on Singapore soil at the Singapore Indoor Stadium (SIS) over the next five years. Sixteen of the annual 33 league matches will be played in Singapore over a season spanning seven months with the remaining games being played in Australia. This was revealed today at a joint press conference held simultaneously in Singapore and Sydney.
 
