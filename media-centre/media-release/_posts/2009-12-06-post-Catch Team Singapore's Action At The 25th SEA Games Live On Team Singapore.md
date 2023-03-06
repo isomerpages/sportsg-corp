@@ -62,7 +62,7 @@ Email: srasu@fulfordpr.com
 <br>
 **25th SEA Games, Laos Vientiane 2009 Webcast Schedule - Team Singapore Website**
 <br>
-| Date/Day | Programme title | Start-End |
+| Date/Day | Programme title | Time* |
 | -------- | -------- | -------- |
 | 9-Dec, Wednesday | SEA Games 2009 Opening Ceremony | 7pm - 9pm |
 |10-Dec, Thursday | **SEA Games Action** – Football Preliminary Round - Singapore vs Laos Swimming Finals | 6.40pm - 9pm |
@@ -82,4 +82,5 @@ Email: srasu@fulfordpr.com
 |17-Dec, Thursday | **SEA Games Action** – Football Final | 5.55pm - 8pm |
 | | Today At The Games | 10pm - 10.30pm |
 | 18-Dec, Friday | SEA Games 2009 Closing Ceremony | 7pm - 9pm |
-
+_________________________________________________________
+*Singapore time
