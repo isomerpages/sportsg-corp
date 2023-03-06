@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Deloitte, SIM Global Education and University of Stirling Support Athletes’ Meaningful and Holistic Development**
 The Singapore Sports Institute (SSI), National Youth Sports Institute (NYSI), Deloitte Singapore, SIM Global Education and University of Stirling today came together in the spirit of helping local athletes strive for success both in sport and life. To this end, two new initiatives were launched – a “Sponsorship for Athletes” book funded by Deloitte, and SIM Global Education/University of Stirling Sports Scholarships for two local athletes to pursue a Sports Studies & Marketing degree.  
   
@@ -33,4 +32,4 @@ Said Ms Ho Soon Eng, Director for Higher Education, SIM Global Education: “Thi
   
 Local athletes will be able to train and compete and at the same time pursue their degree aspirations by taking advantage of the flexible and modular nature of the Stirling programme offered locally through SIM Global Education.”  
   
-More information on the course can be found on the SIM Global Education website at www.simge.edu.sg. Athletes who are keen to find out more about the scholarship can write in to Ms Eunice Tan at Eunice\_tan@nysi.org.sg or Ms Denise Lian – deniselian@sim.edu.sg.
+More information on the course can be found on the SIM Global Education website at [www.simge.edu.sg](www.simge.edu.sg). Athletes who are keen to find out more about the scholarship can write in to Ms Eunice Tan at [eunicetan@nysi.org.sg](eunicetan@nysi.org.sg) or Ms Denise Lian at [deniselian@sim.edu.sg](deniselian@sim.edu.sg).
