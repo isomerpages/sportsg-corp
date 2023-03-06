@@ -8,6 +8,8 @@ image: ""
 ---
 ### **Finalists Unveiled For Singapore Sports Awards 2012 New Award Categories**
 
+![](/images/Media%20Centre/Media%20Release/2012/May/FINALISTSUNVEILEDFORSINGAPORESPORTSAWARDS2012NEWAWARDCATEGORIESMainPar0042Imagegif.gif)
+
 Singapore, 10 May 2012 - The nation's most prestigious recognition for sporting achievements, the Singapore Sports Awards (SSA), has recently included three new award categories, 'Most Inspiring Sports Story of the Year', the 'Best Sport Event of the Year (International)' and 'Best Sport Event of the Year (Local)'. Through these award categories, SSA's organisers, the Singapore National Olympic Council (SNOC) and the Singapore Sports Council (SSC), would like to give due recognition to sporting partners that work hard behind the scenes to help shape Sporting Singapore.
 
 2. "Through the introduction of these award categories, we want to extend the tribute to other essential partners of Sporting Singapore, the media and event organisers. And to commend them for their contributions and a job well done," said Mr Low Teo Ping, Vice President, SNOC, who is also the Chairman of SSA 2012 Organising Committee. "Through these awards, we also hope to encourage more organisers and journalists to produce quality events and stories that will inspire more Singaporeans to be involved in sports."
