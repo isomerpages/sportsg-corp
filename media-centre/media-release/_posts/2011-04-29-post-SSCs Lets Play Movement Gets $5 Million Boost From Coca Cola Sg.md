@@ -43,8 +43,7 @@ SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commun
 | August | Motorsports | Clarke Quay | Jurong West SRC | August 27 & 28 | September 10
 | September | Golf | Funan | Jurong East SRC | September 3 & 4 | September 24
 | October | Table Tennis | Tampines Mall | Toa Payoh SRC | October 8 & 9 | October 22
-| November | Multi - Sports | IMM | Pasir Ris SRC | October 29 & 30
-| November 5
+| November | Multi - Sports | IMM | Pasir Ris SRC | October 29 & 30 | November 5
 
 Annex B - Fact Sheet on World Netball Championships
 [Fact Sheet on World Netball Championships.pdf ](/files/Media%20Centre/Media%20Release/2011/Apr/Fact%20Sheet%20on%20World%20Netball%20Championshipspdf.pdf)[126 Kb]
