@@ -16,7 +16,7 @@ Singapore, 3 March 2008 - The Singapore Sports Council (SSC) has launched a new 
 
 3. "S.P.A.M is probably one of the coolest things that can exist in sports today. Through it, we aim to drive home the message that sports like many lifestyle activities are great for social bonding. Young people can meet new friends, have a good time and most importantly, keep fit. So make sports a part of your life now and live it up!" said Mr Oon Jin Teik, Chief Executive Officer, SSC.
 
-**Highlights At S.P.A.M Bash**
+##### **Highlights At S.P.A.M Bash**
 
 4. Exciting highlights await all at the S.P.A.M bash hosted by ESPN SportsCenter presenter, Steve Dawson, and 91.3FM radio deejays Rod Monteiro and Suzanne Walker. For a start, partygoers can expect a showcase of thrilling sports such as Latino Jam, Muay Thai and Pole Fitness. There will be opportunities to mingle with Team Singapore Sports Idols 2007 such as Jazreel Tan (Bowling), Bryan Tay (Swimming), Tao Yi Jun (Wushu), Kevin Chiak (Bodybuilding), Vanessa Poo Jill (Badminton) and Mohammad Asadullah (Silat) and learn more about sports and the benefits of living up the sporting lifestyle. In addition, there will also be a special fashion segment where the latest chic sportswear will be featured.
 
