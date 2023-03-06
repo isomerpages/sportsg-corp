@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Catch Team Singapore's Action At The 25th SEA Games Live On TeamSingapore.Com.Sg**
 
 Live broadcast will be from 9 to 18 December 2009
@@ -63,25 +62,25 @@ Email: [srasu@fulfordpr.com](mailto:srasu@fulfordpr.com)
 <br>
 **25th SEA Games, Laos Vientiane 2009 Webcast Schedule - Team Singapore Website**
 <br>
-| Date/Day | Programme title | Time* |
-| -------- | -------- | -------- |
-| 9-Dec, Wednesday | SEA Games 2009 Opening Ceremony | 7pm - 9pm |
-|10-Dec, Thursday | **SEA Games Action** – Football Preliminary Round - Singapore vs Laos Swimming Finals | 6.40pm - 9pm |
-| | Today At The Games | 10pm - 10.30pm |
-|11-Dec, Friday | **SEA Games Action** – Swimming Finals | 7pm - 9.30pm |
-| | Today At The Games | 10pm - 10.30pm |
-| 12-Dec, Saturday | **SEA Games Action** – Swimming Finals, Badminton Team Semi-Finals and Table Tennis Mixed Doubles Semi Finals | 7pm - 9.30pm |
-| | Today At The Games | 10pm - 10.30pm |
-| 13-Dec, Sunday | **SEA Games Action** – Swimming Finals, Athletics Finals and Table Tennis Mixed Doubles Finals | 7pm - 9.30pm |
-| | Today At The Games | 10pm - 10.30pm |
-|14-Dec, Monday | **SEA Games Action** – Swimming Finals and Table Tennis Doubles Finals | 7pm - 9.30pm |
-| | Today At The Games | 10pm - 10.30pm |
-|15-Dec, Tuesday | **SEA Games Action** – Table Tennis Singles Finals, Athletics Finals and Badminton Doubles Finals | 7pm - 9pm |
-| | Today At The Games | 10pm - 10.30pm |
-|16-Dec, Wednesday | **SEA Games Action** – Athletics Finals and Badminton Singles, Doubles & Mixed Finals | 7pm - 9pm |
-| | Today At The Games | 10pm - 10.30pm |
-|17-Dec, Thursday | **SEA Games Action** – Football Final | 5.55pm - 8pm |
-| | Today At The Games | 10pm - 10.30pm |
-| 18-Dec, Friday | SEA Games 2009 Closing Ceremony | 7pm - 9pm |
+| Date | Day | Programme title | Start* | End* |
+| -------- | -------- | -------- | -------- | -------- |
+| 9 Dec | Wednesday | SEA Games 2009 Opening Ceremony | 7pm | 9pm |
+|10 Dec | Thursday | **SEA Games Action** – Football Preliminary Round - Singapore vs Laos Swimming Finals | 6.40pm | 9pm |
+| | | Today At The Games | 10pm | 10.30pm |
+|11 Dec | Friday | **SEA Games Action** – Swimming Finals | 7pm | 9.30pm |
+| | | Today At The Games | 10pm | 10.30pm |
+| 12 Dec | Saturday | **SEA Games Action** – Swimming Finals, Badminton Team Semi-Finals and Table Tennis Mixed Doubles Semi Finals | 7pm | 9.30pm |
+| | | Today At The Games | 10pm | 10.30pm |
+| 13 Dec | Sunday | **SEA Games Action** – Swimming Finals, Athletics Finals and Table Tennis Mixed Doubles Finals | 7pm | 9.30pm |
+| | | Today At The Games | 10pm | 10.30pm |
+|14 Dec | Monday | **SEA Games Action** – Swimming Finals and Table Tennis Doubles Finals | 7pm | 9.30pm |
+| | | Today At The Games | 10pm | 10.30pm |
+|15 Dec | Tuesday | **SEA Games Action** – Table Tennis Singles Finals, Athletics Finals and Badminton Doubles Finals | 7pm | 9pm |
+| | | Today At The Games | 10pm | 10.30pm |
+|16 Dec | Wednesday | **SEA Games Action** – Athletics Finals and Badminton Singles, Doubles & Mixed Finals | 7pm | 9pm |
+| | | Today At The Games | 10pm | 10.30pm |
+|17 Dec | Thursday | **SEA Games Action** – Football Final | 5.55pm | 8pm |
+| | |Today At The Games | 10pm | 10.30pm |
+| 18 Dec | Friday | SEA Games 2009 Closing Ceremony | 7pm | 9pm |
 _________________________________________________________
 *Singapore time
