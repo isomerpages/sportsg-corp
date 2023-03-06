@@ -31,7 +31,7 @@ Singapore, 18 March 2009 - Against the backdrop of the current economic downturn
 10. This year's CEO Networking Session was held at the F1 Pit Building @ Marina Bay and was attended by more than 100 corporate leaders.
 
 **For media enquiries, please contact:**
-<br>
+ 
 S. Parameswaran
 <br>
 Manager, Corporate Communications
