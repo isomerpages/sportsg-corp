@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Invitation To Tender For Singapore Sports Hub Comes To A Successful Close**
+### **Invitation To Tender For Singapore Sports Hub Comes To A Successful Close**
 
 The Singapore Government announced the successful close of the Invitation to Tender (ITT) for the Singapore Sports Hub project today at 4.00pm.
 
