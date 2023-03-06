@@ -105,19 +105,9 @@ Senior Awards
 | 16 | Meritorious Awards (Individual) | Jason Tan Junwei | Taekwondo
 | 17 | Meritorious Awards (Individual) | Yong Yi Xiang | Wushu
 | 18 | Meritorious Awards (Individual) | Fung Hui Xin| Wushu
-| 19 | Meritorious Awards (Individual) | Etienne Lee Zhe Xuan
-
-Wushu
-
-| 20 | Meritorious Awards (Individual) | Ho Lin Ying
-
-Wushu
-
- 
-
-| 21 | Meritorious Awards (Individual) | 
-
-Meritorious Awards
+| 19 | Meritorious Awards (Individual) | Etienne Lee Zhe Xuan | Wushu
+| 20 | Meritorious Awards (Individual) | Ho Lin Ying | Wushu
+| 21 | Meritorious Awards (Individual) |  Meritorious Awards
 
 (Event)
 
