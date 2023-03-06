@@ -24,7 +24,7 @@ Singapore, 28 October 2007 - Singapore Sports Council (SSC) officially opens Jur
 
 8. "Jurong West SRC goes beyond being a sports facility to a community facility. It sets the direction of Singapore Sports Council in providing top-notch facilities to give residents an all-encompassing experience," said Mr Alex Chan, SSC Chairman.
 
-**For media inquiries, please contact:**
+**For media enquiries, please contact:**
 
 S. Parameswaran
 <br>
