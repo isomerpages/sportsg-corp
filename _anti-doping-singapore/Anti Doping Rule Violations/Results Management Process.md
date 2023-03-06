@@ -54,7 +54,7 @@ An athlete may be deemed to have committed an anti-doping rule violation if they
 10. Prohibited Association: associate with a person such as a coach, doctor or physio who has been found guilty of a criminal or disciplinary offence equivalent to a doping violation
 11. Acts by an Athlete or Other Person to Discourage or Retaliate against Reporting to Authorities
 
-While items 1 to 4 apply to athletes, items 5 to 11 applies to athletes and athlete support personnel.
+While items 1 to 4 apply to athletes, items 5 to 11 apply to athletes and athlete support personnel.
 
 An athlete support personnel, such as a Coach, Team Manager or Doctor, may also be sanctioned if they are deemed to have violated any anti-doping rule.
 
@@ -85,7 +85,7 @@ If the B Sample analysis confirms the adverse analytical finding in respect of t
 
 Once the athlete has received notification following the initial review, ADS will notify the respective National Sports Association (NSA), who will impose a provisional suspension on the athlete.
 
-A provisional suspension can only be imposed if the athlete is given an opportunity for a provisional or an expedited hearing.
+A provisional suspension can only be imposed if the athlete is given an opportunity for a provisional or expedited hearing.
 
 Where a provisional suspension has been imposed in relation to an A Sample adverse analytical finding, and the athlete has requested that the B Sample be analysed, and where the B Sample does not confirm the A Sample analysis, then the provisional suspension shall be rescinded immediately.
 
