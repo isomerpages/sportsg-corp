@@ -75,19 +75,47 @@ table, th, td {
     <td></td>
 		<td>Men's Team</td>
     <td></td>
+	</tr>
+  <tr>
+		<td>2</td>
+    <td></td>
+		<td>Men's Single</td>
+    <td>Basil Low Eng Howe</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-		<td>Doe</td>
-    <td>94</td>
+    <td></td>
+    <td></td>
+		<td>Men's Double</td>
+    <td></td>
+  </tr>
+	  <tr>
+    <td></td>
+    <td></td>
+		<td>Men's Team</td>
+    <td></td>
+	</tr>
+  <tr>
+		<td>3</td>
+    <td></td>
+		<td>Men's Single</td>
+    <td>Mark Wong Jee Mun</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-		<td>Doe</td>
-    <td>80</td>
+    <td></td>
+    <td></td>
+		<td>Men's Double</td>
+    <td></td>
   </tr>
+	  <tr>
+    <td></td>
+    <td></td>
+		<td>Men's Team</td>
+    <td></td>
+	</tr>
+  <tr>
+	
+	
+	
 </table>
 
 </body>
