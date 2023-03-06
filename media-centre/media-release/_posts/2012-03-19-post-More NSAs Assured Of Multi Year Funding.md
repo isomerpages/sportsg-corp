@@ -26,3 +26,14 @@ Singapore, 19 March 2012 - The Singapore Sports Council (SSC) announced that mor
 -END-
 
 **Annex A - FY 2012 Annual NSA Grant Exercise Allocation**
+
+
+
+| Grant Allocated | NSAs |
+| -------- | -------- |
+| More than $1.5m  | Badminton, Bowling, Football, Netball, Sailing, Shooting, Swimming, Table Tennis | 
+| $500k - $1.5m | Athletics, Basketball, Fencing, Gymnastics, Hockey, Rugby, SDSC, Silat | 
+| $200k - $499k  | Canoe, Cricket, Cuesports, Cycling, Dragonboat, Golf, Rowing, Sepak Takraw, Softball/Baseball, Special Olympics, Taekwondo, Tennis, Volleyball, Wushu | 
+| $100k - $199k | Archery, Boxing, Ice Skating, Judo, Karate, Modern Pentathlon, Motorsports, Squash, Triathlon, Wrestling | 
+| Less than $100k | Chess, Equestrian, Floorball, Handball, Lawn Bowls, Mountaineering, Petanque, Weightlifting | 
+
