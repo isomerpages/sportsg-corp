@@ -77,7 +77,7 @@ This information must be accurate and updated at all times. The athlete is liabl
 
 Updates to the 60-minute slot must be made before the start of the 60-minute slot. This can be done through ADAMS or email ([ads@sport.gov.sg](mailto:ads@sport.gov.sg)) up to one minute before the start of the 60-minute slot. However, persistent last minute changes can be investigated as an anti-doping rule violation for evading sample collection or tampering with doping control.
 
-**Whereabouts Information 7**: Travel Information**
+**Whereabouts Information 7: Travel Information**
 
 All **RTP** athletes must provide their details of their travel plans if they have _**all-day**_ travel plans that prevent them from entering an accessible 60-minute time slot or an **_all-night_** travel plan that would prevent them from entering a fixed and accessible overnight accommodation entry.
 
@@ -94,11 +94,11 @@ It is the responsibility of athletes in the RTP and DTP to ensure that their whe
 
 **Missed Tests**
 
-If a RTP athlete is unavailable for testing when an Anti-Doping Organisation attempts to test them at the location specified for their 60-minute slot, then a Missed Test may be recorded.
+If an RTP athlete is unavailable for testing when an Anti-Doping Organisation attempts to test them at the location specified for their 60-minute slot, then a Missed Test may be recorded.
 
 **Filing Failures**
 
-If a RTP or DTP athlete fails to provide and/or update the required Whereabouts information so that is accurate, or if the athlete provides information that is insufficient for a Doping Control Officer to locate him/her for testing, or if the athlete is not at the locations specified, then a Filing Failure may be recorded. 
+If an RTP or DTP athlete fails to provide and/or update the required Whereabouts information so that is accurate, or if the athlete provides information that is insufficient for a Doping Control Officer to locate him/her for testing, or if the athlete is not at the locations specified, then a Filing Failure may be recorded. 
 
 **For a RTP Athlete**:
 
@@ -130,7 +130,7 @@ While updating will be permitted until the last minute, the athlete are advised 
 
 Updates to whereabouts filing can be made:
 
-(a) On-line via [ADAMS](https://adams.wada-ama.org/adams/)
+(a) Online via [ADAMS](https://adams.wada-ama.org/adams/)
 <br>
 (b) By Email to [ads@sport.gov.sg](mailto:ads@sport.gov.sg)
 
