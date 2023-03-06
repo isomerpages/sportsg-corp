@@ -27,7 +27,7 @@ The three short-listed consortiums will now develop and submit their proposals b
 The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship and largest PPP project of this nature. The 35-hectare development is conveniently located next to the city and is easily accessible to the rest of Singapore. It will be connected to the Mass Rapid Transit (MRT) network and major expressways.
 
 
-Enclosures
+**Enclosures**
 
 [Annex A: Details on pre-qualified consortiums](/files/Media%20Centre/Media%20Release/2006/July/31JulMRshannexa.pdf)
 <br>
