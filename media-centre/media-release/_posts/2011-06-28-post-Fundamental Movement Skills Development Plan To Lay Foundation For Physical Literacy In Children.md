@@ -41,7 +41,7 @@ Singapore 28 June 2011 - The Singapore Sports Council (SSC) is laying the tracks
 Patricia Yee
 <br>Executive, Media Relations
 <br>Singapore Sports Council
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
 **About the Singapore Sports Council**
 <br>
