@@ -91,3 +91,7 @@ When we utter the word 'Lion' the first word that comes into our mind is strengt
 ![](/images/Media%20Centre/Media%20Release/2012/May/badminton_pasirris.png)
 
 ##### **Bowling**
+**Category: Mixed Team**
+![](/images/Media%20Centre/Media%20Release/2012/May/bowling1.png)
+![](/images/Media%20Centre/Media%20Release/2012/May/bowling2.png)
+![](/images/Media%20Centre/Media%20Release/2012/May/bowling3.png)
