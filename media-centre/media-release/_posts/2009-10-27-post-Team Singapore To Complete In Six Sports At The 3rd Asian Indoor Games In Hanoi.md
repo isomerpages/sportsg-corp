@@ -44,7 +44,7 @@ Annex A
 <br>
 3rd Asian Indoor Games Vietnam 2009 - Contingent List
 <br>
-| S/N | Sport | Event | Name of Athlete |
+| **S/N** | **Sport** | **Event** | **Name of Athlete** |
 | -------- | -------- | -------- | -------- |
 | 1 | Bowling | Men's Single | Lionel Lim Guo Liang |
 |  |  | Men's Double |
@@ -109,5 +109,5 @@ Annex A
 | 35 | | Men's Seni Regu | Khairul Arifin |
 | 36 | Chess Xiangqi | Rapid Individual Men | Kng Ter Yong |
 | 37 | | Rapid Individual Men | Alvin Woo Tsung Han |
-________________________________________________
+_________________________________________________________
 *Singapore time
