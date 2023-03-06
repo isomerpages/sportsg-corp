@@ -108,12 +108,7 @@ Senior Awards
 | 19 | Meritorious Awards (Individual) | Etienne Lee Zhe Xuan | Wushu
 | 20 | Meritorious Awards (Individual) | Ho Lin Ying | Wushu
 | 21 | Meritorious Awards (Event) |  National Bowling Girls' Doubles Team <br>Bernice Lim Hui Ying <br>New Hui Fen | Bowling
-
-22
-
- 
-
-National Sailing 420 Girls' Team
+| 22 | Meritorious Awards (Event) |  National Sailing 420 Girls' Team
 
 Rachel Lee Qing
 
@@ -121,11 +116,7 @@ Cecilia Low Rui Qi
 
 Sailing
 
-23
-
- 
-
-National Sailing Optimist Team (World Cup)
+| 23 | Meritorious Awards (Event) |  National Sailing Optimist Team (World Cup)
 
 Ryan Lo Jun Han
 
