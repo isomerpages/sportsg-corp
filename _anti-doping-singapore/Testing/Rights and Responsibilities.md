@@ -40,11 +40,8 @@ You have the right to:
 You have the responsibility to:
 
 * Remain within direct observation of the DCO or Chaperone at all times from the point of notification until the completion of the sample collection procedure
-    
 * Provide photo identification
-    
 * Comply with sample collection procedures
-    
 * Report immediately to the Doping Control Station
     
 #### **ATHLETE SUPPORT PERSONNEL**
@@ -52,7 +49,7 @@ You have the responsibility to:
 As an athlete support personnel, you must know and understand your roles and responsibilities when supporting athletes. You play an integral part in shaping good anti-doping behaviours in athletes whom you support.  
   
 **ATHLETE SUPPORT PERSONNEL ROLES**
-* Be knowledgeable of and complying with all anti-doping policies and rules which are applicable to you or the athletes you support
+* Be knowledgeable of and comply with all anti-doping policies and rules which are applicable to you or the athletes you support
 * Use  your influence on athlete values and behaviours to foster anti-doping attitudes
 
 **ATHLETE SUPPORT PERSONNEL RESPONSIBLITIES**
