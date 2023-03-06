@@ -68,7 +68,7 @@ DID: 6324 5288
 <br>
 Mobile: 9737 0769
 <br>
-Email: deng@fulfordpr.com
+Email: [deng@fulfordpr.com](mailto:deng@fulfordpr.com)
 
 Ronda Ng
 <br>
@@ -78,7 +78,7 @@ DID: 6324 5293
 <br>
 Mobile: 9152 2842
 <br>
-Email: rng@fulfordpr.com
+Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
 
 Hazwani Hasni Executive, Marketing Communications
 <br>
@@ -88,7 +88,7 @@ DID: 6500 5246
 <br>
 Mobile: 9272 0112
 <br>
-Email: Hazwani_hasni@ssc.gov.sg
+Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 
 Kelly Fan (Ms)
 <br>
@@ -100,4 +100,4 @@ Tel: 6342 3503
 <br>
 Mobile: 9007 8669
 <br>
-Email: kelly.fan@sdsc.org.sg
+Email: [kelly.fan@sdsc.org.sg](mailto:kelly.fan@sdsc.org.sg)
