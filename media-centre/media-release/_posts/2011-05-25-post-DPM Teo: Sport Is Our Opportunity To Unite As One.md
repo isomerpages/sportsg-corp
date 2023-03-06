@@ -66,8 +66,8 @@ Senior Awards
 | 19 | Meritorious Awards (Individual) |  Wang Yuegu  | Table Tennis
 | 20 | Meritorious Awards (Individual) | Gao Ning | Table Tennis
 | 21 | Meritorious Awards (Individual) | Yu Mengyu | Table Tennis
-| 22 | Meritorious Awards (Event)  | National Badminton Women's | Doubles Team
-| 23 | Meritorious Awards (Event)  | Yao Lei | Badminton
+| 22 | Meritorious Awards (Event)  | National Badminton Women's <br>Doubles Team <br> Shinta Mulia Sari<br>Yao Lei | Badminton
+| 24 | Meritorious Awards (Event)  | Yao Lei | Badminton
 
 23
 
