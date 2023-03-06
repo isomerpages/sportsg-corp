@@ -32,9 +32,6 @@ Mr Oon Jin Teik, Chief Executive Officer, SSC commented, "Today's event celebrat
 
 For more information on Team Singapore at the Beijing 2008 Olympic Games, please visit www.teamsingapore.com.sg.
 
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
 **For media enquiries, please contact:**
 
@@ -69,3 +66,8 @@ DID: 6500 5246
 Mobile: 9272 0112
 <br>
 Email: Hazwani_hasni@ssc.gov.sg
+
+
+**About Singapore Sports Council**
+<br>
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
