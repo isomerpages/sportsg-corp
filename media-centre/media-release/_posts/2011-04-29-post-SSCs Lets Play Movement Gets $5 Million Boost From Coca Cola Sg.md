@@ -39,65 +39,12 @@ SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commun
 | April    | Netball     | IMM     | Sengkang SRC    | April 29 & 30   | May 1
 | May | Bowling | Junction 8 | Tampines SRC | May 14 & 15 | May 21
 | June | Badminton | Bukit Panjang Plaza | Yio Chu Kang SRC | June 4 & 5 | June 11
-| July
-
-Athletics
-
-Lot 1
-
-Hougang SRC
-
-July 9 & 10
-
-July 16
-
-August
-
-Motorsports
-
-Clarke Quay
-
-Jurong West SRC
-
-August 27 & 28
-
-September 10
-
-September
-
-Golf
-
-Funan
-
-Jurong East SRC
-
-September 3 & 4
-
-September 24
-
-October
-
-Table Tennis
-
-Tampines Mall
-
-Toa Payoh SRC
-
-October 8 & 9
-
-October 22
-
-November
-
-Multi - Sports
-
-IMM
-
-Pasir Ris SRC
-
-October 29 & 30
-
-November 5
+| July | Athletics | Lot 1 | Hougang SRC | July 9 & 10 | July 16
+| August | Motorsports | Clarke Quay | Jurong West SRC | August 27 & 28 | September 10
+| September | Golf | Funan | Jurong East SRC | September 3 & 4 | September 24
+| October | Table Tennis | Tampines Mall | Toa Payoh SRC | October 8 & 9 | October 22
+| November | Multi - Sports | IMM | Pasir Ris SRC | October 29 & 30
+| November 5
 
  
 
