@@ -51,3 +51,12 @@ The logo is based on the passion felt by all who are involved in sports. The fla
 **School**: Singapore Polytechnic
 **Rationale**:
 I used the first letter of each word in the slogan 'Singapore National Games' as the concept of my design by combining strong fluid figures along with refined shapes. Dull tones of red were used as it represents the passion and spirit of coming together as one. Each figure represents a different sport - for instance, the 'S' resembles an athlete swimming. I hope that my logo not only invokes a sense of bonding among Singaporeans, but reiterates the fact that sports is for everyone.
+
+#### **Annex B: SNG - Shortlisted Mascot Designs**
+
+<img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo2.gif" style="width: 150px"  />
+
+**Designer:** Serene Khor  
+**School:** Singapore Polytechnic  
+**Rationale:**  
+My mascot's name is Kucinta. It is unique to Singapore but not many people of my age are aware of it. It being a street cat is part and parcel of the community, or used to be when people would play with street cats. This action shows the friendliness and warmth among the community during the kampong days. Furthermore, the name Kucinta consists of the term 'love', which symbolises the passion in sports and care for the community. I think Kucinta would serve as a good reminder of the good old days.
