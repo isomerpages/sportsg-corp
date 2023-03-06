@@ -8,7 +8,7 @@ third_nav_title: Resources
 To achieve its vision that "**_Every Singaporean Athlete is a True Winner_**", one of the key strategies of Anti-Doping Singapore (ADS) is anti-doping education.
 
 It is through our education programmes that ADS aims to: 
-* promote doping-free behavior that positively influence athletes' beliefs, attitudes and behavior toward doping in sport; and        
+* promote doping-free behaviour that positively influence athletes' beliefs, attitudes and behavior toward doping in sport; and        
 * create a generation of athletes and athlete support personnel who understand the values of competing fairly and cleanly.
 
 Targeted at athletes competing at all levels and their support personnel, our education initiatives include:
