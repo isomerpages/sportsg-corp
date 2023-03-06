@@ -28,12 +28,12 @@ image: ""
 
 7. Along with creating an event that involves the community on a whole, the SSC is looking to translate the growing involvement to having participants taking part in the race with an additional purpose. Charity has always been part of the event, but to encourage more runners to be involved with its 'Run for good' programme, the SSC has introduced a brand new concept hosted on the online platform GIVE.sg, the Official Charity Fundraising Platform for 2011.
 
-8. With GIVE.sg, runners can now nominate a charity of their choice and create a page on GIVE.sg to rally for funds. Alternatively they can raise funds for any of the 35 nominated beneficiaries [1]. Besides providing runners with the flexibility of choice, this platform also allows anyone in the world to donate using their credit or debit card in a safe and secure way. Local donors are entitled to a tax deduction of 2.5 times the donation amount when they donate to any organisations with Institution of Public Character (IPC) status. Runners can join the 'Run for good' charity programme at www.marathonsingapore.GIVE.sg.
+8. With GIVE.sg, runners can now nominate a charity of their choice and create a page on [GIVE.sg](GIVE.sg) to rally for funds. Alternatively they can raise funds for any of the 35 nominated beneficiaries [1]. Besides providing runners with the flexibility of choice, this platform also allows anyone in the world to donate using their credit or debit card in a safe and secure way. Local donors are entitled to a tax deduction of 2.5 times the donation amount when they donate to any organisations with Institution of Public Character (IPC) status. Runners can join the 'Run for good' charity programme at [www.marathonsingapore.GIVE.sg](www.marathonsingapore.GIVE.sg).
 
-9. For further details of the SCMS 2011, please visit the Marathon's official website and Facebook page at www.marathonsingapore.com and www.facebook.com/MarathonSG.
+9. For further details of the SCMS 2011, please visit the Marathon's official website and Facebook page at [www.marathonsingapore.com](www.marathonsingapore.com) and [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG).
 
 
-[1] More charities will be added to the list for the 'Run for good' programme
+* More charities will be added to the list for the 'Run for good' programme*
 
 -End-
 
