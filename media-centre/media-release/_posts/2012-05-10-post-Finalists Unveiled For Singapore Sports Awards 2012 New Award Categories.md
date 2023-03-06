@@ -24,7 +24,10 @@ Singapore, 10 May 2012 - The nation's most prestigious recognition for sporting 
 
 | Best Sports Event (International) | Best Sports Event (Local) |
 | -------- | -------- | 
-| Text     | Text     | 
+| 2011 Formula 1 Singtel Singapore Grand Prix  | OCBC Cycle Singapore 2011     | 
+| Mission Foods World Netball Championships 2011  | Standard Chartered Marathon Singapore 2011    | 
+| Barclays Singapore Open 2011  | Sundown Marathon 2011    | 
+| HSBC Women's Champions 2011 |  | 
 
 
 6. The winner for the 'Most Inspiring Sports Story of the Year', will receive $1,000 cash prize and a trophy, while winners of the 'Best Sport Event (International)' and 'Best Sport Event (Local)' will be presented with a trophy each. The winners will be made known at the Singapore Sports Awards 2012 event on 29 May 2012.
