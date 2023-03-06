@@ -9,16 +9,13 @@ image: ""
 ---
 ### **Team Singapore's Outing At The 26th SEA Games:42 Gold, 45 Silver And 73 Bronze In Tow**
 
-01 Nov 2011
-
-
 Jakarta, 21 November 2011 - A 16-year-old future Olympian, a first-ever badminton women's singles gold, a 24th consecutive waterpolo gold medal, four SEA Games records, eight national records, 28 personal bests. That sums up Team Singapore's outing at the 26th SEA Games.
 
 2. Dr Tan Eng Liang, who led Team Singapore at the 26th SEA Games, said, "My heartiest congratulations to all our athletes for outdoing themselves, many of them have exceeded their expectations despite the high level of competition here in Indonesia."
 
 3. CDM Dr Tan also added that the performances of young athletes during the Games were very satisfying. "We have seen many young stars at these Games who have risen to the challenge and did very well for themselves. This bodes very well for sports in Singapore and I am very excited for their bright futures."
 
-Top Performers
+##### **Top Performers**
 
 4. Our top three sports in the 26th SEA Games are swimming, table tennis and sailing. These sports contributed 26 out of the 42 total gold medals (62%) and 56 out of 160 medals (35%) won by Team Singapore.
 
@@ -30,7 +27,7 @@ Top Performers
 
 8. Our table tennis team made a clean sweep of all five gold medals on offer at the Games. Teenage paddlers Isabelle Li and Pang Xuejie held their own against their more experienced compatriots, showing that adequate preparation through high level competition is a great leveler to narrow the gap between age and experience when it comes to sports. Our sailors also did very well to clinch eight medals (four gold, one silver, three bronze) out of the nine events that they competed in.
 
-**Pleasant Surprises**
+##### **Pleasant Surprises**
 
 9. In a surprise upset, shuttler Fu Mingtian shed tears of joy as she stood on the podium, hearing Team Singapore supporters belting out our national anthem as the flag was raised for Singapore's first ever gold medal in the badminton women's singles event. Her victory is only Singapore's second singles title in the SEA Games.
 
@@ -40,13 +37,13 @@ Top Performers
 
 12. Gary Yeo's 100m timing of 10.46s brought home Singapore's silver medal in the athletic event after 10 years. Sports climbing was another sport that gave us reasons to cheer, their debut outing saw a total of eight medals, almost a third of all the medals on offer in the sport. Also debutants to the Games, the six-men roller sports team brought home a total of nine medals, with everyone winning at least one medal.
 
-**Age Doesn't Matter**
+##### **Age Doesn't Matter**
 
 13. The youngest and oldest athletes in the Team Singapore contingent also have much to cheer about. In their debut appearance at the SEA Games, they each brought back medals. 14-year-old synchronised swimmer Natalie Chen won bronze in the Team Technical Routine, whereas 76-year-old grandmother Ng Lai Chun who competed in bridge, won two silver (Women's Team and Women's Butler Pair).
 
 14. Veteran athlete James Wong clinched his 10th gold medal at the SEA Games and it was our first gold medal at the 26th SEA Games.
 
-**Connecting with Fans**
+##### **Connecting with Fans**
 
 15. All through the 14 days of competition, Team Singapore's Facebook fan page was bustling with activity. Fans and supporters could receive immediate updates on results, photographs and quotes from Team Singapore athletes and officials right after their events.
 
@@ -54,9 +51,7 @@ Top Performers
 
 17. Prior to the start of the Games, more than 100,000 well wishes were collected from Team Singapore through various mediums - well-wishing collection boxes at 64 NTUC Fairprice outlets, car decals, and banners from schools as well as the Team Singapore Facebook page. Such outpour of support from the public gave Team Singapore the extra boost to deliver their best efforts at the Games.
 
--END-
-
-**Team Singapore Medal Tally**
+##### **Team Singapore Medal Tally**
 
 
 | S/NO | Medal | Sport | Event | Athlete |Date |
