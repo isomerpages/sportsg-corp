@@ -77,7 +77,6 @@ HP : 9431 6141
 
 *SDSC aims to promote the well being of the disabled through sports. Its objectives include developing the physical and mental attributes, and honing the technical skills of players through participation at an international level; raising public awareness of disability sports; promoting volunteerism in Singapore and building community bonds; and building and enhancing national and international relations and friendships, paving the way for closer regional cooperation and solidarity.*
 
-***About Singapore Sports Council***
+**About Singapore Sports Council**
 <br>
-
 *The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.*
