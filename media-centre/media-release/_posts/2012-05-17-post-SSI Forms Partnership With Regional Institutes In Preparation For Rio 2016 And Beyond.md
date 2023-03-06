@@ -9,6 +9,8 @@ image: ""
 ---
 ### **SSI Forms Partnership With Regional Institutes In Preparation For Rio 2016 And Beyond**
 
+![](/images/Media%20Centre/Media%20Release/2012/May/SSIFORMSPARTNERSHIPSWITHREGIONALINSTITUTESINPREPARATIONFORRIO2016ANDBEYONDMainPar0040Imagegif.gif)
+
 SSI Signs MOUs with China, Hong Kong and Korean Sports Institutes to Boost Sports Science and Medicine Support for Team Singapore
 
 Singapore, 17 May 2012 - To help Team Singapore athletes prepare better for the 2016 Olympics in Rio and beyond, the Singapore Sports Institute (SSI) is tapping on its wider network of Asian Sports Institutes for more training, athletes development as well as sports medicine and sports science capability development opportunities. By collaborating with these sports institutes, the SSI hopes to increase its depth and breadth of sport science and medicine support for our athletes.
