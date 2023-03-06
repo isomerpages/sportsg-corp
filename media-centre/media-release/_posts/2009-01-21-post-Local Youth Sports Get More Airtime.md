@@ -28,30 +28,8 @@ The timing of the project is most opportune as the nation gears up for the hosti
 
 Filming will begin at the end of February 2009, and the sports to be featured include badminton, swimming, basketball and table tennis.
 
--End-
 
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
-
-**About MediaCorp**
-
-MediaCorp is Singapore's leading media company with the most complete range of platforms, spanning television, radio, newspapers, magazines, movies and digital media.
-
-It pioneered the development of Singapore's broadcasting industry, with the broadcast of Radio in 1936 and Television in 1963. Today, MediaCorp has over 50 products and brands in four languages (English, Mandarin, Malay and Tamil), reaching out to all adults in Singapore every week.
-
-Our industry firsts include the Digital Video Broadcast technology for outdoor digital television, and Asia's first Digital Audio Broadcast radio service. Initiatives in the digital space include online classifieds, Internet TV-on-demand and High Definition TV broadcast.
-
-MediaCorp is an active regional player through co-productions in TV dramas and movies, magazines publishing, as well as Channel NewsAsia International, the only Asian-owned English news channel.
-
-Our financial and strategic relationships in the region since 2007 include a venture with Indonesia's most integrated media company PT Media Nusantara Citra and its parent, Global Mediacom, leading Chinese outdoor advertising firm Nanjing-based Dahe Media Pte Ltd and International Media Corporation in Vietnam, set up to develop and produce television entertainment and economic news content.
-
-Winner of numerous international awards and accolades including Asia Television's Broadcaster of the Year, MediaCorp's vision is to become Asia's top media company, delivering valued content to the world.
-
-For more information, please visit www.mediacorp.com.sg
-
-
-**For more information, please contact:**
+**For media enquiries, please contact:**
 
 Sheila Rasu
 <br>
@@ -86,3 +64,24 @@ DID: 6350-3343
 Fax: 6251-5628
 <br>
 Email: [clarencepong@mediacorp.com.sg](mailto:clarencepong@mediacorp.com.sg)
+
+
+**About Singapore Sports Council**
+<br>
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
+
+**About MediaCorp**
+<br>
+MediaCorp is Singapore's leading media company with the most complete range of platforms, spanning television, radio, newspapers, magazines, movies and digital media.
+
+It pioneered the development of Singapore's broadcasting industry, with the broadcast of Radio in 1936 and Television in 1963. Today, MediaCorp has over 50 products and brands in four languages (English, Mandarin, Malay and Tamil), reaching out to all adults in Singapore every week.
+
+Our industry firsts include the Digital Video Broadcast technology for outdoor digital television, and Asia's first Digital Audio Broadcast radio service. Initiatives in the digital space include online classifieds, Internet TV-on-demand and High Definition TV broadcast.
+
+MediaCorp is an active regional player through co-productions in TV dramas and movies, magazines publishing, as well as Channel NewsAsia International, the only Asian-owned English news channel.
+
+Our financial and strategic relationships in the region since 2007 include a venture with Indonesia's most integrated media company PT Media Nusantara Citra and its parent, Global Mediacom, leading Chinese outdoor advertising firm Nanjing-based Dahe Media Pte Ltd and International Media Corporation in Vietnam, set up to develop and produce television entertainment and economic news content.
+
+Winner of numerous international awards and accolades including Asia Television's Broadcaster of the Year, MediaCorp's vision is to become Asia's top media company, delivering valued content to the world.
+
+For more information, please visit www.mediacorp.com.sg
