@@ -88,22 +88,8 @@ Senior Awards
  | S/N | Awards | Awardees | Sports |
 | -------- | -------- | -------- | -------- |
 | 01     | Sportsman of the Year     | Darren Choy Wong Loong    | Sailing
-
- 
-
-02
-
-Sportsgirl of the Year
-
-New Hui Fen
-
-Bowling
-
- 
-
-03
-
-Team of the Year
+| 02 | Sportsgirl of the Year | New Hui Fen | Bowling
+| 03 | Team of the Year
 
 (Event)
 
