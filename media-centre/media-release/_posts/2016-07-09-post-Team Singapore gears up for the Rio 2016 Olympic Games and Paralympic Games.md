@@ -17,7 +17,7 @@ Said Mr Tan Chuan-Jin, “Team Singapore’s participation at these Games have a
   
 **Rio 2016 Olympic Games**  
   
-The Rio 2016 Summer Olympic Games will mark Team Singapore’s 17th participation at the Summer Olympic Games. Twenty-five athletes will now represent the Republic as Timothee Yap (Athletics), Neo Jieshi (Athletics) and Quah Tingwen’s (Swimming) participation were recently confirmed by their respective International Federations and National Sports Associations.  
+The Rio 2016 Summer Olympic Games will mark Team Singapore’s 17th participation at the Summer Olympic Games. 25 athletes will now represent the Republic as Timothee Yap (Athletics), Neo Jieshi (Athletics) and Quah Tingwen’s (Swimming) participation were recently confirmed by their respective International Federations and National Sports Associations.  
   
 Said Mr Low Teo Ping, Chef de Mission for Team Singapore at the Rio 2016 Olympic Games, “All preparations and plans to safeguard the health, safety and well-being of our athletes and officials are in good stead. It is our priority to ensure that our athletes and officials have peace of mind so that they can focus on the tasks at hand at the Rio 2016 Olympic Games. With less than one month to go to the Games, we are excited and ready to fly the Singapore flag high in Rio.”  
   
@@ -38,9 +38,9 @@ The official ‘One Team Singapore’ support campaign was also launched today w
 The campaign will roll out across the island starting today till September and will involve community activations for Singaporeans to pledge their support online and in person at roadshows and events with the opportunity to win exclusive One Team Singapore premiums. Members of the public can look forward to seeing familiar Team Singapore athlete faces around their neighbourhoods on billboards and buses.  
   
 With NTUC FairPrice coming on board as a campaign partner, Singaporeans can also visit roadshows that will be taking place at selected FairPrice hypermarts and at the same time look out for the OneTeamSG Cheer Truck that will be making its rounds across the island at various events such as the National Day Parade and the launch of GetActive! Singapore.  
-**  
-Olympic Day Celebrations  
-**  
+
+**Olympic Day Celebrations**  
+
 More than 2,000 people came together at the Floating Platform at Marina Bay to celebrate the Olympic Day together with the athletes and officials of the Rio 2016 Olympic and Paralympic Games. Participants joined Ministers Tan Chuan-Jin and Grace Fu in the 3.6km Olympic Day Walk around the scenic Marina Bay Promontory. They were also able to spot Olympic-themed monuments and artwork installed at the Youth Olympic Park and along the Olympic Walk, as part of the Singapore 2010 Youth Olympic Games legacy.  
   
 There were also plenty of activities after the Walk where participants had the chance to become ‘Olympians’ for the day as they tried their hands on sports such as Athletics, Basketball, Football, Hockey and Tennis organised by ActiveSG and soaked in the annual Olympic Day Celebrations.
