@@ -9,7 +9,7 @@ image: ""
 ### **Let’s Get Real About Family Violence**
 Through the influence and reach of football, SportCares had an important conversation today about family violence to a group of girls and young women.  
 
-In partnership with the Ministry of Social and Family Development (MSF) and the U.S. Embassy Singapore, SportCares hosted a one-day football camp themed “Play Like a Girl, Break The Silence | Against Family Violence” for some 130 low-income girls and young women from various community groups.  
+In partnership with the Ministry of Social and Family Development (MSF) and the U.S. Embassy Singapore, SportCares hosted a one-day football camp themed “Play Like a Girl, Break The Silence `|` Against Family Violence” for some 130 low-income girls and young women from various community groups.  
   
 Donning orange jerseys in a show of solidarity with the United Nations #OrangeTheWorld initiative, the girls and young women participated in a series of football activities and games led by Chris Yip-Au, SportCares Saturday Night Lights coach and national women’s football player. They also participated in a sharing session on cultivating self-confidence and self-respect involving AWARE and Team Singapore athletes, Dipna Lim Prasad and Micky Lin.  
   
