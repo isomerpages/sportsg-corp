@@ -134,4 +134,4 @@ table, th, td {
 
 </body>
 
-_\* Singapore time_
+*Singapore time
