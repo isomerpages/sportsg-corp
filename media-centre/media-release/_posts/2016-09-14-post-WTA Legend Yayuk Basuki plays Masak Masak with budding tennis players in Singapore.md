@@ -32,17 +32,13 @@ In partnership with the WTA and SC Global’s Tennis For Every Child initiative,
   
   
 
-#####
-
-  
-  
-
-About SportCares Foundation  
+##### **About SportCares Foundation**  
 The SportCares Foundation is the philanthropic arm of Sport Singapore and a growing national movement to use sport for social good. SportCares Foundation was set up in late 2012 to help people live better lives through sport. From underprivileged children to people of all ages with disabilities to enthusiastic volunteers to needy seniors to generous donors, sport can be a channel to empower people to live better. Designed to use sport as a force for social good, SportCares will work with other concerned agencies to develop and support sustainable, scalable programming to engage the vulnerable segments of our society. SportCares is a key recommendation of Sport Singapore’s (SportSG) Vision 2030: Live Better through Sport master plan.  
   
-About ActiveSG  
+#### **About ActiveSG**  
 As a key recommendation of Vision 2030 – Singapore’s master plan for sports, ActiveSG was launched in April 2014 as the national movement for sport and physical activities. ActiveSG aims to create a sporting ecosystem that provides innovative and experiential sport related programmes at sports centres island-wide. This movement will act as an enabler to build a community for individuals, families and organisations from different zones where Singaporeans can come together to learn, train, compete and host a range of sports. Working together with communities, National Sports Associations (NSAs), schools, corporations, public agencies and interest groups, ActiveSG aims to co-create programmes that are affordable and inclusive for all skill levels and age groups.  
   
-About WTA  
+#### **About WTA**  
 The WTA is the global leader in women’s professional sport with more than 2,500 players representing 92 nations competing for a record $130 million in prize money. The 2016 WTA competitive season includes 56 events and four Grand Slams in 33 countries. In 2015, The WTA was watched by 395 million fans on television and digital channels around the world. The 2016 WTA competitive season concludes with the BNP Paribas WTA Finals Singapore presented by SC Global, from October 23-30, 2016 and the WTA Elite Trophy in Zhuhai, China from November 1-6, 2016.  
+
 Further information on the WTA can be found at www.wtatennis.com, facebook.com/WTA and twitter.com/WTA.
