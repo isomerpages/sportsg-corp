@@ -75,75 +75,21 @@ Senior Awards
 | 28 | Meritorious Awards (Event)  | National Shooting Women's 50m Rifle 3- Position Doubles Team <br>Jasmine Ser Xiang Wei <br>Aqilah Bte Sudhir | Shooting
 | 29| Meritorious Awards (Event)  | National Shooting 25m Standard Pistol Men's Pair <br>Gai Bin <br>Poh Lip Men  | Shooting
 | 30 | Meritorious Awards (Event)  | National Shooting 10m Air Rifle Women's Pair <br>Jasmine Ser Xiang Wei <br>Cheng Jian Huan | Shooting
-
-31
-
-National Shooting 50m Free Pistol Men's Pair
-
-Gai Bin
-
-Nigel Lim Swee Hon
-
-Shooting
-
-32
-
-National Table Tennis Mixed Doubles Team
-
-Yang Zi
-
-Wang Yuegu
-
-Table Tennis
-
-33
-
-National Table Tennis Mixed Doubles Team
-
-Gao Ning
-
-Feng Tianwei
-
-Table Tennis
-
-34
-
-National Table Tennis Women's Doubles Team
-
-Sun Beibei
-
-Li Jiawei
-
-Table Tennis
-
-35
-
-National Table Tennis Men's Team
-
-Gao Ning
-
-Yang Zi
-
-Cai Xiaoli
-
-Pang Xuejie
-
-Ma Liang
-
-Table Tennis
-
-36
-
-National Table Tennis Women's Doubles Team
+| 31 | Meritorious Awards (Event)  |  National Shooting 50m Free Pistol Men's Pair<br> Gai Bin<br>Nigel Lim Swee Hon  | Shooting
+| 32 | Meritorious Awards (Event)  | National Table Tennis Mixed Doubles Team<br>Yang Zi <br>Wang Yuegu | Table Tennis
+| 32 | Meritorious Awards (Event)  | National Table Tennis Mixed Doubles Team <br>Gao Ning <br>Feng Tianwei | Table Tennis
+| 34 | Meritorious Awards (Event)  | National Table Tennis Women's Doubles Team<br>Sun Beibei
+<br> Li Jiawei | Table Tennis
+| 35 | Meritorious Awards (Event)  | National Table Tennis Men's Team <br>Gao Ning <br>Yang Zi
+<br>Cai Xiaoli <br>Pang Xuejie <br>Ma Liang | Table Tennis
+| 36 | Meritorious Awards (Event)  | National Table Tennis Women's Doubles Team
 
 Feng Tianwei
 
 Wang Yuegu
 
 Table Tennis
-
-37
-
+| 37 | Meritorious Awards (Event)  | 
 National Table Tennis Men's Doubles Team
 
 Gao Ning
