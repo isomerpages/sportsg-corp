@@ -33,7 +33,7 @@ Some 100 Team Singapore athletes took time off from their busy training schedule
 [Annex B - List of Team Singapore Athletes](/files/Media%20Centre/Media%20Release/2008/March/22/AthletesGatheringAnnexB.pdf)
 
 **For media queries, please contact:**
-<br>
+
 Ms Hazwani Hasni
 <br>
 Executive, Group Communications
