@@ -26,7 +26,7 @@ Enclosures
 <br>
 [Annex C: Sports Hub fact sheet](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexC.pdf)
 
-For more on the Sports Hub, please log on to https://www.sportshub.com.sg
+For more on the Sports Hub, please log on to [https://www.sportshub.com.sg](https://www.sportshub.com.sg)
 
 **For media inquiries, please contact:**
 
