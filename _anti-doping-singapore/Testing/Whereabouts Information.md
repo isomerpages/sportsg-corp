@@ -47,7 +47,7 @@ The submission deadlines for each quarter are:
 
 RTP and DTP athletes must provide a complete mailing address and a valid email address where correspondences may be sent to the athlete for formal notice purposes. Any notice or item mailed to the mailing address will be deemed to have been received by the athlete 5 working days after it was deposited in the mail. Where no address is provided, any notice to be given to the athlete will be made through the relevant NSA, International Federation or anti-doping organisation. Athletes must also provide a valid contact number where they can be reached for any anti-doping purpose.
 
-**Whereabouts Information 2****: Competition Schedule**
+**Whereabouts Information 2**: Competition Schedule**
 
 RTP and DTP athletes must provide details of their competition schedule for the following quarter, including the name and address of each location where the Athlete is scheduled to compete, and the dates on which he/she is scheduled to compete.
 
