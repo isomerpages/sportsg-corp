@@ -50,13 +50,8 @@ Senior Awards
 | 03 | Coach of the Year | William Woo Nam Fatt | Bowling
 | 04 | Team of the Year (Event) | National Table Tennis Women's Team <br>Feng Tianwei <br>Wang Yueg <br>Sun Beibei <br>Yu Mengyu <br>Li Jiawei  | Table Tennis
 | 05 | Meritorious Awards (Individual) | Cherie Tan Shi Hua | Bowling
-| 06 | Remy Ong | Bowling
-
-07
-
-Peter Edward Gilchrist
-
-Billiards
+| 06 | Meritorious Awards (Individual)| Remy Ong | Bowling
+| 07  | Meritorious Awards (Individual)  | Peter Edward Gilchrist  | Billiards
 
 08
 
