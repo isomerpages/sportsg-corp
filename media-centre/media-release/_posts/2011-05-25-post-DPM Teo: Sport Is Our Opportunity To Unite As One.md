@@ -45,25 +45,17 @@ Senior Awards
 
 | S/N | Awards | Awardees | Sports |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     |  Text     |
-
-
-
-S/N
+| 01     | Sportsman of the Year     | Gai Bin     |  Shooting     |
 
 
 
 
-
-
-
-01
 
 Sportsman of the Year
 
-Gai Bin
 
-Shooting
+
+
 
  
 
