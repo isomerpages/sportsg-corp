@@ -6,18 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-SSC Announces Senior Management Appointments
-Singapore , 20 Jul 2009
+### **SSC Announces Senior Management Appointments**
 
-SSC ANNOUNCES SENIOR MANAGEMENT APPOINTMENTS
-statics0
 Chief for Sports Development & Singapore Sports Institute and Senior Director for Sports Marketing to strengthen SSC's high performance, National Sports Association management & sports commercialisation capabilities
 
 Singapore, 20 July 2009 - The Singapore Sports Council (SSC) announced two new management appointments today which will strengthen its high performance, National Sports Association (NSA) management and sports commercialisation capabilities.
 
 Said Oon Jin Teik, Chief Executive Officer of the SSC: "The management changes are part of our continuous review to ensure our organisation structure and capabilities are one step ahead of the dynamically changing sports environment internationally, regionally, and in Singapore. This will enable us to deliver maximum value to the Singapore sports fraternity."
 
-Robert P Gambardella
+**Robert P Gambardella**
 
 Robert P Gambardella joins SSC as its Chief for Sports Development & Singapore Sports Institute on 20 July 2009.
 
@@ -45,9 +42,9 @@ Said Oon: "Our unprecedented sports excellence success in the last few years is 
 
 *NGBs in the USA are the equivalent of National Sports Associations (NSA) in Singapore.
 
-**MEMOS was founded in Europe in 1995 upon the initiative of several National Olympic Committees, the European Network of Sport Sciences in Higher Education, several universities, and with the financial support of Olympic Solidarity and the European Union Socrates programme. The aim of MEMOS was to provide a higher level of training to European sport managers. In the summer of 2002, the MEMOS Steering Committee voted to adapt the programme for participation internationally. Currently, more than one hundred MEMOS graduates are working in Olympic sports organisations.
+*MEMOS was founded in Europe in 1995 upon the initiative of several National Olympic Committees, the European Network of Sport Sciences in Higher Education, several universities, and with the financial support of Olympic Solidarity and the European Union Socrates programme. The aim of MEMOS was to provide a higher level of training to European sport managers. In the summer of 2002, the MEMOS Steering Committee voted to adapt the programme for participation internationally. Currently, more than one hundred MEMOS graduates are working in Olympic sports organisations.
 
-David Howard Voth, Senior Director for Marketing
+**David Howard Voth, Senior Director for Marketing**
 
 Hailing from Longmont Colorado, USA, David Howard Voth joins SSC as its Senior Director for Sports Marketing on 11 August 2009.
 
@@ -70,7 +67,7 @@ David holds a BS in Marketing and did graduate work (Statistics & Marketing) at 
 
 David will report to Kelven Tan, SSC's Chief, Sports Marketing.
 
-Other Management Changes at SSC
+**Other Management Changes at SSC**
 
 Wayde Clews, SSC's Chief for High Performance will relinquish his role and take up a new role as Chief for Sports Industry Development (from 1 August 2009). Under this new portfolio, Wayde will oversee the development of the sports industry, working with the Economic Development Board, other Singapore government agencies as well as international sports organisations to grow the Singapore sports industry. Key focus areas will include developing Singapore as a high performance training hub, sports events bidding and international relations.
 
@@ -79,13 +76,20 @@ Wayde Clews, SSC's Chief for High Performance will relinquish his role and take 
 Ng Eng Soon, SSC's Director for NSA Management will relinquish his role and undertake a new portfolio ? Sports Events (from 1 August 2009). Eng Soon will aggregate, consolidate, and optimise Singapore's expertise and resources in hosting and organising major single-sport and multi-sport sports events while Singapore positions itself as Asia's leading sports hub.
 
 
-For media inquiries, please contact:
+**For media inquiries, please contact:**
+<br>
 Alvin Hang
+<br>
 Deputy Director (Corporate Communications)
+<br>
 Singapore Sports Council
+<br>
 DID: 6500 5164
+<br>
 Mobile: 9222 1010
-Email: alvin_hang@ssc.gov.sg
+<br>
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
-About SSC
+**About SSC**
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. For more information, please visit www.ssc.gov.sg
