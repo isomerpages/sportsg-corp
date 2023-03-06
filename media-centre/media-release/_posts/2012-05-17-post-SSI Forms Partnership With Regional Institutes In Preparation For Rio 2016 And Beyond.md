@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-### 
+### **SSI Forms Partnership With Regional Institutes In Preparation For Rio 2016 And Beyond**
 
 SSI Signs MOUs with China, Hong Kong and Korean Sports Institutes to Boost Sports Science and Medicine Support for Team Singapore
 
