@@ -36,8 +36,7 @@ MSF has launched a three-year campaign, called “Break the Silence - Against Fa
 
 The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at [http://singapore.usembassy.gov](http://singapore.usembassy.gov).  
   
-**Annex A**  
-**“BREAK THE SILENCE” CAMPAIGN**
+#### **Annex A: “Break the Silence" Campaign**
   
 On 16 November 2016, Minister for Social and Family Development Mr Tan Chuan-Jin launched a three-year “Break the Silence” campaign with a focus on the bystanders of family violence. These bystanders are people (who may be friends, family, neighbours, co-workers or even strangers) who witness family violence, or know about it (e.g. heard from a third party) but may not know how to respond to this situation.  
   
