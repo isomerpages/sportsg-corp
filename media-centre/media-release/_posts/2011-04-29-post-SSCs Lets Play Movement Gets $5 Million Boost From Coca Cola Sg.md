@@ -32,22 +32,25 @@ SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commun
 
 -End-
 
-Annex A - Schedule of Let's Play Non-Stop!
-Month
+**Annex A - Schedule of Let's Play Non-Stop!
+Month**
 
-Sport
+| Month| Sport | Mall | Sports and Recreation Centre | Mall <br>(12- 8pm)  | SRC <br>(12- 4pm)
+| -------- | -------- | -------- | -------- |-------- |-------- |
+| Text     | Text     | Text     | Text     | Text     | Text     |
 
-Mall
 
-Sports and Recreation Centre
 
-Mall
 
-(12- 8pm)
 
-SRC
 
-(12- 4pm)
+
+
+
+
+
+
+
 
 April
 
