@@ -11,6 +11,7 @@ image: ""
 
 *MOU Paves Way for First Sports Elective by SMU and a Lifeskills Centre*
 
+![](/images/Media%20Centre/Media%20Release/2012/Feb/SMUANDSSCFORGECLOSERRELATIONSHIPTOUSESPORTSTOINFUSEVALUESANDSKILLSTOSTUDENTSMainPar0028Imagegif.gif)
 	
 Singapore, 26 Feb 2012 - Singapore Management University (SMU) and Singapore Sports Council (SSC) have inked a Memorandum of Understanding (MOU) to create a framework for collaboration to promote sport and explore possibilities of working together in sport-related initiatives.
 
@@ -44,3 +45,23 @@ This course will provide coverage of the essential concepts and principles of Sp
 Course Objective:
 
 Students who have successfully completed the Course will be provided with fundamental knowledge of sports science related to coaching. Students will have knowledge of training principles and skills to effectively plan for a year round training season for athletes under their care. They will be suited to coach individuals and teams for sport competitions at school and club levels, after being equipped with the following knowledge and skill sets, together with technical coaching expertise acquired separately with the respective sport bodies:
+
+- Growth & Development
+- Role of the Coach
+- Planning & Sports Safety
+- Analysis / Development of Skills
+- Physical Preparation
+- Mental Skills Training
+
+- Intermediate Planning for Coaches
+- Physical Training Principles
+- Sports Medicine
+- Sports Nutrition
+- Functional Anatomy for Coaches
+- Flexibility Training
+
+- Training for Endurance / Speed / Strength / Power
+- Athlete Assessment
+- Advanced Recovery
+- Mentor Coaching
+- The Coach as a Resource Manager
