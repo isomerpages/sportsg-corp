@@ -43,7 +43,7 @@ The submission deadlines for each quarter are:
 | 15 June     | 1 July (3rd Quarter)     | 
 | 15 September     | 1 October (4th Quarter)     |
 
-**Whereabouts Information 1**: Correspondence Details**
+**Whereabouts Information 1**: Correspondence Details
 
 RTP and DTP athletes must provide a complete mailing address and a valid email address where correspondences may be sent to the athlete for formal notice purposes. Any notice or item mailed to the mailing address will be deemed to have been received by the athlete 5 working days after it was deposited in the mail. Where no address is provided, any notice to be given to the athlete will be made through the relevant NSA, International Federation or anti-doping organisation. Athletes must also provide a valid contact number where they can be reached for any anti-doping purpose.
 
