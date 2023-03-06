@@ -4,15 +4,13 @@ permalink: /anti-doping-singapore/about/nadab/
 description: ""
 third_nav_title: About
 ---
-
-
 The Singapore Sports Council (rebranded as "Sport Singapore" or "SportSG" with effect from 1 April 2014) appointed the National Anti-Doping Advisory Board (NADAB) to advise the SportSG and Anti-Doping Singapore (ADS) on all anti-doping matters.
 
 The NADAB is represented by members with expertise in the following areas:
 
 (i) Legal and justice
 (ii) Medical and scientific
-(iii) Sport policies and organization of sports systems
+(iii) Sport policies and organisation of sports systems
 (iv) Education
 (v) Athlete's reality and perspective
 
@@ -75,7 +73,7 @@ Committee, JCST
 
 #### **Ex-Officio Members**
 **A/Prof Koh-Teo Sock Miang**
-* President, Singapore Disability Sports Council &
+* President, Singapore Disability Sports Council
 * Chairman, Singapore National Paralympic Council
 * Board Member, Singapore Sports School
 * Principal, Singapore Olympic Academy
@@ -83,4 +81,4 @@ Committee, JCST
 **Mr Chris Chan**
 * Secretary General, Singapore National Olympic Council
 * Board Member, Sport Singapore
-* Board Member, Singapore Olympic Academy & Singapore Olympic Foundation 
+* Board Member, Singapore Olympic Academy & Singapore Olympic Foundation
