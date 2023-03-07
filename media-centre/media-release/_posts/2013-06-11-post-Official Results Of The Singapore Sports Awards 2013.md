@@ -15,10 +15,10 @@ image: ""
 
 3. Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs, and President of the Singapore National Olympic Council, as well as Mr Tan Chuan-Jin, Acting Minister for Manpower, Senior Minister of State, Ministry of National Development, and Member of the Singapore National Olympic Council were also present.
 
--END-
+---
 
-List of Winners
-<br>
+##### **List of Winners**
+
 **Main Awards**
 ![](/images/Media%20Centre/Media%20Release/2013/June/OFFICIALRESULTSOFTHESINGAPORESPORTSAWARDS2013MainPar0054Imagegif.gif)
 Meritorious Awards (Seniors)
@@ -43,8 +43,8 @@ Sportsboy of the Year
 Keith Saw Hui Xun, Bowling
 
 
-For media enquiries, please contact:
-<br>
+**For media enquiries, please contact:**
+
 Siti Nurhidayati 
 <br>Senior Executive, Media Relations 
 <br>Singapore Sports Council
@@ -57,7 +57,7 @@ Siti Nurhidayati
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
