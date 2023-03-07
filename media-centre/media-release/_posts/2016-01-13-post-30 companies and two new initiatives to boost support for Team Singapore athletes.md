@@ -39,13 +39,13 @@ Exclusive to Team Singapore athletes, the first-of-its-kind Team Singapore Card 
   
 Speaking about the Team Singapore Card, Equestrian Maximillian Tan said: “The wear and tear rate of full-time athletes’ sporting attire is higher than the average sportsperson. For myself, my shoes wear off quite often than the average person because of the way I walk. I believe other athletes will have their fair share of concerns with regard to their sporting-related expenditure and will appreciate the Team Singapore Card.”   
   
-The card will not only benefit existing Team Singapore athletes like Maximillian. All former athletes who had represented Singapore in a major games, from as early as the 1st Southeast Asian Peninsula Games in 1959, are also eligible for the card. Team Singapore alumni athlete C Kunalan can be contacted at Kunalan\_canagasabai@sport.gov.sg for more information.   
+The card will not only benefit existing Team Singapore athletes like Maximillian. All former athletes who had represented Singapore in a major games, from as early as the 1st Southeast Asian Peninsula Games in 1959, are also eligible for the card. Team Singapore alumni athlete C Kunalan can be contacted at [kunalan_canagasabai@sport.gov.sg](mailto:kunalan_canagasabai@sport.gov.sg) for more information.   
   
   
 **Ongoing support for Team Singapore athletes**  
   
 The spexBusiness Network has played an instrumental role in supporting Team Singapore athletes in recent years. This is part of SSI’s ongoing effort to support and prepare our athletes beyond their competitive years.  
   
-“Athlete development and support goes beyond their training and the provision of sports science and medicine support services. Holistic development of athletes, should also take into consideration their successful transition into post-sports careers.” said Sport Singapore’s Chief Executive Officer Lim Teck Yin. “We are committed to assisting our athletes in their continuing journey as leaders and contributing members of their community after retirement from competitive sports.”  
+“Athlete development and support goes beyond their training and the provision of sports science and medicine support services. Holistic development of athletes, should also take into consideration their successful transition into post-sports careers,” said Sport Singapore’s Chief Executive Officer Lim Teck Yin. “We are committed to assisting our athletes in their continuing journey as leaders and contributing members of their community after retirement from competitive sports.”  
   
 The spexBusiness Network is strategically positioned as the primary vehicle for SSI to engage Corporate Singapore to build partnerships and create value to support our Team Singapore athletes.
