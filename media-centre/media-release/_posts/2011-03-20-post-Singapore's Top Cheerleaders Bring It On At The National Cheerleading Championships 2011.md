@@ -41,42 +41,23 @@ Annex: Results List of the National Cheerleading Championships 2011
 | FREESTYLE - SECONDARY     |  1ST - MG Sizzlers (Methodist Girls' School) <br>2ND - Avengerz (Ang Mo Kio Secondary School) <br>3RD - Swiss Sports Leaders (Swiss Cottage Secondary School)
 | FREESTYLE - OPEN | 1ST - ITE Genesis <br>2ND - KR Steppers (Kent Ridge Hall - National University of Singapore)
 | COMPETITIVE - STUNTS - PARTNER | 1ST - Wildcards <br>2ND - ASTROS - KnR <br>3RD - ASTROS ? Xwonder
-
-| COMPETITIVE - STUNTS -
-
-ALL-GIRLS
-
-1ST - RP Rexaz (Republic Polytechnic)
-
-2ND - TH Twisters (Temasek Hall - National University of Singapore)
-
-3RD - Magnum Force (Ngee Ann Polytechnic)
+| COMPETITIVE - STUNTS - ALL-GIRLS | 1ST - RP Rexaz (Republic Polytechnic)
+<br>2ND - TH Twisters (Temasek Hall - National University of Singapore) <br>3RD - Magnum Force (Ngee Ann Polytechnic)
 
 COMPETITIVE - STUNTS -
 
 MIXED-TEAM
 
-1ST - SP Gusto (Singapore Polytechnic)
-
-2ND - Wildcards
-
-3RD - Awe-Stars
+1ST - SP Gusto (Singapore Polytechnic)<br>2ND - Wildcards
+<br>3RD - Awe-Stars
 
 COMPETITIVE - PRIMARY
 
-1ST - St Hilda's Shooting Stars (St Hilda's Primary School)
-
-2ND - MG Dazzlers (Methodist Girls' Primary School)
-
-3RD - Kranji Kougars (Kranji Primary School)
+1ST - St Hilda's Shooting Stars (St Hilda's Primary School) <br>2ND - MG Dazzlers (Methodist Girls' Primary School) <br>3RD - Kranji Kougars (Kranji Primary School)
 
 COMPETITIVE - HIGH SCHOOL
 
-1ST - SP Gusto (Singapore Polytechnic)
-
-2ND - Magnum Force (Ngee Ann Polytechnic)
-
-3RD - RP Rexaz (Republic Polytechnic)
+1ST - SP Gusto (Singapore Polytechnic) <br>2ND - Magnum Force (Ngee Ann Polytechnic) <br>3RD - RP Rexaz (Republic Polytechnic)
 
 COMPETITIVE - OPEN
 
