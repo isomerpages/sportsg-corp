@@ -233,61 +233,11 @@ Athletes
 | 71.  | Dragon Boat|Andrew Sim Yun Wen | 沈允 | 20 | M | √    | Team (Men)
 | 72.| Dragon Boat|Ang Chin Leng | 汪振龙 | 30 | M | √  | Team (Men)
 | 73.| Dragon Boat|  Ashley Ong Chun Aun | 陈俊安 | 30 | M | √   | Team (Men)
-| 74. | Bryan Kieu Chin Wah| 邱锦华
-
-30
-
-M
-
-√   
-
-Team (Men)
-
-75.   
-
-Chia Yi Liang
-
-谢宜良
-
-23
-
-M
-
-√   
-
-Team (Men)
-
-76.   
-
-Chua Kwee Hong
-
-蔡贵鸿
-
-20
-
-M
-
-√   
-
-Team (Men)
-
-77.   
-
-Derick Tan Jia Xiong
-
-陈家雄
-
-25
-
-M
-
-√   
-
-Team (Men)
-
-78.   
-
-Gan Choon Kiat
+| 74. | Dragon Boat|  Bryan Kieu Chin Wah| 邱锦华 | 30| M | √    | Team (Men)
+| 75. | Dragon Boat|  Chia Yi Liang | 谢宜良 | 23 | M | √    | Team (Men)
+| 76.  | Dragon Boat|  Chua Kwee Hong| 蔡贵鸿| 20| M| √   | Team (Men)
+| 77.   | Dragon Boat|  Derick Tan Jia Xiong| 陈家雄| 25| M| √    | Team (Men)
+| 78. | Gan Choon Kiat
 
 颜俊杰
 
