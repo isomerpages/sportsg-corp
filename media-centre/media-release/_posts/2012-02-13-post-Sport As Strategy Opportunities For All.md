@@ -10,7 +10,7 @@ image: ""
 
 *Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace & Competitive Sport*
 	
-Singapore, 13 February 2012 - After seven months of consultation with some 2500 people from the public, private and people sectors, the Vision 2030 Committee released its preliminary recommendations on how sport can be a key strategy to serve Singapore. The recommendations call for more opportunities and access for Singaporeans to play more sports in school, the community and the workplace. Sports capabilities will also be enhanced to support the anticipated growth in quantity and quality of sports programmes.
+**Singapore, 13 February 2012** - After seven months of consultation with some 2500 people from the public, private and people sectors, the Vision 2030 Committee released its preliminary recommendations on how sport can be a key strategy to serve Singapore. The recommendations call for more opportunities and access for Singaporeans to play more sports in school, the community and the workplace. Sports capabilities will also be enhanced to support the anticipated growth in quantity and quality of sports programmes.
 
 2. The Vision 2030 Committee is now seeking further input from the Public-Private-People sectors to review the 19 preliminary recommendations resulting from more than 300 ideas generated through the engagement process. Over the next three months, the committee will continue to engage all segments of society to finalise the recommendations on how sport can be used as a national strategy.
 
