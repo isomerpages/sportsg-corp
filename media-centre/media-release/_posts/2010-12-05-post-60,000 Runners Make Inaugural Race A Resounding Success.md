@@ -57,14 +57,10 @@ Full Marathon (Singapore) Results - Men's
 | 3 | Ramesh s/o Palaniandy | Singapore | 02:52.55
 
 Full Marathon (Singapore) Results - Women's
+ No. | Name | Country | Finishing Time |
+| -------- | -------- | -------- | -------- |
+| 1 | Mok Ying Ren  | Singapore  |02:38.28
 
-No.
-
-Name
-
-Country
-
-Finishing Time
 
 1
 
