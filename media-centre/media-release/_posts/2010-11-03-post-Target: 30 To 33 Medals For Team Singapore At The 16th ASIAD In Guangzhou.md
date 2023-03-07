@@ -61,9 +61,9 @@ WEBSITE:www.gz2010.cn/en
 NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 
 
-| Event | Name | Opening Ceremony |
+| Event | Name 
 | -------- | -------- | -------- |
-| Opening Ceremony12 November 2010
+| Opening Ceremony | 12 November 2010
 
 Closing Ceremony
 
