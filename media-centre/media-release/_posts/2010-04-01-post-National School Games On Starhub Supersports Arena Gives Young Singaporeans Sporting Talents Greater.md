@@ -29,7 +29,7 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
  
-**About the Ministry of Education, Singapore**
+[About the Ministry of Education, Singapore](https://www.moe.gov.sg/)
 <br>
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
  
@@ -39,7 +39,7 @@ The Singapore Schools Sports Council (SSSC) started in 1959 and comes under the 
 
 To find out more, visit our website www.schoolsports.sg.
 
-**About StarHub**
+[About StarHub](https://www.starhub.com/personal.html)
 <br>
 StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services.
 
