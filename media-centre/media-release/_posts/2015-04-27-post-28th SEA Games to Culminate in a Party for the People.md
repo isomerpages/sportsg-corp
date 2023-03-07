@@ -7,12 +7,12 @@ description: ""
 image: ""
 ---
 ### **28th SEA Games to Culminate in a Party for the People**
-_**• Closing Ceremony on 16th June to be the final celebratory party for the Games  
+• Closing Ceremony on 16 June to be the final celebratory party for the Games  
 • Unveiling of the official victory medal design for athletes  
 • Audience at the closing ceremony will receive a Supporters’ Medallion  
-• 28th SEA Games stamps to go on sale from 5th June**_
+• 28th SEA Games stamps to go on sale from 5 June
 
-**SINGAPORE, 27 April** – With just 39 days to go to the 28th Southeast Asian (SEA) Games, the promise of a true spectacle for all communities comes to life with its final celebratory party – the 28th SEA Games Closing Ceremony on 16th June 2015.
+**Singapore, 27 April** – With just 39 days to go to the 28th Southeast Asian (SEA) Games, the promise of a true spectacle for all communities comes to life with its final celebratory party – the 28th SEA Games Closing Ceremony on 16 June 2015.
 
 Spectators can expect a visually stunning Closing Ceremony, as they come together with friends new and old. Highlights include performances by local artistes as well as Dutch DJ Ferry Corsten, well known globally for being a trance producer pioneer and legend.
 
@@ -22,7 +22,7 @@ Ms Beatrice Chia-Richmond, Creative Director, Show-Opening and Closing Ceremonie
 
 Beatrice also shared that a parade of stamps will be another highlight of the Ceremony. “We will have life-sized SEA Games stamps telling us the story of the Games. It will be a visual treat for the audience,” added Ms Beatrice.
 
-The 28th SEA Games stamps is a collaboration between SINGSOC and SingPost. The stamps commemorate the return of the SEA Games to Singapore after 22 years and will go on sale from 5th June. More details will be shared later.
+The 28th SEA Games stamps is a collaboration between SINGSOC and SingPost. The stamps commemorate the return of the SEA Games to Singapore after 22 years and will go on sale from 5 June. More details will be shared later.
 
 **Medal to go for**
 
@@ -45,7 +45,5 @@ A surprise for all audiences at the Closing Ceremony was also revealed, where sp
 SINGSOC announced that tickets to the Opening Ceremony are sold out. Tickets to the Closing Ceremony, priced from $12 to $40, are still available.
 
 Concession prices are made available to students, senior citizens and full-time National Servicemen. There is also a 20% discount off every purchase of four or more tickets, to encourage family and friends to catch the Games in action.
-
-For more information, please refer to [www.seagames2015.com/tickets](http://www.seagames2015.com/tickets).
 
 END
