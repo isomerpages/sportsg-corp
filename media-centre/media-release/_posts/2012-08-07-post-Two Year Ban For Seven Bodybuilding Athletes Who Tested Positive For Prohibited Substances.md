@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Two-Year Ban For Seven Bodybuilding Athletes Who Tested Positive For Prohibited Substances**
+### **Two-Year Ban For Seven Bodybuilding Athletes Who Tested Positive For Prohibited Substances**
 
 **Singapore, 7 August 2012** - Following in-competition testing at the 50th Singapore National Bodybuilding and Physique Sports Championship 2012 on 1 July 2012, seven out of the eight bodybuilding athletes tested were found positive for banned substances under the 2012 Prohibited List.
 
@@ -27,10 +27,10 @@ image: ""
 
 8. In-competition testing is part of the ADS testing programme to ensure a level playing field for all athletes. Last year, ADS conducted in-competition testing at the National Swimming Championships, the National Age-Group Swimming Championships and the Singapore Track and Field Open. This year, testing was conducted at the Singapore Shooting Open 2012 and the National Bodybuilding and Physique Sports Championship 2012.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 S. Parameswaran
 <br>Assistant Director, Media Relations
 <br>Singapore Sports Council
