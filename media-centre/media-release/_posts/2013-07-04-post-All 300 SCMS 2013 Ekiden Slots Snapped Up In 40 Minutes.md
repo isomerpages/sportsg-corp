@@ -22,7 +22,7 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 
 5. Mr Ray Ferguson, Chief Executive, Standard Chartered Bank, Singapore, said: "Standard Chartered Bank is proud to have played a part in nurturing Singapore's passion for running. This is the 12th year that the Bank is the title sponsor of Singapore's pinnacle running event. The passion, courage, and determination of the runners each year resonate strongly with what we stand for as an organisation. Just as the runners are determined to finish the race, we are committed in our partnership with the SSC to deliver a quality race for all. This is very much part of our DNA and what we set out in our brand promise to be Here for good in the communities where we operate."
 
-**NEW SPONSORS**
+##### **New Sponsors**
 
 6. While Standard Chartered Bank, Singapore continues to be the event's title sponsor, SCMS 2013 sees two prominent additions to its sponsorship portfolio this year.
 
@@ -32,7 +32,7 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 
 9. Both Volvo and Brooks join other longstanding event sponsors including Prudential, Seiko, Tiger Balm Active, StarHub, and many others.
 
-**REGISTRATION PROCEEDS TO BENEFIT SPORTCARES**
+##### **Registration Proceeds to Benefit SportCares**
 
 10. This year, SCMS 2013 will donate S$2 from every participant's registration fee to SportCares, a new philanthropic organisation dedicated to use sport as a force for social good. Through the SCMS 2013 registration, the Singapore Sports Council hopes to raise at least S$100,000, which will go toward SportCares' programmes and activities for underprivileged children and youth at risk. Furthermore, donors can also contribute individually through the Give.Asia fundraising portal to pledge their run and raise funds for SportCares.
 
@@ -40,10 +40,10 @@ Singapore, 4 July 2013 - The ever popular team-based Ekiden category proved once
 
 12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com](www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](www.marathonsingapore.com).
 
--END-
+---
 
-For media enquiries, please contact:
-<br>
+**For media enquiries, please contact:**
+
 Munirah Razak
 <br>
 Fulford PR
@@ -64,7 +64,7 @@ Mob: 9127 3751
 <br>
 Email: [achristopher@fulfordpr.com](achristopher@fulfordpr.com)
 
-**FACT SHEET**
+**Fact Sheet**
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0093Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0094Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0095Imagegif.gif)
@@ -73,12 +73,12 @@ Email: [achristopher@fulfordpr.com](achristopher@fulfordpr.com)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0098Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0099Imagegif.gif)
 
-Annex A: Race Categories and Prices
+**Annex A**: Race Categories and Prices
 ![](/images/Media%20Centre/Media%20Release/2013/July/ALL300SCMS2013EKIDENSLOTSSNAPPEDUPIN40MINUTESMainPar0064Imagegif.gif)
-Annex B: List of Sponsors and Partners
+**Annex B**: List of Sponsors and Partners
 
 **About 100 Plus**
-
+<br>
 Singapore's No. 1 isotonic drink, 100PLUS, was launched in 1984 to satisfy the growing demand for a sports-based beverage. This specially formulated 'thirst and body-quencher' helps to replenish lost fluids and combat the effects of dehydration, heats, and exertion - supporting you while achieving peak performance in your active lifestyle.
 
 100PLUS hydrates you by combining fluids, glucose and electrolytes for quick and efficient restoration of the body, better than water can. The combination of glucose, electrolytes and fluids help to accelerate the body's absorption of fluids, while the glucose provides an immediate available source of energy needed by the muscle tissue.
@@ -88,7 +88,7 @@ Singapore's No. 1 isotonic drink, 100PLUS, was launched in 1984 to satisfy the g
 For more details, please visit [http://www.100plus.com.sg](http://www.100plus.com.sg)
 
 **About Brooks**
-
+<br>
 Brooks® Sports, Inc. is your go-to company for anything and everything related to the run. As a leading running company that designs and markets high-performance men's and women's running shoes, apparel and accessories in more than 40 countries worldwide, we are dedicated to inspiring people to run and be active by creating innovative gear that keeps them running longer, farther, faster and happier. For more information, please visit [http://www.brooksrunning.com](http://www.brooksrunning.com)
 
 **About Prudential**
@@ -111,19 +111,19 @@ Visit [www.thongsia.com.sg](www.thongsia.com.sg) to find out more.
 <br>
 Introducing Tiger Balm ACTIVE, the range of muscle rubs, gels and sprays, specially formulated by Tiger Balm, the name you can trust. Designed for the active individual with an active lifestyle, Tiger Balm ACTIVE is what you need for warm-ups, cool-downs, as well as relief of your muscular aches, pains and strains. So go on. Step up and get Active!
 
-Tiger Balm ACTIVE Muscle Rub
-Non-greasy feel
-Good for muscle aches, pains & strains
-Also effective for pre-sports warm up
+**Tiger Balm ACTIVE Muscle Rub**
+* Non-greasy feel
+* Good for muscle aches, pains & strains
+* Also effective for pre-sports warm up
 
-Tiger Balm ACTIVE Muscle Gel
-Non-sticky feel
-Combats fatigued muscles & aids muscle recovery
-Also good for post-sports cool down.
+**Tiger Balm ACTIVE Muscle Gel**
+* Non-sticky feel
+* Combats fatigued muscles & aids muscle recovery
+* Also good for post-sports cool down.
 
-Tiger Balm ACTIVE Muscle Spray
-For fast & easy application
-Relieving sore and aching muscles in hard to reach areas
+**Tiger Balm ACTIVE Muscle Spray**
+* For fast & easy application
+* Relieving sore and aching muscles in hard to reach areas
 
 For more details, please visit [http://www.tigerbalm.com/sg/range/20](http://www.tigerbalm.com/sg/range/20)
 
@@ -173,9 +173,9 @@ About the Singapore Sports Council
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About Standard Chartered Bank in Singapore**
