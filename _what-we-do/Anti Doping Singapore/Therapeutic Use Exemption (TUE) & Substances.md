@@ -91,3 +91,28 @@ For easier access, the List is now available on the various mobile devices and p
 Athletes should know that, under the Code, they are strictly liable whenever a prohibited substance is found in their urine or blood sample. This means that a violation occurs whether or not the athlete intentionally, knowingly or unknowingly, used a prohibited substance or was negligent or otherwise at fault. It is therefore very important for athletes to understand not only what is prohibited, but also what might potentially cause an inadvertent doping violation.
 
 Athletes should always check with their International Federation or Anti-Doping Singapore (ADS) to find out what additional substances and methods are prohibited in their sport.  Athletes should always make their doctor aware that they are athletes and check if the prescribed medications is in the Prohibited List. Those who are unsure of what a product contains should not take it until they are sure it is not prohibited. Ignorance is never an excuse.
+
+**MEDICAL CONDITIONS**
+
+Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine!
+
+Athletes who need to apply for a TUE should request more information about the TUE application process from their International Federation (for international-level athletes) or ADS (for national-level athletes).
+
+Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine.
+
+Athletes who need to apply for a TUE should request more information about the TUE application process from their International Federation (for international-level athletes) or ADS (for national-level athletes).
+
+**CHECKING MEDICATION**
+
+Athletes can check if the medication is a Prohibited Substance, or the method of treatment is a Prohibited Method under the List by one of the following ways:
+
+1.  Anti-Doping Singapore's (ADS) Check Medications Database
+For list of medications registered in Singapore
+
+2. [Global Drug Reference Online](http://www.globaldro.com/)  
+For list of medications registered in Australia, Canada, Japan, the United Kingdom, the USA and Switzerland
+
+3. [Hong Kong Anti-Doping Committee's Drug in Sport](http://www.druginsport.hk/)  
+For list of medications registered in Hong Kong
+4. [Irish Pharmacy's Drug in Sport Database](http://www.eirpharm.com/) (endorsed by the Irish Sports Council)  
+For list of medications registered in Ireland
