@@ -6,11 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-## **WTA Championships Awarded To Singapore For 2014-2018 In Record Deal**
+### **WTA Championships Awarded To Singapore For 2014-2018 In Record Deal**
+
 ![](/images/Media%20Centre/Media%20Release/2013/May/WTAC.jpeg)
 * As WTA celebrates 40th anniversary, landmark Championships deal in new market continues global expansion and business growth for sport
 * Championships to feature additional content and new entertainment events to enhance fans' experience
-* 
+
 ![](/images/Media%20Centre/Media%20Release/2013/May/WTACHAMPIONSHIPSAWARDEDTOSINGAPOREFOR20142018INRECORDDEALMainPar0061Imagegif.gif)
 	
 **St. Petersburg, Fl, USA, 8 May 2013** - The Women's Tennis Association announced today that Singapore will host the 2014-2018 WTA Championships, the most prestigious event on the WTA calendar. Under terms of the record-setting five-year agreement, the Top 8 singles players and - for the first time - the Top 8 doubles teams will compete for a record prize money purse of US$ 6.5 million at the WTA Championships. The announcement follows an extensive global search and bidding process conducted by the WTA that elicited 43 expressions of interest from international cities that was narrowed to three finalists - Tianjin, China; Monterrey, Mexico; and Singapore.
@@ -43,7 +44,7 @@ image: ""
 
 15. The Sports Consultancy, a leading sports bid management consultancy, managed the WTA's global tender process, the first time in the WTA's history that it had conducted an international tender process, resulting in today's landmark Championships deal.
 
--END-
+---
 
 Media Links: 
 
@@ -54,7 +55,7 @@ Singapore Sports Hub image: https://www.yousendit.com/download/UVJqZm1RYTJGOFJWe
 WTA Player congratulatory video: http://youtu.be/vlepn4PqVwA
 
 **For media enquiries, please contact:**
-<br>
+
 Andrew Walker, WTA, +44 7825 152 361, [awalker@wtatennis.com](awalker@wtatennis.com)
 <br>
 Chris Wallace, WTA, +1.727.502.1234, [cwallace@wtatennis.com](cwallace@wtatennis.com)
@@ -82,7 +83,7 @@ WTA
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), www.Vision2030.sg and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
