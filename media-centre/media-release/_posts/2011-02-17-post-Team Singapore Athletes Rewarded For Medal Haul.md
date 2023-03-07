@@ -109,20 +109,9 @@ Team Events
 | Sailing | Men's Double Handed Dinghy 420 | Justin LIU Xiaman <br>Sherman CHENG Feng Yuan | Gold | $320,000.00
 | Sailing | Women's Double Handed Dinghy 42 | Cecilia LOW Rui Qi <br>Rachel LEE Qing | Gold | $320,000.00
 | Sailing | Open Hobie-16 | Justin WONG Ming Ho <br>TEO Wee Chin | Bronze | $80,000.00
+| Sailing | Women's Double Handed Dinghy 470  | Dawn LIU Xiaodan <br>Siobhan TAM Shui Wun | Bronze  | $80,000.00
 
 
-
-Bronze
-
-Women's Double Handed Dinghy 470
-
-Dawn LIU Xiaodan
-
-Bronze
-
-$80,000.00
-
-Siobhan TAM Shui Wun
 
 Bronze
 
