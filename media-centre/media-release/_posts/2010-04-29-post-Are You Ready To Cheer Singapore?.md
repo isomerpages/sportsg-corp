@@ -36,23 +36,22 @@ Annex 1 - Lyrics of "You Are The One, Singapore"
 <br>
 O YEAH, O YEAH, O YEAH, HEY
 O YEAH, O YEAH, O YEAH, HO
-<br>
+
 YOU are the ONE, Singapore
 NOW is the TIME, here we GO, YEAH!
-<br>
+
 O YEAH, O YEAH, O YEAH, HEY
 O YEAH, O YEAH, O YEAH, HO
-<br>
+
 YOU are the ONE, Singapore
 NOW is the TIME, here we GO GO, YEAH!
-<br>
+
 Beat of the drum (beat of the drum)
 Feet on the ground (feet on the ground)
 Shout it out loud (shout it out loud)
 Make us all proud (make us all proud)
 
-Annex 2 - JJ Lin's Biography
-www.sportsingapore.gov.sg
+[Annex 2 - JJ Lin's Biography](/files/Media%20Centre/Media%20Release/2010/April/JJ20Lin20Biopdf.pdf)
 
 [About the Singapore Sports Council](www.sportsingapore.gov.sg)
 <br>
