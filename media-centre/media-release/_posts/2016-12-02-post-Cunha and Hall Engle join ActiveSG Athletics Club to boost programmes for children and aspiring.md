@@ -12,7 +12,7 @@ The ActiveSG Athletics Club today announced that renowned track-and-field coache
   
 Lai Chin Kwang, Chief, ActiveSG, said, “I am very excited to welcome both Luis and Katrina to the ActiveSG Athletics Club. The two new appointments have over 33 years of experience in coaching Athletics and will bring to the table fun and fresh ideas to boost our current programmes. Both of them also have a strong background in working with children, making them ideal to plan and execute ActiveSG’s values-based programmes which aim to use sport to inculcate important values such as discipline, respect and teamwork into our youths.”  
   
-**Luis Cunha - Principal**  
+##### **Luis Cunha - Principal**  
 
 As principal, Cunha will be in-charge of designing the club’s programmes at all age groups to ensure there is a consistent progression in the development of each child as he or she gets older and increase in proficiency in a specific event. He will also be working with the club’s head coaches to ensure that the programmes are delivered to the children effectively.  
   
@@ -20,7 +20,7 @@ Cunha said, “It is a great honour to be trusted to lead the ActiveSG Athletics
   
 Prior to his current appointment, Cunha was head coach (sprints/hurdles) with Singapore Athletics where Team Singapore athletes, including Singapore’s national hurdler Dipna Lim Prasad, won various medals and broke multiple national records during the 2015 SEA Games and other international meets under his tutelage. Before his arrival in Singapore, the former 3-time Olympian for Portugal was head coach (sprint/relays) for his country’s Athletics team. Cunha also has plenty of experience coaching children - having worked with various athletes at youth level throughout his respectable career and also starting off as a high school PE teacher and coach where he worked closely with children to develop and sustain their interest in sport. He also planned and taught Long-Term Athlete Development programmes as a Lisbon University lecture and IAAF Lecture.  
   
-**Katrina Hall-Engle – Head Coach (Kids Programme)**  
+##### **Katrina Hall-Engle – Head Coach (Kids Programme)**  
 
 Ms Hall-Engle meanwhile will be helming the Kids programme that is targeted for children aged six to twelve years old. She will be helping to refine the framework for the programme’s curriculum and will also be working closely with the club’s assistant and volunteer coaches to deliver the programme to the participants.  
   
@@ -37,4 +37,4 @@ Cunha said, “It is important for the fraternity to work together to help push 
 The ActiveSG Athletics Club is the second of four ActiveSG academies/clubs that were launched in 2016 under the Vision 2030 master plan to encourage more Singaporeans to get active and live better through sport. There are currently a total of more than 120 children enrolled with the club, which runs its programmes at four centres around the island. The club offers an all-rounded kids programmes for children aged 6-12 and a more competitive youth programme for those above the age of 13.  
   
 
-For more information or/and to join the Athletics Club, please visit [www.myactivesg.com/academy/athletics](https://www.myactivesg.com/academy/athletics).
+For more information or/and to join the Athletics Club, please visit [www.myactivesg.com/academy/athletics](https://www.myactivesg.com/academy/athletics).
