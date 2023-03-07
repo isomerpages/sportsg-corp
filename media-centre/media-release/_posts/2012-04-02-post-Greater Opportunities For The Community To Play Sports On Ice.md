@@ -12,7 +12,7 @@ image: ""
 
 *SkateStar Programme to Introduce Ice Skating to the Heartlands*
 	
-Singapore, 2 April 2012 - The Rink, Singapore's first Olympic-size ice rink located at the country's newest mall JCube in Jurong East, opened its doors to the public today with plenty in store for the community at large.
+**Singapore, 2 April 2012** - The Rink, Singapore's first Olympic-size ice rink located at the country's newest mall JCube in Jurong East, opened its doors to the public today with plenty in store for the community at large.
 
 2. The 60m by 30m rink is designed to host activities such as recreational skating, figure skating, speed skating and ice hockey. Together with its 460-seat gallery, spectators will be treated to rink-side action during ice hockey matches and skating performances.
 
