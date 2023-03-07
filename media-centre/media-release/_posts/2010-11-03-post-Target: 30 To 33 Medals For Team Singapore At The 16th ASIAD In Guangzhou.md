@@ -311,8 +311,8 @@ Athletes
 |150.| Golf | Joshua Shou Mingqing|寿珉庆|20|M|√   |Team (M)|Individual (M)
 | 151.  |Gymnastics  |David-Jonathan Chan Thuang Tong |曾传忠 |25 |M |√    |Men's Artistic Gymnastics Individual 
 |152. |Gymnastics  | Gabriel Gan Zi Jie  | 颜子杰  | 24  | M  | √     | Men's Artistic Gymnastics Individual
-|153.  | Krystal Khoo Oon Hui | 邱思惠 |17 | F | √    | Women's Artistic Gymnastics Individual
-|154.  | Lim Heem Wei| 林欣玮 | 21 | F | Women's Artistic Gymnastics Individual
+|153.  | Gymnastics  | Krystal Khoo Oon Hui | 邱思惠 |17 | F | √    | Women's Artistic Gymnastics Individual
+|154.  | Gymnastics  | Lim Heem Wei| 林欣玮 | 21 | F | Women's Artistic Gymnastics Individual
 | 155.    | Hockey
 
 Robin Ng Wan Chiang
