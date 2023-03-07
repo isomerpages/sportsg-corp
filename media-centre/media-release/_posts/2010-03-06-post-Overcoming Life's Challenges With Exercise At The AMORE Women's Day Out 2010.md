@@ -28,15 +28,16 @@ Sporting Activities for All
 
 8 Members of the public also joined in the fun sporting try-outs, such as archery, rock climbing, sports kenjutsu and uni-cycle. These activities were complimentary and were available on a first-come-first-serve basis.
 statics0
-- End -
-About Amore Women's Day Out 2010
-statics0
+-End-
+
+**About Amore Women's Day Out 2010**
+<br>
 Amore Women's Day Out is the largest women-only aerobic-based sporting event in Singapore. Back for its seventh instalment in 2010, Amore Women's Day Out will be held on 6 March 2010. There are different segments for ladies to choose from - Experience Fitness for fitness newbies, the 3-hour Tri-Power Challenge for exercise pros, and Body-Mind-Soul for yoga enthusiasts. There is also the POWER of 2, which allows mothers to have a fun workout with their children. Other exciting fringe activities include archery, Chanbara Chess, rock climbing and uni-cycling.
 
 For more information, please visit www.womensdayout.sg
-statics0
-About the Singapore Sports Council
-statics0
+
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
