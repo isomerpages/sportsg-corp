@@ -25,21 +25,21 @@ sections:
       title: Start Your Fitness Journey With Sport
       subtitle: What We Do
       button: Discover Now
-      alt: Image alt text
+      alt: Start Your Fitness Journey
       url: /what-we-do/academy-and-clubs/
       image: /images/About Us/Values & Mission/Core Values/people.jpeg
   - infopic:
       title: Become A Certified Coach
       subtitle: Coaches' Corner
       button: Apply Now
-      alt: Image alt text
+      alt: Become A Certified Coach
       url: /support-resources/coaches-corner/introduction/
-      image: /images/Support/Coache's Corner/athletics2.jpeg
+      image: /images/Support/Coache's Corner/Featured Coach/Picture1.jpeg
   - infopic:
       title: Develop A Love For Sport
       subtitle: Sport Education
       button: Learn More
-      alt: Image alt text
+      alt: Develop A Love For Sport
       url: /sports-education/history-of-sportsg/introduction/
       image: /images/Sport Education/Value & Principles in Sport/NSYS generic.jpeg
   - resources:
