@@ -98,26 +98,11 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Handball | 13 - 26 November 2010
 | Hockey | 13 - 25 November 2010
 | Judo | 13 - 16 November 2010
-
-Kabaddi
-
-22 - 26 November 2010
-
-Karate
-
-24 - 26 November 2010
-
-Modern Pentathlon
-
-23 - 24 November 2010
-
-Roller Sports
-
-23 - 26 November 2010
-
-Rowing
-
-14 - 19 November 2010
+| Kabaddi | 22 - 26 November 2010
+| Karate | 24 - 26 November 2010
+| Modern Pentathlon | 23 - 24 November 2010
+| Roller Sports | 23 - 26 November 2010
+| Rowing | 14 - 19 November 2010
 
 Rugby
 
