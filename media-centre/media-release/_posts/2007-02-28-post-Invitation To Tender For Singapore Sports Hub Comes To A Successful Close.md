@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Invitation To Tender For Singapore Sports Hub Comes To A Successful Close**
 
-The Singapore Government announced the successful close of the Invitation to Tender (ITT) for the Singapore Sports Hub project today at 4.00pm.
+The Singapore Government announced the successful close of the Invitation to Tender (ITT) for the Singapore Sports Hub project today at 4:00 pm.
 
 Proposals were delivered to the Singapore Sports Council (SSC) by the following consortiums:
 
@@ -16,18 +16,18 @@ Proposals were delivered to the Singapore Sports Council (SSC) by the following 
 * Singapore Sports Hub Consortium
 * Singapore Gold Consortium
 
-"We are very happy to confirm that we have received proposals from the three consortiums for the Sports Hub project. All three consortiums have a good mix of partners with varying competencies, including banks, architects, event management companies, construction companies, real estate developers, facilities operators and consultants. We look forward to evaluating the proposals and announcing the successful consortium in mid 2007," said Oon Jin Teik, CEO of the Singapore Sports Council.
+"We are very happy to confirm that we have received proposals from the three consortiums for the Sports Hub project. All three consortiums have a good mix of partners with varying competencies, including banks, architects, event management companies, construction companies, real estate developers, facilities operators and consultants. We look forward to evaluating the proposals and announcing the successful consortium in mid-2007," said Oon Jin Teik, CEO of the Singapore Sports Council.
 
 The evaluation of the proposals will begin in March, with the successful consortium expected to be announced by the middle of this year.
 
 Bids will be evaluated on four criteria:
 <br>
-1. Appeal of sports, leisure and entertainment programming (40%)
-2. Functionality and quality design (25%)
-3. Financial and legal appeal (25%)
-4. Facilities management (10%)
+*  Appeal of sports, leisure and entertainment programming (40%)
+*  Functionality and quality design (25%)
+*  Financial and legal appeal (25%)
+*  Facilities management (10%)
 
-Enclosures
+**Enclosures**
 <br>
 [Annex A: Singapore Sports Hub Consortium Team List]([](/files/Media%20Centre/Media%20Release/2007/February/ANNEXA280207.pdf))
 <br>
