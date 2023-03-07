@@ -122,3 +122,340 @@ MAP AWARDS RECIPIENTS
 ||| Ho Ru'En Roanne | ||$5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
 ||| Tao Li |
 ||| Quah Ting Wen |
+
+
+
+
+
+
+
+
+
+6
+Table Tennis
+Feng Tianwei
+Women's Team
+1
+$15,000
+Team Event
+
+
+
+Wang Yuegu
+
+
+
+
+
+
+
+Sun Beibei
+
+
+
+
+
+
+
+Yu Mengyu
+
+
+
+
+
+
+
+Sim Kai Xin Zena
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yang Zi
+Men's Team
+1
+$15,000
+Team Event
+
+
+
+Gao Ning
+
+
+
+
+
+
+
+Cai Xiaoli
+
+
+
+
+
+
+
+Pang Xue Jie
+
+
+
+
+
+
+
+Lim Jie Yan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wang Yuegu
+Mixed Doubles
+1
+$15,000
+Team Event
+
+
+
+Yang Zi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sun Beibei
+Women's Doubles
+1
+$15,000
+Team Event
+
+
+
+Yu Mengyu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feng Tianwei
+Women's Singles
+1
+$10,000
+Individual
+
+
+
+
+
+
+
+
+
+
+
+Gao Ning
+Men's Singles
+1
+$10,000
+Individual
+
+
+
+
+
+
+
+
+
+7
+Water Polo
+Luo Nan
+Men's Team
+1
+$30,000
+Team Sport
+
+
+
+Yip Ren Kai
+
+
+
+
+
+
+
+Tan Wei Keong Terence
+
+
+
+
+
+
+
+Tay Sin Chao Nigel
+
+
+
+
+
+
+
+Teo Zhen Wei Eugene
+
+
+
+
+
+
+
+Lin Diyan
+
+
+
+
+
+
+
+Lin Diyang
+
+
+
+
+
+
+
+Lee Kok Wang Alvin
+
+
+
+
+
+
+
+Wee Kenneth
+
+
+
+
+
+
+
+Ong Wei Sheng Kelvin
+
+
+
+
+
+
+
+Loh Lai Hua Samuel
+
+
+
+
+
+
+
+Chin Yong Jie Andy
+
+
+
+
+
+
+
+Lim Yao Xiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+Wushu
+Khor Poh Chin
+Women's Duilian with Weapon
+1
+$15,000
+Team Event
+
+
+
+Tao Yijun
+
+
+
+
+
+
+
+Tay Yu Juan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Gold Medals / MAP Awards
+
+33
+$455,000
+
+
