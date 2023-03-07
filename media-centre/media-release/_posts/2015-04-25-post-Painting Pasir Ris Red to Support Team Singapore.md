@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **Painting Pasir Ris Red to Support Team Singapore**
-**_Pasir Ris is first heartland estate to get dressed, as Singapore Gets Ready to welcome the 28th Southeast Asian Games_**
+_Pasir Ris is first heartland estate to get dressed, as Singapore Gets Ready to welcome the 28th Southeast Asian Games_
 
 **Singapore, 25 April 2015** – In support of Singapore athletes' quest for success at the 28th Southeast Asian (SEA) Games, our housing estates will be decked up in red – the traditional colour that befittingly expresses every Singaporean’s national pride.
 
@@ -33,7 +33,7 @@ image: ""
 
 11\. SINGSOC has been actively engaging the public to be a part of the Games, whether by stitching an official mascot for a medal winning athlete or crafting a part of an art installation inspired by the Games. People from all walks of life have been busy getting ready and involved for the Games, to show our five million strong Kallang Roar come 5 June 2015.
 
-12\. “It is an honour for residents and volunteers of Pasir Ris West Constituency to come together to cheer and show our support for the coming 28th SEA Games which also coincide with Singapore’s SG50 Celebration. This definitely brings joy and excitement for every Singaporean. I am sure Singaporeans will give their support and cheer for our local athletes, especially those who are currently residing in Pasir Ris West.” said Mr Ong Chee Keong, who is the Organising Chairman of Pasir Ris West’s SG50 Projects Committee.
+12\. “It is an honour for residents and volunteers of Pasir Ris West Constituency to come together to cheer and show our support for the coming 28th SEA Games which also coincide with Singapore’s SG50 Celebration. This definitely brings joy and excitement for every Singaporean. I am sure Singaporeans will give their support and cheer for our local athletes, especially those who are currently residing in Pasir Ris West,” said Mr Ong Chee Keong, who is the Organising Chairman of Pasir Ris West’s SG50 Projects Committee.
 
 13\. Beyond the Paint the Town Red initiative, other community events and opportunities for the community to come together to be a part of the 28th SEA Games include:
 
