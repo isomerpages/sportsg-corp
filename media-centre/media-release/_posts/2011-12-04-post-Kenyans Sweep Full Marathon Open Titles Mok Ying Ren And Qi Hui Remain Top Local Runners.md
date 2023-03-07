@@ -28,3 +28,7 @@ Local Runners Retained Their Titles
 7. LIVE broadcast was also available for the public to watch the race from the comforts of their own home, with a same day telecast at 7pm on StarHub SuperSports Arena (Channel 201). Race coverage was also available on SingaporeSports.tv[SingaporeSports.tv](SingaporeSports.tv) from 4.30am to 10.00am.
 
 8. For further information on the Standard Chartered Marathon Singapore 2011 please visit [www.marathonsingapore.com](www.marathonsingapore.com).
+
+#### **Annex A: List of SCMS 2011 Winners**
+
+**FULL MARATHON OPEN (MEN)**
