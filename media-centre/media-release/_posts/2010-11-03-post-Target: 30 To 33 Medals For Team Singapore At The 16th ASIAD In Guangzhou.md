@@ -434,8 +434,8 @@ Team Officials
 | 22.| Canoe-Kayak| Balazs Babella| Coach
 | 23. | Chess - Xiangqi| Lee Sit Seng| Team Manager
 | 24.| Cue Sports| Sebastian Tan| Team Manager
-| 25. | Paul Pang Yue Min| Asst. Team Manager
-| 26.  | Chen Wei Chih| Coach
+| 25. | Cue Sports|Paul Pang Yue Min| Asst. Team Manager
+| 26.  | Cue Sports|Chen Wei Chih| Coach
 | 27.  | Cycling| Danial Loy Wen Jun| Team Manager
 
 28.   
