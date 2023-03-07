@@ -83,33 +83,10 @@ Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 20
 | Samantha Louisa YEO Ginn | Women's 50m Breaststroke, Heats | PB 0:33.53 (Previous PB 0:34.12)
 | Shana LIM Jia Yi | Women's 4X100 Medley Relay, Final (Backstroke) | PB 1:03.08 (Previous PB 1:03.25)
 | TAO Li | Women's 50m Backstroke, Heats | PB 0:28.91 (Previous PB 0:29.02)
-| TAO Li
-
-Women's 50m Butterfly, Heats
-
-PB 0:26.52 (Previous PB 0:26.64)
-NR 0:26.52 (Previous NR 0:26.64, set during the Singapore National Swimming Championships, June 10)
-
-TAO Li
-
-Women's 50m Butterfly, Final
-
-PB 0:26.10 (Previous PB 0:26.52, set during the heats)
-NR 0:26.10 (Previous NR 0:26.52, set during the heats)
-
-CANOE/KAYAK: 1 PB
-
-Geraldine LEE Wei Ling
-
-Women's Kayak Single 500m, Heats
-
-PB 2:02.124 (Previous PB 2:02.399)
-
-Geraldine LEE Wei Ling
-
-Women's Kayak Single 500m, Semi-Final
-
-PB 2:01.351 (Previous PB 2:02.124, set during the heats)
+| TAO Li | Women's 50m Butterfly, Heats | PB 0:26.52 (Previous PB 0:26.64) <br>NR 0:26.52 (Previous NR 0:26.64, set during the Singapore National Swimming Championships, June 10)
+| TAO Li | Women's 50m Butterfly, Final | PB 0:26.10 (Previous PB 0:26.52, set during the heats) <br>NR 0:26.10 (Previous NR 0:26.52, set during the heats)
+| CANOE/KAYAK: 1 PB | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Heats <br>PB 2:02.124 (Previous PB 2:02.399)
+| Geraldine LEE Wei Ling | Women's Kayak Single 500m, Semi-Final | PB 2:01.351 (Previous PB 2:02.124, set during the heats)
 
 Geraldine LEE Wei Ling
 
