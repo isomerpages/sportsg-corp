@@ -55,22 +55,15 @@ Following Team Singapore's Action on New Media
 
 Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010
 DATE: 12-27 November 2010
-
 VENUE:Guangzhou, China
-
 WEBSITE:www.gz2010.cn/en
 
 NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 
- 
 
-Event
-
-Name
-
-Opening Ceremony
-
-12 November 2010
+| Event | Name | Opening Ceremony |
+| -------- | -------- | -------- |
+| Opening Ceremony12 November 2010
 
 Closing Ceremony
 
