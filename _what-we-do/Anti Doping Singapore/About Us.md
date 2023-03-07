@@ -32,3 +32,14 @@ The [World Anti-Doping Code](https://www.wada-ama.org/en/what-we-do/the-code) ("
 
 [ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and-forms/)
 
+#### **NADAB**
+
+The Singapore Sports Council (rebranded as "Sport Singapore" or "SportSG" with effect from 1 April 2014) appointed the National Anti-Doping Advisory Board (NADAB) to advise the SportSG and Anti-Doping Singapore (ADS) on all anti-doping matters.
+
+The NADAB is represented by members with expertise in the following areas:
+
+(i) Legal and justice
+(ii) Medical and scientific
+(iii) Sport policies and organization of sports systems
+(iv) Education
+(v) Athlete's reality and perspective
