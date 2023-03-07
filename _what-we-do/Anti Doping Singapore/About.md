@@ -18,8 +18,7 @@ ADS’ primary responsibilities are to:
 *   Promote anti-doping research.
 
 **Mission**  
-To ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives.
-
+To ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives.  
 **Vision**  
 Every Singaporean athlete is a True Winner.
 
