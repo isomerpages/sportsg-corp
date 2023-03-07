@@ -61,7 +61,7 @@ Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 <br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at Singapore Sports Council for more information.
 
-**About Nestle Singapore**
+[About Nestle Singapore](https://www.nestle.com.sg/)
 <br>
 NESTLE Singapore (Pte) Ltd, established in 1912, is a wholly owned subsidiary of NESTLE SA, the world's largest food company. Headquartered in Vevey, Switzerland, NESTLE employs over 283,000 people in factories and operating offices in almost every country around the world. NestlE aims to be the leading Nutrition, Health and Wellness Company in Singapore. NESTLE's range of products in Singapore include MILO, NESCAFE, MAGGI, YANG SHENG LE, NESCAFE, MILO, NESPRAY, NESTLE OMEGA PLUS, MOVENPICK of Switzerland, KIT KAT, PURINA, FRISKIES and dozens of other trusted brands that are household names and market leaders in their product categories.
 
