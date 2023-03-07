@@ -131,6 +131,7 @@ The latest Sport Singapore news delivered to your inbox
 <br>Best viewed using IE 11, Firefox 52,
 Chrome 56, Safari 8, Opera 43 and above
 
-Contact Us Feedback FAQ
+Contact Us 
+<br>Feedback FAQ
 <br>Report Vulnerability Terms of Use Privacy Statement
 <br>© 2019 Sport Singapore. Last Updated: 28 February, 2023
