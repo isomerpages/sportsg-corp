@@ -64,34 +64,13 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Event | Name 
 | -------- | -------- 
 | Opening Ceremony | 12 November 2010
-
-Closing Ceremony
-
-27 November 2010
-
-Aquatics - Diving
-
-22 - 26 November 2010
-
-Aquatics - Swimming
-
-13 - 18 November 2010
-
-Aquatics - Synchronised Swimming
-
-19 - 21 November 2010
-
-Aquatics - Water-polo
-
-13 - 25 November 2010
-
-Archery
-
-19 - 24 November 2010
-
-Athletics
-
-21 - 27 November 2010
+| Closing Ceremony | 27 November 2010
+| Aquatics - Diving | 22 - 26 November 2010
+| Aquatics - Swimming | 13 - 18 November 2010
+| Aquatics - Synchronised Swimming | 19 - 21 November 2010
+| Aquatics - Water-polo | 13 - 25 November 2010
+| Archery | 19 - 24 November 2010
+| Athletics | 1 - 27 November 2010
 
 Badminton
 
