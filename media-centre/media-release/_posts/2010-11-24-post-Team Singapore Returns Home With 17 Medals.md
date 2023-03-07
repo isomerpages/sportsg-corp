@@ -74,32 +74,16 @@ Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 20
 | Andrew LIM Xin En | Men's 50m Breaststroke, Heats | PB 0:28.93 (Previous PB 0:29.09) 
 | Andrew LIM Xin En | Men's 100m Breaststroke, Heats | PB 1:05.19 (Previous PB 1:05.22) 
 | Clement LIM Yong En | Men's 200m Freestyle, Heats | PB 1:51.91 (Previous PB 1:52.17) 
-| Danny YEO Kai Quan | Men's 200m Freestyle, Heats | PB 1:51.70 (Previous PB 1:52.01)| Danny YEO Kai Quan
-| Men's 200m Freestyle, Final | PB 1:51.07 (Previous PB 1:51.70, set during the heats) | Danny YEO Kai Quan
-| Men's 50m Freestyle, Heats | PB 0:24.00 (Previous PB 0:24.23) | Rainer NG Kai Wee
-| Men's 200m Backstroke, Heats | PB 2:04.95 (Previous PB 2:04.97) | Rainer NG Kai Wee
-| Men's 200m Backstroke, Final | PB 2:04.06 (Previous PB 2:04.95, set during the heats) | Rainer NG Kai Wee
-| Men's 50m Backstroke, Heats | PB 0:26.32 (Previous PB 0:26.37) | NR 0:26.32 (Previous NR 0:26.37, set during the YOG, Aug 10)
-
-Samantha Louisa YEO Ginn
-
-Women's 50m Breaststroke, Heats
-
-PB 0:33.53 (Previous PB 0:34.12)
-
-Shana LIM Jia Yi
-
-Women's 4X100 Medley Relay, Final (Backstroke)
-
-PB 1:03.08 (Previous PB 1:03.25)
-
-TAO Li
-
-Women's 50m Backstroke, Heats
-
-PB 0:28.91 (Previous PB 0:29.02)
-
-TAO Li
+| Danny YEO Kai Quan | Men's 200m Freestyle, Heats | PB 1:51.70 (Previous PB 1:52.01)
+| Danny YEO Kai Quan | Men's 200m Freestyle, Final | PB 1:51.07 (Previous PB 1:51.70, set during the heats) 
+| Danny YEO Kai Quan | Men's 50m Freestyle, Heats | PB 0:24.00 (Previous PB 0:24.23) 
+| Rainer NG Kai Wee | Men's 200m Backstroke, Heats | PB 2:04.95 (Previous PB 2:04.97) 
+| Rainer NG Kai Wee | Men's 200m Backstroke, Final | PB 2:04.06 (Previous PB 2:04.95, set during the heats) 
+| Rainer NG Kai Wee | Men's 50m Backstroke, Heats | PB 0:26.32 (Previous PB 0:26.37) | NR 0:26.32 (Previous NR 0:26.37, set during the YOG, Aug 10)
+| Samantha Louisa YEO Ginn | Women's 50m Breaststroke, Heats | PB 0:33.53 (Previous PB 0:34.12)
+| Shana LIM Jia Yi | Women's 4X100 Medley Relay, Final (Backstroke) | PB 1:03.08 (Previous PB 1:03.25)
+| TAO Li | Women's 50m Backstroke, Heats | PB 0:28.91 (Previous PB 0:29.02)
+| TAO Li
 
 Women's 50m Butterfly, Heats
 
