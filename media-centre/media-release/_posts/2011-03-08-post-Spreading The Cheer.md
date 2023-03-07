@@ -35,11 +35,11 @@ The National Cheerleading Championships Returns for a Second Edition
 
 Annex A - National Cheerleading Championships 2011 Fact Sheet
 DATE: Saturday, 19 and Sunday, 20 March 2011
-
+<br>
 VENUE: Jurong East Sports Hall (21 Jurong East Street 31 Singapore 609517)
-
+<br>
 ORGANISERS: Singapore Sports Council and the Federation of Cheerleading Singapore
-
+<br>
 GUEST-OF-HONOUR: Ms Grace Fu, Senior Minister of State, Ministry of National Development and Ministry of Education
 
  
