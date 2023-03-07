@@ -36,14 +36,14 @@ image: ""
 
 12. Returning to Singapore since it was last staged in 1993, the 28th SEA Games in 2015 will be the first large scale multi sport event to be held at the spanking new Singapore Sports Hub and multiple community sports venues across the island.
 
--END-
+---
 
 **Annex A: 28th SEA Games Steering Committee Members**
 
 **Chairman**
 
 Mr Chan Chun Sing
-<br>Acting Minister for Community Development, Youth and Sports Minister of State, Ministry of Information, Communications and the Arts
+<br>Acting Minister for Community Development, Youth and Sports <br>Minister of State, Ministry of Information, Communications and the Arts
 
 **Members**
 
@@ -87,7 +87,7 @@ Mr Chan Chun Sing
 <br>Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
 
 **For media enquiries, please contact:**
-<br>
+
 Jemuel Fu
 <br>Executive, Media Relations
 <br>Singapore Sports Council
