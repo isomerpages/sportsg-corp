@@ -91,22 +91,8 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Bowling     | Women's Masters    | Cherie TAN Shi Hua    | Silver   | $100,000.00
-
-Women's Singles
-
-Shayna NG Lin Zhi
-
-Silver
-
-$100,000.00
-
-Women's Singles
-
-NEW Hui Fen
-
-Bronze
-
-$50,000.00
+| Bowling     | Women's Singles  | Shayna NG Lin Zhi  | Silver  | $100,000.00
+| Bowling     | Women's Singles  | NEW Hui Fen  | Bronze  | $50,000.00
 
 Cuesports
 
