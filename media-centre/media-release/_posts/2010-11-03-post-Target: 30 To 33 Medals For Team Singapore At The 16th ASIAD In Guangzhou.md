@@ -276,31 +276,9 @@ Athletes
 | 114.  | Dragon Boat  | Sarah Ching Siew Han | 莊秀菡 | 23| F| √   | Team (Women)
 | 115.   | Dragon Boat  | Seah Beng Choo| 谢明珠| 46| F| √   | Team (Women)
 | 116. | Dragon Boat  | Siti Norwani Binte Mohamed Hussainain| NA| 29| F| √   | Team (Women)
-| 117.  | Dragon Boat  | Tan Si Min| 陈思敏| 20
-
-F
-
-√   
-
-Team (Women)
-
-118.        
-
-Equestrian
-
-Catherine Marissa Chew Yen Tung
-
-朱晏彤
-
-21
-
-F
-
-√   
-
-Show Jumping
-
-119.        
+| 117.  | Dragon Boat  | Tan Si Min| 陈思敏| 20 | F |√    |Team (Women)
+ |118.  |Equestrian |Catherine Marissa Chew Yen Tung |朱晏彤 |21 |F |√    |Show Jumping
+|119.        
 
 Fencing
 
