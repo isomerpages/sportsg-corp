@@ -419,18 +419,8 @@ Team Officials
 | 7. | Aquatics - Swimming | Barry Prime| Coach
 | 8. | Aquatics - Swimming | See Puey Kheng| Coach
 | 9. | Aquatics - Waterpolo| Samuel Wong Kok Piew| Team Manager
-
-10.   
-
-Lee Sai Meng
-
-Coach
-
-11.   
-
-Marcus Ng Eu Liem
-
-Coach
+| 10. | Lee Sai Meng| Coach
+| 11. | Marcus Ng Eu Liem | Coach
 
 12.   
 
