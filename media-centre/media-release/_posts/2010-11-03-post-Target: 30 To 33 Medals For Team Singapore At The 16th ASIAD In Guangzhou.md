@@ -317,7 +317,7 @@ Athletes
 | 156.  | Hockey | Zulkarnain Bin Salim | NA | 24 | M | √  | Team (M)
 | 157.  | Hockey | Kelvin Lim Yong Sheng |林永声 |26 |M |√    |Team (M)
 |158.  | Hockey | Saifulnizam Bin Mohd Seftu  | NA  | 25  | M  | √     | Team (M)
-| 159.  | Mohd Farhan Bin Mohd Suhaili  | NA  | 23  | M  | √     | Team (M)
+| 159.  | Hockey | Mohd Farhan Bin Mohd Suhaili  | NA  | 23  | M  | √     | Team (M)
 | 160. | Hockey | Mohd Sabri Bin Yuhari | NA | 20 | M | √   | Team (M)
 | 161. | Hockey | Tan Yi Ru | 陈奕偄 | 20 | M | √    | Team (M)
 | 162. | Hockey | Harjeet Singh | NA | 29 | M | √   | Team (M)
