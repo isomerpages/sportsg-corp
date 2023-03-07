@@ -189,49 +189,9 @@ Athletes
 | 27.   | Aquatics - Waterpolo | Loh Zhi Zhi | 骆之志 | 20 | M | √   | Team (M)
 | 28. | Aquatics - Waterpolo |Luo Nan | 罗楠 | 30 | M | √  | Team (M)
 | 29.  | Aquatics - Waterpolo |Ng Li-Ming | 黃利明  | 21  | M  | √    | Team (M)
-| 30.   
-
-Nigel Tay Sin Chao
-
-郑新钊
-
-22
-
-M
-
-√   
-
-Team (M)
-
-31.   
-
-Tan Jwee Ann Paul Louis
-
-陈维安
-
-26
-
-M
-
-√   
-
-Team (M)
-
-32.   
-
-Athletics
-
-Amanda Choo Sze-Min
-
-朱诗敏
-
-23
-
-F
-
-√   
-
-100m (W)
+| 30.   | Aquatics - Waterpolo |Nigel Tay Sin Chao | 郑新钊  | 22  | M  | √  | Team (M)
+| 31.  | Aquatics - Waterpolo |Tan Jwee Ann Paul Louis  | 陈维安  | 26  | M  | √    | Team (M)
+| 32.  | Athletics  | Amanda Choo Sze-Min  | 朱诗敏  | 23  | F  | √   | 100m (W)
 
 33.   
 
