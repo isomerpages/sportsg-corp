@@ -157,51 +157,10 @@ TEAM SINGAPORE'S PARTICIPATION: 22 sports
 Annex B: Team Singapore Contingent List at the 16th Asian Games Guangzhou 2010
 Athletes
 
-| No | Sport | Name | Chinese Name | Age | M/F |Debutant |
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- |
-| Text     | Text     | Text     |
-
-
-
-
-
-
-
-
-
-
-
-Event Discipline
-
-1.     
-
-Aquatics - Swimming
-
- 
-
-Amanda Lim Xiang Qi
-
-林香杞
-
-17
-
-F
-
-√
-
-50m Freestyle (W)
-
-4x100m Freestyle Relay (W)
-
-4x200m Freestyle Relay (W)
-
-2.     
-
-Andrew Lim Xin En
-
-林信恩
-
-20
+| No | Sport | Name | Chinese Name | Age | M/F |Debutant | Event Discipline
+| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- |
+| 1.    | Aquatics - Swimming | Amanda Lim Xiang Qi | 林香杞 | 17 | F | √ | 50m Freestyle (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W)
+| 2.    |  Andrew Lim Xin En  | 林信恩  | 20
 
 M
 
