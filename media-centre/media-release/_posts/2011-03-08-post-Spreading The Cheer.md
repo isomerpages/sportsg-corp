@@ -44,39 +44,25 @@ GUEST-OF-HONOUR: Ms Grace Fu, Senior Minister of State, Ministry of National Dev
 
  
 
-COMPETITION COMPONENTS
-
- 
-
+COMPETITION COMPONENTS\
 Total no. of teams: 27 teams, 40 entries
 
- 
-
 Competitive Segment
+<br>
+1. Team Event (12-16 persons per team) 
+<br>Open (Universities, Independent Cheer Squads)
+<br>High School (Secondary Schools and Polytechnics)
+<br>Primary School
+2. Group Stunts (five persons per team)
+<br>All Female
+<br>Mixed Team (maximum of three males)
+<br>Partner Stunts (two persons per team)
 
-1.    Team Event (12-16 persons per team)
-
-Open (Universities, Independent Cheer Squads)
-
-High School (Secondary Schools and Polytechnics)
-
-Primary School
-
-2.    Group Stunts (five persons per team)
-
-All Female
-
-Mixed Team (maximum of three males)
-
-3.    Partner Stunts (two persons per team)
-
- 
 
 Freestyle Segment (12 - 25 persons per team)
-
-1.    Open
-
-2.    Secondary School
+<br>
+1. Open
+2. Secondary School
 
  
 
