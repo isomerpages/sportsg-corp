@@ -12,7 +12,7 @@ image: ""
 *Team Singapore Will Participate in Eight Sports at the London 2012 Olympic Games and Four Sports at the Paralympic Games*
 ![](/images/Media%20Centre/Media%20Release/2012/Jun/TEAMSINGAPOREHEADSTOLONDON2012MainPar0042Imagegif.gif)
 
-**Singapore, 21 June 2012** - This year, while other teenagers are enjoying their summer holidays, 17-year-old Joseph Schooling and 16-year-old Gemma Rose Foo will be spending all their time in the pool and on horseback respectively, hoping to give their Olympic dream a sweet start.
+Singapore, 21 June 2012 - This year, while other teenagers are enjoying their summer holidays, 17-year-old Joseph Schooling and 16-year-old Gemma Rose Foo will be spending all their time in the pool and on horseback respectively, hoping to give their Olympic dream a sweet start.
 
 2. Newly crowned Sportsman of the Year Joseph Schooling captured the nation's imagination when he became the first Singaporean swimmer to meet the Olympic Games "A" qualifying mark at last year's Southeast Asian Games. Come July, he will compete alongside the world's best swimmers, including many of his own personal sporting heroes. Over at the arena, para-equestrienne Gemma Rose Foo, whose sporting talent was discovered in a riding therapy session, will take on competitors twice her age to show that age is just a number in pursuit of sporting excellence.
 
@@ -32,7 +32,7 @@ image: ""
 
 10. "We are thrilled to have qualified for the very first time for Boccia, in addition to our participation in Equestrian, Sailing and Swimming events," said CDM Frankie Thanapal Sinniah. "Our athletes showed the world what they are capable of through their strong showing at the Beijing 2008 Paralympic Games. They are hoping to build on their performance in Beijing and do Singapore proud, with the encouragement and support of all Singaporeans."
 
-Following Team Singapore in Action
+##### **Following Team Singapore in Action**
 
 11. Through the national well-wishing campaign, launched on 1 June 2012, Singapore Sports Council hopes to gather over 200,000 well-wishes for the contingents headed to London 2012. Together with partners such as SingTel, McDonalds, Samsung and National Library Board, the well-wishing campaign aims to rally Singaporeans behind the athletes as they prepare to compete on the world's most prestigious sporting stage. Singaporeans can support Team Singapore by submitting their well-wishes online via the mobile portal: [http://supportteamsingapore.sg](http://supportteamsingapore.sg)/ or penning their words of encouragement at 20 selected McDonald's outlets, 24 public libraries, ITEs, Velocity, Singtel ComCentr as well as Samung Mobile shops and pop-up stores across the island. Till 30 June 2012, three lucky supporters will stand to win 'I Love Team Singapore' travel packages for two to London. Limited edition 'I Love Team Singapore' merchandise and other attractive prizes are also up for grabs.
 
@@ -40,9 +40,10 @@ Following Team Singapore in Action
 
 13. The 2012 Olympic Games will be held in London, from 27 July to 12 August 2012 and the 2012 Paralympic Games will take place between 29 August and 9 September 2012.
 
--END-
+---
 
-Annex A: Fact Sheet on the London 2012 Olympic Games
+**Annex A: Fact Sheet on the London 2012 Olympic Games**
+
 DATE:              27 July - 12 August 2012
 <br>
 VENUE:            London, United Kingdom
