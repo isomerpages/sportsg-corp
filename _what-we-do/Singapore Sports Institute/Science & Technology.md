@@ -17,3 +17,5 @@ The end-state is to develop the application of S&T as part of a holistic solutio
 * **SSI Annual Symposium 2013** - The SSI Annual Symposium 2013 was held on the 11-12 July 2013 at Concorde Hotel, Singapore. Distinguished keynote speakers were:  
 Dr Ken van Someren, Director of R&D, GSK Human Performance Lab UK  
 Prof Takashi Katsuta, Coach & Coach Educator; Japan Olympic Committee & Japan Sport Council - [Read more](/singapore-sports-institute/science-and-technology/ssi-annual-symposium-2013/)
+
+* **SSI Institutional Review Board** - In accordance with the “Research involving Human Subject: Guidelines for IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004, SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety of human research subjects involved in SSI’s research programmes. - [Read more](/singapore-sports-institute/science-and-technology/ssi-annual-symposium-2013/)
