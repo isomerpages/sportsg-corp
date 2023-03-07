@@ -14,9 +14,9 @@ A 10-week wheelchair tennis pilot project will be launched in December for youth
 
 Says Ms Grace Fu, Minister for Culture, Community and Youth, “This new undertaking by SportCares demonstrates its commitment to serving society. Through social initiatives like the SportCares movement, we hope to have a more inclusive society where everyone has the chance to experience and even excel in sport. This new initiative by SportCares will reach out to even more Singaporeans with disabilities, and inspire them to live better through sport.” The Minister was speaking on Saturday at a tennis clinic organised by SportCares for underprivileged girls in the community in conjunction with players from the WTA Finals at OCBC Arena.
 
-##### **Empowering people through the sport of tennis**
+**Empowering people through the sport of tennis**
 
-SportCares has been running the Love Singapore programme for girls for the past year. Not only have they learned how to play tennis, the girls have become active contributors to our sporting community. With support from SportCares, they volunteered at the 28th Southeast Asian Games, and they will serve as young ambassadors for Singapore at The NILA Suite for Athletes at the upcoming 8th ASEAN Para Games.
+SportCares has been running the Love Singapore programme for girls for the past year. Not only have they learned how to play tennis, the girls have become active contributors to our sporting community. With support from SportCares, they volunteered at the 28th Southeast Asian Games, and they will serve as young ambassadors for Singapore at The Nila Suite for Athletes at the upcoming 8th ASEAN Para Games.
 
 “For the second year in a row the U.S. Embassy is proud to support this valuable youth sports programme. SportCares uses tennis to help girls in Singapore develop skills to lead healthy lives, learn about team work, and build confidence for successful futures,” says Kirk Wagar, U.S. Ambassador to Singapore. “Our Embassy believes in the mission of SportCares because we recognise that strong girls become strong women who become the leaders of tomorrow. I am glad to see that this year, SportCares is adding wheelchair tennis to its youth programs. This will enable new friends to be made and develop these skills in a wider range of Singapore’s youth and makes it very clear to me that Singapore’s future is bright and promising because it will draw on the power, talents and skills from more girls than ever.”
 
@@ -28,7 +28,7 @@ The wheelchairs for this pilot project will be purchased through funds donated b
 
 “I can hardly wait to try wheelchair tennis because I am always ready to play sport,” said 9 year-old Irwa Marissa. Diagnosed with Global Development Delay, Marissa has a fierce spirit that got her on to her school’s CCA swim team. “You should see me in the pool!”
 
-##### **SportCares takes on world number three Bethanie Mattek-Sands**
+**SportCares takes on world number three Bethanie Mattek-Sands**
 
 Almost 40 children and youth from the SportCares Love Singapore tennis programme were given the opportunity to meet World No. 3 doubles player Bethanie Mattek-Sands at a tennis clinic organised by SportCares and WTA, held at the OCBC Arena.
 
@@ -38,6 +38,5 @@ The tennis clinic gave these SportCares youth an opportunity to learn from some 
 
 Commenting on the tennis clinic, Bethanie Mattek-Sands said: “It was such a pleasure meeting the girls from SportCares. I was impressed by their willingness to learn and improve as well as by their undeniable love for the game. I believe that if they work hard and continue training, they will definitely excel. I look forward to their success.”
 
-**About SportCares**
-<br>
+#### **About SportCares**
 The SportCares Foundation and Movement was set up in late 2012 to help people live better lives through sport. From underprivileged children to people of all ages with disabilities to enthusiastic volunteers to needy seniors to generous donors, sport can be a channel to empower people to live better. Designed to use sport as a force for social good, SportCares works with other concerned agencies to develop and support sustainable, scalable programming to engage the vulnerable segments of our society. SportCares is a key recommendation of Sport Singapore’s (SportSG) Vision 2030: Live Better through Sport master plan.
