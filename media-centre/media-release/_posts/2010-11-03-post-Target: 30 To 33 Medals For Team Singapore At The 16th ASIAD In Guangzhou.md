@@ -163,38 +163,8 @@ Athletes
 | 2.    |  Aquatics - Swimming | Andrew Lim Xin En  | 林信恩  | 20  | M  | √  | 50m Breaststroke (M)
 | 3.   | Aquatics - Swimming | Clement Lim Yong'En  | 林雍恩  | 17  | M  | √  | 50m Freestyle (M) <br>100m Freestyle (M) <br>200m Freestyle (M) <br>400m Freestyle (M) <br>4X100m Freestyle Relay (M) <br>4X200m Freestyle Relay (M)
 | 4.  | Aquatics - Swimming | Danny Yeo Kai Quan | 杨凯全 | 20 | M | √   | 50m Freestyle (M) | 100m Freestyle (M) <br>200m Freestyle (M) <br>400m Freestyle (M) <br>4X100m Freestyle Relay (M) <br>4X200m Freestyle Relay (M) <br>4X100m Medley Relay (M)
-
-5.     
-
-Joshua Lim Wen Hao
-
-林文豪
-
-22
-
-M
-
-√   
-
-200m Individual Medley (M)
-
-4X100m Freestyle Relay (M)
-
-4X200m Freestyle Relay (M)
-
-6.     
-
-Koh Hui Yu
-
-许惠瑜
-
-15
-
-F
-
-√   
-
-200m Individual Medley (W)
+| 5. | Aquatics - Swimming | Joshua Lim Wen Hao | 林文豪 | 22 | M | √   | 200m Individual Medley (M) | 4X100m Freestyle Relay (M) <br>4X200m Freestyle Relay (M)
+| 6.  | Aquatics - Swimming | Koh Hui Yu | 许惠瑜  | 15  | F  | √     | 200m Individual Medley (W)
 
 4X100m Freestyle Relay (W)
 
