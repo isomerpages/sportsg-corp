@@ -9,7 +9,7 @@ image: ""
 ### **Routes announced for Standard Chartered Marathon Singapore 2015**
 _Routes remained largely unchanged, with Improved overall experience part of key enhancements to the 2015 Marathon._
 
-**1 October 2015, Singapore** – The Standard Chartered Marathon Singapore 2015 (SCMS) today announced the race route and improvements to offer both participants and supporters an enhanced experience at the country’s biggest marathon, which will be held over two days for the first time in the event’s history, on 5th & 6th December.
+**Singapore, 1 October 2015** – The Standard Chartered Marathon Singapore 2015 (SCMS) today announced the race route and improvements to offer both participants and supporters an enhanced experience at the country’s biggest marathon, which will be held over two days for the first time in the event’s history, on 5 and 6 December.
 
 ##### **Race Enhancements**
 
@@ -27,7 +27,7 @@ Participants of the half marathon will begin at Sentosa Gateway, running through
 
 The 10km runners will start their race at Esplanade Drive, passing by the flyer as they run on what was just weeks ago a Formula 1 track. They will then make their way onto the historic Merdeka Bridge before turning onto Nicoll Highway, Republic Boulevard and Raffles Avenue.
 
-The Kids Dash, which will become a standalone event this year, takes place on Saturday 5th December. After the 700m race, the youngsters and their parents will be able to enjoy themselves at the 8th ASEAN Para Games carnival or cheer on our para-athletes at the various competition venues at the Sports Hub. All these happen right beside the 100PLUS Sports Promenade where the Kids Dash takes place.
+The Kids Dash, which will become a standalone event this year, takes place on Saturday, 5 December. After the 700m race, the youngsters and their parents will be able to enjoy themselves at the 8th ASEAN Para Games carnival or cheer on our para-athletes at the various competition venues at the Sports Hub. All these happen right beside the 100PLUS Sports Promenade where the Kids Dash takes place.
 
 Chris Robb, Managing Director of organiser Spectrum Worldwide commented: “Having the Kids Dash as a standalone event this year was one of the key improvements we made after taking into account feedback from parents and participants. By working in partnership with the ASEAN Para Games, we aim to give the children an opportunity to learn about the Games, broaden their knowledge of sporting diversity, and open their minds to the various abilities and skills required to compete at different levels."
 
@@ -35,6 +35,5 @@ On the enhancements and changes to the marathon, Robb added: “We are constantl
 
 In its 14th year, Standard Chartered Marathon Singapore 2015 will take place on 5 and 6 December.
 
-Standard Chartered Marathon Singapore is sponsored by: Standard Chartered (Title sponsor); Adidas (Official Apparel Sponsor); Seiko (Official Timekeeper); 100plus (Official Isotonic Drink); Land Rover (Official Car); GrabTaxi (Official Transport Partner); Orange Clove (Official F&B Caterer); Prudential (Official Life Insurancer); TCS (Official IT Consultancy); Hotel Jen (Official Hotel); Running Department (Official Pacers); Journey Fitness (Official Coach); TomTom (Official GPS Training Device); PSB Academy (Official Supporter); Marathon-Photos.com (Official Race Day Photographer); Run Magazine (Official Running Magazine); GIVEasia (Official Charity Fundraising Platform); RWS (Official Venue); Sentosa (Official Venue); Johnson & Johnson (Official Supporter).
-
-For more information and details on Standard Chartered Marathon Singapore 2015, see.
+Standard Chartered Marathon Singapore is sponsored by:
+Standard Chartered (Title sponsor); Adidas (Official Apparel Sponsor); Seiko (Official Timekeeper); 100plus (Official Isotonic Drink); Land Rover (Official Car); GrabTaxi (Official Transport Partner); Orange Clove (Official F&B Caterer); Prudential (Official Life Insurancer); TCS (Official IT Consultancy); Hotel Jen (Official Hotel); Running Department (Official Pacers); Journey Fitness (Official Coach); TomTom (Official GPS Training Device); PSB Academy (Official Supporter); Marathon-Photos.com (Official Race Day Photographer); Run Magazine (Official Running Magazine); GIVEasia (Official Charity Fundraising Platform); RWS (Official Venue); Sentosa (Official Venue); Johnson & Johnson (Official Supporter).
