@@ -71,35 +71,13 @@ Annex B: Pick-up Locations for Chartered Bus Service
 Annex C: Pick-up and Drop-off Locations for Post-race Complimentary Shuttle Bus Service
 ![](/images/Media%20Centre/Media%20Release/2010/Nov/UNPRECEDENTEDTRANSPORTANDBAGGAGESERVICESFORRUNNERSINSINGAPORESPINNACLERACEMainPar0054Imagegif.gif)
 Annex D: Baggage Deposit and Collection Locations and Timings
-Operating Hours
 
-| Column 1 | Column 2 | Column 3 |
+
+|Operating Hours |   |  | |  |
 | -------- | -------- | -------- |-------- |-------- |
-|     | Baggage Facilities / Check-In    | Text     |Baggage Facilities / Collection     |Text     |
-
-
- 
-
-
-
-Baggage Facilities / Collection
-
-Full Marathon
-
-Angullia Carpark (Behind Wheelock Place)
-
-3.00am - 5.00am
-
- 
-
-F1 Pit Building
-
-8.30am -2.00pm
-
-Ekiden Race
-
-Half Marathon
-
+|     | Baggage Facilities | Check-In    |     |Baggage Facilities / Collection     |  |
+| Full Marathon   |  Angullia Carpark (Behind Wheelock Place) Full Marathon |3.00am - 5.00am  |F1 Pit Building  |8.30am -2.00pm
+| Ekiden Race  | Angullia Carpark (Behind Wheelock Place) Full Marathon |3.00am - 5.00am  |F1 Pit Building  |8.30am -2.00pm
 Seah Im Carpark
 
 (Next to Seah Im Food Centre)
