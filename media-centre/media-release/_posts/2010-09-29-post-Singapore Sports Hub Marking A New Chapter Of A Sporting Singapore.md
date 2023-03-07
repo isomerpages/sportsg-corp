@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore Sports Hub - Marking A New Chapter Of A Sporting Singapore
-Singapore , 29 Sep 2010
+## **Singapore Sports Hub - Marking A New Chapter Of A Sporting Singapore**
 
 SINGAPORE SPORTS HUB - MARKING A NEW CHAPTER OF A SPORTING SINGAPORE
 Singapore, September 29, 2010 - Singapore's sporting landscape marks a new and very significant milestone today with the official groundbreaking ceremony of the new Singapore Sports Hub.
@@ -66,4 +65,3 @@ Fulford Public Relations
 DID: 6324 5293
 Email: ssee@fulfordpr.com
 statics0
- 
