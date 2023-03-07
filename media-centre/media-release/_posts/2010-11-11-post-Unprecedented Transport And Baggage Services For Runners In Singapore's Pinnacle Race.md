@@ -43,21 +43,9 @@ statics0
 -End-
 
 Annex A: Bus schedule for Pre-race Chartered Bus Service
-From
-
-To
-
-Period
-
-All 17 Pick-Up Locations
-
-Orchard Boulevard, by Orchard Turn (Full Marathon)
-
-3:00 AM
-
-3:15 AM
-
-3:30 AM
+| From | To | Period |
+| -------- | -------- | -------- |
+| All 17 Pick-Up Locations | Orchard Boulevard, by Orchard Turn (Full Marathon) | 3:00 AM <br>3:15 AM <br>3:30 AM
 
 All 17 Pick-Up Locations
 
