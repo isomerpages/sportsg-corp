@@ -483,15 +483,8 @@ Team Officials
 | 71.  | Gu Yong Qin | Coach (Rifle)
 | 72. | Yue Ming | Coach (Shotgun)
 | 73. | Zhang Man Zhen | Coach (Rifle)
-| 74.  | Zhu Chang Fu
-
-Coach (Shotgun)
-
-75.   
-
-Zhao Jin Hong
-
-Team Official
+| 74.  | Zhu Chang Fu | Coach (Shotgun)
+| 75.  | Zhao Jin Hong | Team Official
 
 76.   
 
