@@ -192,36 +192,9 @@ Athletes
 | 30.   | Aquatics - Waterpolo |Nigel Tay Sin Chao | 郑新钊  | 22  | M  | √  | Team (M)
 | 31.  | Aquatics - Waterpolo |Tan Jwee Ann Paul Louis  | 陈维安  | 26  | M  | √    | Team (M)
 | 32.  | Athletics  | Amanda Choo Sze-Min  | 朱诗敏  | 23  | F  | √   | 100m (W)
-
-33.   
-
-Calvin Kang Li Loong
-
-江利龙
-
-20
-
-M
-
-√   
-
-4 X 100m Relay (M)
-
-34.   
-
-Gary Yeo Foo Ee
-
-杨富益
-
-24
-
-M
-
-√   
-
-4 X 100m Relay (M)
-
-35.   
+| 33.  | Athletics | Calvin Kang Li Loong | |江利龙 | 20 |M |√    |4 X 100m Relay (M)
+|34. |Athletics | Gary Yeo Foo Ee  | 杨富益  | 24  | M  | √   | 4 X 100m Relay (M)
+| 35.   
 
 Lee Cheng Wei
 
