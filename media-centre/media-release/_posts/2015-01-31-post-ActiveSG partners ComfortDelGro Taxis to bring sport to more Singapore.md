@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **ActiveSG partners ComfortDelGro Taxis to bring sport to more Singapore**
-_**Some 37,000 taxi drivers to enjoy free weekly admission to all ActiveSG gyms and swimming pools for the rest of the year**_
+_Some 37,000 taxi drivers to enjoy free weekly admission to all ActiveSG gyms and swimming pools for the rest of the year_
 
 From next month onwards, some 37,000 taxi drivers will stand to enjoy free admission to all ActiveSG gyms and swimming pools every Wednesday for the rest of the year, as ComfortDelGro Taxis enters into a partnership with the national movement for sport.
 
@@ -18,5 +18,3 @@ From next month onwards, some 37,000 taxi drivers will stand to enjoy free admis
 4. Said ActiveSG Chief Mr Lai Chin Kwang, “We are excited to have ComfortDelGro Taxis partner us in promoting awareness of more sporting opportunities, especially given its extensive network.  This collaboration marks the start of an important journey – one that will help taxi drivers lead a more active lifestyle amid their erratic work schedules, and in turn become role models who can inspire their passengers and the larger community to stay active. We look forward to working with more like-minded organisations in extending our reach to enable more to live better through sport.”
 
 5. This partnership marks a step forward for ActiveSG, as it continues to engage companies in sport. Upcoming plans in this regard include the ActiveSG Corporate Membership Programme, which will be formally introduced to companies in the later part of this year.
-
-End
