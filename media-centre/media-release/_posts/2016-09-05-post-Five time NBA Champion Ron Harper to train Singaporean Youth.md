@@ -25,13 +25,16 @@ As part of last year’s overseas NBA experience, the 2015 Jr. NBA All-Stars tra
   
 Fans can follow the program on Facebook at [www.facebook.com/jrnbasingapore](www.facebook.com/jrnbasingapore). For all things NBA, visit [www.nba.com](www.nba.com).  
   
-#### **About the NBA** 
+**About the NBA** 
+<br>
 The NBA is a global sports and media business built around three professional sports leagues: the National Basketball Association, the Women’s National Basketball Association, and the NBA Development League. The league has established a major international presence with games and programming in 215 countries and territories in 49 languages, and NBA merchandise for sale in more than 125,000 stores in 100 countries on 6 continents. NBA rosters at the start of the 2015-16 season featured 100 international players from 37 countries and territories. NBA Digital’s assets include NBA.com and the NBA app, which achieved record traffic during the 2014-15 season, as well as NBA TV. The NBA has created one of the largest social media communities in the world, with more than one billion likes and followers globally across all league, team, and player platforms. Through NBA Cares, the league addresses important social issues by working with internationally recognised youth-serving organisations that support education, youth and family development, and health-related causes.  
   
-#### **About Sport Singapore**
+**About Sport Singapore**
+<br>
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport.  
   
 To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [www.myactivesg.com](www.myactivesg.com). Follow us at [www.facebook.com/myActiveSG](www.facebook.com/myActiveSG) and [www.youtube.com/SingaporeSports](www.youtube.com/SingaporeSports).  
   
-#### **About Active SG** 
+**About Active SG** 
+<br>
 As a key recommendation of Vision 2030 – Singapore’s master plan for sports, ActiveSG was launched in April 2014 as the national movement for sport and physical activities. ActiveSG aims to create a sporting ecosystem that provides innovative and experiential sport related programmes at sports centres island-wide. This movement will act as an enabler to build a community for individuals, families and organisations from different zones where Singaporeans can come together to learn, train, compete and host a range of sports. Working together with communities, National Sports Associations (NSAs), schools, corporations, public agencies and interest groups, ActiveSG aims to co-create programmes that are affordable and inclusive for all skill levels and age groups.
