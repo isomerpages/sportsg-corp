@@ -15,8 +15,4 @@ Greeting some of the football teams who have already checked into their Games ac
 
 Besides lodge and board, athletes will also enjoy the hotel group’s facilities such as the swimming pool, gym and business center.
 
-_Mohammad Fashah Iskandar, Singapore U-23 Goalkeeper and trainer at the Ramada Singapore at Zhongshan Park Gym_
-
-_A single room at Days Hotel Singapore at Zhongshan Park_
-
 END
