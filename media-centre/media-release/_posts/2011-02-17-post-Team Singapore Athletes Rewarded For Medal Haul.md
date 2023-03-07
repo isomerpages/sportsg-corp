@@ -71,16 +71,7 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | Badminton     | Men's Doubles    | Hendra Wijaya<br>Hendri Kurniawan Saputra | Bronze   | $30,000.00  |
 | Badminton     | Mixed Doubles    | Chayut TRIYACHART<br>YAO Lei | Bronze   | $30,000.00  |
 | Shooting | Men's 25m Standard Pistol (Pairs) | GAI Bin <br>POH Lip Meng | Gold | $120,000.00
-
-
-
-Men's 50m Pistol (Pairs)
-
-GAI Bin
-
-Gold
-
-$120,000.00
+| Shooting | | Men's 50m Pistol (Pairs) | GAI Bin | Gold | $120,000.00
 
 LIM Swee Hon
 
