@@ -249,47 +249,9 @@ Athletes
 | 87. | Dragon Boat | Jeffrey Tan Yu Zhong | 陈昱中 | 22 | M | √   | Team (Men)
 | 88.| Dragon Boat | Jeffrey Tan Xuanwen| 陈萱汶| 26| M| √   | Team (Men)
 | 89.| Dragon Boat |  Raymond Tan Swee Siong| 陈瑞祥| 21| M| √  | Team (Men)
-| 90.| Dragon Boat | Jerry Tan Renyi
-
-陈仁义
-
-26
-
-M
-
-√   
-
-Team (Men)
-
-91.   
-
-Tan Chun Leng
-
-陈俊龙
-
-20
-
-M
-
-√   
-
-Team (Men)
-
-92.   
-
-Wong Kah Shawn
-
-黄珈萱
-
-20
-
-M
-
-√   
-
-Team (Men)
-
-93.   
+| 90.| Dragon Boat | Jerry Tan Renyi| 陈仁义| 26| M| √   | Team (Men)
+| 91.  | Dragon Boat | Tan Chun Leng| 陈俊龙| 20| M| √   | Team (Men)
+| 92.  | Wong Kah Shawn| 黄珈萱| 20| M| √  | Team (Men)| 93.   
 
 Yeo Chin Hwei
 
