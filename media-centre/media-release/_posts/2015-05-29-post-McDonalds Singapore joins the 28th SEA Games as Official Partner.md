@@ -19,11 +19,11 @@ McDonald’s will also be promoting the 28th SEA Games and cheering for Team Sin
 
 Bringing some SEA Games excitement to McDonald’s Surprise Alarm App users, McDonald’s will be adding an exciting variety of e-coupons to the app’s mix of surprises. Selected surprises will include interesting facts on some of Singapore’s athletes such as Athlete Glory Barnabas, Swimmer Ang Peng Siong and Footballer Fandi Ahmad.
 
-From 22 May – 16 June, users also stand to win:
+From 22 May - 16 June, users also stand to win:
 
-\- Collect to Win vouchers,  which users simply collect a series of vouchers to redeem an Extra Value Meal
+* Collect to Win vouchers,  which users simply collect a series of vouchers to redeem an Extra Value Meal
 
-\- E-coupons to redeem free treats and promotional deals at McDonald’s. These include free McChicken as well as Buy One Get One offers
+* E-coupons to redeem free treats and promotional deals at McDonald’s. These include free McChicken as well as Buy One Get One offers
 
 Free to download on Apple’s App Store and Google Play, the McDonald’s Surprise Alarm App wakes users up with daily surprises including Food and Beverage e-coupons and a variety of fun content.  Users simply set a daily alarm using the app and one surprise will be dispensed each time the alarm goes off. Users will only receive one surprise a day.
 
