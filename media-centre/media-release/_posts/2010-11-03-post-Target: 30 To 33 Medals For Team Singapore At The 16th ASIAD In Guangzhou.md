@@ -218,10 +218,7 @@ Athletes
 |56. |Canoeing | Andrea Chen Jiewen |陈洁文 |25 |F |√    |K4  500m (W)
 |57.  | Canoeing | Annabelle Ng Xiang Ru  | 黄湘茹  | 27  | F  | √    | K4  500m (W)
 |  58. |  Canoeing | Geraldine Lee Wei Ling  |  李伟玲  |  23  |  F  |  √  |  K4  500m (W)
-
-59.   
-
-Irene Chua Pei Xuan
+|  59.  |  Irene Chua Pei Xuan
 
 蔡佩璇
 
