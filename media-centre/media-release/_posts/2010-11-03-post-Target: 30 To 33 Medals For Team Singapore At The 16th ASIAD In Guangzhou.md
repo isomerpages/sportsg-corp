@@ -269,35 +269,9 @@ Athletes
 | 107. | Dragon Boat  | Neo Lay Peng | 梁丽萍 | 41 | F | √    | Team (Women)
 | 108.  | Dragon Boat  | Ng Ji Yan | 黄紫恩 | 20 | F| √   | Team (Women)
 | 109.  | Dragon Boat  | Ng Qihui| 呉启慧| 26| F| √   | Team (Women)
-| 110.        
-
-Nurul Hakin Rohaizat
-
-NA
-
-22
-
-F
-
-√   
-
-Team (Women)
-
-111.        
-
-Pamela Ee Pei Shan
-
-叶佩姍
-
-20
-
-F
-
-√   
-
-Team (Women)
-
-112.        
+| 110. | Nurul Hakin Rohaizat| NA| 22| F| √  | Team (Women)
+| 111.| Dragon Boat  | Pamela Ee Pei Shan |  叶佩姍 |  20 |  F |  √ |  Team (Women)
+ | 112. |  Dragon Boat  |       
 
 Samantha Lau Khing Hui
 
