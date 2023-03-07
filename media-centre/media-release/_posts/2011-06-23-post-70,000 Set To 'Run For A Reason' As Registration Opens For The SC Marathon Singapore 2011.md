@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **70,000 Set To 'Run For A Reason' As Registration Opens For The Standard Chartered Marathon Singapore 2011**
+### **70,000 Set To 'Run For A Reason' As Registration Opens For The Standard Chartered Marathon Singapore 2011**
 
 ![](/images/Media%20Centre/Media%20Release/2011/Jun/Standardcharteredrun2011.jpeg)
 *SSC Committed to Enhance Race Day Experience for Participants and Supporters Alike With Greater Race Engagement*
@@ -24,7 +24,7 @@ image: ""
 
 6. Commenting on the event, Mr Ray Ferguson, Regional CEO, Singapore & Southeast Asia Standard Chartered Bank said, "The passion, courage, and determination of the runners each year resonate strongly with what we stand for as an organisation. Together in partnership with the SSC, we have created many reasons for Singaporeans to run; whether they are experienced marathoners trying to better their time or running to stay fit. The increase in the number of participants we expect this year is testimony to that."
 
-**More Runners & Community Engagement Activities**
+##### **More Runners & Community Engagement Activities**
 
 7. Apart from familiar features like the iconic routes through the heart of Singapore, a new 5km Fun Run has been introduced, probably making it the most inclusive Marathon in Singapore. The new 5km Fun Run will give Singaporeans more incentive to Run for a Reason, adding to the expansive range of 10km, 21km, 42km and Kids Dash race distances.
 
@@ -38,14 +38,13 @@ image: ""
 
 12. The inaugural SCMS attracted a record 60,000 participants in 2010. For further details of the SCMS 2011, please visit [www.marathonsingapore.com](www.marathonsingapore.com) and [www.facebook.com/marathonSG](www.facebook.com/marathonSG).
 
--End-
+---
 
 Enclosure
 [SCMS 2011 Event Launch - Fact Sheet](/files/Media%20Centre/Media%20Release/2011/Jun/SCMS%202011%20%20Event%20Launch%20%20Fact%20Sheet%20Finalpdf.pdf) [219 Kb]
 
-**
-For media enquiries, please contact:**
-<br>
+**For media enquiries, please contact:**
+
 Ronda Ng
 <br>Fulford PR
 <br>DID: 6324 5293
@@ -63,9 +62,9 @@ Tanty Nazlianah Rosli
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/singaporesports )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Standard Chartered Bank in Singapore**
