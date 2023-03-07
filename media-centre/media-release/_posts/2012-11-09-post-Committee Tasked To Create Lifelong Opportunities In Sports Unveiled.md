@@ -16,17 +16,17 @@ image: ""
 
 3. The SPC will focus on coordinating and integrating policies and programmes across organisations. It will cover, amongst other things:
 
-**Developing integrated pathways to create sports champions**
+##### **Developing integrated pathways to create sports champions**
 * rationalising and optimising national competition frameworks and schedules
 * -developing a national talent identification and development framework
 * integrating the work of National Sports Associations with the school sports system
 * introducing a more integrated academic and sporting curriculum in schools that allows more students to achieve both academic and sporting excellence
 
-**Inculcating values and character through sport**
+##### **Inculcating values and character through sport**
 - Introducing National Standards for Youth Sport (see details below) for youth 18 years and under to enjoy sports and grow through participation in sports
 - Introducing programmes in schools that will promote the values of resilience, fair play, teamwork, leadership, sportsmanship and a winning spirit
 
-**Creating more opportunities for recreational sports in schools**
+##### **Creating more opportunities for recreational sports in schools**
 - Including a review of how to leverage and enhance existing programmes such as
 - Sports Education Programme (*1)
 - Super Sports Clubs (*2)
@@ -35,7 +35,7 @@ Coordinating the development of sports spaces
 
 4. "There are many plus points in our sports system today that provide opportunities for youth to play sport recreationally and excel to the elite level where they can serve as an inspiration to others and build national pride. We are also beginning to better appreciate the value that sport can bring to inculcate positive values and build character. Thus, an opportunity exists to harness and integrate the collective strengths of all key stakeholder groups in the value chain to give us exponential returns in the years to come. This will ultimately result in more people, in all age groups, having more opportunities to participate in sport regularly," said Mr Lim Teck Yin, the Chairman of the Sports Pathways Committee and CEO of SSC.
 
-**National Standards Lay Foundation for Youth to Grow and Develop through Sports**
+##### **National Standards Lay Foundation for Youth to Grow and Develop through Sports**
 
 5. In line with the objectives of the SPC and Vision 2030, the Singapore Sports Council (SSC) launched today the National Standards for Youth Sports (NSYS) which would lay the foundation for youth to have an enriching sporting experience.
 
@@ -59,10 +59,12 @@ Coordinating the development of sports spaces
 
 *(2) A recommendation under Vision 2030, the Super Sports Clubs will be a home base for individuals, families and the community to gather, learn, train, and compete in a range of sports, and get together for social or business purposes. The Super Sports Clubs will provide affordable community-relevant programming and coaching for all skill levels and age groups, including fundamental movement skills for young children and modified sports for seniors. The community can enjoy spontaneous play, compete in league-based competitions or host one-off sporting events. The Clubs will also welcome corporate sports teams and will prepare members or teams to compete in national/open championships. The pilot concept for the Super Sports Clubs will be implemented in the first half of 2013.*
 
--END-
+---
+Enclosures
 
-**Enclosures: Annex A - Sports Pathways Committee Member**
-<br>**Chairman**
+**Annex A:** Sports Pathways Committee Member
+
+**Chairman**
 <br>Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council
 
 **Members**
@@ -78,7 +80,7 @@ Coordinating the development of sports spaces
 <br>Ms Deborah Tan, Principal, Singapore Sports School
 
 **For media enquiries, please contact:**
-<br>
+
 Siti Nurhidayati
 <br>Senior Executive, Media Relations
 <br>Corporate Communications & Relations
@@ -91,7 +93,7 @@ Siti Nurhidayati
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg.
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG ](www.twitter.com/Lets_PlaySG )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
