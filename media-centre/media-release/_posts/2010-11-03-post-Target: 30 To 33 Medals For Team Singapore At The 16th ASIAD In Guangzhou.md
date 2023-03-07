@@ -385,24 +385,8 @@ Athletes
 | 223.   | Shooting | Ong Jun Hong| 王竣鸿| 22| M| 10m Air Rifle& 50m Rifle Prone (M)
 | 224.  | Shooting | Poh Lip Meng| 傅立民| 41| M| √   | 10m Air Rifle (M) <br>25m Centre Fire Pistol (M)<br>25m Standard Pistol (M)
 <br>50m Pistol (M)
-
-225.        
-
-Zhang Jin
-
-张劲
-
-22
-
-M
-
- 
-
-10m Air Rifle (M)
-
-226.        
-
-Table Tennis
+| 225.| Shooting | Zhang Jin| 张劲 | 22| M| 10m Air Rifle (M)
+| 226.  | Table Tennis
 
  
 
