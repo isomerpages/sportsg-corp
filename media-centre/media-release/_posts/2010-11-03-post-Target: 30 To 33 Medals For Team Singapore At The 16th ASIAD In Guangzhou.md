@@ -177,8 +177,7 @@ Athletes
 | 16. | Aquatics - Swimming |  Shana Lim Jia Yi | 林佳育 | 17 | F | √   | 50m Backstroke (W)<br>100m Backstroke (W) <br>200m Backstroke (W) <br>4X100m Medley Relay (W)
 | 17.  |   Aquatics - Swimming | Tao Li | 陶李 | 20 | F|  | 50m Backstroke (W) <br>50m Butterfly (W)<br>100m Butterfly (W) <br>4X100m Medley Relay (W)
 | 18. | Aquatics - Swimming | Zach Ong Wei Shien | 王维贤 | 19 | M | √   | 50m Backstroke (M) <br>100m Backstroke (M) <br>200m Backstroke (M)
-| 19.  | Aquatics - Waterpolo | Alvin Poh Hock Yen | 傅福缘 | 25 | M
-| √  | Team (M)
+| 19.  | Aquatics - Waterpolo | Alvin Poh Hock Yen | 傅福缘 | 25 | M| √  | Team (M)
 | 20.  |  Aquatics - Waterpolo | Ang Song Loo | 洪松裕 | 23 | M | √  | Team (M)
 | 21.  |  Aquatics - Waterpolo | Eugene Teo Zhen Wei | 张真玮 | 22 | M | √    | Team (M)
 | 22.  | Aquatics - Waterpolo | Foo Chuan Yu | 符传煜 | 20 | M | √    | Team (M)
