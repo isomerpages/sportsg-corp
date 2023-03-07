@@ -6,12 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-## **92 Athletes To Benefit From Enhanced High Performance Sports System**
+### **92 Athletes To Benefit From Enhanced High Performance Sports System**
 
-	
 
 **Singapore, 24 September 2013** - The High Performance Sports (HPS) Steering Committee awarded 66 athletes across 15 sports the inaugural Sports Excellence Scholarship (spexScholarship) today. In addition, 26 athletes from nine sports who have demonstrated potential to progress to the level of a spexScholar in the future have been identified for targeted support.
 ![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0042Imagegif.gif)
+
 2. The spexScholarship was announced earlier in March to provide enhanced support for highly talented Singaporean athletes with demonstrated potential for international sporting achievements. It will also increase the level of the support given through the existing HPS System.
 
 3. In all, the Singapore Sports Institute (SSI) received 218 nominations across 28 sports by the end of April 2013, of which 152 athletes from 20 sports were shortlisted for interviews. Following the interviews, the HPS Selection & Performance Sub-Committee and the HPS Steering Committee reviewed the shortlisted candidates and confirmed the list of spexScholars.
@@ -27,93 +27,93 @@ image: ""
 
 8. Nominations for the second intake of spexScholars will take place in April 2014.
 
--END-
+---
 
 **Annex A**
-<br>
+
 **Sports Excellence Scholars (spexScholars) 2013**
 <br>
 **Badminton**
-Danny Bawa Chrisnanta
-Neo Yu Yan Vanessa
-Liang Xiaoyu
-Bowling
-Tan Shi Hua Jazreel
-Ng Lin Zhi Shayna
-Tan Shi Hua Cherie
-Tan Shi Jing Daphne
-Lim Hui Ying Bernice
-Muhammad Jaris Goh Bin Ali Akbar Goh
-New Hui Fen
-Canoeing
-Lee Wei Ling Geraldine
-Suzanne Seah
-Chen Jiemei Sarah
-Chen Jiexian Stephenie
-Lee Yang Jing Wilona
-Ng Xiang Ru Annabelle
-Cuesports
-Peter Edward Gilchrist
-Disability Sports
-Laurentia Tan Yen-Yi
-Nurulasyiqah Binte Mohammad Taha
-Mohamed Ismail Bin Hussain
-Tan Chern Maximillian
-Gemma Rose Foo Jen
-Yong Phen Chong Thomas
-Toh Sze Ning
-Fencing
-Lee Huimin Ann
-Wong Ye Han Cheryl
-Lim Ian Joshua
-Lim Wei Wen
-Khoo Zile Willie
-Wong Ye Ying Liane
-Golf
-Woo Ke-Jun Jonathan
-Gymnastics
-Tam Jing Ying Joey
-Lim Shu Min Nicolette
-Yeo Yan Charmaine
-Zeng Qiyan
-Lau Wei-Ning Ashly
-Dai Min Yi Janessa
-Michelle Teo Yin Zhi
-Sailing
-Cheng Xinru Colin
-Yin Yueling Elizabeth
-Scott Glen Sydney
-Lim Min Kimberly
-Savannah Siew Kiah Hui
-Chan Jing Hua Victoria
-Lo Jun Han Ryan
-Shooting
-Ser Xiang Wei Jasmine
-Lim Yee Xien
-Yang Shuet Hwei
-Teh Xiu Yi
-Silat
-Muhammad Shakir Bin Juanda
-Muhammad Iqbal Bin Abdul Rahman
-Muhammad Nur Alfian Bin Juma?en
-Swimming
-Joseph Schooling
-Quah Zheng Wen
-Tao Li
-Lim Xiang Qi Amanda
-Danny Yeo Kai Quan
-Samantha Louisa Yeo Ginn
-Table Tennis
-Feng Tian Wei
-Yu Meng Yu
-Gao Ning
-Yang Zi
-Zhan Jian
-Li Hu
-Waterski
-Sasha Siew Hoon Christian
-Wushu
-Samuel Tan
+* Danny Bawa Chrisnanta
+* Neo Yu Yan Vanessa
+* Liang Xiaoyu
+**Bowling**
+* Tan Shi Hua Jazreel
+* Ng Lin Zhi Shayna
+* Tan Shi Hua Cherie
+* Tan Shi Jing Daphne
+* Lim Hui Ying Bernice
+* Muhammad Jaris Goh Bin Ali Akbar Goh
+* New Hui Fen
+**Canoeing**
+* Lee Wei Ling Geraldine
+* Suzanne Seah
+* Chen Jiemei Sarah
+* Chen Jiexian Stephenie
+* Lee Yang Jing Wilona
+* Ng Xiang Ru Annabelle
+**Cuesports**
+* Peter Edward Gilchrist
+**Disability Sports**
+* Laurentia Tan Yen-Yi
+* Nurulasyiqah Binte Mohammad Taha
+* Mohamed Ismail Bin Hussain
+* Tan Chern Maximillian
+* Gemma Rose Foo Jen
+* Yong Phen Chong Thomas
+* Toh Sze Ning
+**Fencing**
+* Lee Huimin Ann
+* Wong Ye Han Cheryl
+* Lim Ian Joshua
+* Lim Wei Wen
+* Khoo Zile Willie
+* Wong Ye Ying Liane
+**Golf**
+* Woo Ke-Jun Jonathan
+**Gymnastics**
+* Tam Jing Ying Joey
+* Lim Shu Min Nicolette
+* Yeo Yan Charmaine
+* Zeng Qiyan
+* Lau Wei-Ning Ashly
+* Dai Min Yi Janessa
+* Michelle Teo Yin Zhi
+**Sailing**
+* Cheng Xinru Colin
+* Yin Yueling Elizabeth
+* Scott Glen Sydney
+* Lim Min Kimberly
+* Savannah Siew Kiah Hui
+* Chan Jing Hua Victoria
+* Lo Jun Han Ryan
+**Shooting**
+* Ser Xiang Wei Jasmine
+* Lim Yee Xien
+* Yang Shuet Hwei
+* Teh Xiu Yi
+**Silat**
+* Muhammad Shakir Bin Juanda
+* Muhammad Iqbal Bin Abdul Rahman
+* Muhammad Nur Alfian Bin Juma?en
+**Swimming**
+* Joseph Schooling
+* Quah Zheng Wen
+* Tao Li
+* Lim Xiang Qi Amanda
+* Danny Yeo Kai Quan
+* Samantha Louisa Yeo Ginn
+**Table Tennis**
+* Feng Tian Wei
+* Yu Meng Yu
+* Gao Ning
+* Yang Zi
+* Zhan Jian
+* Li Hu
+**Waterski**
+* Sasha Siew Hoon Christian
+**Wushu**
+* Samuel Tan
 
 **Annex B**
 <br>
@@ -121,41 +121,41 @@ Samuel Tan
 <br>
 These athletes will be given targeted support such as overseas training camps, competitions and equipment to enable them to maximise their potential. They continue to be eligible for the spexGrants support provided by the SSI, like all the other athletes in the carding system.
 
-Archery
-Tan Si Lie
-Ng Wei Qing Justin
-Athletics
-Yeo Foo Ee Gary
-Kang Li Loong Calvin
-Badminton
-Yeo Jia Min
-Canoeing
-Teo Guang Yi Lucas
-Chua Lip Heng Clarence
-Muhammad Syaheenul Aiman Bin Nasiman
-Tay Zi Qiang
-Brandon Ooi Wei Cheng
-Benjamin Low Wei Fu
-Lee Wei Liang Bill
-Disability Sports
-Tan Eng Kiong Benson
-Goh Rui Si Theresa
-Football
-Hariss S/O Harun
-Mohamad Izwan Bin Mahbud
-Sailing
-Bertha Han Jing
-Teo Yee Kang Ryan
-Koh Yi Kun
-Neo Jiun Jie Samuel
-Fathin Rasyiqah Bte Mohamed Firdaus
-Swimming
-Lim Shu-En Lynette
-Ong Chui Bin Mylene
-Table Tennis
-Zhou Yi Han
-Isabelle Li Siyun
-Lin Ye
+**Archery**
+* Tan Si Lie
+* Ng Wei Qing Justin
+**Athletics**
+* Yeo Foo Ee Gary
+* Kang Li Loong Calvin
+**Badminton**
+* Yeo Jia Min
+**Canoeing**
+* Teo Guang Yi Lucas
+* Chua Lip Heng Clarence
+* Muhammad Syaheenul Aiman Bin Nasiman
+* Tay Zi Qiang
+* Brandon Ooi Wei Cheng
+* Benjamin Low Wei Fu
+* Lee Wei Liang Bill
+**Disability Sports**
+* Tan Eng Kiong Benson
+* Goh Rui Si Theresa
+**Football**
+* Hariss S/O Harun
+* Mohamad Izwan Bin Mahbud
+**Sailing**
+* Bertha Han Jing
+* Teo Yee Kang Ryan
+* Koh Yi Kun
+* Neo Jiun Jie Samuel
+* Fathin Rasyiqah Bte Mohamed Firdaus
+**Swimming**
+* Lim Shu-En Lynette
+* Ong Chui Bin Mylene
+**Table Tennis**
+* Zhou Yi Han
+* Isabelle Li Siyun
+* Lin Ye
 
 **Annex C**
 <br>
@@ -206,7 +206,7 @@ The increase in programme depth is achieved by supporting highly talented athlet
  
  The key principles of selection are to select athletes with demonstrated potential for podium success, training commitment as well as good attitude & behaviour.
 
-The candidates were assessed on the following:
+**The candidates were assessed on the following:**
 <br>
 a. Training commitment:
 Training volume profile (> 12 months) of the athlete will be benchmarked against the volume of a full-time training load i.e., 10 sessions / week or about 30hrs/week
@@ -347,7 +347,7 @@ Annex E
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
-<br>
+
 Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
-<br>
+
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
