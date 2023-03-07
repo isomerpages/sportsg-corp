@@ -200,20 +200,7 @@ Athletes
 | 38.  | Athletics | Rachel Isabel Yang Bingjie  | 杨冰洁  | 28  | F  | √    | Pole Vault (W)
 | 39. | Athletics | U.K. Shyam  | NA  | 34  | M  ||  4 X 100m Relay (M)
 | 40. | Athletics | Wan Lay Chi | 阮丽智 | 22 | F | √    | Discus (W)
-
-41.   
-
-Zhang Guirong
-
-张桂荣
-
-32
-
-F
-
-√   
-
-Shot Put (W)
+| 41.  | Athletics | Zhang Guirong| 张桂荣 | 32 | F | √   | Shot Put (W)
 
 42.   
 
