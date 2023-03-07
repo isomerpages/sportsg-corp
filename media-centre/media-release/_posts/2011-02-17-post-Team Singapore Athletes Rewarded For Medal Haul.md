@@ -721,20 +721,18 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 For further information, please visit www.teamsingapore.com.sg.
 
 Follow Team Singapore on Facebook at: www.facebook.com/TeamSG
-statics0
-For media enquiries, please contact:
-Tanty Nazlianah Rosli
-Senior Manager
-Media Relations
-Singapore Sports Council
-Office: (65) 6500 5241
-Email: tanty_nazlianah@ssc.gov.sg
-statics0
-statics0	
+
+**For media enquiries, please contact:**
+<br>Tanty Nazlianah Rosli
+<br>Senior Manager
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5241
+<br>Email: tanty_nazlianah@ssc.gov.sg
+
 Patricia Yee
-Executive
-Media Relations
-Singapore Sports Council
-Office: (65) 6500 5246
-Email: patricia_yee@ssc.gov.sg
-statics0
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5246
+<br>Email: patricia_yee@ssc.gov.sg
