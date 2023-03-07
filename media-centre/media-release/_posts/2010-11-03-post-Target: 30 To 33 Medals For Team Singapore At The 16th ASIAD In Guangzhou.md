@@ -192,68 +192,14 @@ Athletes
 | 30.   | Aquatics - Waterpolo |Nigel Tay Sin Chao | 郑新钊  | 22  | M  | √  | Team (M)
 | 31.  | Aquatics - Waterpolo |Tan Jwee Ann Paul Louis  | 陈维安  | 26  | M  | √    | Team (M)
 | 32.  | Athletics  | Amanda Choo Sze-Min  | 朱诗敏  | 23  | F  | √   | 100m (W)
-| 33.  | Athletics | Calvin Kang Li Loong | |江利龙 | 20 |M |√    |4 X 100m Relay (M)
+| 33.  | Athletics | Calvin Kang Li Loong |江利龙 | 20 |M |√    |4 X 100m Relay (M)
 |34. |Athletics | Gary Yeo Foo Ee  | 杨富益  | 24  | M  | √   | 4 X 100m Relay (M)
 | 35.  | Athletics | Lee Cheng Wei  | 李成伟  | 23  | M  | √     | 4 X 100m Relay (M)
 | 36. | Athletics | Muhammad Amirudin Bin Jamal  | NA  | 23  | M  | √    | 100m (M)  | 4 X 100m Relay (M)
-
-37.   
-
-Muhammad Elfi Bin Mustapa
-
-NA
-
-23
-
-M
-
-√   
-
-100m (M)
-
-4 X 100m Relay (M)
-
-38.   
-
-Rachel Isabel Yang Bingjie
-
-杨冰洁
-
-28
-
-F
-
-√   
-
-Pole Vault (W)
-
-39.   
-
-U.K. Shyam
-
-NA
-
-34
-
-M
-
- 
-
-4 X 100m Relay (M)
-
-40.   
-
-Wan Lay Chi
-
-阮丽智
-
-22
-
-F
-
-√   
-
-Discus (W)
+| 37.    | Athletics | Muhammad Elfi Bin Mustapa  | NA  | 23  | M  | √    | 100m (M)  | 4 X 100m Relay (M)
+| 38.  | Athletics | Rachel Isabel Yang Bingjie  | 杨冰洁  | 28  | F  | √    | Pole Vault (W)
+| 39. | Athletics | U.K. Shyam  | NA  | 34  | M  | 4 X 100m Relay (M)
+| 40. | Athletics | Wan Lay Chi | 阮丽智 | 22 | F | √    | Discus (W)
 
 41.   
 
