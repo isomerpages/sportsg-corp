@@ -22,3 +22,37 @@ image: ""
 **Annex A**
 
 **Schedule of Pool Closures**
+|| Closed Pools | Alternative Pools |
+|--|--|--|
+|Monday | Clementi | Buona Vista, Queenstown|
+|| Geylang East | Jalan Besar, Kallang Basin, Katong |
+|| MOE Co-Curricular Activities Branch |Delta, Buona Vista | Choa Chu Kang* | Bukit Batok, Woodlands |
+|| Jurong East* | Bukit Batok, Jurong West* | 
+|| Sengkang* | Hougang, Serangoon | 
+<br>
+|Tuesday | Buona Vista | Clementi, MOE Co-Curricular Activites Branch, Queenstown|
+|| Delta | MOE Co-Curricular Activites Branch, Queenstown |
+|| Hougang | Sengkang, Serangoon |
+|| Katong | Geylang East, Kallang Basin |
+|| Tampines | Bedok |
+|| Toa Payoh | Kallang Basin, Bishan |
+|| Jurong West* | Jurong East* |
+<br>
+| Wednesday | Ang Mo Kio | Bishan, Serangoon, Yio Chu Kang |
+|| Bukit Batok | Choa Chu Kang*, Jurong East* |
+|| Jalan Besar | Geylang East |
+|| Kallang Basin |Katong, Geylang East, Toa Payoh |
+||Queenstown | Buona Vista, Clementi, Delta |
+|| Yishun |Yio Chu Kang, Woodlands |
+<br>
+| Thursday | Bedok | Tampines |
+|| Bishan | Ang Mo Kio, Toa Payoh |
+|| Serangoon | Ang Mo Kio, Hougang, Sengkang |
+|| Yio Chu Kang | Ang Mo Kio, Yishun |
+|| Woodlands | Choa Chu Kang*, Yishun |
+<hr>
+
+
+
+
+
