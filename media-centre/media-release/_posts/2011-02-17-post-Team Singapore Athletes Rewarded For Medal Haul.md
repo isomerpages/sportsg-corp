@@ -108,20 +108,9 @@ Team Events
 | Bowling     | Men's Doubles  | Jason YEONG-NATHAN <br>Remy ONG  | Silver | $160,000.00
 | Sailing | Men's Double Handed Dinghy 420 | Justin LIU Xiaman <br>Sherman CHENG Feng Yuan | Gold | $320,000.00
 | Sailing | Women's Double Handed Dinghy 42 | Cecilia LOW Rui Qi <br>Rachel LEE Qing | Gold | $320,000.00
+| Sailing | Open Hobie-16 | Justin WONG Ming Ho <br>TEO Wee Chin | Bronze | $80,000.00
 
 
-
-Gold
-
-Open Hobie-16
-
-Justin WONG Ming Ho
-
-Bronze
-
-$80,000.00
-
-TEO Wee Chin
 
 Bronze
 
@@ -233,7 +222,7 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 
 **About the Singapore National Olympic Council**
 <br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
 **About Team Singapore**
 <br>
