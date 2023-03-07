@@ -44,7 +44,7 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-**About Nestle Singapore**
+[**About Nestle Singapore**](https://www.nestle.com.sg/)
 <br>
 NESTLE Singapore (Pte) Ltd, established in 1912, is a wholly owned subsidiary of NESTLE SA, the world's largest food company. Headquartered in Vevey, Switzerland, NESTLE employs over 283,000 people in factories and operating offices in almost every country around the world. Nestle aims to be the leading Nutrition, Health and Wellness Company in Singapore. NESTLE's range of products in Singapore include MILO, NESCAFE, MAGGI, YANG SHENG LE, NESCAFE, MILO, NESPRAY, NESTLE OMEGA PLUS, MOVENPICK of Switzerland, KIT KAT, PURINA, FRISKIES and dozens of other trusted brands that are household names and market leaders in their product categories.
 
