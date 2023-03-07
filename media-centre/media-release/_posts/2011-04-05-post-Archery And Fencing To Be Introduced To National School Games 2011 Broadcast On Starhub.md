@@ -61,10 +61,10 @@ About Singapore Schools Sports Council
 The Singapore Schools Sports Council (SSSC) started in 1959 and comes under the administration of the Ministry of Education. It is a Council of principals who actively work to promote and develop sports in schools. The council oversees a vibrant sports competition framework that caters to 29 sports and provides opportunities for development and recognition for our young sporting talents in schools. In addition, SSSC also provides development pathways for our young school athletes by providing them with the necessary exposure to competitions that would up their level of play. Today, the Council plays an increasingly important role in the current education landscape which emphasises holistic education, of which, sports is an important component.
 
 To find out more, visit our website www.schoolsports.sg
-
+<br>
 Join School sports on Facebook at: http://www.facebook.com/pages/Singapore-Schools-Sports-Council/152031807285
 
-About StarHub
+**About StarHub**
 <br>
 StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services. Over Singapore?s fibre-based Next Generation Nationwide Broadband Network, StarHub offers a broad range of home and business broadband plans along with a host of advanced media-rich value-added services.
 
