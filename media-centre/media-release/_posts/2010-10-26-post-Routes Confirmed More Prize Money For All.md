@@ -11,7 +11,7 @@ image: ""
 ROUTES CONFIRMED, MORE PRIZE MONEY FOR ALL
 SSC reveals route details for 60,000 runners as race date beckons
 
-**Singapore, 26 October 2010 **- The Singapore Sports Council (SSC), the organiser of the Standard Chartered Marathon Singapore 2010, rolled out a comprehensive incentive scheme to raise competition levels and the quality of runners at Asia's pinnacle running event on 5 December. The long-anticipated details of the three new routes were also announced, to provide all participants with as much time as possible to familiarise themselves with their respective routes with the event now less than six weeks away.
+**Singapore, 26 October 2010** - The Singapore Sports Council (SSC), the organiser of the Standard Chartered Marathon Singapore 2010, rolled out a comprehensive incentive scheme to raise competition levels and the quality of runners at Asia's pinnacle running event on 5 December. The long-anticipated details of the three new routes were also announced, to provide all participants with as much time as possible to familiarise themselves with their respective routes with the event now less than six weeks away.
 
 Increase in prize money and incentives
 
