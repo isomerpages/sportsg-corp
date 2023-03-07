@@ -49,6 +49,6 @@ Local Runners Retained Their Titles
 **FULL MARATHON SINGAPOREAN (MEN)**
 | Rank | Tag No. | Name | Nationality | Time |
 | -------- | -------- | -------- | -------- | -------- |
-| 1 | 15 | Irene Jerotich Kosgei | Kenya | 2:36:42.39|
-| 2 | 22 | Roman Gebregessesse | Ethiopia | 2:37:30.74 |
-| 3 | 4 | Magadelene Mukunzi | Kenya | 2:38:06.50 |
+| 1 | 410143 | Mok Ying Ren | Singapore | 2:46:01.24 |
+| 2 | 410145 | Ang Chee Yong | Singapore | 2:49:06.24 |
+| 3 | 410150 | Soon Suan Boon Paul | Singapore | 2:49:37.32 |
