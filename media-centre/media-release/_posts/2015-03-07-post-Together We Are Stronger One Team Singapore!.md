@@ -13,7 +13,7 @@ Orchard Road was turned into a sea of red as Singaporeans turned out in force to
 
 3\. One Team Singapore is also about Singaporeans being the gracious hosts to our guests. EXCO Chairman of Singapore Southeast Asian Games Organising Committee (SINGSOC), Mr Lim Teck Yin said, “We are the hosts and we should make all our guests – athletes, officials and friends from the Southeast Asian community feel welcomed. So, let’s own the Games and extend the best hospitality to the region. As we cheer for our athletes, remember to encourage other athletes too. After all, we are all friends from the Southeast Asian community.”
 
-**One Team Singapore**
+##### **One Team Singapore**
 
 4\. The event at Pedestrian Night at Orchard Road saw the hoisting of the largest ever Team Singapore flag measuring 10 by 7 metres after it was passed along Orchard road by thousands of athletes, volunteers and members of the public. This is also the first time the SEA Games Arch was lit up at the Scotts and will be present till 20th June.
 
@@ -25,16 +25,14 @@ Orchard Road was turned into a sea of red as Singaporeans turned out in force to
 
 8\. The One Team Singapore event at the Orchard Road also saw performances from local artistes such as the Sam Willows, Daphne Khoo and Tabitha Nauser, who sang the featured songs: “Ordinary”, “Greatest” and “Unbreakable” from the Games’ official album, Songs of the Games. Produced by Dr Sydney Tan, Music Director for 28th SEA Games, the fully digital album features 14 songs including the three official featured songs of the 28th SEA Games.
 
-**Torch Up! Art Installations**
+##### **Torch Up! Art Installations**
 
 9\. As part of the 28th SEA Games Torch UP! Programme, a series of 30 Torch Up! Art Installations will be launched in phases from today. These installations are conceptualised by local artists and put together with the help of community groups. Another 20 event-based activities will complement these art installations to make up 50 ground-up Torch Up! projects for the SEA Games.
 
 10\. One of the 3 art installations unveiled today was “Reaching High”, a collaboration between renowned sculptor Mr Sun Yu-li and the Nanyang Technological University (NTU). NTU Provost, Professor Freddy Boey said, “NTU is showcasing our expertise in sustainability through art in this sculpture Reaching High, which marries art and technology as part of the 28th SEA Games. An interdisciplinary collaboration with renowned artist Mr Sun Yu-li, the sculpture embodies the spirit of the competition as it portrays the unity of man, technology, and nature working in harmony towards success and a brighter future. Reaching High also highlights the importance and multiple uses of renewable energy, and here we show an example of how it can be used to enhance and add interactivity to art.”
 
-**Reaching out to the region**
+##### **Reaching out to the region**
 
 11\. To engage the regional community, NILA’s Quest, a web-based digital game specially created for the 28th SEA Games was launched during the event. Featuring the Games mascot, Nila, players will follow him, on a quest to all 11 South East Asian countries to collect flames to contribute to the final SEA Games Torch Up! Art Installation to be unveiled in June. The digital game will also provide players a chance to win one of 15 weekly prize draws. The grand prize will see a winning pair from each country to fly to Singapore to enjoy the SEA Games in Singapore, including the Opening Ceremony. The game is now online at [www.nilaquest.com](http://www.nilaquest.com/).
 
 12\. Breaking new ground was also the SEA Games’ first ever Google+ Hangout, which allowed viewers to interact with Team Singapore athletes past and present, and experience highlights of the event live as they were broadcasted live around the region.
-
-\-END-
