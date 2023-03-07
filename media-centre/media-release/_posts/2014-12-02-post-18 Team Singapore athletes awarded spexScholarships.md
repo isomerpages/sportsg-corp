@@ -21,19 +21,19 @@ image: ""
 
 7. At the Awards Presentation Ceremony, it was also announced that in collaboration with X-Bionic - a manufacturer of advanced performance wear - a bespoke series of recovery wear will be customised for all 71 spexScholars. The range of recovery wear, which includes top, bottom and socks, will be known as the “Patriot Singapore Edition” and will be presented to the spexScholars in February 2015.
 
-8. Applications for the third intake of spexScholars will take place after the 28th SEA Games next year.   
- 
+8. Applications for the third intake of spexScholars will take place after the 28th SEA Games next year.
 
-END
+
+---
 
 **Annexes:**
-<br>Annex A - [spexScholars 2014](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20spexScholars%202014.pdf)
-<br>Annex B - [Update on spexScholars 2013](/files/Media%20Centre/Media%20Release/2014/December/Annex%20B%20%20Updated%20List%20of%20spexScholars%202013.pdf)
+<br>Annex A -[spexScholars 2014](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20spexScholars%202014.pdf)
+<br>Annex B -[Update on spexScholars 2013](/files/Media%20Centre/Media%20Release/2014/December/Annex%20B%20%20Updated%20List%20of%20spexScholars%202013.pdf)
 
 **For media enquiries, please contact:**
 
-Eric Ong  
-Public Relations, Sport Singapore  
-Tel: +65 6500 5014  
-HP: +65 9764 4964  
-Email: [eric\_ong@sport.gov.sg](mailto:eric_ong@sport.gov.sg)
+Eric Ong<br>
+Public Relations, Sport Singapore<br>
+Tel: +65 6500 5014<br>
+HP: +65 9764 4964<br>
+Email:[eric\_ong@sport.gov.sg](mailto:eric_ong@sport.gov.sg)
