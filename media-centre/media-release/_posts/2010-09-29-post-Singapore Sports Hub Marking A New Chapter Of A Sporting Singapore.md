@@ -39,13 +39,13 @@ The Sports Hub will be Singapore's premier land and water sports, entertainment 
 A unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation and take sports to the next level in Singapore.
 
 Located on a 35ha site in Kallang, the Singapore Sports Hub will include the following facilities:
-<br>A new 55,000-capacity National Stadium with a retractable roof
-<br>A 6,000-capacity indoor Aquatic Centre that meets world tournament standards
-<br>A 3,000-capacity Multi-Purpose Arena which will be scalable and flexible in layout
-<br>A Water Sports Centre
-<br>41,000 sq m of commercial space
-<br>The existing Singapore Indoor Stadium
-Supporting leisure and commercial developments
+* A new 55,000-capacity National Stadium with a retractable roof
+* A 6,000-capacity indoor Aquatic Centre that meets world tournament standards
+* A 3,000-capacity Multi-Purpose Arena which will be scalable and flexible in layout
+* A Water Sports Centre
+* 41,000 sq m of commercial space
+* The existing Singapore Indoor Stadium
+* Supporting leisure and commercial developments
 
 The Sports Hub, which is currently under construction, is the largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world. It is also Singapore's largest and flagship PPP project of this nature.
 
