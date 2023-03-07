@@ -14,7 +14,7 @@ The Academy is part of ActiveSG’s ongoing efforts, as a national movement for 
 Said ActiveSG Chief Lai Chin Kwang, “We are pleased to introduce Tennis into our family of academies. The Academy is for all levels and is designed with a pathway to meet the interests and aspirations of everyone, from the recreational player, to the talented youngster with dreams of representing our country in international competitions and turning professional.”
 
   
-**Technical Director and Visiting Regional Coaches**  
+##### **Technical Director and Visiting Regional Coaches**  
   
 Robert Davis, an experienced coach on the Association of Tennis Professionals (ATP) circuit, has been appointed as the Technical Director of the Academy. Davis brings with him a deep understanding of the Southeast Asian Tennis culture, having worked with top players from the region including 2006 Asian Games Singles champion Danai Udomchoke of Thailand as well as Indonesia’s Christopher Rungkat and Lavinia Tananta (SEA Games 2011 Men’s and 2009 Women’s Singles champions respectively).
   
@@ -24,7 +24,7 @@ The visiting regional coaches will work closely with the local coaches and playe
   
 Davis added that the objectives of the Academy go beyond just getting more people to play Tennis. He said, “The ActiveSG Tennis Academy is also about our coaches imparting important life skills. Tennis, like any other sport, has the ability to teach our young important values such as discipline, respect and teamwork and that will be a key feature throughout our Academy.”  
   
-**Pilot Programmes and Sport Ambassador**  
+##### **Pilot Programmes and Sport Ambassador**  
   
 Ahead of the launch, the Academy had already started pilot programmes such as Mini Tennis and begun partnering with the Singapore Tennis Association (STA) in working with Team Singapore players in their preparations for major competitions such as the Federation Cup and Davis Cup.  
   
@@ -32,7 +32,7 @@ Singapore’s number one female player, Stefanie Tan is one such beneficiary. Th
   
 Stefanie will be a Sport Ambassador for the ActiveSG Tennis Academy, joining former and current Team Singapore players to give back to the community and help to mentor and guide the next generation of players.  
   
-**Programmes begin from 9 July**  
+##### **Programmes begin from 9 July**  
   
 The ActiveSG Tennis Academy will kick off with the Mini Tennis (Weekend) programme for children 5-12 years old at more than 10 School Indoor Sports Halls from 9 July. Targeted at children looking for an easier introduction to Tennis, Mini Tennis is a modified form of the sport using shorter racquets and low compression balls on smaller courts.  
   
@@ -42,7 +42,7 @@ The Junior Academy targets youngsters from the ages of 7 to 12 while the Youth A
   
 Adults looking to play tennis are not left out too. Anyone from the age of 17 can join the Adult Tennis Group where you can learn the basics of the sport and progress to playing both recreationally and in organised competitive and team-based competitions for various playing levels.  
   
-**Working with Singapore Tennis Association on High Performance**  
+##### **Working with Singapore Tennis Association on High Performance**  
   
 The ActiveSG Tennis Academy will also be working closely with the Singapore Tennis Association (STA) to train and prepare our National Players for international competitions such as the Davis Cup, Federation Cup as well as Major Games such as the SEA Games.  
   
