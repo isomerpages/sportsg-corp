@@ -77,6 +77,6 @@ Local Runners Retained Their Titles
 **10KM OPEN (MEN)**
 | Rank | Tag No. | Name | Nationality | Time |
 | -------- | -------- | -------- | -------- | -------- |
-| 1 | 49186 | Esther Wambui Karimi | Kenya | 1:22:27.28 |
-| 2 | 54246 | Satoko | Japan | 1:23:02.28 |
-| 3 | 52538 | Yucabeth Chelangat Bore | Kenya | 1:25:29.03 |
+| 1 | 75469 | Esther Wambui Karimi | Kenya | 1:22:27.28 |
+| 2 | 75672 | Satoko | Japan | 1:23:02.28 |
+| 3 | 75697 | Yucabeth Chelangat Bore | Kenya | 1:25:29.03 |
