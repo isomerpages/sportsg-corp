@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Local Online Drug Database For Sports Launched**
+### **Local Online Drug Database For Sports Launched**
 
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/LOCALONLINEDRUGDATABASEFORSPORTSLAUNCHEDMainPar0042Imagegif.gif)
 Move aimed at heightening awareness of banned substances to prevent accidental doping
@@ -25,13 +25,13 @@ Move aimed at heightening awareness of banned substances to prevent accidental d
 
 7. Ms Christine Teng, President of the Pharmaceutical Society of Singapore (PSS) adds, "The Pharmaceutical Society of Singapore is the professional organisation representing pharmacists in Singapore, with the mission of maximising the contribution of pharmacists to the healthcare of Singaporeans. PSS has helped with the mapping of locally registered drugs against the WADA Prohibited List and will be committed to this task on an ongoing basis. As an advisor on proper drug use, PSS encourages athletes to consume drugs only for medical purposes upon the advice of doctors or pharmacists. Inappropriate or unnecessary consumption should be avoided to prevent detrimental effects on their health in the long run."
 
-8. The SSC oversees the Anti-Doping Singapore (ADS), which is responsible of advocating drug-free sports and administering policies and strategies through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules in compliance with the World Anti- Doping Code.
+8. The SSC oversees the Anti-Doping Singapore (ADS), which is responsible of advocating drug-free sports and administering policies and strategies through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules in compliance with the World Anti-Doping Code.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>Eric Ong
-vManager, Media Relations
+Eric Ong
+<br>vManager, Media Relations
 <br>Singapore Sports Council
 <br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
@@ -44,9 +44,9 @@ Estelle Koh
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg.
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About Anti-Doping Singapore**
