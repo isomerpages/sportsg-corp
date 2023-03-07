@@ -93,36 +93,10 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | Bowling     | Women's Masters    | Cherie TAN Shi Hua    | Silver   | $100,000.00
 | Bowling     | Women's Singles  | Shayna NG Lin Zhi  | Silver  | $100,000.00
 | Bowling     | Women's Singles  | NEW Hui Fen  | Bronze  | $50,000.00
-
-Cuesports
-
-English Billiards Singles
-
-Peter Edward GILCHRIST
-
-Bronze
-
-$50,000.00
-
-Sailing
-
-Men's Laser
-
-Colin CHENG Xinru
-
-Silver
-
-$100,000.00
-
-Women's Dinghy Optimist
-
-Kimberly LIM Min
-
-Silver
-
-$100,000.00
-
-Open Laser Radial
+| Cuesports | English Billiards Singles | Peter Edward GILCHRIST | Bronze | $50,000.00
+| Sailing | Men's Laser | Colin CHENG Xinru | Silver | $100,000.00
+| Sailing | Women's Dinghy Optimist | Kimberly LIM Min | Silver | $100,000.00
+| Sailing | Open Laser Radial
 
 Scott Glen SYDNEY
 
