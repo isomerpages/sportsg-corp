@@ -8,9 +8,7 @@ image: ""
 ---
 ### **Singapore Launches Invitation to Tender for Sports Hub PPP Project**
 
-Bid documents for mega project to be released today, consortiums have till December 2006 to submit proposals
-
-The Singapore government today launched the Invitation to Tender (ITT) for the much anticipated Singapore Sports Hub Public-Private-Partnership (PPP) project. The three short-listed consortiums will be required to submit their proposals for one of the world's largest sports infrastructure PPP project by the end of this year.
+The Singapore government today launched the Invitation to Tender (ITT) for the much anticipated Singapore Sports Hub Public-Private-Partnership (PPP) project. The three short-listed consortiums will be required to submit their proposals for one of the world's largest sports infrastructure PPP projects by the end of this year.
 
 The evaluation criteria for the project has been published to guide the consortiums in their bid proposals. The largest weightage will be on the ability of the consortium to attract and host major sports, entertainment and leisure programmes in the Sports Hub. Design and functionality, together with financial and legal strength, will be given equal weightage. Facilities management will also be a factor of consideration in the evaluation.
 
@@ -22,7 +20,7 @@ In April this year, The Singapore Sports Council announced that three consortium
 
 The pre-qualification stage establishes and pre-qualifies bidders who demonstrate the expertise to execute the project. Potential bidders were pre-qualified based on compliance, eligibility, financial strength and technical ability.
 
-The three short-listed consortiums will now develop and submit their proposals by end December 2006. The successful consortium is expected to be selected by March 2007 with financial close planned for August 2007.
+The three short-listed consortiums will now develop and submit their proposals by the end of December 2006. The successful consortium is expected to be selected by March 2007 with financial close planned for August 2007.
 
 The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship and largest PPP project of this nature. The 35-hectare development is conveniently located next to the city and is easily accessible to the rest of Singapore. It will be connected to the Mass Rapid Transit (MRT) network and major expressways.
 
@@ -39,6 +37,7 @@ For more on the Sports Hub, please log on to www.ssc.gov.sg.
 
 
 **For media enquiries, please contact:**
+
 <br>
 Alvin Hang
 <br>
@@ -55,6 +54,7 @@ Mobile: 9222-1010
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 
-**About SSC**
+***About SSC***
 <br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Issued by the Singapore Sports Council on 31 July 2006.
+
+*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Issued by the Singapore Sports Council on 31 July 2006.*
