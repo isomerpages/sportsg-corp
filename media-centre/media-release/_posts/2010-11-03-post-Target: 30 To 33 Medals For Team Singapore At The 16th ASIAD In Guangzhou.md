@@ -283,9 +283,9 @@ Athletes
 |121.  | Fencing |  Lewina Lee Yi Chen| 李玉珍| 23| F| √   | Sabre Team (W)
 | 122. | Fencing |  Nelicia Low Wai Ling| 刘慧伶| 19| F| √   | Sabre Team (W)
 | 123.| Fencing | Nona Lim Yean Hong| 林艳虹| 36| F| √   | Sabre Individual (W) <br>Sabre Team (W)
-| 124. | Fencing | Ruth Ng Yi Lin| 黄怡琳| 24| F| Foil Individual (W)<br>Foil Team (W)
-| 125.  | Fencing | Tay Yu Ling | 戴妤玲| 23| F| Foil Team (W)
-| 126.  | Fencing |Wang Wenying| 王雯莹| 29| F| Foil Individual (W) <br>Foil Team (W)
+| 124. | Fencing | Ruth Ng Yi Lin| 黄怡琳| 24| F|  |Foil Individual (W)<br>Foil Team (W)
+| 125.  | Fencing | Tay Yu Ling | 戴妤玲| 23| F|  |Foil Team (W)
+| 126.  | Fencing |Wang Wenying| 王雯莹| 29| F|  |Foil Individual (W) <br>Foil Team (W)
 | 127.  |  Football  | zwan Mahbud |  NA |  20 |  M |  √ |  Team (M) 
 | 128.  | Football  | Siddiq Durimi |NA |22 |M |√    |Team (M)
 |129.  | Football  | Shakir Hamzah |NA |18 |M |√    |Team (M)
@@ -311,7 +311,7 @@ Athletes
 |149.  | Golf | Johnson Poh Swee Kiat|傅瑞杰|19|M|√   |Team (M)|Individual (M)
 |150.| Golf | Joshua Shou Mingqing|寿珉庆|20|M|√   |Team (M)|Individual (M)
 | 151.  |Golf | Gymnastics  |David-Jonathan Chan Thuang Tong |曾传忠 |25 |M |√    |Men's Artistic Gymnastics Individual 
-|152.        
+|152. Golf |        
 
 Gabriel Gan Zi Jie
 
