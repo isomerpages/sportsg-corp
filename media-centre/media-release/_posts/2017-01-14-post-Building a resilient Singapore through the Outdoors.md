@@ -9,7 +9,7 @@ image: ""
 ### **Building a resilient Singapore through the Outdoors**
 In line with the aspiration to engage youths and families in more varied sporting and physical activities, Singapore’s national movement for sport and physical activity – ActiveSG – announced today that it will be launching the ActiveSG Outdoor Adventure Club.
 
-The ActiveSG Outdoor Adventure Club will offer an avenue for youths and families to partake in a suite of exciting outdoor activities. From March onwards,  there will be a series of free outdoor events organised monthly which will feature outdoor activities such as Orienteering, Hiking, Night Cycling and even water sports such as Kayaking. The activities are designed to imbue in participants a sense of adventure as well as to strengthen their mental toughness and character, in a bid to build a more resilient Singapore.
+The ActiveSG Outdoor Adventure Club will offer an avenue for youths and families to partake in a suite of exciting outdoor activities. From March onwards,  there will be a series of free outdoor events organised monthly which will feature outdoor activities such as Orienteering, Hiking, Night Cycling and even water sports such as Kayaking. The activities are designed to imbue in participants a sense of adventure as well as to strengthen their mental toughness and character, in a bid to build a more resilient Singapore.
 
 ![](/images/Media%20Centre/Media%20Release/2017/January/Two%20students%20from%20Broadrick%20Sec%20race%20against%20one%20another%20in%20a%20leopard%20crawl%20competition.jpeg)
 
