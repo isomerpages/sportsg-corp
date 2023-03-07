@@ -194,19 +194,7 @@ Athletes
 | 32.  | Athletics  | Amanda Choo Sze-Min  | 朱诗敏  | 23  | F  | √   | 100m (W)
 | 33.  | Athletics | Calvin Kang Li Loong | |江利龙 | 20 |M |√    |4 X 100m Relay (M)
 |34. |Athletics | Gary Yeo Foo Ee  | 杨富益  | 24  | M  | √   | 4 X 100m Relay (M)
-| 35.   
-
-Lee Cheng Wei
-
-李成伟
-
-23
-
-M
-
-√   
-
-4 X 100m Relay (M)
+| 35.  | Lee Cheng Wei  | 李成伟  | 23  | M  | √     | 4 X 100m Relay (M)
 
 36.   
 
