@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **SNG 2014 to offer total prize purse of $200,000**
+
 Participants taking part in the second edition of the Singapore National Games (SNG) will now be competing for a total prize purse of up to $200,000.
 
 2. Taking place from 1-9 November, all podium finishers (top 3 positions) in each of the 264 events across 12 sports will receive cash prizes on top of their medals and trophies. Champions in the team events can look forward to a top prize of up to $2,000 per team while gold medallists in the individual events may expect to take home up to $500.
