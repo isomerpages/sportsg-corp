@@ -10,21 +10,22 @@ image: ""
 ## **Standard Chartered Marathon Singapore 2010 To Feature Strong, Diverse Field Of Elite Runners**
 
 STANDARD CHARTERED MARATHON SINGAPORE 2010 TO FEATURE STRONG, DIVERSE FIELD OF ELITE RUNNERS
-Singapore, 3 December 2010 - A unique showdown is on the cards in both the men's and women's Full Marathon categories of the inaugural Standard Chartered Marathon Singapore (SCMS) 2010 on 5 December 2010. This comes after the Singapore Sports Council (SSC), the race organiser, today announced the finalised entry list of world-class elite athletes which includes the likes of recent race winners and up-and-coming runners who will be competing in the event for the first time.
 
-2 Fresh from becoming the first Kenyan woman to win the gold medal in the women's marathon at the recent Commonwealth Games in New Delhi in 2:34:32, Irene Jerotich Kosgei is the favourite to lead the charge in the women's open category. A two-time winner of the Nairobi Marathon (2006 and 2009), Kosgei enjoyed a stunning season in 2009 where she reached the podium in every marathon she competed in.
+**Singapore, 3 December 2010** - A unique showdown is on the cards in both the men's and women's Full Marathon categories of the inaugural Standard Chartered Marathon Singapore (SCMS) 2010 on 5 December 2010. This comes after the Singapore Sports Council (SSC), the race organiser, today announced the finalised entry list of world-class elite athletes which includes the likes of recent race winners and up-and-coming runners who will be competing in the event for the first time.
 
-3 She will however, face strong opposition from Russian veteran Lyubov Morgunova, the 2008 Rotterdam Marathon champion who was placed second in the Standard Chartered Singapore Marathon 2009. Morgunova represented her native country in the marathon at the 2000 Summer Olympics in Sydney. Compatriot Margarita Plaksina, who claimed the 2010 Russian Marathon title and finished second at the 2010 Houston Marathon, is also a prospect for the women's title.
+2. Fresh from becoming the first Kenyan woman to win the gold medal in the women's marathon at the recent Commonwealth Games in New Delhi in 2:34:32, Irene Jerotich Kosgei is the favourite to lead the charge in the women's open category. A two-time winner of the Nairobi Marathon (2006 and 2009), Kosgei enjoyed a stunning season in 2009 where she reached the podium in every marathon she competed in.
 
-4 In the men's open category, Kenneth Mburu Mungara from Kenya is in good form having clinched his third consecutive Toronto Waterfront Marathon champion's medal this past September. He will make his debut in Singapore and will race against counterparts Thomas Omwenga, champion of the 2010 Vancouver Marathon, and Vincent Krop, who finished third in the Standard Chartered Singapore Marathon 2009.
+3. She will however, face strong opposition from Russian veteran Lyubov Morgunova, the 2008 Rotterdam Marathon champion who was placed second in the Standard Chartered Singapore Marathon 2009. Morgunova represented her native country in the marathon at the 2000 Summer Olympics in Sydney. Compatriot Margarita Plaksina, who claimed the 2010 Russian Marathon title and finished second at the 2010 Houston Marathon, is also a prospect for the women's title.
 
-5 Additionally, a host of up-and-coming elite athletes such as Francis Kibiwott Larabal, winner of the JoongAng Seoul Marathon in 2009, Ayelu Lemma Geda, women's champion of the CamSur Marathon 2010, and Seada Kedir Adilo, female winner of the 2009 Napoli Marathon, will be using the SCMS 2010 as a platform to launch their marathon careers.
+4. In the men's open category, Kenneth Mburu Mungara from Kenya is in good form having clinched his third consecutive Toronto Waterfront Marathon champion's medal this past September. He will make his debut in Singapore and will race against counterparts Thomas Omwenga, champion of the 2010 Vancouver Marathon, and Vincent Krop, who finished third in the Standard Chartered Singapore Marathon 2009.
 
-6 The SCMS 2010 will see more than 20 elite athletes from around the world arriving in Singapore to participate in the Marathon. Many of these athletes attribute the iconic Full Marathon route and the revised prize money structure introduced by the organiser this year as key draws to compete in the event.
+5. Additionally, a host of up-and-coming elite athletes such as Francis Kibiwott Larabal, winner of the JoongAng Seoul Marathon in 2009, Ayelu Lemma Geda, women's champion of the CamSur Marathon 2010, and Seada Kedir Adilo, female winner of the 2009 Napoli Marathon, will be using the SCMS 2010 as a platform to launch their marathon careers.
 
-7 The revised prize structure will see the winners of the men's and women's Full Marathon open categories pocketing US$66,500 each, which is a substantial US$15,000 increase from previous editions. The athletes will also stand a chance to pocket other monetary prizes such as a 'Time Bonus' if they finish the race under a stipulated time and the Champions Fund, an incentive fund to entice the winners of the men's and women's Full Marathon open categories to return in 2011.
+6. The SCMS 2010 will see more than 20 elite athletes from around the world arriving in Singapore to participate in the Marathon. Many of these athletes attribute the iconic Full Marathon route and the revised prize money structure introduced by the organiser this year as key draws to compete in the event.
 
-8 "Our aim this year is to increase the level of competition among the elite athletes. By taking the unique step of channelling the normal appearance fees to the prize purse and introducing the new prize structure, we have succeeded in attracting many world class athletes to Singapore to compete at the Standard Chartered Marathon Singapore 2010. With the strength of the elite field in both the men's and women's Full Marathon open categories, we are expecting a very exciting race indeed," said David Voth, Chairman, SCMS 2010 Organising Committee and Senior Director, Sports Marketing Group, SSC.
+7. The revised prize structure will see the winners of the men's and women's Full Marathon open categories pocketing US$66,500 each, which is a substantial US$15,000 increase from previous editions. The athletes will also stand a chance to pocket other monetary prizes such as a 'Time Bonus' if they finish the race under a stipulated time and the Champions Fund, an incentive fund to entice the winners of the men's and women's Full Marathon open categories to return in 2011.
+
+8. "Our aim this year is to increase the level of competition among the elite athletes. By taking the unique step of channelling the normal appearance fees to the prize purse and introducing the new prize structure, we have succeeded in attracting many world class athletes to Singapore to compete at the Standard Chartered Marathon Singapore 2010. With the strength of the elite field in both the men's and women's Full Marathon open categories, we are expecting a very exciting race indeed," said David Voth, Chairman, SCMS 2010 Organising Committee and Senior Director, Sports Marketing Group, SSC.
 
 9 The SCMS 2010 will see a record 60,000 runners competing in a variety of categories which includes the Full Marathon, the Half-marathon and the 10km Run. Featuring three different routes, runners will take in the full spectrum of iconic landmarks in Singapore including Orchard Road, Chinatown, Universal Studios Singapore, the Marina Bay Sands Integrated Resort and the Esplanade - Theatres on the Bay.
 statics0
@@ -44,27 +45,27 @@ Kenneth Mburu Mungara (Kenya)
 Leonard Mucheru (Kenya)
 Stephen Kinyanjui (Kenya)
 Thomas Cherogony (Kenya)
-Thomas Omwenga (Kenya)
-Vincent Krop (Kenya)
+<br>Thomas Omwenga (Kenya)
+<br>Vincent Krop (Kenya)
 
 Female Elite Athletes
-Aberu Mekuria Zennebe (Ethiopia)
-Adanech Zekiros (Ethiopia)
-Annerien van Schalkwyk (South Africa)
-Ayantu Dakebo Hailemaryam (Ethiopia)
-Ayelu Lemma Geda (Ethiopia)
-Gladys Asiba (Kenya)
-Irene Jerotich Kosgei (Kenya)
-Lyubov Morgunova (Russia)
-Margarita Plaksina (Russia)
-Seada Kedir Adilo (Ethiopia)
-statics0
-Annex B: Profiles of Elite Runners - Lyubov Morgunova and Kenneth Mburu Mungara
-Lyubov Morgunova
+<br>Aberu Mekuria Zennebe (Ethiopia)
+<br>Adanech Zekiros (Ethiopia)
+<br>Annerien van Schalkwyk (South Africa)
+<br>Ayantu Dakebo Hailemaryam (Ethiopia)
+<br>Ayelu Lemma Geda (Ethiopia)
+<br>Gladys Asiba (Kenya)
+<br>Irene Jerotich Kosgei (Kenya)
+<br>Lyubov Morgunova (Russia)
+<br>Margarita Plaksina (Russia)
+<br>Seada Kedir Adilo (Ethiopia)
+
+Annex B: Profiles of Elite Runners - Lyubov <br>Morgunova and Kenneth Mburu Mungara
+<br>Lyubov Morgunova
 
 Country: Russia
-Hometown: Moscow
-Birth Date: 14 January 1973
+<br>Hometown: Moscow
+<br>Birth Date: 14 January 1973
 
 Lyubov Morgunova is a long-distance runner from Russia who has represented her native country in the marathon at the 2000 Summer Olympics in Sydney, Australia. A veteran runner with victories in the 1997 Twin Cities Marathon, 2000 and 2004 Honolulu Marathon, 2003 Toronto Waterfront Marathon, and the 2008 Rotterdam Marathon, Morgunova was placed second in the Standard Chartered Singapore Marathon 2009.
 
