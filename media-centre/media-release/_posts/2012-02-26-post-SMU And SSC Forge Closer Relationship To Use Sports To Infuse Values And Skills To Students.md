@@ -29,20 +29,19 @@ Singapore, 26 Feb 2012 - Singapore Management University (SMU) and Singapore Spo
 
 8. Currently, SMU has 40 Sports Clubs, run by its students. To encourage greater participation from the public, SMU has, over the years, made available seven signature sports events in which members of the public can join as participants. These events include SMU Adventure Race, SMU annual soccer competition for girls (Diva La Futbol), SMU-SAVA Dragon Boat Race and Western Circuit Sailing Regatta.
 
--END-
+---
 
-Annex A - SMU First Sports Elective
-Course title: Principles of Coaching in Sports
+**Annex A - SMU First Sports Elective**
 
-Offered by: School of Social Sciences, SMU
+Course title: Principles of Coaching in Sports<br>
+Offered by: School of Social Sciences, SMU<br>
+Commenced by: August 2012<br>
 
-Commenced by: August 2012
-
-Course Description:
+**Course Description:**
 
 This course will provide coverage of the essential concepts and principles of Sports Science for the effective practice of sports coaching. Important training principles and areas of the development of an athlete and preparation for competition will be addressed. Graduates will learn to be able to analyse basic biomechanics of sports movements, know the anatomical and physiological demands of the sport of interest.
 
-Course Objective:
+**Course Objective:**
 
 Students who have successfully completed the Course will be provided with fundamental knowledge of sports science related to coaching. Students will have knowledge of training principles and skills to effectively plan for a year round training season for athletes under their care. They will be suited to coach individuals and teams for sport competitions at school and club levels, after being equipped with the following knowledge and skill sets, together with technical coaching expertise acquired separately with the respective sport bodies:
 
@@ -51,15 +50,14 @@ Students who have successfully completed the Course will be provided with fundam
 - Planning & Sports Safety
 - Analysis / Development of Skills
 - Physical Preparation
-- Mental Skills Training
-
+- Mental Skills Traini<br><br>
 - Intermediate Planning for Coaches
 - Physical Training Principles
 - Sports Medicine
 - Sports Nutrition
 - Functional Anatomy for Coaches
 - Flexibility Training
-
+<br><br>
 - Training for Endurance / Speed / Strength / Power
 - Athlete Assessment
 - Advanced Recovery
