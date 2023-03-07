@@ -37,25 +37,29 @@ CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite High
 11. Throughout the Games, Team Singapore's Facebook fan page was a great source of information for fans and Singaporeans alike, who could receive minute-by-minute updates of key events during the Games, as well as updated results, photographs and quotes from the athletes and officials during competition.
 
 12. The page, which was managed by the Singapore Sports Council's Social Media outreach team, secured more than 1.1 million post views during the 16 days of competition, or an average of about 70,000 daily post views during the competition. The Facebook page was also a good platform for fans to interact and have discussions about their favourite Team Singapore athletes.
-statics0
 
 [1] Figures are as of 1.00pm on 26 November 2010
-statics0
+
 -End-
 
-statics0
 Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
-No.
 
-Medal
 
-Sport
+| No. | Medal | Sport | Event | Name of Athlete(s) | Total |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
-Event
 
-Name of Athlete(s)
 
-Total
+
+
+
+
+
+
+
+
+
 
 1.     
 
