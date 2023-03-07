@@ -7,9 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **National Sports Participation Survey 2011 To Gauge Singaporean's Sporting Pursuits**
-
-NATIONAL SPORTS PARTICIPATION SURVEY 2011 TO GAUGE SINGAPOREAN'S SPORTING PURSUITS
+### **National Sports Participation Survey 2011 To Gauge Singaporean's Sporting Pursuits**
 
 **Singapore, 28 March 2011** - Come 4 April 2011, the Singapore Sports Council (SSC) will embark on the mammoth task of reviewing and consolidating the sporting practices of 4,500 households across the country for the National Sports Participation Survey (NSPS) 2011. Conducted once every five years, the NSPS aims to ascertain the degree of sports participation by Singaporeans.
 
@@ -27,22 +25,23 @@ NATIONAL SPORTS PARTICIPATION SURVEY 2011 TO GAUGE SINGAPOREAN'S SPORTING PURSUI
 
 8. The results of the NSPS will be ready in the first quarter of 2012. Findings gathered will be the reference point from which the SSC will use to determine the direction and strategy to take when formulating future sporting programmes, initiatives and campaigns for the masses.
 
--End-
+---
 
 **About the Singapore Sports Council**
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **For media enquiries, please contact:**
-<br>Patricia Yee
+
+Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
