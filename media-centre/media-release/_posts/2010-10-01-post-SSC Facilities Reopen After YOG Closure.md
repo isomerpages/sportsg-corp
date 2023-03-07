@@ -71,11 +71,11 @@ Annex 1: Schedule of Reopening Of SSC Facilities
 <br>Public and Media Relations
 <br>Singapore Sports Council
 <br>DID: 6500 5247
-<br>Email: dominic_tay@ssc.gov.sg
+<br>Email: [dominic_tay@ssc.gov.sg](dominic_tay@ssc.gov.sg)
 	
 Jemuel Fu
 <br>Executive
 <br>Public and Media Relations
 <br>Singapore Sports Council
 <br>DID: 6500 5245
-<br>Email: jemuel_fu@ssc.gov.sg
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
