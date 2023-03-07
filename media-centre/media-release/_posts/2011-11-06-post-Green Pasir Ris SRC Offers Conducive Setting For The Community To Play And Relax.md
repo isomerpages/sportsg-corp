@@ -42,90 +42,46 @@ It is designed as a place for play and relaxation and is the first SRC in Singap
 
 The SRC is designed with environmentally friendly and energy-saving features such as a rainwater-harvesting system to irrigate surrounding plants, vertical 'green' walls and landscaping to reduce ambient heat gained, and photo-voltaic cells for energy generation.
 
-<table border="1" cellspacing="0" cellpadding="0" style="width: 535px;">
-    <tbody>
-        <tr>
-            <td style="width: 140px; background-color: #0066ff;">
-            <p style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">Location</span></strong></p>
-            </td>
-            <td valign="top" style="background-color: #adadad; width: 389px;">
-            <p style="line-height: normal;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">120 Pasir Ris Central, Singapore 519640 (Junction of Pasir Ris Drive 3 and Pasir Ris Central)</span><br>
-            <br>
-            <br>
-            </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="background-color: #0066ff; width: 140px;">
-            <p style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">Soft Launch Date</span></strong></p>
-            </td>
-            <td style="width: 389px; background-color: #adadad;">
-            <p class="ListParagraphCxSpFirst" style="line-height: normal; text-align: justify;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">18 July 2011</span><br>
-            <br>
-            <br>
-            </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="background-color: #0066ff; width: 140px;">
-            <p style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">Construction Cost</span></strong></p>
-            </td>
-            <td valign="top" style="background-color: #adadad; width: 389px;">
-            <p class="ListParagraphCxSpFirst" style="line-height: normal; text-align: justify;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">S$40 million</span><br>
-            <br>
-            <br>
-            </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="background-color: #0066ff; width: 140px;">
-            <p style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">Land Area</span></strong></p>
-            </td>
-            <td valign="top" style="background-color: #adadad; width: 389px;">
-            <p class="ListParagraph" style="line-height: normal; text-align: justify;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">1.4 hectares (14,000
-            sqm)</span><br>
-            <br>
-            <br>
-            </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="background-color: #0066ff; width: 140px;">
-            <p style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">Facilities</span></strong></p>
-            </td>
-            <td valign="top" style="background-color: #adadad; width: 389px;">
-            <p class="ListParagraphCxSpFirst" style="line-height: normal; text-align: justify;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;"><strong>Swimming Complex</strong></span><strong>:</strong></p>
-            <ul>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">A 50m length lap pool</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">A learner's pool</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">A wading pool with waterplay equipment</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">Water jets</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">A jacuzzi</span></li>
-            </ul>
-            <p style="line-height: normal;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;"><strong>Sports Hall <span style="color: black;">(2,000 pax
-            capacity)</span></strong></span><strong>:</strong></p>
-            <ul>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">2 basketball courts or 8 badminton courts or 1 volleyball court
-                with headroom clearance height of 12.5m to allow for international volleyball
-                play</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">An outdoor 5-a-side soccer court</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">2 outdoor tennis courts</span></li>
-            </ul>
-            <p style="line-height: normal;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;"><strong>A Gymnasium</strong></span></p>
-            <p class="ListParagraphCxSpFirst" style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">A Dance Studio</span></strong></p>
-            <p class="ListParagraphCxSpFirst" style="line-height: normal;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">Foyer Space for
-            Events</span></strong></p>
-            <p class="ListParagraphCxSpLast" style="line-height: normal; text-align: justify;"><strong><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">950sqm of Retail
-            Space </span></strong></p>
-            <p class="ListParagraphCxSpLast" style="line-height: normal; text-align: justify;"><strong> <span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">F&amp;B and Retails Outlets</span></strong></p>
-            <p style="line-height: normal;"><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;"><strong>Car Park (with Lift to Serve Basement Level - 2<sup>nd</sup> Storey)</strong></span><strong>: </strong></p>
-            <ul>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana;">For
-                cars: 120 lots and 2 handicapped lots</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">Motorcycle lots</span></li>
-                <li><span lang="EN-GB" style="font-size: 9pt; font-family: Verdana; color: black;">Bicycle parking stands</span></li>
-            </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<table id=table1 >
+<tbody><tr>
+<td><strong>Location</strong></td><td>120 Pasir Ris Central, Singapore 519640 (Junction of Pasir Ris Drive 3 and Pasir Ris Central)<br>
+<br>
+<br>
+</td>
+</tr>
+<tr>
+<td><strong>Soft Launch Date</strong></td><td>18 July 2011<br>
+<br>
+<br>
+</td>
+</tr>
+<tr>
+<td><strong>Construction Cost</strong></td><td>S$40 million<br>
+<br>
+<br>
+</td>
+</tr>
+<tr>
+<td><strong>Land Area</strong></td><td>1.4 hectares (14,000 sqm)<br>
+<br>
+<br>
+</td>
+</tr>
+<tr>
+<td><strong>Facilities</strong></td><td><strong>Swimming Complex</strong><strong>:</strong><ul><li>A 50m length lap pool</li>
+<li>A learner's pool</li>
+<li>A wading pool with waterplay equipment</li>
+<li>Water jets</li>
+<li>A jacuzzi</li>
+</ul>
+<strong>Sports Hall (2,000 pax capacity)</strong><strong>:</strong><ul><li>2 basketball courts or 8 badminton courts or 1 volleyball court with headroom clearance height of 12.5m to allow for international volleyball play</li>
+<li>An outdoor 5-a-side soccer court</li>
+<li>2 outdoor tennis courts</li>
+</ul>
+<strong>A Gymnasium</strong><br><strong>A Dance Studio</strong><br><strong>Foyer Space for Events</strong><br><strong>950sqm of Retail Space</strong><br><strong>F&B and Retails Outlets</strong><br><strong>Car Park (with Lift to Serve Basement Level - 2<sup>nd</sup>Storey)</strong><strong>:</strong><ul><li>For cars: 120 lots and 2 handicapped lots</li>
+<li>Motorcycle lots</li>
+<li>Bicycle parking stands</li>
+</ul>
+</td>
+</tr>
+</tbody></table>
