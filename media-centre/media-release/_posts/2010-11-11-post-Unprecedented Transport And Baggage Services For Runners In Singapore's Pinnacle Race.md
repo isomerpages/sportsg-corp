@@ -74,7 +74,7 @@ Annex D: Baggage Deposit and Collection Locations and Timings
 Operating Hours
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |-------- |-------- |
-| Text     | Baggage Facilities / Check-In    | Text     |Text     |Text     |
+|     | Baggage Facilities / Check-In    | Text     |Baggage Facilities / Collection     |Text     |
 
 
  
