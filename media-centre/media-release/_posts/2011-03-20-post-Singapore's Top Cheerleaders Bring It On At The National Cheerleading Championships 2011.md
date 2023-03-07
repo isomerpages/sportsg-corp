@@ -12,7 +12,8 @@ image: ""
 
 SINGAPORE'S TOP CHEERLEADERS BRING IT ON AT THE NATIONAL CHEERLEADING CHAMPIONSHIPS 2011
 SP Gusto Crowned Overall Champions for the 2011 Edition, as 2000 Fans Pack Jurong East Sports Hall
-Singapore 20 March 2011 - The Jurong East Sports Hall was the venue for acrobatics, tumbles and heart pumping action on 19 and 20 March when more than 300 of Singapore's top cheerleaders battled it out at the National Cheerleading Championships 2011, which was organised by the Singapore Sports Council (SSC) and the Federation of Cheerleading Singapore (FCS).
+
+**Singapore 20 March 2011** - The Jurong East Sports Hall was the venue for acrobatics, tumbles and heart pumping action on 19 and 20 March when more than 300 of Singapore's top cheerleaders battled it out at the National Cheerleading Championships 2011, which was organised by the Singapore Sports Council (SSC) and the Federation of Cheerleading Singapore (FCS).
 
 2 The 40 teams brought with them more than 2000 enthusiastic supporters who cheered just as hard, if not harder, than the competitors themselves. The cheers rose to a crescendo as SP Gusto from the Singapore Polytechnic were declared the 'Overall Champions' of the National Cheerleading Championships 2011. Guest-of-Honour Senior Minister of State for the Ministry of Education and the Ministry of National Development Ms Grace Fu, along with Team Singapore athletes and celebrity judges Lim Heem Wei (Gymnastics) and Tao Yi Jun (Wushu) watched on as they celebrated their well deserved victory.
 
@@ -114,21 +115,20 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
 
 Join SSC on Twitter at: www.twitter.com/singaporesports
-
+<br>
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-About Let's Play
-statics0
+
+**About Let's Play**
+<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
-statics0
-For media enquiries, please contact:
+
+**For media enquiries, please contact:**
+<br>
 Patricia Yee
-Executive
-Media Relations
-Singapore Sports Council
-Office: (65) 6500 5246
-Email: patricia_yee@ssc.gov.sg
-statics0
-statics0
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5246
+<br>Email: patricia_yee@ssc.gov.sg
