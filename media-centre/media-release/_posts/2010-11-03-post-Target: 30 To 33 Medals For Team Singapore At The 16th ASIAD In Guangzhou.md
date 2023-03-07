@@ -351,12 +351,9 @@ Athletes
 | 190.  | Sailing | Kimberly Lim Min | 林敏| 14| F| √   | Optimist Girl
 | 191. | Sailing | Leonard Ong| 王俊 | 17| M| √   | RS: X Men
 | 192.  | Sailing | Rachel Lee Qing | 李清 | 17 | F | √    | 420 Girl
-| 193.  | Sailing | Roy Tay Junhao | 郑俊豪 | 2 | M | 470 Men
+| 193.  | Sailing | Roy Tay Junhao | 郑俊豪 | 2 | M |  | 470 Men
 | 194.| Sailing |  Ryan Lo Jun Han| 卢军汉| 13| M| √   | Optimist Boy
-
-195.        
-
-Scott Glen Sydney
+| 195.  | Sailing | Scott Glen Sydney
 
 NA
 
