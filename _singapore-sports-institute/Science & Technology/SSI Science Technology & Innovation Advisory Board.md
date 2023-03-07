@@ -23,43 +23,43 @@ Group Director, Research
 Singapore Health Services
 
 **Prof Jeyakumar Henry  
-**Director  
+Director  
 Clinical Nutritional Sciences  
-Clinical Nutrition Research Centre
+Clinical Nutrition Research Centre**
 
 **Dr Daniel Lim Chu Sing  
-**CEO  
-MindWaves Group of Companies 
+CEO  
+MindWaves Group of Companies**
 
 **Ms Lydia Law  
-**Programme Manager (Training Effectiveness & Safety)  
+Programme Manager (Training Effectiveness & Safety)  
 DSO National Laboratories  
-Defence Medical & Environmental Research Institute
+Defence Medical & Environmental Research Institute**
 
 **Mr Tan Wearn Haw  
-**CEO  
-Singapore Sailing Federation 
+CEO  
+Singapore Sailing Federation**
 
 **Prof Toh Chai Keong  
-**Assistant Chief Executive (Engineering & Technology  
-Infocomm Development Authority of Singapore  
+Assistant Chief Executive (Engineering & Technology  
+Infocomm Development Authority of Singapore**
   
 **Prof Seah Hock Soon  
-**Professor, School of Computer Engineering  
-Nanyang Technological University
+Professor, School of Computer Engineering  
+Nanyang Technological University**
 
 **Ms Kow Ree Na  
-**Director, Lifestyle Programme Office  
-Singapore Economic Development Board
+Director, Lifestyle Programme Office  
+Singapore Economic Development Board**
 
 **Mr Bob Gambardella (SSI Ex-Officio Member)  
-**Chief, Singapore Sports Institute  
-Sport Singapore
+Chief, Singapore Sports Institute  
+Sport Singapore**
 
 **Mr Benoit Ammann (SSI Ex-Officio Member)  
-**Deputy Director, High Performance Sports Analytics  
+Deputy Director, High Performance Sports Analytics  
 Singapore Sports Institute  
-Sport Singapore 
+Sport Singapore**
 
 #### **More Information**
 
