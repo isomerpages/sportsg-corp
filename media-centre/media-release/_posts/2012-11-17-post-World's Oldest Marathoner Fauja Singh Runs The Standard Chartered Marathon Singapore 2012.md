@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **World's Oldest Marathoner Fauja Singh Runs The Standard Chartered Marathon Singapore 2012**
+### **World's Oldest Marathoner Fauja Singh Runs The Standard Chartered Marathon Singapore 2012**
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/WORLDSOLDESTMARATHONERFAUJASINGHRUNSTHESTANDARDCHARTEREDMARATHONSINGAPORE2012MainPar0028Imagegif.gif)
 
 101-year old will be running 10km for the SportCares Foundation on 2 December
@@ -27,11 +27,11 @@ image: ""
 7. Donors who would like to contribute to Fauja's cause may do so at:
 [http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation](http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation)
 
--END-
+---
 
-Enclosed:
+Enclosed
 
-Annex: Fact Sheet of Mr Fauja Singh
+**Annex:** Fact Sheet of Mr Fauja Singh
 
 Name: Fauja Singh
 <br>Date of birth: 1 April 1911
@@ -54,34 +54,34 @@ World Records set:
 7) 3,000 metres -- 24:52.47 (no previous record)
 8) 5,000 metres -- 49:57.39 (no previous record)
 
-Sequence of Fauja Singh?s 10km, Half and Full Marathon timings:
-London Flora Marathon 2000 - 6 Hours 54 minutes
-London Flora Marathon 2001 - 6 Hours 54 Minutes
-London Flora Marathon 2002 - 6 Hours 45 Minutes
-Bupa Great North Run (Half Marathon) 2002 - 2 Hours 39 minutes
-London Flora Marathon 2003 - 6 Hours 2 minutes
-Toronto Waterfront Marathon 2003 - 5 Hours 40 minutes
-New York City Marathon 2003 - 7 Hours 35 minutes
-London Flora Marathon 2004 - 6 Hours 7 minutes
-Glasgow City Half Marathon 2004 - 2 Hours 33 minutes
-Capital Radio Help a London Child 10,000m 2004 - 68 minutes
-Toronto Waterfront Half Marathon 2004 - 2 Hours 29 minutes 59 seconds
-Lahore Marathon (10,000m) 2005 - 64 minutes
-Newham Classic 10,000m, March 2010 - 75 minutes 
-ING Luxembourg (Half) Marathon. May 2010 - 3 hours 32 minutes (became oldest half marathoner)
-Newham Classic 10km, 10 April 2011 - 83 minutes (fastest ever for a 100 year old runner)
-Toronto Waterfront Marathon, 16 October 2011 - 8 hours 11 minutes 6 seconds (at the age of 100)
-Hong Kong Marathon, 10km, 2012 - 94 minutes (raising $25,800 for charity)
-Newham Classic 10km, 15 April 2012 - 77 minutes 32 seconds
-Virgin London Marathon, 22 April 2012 - 7 hours 49 minutes and 21 seconds
+Sequence of Fauja Singh's 10km, Half and Full Marathon timings:
+* London Flora Marathon 2000 - 6 Hours 54 minutes
+* London Flora Marathon 2001 - 6 Hours 54 Minutes
+* London Flora Marathon 2002 - 6 Hours 45 Minutes
+* Bupa Great North Run (Half Marathon) 2002 - 2 Hours 39 minutes
+* London Flora Marathon 2003 - 6 Hours 2 minutes
+* Toronto Waterfront Marathon 2003 - 5 Hours 40 minutes
+* New York City Marathon 2003 - 7 Hours 35 minutes
+* London Flora Marathon 2004 - 6 Hours 7 minutes
+* Glasgow City Half Marathon 2004 - 2 Hours 33 minutes
+* Capital Radio Help a London Child 10,000m 2004 - 68 minutes
+* Toronto Waterfront Half Marathon 2004 - 2 Hours 29 minutes 59 seconds
+* Lahore Marathon (10,000m) 2005 - 64 minutes
+* Newham Classic 10,000m, March 2010 - 75 minutes 
+* ING Luxembourg (Half) Marathon. May 2010 - 3 hours 32 minutes (became oldest half marathoner)
+* Newham Classic 10km, 10 April 2011 - 83 minutes (fastest ever for a 100 year old runner)
+* Toronto Waterfront Marathon, 16 October 2011 - 8 hours 11 minutes 6 seconds (at the age of 100)
+* Hong Kong Marathon, 10km, 2012 - 94 minutes (raising $25,800 for charity)
+* Newham Classic 10km, 15 April 2012 - 77 minutes 32 seconds
+* Virgin London Marathon, 22 April 2012 - 7 hours 49 minutes and 21 seconds
 
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 Eric Ong
-Manager, Media Relations
-Singapore Sports Council
-Tel: (65) 6500 5014
+Manager, Media Relations<br>
+Singapore Sports Council<br>
+Tel: (65) 6500 5014<br>
 Email: eric_ong@ssc.gov.sg
 
 Ho Shu Fen
@@ -94,9 +94,9 @@ Ho Shu Fen
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 **About Standard Chartered Bank in Singapore**
