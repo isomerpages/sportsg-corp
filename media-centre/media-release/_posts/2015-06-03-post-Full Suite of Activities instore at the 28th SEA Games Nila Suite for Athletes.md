@@ -24,5 +24,3 @@ Social media interaction is a key aspect of the Games, and the Nila Suite aims t
 Not only does the NILA suite provide hands-on opportunities for SportCares participants to put their weeks of training and preparation to use, our participants are also given a chance to meet with their personal sporting heroes, hear their stories and get inspired for the future.”
 
 “As an athlete who is competing at the 28th SEA Games, the NILA suite offers me opportunities to have some time to myself, to take my mind off the competition for a while to rest and relax, as well as mingle with fellow athletes from all over the region,” said Team Singapore fencer Ann Lee Huimin.
-
-END
