@@ -485,16 +485,8 @@ Team Officials
 | 73. | Shooting| Zhang Man Zhen | Coach (Rifle)
 | 74.  | Shooting| Zhu Chang Fu | Coach (Shotgun)
 | 75.  | Shooting| Zhao Jin Hong | Team Official
-
-76.   
-
-Table Tennis
-
-Loy Soo Han
-
-Team Manager
-
-77.   
+| 76. | Table Tennis  | Loy Soo Han  | Team Manager
+| 77. | Table Tennis  
 
 Jing Junhong
 
