@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Merry Marathon: Festive Cheer To Greet Singapore Runners At SCMS 2012**
+### **Merry Marathon: Festive Cheer To Greet Singapore Runners At SCMS 2012**
 	
 **Singapore, 29 October 2012** - December is traditionally associated with the Christmas festive season. Come 2 December 2012, this festive cheer will find its way into Singapore's pinnacle running event - the Standard Chartered Marathon Singapore.
 
@@ -20,20 +20,20 @@ image: ""
 
 6. In addition to enhancing the race experience through the festive theme, major improvements have been made to the running routes to ensure that runners have a smooth and enjoyable run.
 
-**Improved Race Conditions**
-<br>
+##### **Improved Race Conditions**
+
 7. Full Marathon participants can expect better route management with the route at South Bridge Road omitted. Instead, there will be an earlier turn at Upper Pickering Road, with a wider path for runners to prevent congestion. Participants will also be greeted by the breathtaking views of the Gardens by the Bay (South) at the 37km mark.
 
 8. With a limit of 10,000 registration slots for the Half-Marathon, participants of this category can also look forward to an improved running experience this year. The route along the Tanjong Beach roundabout has been removed, eliminating the congestion that was experienced at the hair-pin turn in Sentosa last year. In addition, all categories will have improved wave starts to minimise crowding at the first few kilometres.
 
-**Enhanced Baggage Deposit System**
-<br>
+##### **Enhanced Baggage Deposit System**
+
 9. A smoother baggage deposit system awaits runners this year. Runners were able to opt for the baggage deposit service at the point of registration and will be presented with a Baggage Service Pack (BSP) at the Race Entry Pack Collection (REPC) at the end of November.
 
 10. Runners can pre-pack their belongings and fill up their personal details on the bag within the BSP, which will help to reduce the waiting times at the deposit counters come race day.
 
-**More Ways to Motivate Runners**
-<br>
+##### **More Ways to Motivate Runners**
+
 11. Runners can look forward to music performances and giant BMW Cheer Video screens along the route. Another 'first' this year will be the Cheer Markers at every distance marker displaying inspirational words of encouragement sent in by runners for runners.
 
 12. Supporters can also board the Cheer Mobiles to get to Cheer Stations to catch the runners along the route. Cheer Kits will be available at every Cheer Station for supporters to use to cheer on the runners as they pass by.
@@ -44,22 +44,22 @@ image: ""
 
 15. In 2011, the SCMS was awarded the Gold Label status by the International Association of Athletic Federations (IAAF), placing it among elite marathons in the world such as London, Berlin, Boston and New York City. For more information on SCMS 2012, please visit www.marathonsingapore.com and www.facebook.com/marathonSG.
 
--END-
+---
 
 Enclosures
 
-Annex A: Race Information
+**Annex A:** Race Information
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0042Imagegif.gif)
 
-Annex B: SCMS 2012 Baggage Deposit and Collection Locations and Timings
+**Annex B:** SCMS 2012 Baggage Deposit and Collection Locations and Timings
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0043Imagegif.gif)
 
-**Annex C: SCMS 2012 Route Maps**
+**Annex C:** SCMS 2012 Route Maps
 <br>
 [SCMS 2012 Route Maps [496 Kb]](/files/Media%20Centre/Media%20Release/2012/Oct/SCMS%202012%20Route%20Mapspdf.pdf)
 
 **For media enquiries, please contact:**
-<br>
+
 Ho Shu Fen
 <br>Fulford PR 
 <br>Email: sfho@fulfordpr.com
@@ -75,9 +75,9 @@ Eric Ong
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG ](www.twitter.com/Lets_PlaySG )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 
