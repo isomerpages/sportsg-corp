@@ -13,13 +13,13 @@ The Official Team Draws were held today for Football and FIBA 33 (Basketball) fo
 
 Members of the Singapore Asian Youth Games Organising Committee (SAYGOC) were joined by representatives from 11 National Olympic Councils (NOCs), such as Indonesia, Qatar and Mongolia, to witness the draws. Updates were also given on the progress of the preparations for the inaugural AYG. To-date, more than 1,300 athletes from 36 NOCs have submitted their entries to compete across the nine sports.
 
-**FIBA 33 (Basketball)**
+##### **FIBA 33 (Basketball)**
 
 FIBA 33 (Basketball) will take place at the newly renovated indoor sports hall at Anglican High School and features 19 boys' teams and 16 girls' teams. This 3-on-3 basketball game will be played on one basket. Each team consists of four players with only three allowed on court at any one time. The game is played in three periods of five minutes each and follows most FIBA rules on scoring and fouling. The first team to score 33 points or to lead the game at the end of regulation time is the winner.
 
 Singapore will join India, People's Republic of China and Uzbekistan in Group D for the boys' competition. The girls will play against Bahrain, India and People's Republic of China. The top two teams from each group will qualify for the quarter-final stage.
 
-**Football**
+##### **Football**
 
 15 teams including Singapore are slated to take part in the Football competition. Singapore, as the host country automatically qualifies for the final round, which will be held at the Jalan Besar Stadium from 27 June onwards. The remaining 14 teams, which are divided into four groups (Groups A, B, C and D) are required to go through a qualifying process to get into the final round.
 
@@ -28,9 +28,10 @@ The top two teams in Groups A and B, as well as the top team from Groups C and D
 The eight teams in the final round will be divided into two groups (Groups A and B). A round robin will be conducted within each group to decide the semi-finalists. During the semi-finals, the top team from Group A will face-off against the runner-up from Group B while the runner-up from Group A will play against the winner from Group B. The winners will play for the gold medal while the losing semi-finalists will play for bronze.
 
 
-**TEAM DRAW RESULTS**
-<br>
-**FIBA 33 (BASKETBALL) - BOYS**
+#### **TEAM DRAW RESULTS**
+
+
+##### **FIBA 33 (BASKETBALL) - BOYS**
 
 GROUP A
 <br>
@@ -78,7 +79,7 @@ D3 Uzbekistan
 <br>
 D4 India
 
-**FIBA 33 (BASKETBALL) - GIRLS**
+##### **FIBA 33 (BASKETBALL) - GIRLS**
 
 GROUP A
 <br>
@@ -121,7 +122,7 @@ D3 Sri Lanka
 D4 Uzbekistan
 
 
-**FOOTBALL**
+##### **FOOTBALL**
 
 GROUP A
 <br>
@@ -159,8 +160,10 @@ D2 Saudi Arabia
 <br>
 D3 Lao P.D.R
 
-________________________________________________________
+
 Issued by the Singapore Asian Youth Games Organising Committee
+
+---
 
 **About the 1st Asian Youth Games Singapore 2009**
 <br>
@@ -173,7 +176,7 @@ The Singapore Sports Council (SSC) is Singapore's lead agency tasked with develo
 
 
 **For media enquiries, please contact:**
-<br>
+
 Tanty Nazlianah Rosli
 <br>
 Media Relations Officer
