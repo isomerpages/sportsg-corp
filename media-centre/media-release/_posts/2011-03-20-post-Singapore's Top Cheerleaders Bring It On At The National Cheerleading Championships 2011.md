@@ -45,16 +45,10 @@ Annex: Results List of the National Cheerleading Championships 2011
 | COMPETITIVE - STUNTS - <br>MIXED-TEAM | 1ST - SP Gusto (Singapore Polytechnic <br>2ND - Wildcards <br>3RD - Awe-Stars
 | COMPETITIVE - PRIMARY | 1ST - St Hilda's Shooting Stars (St Hilda's Primary School) <br>2ND - MG Dazzlers (Methodist Girls' Primary School) <br>3RD - Kranji Kougars (Kranji Primary School)
 | COMPETITIVE - HIGH SCHOOL  | 1ST - SP Gusto (Singapore Polytechnic) <br>2ND - Magnum Force (Ngee Ann Polytechnic) <br>3RD - RP Rexaz (Republic Polytechnic)
-| COMPETITIVE - OPEN  | 1ST ? Wildcards
+| COMPETITIVE - OPEN  | 1ST - Wildcards  <br>2ND - KR Steppers (Kent Ridge Hall - National University of Singapore) <br>3RD - NTU Aces (Nanyang Technological University)
 
-2ND - KR Steppers (Kent Ridge Hall - National University of Singapore)
-
-3RD - NTU Aces (Nanyang Technological University)
-
- 
-
-About the Singapore Sports Council
-statics0
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
