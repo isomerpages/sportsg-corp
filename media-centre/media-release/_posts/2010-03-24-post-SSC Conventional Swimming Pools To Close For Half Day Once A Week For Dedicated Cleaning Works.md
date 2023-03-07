@@ -24,13 +24,13 @@ image: ""
 **Schedule of Pool Closures**
 || Closed Pools | Alternative Pools |
 |--|--|--|
-|Monday | Clementi | Buona Vista, Queenstown|
+| **Monday** | Clementi | Buona Vista, Queenstown|
 || Geylang East | Jalan Besar, Kallang Basin, Katong |
 || MOE Co-Curricular Activities Branch |Delta, Buona Vista | Choa Chu Kang* | Bukit Batok, Woodlands |
 || Jurong East* | Bukit Batok, Jurong West* | 
 || Sengkang* | Hougang, Serangoon | 
 <br>
-|Tuesday | Buona Vista | Clementi, MOE Co-Curricular Activites Branch, Queenstown|
+|**Tuesday** | Buona Vista | Clementi, MOE Co-Curricular Activites Branch, Queenstown|
 || Delta | MOE Co-Curricular Activites Branch, Queenstown |
 || Hougang | Sengkang, Serangoon |
 || Katong | Geylang East, Kallang Basin |
@@ -38,21 +38,21 @@ image: ""
 || Toa Payoh | Kallang Basin, Bishan |
 || Jurong West* | Jurong East* |
 <br>
-| Wednesday | Ang Mo Kio | Bishan, Serangoon, Yio Chu Kang |
+| **Wednesday** | Ang Mo Kio | Bishan, Serangoon, Yio Chu Kang |
 || Bukit Batok | Choa Chu Kang*, Jurong East* |
 || Jalan Besar | Geylang East |
 || Kallang Basin |Katong, Geylang East, Toa Payoh |
 ||Queenstown | Buona Vista, Clementi, Delta |
 || Yishun |Yio Chu Kang, Woodlands |
 <br>
-| Thursday | Bedok | Tampines |
+| **Thursday** | Bedok | Tampines |
 || Bishan | Ang Mo Kio, Toa Payoh |
 || Serangoon | Ang Mo Kio, Hougang, Sengkang |
 || Yio Chu Kang | Ang Mo Kio, Yishun |
 || Woodlands | Choa Chu Kang*, Yishun |
 <hr>
 
-*Note: Special feature pools are denoted by an  and are closed for a full day once a week. This started when special pool features were first introduced and has been ongoing since then.*
+***Note:** Special feature pools are denoted by an * and are closed for a full day once a week. This started when special pool features were first introduced and has been ongoing since then.*
 
 **About the Singapore Sports Council**
 <br>
