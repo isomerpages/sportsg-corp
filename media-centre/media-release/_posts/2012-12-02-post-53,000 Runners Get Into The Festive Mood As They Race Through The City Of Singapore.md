@@ -7,8 +7,10 @@ layout: post
 description: ""
 image: ""
 ---
-## **53,000 Runners Get Into The Festive Mood As They Race Through The City Of Singapore**
+### **53,000 Runners Get Into The Festive Mood As They Race Through The City Of Singapore**
+
 ![](/images/Media%20Centre/Media%20Release/2012/Dec/scms2012.jpeg)
+
 **Singapore, 2 December 2012** - Starting from 5.00am, 53,000 people started off on their races in the Standard Chartered Marathon Singapore across various categories of Full Marathon, Half Marathon, 10km and Kids Dash. Featuring three different routes, runners took in the sights of iconic landmarks in Singapore including Orchard Road, Universal Studios Singapore, Sentosa, Singapore Flyer and Gardens by the Bay.
 
 2. Cheered on by supporters and entertainment acts along the route and greeted by a Padang decked out in festive trimmings, Kenyans Kiptoo Lilan Kennedy (25) and Irene Jerotich Kosgei (38) crossed the finish line first in their categories with a time of 2:17:20.27 and 2:37:53.51 respectively. It was a tight finish for Kennedy with course record holder, Luke Kibet, a mere 5 seconds behind, while Kosgei has set history by becoming the first woman to win the Women's Open category for three consecutive years.
@@ -23,13 +25,13 @@ image: ""
 
 7. Lawrence Ang, 48, who has taken part in the SCMS for the last nine years remarked, "Taking part in the SCMS is an annual ritual for me. It marks not just the end of my year but also the beginning of the festive season. The festive mood is very evident this year and the atmosphere is fantastic. It feels like a great big party that stretches for 42km and I am glad that I am here to experience it."
 
--END-
+---
 
 **Annex: Results of Standard Chartered Marathon Singapore 2012**
 ![](/images/Media%20Centre/Media%20Release/2012/Dec/53000RUNNERSGETINTOTHEFESTIVEMOODASTHEYRACETHROUGHTHECITYOFSINGAPOREMainPar0055Imagegif.gif)
 
 **For media enquiries, please contact:**
-<br>
+
 Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
@@ -45,9 +47,9 @@ Ho Shu Fen
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites ssc.gov.sg, www.vision2030.sg and singaporesports.sg
-<br>
+
 Follow us on Facebook at facebook.com/SingaporeSports
-<br>
+
 For a range of photographs, visit flickr.com/ssc-sportsphotography
 
 **About Standard Chartered Bank in Singapore**
