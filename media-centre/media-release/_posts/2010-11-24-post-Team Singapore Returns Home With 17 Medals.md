@@ -46,7 +46,7 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 
 
 | No. | Medal | Sport | Event | Name of Athlete(s) | Total |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
 
