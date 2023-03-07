@@ -26,11 +26,11 @@ image: ""
 8. The contingent and guests were treated to a special photo exhibition presented by CANON, featuring the works of winners of the Canon SEA Games Photo Contest, jointly organised with The Straits Times. Photographers, Mr Wee Keng Hor and Mr Suhaimi Bin Abdullah, bagged the top prize of the competition and were in Vientiane, Laos, to capture key moments of Team Singapore competing at the Games. A selected collection of the photographs depicting highlights of the 25th SEA Games were on display at the MAP Awards tonight.
 
 9. For more information on Team Singapore at the 25th SEA Games, please visit www.teamsingapore.com.sg
-statics0
-- End -
 
-For media enquiries, please contact:
-<br>
+---
+
+**For media enquiries, please contact:**
+
 Sheila Rasu/Lorna Campbell
 <br>
 Fulford Public Relations
