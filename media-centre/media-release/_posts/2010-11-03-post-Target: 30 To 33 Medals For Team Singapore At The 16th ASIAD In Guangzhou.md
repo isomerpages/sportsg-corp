@@ -251,118 +251,15 @@ Athletes
 | 89.| Dragon Boat |  Raymond Tan Swee Siong| 陈瑞祥| 21| M| √  | Team (Men)
 | 90.| Dragon Boat | Jerry Tan Renyi| 陈仁义| 26| M| √   | Team (Men)
 | 91.  | Dragon Boat | Tan Chun Leng| 陈俊龙| 20| M| √   | Team (Men)
-| 92.  | Wong Kah Shawn| 黄珈萱| 20| M| √  | Team (Men)
-| 93. | Dragon Boat
-
-Yeo Chin Hwei
-
-杨景伟
-
-30
-
-M
-
-√   
-
-Team (Men)
-
-94.  | Dragon Boat 
-
-Bai Yi Rang
-
-白宜让
-
-25
-
-F
-
-√   
-
-Team (Women)
-
-95.   | Dragon Boat
-
-Chiam Li Ping
-
-詹丽萍
-
-22
-
-F
-
-√   
-
-Team (Women)
-
-96.   
-
-Chyan Shiang Chi
-
-钱向慈
-
-30
-
-F
-
-√   
-
-Team (Women)
-
-97.   | Dragon Boat
-
-Diana Nai Min Zhen
-
-赖敏珍
-
-18
-
-F
-
-√   
-
-Team (Women)
-
-98.   
-
-Elise Lee Shi May
-
-李诗梅
-
-49
-
-F
-
-√   
-
-Team (Women)
-
-99.   
-
-Grace Tang Jia Jia
-
-邓佳佳
-
-16
-
-F
-
-√   
-
-Team (Women)
-
-100.        
-
-Ho Chia Ing
-
-何佳韵
-
-31
-
-F
-
-√   
-
-Team (Women)
+| 92. | Wong Kah Shawn| 黄珈萱| 20| M| √  | Team (Men)
+| 93. | Dragon Boat | Yeo Chin Hwei | 杨景伟 | 30 | M | √   | Team (Men)
+| 94.  | Dragon Boat | Bai Yi Rang| 白宜让 | 25 | F | √    | Team (Women)
+| 95.   | Dragon Boat | Chiam Li Ping | 詹丽萍 | 22 | F | √    | Team (Women)
+| 96.   | Dragon Boat | Chyan Shiang Chi | 钱向慈 | 30 | F | √    | Team (Women)
+| 97.   | Dragon Boat | Diana Nai Min Zhen | 赖敏珍 | 18 | F | √ | Team (Women)
+| 98.  | Dragon Boat  | Elise Lee Shi May | 李诗梅 | 49 | F | √    | Team (Women)
+| 99. | Dragon Boat  | Grace Tang Jia Jia| 邓佳佳 | 16 | F| √   | Team (Women)
+| 100.  | Dragon Boat  | Ho Chia Ing| 何佳韵| 31| F| √   | Team (Women)
 
 101.        
 
