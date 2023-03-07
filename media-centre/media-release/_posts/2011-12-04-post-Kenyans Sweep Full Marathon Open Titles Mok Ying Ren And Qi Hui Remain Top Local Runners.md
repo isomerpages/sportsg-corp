@@ -32,3 +32,8 @@ Local Runners Retained Their Titles
 #### **Annex A: List of SCMS 2011 Winners**
 
 **FULL MARATHON OPEN (MEN)**
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
