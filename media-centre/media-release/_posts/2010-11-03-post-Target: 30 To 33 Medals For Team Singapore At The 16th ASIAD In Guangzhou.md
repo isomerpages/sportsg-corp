@@ -379,75 +379,11 @@ Athletes
 |217.|Shooting | Lee Wung Yew|李宏耀|44 | M  ||Trap (M)
 |218. | Shooting | Lee Yee |李育 |31 |M | √    |Skeet (M)
 |219. | Shooting | Mohd Zain Bin Amat  | NA  | 35 | M  | | Double Trap (M)<br>Trap (M)
-| 220.  | Muhd Ikram Bin Ismail
-
-NA
-
-39
-
-M
-
-√   
-
-Double Trap (M)
-
-221.        
-
-Nigel Lim Swee Hon
-
-林瑞鸿
-
-31
-
-M
-
-√   
-
-10m Air Rifle (M)
-
-50m Pistol (M)
-
-222.        
-
-On Shaw Ming
-
-翁绍铭
-
-33
-
-M
-
-√   
-
-25m Centre Fire Pistol&25m Standard Pistol (M)
-
-223.        
-
-Ong Jun Hong
-
-王竣鸿
-
-22
-
-M
-
- 
-
-10m Air Rifle& 50m Rifle Prone (M)
-
-224.        
-
-Poh Lip Meng
-
-傅立民
-
-41
-
-M
-
-√   
-
-10m Air Rifle (M)
+| 220.  | Shooting | Muhd Ikram Bin Ismail  | NA |39  | M  |√    |Double Trap (M) 
+| 221. | Shooting | Nigel Lim Swee Hon |林瑞鸿 | 31 | M | √   | 10m Air Rifle (M) <br>50m Pistol (M)
+| 222.  | On Shaw Ming| 翁绍铭| 33| M| √  | 25m Centre Fire Pistol&25m Standard Pistol (M)
+| 223.   | Ong Jun Hong| 王竣鸿| 22| M| 10m Air Rifle& 50m Rifle Prone (M)
+| 224.  | Poh Lip Meng| 傅立民| 41| M| √   | 10m Air Rifle (M)
 
 25m Centre Fire Pistol (M)
 
