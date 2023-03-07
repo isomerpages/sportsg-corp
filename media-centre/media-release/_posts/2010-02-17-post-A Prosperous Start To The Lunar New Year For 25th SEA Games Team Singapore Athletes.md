@@ -122,38 +122,9 @@ MAP AWARDS RECIPIENTS
 ||| Ho Ru'En Roanne | ||$5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
 ||| Tao Li |
 ||| Quah Ting Wen |
-
-
-
-
-
-
-
-
-
-6
-Table Tennis
-Feng Tianwei
-Women's Team
-1
-$15,000
-Team Event
-
-
-
-Wang Yuegu
-
-
-
-
-
-
-
-Sun Beibei
-
-
-
-
+| 6 | Table Tennis | Feng Tianwei<br>Wang Yuegu<br>Sun Beibei | Women's Team | 1 | $15,000 | Team Event |
+||| Wang Yuegu |
+||| Sun Beibei |
 
 
 
