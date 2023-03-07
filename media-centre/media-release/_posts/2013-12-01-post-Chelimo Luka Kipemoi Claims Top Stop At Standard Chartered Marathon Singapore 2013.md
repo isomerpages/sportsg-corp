@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Chelimo Luka Kipemoi Claims Top Stop At Standard Chartered Marathon Singapore 2013**
+### **Chelimo Luka Kipemoi Claims Top Stop At Standard Chartered Marathon Singapore 2013**
 ![](/images/Media%20Centre/Media%20Release/2013/Dec/Chelimo%20Luka%20Kipkemoi%20On%20His%20Way%20To%20Winning%20The%20SCMS.jpeg)
 **Sharon Cherop Wins Women's Open By A Split Second***
 
@@ -15,7 +15,7 @@ image: ""
 
 2. Asia's marquee running event flagged off at exactly 5.00am, under the dazzling Christmas lights lining the Orchard Road shopping belt. With five different categories, namely the Marathon, Half Marathon, Ekiden, 10km and Kids Dash (750m), this year's event saw more than 54,000 taking to the streets in the wee hours of the morning from three different start points around the city nation.
 
-3,. With a timing of 02:14:59, Chelimo Luka Kipemoi ended with a spectacular finish in the Men's Open category, narrowly achieving victory over nearest rivals and Kenyan compatriots Eluid Kiptanui, who clocked 02:15:25 and third-placed Mike Mutai, who came in at 02:15:40.
+3. With a timing of 02:14:59, Chelimo Luka Kipemoi ended with a spectacular finish in the Men's Open category, narrowly achieving victory over nearest rivals and Kenyan compatriots Eluid Kiptanui, who clocked 02:15:25 and third-placed Mike Mutai, who came in at 02:15:40.
 
 4. The humidity was certainly not an issue for Sharon Cherop who topped the Women's Open category (02:41:11.04) with a split second victory over Ethiopia's Debre Godana (02:41:11.71). Prokopeva Alina from Russia finished in third place with a timing of 02:41:15.
 
@@ -41,10 +41,10 @@ image: ""
 
 15. "We are thrilled with today's event and the general feedback thus far has been overwhelmingly positive. The weather gods also did us a favour and provided some more comfortable temperatures for runners," said Mr Chris Robb, Managing Director, Spectrum Worldwide. After months of planning, it was fantastic to see all the hard work come to fruition and to witness the thousands of smiling faces as they crossed the finish line," Robb added.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Munirah Razak
 <br>Fulford PR
 <br>DID: 6324 2284 
@@ -62,9 +62,9 @@ Abraham Christopher
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg ](www.Vision2030.sg )and [SingaporeSports.sg](SingaporeSports.sg).
-<br>
+
 Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
-<br>
+
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 
@@ -80,8 +80,8 @@ It serves both Consumer and Wholesale Banking customers. Consumer Banking provid
 
 The Bank employs over 7,600 people in Singapore and has a network of 19 branches, 31 ATMs, and 7 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
 
-About Spectrum Worldwide
-
+**About Spectrum Worldwide**
+<br>
 Spectrum Worldwide is a leading event management and experiential marketing company operating throughout the Asia Pacific region. For more than 20 years, Spectrum Worldwide has created and managed tailored experiences that not only bring to life our clients' brands, but also provide opportunities for companies to showcase their core values in a memorable and compelling way.
 
 Through long-standing partnerships with multi-national companies throughout the region, Spectrum Worldwide has consistently delivered groundbreaking, iconic events including OCBC Cycle Singapore and OCBC Cycle Malaysia, the Standard Chartered Marathon, Red Bull Flugtag Singapore, and the Singapore Red Bull Speed Street Singapore and KL. Spectrum is also expanding its footprint across the region and cementing its foothold in the cycling market following the launch of Cycle Asia, a network of premier cycling events across Asia.
