@@ -17,12 +17,10 @@ SSC VENUES TO BE USED AS RALLY SITES FOR GE 2011
 3. Although these fields will be closed to all bookings for sports activities, members of the public may still continue using the running tracks during the stadiums' normal operating hours, unless advised otherwise.
 
 4. The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at www.ssc.gov.sg. Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
-5. 
+
 -End-
 
 Annex A: Schedule of Designated Use of SSC Facilites for General Election 2011
-
-
 |   |   |   |
 | -------- | -------- | -------- |
 | SSC Facilities Designated for Use as Rally Sites <br>from 28 April-5 May 2011 (7am-10am, 12pm-3pm, 7pm-10pm) | Bedok Stadium <br>Bishan Stadium <br>Bukit Gombak Stadium <br>Delta Hockey Field <br>Choa Chu Kang Stadium <br>Clementi Stadium <br>Jurong East Stadium <br>Jurong West Stadium <br>Serangoon Stadium <br>Tampines Stadium <br>Toa Payoh Stadium <br>Woodlands Stadium <br>Yio Chu Kang Stadium <br>Yishun Stadium| 
