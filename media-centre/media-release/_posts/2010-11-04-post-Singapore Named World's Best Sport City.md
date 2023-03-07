@@ -10,7 +10,8 @@ image: ""
 
 SINGAPORE NAMED WORLD'S BEST SPORT CITY
 Singapore Beats Strong European Contenders To Clinch Award
-Singapore, 4 November 2010 - Singapore has added another jewel to its crown of international sports accolades by being named the Gold winner for the Sport City Award at the International Sports Event Management (ISEM) Awards 2010 Gala Dinner held at 3am this morning (3 November 2010, 8pm, UK time) at the Twickenham Stadium in London. Other contenders for this prestigious international award this year included Liverpool and London. Previous year's winners included top sports cities such as Manchester and Melbourne.
+
+**Singapore, 4 November 2010** - Singapore has added another jewel to its crown of international sports accolades by being named the Gold winner for the Sport City Award at the International Sports Event Management (ISEM) Awards 2010 Gala Dinner held at 3am this morning (3 November 2010, 8pm, UK time) at the Twickenham Stadium in London. Other contenders for this prestigious international award this year included Liverpool and London. Previous year's winners included top sports cities such as Manchester and Melbourne.
 
 2 The SSC is proud that Singapore has been named the Gold winner for this Award and considers it yet another defining achievement in the history of Singapore sports for two reasons. Singapore was the only Asian city in the shortlist for the Award and it won the Gold against other strong European contenders like Manchester and Dusseldorf.
 
