@@ -92,6 +92,6 @@ For the case of the ADS RTP athlete only - being accessible daily for testing du
 
 For the case of the ADS DTP athlete only - being accessible for testing at the regular locations set forth in the athlete's whereabouts filing at the times specified. 
 
-WHEREABOUTS FILING REQUIREMENTS
+**WHEREABOUTS FILING REQUIREMENTS**
 
-Athlete whereabouts filing and updates shall be made through WADA's online Anti-Doping Administration and Management System (ADAMS). 
+Athlete whereabouts filing and updates shall be made through WADA's online Anti-Doping Administration and Management System (ADAMS).
