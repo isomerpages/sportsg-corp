@@ -437,48 +437,12 @@ Team Officials
 | 25. | Cue Sports|Paul Pang Yue Min| Asst. Team Manager
 | 26.  | Cue Sports|Chen Wei Chih| Coach
 | 27.  | Cycling| Danial Loy Wen Jun| Team Manager
-
-28.   
-
-Dragon Boat
-
-Florence Yong
-
-Team Manager
-
-29.   
-
-Raizol A Jalil
-
-Team Manager
-
-30.   
-
-Steve Chan Lih Long
-
-Coach
-
-31.   
-
-Dragon Boat
-
-Goh Poh Soon
-
-Coach
-
-32.   
-
-Frederick Hartmut Heese
-
-Coach
-
-33.   
-
-Equestrian
-
-Monique Heah Cheng Siew
-
-Team Manager
+| 28.| Dragon Boat| Florence Yong| Team Manager
+| 29.  | Dragon Boat| Raizol A Jalil| Team Manager
+| 30. | Dragon Boat| teve Chan Lih Long| Coach
+| 31.  | Dragon Boat| Goh Poh Soon| Coach
+| 32.  | Dragon Boat|Frederick Hartmut Heese| Coach
+| 33.  | Equestrian| Monique Heah Cheng Siew| Team Manager
 
 34.   
 
