@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Standard Chartered Marathon Singapore 2011 Returns With New 5KM Fun Run**
+### **Standard Chartered Marathon Singapore 2011 Returns With New 5KM Fun Run**
 
 ![](/images/Media%20Centre/Media%20Release/2011/Jun/Standardcharteredrun2011.jpeg)
 *Singapore's Marquee Running Event Opens for Registration on 23 June 2011*
@@ -21,10 +21,10 @@ image: ""
 
 5. Registration for the SCMS 2011 will start online and at the launch site at 11am on 23 June 2011. For further details of the SCMS 2011, including the Event Launch and race registration, please visit the Marathon's Official Website at [www.marathonsingapore.com](www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG).
 
--End-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Samantha See
 <br>Fulford Public Relations
 <br>DID: 6324 9316
@@ -42,9 +42,9 @@ Jemuel Fu
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/singaporesports )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Standard Chartered Bank in Singapore**
