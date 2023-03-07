@@ -14,7 +14,7 @@ Singapore, 20 July 2009 - The Singapore Sports Council (SSC) announced two new m
 
 Said Oon Jin Teik, Chief Executive Officer of the SSC: "The management changes are part of our continuous review to ensure our organisation structure and capabilities are one step ahead of the dynamically changing sports environment internationally, regionally, and in Singapore. This will enable us to deliver maximum value to the Singapore sports fraternity."
 
-**Robert P Gambardella**
+##### **Robert P Gambardella**
 
 Robert P Gambardella joins SSC as its Chief for Sports Development & Singapore Sports Institute on 20 July 2009.
 
@@ -40,11 +40,11 @@ Bob will report to SSC's Chief Executive Officer, Oon Jin Teik.
 
 Said Oon: "Our unprecedented sports excellence success in the last few years is a result of strong foundations we've built over the years by strengthening NSA's management and high performance capabilities. For the next phase of growth, SSC will drive a national holistic and integrated approach to enable NSAs to systematically identify, develop and optimise the performance of elite athletes, coaches and officials across the development pathway. Bob's wealth of management and technical experience at the strategic, tactical and operations level, established networks with the international sporting fraternity and strong ability to build partnerships will help us put in place a national organisational excellence and high performance framework to enable NSAs to achieve sustained competitive excellence at the international level. Bob will also begin putting in place the framework to develop the future Singapore Sports Institute at the Singapore Sports Hub."
 
-*NGBs in the USA are the equivalent of National Sports Associations (NSA) in Singapore.
+* NGBs in the USA are the equivalent of National Sports Associations (NSA) in Singapore.
 
-*MEMOS was founded in Europe in 1995 upon the initiative of several National Olympic Committees, the European Network of Sport Sciences in Higher Education, several universities, and with the financial support of Olympic Solidarity and the European Union Socrates programme. The aim of MEMOS was to provide a higher level of training to European sport managers. In the summer of 2002, the MEMOS Steering Committee voted to adapt the programme for participation internationally. Currently, more than one hundred MEMOS graduates are working in Olympic sports organisations.
+* MEMOS was founded in Europe in 1995 upon the initiative of several National Olympic Committees, the European Network of Sport Sciences in Higher Education, several universities, and with the financial support of Olympic Solidarity and the European Union Socrates programme. The aim of MEMOS was to provide a higher level of training to European sport managers. In the summer of 2002, the MEMOS Steering Committee voted to adapt the programme for participation internationally. Currently, more than one hundred MEMOS graduates are working in Olympic sports organisations.
 
-**David Howard Voth, Senior Director for Marketing**
+##### **David Howard Voth, Senior Director for Marketing**
 
 Hailing from Longmont Colorado, USA, David Howard Voth joins SSC as its Senior Director for Sports Marketing on 11 August 2009.
 
@@ -67,7 +67,7 @@ David holds a BS in Marketing and did graduate work (Statistics & Marketing) at 
 
 David will report to Kelven Tan, SSC's Chief, Sports Marketing.
 
-**Other Management Changes at SSC**
+##### **Other Management Changes at SSC**
 
 Wayde Clews, SSC's Chief for High Performance will relinquish his role and take up a new role as Chief for Sports Industry Development (from 1 August 2009). Under this new portfolio, Wayde will oversee the development of the sports industry, working with the Economic Development Board, other Singapore government agencies as well as international sports organisations to grow the Singapore sports industry. Key focus areas will include developing Singapore as a high performance training hub, sports events bidding and international relations.
 
@@ -77,7 +77,7 @@ Ng Eng Soon, SSC's Director for NSA Management will relinquish his role and unde
 
 
 **For media inquiries, please contact:**
-<br>
+
 Alvin Hang
 <br>
 Deputy Director (Corporate Communications)
