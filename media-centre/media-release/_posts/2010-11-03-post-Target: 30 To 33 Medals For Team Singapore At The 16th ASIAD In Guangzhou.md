@@ -260,64 +260,11 @@ Athletes
 | 98.  | Dragon Boat  | Elise Lee Shi May | 李诗梅 | 49 | F | √    | Team (Women)
 | 99. | Dragon Boat  | Grace Tang Jia Jia| 邓佳佳 | 16 | F| √   | Team (Women)
 | 100.  | Dragon Boat  | Ho Chia Ing| 何佳韵| 31| F| √   | Team (Women)
-
-101.        
-
-Jasline Ng Ting Yi
-
-黄婷仪
-
-22
-
-F
-
-√   
-
-Team (Women)
-
-102.        
-
-Jennifer Chen Qiujun
-
-陈秋君
-
-25
-
-F
-
-√   
-
-Team (Women)
-
-103.        
-
-Jess Poon Shing Ping
-
-潘心萍
-
-23
-
-F
-
-√   
-
-Team (Women)
-
-104.        
-
-Joan Poh Xue Hua
-
-傅雪铧
-
-19
-
-F
-
-√   
-
-Team (Women)
-
-105.        
+|101.  | Dragon Boat  | Jasline Ng Ting Yi |黄婷仪  | 22 |F  |√    |Team (Women)
+|102.  | Dragon Boat  | Jennifer Chen Qiujun |陈秋君 |25 |F |√   | Team (Women)
+|103.  | Dragon Boat  | Jess Poon Shing Ping | 潘心萍 | 23 | F | √| Team (Women)
+| 104. | Dragon Boat  | Joan Poh Xue Hua| 傅雪铧| 19| F| √   | Team (Women)
+| 105.        
 
 Kwah Rika
 
