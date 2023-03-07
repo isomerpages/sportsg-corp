@@ -61,16 +61,7 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | 11.  | Silver | Table Tennis | Women's Team | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu
 | 12.  | Bronze  | Cuesports | English Billiards Singles | Peter Edward GILCHRIST | 6
 | 13.  | Bronze | Bowling | Women's Singles | NEW Hui Fen
-
-14.   
-
-Bronze
-
-Sailing
-
-Open Laser Radial
-
-Scott Glen Sydney
+| 14.  | Bronze| Sailing | Open Laser Radial | Scott Glen | Sydney
 
 15.   
 
