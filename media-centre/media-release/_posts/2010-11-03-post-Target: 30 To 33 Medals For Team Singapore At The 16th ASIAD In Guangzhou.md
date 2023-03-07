@@ -110,42 +110,15 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Softball | 19 - 26 November 2010
 | Soft Tennis | 13 - 19 November 2010
 | Squash | 18 - 25 November 2010
-
-Table Tennis
-
-13 - 20 November 2010
-
-Taekwondo
-
-17 - 20 November 2010
-
-Tennis
-
-13 - 23 November 2010
-
-Triathlon
-
-13 - 14 November 2010
-
-Volleyball - Beach
-
-15 - 24 November 2010
-
-Volleyball - Indoor
-
-13 - 27 November 2010
-
-Weightlifting
-
-13 - 19 November 2010
-
-Wrestling
-
-21 - 26 November 2010
-
-Wushu
-
-13 - 17 November 2010
+| Table Tennis | 13 - 20 November 2010
+| Taekwondo | 17 - 20 November 2010
+| Tennis | 13 - 23 November 2010
+| Triathlon | 13 - 14 November 2010
+| Volleyball - Beach | 5 - 24 November 2010
+| Volleyball - Indoor | 13 - 27 November 2010
+| Weightlifting | 13 - 19 November 2010
+| Wrestling | 21 - 26 November 2010
+| Wushu | 3 - 17 November 2010
 
  
 
