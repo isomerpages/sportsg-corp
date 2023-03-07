@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore Named World's Best Sport City
-Singapore , 04 Nov 2010
+## **Singapore Named World's Best Sport City**
 
 SINGAPORE NAMED WORLD'S BEST SPORT CITY
 Singapore Beats Strong European Contenders To Clinch Award
