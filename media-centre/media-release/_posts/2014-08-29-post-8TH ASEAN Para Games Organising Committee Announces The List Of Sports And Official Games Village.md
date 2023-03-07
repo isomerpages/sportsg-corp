@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **8TH ASEAN Para Games Organising Committee Announces The List Of Sports And Official Games Village**
+
 The Singapore ASEAN Para Games Organising Committee (SAPGOC) has confirmed a total of 15 sports for the 8th ASEAN Para Games. This will be the most number of sports offered at the ASEAN Para Games in its history. The announcement took place after the sports were endorsed at the 1st ASEAN Para Sports Federation Board of Governors’ Meeting at Marina Bay Sands. The integrated resort has also inked its partnership with SAPGOC, to be the Official Games Village come December 2015 when Singapore hosts the Games for the first time. 
 
 2. The 8th ASEAN Para Games will have the most number of sports in the Games history, and is expected to have a participation of up to 3,300 overseas and local participants, consisting of athletes, team officials, international technical delegates.
@@ -16,7 +17,7 @@ The Singapore ASEAN Para Games Organising Committee (SAPGOC) has confirmed a tot
 
 4. The organising committee will be having a series of test events from March 2015 in preparation for the Games. Selected test events will also serve as outreach programmes, by bringing para-sports to the people. The public can look forward to invitational events for para-sports such as table tennis and wheelchair basketball in public spaces next year.
 
-**Games Village**
+##### **Games Village**
 
 5. The Games Village – Marina Bay Sands will be utilising some 1,500 rooms to host the athletes and officials during their stay. In addition, the integrated resort will provide two conference halls for the athlete’s social activities, meeting rooms as well as spaces for an array of fringe activities to create awareness on para-sports to the members of the public.
 
@@ -28,38 +29,38 @@ The Singapore ASEAN Para Games Organising Committee (SAPGOC) has confirmed a tot
 
 9. The integrated resort has created unique opportunities for youth and athletes to share up-close experiences with renowned sports stars including Tiger Woods, Christian Sprenger and Rio Ferdinand. Most recently, Sands for Singapore, together with David Beckham, conducted a football clinic with beneficiaries from SportCares Singapore, Special Olympics, Deaf Sports Association (Singapore) and Bedok Youth Society for the Disabled.
 
-END
+---
 
-**Please refer to [Annex A](/files/Media%20Centre/Media%20Release/2014/August/8th%20APG%20ANNEX%20A%20%20List%20of%20Sports.pdf) for the full list of sports.**
+**Please refer to [Annex A](/files/Media%20Centre/Media%20Release/2014/August/8th%20APG%20ANNEX%20A%20%20List%20of%20Sports.pdf)for the full list of sports.**
 
-**For media enquiries, please contact:**  
-  
-Rachel Ang   
-Senior Executive, Public Relations   
-Communications & Engagement Division   
-Tel: +65 6500 5217  
-HP: +65 9729 3700  
-Email: [rachel\_ang@sport.gov.sg](http:)  
-  
-S. Parameswaran   
-Assistant Director, Communications & Engagement Division  
-Tel: +65 6500 5236  
-HP: +65 9839 1974  
-Email: [parames\_seenivasagam@sport.gov.sg](http:)  
-  
-Dawn Wang  
-Senior Manager, Communications  
-Marina Bay Sands  
-Tel” +65 6688 0042  
-Email: [dawn.wang@marinabaysands.com](http:)  
-  
-**About the 8th ASEAN Para Games**  
-  
-The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 2,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.  
-  
-Facebook: [www.facebook.com/ASEANPARAGAMES2015](http:)  
-Website: [http://www.aseanparagames2015.com/](http:)  
-  
-**About Marina Bay Sands Pte Ltd**  
-  
-Marina Bay Sands is the leading business, leisure and entertainment destination in Asia. It features large and flexible convention and exhibition facilities, 2,560 hotel rooms and suites, the rooftop Sands SkyPark, the best shopping mall in Asia, world-class celebrity chef restaurants and an outdoor event plaza. Its two theatres showcase a range of leading entertainment performances including world-renowned Broadway shows. Completing the line-up of attractions is ArtScience Museum at Marina Bay Sands, which plays host to permanent and marquee exhibitions. For more information, please visit [www.marinabaysands.com](http:)
+**For media enquiries, please contact:**
+
+Rachel Ang<br>
+Senior Executive, Public Relations<br>
+Communications & Engagement Division<br>
+Tel: +65 6500 5217<br>
+HP: +65 9729 3700<br>
+Email:[rachel\_ang@sport.gov.sg](http:)
+
+S. Parameswaran<br>
+Assistant Director, Communications & Engagement Division<br>
+Tel: +65 6500 5236<br>
+HP: +65 9839 1974<br>
+Email:[parames\_seenivasagam@sport.gov.sg](http:)
+
+Dawn Wang<br>
+Senior Manager, Communications<br>
+Marina Bay Sands<br>
+Tel” +65 6688 0042<br>
+Email:[dawn.wang@marinabaysands.com](http:)
+
+**About the 8th ASEAN Para Games**
+<br>
+The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 2,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.
+
+Facebook:[www.facebook.com/ASEANPARAGAMES2015](http:)<br>
+Website:[http://www.aseanparagames2015.com/](http:)
+
+**About Marina Bay Sands Pte Ltd**
+<br>
+Marina Bay Sands is the leading business, leisure and entertainment destination in Asia. It features large and flexible convention and exhibition facilities, 2,560 hotel rooms and suites, the rooftop Sands SkyPark, the best shopping mall in Asia, world-class celebrity chef restaurants and an outdoor event plaza. Its two theatres showcase a range of leading entertainment performances including world-renowned Broadway shows. Completing the line-up of attractions is ArtScience Museum at Marina Bay Sands, which plays host to permanent and marquee exhibitions. For more information, please visit[www.marinabaysands.com](http:)
