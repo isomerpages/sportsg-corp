@@ -89,7 +89,7 @@ Annex A - List of 17 SSC Sports & Recreation Centres
 <br>351 Yishun Ave 3 (769057)
 
 Annex B - Selected Photos for Exhibition
-[Annex B - Selected Photos for Exhibition](/files/Media%20Centre/Media%20Release/2011/March/Annex%20B%20%20Selected%20Photos%20for%20Exhibitionpdf.pdf) [344 Kb]
+<br>[Annex B - Selected Photos for Exhibition](/files/Media%20Centre/Media%20Release/2011/March/Annex%20B%20%20Selected%20Photos%20for%20Exhibitionpdf.pdf) [344 Kb]
 
 Annex C - Schedule of Sports Photography Workshops
 
