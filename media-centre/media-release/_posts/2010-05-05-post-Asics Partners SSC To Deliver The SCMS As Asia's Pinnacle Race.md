@@ -70,5 +70,10 @@ DID: 6500 5241
 <br>
 Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
-
-
+Rachel Lo
+<br>
+Fulford PR
+<br>
+DID: 6324 5286
+<br>
+Email: [rlo@fulfordpr.com](mailto:rlo@fulfordpr.com)
