@@ -31,7 +31,7 @@ Alternatively, the public can also contact the organisers at 6319 2630 during of
 statics0
 -End-
 
-Annex: S[CMS 2010 Route Closure List SCMS 2010 Road Closure Info in Traffic Advisory ](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS20201020Event20Day20Fact20Sheetpdf.pdf)[4750 Kb]
+Annex: [SCMS 2010 Route Closure List SCMS 2010 Road Closure Info in Traffic Advisory ](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS%202010%20Road%20Closure%20Info%20in%20Traffic%20Advisory%20Brochurepdf.pdf)[4750 Kb]
 
 **About the Singapore Sports Council**
 <br>
