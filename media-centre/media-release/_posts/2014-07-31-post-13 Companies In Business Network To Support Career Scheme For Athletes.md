@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **13 Companies In Business Network To Support Career Scheme For Athletes**
-_**Advisory Panel formed to drive successful implementation of Network**_
+_Advisory Panel formed to drive successful implementation of Network_
 
 Six new corporate partners, namely Amore Fitness, Borneo Motors Singapore, DBS Bank, Deloitte Singapore, DHL Supply Chain and Sakae Holdings have joined the Sports Excellence Business (spexBusiness) Network for Athletes today, raising the number to 13 companies since its launch last year.
 
@@ -31,25 +31,25 @@ Six new corporate partners, namely Amore Fitness, Borneo Motors Singapore, DBS B
 
 11. Said Singapore’s Number 1 shuttler, “I am thankful to Deloitte’s tremendous support and this work opportunity that has allowed me to work flexibly from home around my training and competition schedule. Full-time athletes like myself will be able to continue to give 100% in the sporting field, when we know that companies are extending their arms out so that we will not need to worry about future career plans.”
 
-END
+---
 
-**Please click [here](/files/Media%20Centre/Media%20Release/2014/July/Fact%20Sheets%20and%20Bios%20spexCareer%20spexBusiness%20Network%20and%20Panel.pdf) for the following:**  
-  
-Annex A: Fact Sheet: spexCareer Scheme, spexBusiness Network for Athletes and spexBusiness Advisory Panel  
-  
-Annex B: spexCareer Scheme Athlete stories  
-  
-Annex C: spexBusiness Advisory Panel Members’ Bios  
-  
-Annex D: spexBusiness Advisory Panel Terms of Reference  
-  
-  
-  
-**For media enquiries, please contact:**  
+**Please click [here](/files/Media%20Centre/Media%20Release/2014/July/Fact%20Sheets%20and%20Bios%20spexCareer%20spexBusiness%20Network%20and%20Panel.pdf) for the following:**
 
-Eric Ong  
-Public Relations  
-Sport Singapore  
-Tel: +65 6500 5014  
-HP: +65 9764 4964  
+Annex A: Fact Sheet: spexCareer Scheme, spexBusiness Network for Athletes and spexBusiness Advisory Panel
+
+Annex B: spexCareer Scheme Athlete stories
+
+Annex C: spexBusiness Advisory Panel Members’ Bios
+
+Annex D: spexBusiness Advisory Panel Terms of Reference
+
+
+
+**For media enquiries, please contact:**
+
+Eric Ong<br>
+Public Relations<br>
+Sport Singapore<br>
+Tel: +65 6500 5014<br>
+HP: +65 9764 4964<br>
 Email: [eric\_ong@sport.gov.sg](http:)
