@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Rajah and Tann is Official Legal Partner of the 28th SEA Games 2015**
+
 Rajah & Tann Singapore LLP is the Official Legal Partner of the 28th Southeast Asian (SEA) Games, the firm and the Singapore Southeast Asian Games Organising Committee (SINGSOC) announced today.
 
 2. As the official and exclusive Legal Partner, Rajah & Tann will advise, prepare and negotiate the various legal documentation necessary for SINGSOC’s hosting and staging of the Games in Singapore from 5-16 June 2015. These include agreements on sponsorships, media rights, marketing, merchandising, licensing, venue, logistics, ticketing, and participation by athletes and torch relay runners.
@@ -21,44 +22,49 @@ Rajah & Tann Singapore LLP is the Official Legal Partner of the 28th Southeast A
 
 7. Rajah & Tann Singapore is part of Rajah & Tann Asia, Southeast Asia’s largest legal services provider with more than 500 lawyers from nine offices in the region with eight in Southeast Asia that include Cambodia, Indonesia, Laos, Malaysia, Myanmar, Singapore, Thailand and Vietnam.
 
-END
+---
 
 [Click here for biographies of athletes](/files/Media%20Centre/Media%20Release/2014/October/Annex_Biographies_of_Athletes.pdf)
 
-**Related Link**: [Speech by Mr Toh Boon Yi, , Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
+**Related Link**:[Speech by Mr Toh Boon Yi, , Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
 
 **For media queries, please contact:**
 
 **Catherine Ong Associates Pte Ltd**
 
-Catherine Ong          
-DID: +65 6327 6088      
-Mobile: +65 9697 0007                 
-Email: [cath@catherineong.com](mailto:cath@catherineong.com)        
+Catherine Ong<br>
+DID: +65 6327 6088<br>
+Mobile: +65 9697 0007<br>
+Email:[cath@catherineong.com](mailto:cath@catherineong.com) 
 
-Ronald Chong  
-DID: +65 6222 1680  
-Mobile: +65 9172 1180  
-Email: [ronald@catherineong.com](mailto:ronald@catherineong.com)
+Ronald Chong<br>
+DID: +65 6222 1680<br>
+Mobile: +65 9172 1180<br>
+Email:[ronald@catherineong.com](mailto:ronald@catherineong.com)
 
 **SINGSOC**
 
-Gerald Leong       
-Public Relations & Strategic Communications                                 
-SINGSOC           
-Mobile: +65 9298 2670     
-Email: [gerald\_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)            Rachel Ang  
-Public Relations & Strategic Communications  
-SINGSOC  
-Tel: +65 65005217  
-Mobile: +65 97293700  
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)  
+Gerald Leong<br>
+Public Relations & Strategic Communications<br>
+SINGSOC<br>
+Mobile: +65 9298 2670<br>
+Email:[gerald\_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)
 
-**About Rajah & Tann Asia**  
+Rachel Ang<br>
+Public Relations & Strategic Communications<br>
+SINGSOC<br>
+Tel: +65 65005217<br>
+Mobile: +65 97293700<br>
+Email:[rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+
+**About Rajah & Tann Asia**
+<br>
 Rajah & Tann Asia brings together leading law firms and lawyers in Cambodia, China, Indonesia, Lao PDR, Malaysia, Myanmar, Singapore, Thailand and Vietnam, with each offering the highest standards of service to locally-based clients while collectively having the capacity to handle the most complex regional and cross-border transactions and to provide excellent legal counsel seamlessly across the region. With more than 500 lawyers, all working towards one shared goal, we are lawyers who know Asia and who give our clients home advantage.
 
-**About the 28th SEA Games**  
+**About the 28th SEA Games**
+<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
-Follow us on:  
-28th SEA Games Website: [www.seagames2015.com](http://www.seagames2015.com/)28th SEA Games Facebook Page: [https://www.facebook.com/SEAGamesSingapore2015/](https://www.facebook.com/SEAGamesSingapore2015/)
+Follow us on:
+28th SEA Games Website:[www.seagames2015.com](http://www.seagames2015.com/)<br>
+28th SEA Games Facebook Page:[https://www.facebook.com/SEAGamesSingapore2015/](https://www.facebook.com/SEAGamesSingapore2015/)
