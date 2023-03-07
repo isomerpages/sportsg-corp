@@ -10,27 +10,28 @@ image: ""
 
 RELIVE OUR ATHLETES' GREATEST SPORTING MOMENTS FROM THE YOUTH OLYMPIC GAMES
 SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photography Exhibition & Workshops
-Singapore, 2 March 2011 - To relive the success stories and historic moments from Team Singapore's endeavour at the inaugural Singapore 2010 Youth Olympic Games (YOG), the Singapore Sports Council (SSC) is proud to present the third edition of the Inspiring Sporting Singapore Photography Exhibition entitled "Reliving YOG Moments", an inspirational showcase featuring our nation's YOG medallists, and other young Team Singapore athletes in action during the games.
 
-2 The exhibition will be held from 2 March 2011 to 2 May 2011 at 17 SSC Sports & Recreation Centres (SRCs) nationwide (see Annex A) and will showcase 34 colour images of Team Singapore athletes in competition at the YOG. Through this exhibition, the SSC aims to inspire Singaporeans to participate in sports.
+**Singapore, 2 March 2011 **- To relive the success stories and historic moments from Team Singapore's endeavour at the inaugural Singapore 2010 Youth Olympic Games (YOG), the Singapore Sports Council (SSC) is proud to present the third edition of the Inspiring Sporting Singapore Photography Exhibition entitled "Reliving YOG Moments", an inspirational showcase featuring our nation's YOG medallists, and other young Team Singapore athletes in action during the games.
 
-3 "Every historic moment of the YOG undoubtedly lives on in the hearts and minds of every athlete who has participated in this inaugural competition, and what better way to pay tribute to the enduring spirit of our young Team Singapore athletes than to capture their once-in-a-lifetime experiences on camera," said Mr Richard Seow, Chairman, Singapore Sports Council, who has contributed three images from his own collection to the exhibition, including a close-up shot of YOG silver medallist Rainer Ng in the 50m backstroke swimming event.
+2. The exhibition will be held from 2 March 2011 to 2 May 2011 at 17 SSC Sports & Recreation Centres (SRCs) nationwide (see Annex A) and will showcase 34 colour images of Team Singapore athletes in competition at the YOG. Through this exhibition, the SSC aims to inspire Singaporeans to participate in sports.
 
-4 "More importantly, these images will spark the interests and ignite the passions of Singaporeans to embrace a sporting culture through participation in sports," he added.
+3. "Every historic moment of the YOG undoubtedly lives on in the hearts and minds of every athlete who has participated in this inaugural competition, and what better way to pay tribute to the enduring spirit of our young Team Singapore athletes than to capture their once-in-a-lifetime experiences on camera," said Mr Richard Seow, Chairman, Singapore Sports Council, who has contributed three images from his own collection to the exhibition, including a close-up shot of YOG silver medallist Rainer Ng in the 50m backstroke swimming event.
 
-5 Providing support to the showcase as well is Mr Alex Chan, former Chairman of the SSC, who has contributed seven images to the exhibition. "Each of these images tells a story which reflects the true grit and determination displayed by our Team Singapore youth athletes in competition at the YOG. Through this collection, all Singaporeans can come together to relive the excitement and enthusiasm of the YOG," said Mr Chan.
+4. "More importantly, these images will spark the interests and ignite the passions of Singaporeans to embrace a sporting culture through participation in sports," he added.
 
-6 In addition, photography enthusiasts who are keen to hone their skills in sports photography may do so by signing up for a series of sports photography workshops from 5 to 26 March 2011, conducted by renowned photographers from Reuters and Action Images, a division of Reuters Media. By inviting established sports photographers to conduct these workshops, the SSC hopes to inspire more people to transform their interest for photography into a viable career option. This will create a growing pool of local sports photographers which will fuel the vibrancy of our local sports industry.
+5. Providing support to the showcase as well is Mr Alex Chan, former Chairman of the SSC, who has contributed seven images to the exhibition. "Each of these images tells a story which reflects the true grit and determination displayed by our Team Singapore youth athletes in competition at the YOG. Through this collection, all Singaporeans can come together to relive the excitement and enthusiasm of the YOG," said Mr Chan.
 
-7 The sports photography workshops feature experienced trainers such as Russell Boyce, Chief Photographer for Asia, Reuters; multi-award winning photographer Mindy Tan, and Jeremy Lee, Photographer and Sub-Editor, Action Images.
+6. In addition, photography enthusiasts who are keen to hone their skills in sports photography may do so by signing up for a series of sports photography workshops from 5 to 26 March 2011, conducted by renowned photographers from Reuters and Action Images, a division of Reuters Media. By inviting established sports photographers to conduct these workshops, the SSC hopes to inspire more people to transform their interest for photography into a viable career option. This will create a growing pool of local sports photographers which will fuel the vibrancy of our local sports industry.
 
-8 Besides having the opportunity to learn from the best trainers in the industry, photographers at the workshops will also get a chance put their skills to the test during a football match, with professional equipment sponsored by Nikon.
+7. The sports photography workshops feature experienced trainers such as Russell Boyce, Chief Photographer for Asia, Reuters; multi-award winning photographer Mindy Tan, and Jeremy Lee, Photographer and Sub-Editor, Action Images.
 
-9 "I am delighted to share my experience and expertise on sports photography with the many talented photographers we have in our midst," said Mr Boyce.
+8. Besides having the opportunity to learn from the best trainers in the industry, photographers at the workshops will also get a chance put their skills to the test during a football match, with professional equipment sponsored by Nikon.
 
-10 30 slots per sports photography workshop are available on a first-come-first-serve basis. Photographers who are interested in attending the complimentary workshops may register online at SingaporeSports.sg/SportsPhotography
+9. "I am delighted to share my experience and expertise on sports photography with the many talented photographers we have in our midst," said Mr Boyce.
 
-11 The Inspiring Sporting Singapore Photography Exhibition and sports photography workshops are part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it playing, watching, cheering or volunteering for sports.
+10. 30 slots per sports photography workshop are available on a first-come-first-serve basis. Photographers who are interested in attending the complimentary workshops may register online at SingaporeSports.sg/SportsPhotography
+
+11. The Inspiring Sporting Singapore Photography Exhibition and sports photography workshops are part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it playing, watching, cheering or volunteering for sports.
 
 -End-
 
