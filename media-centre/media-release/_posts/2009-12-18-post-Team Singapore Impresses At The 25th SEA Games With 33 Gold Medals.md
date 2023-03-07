@@ -173,16 +173,16 @@ List of Medal Winners**
 | | Men's 10m Air Pistol 60 Shots	| Lim Swee Hon Nigel<br>Gai Bin<br>Poh Lip Meng | Gold |
 | | Women's 50m Rifle 3 Positions 3 x 20 (INDV)	| Ser Xiang Wei Jasmine	| Gold |
 | | Men's 50m Pistol 60 Shots(TEAM)	| Lim Swee Hon Nigel<br>Gai Bin<br>Poh Lip Meng | Gold |
-| | Men's 10 m Air Rifle (INDV)	Koh Tien Wei Jonathon	| Silver |
-| | Men's 25m Standard Pistol (INDV)	Gai Bin	| Silver |
-| | Men's 10m Air Pistol 60 Shots (INDV)	Poh Lip Meng	| Silver |
+| | Men's 10 m Air Rifle (INDV)	| Koh Tien Wei Jonathon	| Silver |
+| | Men's 25m Standard Pistol (INDV)	| Gai Bin	| Silver |
+| | Men's 10m Air Pistol 60 Shots (INDV)	| Poh Lip Meng	| Silver |
 | | Women's 50m Rifle 3 Positions 3 x 20	| Lim Chea Rong<br>Ser Xiang Wei Jasmine<br>Aqilah Binte Sudhir	| Silver |
 | | Men's 50m Free Pistol 60 Shots(INDV)	| Gai Bin	| Silver |
 | | Women's 10m Air Rifle (TEAM)	| Haw Siew Peng<br>Goh Jia Yi<br>Aqilah Binte Sudhir | Bronze |
 | | Men's 25m Standard Pistol (TEAM)	| Gai Bin<br>On Shaw Ming<br>Poh Lip Meng | Bronze |
-| | Men's 50m Rifle Prone 60 Shots	Ong Jun Hong<br>Zhang Jin | Bronze |
+| | Men's 50m Rifle Prone 60 Shots	| Ong Jun Hong<br>Zhang Jin | Bronze |
 | | Women's 50m Rifle 3 Positions 3 x 20 (INDV)	| Aqilah Binte Sudhir	| Bronze |
-| | 25m Center Fire Pistol Team	Gai Bin<br>Poh Lip Meng<br>On Shaw Ming | Bronze|
+| | 25m Center Fire Pistol | Team	Gai Bin<br>Poh Lip Meng<br>On Shaw Ming | Bronze|
 | Silat | Tunggal Female Single	| Rabiatul Adawiyah Yusak	| Gold |
 | | Female Class B (50-55kg)	| Nur Dinniyati Julaimi	| Silver |
 | | Men's Class G (75-80kg)	| Mohd Shakir Juanda	| Silver |
@@ -243,8 +243,4 @@ List of Medal Winners**
 | | Duilian Barehand (Men's Taolu)	| Tay Wei Sheng Jaryl<br>Fung Jin Jie<br>Seah Kah Yeap Samuel | Silver |
 | Waterpolo | Men's| 	Andy Chin<br>Eugene Teo<br>Kelvin Ong<br>Kenneth Wee<br>Lim Yaoxiang<br>Lin Diyan<br>Lin Diyang<br>Luo Nan<br>Nigel Tay<br>Samuel Loh<br>Terence Tan<br>Yip Renkai | Gold |
 __________________________________________________
-Note: Highlights Debutant Medallist	
-
-
-
-
+Note: Highlights Debutant Medallist
