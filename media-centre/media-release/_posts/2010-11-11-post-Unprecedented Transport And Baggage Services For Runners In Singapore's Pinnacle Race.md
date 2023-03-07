@@ -11,7 +11,8 @@ image: ""
 
 UNPRECEDENTED TRANSPORT AND BAGGAGE SERVICES FOR RUNNERS IN SINGAPORE'S PINNACLE RACE
 Comprehensive Pre-Race And Post-Race Transportation Options And Different Baggage Facilities Catered For All Three Routes
-Singapore, 11 November 2010 - With three different routes and a record number of 60,000 participants in the inaugural Standard Chartered Marathon Singapore (SCMS) 2010, the Singapore Sports Council (SSC), the organiser of the Marathon, has prepared extensive transportation services and a comprehensive baggage handling system to ensure a smooth and enjoyable race experience for all runners on 5 December 2010.
+
+**Singapore, 11 November 2010** - With three different routes and a record number of 60,000 participants in the inaugural Standard Chartered Marathon Singapore (SCMS) 2010, the Singapore Sports Council (SSC), the organiser of the Marathon, has prepared extensive transportation services and a comprehensive baggage handling system to ensure a smooth and enjoyable race experience for all runners on 5 December 2010.
 
 2 Commenting on this year's transportation and baggage handling services, David Voth, Chairman, SCMS 2010 Organising Committee, and Senior Director, Sports Marketing Group, SSC, said, "Providing convenience to the runners is key to delivering a memorable race experience. The organising committee has given much thought and conducted extensive research with regards to the transportation and baggage handling services. What we have in place is unprecedented and will ultimately contribute to the success of the event."
 
