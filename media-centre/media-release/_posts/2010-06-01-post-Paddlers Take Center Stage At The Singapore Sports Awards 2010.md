@@ -102,133 +102,27 @@ The diversity of sports represented by the winners is a telling comment on how f
 || Tao Li | Swimming |
 || Ser Xiang Wei Jasmine | Shooting |
 || Zhang Guirong | Athletics |
-<hr>
+<br>
 
 **2)   SPORTSBOY/SPORTSGIRL AWARDS**
-
-
-Awards
-
-Awardees
-
-Sports
-
-Sportsboy of the Year
-
-Darren Choy
-
- 
-
-Sailing
-
-Sportsgirl of the Year
-
-Elizabeth Yin Yueling
-
- 
-
-Sailing
-
-Team of the Year (Event)
-
-National Women Youth 10m Air Rifle Shooting Team
-
-Carol Lee,Vanessa Ong, Sarena Lin
-
- 
-
-Shooting
-
-Meritorious Award
-
-(Team Sport)
-
-National Men/Women Mixed Junior Dragon Boat Team
-
-26 females, 24 males
-
- 
-
-Dragon Boat
-
-Meritorious Award
-
-(Team Event)
-
-National Girls Bowling Doubles Team
-
-New Hui Feng/Krishna Darshini
-
- 
-
-Bowling
-
-National 420 Girls Optimist Team
-
-Griselda Khng, Cecilia Low
-
- 
-
-Sailing
-
-National Men Youth 10m Air Rifle Shooting Team
-
-Abel Lim, Wan Tian Chong, Cheston Ow
-
- 
-
-Shooting
-
-Meritorious Award (Individual)
-
-Basil Low Eng Howe
-
- 
-
-Bowling
-
-New Hui Fen
-
- 
-
-Bowling
-
-Caroline Chew Pei Jia
-
- 
-
-Equestrian
-
-Poh Swee Kiat
-
- 
-
-Golf
-
-Nur Izzati Ismail
-
- 
-
-Petanque
-
-Terence Choo Jian Jie
-
- 
-
-Sailing
-
-Najwa Jumali
-
- 
-
-Sailing
-
-Germaine Teo Wei Yin
-
- 
-
-Sailing
-
+<br>
+| Awards | Awardees | Sports |
+|--|--|--|
+|Sportsboy of the Year | Darren Choy | Sailing |
+|Sportsgirl of the Year | Elizabeth Yin Yueling | Sailing |
+| Team of the Year<br>(Event) | National Women Youth 10m Air Rifle Shooting Team<br>Carol Lee,Vanessa Ong, Sarena Lin | Shooting |
+| Meritorious Award<br>(Team Sport) | National Men/Women Mixed Junior Dragon Boat Team<br>26 females, 24 males | Dragon Boat |
+| Meritorious Award<br> (Team Event) | National Girls Bowling Doubles Team<br>New Hui Feng/Krishna Darshini | Bowling |
+|| National 420 Girls Optimist Team<br>Griselda Khng, Cecilia Low | Sailing |
+|| National Men Youth 10m Air Rifle Shooting Team<br>Abel Lim, Wan Tian Chong, Cheston Ow | Shooting |
+| Meritorious Award (Individual) | Basil Low Eng Howe | Bowling |
+|| New Hui Fen | Bowling |
+|| Caroline Chew Pei Jia | Equestrian |
+|| Poh Swee Kiat | Golf |
+|| Nur Izzati Ismail | Petanque |
+|| Terence Choo Jian Jie | Sailing |
+|| Najwa Jumali | Sailing |
+|| Germaine Teo Wei Yin | Sailing |
 ||Ho Ruth Airiel | Sailing |
 || Chai Xun | Sailing |
 || Goh Jia Yi | Shooting |
@@ -250,6 +144,7 @@ Sailing
 || Emily Sin Min Li | Wushu |
 || Sim Ren Zoe | Wushu |
 || Tan Xiang Ting | Wushu |
+<br>
 
 **3)   IOC AWARDS**
 <br>
