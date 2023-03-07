@@ -26,9 +26,6 @@ NBA Players and Coaches to train and mentor 51 youth campers in Basketball witho
 
 *List of players participating in 2010 Basketball without Borders Asia
 
-
-
-
 | Country | First name | Last name | Country | First name | Last name |
 | -------- | -------- | -------- |-------- | -------- | -------- |
 | Australia | Corey | Maynard |  Kazakhstan | Shaim | Kuanov |
@@ -37,127 +34,23 @@ NBA Players and Coaches to train and mentor 51 youth campers in Basketball witho
 | Australia | Josh | Wilcher | Korea | Sooyone | Bae |
 | Australia | Jan | Warbout | Korea | Nakhyeon | Kim |
 |China | Hanlin | Tao | Korea | Juhyeong | Lee |
-China
-Yingliang
-Wang
-Kyrgyzstan
-Alexsandr
-Adeikin
-China
-Dayu
-Zhang
-Kyrgyzstan
-Evgenii
-Pekhov
-China
-Fei
-Cao
-Lebanon
-Constantin
-Kodsi
-China
-Azati
-Xiaokelaiti
-Lebanon
-Karam
-Mechref
-Chinese Taipei
-Kang-Chiao
-Hung
-New Zealand
-Christopher
-Duthie
-Chinese Taipei
-Ying-Chun
-Chen
-New Zealand
-Jordan
-Ngatai
-India
-Somvir
-Somvir
-Philippines
-Mario Emmanuel
-Bonleon
-India
-Sunny
-Raut
-Philippines
-Gian Carlo
-Go
-India
-Satnam Singh
-Bharama
-Qatar
-Abduallah Shaher
-Matalkeh
-Indonesia
-Dewah
-Wiratno
-Singapore
-Hua Sen Larry
-Liew
-Iran
-Amir
-Sedighi
-Singapore
-Wenqiang Russel
-Low
-Iran
-Arman
-Zangeneh
-Singapore
-Zhao Feng
-Ng
-Iran
-Ghahraman
-Omari
-Singapore
-Jia Jun
-Fong
-Iran
-Meisam
-Mirzaei
-Talarposhti
-Syria
-Mohammad
-Otabachi
-Iran
-Farshad
-Kharazmi
-Turkmenistan
-Muradberdy
-Bazarbayev
-Japan
-Yuya
-Nagayoshi
-UAE
-Omer Khalid Faqqas
-Omar Al Ameri
-Japan
-Tenketsu
-Harimoto
-UAE
-Qais Omar
-Al Shabebi
-Jordan
-Ahmad
-Dwairi
-Uzbekistan
-Denis
-Timofeev
-Jordan
-Ahmed
-Nofal
-Vietnam
-Le
-Dat
-Kazakhstan
-Dmitriy
-Tsoy
-
-
-
-
-
-
+| China | Yingliang | Wang | Kyrgyzstan | Alexsandr | Adeikin |
+| China | Dayu | Zhang | Kyrgyzstan | Evgenii | Pekhov |
+| China | Fei | Cao | Lebanon | Constantin | Kodsi |
+| China | Azati | Xiaokelaiti | Lebanon | Karam | Mechref |
+| Chinese Taipei | Kang-Chiao | Hung | New Zealand | Christopher | Duthie |
+| Chinese Taipei | Ying-Chun | Chen | New Zealand | Jordan | Ngatai |
+| India | Somvir | Somvir | Philippines | Mario Emmanuel |Bonleon |
+| India | Sunny | Raut | Philippines | Gian Carlo |Go |
+| India | Satnam Singh | Bharama | Qatar |Abduallah Shaher |Matalkeh |
+| Indonesia | Dewah | Wiratno | Singapore |Hua Sen Larry |Liew |
+| Iran | Amir | Sedighi | Singapore | Wenqiang Russel |Low |
+| Iran | Arman | Zangeneh | Singapore  |Zhao Feng |Ng |
+| Iran | Ghahraman | Omari | Singapore | Jia Jun |Fong |
+| Iran | Meisam |Mirzaei | Talarposhti | Syria | Mohammad | Otabachi |
+| Iran | Farshad |Kharazmi | Turkmenistan |Muradberdy | Bazarbayev |
+| Japan | Yuya |Nagayoshi | UAE | Omer Khalid Faqqas | Omar Al Ameri |
+| Japan | Tenketsu | Harimoto | UAE | Qais Omar | Al Shabebi |
+| Jordan | Ahmad | Dwairi | Uzbekistan | Denis | Timofeev |
+| Jordan | Ahmed | Nofal | Vietnam |Le | Dat |
+| Kazakhstan | Dmitriy | Tsoy |
