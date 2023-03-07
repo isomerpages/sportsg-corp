@@ -17,11 +17,11 @@ The limited edition Team Singapore x Giordano collection of merchandise includes
 
 Five athletes showcased the collection earlier today – Olympic gymnast Lim Heem Wei, sprinter UK Shyam, Wushu exponent Tao Yi Jun, water polo player Lim Yao Xiang and Paralympic swimmer Theresa Goh. These athletes know personally the importance of home ground support and how much it means to see and hear supporters in the stands as they compete.
 
-“Seeing a venue filled with people wearing red and hearing the crowd roar will touch the athletes immensely” said water polo player Lim Yao Xiang. His sentiments were echoed by Paralympic swimmer Theresa Goh, who said, “I will definitely be wearing red when supporting my fellow swimmers at the upcoming Games as a sign of solidarity. We are One Team Singapore.”
+“Seeing a venue filled with people wearing red and hearing the crowd roar will touch the athletes immensely,” said water polo player Lim Yao Xiang. His sentiments were echoed by Paralympic swimmer Theresa Goh, who said, “I will definitely be wearing red when supporting my fellow swimmers at the upcoming Games as a sign of solidarity. We are One Team Singapore.”
 
 Mr Toh Boon Yi, Chief, Strategic Development and Marketing Group, Sport Singapore said, “I am heartened to see companies such as Giordano step forward to show their support for Team Singapore. Specifically through Giordano’s involvement, we hope to see Singaporeans fill all competition venues with a sea of red. Together, we are ready to cheer as One Team Singapore.”
 
-“We are excited and honoured to be a part of the Games in supporting all Team Singapore athletes once again as they gun for glory. We hope to see Singaporeans of all walks of life turning up in the merchandise, RED-Y to show their support. With Singapore hosting the Games this round, there is no better time to wear RED.” said Mr Patrick Yeo, Director of South East Asia Operations, Giordano.
+“We are excited and honoured to be a part of the Games in supporting all Team Singapore athletes once again as they gun for glory. We hope to see Singaporeans of all walks of life turning up in the merchandise, RED-Y to show their support. With Singapore hosting the Games this round, there is no better time to wear RED,” said Mr Patrick Yeo, Director of South East Asia Operations, Giordano.
 
 **Giordano supports SportCares**
 
