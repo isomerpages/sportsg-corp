@@ -347,19 +347,7 @@ Athletes
 | 186.  |Sailing | Dawn Liu Xiaodan| 刘晓丹| 23| F| √   | 470 Women
 | 187.   | Sailing | Joshua Choo Meng Keong| 朱明强| 21| M| √   |  IMCO Mistral (M)
 | 188. | Sailing | Justin Liu Xiaman| 刘遐满| 19| M| | 420 Boy
-| 189.        
-
-Justin Wong Ming Ho
-
-黄明豪
-
-24
-
-M
-
- 
-
-Hobie 16 Open
+| 189. | Sailing | Justin Wong Ming Ho| 黄明豪| 24| M| Hobie 16 Open
 
 190.        
 
