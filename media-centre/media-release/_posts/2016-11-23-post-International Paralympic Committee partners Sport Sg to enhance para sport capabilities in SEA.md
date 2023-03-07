@@ -26,22 +26,24 @@ Ryan Montgomery, IPC Summer Sports Director said: “As the global governing bod
   
 Coaches interested in Para sport can find out more on upcoming courses in early 2017 by emailing Info\_ParaSports@sport.gov.sg
 
-#### **Annex A: Para sport programmes**
+---
+
+**Annex A: Para sport programmes**
 
 **IPC Academy Educator Programme**
 
-Date:  19 to 21 November 2016  
-Time:  0900 to 1800 daily  
-No of pax: 5  
-Target:  Singapore coaches
+Date: 19 to 21 November 2016 <br> 
+Time: 0900 to 1800 daily <br> 
+No of pax: 5  <br>
+Target: Singapore coaches
 
 The IPC Academy Educator course, held 19-21 November, will train five Singaporean coaches on how to become Educators and expand their ability to train not just their athletes, but other coaches in Para sports. The course will be led by Simon Jones from the World Academy of Sport, an education partner of the IPC.
 
 **IPC Introduction to Para Sports Coaching Programme**
 
-Date:  22 to 23 November 2016  
-Time:  0900 to 1800 daily  
-No of pax: Up to 50pax (two sessions, 25 pax each)  
-Target:  Singapore, overseas coaches of Southeast Asian countries
+Date: 22 to 23 November 2016  <br>
+Time: 0900 to 1800 daily  <br>
+No of pax: Up to 50pax (two sessions, 25 pax each)  <br>
+Target: Singapore, overseas coaches of Southeast Asian countries
 
 Following up on the Educator course, the IPC Academy will then hold an introductory course for people interested in coaching Para sports. The IPC Introduction to Para Sports Coaching Programme will be the first time it’s being hosted.
