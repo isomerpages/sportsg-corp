@@ -74,7 +74,4 @@ MAP AWARDS RECIPIENTS
 ||| Zhang Guirong | Women's Shot Put | 1 | $10,000| Individual ||
 | 2 | Cuesports | Ang Boon Chin | Men's Snooker Doubles | 1 | $15,000 | Team Event ||
 ||| Lim Chun Kiat |
-
-
-
-
+||| Peter Edward Gilchrist | Men's Billiards Singles | 1 | $10,000 | Individual ||
