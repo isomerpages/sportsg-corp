@@ -21,7 +21,7 @@ Similarly, for the Nila Run, the 10km run will flag-off after the SEA Games Mara
 
 SEA Games organisers also hope that after watching the SEA Games athletes complete the Marathon, members of the public will be encouraged to spend the rest of their weekend at the surrounding competition venues, including the Sports Hub. Visitors to the Sports Hub during the 28th SEA Games can expect a carnival of activities in addition to the 10 sports happening at the National Stadium, OCBC Aquatic Centre, OCBC Arena and Singapore Indoor Stadium.
 
-**Events taking place in the East Cluster on 6 June include:**
+##### **Events taking place in the East Cluster on 6 June include:**
 
 * Boxing (Expo)  
 * Chinlone (Expo)  
@@ -30,8 +30,8 @@ SEA Games organisers also hope that after watching the SEA Games athletes comple
 * Triathlon (East Coast Park)  
 * Sailing (National Sailing Centre)  
 
-**Events taking place at the Sports Hub and in the Kallang Cluster on 7 June include:**
-                          
+##### **Events taking place at the Sports Hub and in the Kallang Cluster on 7 June include:**
+
 * Carnival of activities at Sports Hub  
 * Athletics, Marathon (Home of Athletics)  
 * Table Tennis (Singapore Indoor Stadium)  
@@ -39,6 +39,3 @@ SEA Games organisers also hope that after watching the SEA Games athletes comple
 * Billiards & Snookers (OCBC Arena)  
 * Softball (Kallang Softball Field)  
 * Tennis (Kallang Tennis Centre)
-  
-
-END
