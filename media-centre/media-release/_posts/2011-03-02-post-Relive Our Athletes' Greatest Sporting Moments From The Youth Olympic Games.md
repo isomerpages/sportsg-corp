@@ -37,40 +37,40 @@ SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photog
 
 Annex A - List of 17 SSC Sports & Recreation Centres
 <br>
-1. Ang Mo Kio Swimming Complex
+**1. Ang Mo Kio Swimming Complex**
 <br>1771 Ang Mo Kio Ave 1 (569978)
 
-2. Bedok Swimming Complex
+**2. Bedok Swimming Complex**
 <br>901 New Upper Changi Road (467355)
 
-3. Bukit Batok Swimming Complex
+**3. Bukit Batok Swimming Complex**
 <br>2 Bukit Batok St. 22 (659581)
 
-4. Buona Vista Swimming Complex
+**4. Buona Vista Swimming Complex**
 <br>76 Holland Drive (278938)
 
-5. Choa Chu Kang Swimming Complex
+**5. Choa Chu Kang Swimming Complex**
 <br>1 Choa Chu Kang St 53 (689236)
 
-6. Clementi Swimming Complex
+**6. Clementi Swimming Complex**
 <br>520 Clementi Ave 3 (129908)
 
-7. Delta Swimming Complex
+**7. Delta Swimming Complex**
 <br>900 Tiong Bahru Road (158790)
 
-8. Geylang East Swimming Complex
+**8. Geylang East Swimming Complex**
 <br>601 Aljunied Crescent (389862)
 
-9. Hougang Swimming Complex
+**9. Hougang Swimming Comple**x
 <br>95 Hougang Ave 4 (538830)
 
-10. Jurong East SRC
+**10. Jurong East SRC**
 <br>21 Jurong East Street 31 (609517)
 
-11. Jurong West SRC
+**11. Jurong West SRC**
 <br>20 Jurong West Street 93 (648965)
 
-12. Kallang Basin Swimming Complex
+**12. Kallang Basin Swimming Complex**
 <br>21 Geylang Bahru Lane (339627)
 
 13. Sengkang SRC
