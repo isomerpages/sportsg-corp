@@ -88,9 +88,9 @@ Providing accurate and complete whereabouts information to ADS when included int
 
 Immediately update any information in a previously provided whereabouts filing if it is incomplete, inaccurate or has changed.
 
-For the case of the ADS RTP athlete only - being accessible daily for testing during the 60-minute time slot chosen by the athlete at the precise location specified on the whereabouts filing for the entire 60-minute period and at the other regular locations set forth in the athlete's whereabouts filing at the times specified; and
+**For the case of the ADS RTP athlete only** - being accessible daily for testing during the 60-minute time slot chosen by the athlete at the precise location specified on the whereabouts filing for the entire 60-minute period and at the other regular locations set forth in the athlete's whereabouts filing at the times specified; and
 
-For the case of the ADS DTP athlete only - being accessible for testing at the regular locations set forth in the athlete's whereabouts filing at the times specified. 
+**For the case of the ADS DTP athlete only** - being accessible for testing at the regular locations set forth in the athlete's whereabouts filing at the times specified. 
 
 **WHEREABOUTS FILING REQUIREMENTS**
 
