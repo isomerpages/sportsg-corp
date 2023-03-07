@@ -35,7 +35,7 @@ The Inaugural Singapore National Games Came To A Close With A Bang As More Than 
 
 12. For more information, please visit [www.singaporenationalgames.sg](www.singaporenationalgames.sg).
 
--End-
+---
 
 **Annex A: Winners of the Sports Challenge Shield and Community Challenge Shield and selection criteria for both accolades**
 
@@ -49,12 +49,12 @@ The Inaugural Singapore National Games Came To A Close With A Bang As More Than 
 <br>1st Runner-Up: Chua Chu Kang
 <br>2nd Runner-Up: Jurong
 
-Sports Challenge Shield
+**Sports Challenge Shield** <br>
 The Sports Challenge Shields are awarded to recognise the top 3 Clusters for their sports performance and participation in the Singapore National Games.
 
 Points will be awarded based on 2 components - Excellence and Participation:
 
-(a) Excellence
+**(a) Excellence**<br>
 * Constitutes 70% of the total points
 
 Clusters in the top eight positions of every sports competition event will be given points.
@@ -63,14 +63,14 @@ For team events, the points will be multiplied by the number of athletes partici
 
 For special Athletics and Swimming relay events known as the All CARE (Channels, Age, Race, Estate) relays, points will be doubled to reward the Clusters for fielding a mixed team comprising different gender, age groups and races.
 
-(b) Participation
+**(b) Participation**<br>
 * Constitutes 30% of the total points
 
 Each Cluster will be awarded points based on the total number of sports participants registered during the Community Games and Singapore National Games. This is to encourage and recognise the contribution of every athlete from each Cluster.
 
 The top 3 Clusters with the highest points accumulated from the Excellence and Participation components shall be declared Winners of the Sports Challenge Shields.
 
-**Community Challenge Shield**
+**Community Challenge Shield**<br>
 The Community Challenge Shield is an Overall Award accorded to recognise the Cluster for their best engagement outcomes/efforts to engage and bond their residents in the Community Games (CG) and Singapore National Games (SNG).
 
 The Overall Award comprises four categories, they are as follows:-
@@ -84,7 +84,8 @@ The Overall Award comprises four categories, they are as follows:-
 
 The winners of the four categories will be given points based on a points system, where the cluster with the highest accumulative points won from the four categories will be declared the Overall Winner of the Community Challenge Shield.
 
-Annex B: SNG Sports Points System for Sports Challenge Shield and Community Challenge Shield
+**Annex B**<br>
+**SNG Sports Points System for Sports Challenge Shield and Community Challenge Shield**
 
 1. Objectives
 * Implement a fair and competitive scoring system
@@ -140,7 +141,7 @@ The Singapore National Games saw more than 5,000 community athletes from 15 clus
 
 
 **For media enquiries, please contact:**
-<br>
+
 U-Lynn LEE
 <br>Fulford Public Relations 
 <br>Email: ullee@fulfordpr.com
