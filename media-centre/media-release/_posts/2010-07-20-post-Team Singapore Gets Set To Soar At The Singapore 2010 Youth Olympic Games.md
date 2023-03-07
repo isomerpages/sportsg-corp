@@ -431,7 +431,36 @@ Freestyle 60 kg (W)
 
 
 
+Annex B - Profile Of Chef De Mission
 
+James Wong
+Chef de Mission, Singapore
 
+James Wong is one of Team Singapore's most prolific athletes in our nation's short sporting history. Having won nine Gold Medals in total at the SEA Games, the discus thrower also holds the national record for discus throwing.
 
+He was Sportsman of the Year in 2004 and the Singapore Youth Award 2004 winner - a tribute to a long competitive career that culminated in his appointment as the Chef de Mission at the inaugural Youth Olympic Games to be held in Singapore.
 
+James is a great source of inspiration and motivation to the young Team Singapore athletes who will be led by him into this historic sporting event.
+
+Hailed as one of the top 50 athletes in Singapore, James is glad that our young Team Singapore athletes get to compete against the best of youth as it will strengthen their belief that Singapore can compete at an international level. He also has faith that our athletes can put on an impressive display of excellence, friendship and respect, making our national a household name in the sports world.
+
+For media enquiries on Team Singapore, please contact:
+Lin Kuek
+Caelan & Sage Pte Ltd
+Office: 6297 0636
+Email: lin@caelansage.com
+
+Tanty Nazlianah Rosli
+Manager
+Public & Media Relations
+Singapore Sports Council
+Office: 6500 5241
+Email:tanty_nazlianah@ssc.gov.sg
+
+For media queries on NTUC FairPrice Foundation Sports Scholarship, please contact:
+Winston Ng
+Corporate Communications
+NTUC FairPrice
+DID: 6424 7895
+Email: Winston.ng@fairprice.com.sg
+ 
