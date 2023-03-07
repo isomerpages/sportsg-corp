@@ -104,13 +104,13 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 Team Events
 ||| | | |
 | -------- | -------- | -------- | -------- | -------- 
-| Bowling     | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  | Gold  | $320,000.00
+| Bowling     | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi | Gold  | $320,000.00
 
 
 
 Gold
 
-Shayna NG Lin Zhi
+
 
 Gold
 
