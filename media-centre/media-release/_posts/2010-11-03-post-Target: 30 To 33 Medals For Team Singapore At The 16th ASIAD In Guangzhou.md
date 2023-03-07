@@ -128,17 +128,9 @@ TEAM SINGAPORE FLAG BEARER: Jasmine Yeong-Nathan
 <br>
 TEAM SINGAPORE'S PARTICIPATION: 22 sports
 
- 
-
- 
-
-Sport
-
-Date
-
-Aquatics - Swimming
-
-13 - 18 November 2010
+ | Sport | Date
+| -------- | -------- 
+| DateAquatics - Swimming | 13 - 18 November 2010
 
 Aquatics - Water-polo
 
