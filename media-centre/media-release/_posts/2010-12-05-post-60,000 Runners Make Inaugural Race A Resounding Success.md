@@ -46,11 +46,7 @@ Full Marathon Results - Women's Individual
 | No. | Name | Country | Finishing Time |
 | -------- | -------- | -------- | -------- |
 | 1 | Irene Jerotich Kosgei |Kenya | 02:35.22
-| 2 | Ayelu Lemma Geda
-
-Ethiopia
-
-02:35.31
+| 2 | Ayelu Lemma Geda |Ethiopia |02:35.31
 
 3
 
