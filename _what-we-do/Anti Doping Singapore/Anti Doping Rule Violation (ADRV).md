@@ -94,3 +94,5 @@ Sanctions for violating anti-doping rule violations may range from a reprimand t
 For in-competition testing, this will automatically include disqualification of results attained in the competition and the forfeit of any medals, points, and/or prizes. All results of any competitions following collection of the sample may also be disqualified.
 
 An athlete or athlete support personnel who is serving a period of ineligibility arising from an anti-doping rule violation committed in a sport is not allowed to participate in any other sport at any level during the period of ineligibility.
+
+![Sanctions](/images/What%20We%20Do/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Sanctions.jpg)
