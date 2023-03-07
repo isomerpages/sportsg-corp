@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **More Opportunities For Children To Receive Better Coaching In Football**
+### **More Opportunities For Children To Receive Better Coaching In Football**
 ![](/images/Media%20Centre/Media%20Release/2013/Dec/newsroom.jpeg)
 **Singapore, 6 December 2013** - The Football Association of Singapore (FAS) has today concluded its fourth annual FIFA Grassroots Course and Festival, with some of its participants set to conduct junior football programmes in collaboration with the Singapore Sports Council's (SSC's) rebranded network of Super Sports Clubs, ActiveSG.
 
@@ -26,12 +26,12 @@ image: ""
 
 9. A team of Final Year Project (FYP) students from RP's School of Sports, Health and Leisure worked closely with FAS to prepare a presentation on the importance of grassroots coaching in Singapore, which was delivered during the course. RP is the only polytechnic in Singapore that has a dedicated school for the education of future sports professionals, utilising its unique Problem-based Learning (PBL) pedagogy.
 
--END-
+---
 
 [Annex](/files/Media%20Centre/Media%20Release/2013/Dec/Annex.pdf): Bio Profile of Samuel Schweingruber
 
 **For media enquiries, please contact:**
-<br>
+
 Jemuel Fu
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
@@ -58,7 +58,7 @@ Organising and running league and cup competitions, the stewardship of internati
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg,]( www.ssc.gov.sg,) [www.Vision2030.sg](www.Vision2030.sg) and [www.SingaporeSports.sg](www.SingaporeSports.sg).
-<br>
+
 Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
-<br>
+
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
