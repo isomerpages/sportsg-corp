@@ -28,11 +28,11 @@ image: ""
 
 -End-
 
-**About Singapore National Olympic Council**
+[**About Singapore National Olympic Council**](https://www.singaporeolympics.com/)
 <br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-**About the Singapore Sports Council**
+[**About the Singapore Sports Council**](www.sportsingapore.gov.sg)
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
@@ -87,7 +87,7 @@ The diversity of sports represented by the winners is a telling comment on how f
 || National Women 4x100m Freesytle Relay Swimming Team<br>Quah Ting Wen, Amanda Lim, Lynette Lim, Mylene Ong | Swimming |
 ||National Men 10m Air Rifle Shooting Team<br>Poh Lip Meng, Gai Bin, Lim Swee Hon |
 || National Men 4x100m Relay Athletic Team<br>Yeo Foo Ee, Elfi Mustapha, Lee Cheng Wei, Amiruddin Jamal, Poh Seng Song, Izwan Firdaus Hanif | Athletics |
-| Meritorious Award (Individual) | Wang Yuegu | Table Tennis |
+| Meritorious Award<br>(Individual) | Wang Yuegu | Table Tennis |
 || Yu Mengyu | Table Tennis |
 || Seet Wee Key | Wushu |
 || Khor Poh Chin | Wushu |
@@ -115,7 +115,7 @@ The diversity of sports represented by the winners is a telling comment on how f
 | Meritorious Award<br> (Team Event) | National Girls Bowling Doubles Team<br>New Hui Feng/Krishna Darshini | Bowling |
 || National 420 Girls Optimist Team<br>Griselda Khng, Cecilia Low | Sailing |
 || National Men Youth 10m Air Rifle Shooting Team<br>Abel Lim, Wan Tian Chong, Cheston Ow | Shooting |
-| Meritorious Award (Individual) | Basil Low Eng Howe | Bowling |
+| Meritorious Award<br>(Individual) | Basil Low Eng Howe | Bowling |
 || New Hui Fen | Bowling |
 || Caroline Chew Pei Jia | Equestrian |
 || Poh Swee Kiat | Golf |
