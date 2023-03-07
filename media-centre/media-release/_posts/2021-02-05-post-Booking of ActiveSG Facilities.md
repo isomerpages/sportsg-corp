@@ -12,5 +12,3 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2021/February/Media%20Statement%20Booking%20of%20ActiveSG%20Facilities%20copy_page-0001.jpeg)
 ![](/images/Media%20Centre/Media%20Release/2021/February/Media%20Statement%20Booking%20of%20ActiveSG%20Facilities%20copy_page-0002.jpeg)
-
-[Download Media Release](/files/Media%20Centre/Media%20Release/2021/February/Media%20Statement%20Booking%20of%20ActiveSG%20Facilities%20copy.pdf)
