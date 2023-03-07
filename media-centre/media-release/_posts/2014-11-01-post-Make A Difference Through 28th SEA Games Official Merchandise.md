@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **Make A Difference Through 28th SEA Games Official Merchandise**
-_**Opened in the heart of the city, the first official merchandise store offers over 100 items**_
+_Opened in the heart of the city, the first official merchandise store offers over 100 items_
 
 The journey to the 28th Southeast Asian (SEA) Games continues with the launch of official SEA Games merchandise and the opening of the first SEA Games merchandise store: another key milestone in the lead up to the Games in Singapore in June 2015. Besides looking to drum up excitement in the lead up to the SEA Games’ return to Singapore, the store also strives to contribute to a greater cause - supporting social good.
 
@@ -25,20 +25,19 @@ The journey to the 28th Southeast Asian (SEA) Games continues with the launch of
 
 8. Team Singapore swimmer Danny Yeo said, “I am looking forward to bringing home with me a few items from the store, especially since I know that each purchase I make will go back to the community who has shown immense support for the Team Singapore athletes over the years.”
 
-9. For those who would like to take home a part of the Games while making a positive difference, the official SEA Games 2015 merchandise store is located along Orchard Road, in front of Wisma Atria and will be open from 11am to 10pm daily. The official merchandise will also be available online from the 17th of November onwards at  [shop.seagames2015.com](http://shop.seagames2015.com/).
+9. For those who would like to take home a part of the Games while making a positive difference, the official SEA Games 2015 merchandise store is located along Orchard Road, in front of Wisma Atria and will be open from 11am to 10pm daily. The official merchandise will also be available online from the 17th of November onwards at [shop.seagames2015.com](http://shop.seagames2015.com/).
 
-END
+---
 
 **For media enquiries, please contact:**
 
-Rachel Ang  
-Senior Executive, Public Relations and Strategic Communications, SINGSOC  
-Tel: +65 6500 5246  
-HP: +65 9729 3700  
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+Rachel Ang<br>
+Senior Executive, Public Relations and Strategic Communications, SINGSOC<br>
+Tel: +65 6500 5246<br>
+HP: +65 9729 3700<br>
+Email:[rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
-Gerald Leong  
-Executive, Public Relations and Strategic Communications, SINGSOC  
-HP: +65 9298 2670  
-Email: [gerald\_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)
-
+Gerald Leong<br>
+Executive, Public Relations and Strategic Communications, SINGSOC<br>
+HP: +65 9298 2670<br>
+Email:[gerald\_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)
