@@ -21,43 +21,11 @@ SSC VENUES TO BE USED AS RALLY SITES FOR GE 2011
 -End-
 
 Annex A: Schedule of Designated Use of SSC Facilites for General Election 2011
- 
 
-SSC Facilities Designated for Use
 
-as Rally Sites from 28 April-5 May 2011
-
-(7am-10am, 12pm-3pm, 7pm-10pm)
-
- 
-
-Bedok Stadium
-
-Bishan Stadium
-
-Bukit Gombak Stadium
-
-Delta Hockey Field
-
-Choa Chu Kang Stadium
-
-Clementi Stadium
-
-Jurong East Stadium
-
-Jurong West Stadium
-
-Serangoon Stadium
-
-Tampines Stadium
-
-Toa Payoh Stadium
-
-Woodlands Stadium
-
-Yio Chu Kang Stadium
-
-Yishun Stadium
+|   |   |   |
+| -------- | -------- | -------- |
+| SSC Facilities Designated for Use as Rally Sites from 28 April-5 May 2011 (7am-10am, 12pm-3pm, 7pm-10pm) | Bedok Stadium <br>Bishan Stadium <br>Bukit Gombak Stadium <br>Delta Hockey Field <br>Choa Chu Kang Stadium <br>Clementi Stadium <br>Jurong East Stadium <br>Jurong West Stadium <br>Serangoon Stadium <br>Tampines Stadium <br>Toa Payoh Stadium <br>Woodlands Stadium <br>Yio Chu Kang Stadium <br>Yishun Stadium| 
 
  
 
