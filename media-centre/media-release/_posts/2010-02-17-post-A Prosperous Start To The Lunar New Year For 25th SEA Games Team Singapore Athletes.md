@@ -87,14 +87,8 @@ MAP AWARDS RECIPIENTS
 ||| Gai Bin | Men's 50m Pistol Team | 1 | $15,000 | Team Event |
 ||| Poh Lip Meng |
 ||| Lim Swee Hon Nigel |
-
-
-
-
-
-
-
-
+| 5 | Swimming | Quah Ting Wen | Women's 100m Freestyle | 1 | $10,000 | Individual - 1st Gold |
+||||||$5,000 | SEA Games Record - 00:56:03 | Yr '99 - Joscelin - 00:56:05 |
 
 
 
