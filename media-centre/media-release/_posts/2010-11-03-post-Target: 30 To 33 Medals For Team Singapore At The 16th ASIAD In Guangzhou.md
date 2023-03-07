@@ -308,37 +308,9 @@ Athletes
 | 146. | Football | Rizawan Abdullah | NA | 23 | M |√    |Team (M)
 |147. |Golf|Choo Tze Huang|朱思瑝|23|M||Team (M)|Individual (M)
 |148.|Golf|Gregory Raymund Foo Yong En|符永恩|17|M|√  |Team (M) |Individual (M)
-|149.  |Golf|Johnson Poh Swee Kiat|傅瑞杰
-
-19
-
-M
-
-√   
-
-Team (M)
-
-Individual (M)
-
-150.        
-
-Joshua Shou Mingqing
-
-寿珉庆
-
-20
-
-M
-
-√   
-
-Team (M)
-
-Individual (M)
-
-151.        
-
-Gymnastics
+|149.  | Golf | Johnson Poh Swee Kiat|傅瑞杰|19|M|√   |Team (M)|Individual (M)
+|150.| Golf | Joshua Shou Mingqing|寿珉庆|20|M|√   |Team (M)|Individual (M)
+| 151.  |Golf | Gymnastics
 
 David-Jonathan Chan Thuang Tong
 
