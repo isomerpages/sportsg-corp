@@ -73,14 +73,8 @@ MAP AWARDS RECIPIENTS
 
 | S/N | Sports | Name | Event | GOLD  | MAP  | Category | Old SEA Games Record |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-
-
-
-
-
-
-
+| 1 | Athletics | Wong Tuck Yim James | Men's Discus Throw | 1 | $10,000 | Individual |
+||| Zhang Guirong | Women's Shot Put | 1 | $10,000| Individual ||
 
 
 
