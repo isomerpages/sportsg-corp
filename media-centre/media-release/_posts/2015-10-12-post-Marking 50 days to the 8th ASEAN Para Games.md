@@ -11,7 +11,7 @@ _Opportunities available for the community to come together as One Team Singapor
   
 **Singapore, 12 October 2015** – The Singapore ASEAN Para Games Organising Committee (SAPGOC) today revealed the different community initiatives to involve and excite Singaporeans in the lead up to the Games, build affinity for our Team Singapore athletes, while at the same time, gain insights into this specialised domain of sport.  
   
-Marking the 50-day countdown to the Games, the community can expect to see a ramp up of initiatives from 13 October 2015, such as the “Unbreakable” music video that aims to showcase the indomitable spirit of our athletes, the Gift-a-NILA community initiative and the launch of the “Get RED-y” campaign to rally the community together to support and cheer on our athletes.  
+Marking the 50-day countdown to the Games, the community can expect to see a ramp up of initiatives from 13 October 2015, such as the “Unbreakable” music video that aims to showcase the indomitable spirit of our athletes, the Gift-a-NILA community initiative and the launch of the “Get RED-Y” campaign to rally the community together to support and cheer on our athletes.  
 
 Minister for Culture, Community and Youth Grace Fu said, “In about 50 days, Singapore will host the ASEAN Para Games for the first time. This is an extraordinary opportunity for all of us to experience the power of disability sport. Our athletes are training hard and ready to fly the Singapore flag high. Let’s all come together to support and celebrate our athletes as One Team Singapore!”
 
