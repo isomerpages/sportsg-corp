@@ -398,16 +398,8 @@ Athletes
 | 237.  | Wushu | Khor Poh Chin | 许宝真  | 24  | F| |  Changquan (W)<br>Jianshu (W) <br>Qiangshu All-round (W) 
 | 238.  | Wushu | Lee Tze Yuan  | 李志远  | 19  | M | √  | Taijiquan (M <br>Taijijian All-round (M)
 | 239. | Wushu | Seet Wee Key | 薛伟奇 | 30 | M | √    | Taijiquan (M)<br>Taijijian All-round (M)
-| 240.| Wushu | Tao Yi Jun| 陶奕君| 25| F| Taijiquan (W) <br>Taijijian All-round (W)
-| 241.| Valerie Wee Ling En| 魏灵恩| 21
-
-F
-
-√   
-
-Taijiquan (W)
-
-Taijijian All-round (W)
+| 240.| Wushu | Tao Yi Jun| 陶奕君| 25| F| | Taijiquan (W) <br>Taijijian All-round (W)
+| 241.| Wushu | Valerie Wee Ling En| 魏灵恩| 21| F| √ | Taijiquan (W)<br>Taijijian All-round (W)
 
  
 
