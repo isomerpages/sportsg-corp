@@ -106,21 +106,10 @@ Team Events
 | -------- | -------- | -------- | -------- | -------- 
 | Bowling     | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi | Gold  | $320,000.00
 | Bowling     | Men's Doubles  | Jason YEONG-NATHAN <br>Remy ONG  | Silver | $160,000.00
-| Sailing | Men's Double Handed Dinghy 420 | Justin LIU Xiaman | Gold | $320,000.00
+| Sailing | Men's Double Handed Dinghy 420 | Justin LIU Xiaman <br>Sherman CHENG Feng Yuan | Gold | $320,000.00
+| Sailing | Women's Double Handed Dinghy 42 | Cecilia LOW Rui Qi <br>Rachel LEE Qing | Gold | $320,000.00
 
-Sherman CHENG Feng Yuan
 
-Gold
-
-Women's Double Handed Dinghy 420
-
-Cecilia LOW Rui Qi
-
-Gold
-
-$320,000.00
-
-Rachel LEE Qing
 
 Gold
 
