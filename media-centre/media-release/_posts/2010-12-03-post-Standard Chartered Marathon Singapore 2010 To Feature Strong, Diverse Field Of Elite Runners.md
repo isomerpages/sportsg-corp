@@ -91,23 +91,23 @@ Career Highlights:
 2009 Singapore Marathon, Second (2:34:47)
 
 
-Kenneth Mburu Mungara
-
+**Kenneth Mburu Mungara**
+<br>
 Country: Kenya
-Hometown: Limuru
-Birth Date: 7 September 1973
+<br>Hometown: Limuru
+<br>Birth Date: 7 September 1973
 
 Personal Records:
-Full Marathon: 2:07:58
+<br>Full Marathon: 2:07:58
 
 Kenneth Mburu Mungara is a Kenyan long distance runner who specialises in the Marathon. Having won the Toronto Waterfront Marathon for three consecutive years from 2008 to 2010, Mungara is the current course record holder with a time of 2:07:58 set this year. Mungara has also clinched the 2009 Standard Chartered Mumbai Marathon with a time of 2:11:51, making him the current course record holder of the race.
 
 Career Highlights:
-2007 Mombasa Marathon, Second (2:10:13)
-2008 Tiberias Marathon, Second (2:10:37)
-2008 Prague Marathon, Champion (2:11:06)
-2008 Toronto Waterfront Marathon, Champion (2:11:01)
-2009 Mumbai Marathon, Champion (2:11:51) - Course Record
+<br>2007 Mombasa Marathon, Second (2:10:13)
+<br>2008 Tiberias Marathon, Second (2:10:37)
+<br>2008 Prague Marathon, Champion (2:11:06)
+<br>2008 Toronto Waterfront Marathon, Champion (2:11:01)
+<br>2009 Mumbai Marathon, Champion (2:11:51) - Course Record
 2009 Prague Marathon, Third (2:10:29)
 2009 Toronto Waterfront Marathon, Champion (2:08:32) - Course & Canadian Record
 2010 Toronto Waterfront Marathon, Champion (2:07:58) - Course & Canadian Record
