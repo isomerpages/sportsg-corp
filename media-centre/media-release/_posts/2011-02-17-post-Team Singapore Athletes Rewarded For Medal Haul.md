@@ -110,22 +110,9 @@ Team Events
 | Sailing | Women's Double Handed Dinghy 42 | Cecilia LOW Rui Qi <br>Rachel LEE Qing | Gold | $320,000.00
 | Sailing | Open Hobie-16 | Justin WONG Ming Ho <br>TEO Wee Chin | Bronze | $80,000.00
 | Sailing | Women's Double Handed Dinghy 470  | Dawn LIU Xiaodan <br>Siobhan TAM Shui Wun | Bronze  | $80,000.00
+| Table Tennis | Women's Team | FENG Tianwei <br>LI Jiawei | Silver | $160,000.00
 
 
-
-Bronze
-
-Table Tennis
-
-Women's Team
-
-FENG Tianwei
-
-Silver
-
-$160,000.00
-
-LI Jiawei
 
 Silver
 
