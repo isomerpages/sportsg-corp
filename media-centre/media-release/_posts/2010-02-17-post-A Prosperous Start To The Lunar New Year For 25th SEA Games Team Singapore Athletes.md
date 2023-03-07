@@ -100,131 +100,18 @@ MAP AWARDS RECIPIENTS
 |||| Women's 200m Butterfly |1 | $5,000 | SEA Games Record - 02:13:49 | Yr '05 - Tao Li - 02:14:11 |
 ||| Lim Shu-En Lynette | Women's 800m Freestyle | 1 | $10,000 | Individual | 
 ||||||$5,000 | SEA Games Record - 08:35:41 | Yr '07 - MAL - 08:47:80 |
-
-
-
-
-
-
-
-Lim Xiang Qi Amanda
-Women's 50m Freestyle
-1
-$10,000
-Individual &
-
-
-
-
-
-
-$5,000
-SEA Games Record - 00:25:82
-Yr '05 - Joscelin - 00:26:13
-
-
-
-
-
-
-
-
-
-
-Lim Wen Hao Joshua
-Men's 4x200m Freestyle Relay
-1
-$15,000
-Team Event &
-
-
-
-Lim Yong En Clement
-
-
-$5,000
-SEA Games Record - 07:30:73
-Yr '05 - SIN - 07:35:85
-
-
-Ong Wei Shien Zach
-
-
-
-
-
-
-
-Cheah Mingzhe Marcus
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quah Ting Wen
-Women's 4x200m Freestyle Relay
-1
-$15,000
-Team Event &
-
-
-
-Lim Shu-En Lynette
-
-
-$5,000
-SEA Games Record - 08:11:75
-Yr '07 - SIN - 08:20:77
-
-
-Lim Xiang Qi Amanda
-
-
-
-
-
-
-
-Ong Chui Bin Mylene
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ong Chui Bin Mylene
-Women's 4x100m Freestyle Relay
-1
-$15,000
-Team Event &
-
-
-
-Lim Xiang Qi Amanda
-
-
-$5,000
-SEA Games Record - 03:45:73
-Yr '07 - THA - 03:51:86
+||| Lim Xiang Qi Amanda | Women's 50m Freestyle | 1 | $10,000 | Individual | 
+|||||| $5,000 | SEA Games Record - 00:25:82 | Yr '05 - Joscelin - 00:26:13
+||| Lim Wen Hao Joshua | Men's 4x200m Freestyle Relay | 1 | $15,000 | Team Event| 
+||| Lim Yong En Clement | ||$5,000 | SEA Games Record - 07:30:73 | Yr '05 - SIN - 07:35:85 |
+||| Ong Wei Shien Zach |
+||| Cheah Mingzhe Marcus |
+||| Quah Ting Wen | Women's 4x200m Freestyle Relay | 1 | $15,000 | Team Event |
+||| Lim Shu-En Lynette | || $5,000 | SEA Games Record - 08:11:75 | Yr '07 - SIN - 08:20:77 |
+||| Lim Xiang Qi Amanda |
+||| Ong Chui Bin Mylene |
+||| Ong Chui Bin Mylene | Women's 4x100m Freestyle Relay | 1 | $15,000 | Team Event |
+||| Lim Xiang Qi Amanda | | |$5,000 | SEA Games Record - 03:45:73 | Yr '07 - THA - 03:51:86 |
 
 
 Lim Shu-En Lynette
