@@ -342,50 +342,11 @@ Athletes
 | 181. | Rugby | Derelyn Chua Jialing | 蔡家玲 | 26 | F | √  | Team (W)
 | 182.  | Rugby | Fong Sei Yin| 冯雪燕| 34| F| √   | Team (W)
 | 183. | Rugby | Amanda Teo Baoling| 张宝玲| 23| F| √   | Team (W)
-| 184.  | Sailing| Cecilia Low Rui Qi| 刘瑞琦| 19| F| √   | 420 Girl
-| 185. |  Sailing|Colin Cheng Xinru| 郑忻如| 21| M| | Laser Standard (M)
-
-186.        
-
-Dawn Liu Xiaodan
-
-刘晓丹
-
-23
-
-F
-
-√   
-
-470 Women
-
-187.        
-
-Joshua Choo Meng Keong
-
-朱明强
-
-21
-
-M
-
-√   
-
-IMCO Mistral (M)
-
-188.        
-
-Justin Liu Xiaman
-
-刘遐满
-
-19
-
-M
-
- 
-
-420 Boy
+| 184.  | Sailing | Cecilia Low Rui Qi| 刘瑞琦| 19| F| √   | 420 Girl
+| 185. |  Sailing  |Colin Cheng Xinru| 郑忻如| 21| M| | Laser Standard (M)
+| 186.  |Sailing | Dawn Liu Xiaodan| 刘晓丹| 23| F| √   | 470 Women
+| 187.   | Sailing | Joshua Choo Meng Keong| 朱明强| 21| M| √   |  IMCO Mistral (M)
+| 188. | Justin Liu Xiaman| 刘遐满| 19| M| 420 Boy
 
 189.        
 
