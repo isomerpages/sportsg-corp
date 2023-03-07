@@ -57,8 +57,7 @@ Tel: (65) 65005236  <br>
 HP: (65) 9839 1974
 
 **About the 28th SEA Games**   
- <br>
-The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.  
+ <br> The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.  
   
 Follow us on:  
 28th SEA Games Website: [www.seagames2015.com](http:)   <br>
