@@ -79,3 +79,18 @@ Where a provisional suspension has been imposed in relation to an A Sample adver
 
 An athlete that is charged with an anti-doping rule violation has the right to a fair hearing. The anti-doping organization that initiated sample collection is responsible for determining what sanctions will apply to each individual case.
 Where the [ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and-forms/) apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY). The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
+
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:11.0pt; mso-ansi-font-size:11.0pt; mso-bidi-font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+**APPEA**L
+
+Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
+
+  
+**SANCTIONS**
+
+Sanctions for violating anti-doping rule violations may range from a reprimand to a lifetime ban. The period of ineligibility may vary depending on the type of anti-doping rule violation, the circumstances of each case, the substance, and the possible repetition of an anti-doping rule violation.
+
+For in-competition testing, this will automatically include disqualification of results attained in the competition and the forfeit of any medals, points, and/or prizes. All results of any competitions following collection of the sample may also be disqualified.
+
+An athlete or athlete support personnel who is serving a period of ineligibility arising from an anti-doping rule violation committed in a sport is not allowed to participate in any other sport at any level during the period of ineligibility.
