@@ -59,9 +59,9 @@ For media enquiries, please contact:
 <br>Linda Fulford
 <br>Fulford Public Relations
 <br>DID: 6324 2268
-<br>Email: lfulford@fulfordpr.com
+<br>Email: [lfulford@fulfordpr.com](lfulford@fulfordpr.com)
 
 Samantha See
 <br>Fulford Public Relations
 <br>DID: 6324 5293
-<br>Email: ssee@fulfordpr.com
+<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
