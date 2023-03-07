@@ -7,8 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Starhub And Singapore Sports Council Bring More Local Sports Content To Singaporeans**
+### **Starhub And Singapore Sports Council Bring More Local Sports Content To Singaporeans**
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/starhub%20ssc.jpeg)
+
 **Singapore, 8 October 2013** - StarHub and the Singapore Sports Council (SSC) signed a Memorandum of Understanding (MOU) today to offer more local sports
 content to a wider audience and enhance the sports viewership experience of Singaporeans. Held at Pasir Ris Sports and Recreation Centre, the signing ceremony also saw StarHub announce the launch of its free sports channel SuperSports Arena on 76.25MHz to almost all households in Singapore from 10 October 2013.
 
@@ -18,13 +19,13 @@ content to a wider audience and enhance the sports viewership experience of Sing
 
 4. The MOU was signed by Mr Tan Tong Hai, Chief Executive Officer, StarHub and Mr Lim Teck Yin, Chief Executive Officer, SSC, and witnessed by Guest-of-Honour, Mr Lawrence Wong, Acting Minister for Culture, Community and Youth and Senior Minister of State for Communications and Information.
 
-MOU reaffirms commitment to bring local sports to Singaporeans
+##### **MOU reaffirms commitment to bring local sports to Singaporeans**
 
 5. The 3-year MOU will see an overall increase in local sports content on StarHub's broadcast platforms, with more National Sports Associations being featured in its programmes. StarHub will also dedicate a segment of its upcoming daily sports news show on SuperSports Arena to cover local sports events and profile local athletes.
 
 6. StarHub and SSC will work together to progressively introduce new digital media initiatives, including the use of second screen technology for local sports events. This would enable sports fans to receive match analytics and view instant replays while watching the game.
 
-**Free sports for all: SuperSports Arena reaches almost all Singapore households on 76.25MHz**
+##### **Free sports for all: SuperSports Arena reaches almost all Singapore households on 76.25MHz**
 
 7. StarHub also announced the launch of the new revamped SuperSports Arena, which will now be available free of charge to almost all households in Singapore from 10 October 2013, including those without a StarHub TV set-top box. Previously available only on StarHub TV Channel 112 and 201, the channel will be fully decrypted, allowing any sports fan with an activated cable point to tune in to the channel at 76.25MHz.
 
@@ -38,7 +39,7 @@ MOU reaffirms commitment to bring local sports to Singaporeans
 
 12. Lastly, active lifestyle programmes such as healthyMEtv which advocate healthy living through exercise and proper nutrition will also be featured. By arming viewers with information on how to exercise, improve their diet and prevent the onset of lifestyle diseases, the content will inspire a new generation of Singaporeans to increase their participation in and support for sports
 
-**Launch of new daily sports news show SuperSports 360**
+##### **Launch of new daily sports news show SuperSports 360**
 
 13. The re-launch of SuperSports Arena also sees the debut of a new daily sports news show called SuperSports 360.
 
@@ -47,10 +48,11 @@ SuperSports 360 will air at 7pm every day on SuperSports Arena with a repeat at 
 
 15. For more information on SuperSports Arena, please visit [www.starhub.com/supersportsarena](www.starhub.com/supersportsarena).
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>Jemuel Fu
+
+Jemuel Fu
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5245
@@ -61,9 +63,9 @@ SuperSports 360 will air at 7pm every day on SuperSports Arena with a repeat at 
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg).
-<br>
+
 Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
-<br>
+
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 **About Starhub**
