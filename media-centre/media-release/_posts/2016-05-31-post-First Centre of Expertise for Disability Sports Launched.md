@@ -13,7 +13,7 @@ In conjunction with the launch, Sport Singapore will be introducing the “Yes! 
   
 Mr Lim Teck Yin, CEO of Sport Singapore shared that this is part of the roadmap towards realising Vision 2030 in creating opportunities for everyone to Live Better through Sport. “Swimming is a great sport that is suited for people of different abilities. It is invigorating and develops a good sense of water confidence. The launch of this first Centre of Expertise at the ActiveSG Sengkang Sports Centre will be the first of more initiatives to come for para sports. In the coming months, selected ActiveSG Sports Centres and gyms will be retrofitted to be more inclusive. We will also be introducing more para sports, such as Badminton, Boccia, Football and Goalball at different ActiveSG Sports Centres. We intend for inclusive sports programming to be the norm.”  
   
-**Disability Sports Master Plan**  
+##### **Disability Sports Master Plan**  
 
 The Centres of Expertise are part of a list of 18 recommendations by the Committee for Disability Sports, under the Disability Sports Master Plan. At the Committee of Supply (COS) debate last month, Senior Minister of State Sim Ann announced that MCCY has accepted these recommendations, and will implement them in phases over the next 5-6 years. The Master Plan builds on the success of the 8th ASEAN Para Games last year, and aims to ensure a sustainable legacy for disability sports beyond the Games.  
   
