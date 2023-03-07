@@ -64,8 +64,6 @@ Freestyle Segment (12 - 25 persons per team)
 1. Open
 2. Secondary School
 
- 
-
 PRIZES
 <br>
 Top three winners of each category will receive trophies and medals
@@ -73,12 +71,9 @@ Top three winners of each category will receive trophies and medals
 Competitive Segment
 <br>
 1.    Overall Champion - 50% subsidised trip to participate in the 5th Cheerleading Asian-International Open 2011
-
-Team Event
-<br>
-Top three teams from Open and High School categories - invitation to perform at Public Service Week and World Netball Championships 2011 Singapore, and 50% subsidised trip to participate in the 3rd Asian-Thailand Cheerleading invitational 2011
-
-Primary School - 1st prize S$800, 2nd prize S$500, 3rd prize S$300
+<br>Team Event
+<br> Top three teams from Open and High School categories - invitation to perform at Public Service Week and World Netball Championships 2011 Singapore, and 50% subsidised trip to participate in the 3rd Asian-Thailand Cheerleading invitational 2011
+<br>Primary School - 1st prize S$800, 2nd prize S$500, 3rd prize S$300
 
 2.    Group Stunts
 
