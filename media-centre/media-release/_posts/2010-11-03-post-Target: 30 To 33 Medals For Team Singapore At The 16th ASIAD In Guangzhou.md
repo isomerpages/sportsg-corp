@@ -3391,18 +3391,16 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
 For further information, please visit www.teamsingapore.com.sg.
-
+<br>
 Follow Team Singapore's action at the 16th Asian Games on Facebook at: www.facebook.com/TeamSG
-statics0
-For media enquiries, please contact:
-Lin Kuek
-Caelan & Sage Pte Ltd
-Email: lin@caelansage.com
-statics0
-statics0	
+
+**For media enquiries, please contact:**
+<br>Lin Kuek
+<br>Caelan & Sage Pte Ltd
+<br>Email: lin@caelansage.com
+
 Tanty Nazlianah Rosli
-Senior Manager
-Public Relations & Social Media
-Singapore Sports Council
-Email: tanty_nazlianah@ssc.gov.sg
-statics0
+<br>Senior Manager
+<br>Public Relations & Social Media
+<br>Singapore Sports Council
+<br>Email: tanty_nazlianah@ssc.gov.sg
