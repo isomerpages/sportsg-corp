@@ -168,12 +168,10 @@ Athletes
 | 7.  |  Aquatics - Swimming | Lionel Khoo Chien Yin | 邱湕颖 | 15 | M | √   | 100m Breaststroke (M) | 200m Breaststroke (M)
 | 8. |  Aquatics - Swimming | Lynette Lim Shu-En  | 林淑恩  | 18  | F| √   | 200m Freestyle (W) <br>400m Freestyle (W) <br>800m Freestyle (W)<br>4x200m Freestyle Relay (W) 
 | 9.  |  Aquatics - Swimming |  Mylene Ong Chui Bin  | 王翠彬  | 19  | F | √  | 50m Freestyle (W) <br>100m Freestyle (W) <br>50m Butterfly (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W)
-| 10.  | Nicholas Tan Xue-Wei | 陈雪伟 | 21 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>4X100m Freestyle Relay (M)<br>4X100m Medley Relay (M)
-| 11.  | Pang Sheng Jun | 冯盛均 | 18 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>200m Breaststroke (M) <br>200m Individual Medley (M) <br>400m Individual Medley (M) <br>4X200m Medley Relay (M)
-| 12. | Parker Lam Wei-Xiong | 林伟雄 | 21 | M | √    | 50m | Breaststroke (M) <br>100m Breaststroke (M)
-| 13.  | Quah Tingwen | 柯婷文 | 18 | F | 100m Freestyle (W) <br>200m Freestyle (W)
-
-400m Freestyle (W)
+| 10.  |   Aquatics - Swimming | Nicholas Tan Xue-Wei | 陈雪伟 | 21 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>4X100m Freestyle Relay (M)<br>4X100m Medley Relay (M)
+| 11.  |   Aquatics - Swimming | Pang Sheng Jun | 冯盛均 | 18 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>200m Breaststroke (M) <br>200m Individual Medley (M) <br>400m Individual Medley (M) <br>4X200m Medley Relay (M)
+| 12. |   Aquatics - Swimming | Parker Lam Wei-Xiong | 林伟雄 | 21 | M | √    | 50m | Breaststroke (M) <br>100m Breaststroke (M)
+| 13.  |   Aquatics - Swimming | Quah Tingwen | 柯婷文 | 18 | F | 100m Freestyle (W) <br>200m Freestyle (W) <br>400m Freestyle (W)
 
 4x100m Freestyle Relay (W)
 
