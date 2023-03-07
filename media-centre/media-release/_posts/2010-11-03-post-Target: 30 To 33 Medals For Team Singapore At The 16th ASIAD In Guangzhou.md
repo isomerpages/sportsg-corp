@@ -168,19 +168,7 @@ Athletes
 | 7.  |  Aquatics - Swimming | Lionel Khoo Chien Yin | 邱湕颖 | 15 | M | √   | 100m Breaststroke (M) | 200m Breaststroke (M)
 | 8. |  Aquatics - Swimming | Lynette Lim Shu-En  | 林淑恩  | 18  | F
 | √   | 200m Freestyle (W) <br>400m Freestyle (W) <br>800m Freestyle (W)<br>4x200m Freestyle Relay (W) 
-| 9.     
-
-Mylene Ong Chui Bin
-
-王翠彬
-
-19
-
-F
-
- 
-
-50m Freestyle (W)
+| 9.  | Mylene Ong Chui Bin  | 王翠彬  | 19  | F  | 50m Freestyle (W)
 
 100m Freestyle (W)
 
