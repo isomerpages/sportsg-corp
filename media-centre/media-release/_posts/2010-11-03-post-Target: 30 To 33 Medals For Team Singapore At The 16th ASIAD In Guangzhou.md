@@ -479,33 +479,11 @@ Team Officials
 | 67.  | Sailing | Chung Pei Ming | Team Captain
 | 68. | Shooting| Ho Tsu Cher| Team Manager
 | 69.  | Lim Meng Kiaw| Team Manager
-| 70.   
-
-Deng Pei Ming
-
-Head Coach
-
-71.   
-
-Gu Yong Qin
-
-Coach (Rifle)
-
-72.   
-
-Yue Ming
-
-Coach (Shotgun)
-
-73.   
-
-Zhang Man Zhen
-
-Coach (Rifle)
-
-74.   
-
-Zhu Chang Fu
+| 70.  | Deng Pei Ming | Head Coach
+| 71.  | Gu Yong Qin | Coach (Rifle)
+| 72. | Yue Ming | Coach (Shotgun)
+| 73. | Zhang Man Zhen | Coach (Rifle)
+| 74.  | Zhu Chang Fu
 
 Coach (Shotgun)
 
