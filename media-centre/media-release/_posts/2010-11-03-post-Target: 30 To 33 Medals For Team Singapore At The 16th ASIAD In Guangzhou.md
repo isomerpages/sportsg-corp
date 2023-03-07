@@ -347,39 +347,10 @@ Athletes
 | 186.  |Sailing | Dawn Liu Xiaodan| 刘晓丹| 23| F| √   | 470 Women
 | 187.   | Sailing | Joshua Choo Meng Keong| 朱明强| 21| M| √   |  IMCO Mistral (M)
 | 188. | Sailing | Justin Liu Xiaman| 刘遐满| 19| M| | 420 Boy
-| 189. | Sailing | Justin Wong Ming Ho| 黄明豪| 24| M| Hobie 16 Open
-
-190.        
-
-Kimberly Lim Min
-
-林敏
-
-14
-
-F
-
-√   
-
-Optimist Girl
-
-191.        
-
-Leonard Ong
-
-王俊凯
-
-17
-
-M
-
-√   
-
-RS: X Men
-
-192.        
-
-Rachel Lee Qing
+| 189. | Sailing | Justin Wong Ming Ho| 黄明豪| 24| M| | Hobie 16 Open
+| 190.  | Sailing | Kimberly Lim Min| 林敏| 14| F| √   | Optimist Girl
+| 191. | Sailing | Leonard Ong| 王俊| 17| M| √   | RS: X Men
+| 192.  | Sailing | Rachel Lee Qing
 
 李清
 
