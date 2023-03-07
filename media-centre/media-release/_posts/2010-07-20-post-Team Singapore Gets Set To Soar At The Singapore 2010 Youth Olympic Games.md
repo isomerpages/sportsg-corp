@@ -63,6 +63,27 @@ For further information, please visit www.teamsingapore.com.sg.
 NTUC FairPrice cares about our customers and the community. It is committed to donate $50 million by 2018 to NTUC FairPrice Foundation to help achieve its goal. NTUC FairPrice Foundation, a registered charity completely funded by NTUC FairPrice, upholds its mission to "Provide a Better Life for the Community". NTUC FairPrice Foundation focuses its giving on three strategic thrusts - the poor and needy, nation building and community bonding, and advancing workers' welfare. Since inception in March 2008, the Foundation has donated over $17 million in cash and gifts-in-kind to various causes. For more information on NTUC FairPrice Foundation, please visit www.fairpricefoundation.org.
 
 **Annex A - Team Singapore Athletes At The 2010 Youth Olympic Games**
-
-
-
+| S/N | Sport | Name || Event |
+| -------- | -------- | -------- | -------- |
+| 01 |Archery |Vanessa Loh(罗梓榕) |Recurve Ind. (W) |
+| 02 | Abdul Dayyan Jaffar | Recurve Ind. (M) |
+| 03 | Athletics | Devaraj Zachary Ryan | 1,000m (M) |
+| 04 | Sean Toh(卓稔傑) | 100m Hurdles (M) |
+| 05 | Goh Wei Ning (吴玮宁) | 100m Hurdles (W) |
+06
+Wendy Enn
+余敏敏
+400m (W)
+07
+Ranjitha Raja
+N.A.
+1,000m (W)
+08
+Liang Wei
+梁微
+100m (W)
+09
+Badminton
+Huang Chao
+黄超
+Singles (M)
