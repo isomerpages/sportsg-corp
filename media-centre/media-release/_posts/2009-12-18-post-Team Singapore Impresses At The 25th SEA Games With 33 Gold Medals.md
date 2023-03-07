@@ -205,9 +205,45 @@ List of Medal Winners**
 | | Women's 4x100m Medley Relay |	Quah Ting Wen<br>Tao Li<br>Shana Lim Jiayi<br>Roanne Ho Ru'En |	Gold |
 | | Women's 50m Freestyle	| Amanda Lim Xiang Qi	| Gold |
 | | Women's 200m Butterfly |	Tao Li	| Gold |
-
-
-
+| | Women's' 100m Breastroke	| Roanne Ho Ru'En	| Silver |
+| | Women's 400m Freestyle	| Lynette Lim Shu-en	| Silver |
+| | Women's 100m Backstroke	|Shana Lim Jiayi	| Silver |
+| | Men's 100m Backstroke	| Rainer Ng Kai Wee	| Silver |
+| | Women's 200m Breastroke	| Cheryl Lim Xin Jing	| Silver |
+| | Women's 50m Freestyle	| Quah Ting Wen	| Silver |
+| | Women's 400m Individual Medley | Quah Ting Wen	| Silver |
+| | Men's 4x100m Medley Relay	| Russell Ong Kai Yi<br>Rainer Ng Kai Wee<br>Ng Jia Hao<br>Clement Lim | Silver |
+| | Women's 100m Freestyle	| Amanda Lim Xiang Qi	| Bronze |
+| | Men's 200m Backstroke	| Rainer Ng Kai Wee	Bronze |
+| | Women's 200m Backstroke	| Shana Lim Jiayi	Bronze |
+| | Women's 200m Individual | Medley	Koh Hui Yu	| Bronze |
+| | Men's 100m Freestyle	| Russell Ong Kai Yi	| Bronze |
+| | Women's 400m Freestyle	| Quah Ting Wen	| Bronze |
+| | Men's 200m Individual Medley	| Joshua Lim Wei Hao	| Bronze |
+| | Men's 100m Backstroke	| Zach Ong Wei Shien	| Bronze	|
+| | Men's 50m Freestyle	| Russell Ong Kai Yi	| Bronze |
+| | Men's 200m Freestyle	| Joshua Lim Wei Hao	| Bronze|
+| | Women's 400m Individual Medley	| Koh Hui Yu	| Bronze |
+|Table Tennis | Men's Team	| Yang Zi<br>Gao Ning<br>Cai Xiaoli<br>Pang Xue Jie<br>Lim Jie Yan | Gold |
+| | Women's Team	|Feng Tian Wei<br>Wang Yuegu<br>Yu Meng Yu<br>Zena Sim<br>Sun Bei Bei |Gold|
+| | Mixed Doubles	| Wang Yuegu<br>Gao Ning	| Gold |
+| | Women's Doubles	| Yu Meng Yu | Sun Bei Bei | Gold |
+| | Women's Singles	| Feng Tian Wei	| Gold |
+| | Men's Singles	| Gao Ning	| Gold |
+| | Mixed Doubles	| Feng Tian Wei<br>Yang Zi | Silver
+| | Women's Doubles	| Feng Tian Wei<br>Wang Yuegu	| Silver |
+| | Women's Singles	| Wang Yuegu	| Silver
+| | Men's Singles	| Yang Zi	| Silver |
+| | Men's Doubles	| Yang Zi<br>Gao Ning | Bronze |
+| | Men's Doubles	| Cai Xiaoli<br>Pang Xue Jie<br>Taekwondo | Bronze |
+| | Women's Middle Weight |	Quek Jie Lin Jacqueline	| Bronze |
+| | Men's Fin Weight	|Tan Junwei Jason | Bronze |
+| Wrestling | Men's Over 66 kg up to 74 kg	| Sulaiman Yusoff<br>Wushu | Silver |
+| | Duilian with Weapon (Women's Taolu)	| Khor Poh Chin<br>Tao Yijun<br> Tay Yujuan |Gold |
+| | Duilian Barehand (Men's Taolu)	| Tay Wei Sheng Jaryl<br>Fung Jin Jie<br>Seah Kah Yeap Samuel | Silver |
+| Waterpolo | Men's| 	Andy Chin<br>Eugene Teo<br>Kelvin Ong<br>Kenneth Wee<br>Lim Yaoxiang<br>Lin Diyan<br>Lin Diyang<br>Luo Nan<br>Nigel Tay<br>Samuel Loh<br>Terence Tan<br>Yip Renkai | Gold |
+__________________________________________________
+Note: Highlights Debutant Medallist	
 
 
 
