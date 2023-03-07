@@ -86,4 +86,4 @@ Local Runners Retained Their Titles
 | -------- | -------- | -------- | -------- | -------- |
 | 1 | 75487 | Malene Munkholm | Denmark | 00:41:43.34 |
 | 2 | 79435 | Sylvia Md Arwan | Brunei Darusslam | 00:46:25.60 |
-| 3 | 70048 | Kalsang Gyalzur | Switzerland | 00:46:52.02 |
+| 3 | 70048 | Kalsang Gyalzur | Switzerland | 00:46:52.02|
