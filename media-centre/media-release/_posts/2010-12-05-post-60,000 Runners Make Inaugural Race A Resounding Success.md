@@ -71,11 +71,11 @@ Annex C: [SCMS 2010 Event Day Fact Sheet [391 Kb]](/files/Media%20Centre/Media%2
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
 <br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
@@ -94,14 +94,14 @@ The Bank employs over 5,700 people in Singapore and has a network of 18 branches
 **For media enquiries, please contact:**
 <br>Samantha See
 <br>Fulford Public Relations
-<br>Email: ssee@fulfordpr.com
+<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
 
 Katherine Kee
 <br>Fulford Public Relations
-<br>Email: kkee@fulfordpr.com
+<br>Email: [kkee@fulfordpr.com](kkee@fulfordpr.com)
 
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Media Relations
 <br>Singapore Sports Council
-<br>Email: tanty_nazlianah@ssc.gov.sg
+<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
