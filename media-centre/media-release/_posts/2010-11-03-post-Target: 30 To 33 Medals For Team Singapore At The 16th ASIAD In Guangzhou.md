@@ -329,67 +329,11 @@ Athletes
 | 168. | Hockey | Enrico Elifh Marican| NA| 19| M| √   | Team (M)
 | 169. | Hockey | Ian James Valence Vanderpu | NA | 22 | M | √   | Team (M)
 | 170.| Hockey | Chia Kai Bin| 谢凯冰| 23| M| √   | Team (M)
-| 171.        
-
-Rowing
-
-Yeong Wai Mun
-
-杨伟文
-
-28
-
-M
-
-√   
-
-LM1x (M)
-
-172.        
-
-Rugby
-
-Wang Shao-Ing
-
-王邵颖
-
-33
-
-F
-
-√   
-
-Team (W)
-
-173.        
-
-Leung Wai-Mun
-
-梁惠雯
-
-31
-
-F
-
-√   
-
-Team (W)
-
-174.        
-
-Angelina Liu Huiyun
-
-刘慧芸
-
-28
-
-F
-
-√   
-
-Team (W)
-
-175.        
+| 171. | Rowing | Yeong Wai Mun | 杨伟文 | 28 | M | √    | LM1x (M)
+| 172.  | Rugby| Wang Shao-Ing| 王邵颖| 3| F| √   | Team (W)
+| 173. | Rugby| Leung Wai-Mun| 梁惠雯| 31| F| √  | Team (W)
+| 174.  | Rugby | Angelina Liu Huiyun | 刘慧芸 | 28 | F | √    | Team (W)
+| 175.        
 
 Humphries Priscilla Abelina
 
