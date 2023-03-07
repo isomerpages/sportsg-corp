@@ -229,71 +229,11 @@ Athletes
 | 67.   |Cuesports |Lim Chun Kiat  |林俊杰  |35  |M  |√     |Snooker Team <br>Snooker Singles
 | 68. | Cuesports |Peter Edward Gilchrist  |NA  |42  |M  |9-ball Singles
 | 69. | Cycling  | Dinah Chan Siew Kheng  | 曾秀卿  | 24  | F  | √     | Road Individual Time Trial (W)<br>Road Mass Start (W)
-| 70.   
-
-Dragon Boat
-
- 
-
-Alvan Lim Heng Ann
-
-林兴安
-
-20
-
-M
-
-√   
-
-Team (Men)
-
-71.   
-
-Andrew Sim Yun Wen
-
-沈允文
-
-20
-
-M
-
-√   
-
-Team (Men)
-
-72.   
-
-Ang Chin Leng
-
-汪振龙
-
-30
-
-M
-
-√   
-
-Team (Men)
-
-73.   
-
-Ashley Ong Chun Aun
-
-陈俊安
-
-30
-
-M
-
-√   
-
-Team (Men)
-
-74.   
-
-Bryan Kieu Chin Wah
-
-邱锦华
+| 70.   | Dragon Boat| Alvan Lim Heng Ann| 林兴安| 20| M| √    | Team (Men)
+| 71.  | Dragon Boat|Andrew Sim Yun Wen | 沈允 | 20 | M | √    | Team (Men)
+| 72.| Dragon Boat|Ang Chin Leng | 汪振龙 | 30 | M | √  | Team (Men)
+| 73.| Dragon Boat|  Ashley Ong Chun Aun | 陈俊安 | 30 | M | √   | Team (Men)
+| 74. | Bryan Kieu Chin Wah| 邱锦华
 
 30
 
