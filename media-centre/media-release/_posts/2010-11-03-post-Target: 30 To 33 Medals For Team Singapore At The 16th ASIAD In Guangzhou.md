@@ -496,8 +496,8 @@ Team Officials
 | 84.  | Wushu | Sheng Shi Jie | Coach
 
 Annex C: Profile of Chef-de-Mission
-Low Teo Ping
-Chef-de-Mission, Team Singapore
+<br>Low Teo Ping
+<br>Chef-de-Mission, Team Singapore
 
 Currently the Vice President of the Singapore National Olympic Council (SNOC) and President of the Singapore Rugby Union, Mr Low Teo Ping was awarded the Pingat Bakti Masyarakat (Public Service Medal) by the President of Singapore in 2006 for his outstanding contribution to sports. He is also a member of the Singapore Sports Council, Vice President of the International Sailing Federation and Advisor to the Singapore Athletic Association.
 
@@ -506,30 +506,30 @@ Mr Low played rugby for Singapore in the 1960's and had also competed in regiona
 Mr Low is truly a veteran sporting figure in Singapore that Team Singapore athletes can look up to. He believes that by staying focused and with commitment and passion, our athletes will put up a credible performance at the Asian Games.
 
 He believes in this saying:
-"Winning is not a some-time thing; It's an all-time thing.
-You don't win once in a while,
-You don't do things right once in a while;
-You do them right all the time.
-WINNING IS A HABIT."
-statics0
+<br>"Winning is not a some-time thing; It's an all-time thing.
+<br>You don't win once in a while,
+<br>You don't do things right once in a while;
+<br>You do them right all the time.
+<br>WINNING IS A HABIT."
+
 About the Singapore Sports Council
-statics0
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-Join SSC on Twitter at: www.twitter.com/singaporesports
+**About the Singapore National Olympic Council**
+<br>
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-About the Singapore National Olympic Council
-statics0
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
-statics0
-About Team Singapore
-statics0
+**About Team Singapore**
+<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
