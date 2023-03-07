@@ -23,10 +23,10 @@ New Programme Specially Developed for Youth Athletes In Training for Singapore 2
 
 6. Commenting on the collaboration, Mr David Chiem, Founder and Group CEO of MindChamps said: "In sports and the academic arenas, one of the most critical success factors is our mindset. MindChamps is proud to be able to train our youth athletes to give them the Champion Mindset and at the same time equip them with cutting-edge learning techniques to achieve academic excellence. Armed with MindChamps' proven and scientifically sound techniques, our athletes will be able to strongly focus on their sports training."
 
--End-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Hazwani Hasni
 <br>
 Singapore Sports Council
