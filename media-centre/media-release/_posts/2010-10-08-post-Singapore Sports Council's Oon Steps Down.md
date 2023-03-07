@@ -21,7 +21,7 @@ Singapore, 8 October 2010 - The Singapore Sports Council announced today that Ch
 
 6. A former Olympian (member of Singapore swim team at 1984 Olympic Games in Los Angeles) and a chemical engineer by training, Oon holds a Bachelor in Chemical Engineering and a Master in Business Administration in General Management from Brigham Young University, Utah, USA. He has attended management courses at the Wharton Business School, Kellogg Business School, DuPont's Leadership and Management Programme, and the Singapore government's Leadership & Management Programme (LAP).
 
-7 An international and local search has been commissioned to find a replacement for Oon.
+7. An international and local search has been commissioned to find a replacement for Oon.
 
 -End-
 
@@ -29,13 +29,13 @@ Singapore, 8 October 2010 - The Singapore Sports Council announced today that Ch
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
 <br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **For media enquiries, please contact:**
 <br>Alvin Hang
@@ -43,4 +43,4 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>DID: 6500 5164
-<br>Email: alvin_hang@ssc.gov.sg
+<br>Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
