@@ -114,7 +114,7 @@ Team Events
 
 Total MAP Award: $2,340,000.00
 
-Annex D: Singapore National Olympic Council and Team Singapore Appreciation Plaque Recipients
+Annex D: Singapore National Olympic Council and Team Singapore Appreciation <br>**Plaque Recipients**
 | SN | Name of Recipient |
 | -------- | -------- 
 | 1.    | Text     
