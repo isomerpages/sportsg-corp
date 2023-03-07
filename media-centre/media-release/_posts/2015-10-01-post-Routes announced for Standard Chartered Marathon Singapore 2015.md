@@ -35,5 +35,5 @@ On the enhancements and changes to the marathon, Robb added: “We are constantl
 
 In its 14th year, Standard Chartered Marathon Singapore 2015 will take place on 5 and 6 December.
 
-Standard Chartered Marathon Singapore is sponsored by:
+**Standard Chartered Marathon Singapore is sponsored by:**
 Standard Chartered (Title sponsor); Adidas (Official Apparel Sponsor); Seiko (Official Timekeeper); 100plus (Official Isotonic Drink); Land Rover (Official Car); GrabTaxi (Official Transport Partner); Orange Clove (Official F&B Caterer); Prudential (Official Life Insurancer); TCS (Official IT Consultancy); Hotel Jen (Official Hotel); Running Department (Official Pacers); Journey Fitness (Official Coach); TomTom (Official GPS Training Device); PSB Academy (Official Supporter); Marathon-Photos.com (Official Race Day Photographer); Run Magazine (Official Running Magazine); GIVEasia (Official Charity Fundraising Platform); RWS (Official Venue); Sentosa (Official Venue); Johnson & Johnson (Official Supporter).
