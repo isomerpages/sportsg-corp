@@ -13,13 +13,13 @@ The spexScholarship represents the pinnacle of support for high-performance spor
   
 Said Ms Grace Fu, Minister for Culture, Community and Youth who is also Chair for the High-Performance Sports (HPS) Steering Committee: “The spexScholarship is part of a concerted effort to support our athletes who are keen to reach the pinnacle of sports excellence, and have shown the physical and emotional strength to do so. Many of us caught our elite athletes in action at the recent Southeast Asian and ASEAN Para Games. We have seen for ourselves how their performances inspired other Singaporeans. Besides the spexScholarship, we also provide a holistic system of support to all our Team Singapore athletes through our High-Performance Sports System. We will do whatever we can to help our Team Singapore athletes achieve their sporting aspirations, and make Singapore proud!”  
   
-**spexScholars’ successes to date**  
+##### **spexScholars’ successes to date**  
   
 The spexScholarship has contributed to many sporting successes to date. For one, the recent batch of scholars charted many milestones in 2015 alone. Among them were bowler Shayna Ng who became the first Singaporean to win a gold medal in the World Championships, kayaker Stephenie Chen who won Singapore’s first ever women’s singles kayaking medal at the Asian Canoe Sprint Championships, swimmer Yip Pin Xiu who set a new World Record in the 50m Backstroke in S2 at the 8th ASEAN Para Games, swimmer Joseph Schooling who won Singapore its first medal at the FINA World Championships, and sailor Colin Cheng who won the ISAF World Cup. In addition, more than 20 spexScholars have either qualified or are aiming to qualify for the upcoming Rio Olympic and Paralympic Games.  
   
 In general, the spexScholars have also done well at the major Games. They contributed to a significant percentage of medals won by Team Singapore, as follows:  
   
-**Major Games Percentage of Team Singapore medals won by spexScholars:**  
+##### **Major Games Percentage of Team Singapore medals won by spexScholars:**  
 
 *   2014 Commonwealth Games — 76.5%
 *   2014 Asian Games — 62.5%
@@ -30,7 +30,7 @@ On how the spexScholarship has helped her, bowler Shayna Ng said: “The spexSch
   
 Echoing Ng’s sentiments was swimmer Yip Pin Xiu, who said: “Having been on the spexScholarship for a year, I have gained very good support from my coach and the sports science team who have been focused on improving my sporting performance. Being able to improve on my performance has in turn kept me more motivated and driven towards my goals. I have also received more opportunities to race as well, which is important for development.”  
   
-**Better quality of spexScholarship applicants each year**  
+##### **Better quality of spexScholarship applicants each year**  
   
 Said Olympian C Kunalan, who sits on the HPS Selection and Performance Sub-Committee: “The spexScholarship is a heavy commitment as athletes are expected to take on a full-time training load among other things. Naturally, the selection process remains a rigorous one hence we are encouraged to see the quality of applicants getting better each year: we shortlisted 38% of applicants for interviews this year, up from 26% in the previous batch. When we do identify athletes who beyond demonstrating medal potential at Asian, Olympic and World level events, show the commitment and desire to be role models for Singapore, it is important that we get behind these athletes and give them the support that they need.”  
   
