@@ -15,17 +15,17 @@ Mr Kerk Kim Por, Deputy Chairman, SAPGOC, emphasised the importance of having a 
 
 Besides encouraging the community to Back up APG and drumming up excitement in the lead up to the first ever APG in Singapore, the store also supports social good, with 10 percent of all revenue donated to social causes such as SportCares and Voluntary Welfare Organisations (VWOs) under the Care and Share Movement. The Care and Share Movement will match dollar for dollar eligible donations raised.
 
-Location:  
+Location:<br>
 Orchard Pedestrian walkway in front of Takashimaya (Ngee Ann City)
 
-Operating Hours:  
-From 6 November (Friday) to 13 December (Sunday)  
+Operating Hours:<br>
+From 6 November (Friday) to 13 December (Sunday)<br>
 11am to 10pm Daily
 
 8th ASEAN Para Games Merchandise and Souvenirs can be also purchased at the following roadshows:
 
-*   Nov 7th - Sengkang Sport Recreation Centre
-*   Nov 8th - Pasir Ris Sport Recreation Centre
-*   Nov 14th – Singapore Disability Sports Council (SDSC) Reindeer walk at Marina Bay
+* Nov 7th - Sengkang Sport Recreation Centre<br>
+* Nov 8th - Pasir Ris Sport Recreation Centre<br>
+* Nov 14th – Singapore Disability Sports Council (SDSC) Reindeer walk at Marina Bay
 
 _Interior of Official 8th ASEAN Para Games Merchandise Store_
