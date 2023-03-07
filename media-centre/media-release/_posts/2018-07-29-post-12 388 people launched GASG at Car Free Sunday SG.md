@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **12 388 people launched GASG at Car Free Sunday SG**
+### **12,388 people launched GASG at Car Free Sunday SG**
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Minister%20Grace%20Fu%20and%20Speaker%20Tan%20Chuan%20Jin%20flags%20off%20Nila%20Walk%20with%20ActiveSG%20Football%20Academy.jpeg)
 
