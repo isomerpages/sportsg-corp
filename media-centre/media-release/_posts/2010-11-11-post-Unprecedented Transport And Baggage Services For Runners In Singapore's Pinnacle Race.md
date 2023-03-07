@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-Unprecedented Transport And Baggage Services For Runners In Singapore's Pinnacle Race
-Singapore , 11 Nov 2010
+## **Unprecedented Transport And Baggage Services For Runners In Singapore's Pinnacle Race**
 
 UNPRECEDENTED TRANSPORT AND BAGGAGE SERVICES FOR RUNNERS IN SINGAPORE'S PINNACLE RACE
 Comprehensive Pre-Race And Post-Race Transportation Options And Different Baggage Facilities Catered For All Three Routes
@@ -185,4 +184,3 @@ Media Relations
 Singapore Sports Council
 Email: jemuel_fu@ssc.gov.sg
 statics0
- 
