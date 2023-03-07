@@ -209,45 +209,9 @@ Athletes
 | 47.    | Bowling | Geraldine Ng Su Yi | 伍纾仪 | 24 | F| √    | Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
 | 48. | Bowling | Jasmine Yeong-Nathan | NA | 22 | F | √    | <br>Singles (W)<br>Doubles (W)<br>Trios (W)<br>Team (W)
 | 49. | Bowling | Jason Yeong-Nathan| NA| 27| M ||Singles (M)<br>Doubles (M) <br>Trios (M)<br>Team (M)
-| 50. | Bowling | Jazreel Tan Shi Hua
-
-陈诗桦
-
-21
-
-F
-
-√   
-
-Singles (W)
-
-Doubles (W)
-
-Trios (W)
-
-Team (W)
-
-51.   
-
-Mark Wong Jee Mun
-
-黄智文
-
-19
-
-M
-
-√   
-
-Singles (M)
-
-Doubles (M)
-
-Trios (M)
-
-Team (M)
-
-52.   
+| 50. | Bowling | Jazreel Tan Shi Hua | 陈诗 21 | F  | √    | Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
+| 51.  | Mark Wong Jee Mun| 黄智文 | 19 | M | √ | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
+| 52.   
 
 New Hui Fen
 
