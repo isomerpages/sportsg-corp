@@ -9,14 +9,15 @@ image: ""
 ## **SSC Venues To Be Used As Rally Sites For GE 2011 Singapore**
 
 SSC VENUES TO BE USED AS RALLY SITES FOR GE 2011
-Singapore, 27 April 2011 - From 28 April 2011 to 5 May 2011, a total of 14 Singapore Sports Council (SSC) facilities island-wide will be designated for use at selected times as rally sites for the Singapore General Election (GE) 2011.
 
-2 13 SSC stadiums, as well as the Delta Hockey Field, will be designated for use as rally sites at selected times by political parties who are campaigning in this year's GE from 28 April 2011 to 7 May 2011.
+**Singapore, 27 April 2011** - From 28 April 2011 to 5 May 2011, a total of 14 Singapore Sports Council (SSC) facilities island-wide will be designated for use at selected times as rally sites for the Singapore General Election (GE) 2011.
 
-3 Although these fields will be closed to all bookings for sports activities, members of the public may still continue using the running tracks during the stadiums' normal operating hours, unless advised otherwise.
+2. 13 SSC stadiums, as well as the Delta Hockey Field, will be designated for use as rally sites at selected times by political parties who are campaigning in this year's GE from 28 April 2011 to 7 May 2011.
 
-4 The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at www.ssc.gov.sg. Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
-statics0
+3. Although these fields will be closed to all bookings for sports activities, members of the public may still continue using the running tracks during the stadiums' normal operating hours, unless advised otherwise.
+
+4. The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at www.ssc.gov.sg. Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
+5. 
 -End-
 
 Annex A: Schedule of Designated Use of SSC Facilites for General Election 2011
