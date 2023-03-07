@@ -142,25 +142,65 @@ _____________________________________________________
 **Annex C
 <br>
 List of Medal Winners**
-
 | Sport | Event	| Athletes	| Medal |
 | ---- | ---- | ---- | ---- |
 | Archery | Men's Compound | Adriel Chua Boon Rong |	Silver |
-| | Women's Recurve	| Vansessa Loh Tze Rong, Cheok Khang Keng Elizabeth, Wendy Tan Liu Jie and Wong Sook Wai Samantha | Silver |
+| | Women's Recurve	| Vansessa Loh Tze Rong<br>Cheok Khang Keng Elizabeth<br>Wendy Tan Liu Jie<br>Wong Sook Wai Samantha | Silver |
 | Athletics | Men's Discus	| James Wong Tuck Yin	| Gold| 
 | | Women's Shot Put	| Zhang Guirong	| Gold |
-| | Men's 4x100m Relay	| Amiruddin Jamal	Silver, Izwan Firdaus,  Muhd Elfi Mustafa and Yeo Foo Ee | Gary |
-| Badminton | Women's Doubles	| Shinta Mulia Sari and Yao Lei | Silver |
-|| Men's Team | Ronald Susilo, Kendrick Lee Yen Hui, Hendri Kurniawan, Wong Zi Liang Derek, Hendra Wijaya, Ashton Chen Yong Zhao, Yeo Zhao Jiang Terry, Kelvin Ho Ying Chong, Tang Yew Loong Jonathan and Wong Hao Cong Jeffrey | Bronze|
-| | Women's Team | Li Li, Xing Aiying, Li Yujia, Zhang Beiwen, Liu Fan Frances, Shinta Mulia Sari, Fu Mingtian, Yao Lei, Vanessa Neo Yu Yan and Chen Jiayuan | Bronze |
+| | Men's 4x100m Relay	| Amiruddin Jamal	Silver<br>Izwan Firdaus<br>Muhd Elfi Mustafa<br>Yeo Foo Ee | Gary |
+| Badminton | Women's Doubles	| Shinta Mulia Sari<br>Yao Lei | Silver |
+|| Men's Team | Ronald Susilo<br>Kendrick Lee Yen Hui<br>Hendri Kurniawan<br>Wong Zi Liang Derek<br>Hendra Wijaya<br>Ashton Chen Yong Zhao<br>Yeo Zhao Jiang Terry<br>Kelvin Ho Ying Chong<br>Tang Yew Loong Jonathan<br>Wong Hao Cong Jeffrey | Bronze|
+| | Women's Team | Li Li<br>Xing Aiying<br>Li Yujia<br>Zhang Beiwen<br>Liu Fan Frances<br>Shinta Mulia Sari<br>Fu Mingtian, Yao Lei<br>Vanessa Neo Yu Yan<br>Chen Jiayuan | Bronze |
 | Boxing | Lightweight Up to 60Kg |	Khairul Anuar bin Hamid |	Bronze |
-| Cuesports | Men's Snooker Doubles	| Ang Boon Chin	and Lim Chun Kiat | Gold |
+| Cuesports | Men's Snooker Doubles	| Ang Boon Chin<br>Lim Chun Kiat | Gold |
 | | Men's Billiards Singles	| Peter Gilchrist	| Gold |
 | | Women's 9 Ball Pool Single |Charlene Chai | Silver |
-| | Men's Billiards Doubles |	Lim Chun Kiat	and Peter Gilchrist | Bronze |
-| | Men's 9 Pool Doubles	| Chan Keng, Kwang and Toh Lian Han | Bronze |
+| | Men's Billiards Doubles |	Lim Chun Kiat<br>Peter Gilchrist | Bronze |
+| | Men's 9 Pool Doubles	| Chan Keng, Kwang<br>Toh Lian Han | Bronze |
 | Cycling | Time Trial	| Dinah Chen Siew Keng	| Bronze |
+| Golf | Men's Team | Lam Zi Qun<br>Leong Kit Wai Jonathan<br>Woo Ke-Jun Jonathan<br>Johnson Poh Swee Kiat | Silver |
+| | Men's Individual | Johnson Poh Swee Kiat |Silver |
+|Football |Men's Team |Isa A Halim<br>Hyrulnizam<br>Fadhil Noh<br>Faritz A Hameed<br>Irwan Shah<br>Fazli Ayob<br>Muhammad Shafiq B<br>M Afiq Yunos<br>Khairul Nizam<br>Hariss Harun<br>Safuwan Baharudin<br>Eddie Chang<br>Yasir Hanapi<br>Quak Jun Yi<br>Madhu Mohana<br>Muhammad Raihan<br>Chan Yunhui<br>Shahdan Sulaiman<br>Firdaus Mohamed | Bronze |
+| Judo | Men's Over 90kg up to 100kg | Wee Pui Seng	Silver |
+| | Women's Jyu-no Kata | Ngo Yee Ling<br>Cai Renjun | 	Bronze |
+| | Women's Over 52kg up to 57kg	| Ang Xuan Yi	| Bronze |
+| Karate |Women's Individual Kata	| Ng Pei Yi	| Silver |
+| | Men's 67kg and below Kumite	| Tan Qingyuan	| Bronze |
+| Shooting | Women's 10m Air Rifle (INDV)	| Goh Jia Yi	| Gold |
+| | Men's 10 m Air Rifle (INDV)	| Zhang Jin	| Gold |
+| | Men's 10 m Air Rifle (TEAM) |	Ong Jun Hong<br>Koh Tien Wei Jonathon<br>Zhang Jin | Gold |
+| | Men's 10m Air Pistol 60 Shots	| Lim Swee Hon Nigel<br>Gai Bin<br>Poh Lip Meng | Gold |
+| | Women's 50m Rifle 3 Positions 3 x 20 (INDV)	| Ser Xiang Wei Jasmine	| Gold |
+| | Men's 50m Pistol 60 Shots(TEAM)	| Lim Swee Hon Nigel<br>Gai Bin<br>Poh Lip Meng | Gold |
+| | Men's 10 m Air Rifle (INDV)	Koh Tien Wei Jonathon	| Silver |
+| | Men's 25m Standard Pistol (INDV)	Gai Bin	| Silver |
+| | Men's 10m Air Pistol 60 Shots (INDV)	Poh Lip Meng	| Silver |
+| | Women's 50m Rifle 3 Positions 3 x 20	| Lim Chea Rong<br>Ser Xiang Wei Jasmine<br>Aqilah Binte Sudhir	| Silver |
+| | Men's 50m Free Pistol 60 Shots(INDV)	| Gai Bin	| Silver |
 
+
+
+
+
+
+
+
+
+
+
+Women's 10m Air Rifle (TEAM)	Haw Siew Peng	Bronze
+Goh Jia Yi
+Aqilah Binte Sudhir
+Men's 25m Standard Pistol (TEAM)	Gai Bin	Bronze
+On Shaw Ming
+Poh Lip Meng
+Men's 50m Rifle Prone 60 Shots	Ong Jun Hong	Bronze
+Zhang Jin
+Women's 50m Rifle 3 Positions 3 x 20 (INDV)	Aqilah Binte Sudhir	Bronze
+25m Center Fire Pistol Team	Gai Bin	Bronze
+Poh Lip Meng
+On Shaw Ming
 
 
 
