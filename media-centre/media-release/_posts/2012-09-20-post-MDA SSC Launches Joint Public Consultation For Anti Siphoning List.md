@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **MDA-SSC Launches Joint Public Consultation For Anti-Siphoning List**
+### **MDA-SSC Launches Joint Public Consultation For Anti-Siphoning List**
 
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/MDASSCLAUNCHESJOINTPUBLICCONSULTATIONFORANTISIPHONINGLISTMainPar0042Imagegif.gif)
 	
@@ -16,4 +16,4 @@ image: ""
 
 3. In order to ensure that the current anti-siphoning list is in line with market developments and consumer preferences, MDA and the Singapore Sports Council jointly launched a two-phase consultation on the proposed changes to the anti-siphoning regime.
 
-4. A consultative panel comprising representatives from the government, industry and a consumer group was convened in February to August this year to review and propose the changes to be made to the anti-siphoning regime. For the second phase, members of the public are invited to share their views on the proposed changes starting from today. The public consultation will close on Oct 18, 2012. 
+4. A consultative panel comprising representatives from the government, industry and a consumer group was convened in February to August this year to review and propose the changes to be made to the anti-siphoning regime. For the second phase, members of the public are invited to share their views on the proposed changes starting from today. The public consultation will close on Oct 18, 2012.
