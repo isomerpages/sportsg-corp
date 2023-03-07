@@ -114,61 +114,24 @@ Team Events
 
 Total MAP Award: $2,340,000.00
 
-Annex D: Singapore National Olympic Council and Team Singapore Appreciation <br>**Plaque Recipients**
+Annex D: Singapore National Olympic Council and Team Singapore Appreciation 
+<br>**Plaque Recipients**
 | SN | Name of Recipient |
 | -------- | -------- 
-| 1.    | Text     
+| 1.    | Adecco Personnel Private Limited
+| 2.   | Canon Singapore Private Limited
+| 3.  | Changi Airport Group (Singapore) Private Limited
+| 4. | MediaCorp Private Limited
+| 5.  | National Library Board
+| 6. | Nestle (Singapore) Private Limited
+| 7.  | NTUC FairPrice Foundation Limited
+| 8.   | Singapore Press Holdings Limited
+| 9.  | Singapore Totalisator Board & Singapore Pools (Private) Limited
+| 10.  | Sunrise & Company (Private) Limited
+| 11.  | StarHub Limited
 
-
-
-1.    
-
-Adecco Personnel Private Limited
-
-2.    
-
-Canon Singapore Private Limited
-
-3.    
-
-Changi Airport Group (Singapore) Private Limited
-
-4.    
-
-MediaCorp Private Limited
-
-5.    
-
-National Library Board
-
-6.    
-
-Nestle (Singapore) Private Limited
-
-7.    
-
-NTUC FairPrice Foundation Limited
-
-8.    
-
-Singapore Press Holdings Limited
-
-9.    
-
-Singapore Totalisator Board & Singapore Pools (Private) Limited
-
-10. 
-
-Sunrise & Company (Private) Limited
-
-11. 
-
-StarHub Limited
-
- 
-
-About the Singapore Sports Council
-statics0
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
