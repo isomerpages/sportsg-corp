@@ -187,36 +187,9 @@ Athletes
 | 25.  | Aquatics - Waterpolo | Lin Diyan | 林迪晏 | 24 | M | √    | Team (M)
 | 26.  | Aquatics - Waterpolo | Lin Diyang| 林迪洋 | 23 | M | √   | Team (M)
 | 27.   | Aquatics - Waterpolo | Loh Zhi Zhi | 骆之志 | 20 | M | √   | Team (M)
-
-28.   
-
-Luo Nan
-
-罗楠
-
-30
-
-M
-
-√   
-
-Team (M)
-
-29.   
-
-Ng Li-Ming
-
-黃利明
-
-21
-
-M
-
-√   
-
-Team (M)
-
-30.   
+| 28. | Aquatics - Waterpolo |Luo Nan | 罗楠 | 30 | M | √  | Team (M)
+| 29.  | Aquatics - Waterpolo |Ng Li-Ming | 黃利明  | 21  | M  | √    | Team (M)
+| 30.   
 
 Nigel Tay Sin Chao
 
