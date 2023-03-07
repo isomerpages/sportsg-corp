@@ -105,24 +105,9 @@ Team Events
 ||| | | |
 | -------- | -------- | -------- | -------- | -------- 
 | Bowling     | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi | Gold  | $320,000.00
+| Bowling     | Men's Doubles  | Jason YEONG-NATHAN <br>Remy ONG  | Silver | $160,000.00
 
 
-
-Gold
-
-
-
-Gold
-
-Men's Doubles
-
-Jason YEONG-NATHAN
-
-Silver
-
-$160,000.00
-
-Remy ONG
 
 Silver
 
