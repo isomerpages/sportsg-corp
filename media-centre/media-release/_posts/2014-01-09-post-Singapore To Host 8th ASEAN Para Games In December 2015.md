@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore To Host 8th ASEAN Para Games In December 2015**
+### **Singapore To Host 8th ASEAN Para Games In December 2015**
 ![](/images/Media%20Centre/Media%20Release/2014/Jan/ssc%20snpc%20sdsc.jpeg)
 **Singapore, 9 January 2014** - As a befitting finale of a major year for Singapore sports, 2015 will see Singapore hosting the 8th ASEAN Para Games – a first to be held here. The ASEAN Para Games will be held during the December school holidays.
  
@@ -18,20 +18,21 @@ image: ""
 
 5. Come 20 January 2014, a group of performers will put on a four-and-a-half minute performance to the song “Treasure Every Moment”, performed by Kelvin Tan Wei Lian (aka Chen Wei Lian) in Naypyidaw, Myanmar at the closing ceremony of the 7th ASEAN Para Games, as part of the handover of the Games to Singapore. The song will be accompanied by a display of Samba dance, which includes wheelchair dancers and a sign language interpreter.
 
--End-
+---
 
 Annex:
 *   [Profiles of Choreographer, Singers, and Dancers](/files/Media%20Centre/Media%20Release/2014/Jan/Singapore%20to%20host%208th%20Asean%20Para%20Games%20in%20December%202015%20annex.pdf)
 
 **For media enquiries, please contact:**
-<br>Eric Ong
+
+Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: +65 6500 5014
 <br>HP: +65 9764 4964
 <br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
-<br>Yasmin Lazaroo
+Yasmin Lazaroo
 <br>Assistant Manager, Corporate Communications
 <br>Singapore Disability Sports Council
 <br>Tel: +65 6342 3501
@@ -43,7 +44,7 @@ Annex:
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg
-<br>
+
 Follow us on Facebook and Flickr at: [www.facebook.com/SingaporeSports ](www.facebook.com/SingaporeSports )and[ flickr.com/ssc-sportsphotography]( flickr.com/ssc-sportsphotography)
 
 **About Singapore National Paralympic Council (SNPC)**
