@@ -24,12 +24,14 @@ Further investigation will follow if the review reveals that it was not a TUE or
 The athlete will only be notified when ADS has completed its investigations and decided whether it will bring the atypical finding forward as an adverse analytical finding.  No further action will be taken if there is no evidence of use of a prohibited substance. ADS will report the atypical finding as an adverse analytical finding, if there is evidence of use.
 
 **ADVERSE ANALYTICAL FINDING**
+
 If the laboratory reports an adverse analytical finding in the A Sample, ADS will determine whether:
 * a TUE has been granted
 * there has been a departure from the International Standard for Testing or International Standard for Laboratories that may have caused the adverse analytical finding.
 ADS will report the outcome of the review to the Athlete if the review reveals that it was not a TUE or departure from procedures that caused the adverse analytical finding.
 
 **ANTI-DOPING RULE VIOLATIONS**
+
 The detection of a prohibited substance in a sample is only one of many ways that can result in an anti-doping rule violation. Doping is defined as the occurrence of one or more of the following anti-doping rule violations that can result in a sanction.
 
 An athlete may be deemed to have committed an anti-doping rule violation if they:
@@ -51,6 +53,7 @@ An athlete support personnel, such as a Coach, Team Manager or Doctor, may also 
 The World Anti-Doping Agency (WADA) has published a global list of Athlete Support Personnel who are currently suspended from working with Athletes or other Persons. For the updated list, please refer to the [WADA Prohibited Association List](https://www.wada-ama.org/en/resources/the-code/prohibited-association-list).
 
 **NOTIFICATION AFTER INITIAL REVIEW**
+
 If the initial review does not justify the Adverse Analytical Finding, ADS will notify the athlete in writing of a possible anti-doping rule violation, and the notice issued will detail:
 * The in-competition or out-of-competition doping control date and time
 * The adverse analytical finding (if applicable)
@@ -80,9 +83,7 @@ Where a provisional suspension has been imposed in relation to an A Sample adver
 An athlete that is charged with an anti-doping rule violation has the right to a fair hearing. The anti-doping organization that initiated sample collection is responsible for determining what sanctions will apply to each individual case.
 Where the [ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and-forms/) apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY). The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
 
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:11.0pt; mso-ansi-font-size:11.0pt; mso-bidi-font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
-**APPEA**L
+**APPEA**
 
 Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
 
