@@ -443,38 +443,11 @@ Team Officials
 | 31.  | Dragon Boat| Goh Poh Soon| Coach
 | 32.  | Dragon Boat|Frederick Hartmut Heese| Coach
 | 33.  | Equestrian| Monique Heah Cheng Siew| Team Manager
-
-34.   
-
-Juan-Miguel Febrerer Riu
-
-Coach
-
-35.   
-
-Fencing
-
-Ryan Quek Wee Lun
-
-Team Manager
-
-36.   
-
-Khorvat Oleg
-
-Coach
-
-37.   
-
-Bobok Viacheslav
-
-Coach
-
-38.   
-
-Football
-
-Eugene Loo Kai York
+| 34.| Equestrian| Juan-Miguel Febrerer Riu| Coach
+| 35.| Fencing| Ryan Quek Wee Lun| Team Manager
+| 36. | Fencing| Khorvat Oleg| Coach
+| 37. | Fencing| Bobok Viacheslav| Coach
+| 38.| Football| Eugene Loo Kai York
 
 Team Manager
 
