@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **17,000 Hearts, One Team Singapore For The SEA Games**
 _Team Nila Strengthens and Unites Communities Through Sport_
 
