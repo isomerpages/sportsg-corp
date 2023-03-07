@@ -401,40 +401,16 @@ Athletes
 | 240.| Wushu | Tao Yi Jun| 陶奕君| 25| F| | Taijiquan (W) <br>Taijijian All-round (W)
 | 241.| Wushu | Valerie Wee Ling En| 魏灵恩| 21| F| √ | Taijiquan (W)<br>Taijijian All-round (W)
 
- 
-
- 
-
- 
-
 Largest squad (Team): Dragon Boat - 48 Athletes
-
-Largest squad (Non-Team): Shooting - 22 Athletes
-
-No. athletes of 21 years old and below: 98
-
-No. of Debutant: 199
-
- 
+<br>Largest squad (Non-Team): Shooting - 22 Athletes
+<br>No. athletes of 21 years old and below: 98
+<br>No. of Debutant: 199
 
 Team Officials
  
-
-No.
-
-Sport
-
-Name
-
-Role
-
-1.     
-
-Aquatics - Swimming
-
-Ang Peng Siong
-
-Team Manager
+| No. | Sport | Name |Role |
+| -------- | -------- | -------- |-------- |
+| 1. | Aquatics - Swimming | Ang Peng Siong | Team Manager
 
 2.     
 
