@@ -86,30 +86,11 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 
 Total MAP Award: $1,880,000.00
 
- 
-
 Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
-Individual Events
-
-SPORT
-
-EVENT
-
-NAME(S)
-
-MEDAL
-
-AMOUNT (SGD)
-
-Bowling
-
-Women's Masters
-
-Cherie TAN Shi Hua
-
-Silver
-
-$100,000.00
+**Individual Events**
+| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
+| -------- | -------- | -------- | -------- | -------- |
+| Bowling     | Women's Masters    | Cherie TAN Shi Hua    | Silver   | $100,000.00
 
 Women's Singles
 
