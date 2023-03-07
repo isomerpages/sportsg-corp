@@ -374,62 +374,10 @@ Athletes
 | 212.| Shooting | Goh Jia Yi | 吴珈仪 | 15 | F | √    | 10m Air Rifle (W)
 | 213. | Shooting | Haw Siew Peng | 何修蘋 | 30 | F| √    | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
 | 214.| Shooting | Jasmine Ser Xiang Wei| 徐湘玮| 20| F|| 10m Air Rifle (W)<br>50 m Rifle 3 positions (W) <br>50m Rifle Prone (W)
-
-215. | Shooting |        
-
-Jonathan Koh Tien Wei
-
-许添威
-
-20
-
-M
-
- 
-
-10m Air Rifle (M)
-
-216.        
-
-Kasmijan Bin Kimin
-
-NA
-
-48
-
-M
-
-√   
-
-50m Rifle Prone (M)
-
-217.        
-
-Lee Wung Yew
-
-李宏耀
-
-44
-
-M
-
- 
-
-Trap (M)
-
-218.        
-
-Lee Yee
-
-李育
-
-31
-
-M
-
-√   
-
-Skeet (M)
+|215. | Shooting | Jonathan Koh Tien Wei | 许添威 | 20 | M |10m Air Rifle (M)
+| 216. | Kasmijan Bin Kimin |NA |48 |M |√   |50m Rifle Prone (M)
+|217.|Lee Wung Yew|李宏耀|44 | M |Trap (M)
+|218. | Lee Yee |李育 |31 |M | √    |Skeet (M)
 
 219.        
 
