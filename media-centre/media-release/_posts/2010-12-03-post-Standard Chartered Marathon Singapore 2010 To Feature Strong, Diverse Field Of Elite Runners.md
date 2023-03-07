@@ -27,7 +27,7 @@ STANDARD CHARTERED MARATHON SINGAPORE 2010 TO FEATURE STRONG, DIVERSE FIELD OF E
 
 8. "Our aim this year is to increase the level of competition among the elite athletes. By taking the unique step of channelling the normal appearance fees to the prize purse and introducing the new prize structure, we have succeeded in attracting many world class athletes to Singapore to compete at the Standard Chartered Marathon Singapore 2010. With the strength of the elite field in both the men's and women's Full Marathon open categories, we are expecting a very exciting race indeed," said David Voth, Chairman, SCMS 2010 Organising Committee and Senior Director, Sports Marketing Group, SSC.
 
-9 The SCMS 2010 will see a record 60,000 runners competing in a variety of categories which includes the Full Marathon, the Half-marathon and the 10km Run. Featuring three different routes, runners will take in the full spectrum of iconic landmarks in Singapore including Orchard Road, Chinatown, Universal Studios Singapore, the Marina Bay Sands Integrated Resort and the Esplanade - Theatres on the Bay.
+9. The SCMS 2010 will see a record 60,000 runners competing in a variety of categories which includes the Full Marathon, the Half-marathon and the 10km Run. Featuring three different routes, runners will take in the full spectrum of iconic landmarks in Singapore including Orchard Road, Chinatown, Universal Studios Singapore, the Marina Bay Sands Integrated Resort and the Esplanade - Theatres on the Bay.
 
 -End-
 
@@ -89,7 +89,6 @@ Career Highlights:
 2007 Nagano Olympic Commemorative Marathon, Third (2:29:34)
 2008 Rotterdam Marathon, Champion (2:25:12)
 2009 Singapore Marathon, Second (2:34:47)
-
 
 **Kenneth Mburu Mungara**
 <br>
