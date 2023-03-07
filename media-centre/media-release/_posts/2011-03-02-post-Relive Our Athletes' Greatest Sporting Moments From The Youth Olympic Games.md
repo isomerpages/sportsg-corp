@@ -157,15 +157,15 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 For further information, please visit www.teamsingapore.com.sg
 
 Follow Team Singapore's action on Facebook at: www.facebook.com/TeamSG
-statics0
+
 About Let's Play
-statics0
+<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
-statics0
+
 For media enquiries, please contact:
-Patricia Yee
-Executive
-Media Relations
-Singapore Sports Council
-Office: (65) 6500 5246
-Email: patricia_yee@ssc.gov.sg
+<br>Patricia Yee
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5246
+<br>Email: patricia_yee@ssc.gov.sg
