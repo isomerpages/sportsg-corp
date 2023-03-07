@@ -8,7 +8,7 @@ image: ""
 ---
 ## **60,000 Runners Make Inaugural Race A Resounding Success**
 
-60,000 RUNNERS MAKE INAUGURAL RACE A RESOUNDING SUCCESS
+
 **Singapore, 5 December 2010** - History was made today as a record-breaking 60,000 runners took to the streets at the inaugural Standard Chartered Marathon Singapore (SCMS) 2010. Flagged off from three different start points, runners found themselves pounding through some of Singapore's key iconic landmarks, which included Orchard Road, Chinatown, Sentosa, Universal Studios Singapore, Marina Bay Sands and the Singapore Flyer.
 
 2. Commenting on the success of the inaugural race which was organised by the Singapore Sports Council (SSC), David Voth, Chairman, SCMS 2010 Organising Committee and Senior Director, Sports Marketing Group, SSC, said, "I am extremely pleased with the race today and the success of the inaugural race would not have been possible without the support of all our partners and stakeholders. Our aim has always been to make the Standard Chartered Marathon Singapore an event not just for runners but for the community as well. Looking at the spectacular turnout of runners and supporters today, I'm confident we are on track to fulfil our vision of the Marathon becoming Asia's pinnacle race."
@@ -19,7 +19,7 @@ image: ""
 
 5. For the inaugural race this year, the SCMS 2010 Organising Committee from the SSC worked closely with local stakeholders and organisations to collectively bring to life a marathon that was Uniquely Singapore. With the aim of developing the vision of a running culture in Singapore, the Organiser launched many new initiatives such as three different start points and running routes, a revised prize money structure and inviting renowned Boston Marathon race director, Dave McGillivray to oversee the race. With these initiatives, the Organiser hopes to raise the quality of the race, strengthen its profile and eventually increase the participation figure to 100,000 in five years time and fulfil the vision of making the event a "people's marathon".
 
-6 Minister for Foreign Affairs Mr. George Yeo was the Guest-of-Honour for the Full Marathon, which was flagged off at 5.00am at Orchard Road for the first time. 20,000 runners passed under a flood of Christmas lights. Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, flagged off the Half-marathon at 6.30 am where 15,000 runners started the race at the Sentosa Gateway, bringing them through the island of Sentosa and amidst the sights and sounds of Universal Studios Singapore. The 10 KM Run was flagged off at 7.45am by Mr Seah Kian Peng, Member of Parliament for Marine Parade GRC, on the Esplanade Bridge, where 20,000 runners began their race.
+6. Minister for Foreign Affairs Mr. George Yeo was the Guest-of-Honour for the Full Marathon, which was flagged off at 5.00am at Orchard Road for the first time. 20,000 runners passed under a flood of Christmas lights. Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, flagged off the Half-marathon at 6.30 am where 15,000 runners started the race at the Sentosa Gateway, bringing them through the island of Sentosa and amidst the sights and sounds of Universal Studios Singapore. The 10 KM Run was flagged off at 7.45am by Mr Seah Kian Peng, Member of Parliament for Marine Parade GRC, on the Esplanade Bridge, where 20,000 runners began their race.
 
 7. Kenneth Mburu Mungara and Irene Jerotich Kosgei took home the champions title while Mok Ying Ren and Qi Hui went away as winners of the local category.
 
@@ -31,9 +31,10 @@ image: ""
 
 11. Over in the women's local category (Full Marathon), Qi Hui topped the category with 03:12.24, just 11 minutes ahead of Elaine Lim who finished with a time of 03:23.21. Jeradine Collett came in with a time of 03:24.19, rounding up the top three in that category.
 
--End-
+---
 
 Annex A: Results
+
 Full Marathon Results - Men's Individual
 
 | No. | Name | Country | Finishing Time |
@@ -75,11 +76,11 @@ Annex C: [SCMS 2010 Event Day Fact Sheet [391 Kb]](/files/Media%20Centre/Media%2
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
 **About Standard Chartered Bank in Singapore**
