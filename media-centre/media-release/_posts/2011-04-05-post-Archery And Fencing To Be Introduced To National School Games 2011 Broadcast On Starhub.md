@@ -11,6 +11,7 @@ image: ""
 
 ARCHERY AND FENCING TO BE INTRODUCED TO NATIONAL SCHOOL GAMES 2011 BROADCAST ON STARHUB'S SUPERSPORTS ARENA
 2011 Edition to Feature Team Singapore Youth Athletes and Alternative Viewing Platforms via Android and Apple iOS Applications
+
 **Singapore, 5 April 2011** - The Ministry of Education (MOE), Singapore Sports Council (SSC) and StarHub are collaborating for the second year running to broadcast the National School Games (NSG) on StarHub's sports channel SuperSports Arena (Starhub TV Channel 201), available free to all StarHub TV customers.
 
 2. Two newly added sports, archery and fencing, will be featured in this weekly prime-time magazine show. The series will cover a total of 29 sports contested across the three age divisions in secondary schools and junior colleges. The programme will include Games highlights, interviews and results of the various competitions.
