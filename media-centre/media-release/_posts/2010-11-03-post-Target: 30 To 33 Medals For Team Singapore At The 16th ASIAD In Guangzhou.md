@@ -286,62 +286,11 @@ Athletes
 | 124. | Fencing | Ruth Ng Yi Lin| 黄怡琳| 24| F| Foil Individual (W)<br>Foil Team (W)
 | 125.  | Fencing | Tay Yu Ling | 戴妤玲| 23| F| Foil Team (W)
 | 126.  | Fencing |Wang Wenying| 王雯莹| 29| F| Foil Individual (W) <br>Foil Team (W)
-| 127.  |  Football  |  zwan Mahbud |  NA |  20 |  M |  √ |  Team (M) 
-|  128.        
-
-Siddiq Durimi
-
-NA
-
-22
-
-M
-
-√   
-
-Team (M)
-
-129.        
-
-Shakir Hamzah
-
-NA
-
-18
-
-M
-
-√   
-
-Team (M)
-
-130.        
-
-Afiq Yunos
-
-NA
-
-20
-
-M
-
-√   
-
-Team (M)
-
-131.        
-
-Eddie Affendy Chang
-
-NA
-
-20
-
-M
-
-√   
-
-Team (M)
+| 127.  |  Football  | zwan Mahbud |  NA |  20 |  M |  √ |  Team (M) 
+| 128.  | Football  | Siddiq Durimi |NA |22 |M |√    |Team (M)
+|129.  | Football  | Shakir Hamzah |NA |18 |M |√    |Team (M)
+| 130.| Football  | Afiq Yunos | NA | 20 | M | √    | Team (M)
+| 131.| Football  | Eddie Affendy Chang | NA | 20 | M | √    | Team (M)
 
 132.        
 
