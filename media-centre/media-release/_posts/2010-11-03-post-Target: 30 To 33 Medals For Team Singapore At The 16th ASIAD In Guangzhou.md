@@ -213,7 +213,7 @@ Athletes
 | 51.  | Bowling | Mark Wong Jee Mun| 黄智文 | 19 | M | √ | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
 | 52.   | Bowling | New Hui Fen  | 梁慧芬  | 18  | F  | √    | Singles (W)<br>Doubles (W) <br>Trios (W)<br>Team (W)
 | 53. | Bowling | Ng Tiac Pin  | 黄哲彬  | 23  | M  | √    | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
-|54. |Bowling | Remy Ong | 王雷明 | 31 |M |Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
+|54. |Bowling | Remy Ong | 王雷明 | 31 |M | | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
 |55. |Bowling | Shayna Ng Lin Zhi |黄琳芷 | 21 | F |√   |Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
 |56. |Canoeing |Andrea Chen Jiewen |陈洁文 |25 |F |√    |K4  500m (W)
 |57.   
