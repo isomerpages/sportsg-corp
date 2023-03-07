@@ -221,37 +221,9 @@ Athletes
 |  59.  |   Canoeing | Irene Chua Pei Xuan  |  蔡佩璇  |  22  |  F  |  √   |  K4  500m (W)
 |  60.  |   Canoeing | Stephenie Chen Jiexian  |  陈洁娴  | 18 | F | √   | K2   500m (W)
 | 61. |  Canoeing | Suzanne Seah | 佘素珊 | 20| F| √   | K2   500m (W)
-| 62. | Chess (Xiangqi) | Alvin Woo Tsung Han| 吴宗翰
-
-27
-
-M
-
-√   
-
-Individual (M)
-
-63.   
-
-Cuesports
-
- 
-
-Ang Boon Chin
-
-洪文进
-
-29
-
-M
-
-√   
-
-Snooker Team
-
-Snooker Singles
-
-64.   
+| 62. | Chess (Xiangqi) | Alvin Woo Tsung Han| 吴宗翰| 27| M| √   | Individual (M)
+| 63.  | Cuesports | Ang Boon Chin | 洪文进 | 29 | M | √| Snooker Team <br>Snooker Singles
+| 64.   
 
 Chan Keng Kwang
 
