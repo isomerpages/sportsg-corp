@@ -18,7 +18,9 @@ When the founding Prime Minister, Mr Lee Kuan Yew established SSC in October 197
 
 “The two years I spent in SSC were filled with plans to pursue this direction. The Council discussed how best to define and articulate sports policies and establish programmes that would enable all Singaporeans to exercise daily and make sports a way of life. We examined all the options and strategies to ensure the provision and maximum utilisation of all the facilities and resources available, including the sports clubs our country had inherited from the British forces,” shared Dr Sen.
 
-_“Our goal was to develop a robust and healthy people, with a strong and resilient character and confidence to face life’s challenges. This is what sport does. With regular participation in sport, Singapore would not only have stronger, fitter National Servicemen, but also a healthy labour force that automatically increases productivity.”_ \- **Dr B.K. Sen, 2013**
+> _“Our goal was to develop a robust and healthy people, with a strong and resilient character and confidence to face life’s challenges. This is what sport does. With regular participation in sport, Singapore would not only have stronger, fitter National Servicemen, but also a healthy labour force that automatically increases productivity.”_
+
+**Dr B.K. Sen, 2013**
 
 The National Stadium Corporation was established in November 1971. It held the limited responsibility of planning and preparing the construction of our National Stadium, and Dr Sen was appointed its Chairman by the Prime Minister.
 
@@ -28,7 +30,9 @@ When it opened in 1973, the National Stadium not only became a treasured icon fo
 
 Singapore’s first Prime Minister, the late Mr. Lee Kuan Yew, said at the official opening of the National Stadium: “Given leadership by the Chairman, Dr. B.K. Sen, people will be encouraged to watch, and then to personally take part in sporting activities. Healthy, wholesome exercise and recreation can make up for the passive entertainment which filled the lives of many people, the TV, cinemas, floorshows and exhibitions."
 
-_“SportSG still carries heavy responsibilities – to not only make Singapore a sporting nation, but to encourage the joy from participation and bonding of a community that occurs through team sport.”_ \- **Dr B.K. Sen, 2013**
+> _“SportSG still carries heavy responsibilities – to not only make Singapore a sporting nation, but to encourage the joy from participation and bonding of a community that occurs through team sport.”_ 
+
+**Dr B.K. Sen, 2013**
 
 We are grateful for Dr Sen’s dedication and contributions to sports. Together, with our partners, Sport Singapore will continue to build a Sporting Singapore inspired by his belief and the foundation he created.
 
