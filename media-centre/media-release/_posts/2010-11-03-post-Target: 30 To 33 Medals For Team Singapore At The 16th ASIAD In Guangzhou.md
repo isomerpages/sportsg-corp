@@ -471,27 +471,12 @@ Team Officials
 | 59.  | Sailing |Serena Wong| Asst. Team Manager
 | 60. | Sailing |Fernando Javier Alegre Arbulu| Coach (Optimist)
 | 61. | Sailing |Thierry Bernard Jean Barot | Coach (Keelboat)
-| 62. | Brett Justin Beyer| Coach (Laser, Laser Radial)
+| 62. | Sailing | Brett Justin Beyer| Coach (Laser, Laser Radial)
 | 63. | Sailing | Susan Lesley Ferris | Coach (Hobie 16, RS:X, Mistral)
-| 64.| Daniel John Smith
-
-Coach (470)
-
-65.   
-
-Zhang Yong Qiang
-
-Coach (420)
-
-66.   
-
-Peter Anthony Logan
-
-Team Official
-
-67.   
-
-Chung Pei Ming
+| 64.| Sailing | Daniel John Smith| Coach (470)
+| 65. | Sailing | Zhang Yong Qiang | Coach (420)
+| 66.  | Sailing | Peter Anthony Logan| Team Official
+| 67.  | Chung Pei Ming
 
 Team Captain
 
