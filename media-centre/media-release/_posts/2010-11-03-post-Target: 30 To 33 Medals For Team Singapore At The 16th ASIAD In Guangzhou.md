@@ -340,50 +340,9 @@ Athletes
 | 179.  | Rugby | Wong Yilin| 黄奕琳| 21| F| √   | Team (W)
 | 180. | Rugby | Eunice Tay Gek Sie | 戴玉诗 | 31 | F | √    | Team (W)
 | 181. | Rugby | Derelyn Chua Jialing | 蔡家玲 | 26 | F | √  | Team (W)
-
-182.        
-
-Fong Sei Yin
-
-冯雪燕
-
-34
-
-F
-
-√   
-
-Team (W)
-
-183.        
-
-Amanda Teo Baoling
-
-张宝玲
-
-23
-
-F
-
-√   
-
-Team (W)
-
-184.        
-
-Sailing
-
-Cecilia Low Rui Qi
-
-刘瑞琦
-
-19
-
-F
-
-√   
-
-420 Girl
+| 182.  | Rugby | Fong Sei Yin| 冯雪燕| 34| F| √   | Team (W)
+| 183. | Rugby | Amanda Teo Baoling| 张宝玲| 23| F| √   | Team (W)
+| 184.  | Sailing| Cecilia Low Rui Qi| 刘瑞琦| 19| F| √   | 420 Girl
 
 185.        
 
