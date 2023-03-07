@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Organisers Advise On Road Closures During The Standard Chartered Marathon Singapore 2010**
+### **Organisers Advise On Road Closures During The Standard Chartered Marathon Singapore 2010**
 
 ORGANISERS ADVISE ON ROAD CLOSURES DURING THE STANDARD CHARTERED MARATHON SINGAPORE 2010
 **Singapore, 1 December 2010** - The highly anticipated, inaugural Standard Chartered Marathon Singapore 2010 is taking place on Sunday, 5 December 2010 with a record number of 60,000 runners. With three different routes marked out for the race, the Singapore Sports Council, the organiser of the Marathon, would like to advise the public on the road closures and traffic diversions expected on race day.
@@ -28,7 +28,7 @@ More information on the road closures and diversions can be found at www.maratho
 
 Alternatively, the public can also contact the organisers at 6319 2630 during office hours, as well as at the same number from 9am to 6pm on Race Day, or e-mail info@marathonsingapore.com should they require additional information.
 
--End-
+---
 
 Annex: [SCMS 2010 Route Closure List SCMS 2010 Road Closure Info in Traffic Advisory ](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS%202010%20Road%20Closure%20Info%20in%20Traffic%20Advisory%20Brochurepdf.pdf)[4750 Kb]
 
@@ -37,11 +37,11 @@ Annex: [SCMS 2010 Route Closure List SCMS 2010 Road Closure Info in Traffic Advi
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Standard Chartered Bank in Singapore**
@@ -57,7 +57,8 @@ It serves both Consumer and Wholesale Banking customers. Consumer Banking provid
 The Bank employs over 5,700 people in Singapore and has a network of 18 branches, 29 ATMs, and 6 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
 
 **For media enquiries, please contact:**
-<br>Samantha See
+
+Samantha See
 <br>Fulford Public Relations
 <br>Email: ssee@fulfordpr.com
 
