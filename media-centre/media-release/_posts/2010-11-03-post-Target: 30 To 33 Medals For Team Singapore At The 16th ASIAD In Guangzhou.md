@@ -81,25 +81,11 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Canoeing - Sprint | 22 - 26 November 2010
 | Chess - Weiqi | 20 - 26 November 2010
 | Chess - Xiangqi | 13 - 19 November 2010
-| Cricket
-
-13 - 26 November 2010
-
-Cycling - BMX
-
-19 November 2010
-
-Cycling - Mountain Bike
-
-18 November 2010
-
-Cycling - Road
-
-20 - 23 November 2010
-
-Cycling - Track
-
-13 - 17 November 2010
+| Cricket | 13 - 26 November 2010
+| Cycling - BMX | 9 November 2010
+| Cycling - Mountain Bike | 18 November 2010
+| Cycling - Road | 20 - 23 November 2010
+| Cycling - Track | 13 - 17 November 2010
 
 Dancesport
 
