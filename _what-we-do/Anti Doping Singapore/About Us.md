@@ -62,3 +62,55 @@ In carrying out its responsibilities, the NADAB shall:
 3. independently conduct administrative reviews when anti-doping rule violations have possibly occurred, and determine if ADS should proceed with the assertion of an Anti-Doping Rule Violation against an athlete or support personnel, or if a Whereabouts Failure should be recorded against an athlete.
  
 The term of appointment of the NADAB is for 2 years, commencing 1 January 2023 till 31 December 2024. The NADAB members are:
+
+
+#### **Chairperson**
+
+**Dr Patrick Goh**
+<br>
+MBBS, MSS (Sports Medicine)
+<br>
+Sports Physician, Orthopaedics International
+Chairperson, SEARADO
+Co-Chairman, Sports Medicine Sub-Specialist Training
+Committee, JCST
+
+#### **Members**
+
+**Mr Abdul Salim Ahmed Ibrahim**
+* PBM, FSIArb
+* Director - United Legal Alliance LLC
+
+**Mr Gobinathan Nair s/o Urath Sankaran**
+* Director General - Southeast Asia Regional Anti-Doping Organisation
+
+**Ms Lim Wan Peng**
+* Principal Pharmacist (Clinical), Tan Tock Seng Hospital
+* Member, Pharmaceutical Society of Singapore
+
+**Mr Eugene Goh Wee Sing**
+* Deputy Director, Enforcement Policy Framework & Ops Support 
+* Enforcement Branch,  Health Products Regulation Group, Health Sciences Authority
+
+**Ms Yip Pin Xiu**
+* Active Athlete, formerly from ADS's Testing Pool
+* Representing para athlete's perspective
+
+**Dr Mok Ying Ren**
+* Recently Retired Athlete
+* Formerly from ADS's Testing Pool
+
+**Mr Krishnan Aravinthan**
+* Director (Physical, Sports & Outdoor Education), Student Development Curriculum Division, Ministry of Education
+
+#### **Ex-Officio Members**
+**A/Prof Koh-Teo Sock Miang**
+* President, Singapore Disability Sports Council
+* Chairman, Singapore National Paralympic Council
+* Board Member, Singapore Sports School
+* Principal, Singapore Olympic Academy
+
+**Mr Chris Chan**
+* Secretary General, Singapore National Olympic Council
+* Board Member, Sport Singapore
+* Board Member, Singapore Olympic Academy & Singapore Olympic Foundation
