@@ -71,6 +71,8 @@ MILO is a nutritious, chocolate beverage made from the natural goodness of malt,
 
 MILO has been championing youth sports development in Singapore since 1950s. Through sponsorship of various sports events with institutions such as the Ministry of Education School Sports Council programmes, Singapore Sports Council, People's Association, MILO aims to nurture Singaporean athletes into national sports heroes. MILO also continues to rally and drive national support for Team Singapore athletes at international and regional events such as the South East Asian Games, 1st Asian Youth Games Singapore 2009.
 
+<hr>
+<br>
 **MILO and SSC Signing of MOU Press Conference Speech by Mr. Suresh Narayanan, Managing Director of Nestle Singapore**
 
 Dr. Vivian Balakrishnan, Minister, for the Community Development, Youth and Sports;
