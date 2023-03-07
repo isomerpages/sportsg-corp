@@ -29,5 +29,3 @@ The SEA Games recognises and honours the athletes, the coaches and the support o
 An act symbolising the gesture of friendship, unity and mutual respect
 
 The Ceremony culminated in the lighting of the 28th SEA Games Cauldron, by an athlete father-and-son pair – Singapore’s well-loved football legend Fandi Ahmad and his son, national footballer Irfan Fandi Ahmad.
-
-END
