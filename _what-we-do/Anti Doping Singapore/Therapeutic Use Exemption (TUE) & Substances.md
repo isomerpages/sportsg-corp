@@ -116,3 +116,15 @@ For list of medications registered in Australia, Canada, Japan, the United Kingd
 For list of medications registered in Hong Kong
 4. [Irish Pharmacy's Drug in Sport Database](http://www.eirpharm.com/) (endorsed by the Irish Sports Council)  
 For list of medications registered in Ireland
+
+**TIPS FOR ATHLETES TRAVELLING ABROAD**
+
+Athletes planning to travel abroad are advised to:
+* Take enough medication to continue any treatment for the duration of the trip
+* Check the medication is permitted in the country of travel and whether it is permitted to bring through customs
+
+Any products purchased overseas should be carefully checked. The ingredients in common medications can and do contain different substances to those available in Singapore.
+
+Some countries have different customs laws that may prohibit the import of certain substances into a particular country. Athletes carrying a prohibited substance for a legitimate medical condition, should carry the following documents at all times:
+* The prescription from the prescribing doctor including the name of the substance, the dose and the frequency of use
+* The TUE Certificate to demonstrate that an authorised anti-doping organisation has permitted the use of a prohibited substance for medical purposes
