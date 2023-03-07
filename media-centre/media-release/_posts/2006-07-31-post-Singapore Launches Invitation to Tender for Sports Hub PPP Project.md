@@ -38,7 +38,6 @@ For more on the Sports Hub, please log on to [www.ssc.gov.sg](www.ssc.gov.sg).
 
 **For media enquiries, please contact:**
 
-<br>
 Alvin Hang
 <br>
 Assistant Director
@@ -56,5 +55,4 @@ Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 ***About SSC***
 <br>
-
 *The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Issued by the Singapore Sports Council on 31 July 2006.*
