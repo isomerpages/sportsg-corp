@@ -6,14 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-Starting Them Young
-Singapore , 23 Nov 2010
+## **Starting Them Young**
 
 STARTING THEM YOUNG
 SSC Launches First-ever Fundamental Movement Skills Resource Guide To Boost The Development Of Physical Literacy
 Singapore 23 November 2010 - Children in Singapore will now receive a holistic education right from preschool with the launch of "FUN Start, MOVE Smart! The FUNdamental MOVEment Skills for Growing Active Learners" developed by the Singapore Sports Council (SSC).
 
-2 "FUN Start, MOVE Smart!" is a resource guide that provides teaching principles, ideas and practices to help educators in their movement education classes. Specifically, the guide provides educators basic information on fundamental movement skills, recommended activities, safety tips, and ideas on integrating the skills with other domains of development. There are also several instructional tools such as cue cards and observational checklists included for educators to use.
+2. "FUN Start, MOVE Smart!" is a resource guide that provides teaching principles, ideas and practices to help educators in their movement education classes. Specifically, the guide provides educators basic information on fundamental movement skills, recommended activities, safety tips, and ideas on integrating the skills with other domains of development. There are also several instructional tools such as cue cards and observational checklists included for educators to use.
 
 3 Fundamental movement skills are critical in the holistic development of children aged two to ten and are the building blocks for all learning domains such as language, literacy, numeracy and social awareness.
 
