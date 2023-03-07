@@ -32,7 +32,7 @@ STANDARD CHARTERED MARATHON SINGAPORE 2010 TO FEATURE STRONG, DIVERSE FIELD OF E
 -End-
 
 Annex A: List of Elite Athletes Participating in the SCMS 2010
-Male Elite Athletes
+**Male Elite Athletes**
 <br>Ambesse Tolossa (Ethiopia)
 <br>Augustine Rono (Kenya)
 <br>Benjamin Maiyo (Kenya)
@@ -48,7 +48,7 @@ Male Elite Athletes
 <br>Thomas Omwenga (Kenya)
 <br>Vincent Krop (Kenya)
 
-Female Elite Athletes
+**Female Elite Athletes**
 <br>Aberu Mekuria Zennebe (Ethiopia)
 <br>Adanech Zekiros (Ethiopia)
 <br>Annerien van Schalkwyk (South Africa)
@@ -70,9 +70,9 @@ Country: Russia
 Lyubov Morgunova is a long-distance runner from Russia who has represented her native country in the marathon at the 2000 Summer Olympics in Sydney, Australia. A veteran runner with victories in the 1997 Twin Cities Marathon, 2000 and 2004 Honolulu Marathon, 2003 Toronto Waterfront Marathon, and the 2008 Rotterdam Marathon, Morgunova was placed second in the Standard Chartered Singapore Marathon 2009.
 
 Personal Records:
-Full Marathon: 2:25:12
-Half Marathon: 1:08:45
-10 KM: 32:55
+<br>Full Marathon: 2:25:12
+<br>Half Marathon: 1:08:45
+<br>10 KM: 32:55
 
 Career Highlights:
 1996 Cesano Boscone Marathon, Second (2:37:30 - debut)
