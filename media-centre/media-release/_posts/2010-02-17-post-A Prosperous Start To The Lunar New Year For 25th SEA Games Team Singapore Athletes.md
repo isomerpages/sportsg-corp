@@ -91,6 +91,14 @@ MAP AWARDS RECIPIENTS
 ||||||$5,000 | SEA Games Record - 00:56:03 | Yr '99 - Joscelin - 00:56:05 |
 |||| Women's 200m Freestyle | 1 | $5,000 | Individual - 2nd Gold |
 |||||| $5,000 | SEA Games Record - 02:00:57 | Yr '07 - THA - 02:03:00 |
-
+||| Ong Wei Shien Zach | Men's 200m Backstroke | 1 | $10,000 | Individual |
+||| Tao Li | Women's 200m Backstroke | 1 | $10,000 | Individual - Ist Gold |
+|||| Women's 100m Backstroke |1 | $5,000 | Individual - 2nd Gold |
+|||||| $5,000 | SEA Games Record - 01:02:96 | Yr '05 - Tao Li - 01:03:83 |
+|||| Women's 100m Butterfly | 1 | $5,000 | Individual - 3rd Gold |
+|||||| $5,000 | SEA Games Record - 00:59:24 | Yr '05 - Joscelin - 00:59:91 | 
+|||| Women's 200m Butterfly |1 | $5,000 | SEA Games Record - 02:13:49 | Yr '05 - Tao Li - 02:14:11 |
+||| Lim Shu-En Lynette | Women's 800m Freestyle | 1 | $10,000 | Individual | 
+||||||$5,000 | SEA Games Record - 08:35:41 | Yr '07 - MAL - 08:47:80 |
 
 
