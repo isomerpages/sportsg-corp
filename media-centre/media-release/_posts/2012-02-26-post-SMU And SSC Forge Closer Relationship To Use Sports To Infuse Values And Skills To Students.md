@@ -13,7 +13,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2012/Feb/SMUANDSSCFORGECLOSERRELATIONSHIPTOUSESPORTSTOINFUSEVALUESANDSKILLSTOSTUDENTSMainPar0028Imagegif.gif)
 	
-Singapore, 26 Feb 2012 - Singapore Management University (SMU) and Singapore Sports Council (SSC) have inked a Memorandum of Understanding (MOU) to create a framework for collaboration to promote sport and explore possibilities of working together in sport-related initiatives.
+**Singapore, 26 Feb 2012** - Singapore Management University (SMU) and Singapore Sports Council (SSC) have inked a Memorandum of Understanding (MOU) to create a framework for collaboration to promote sport and explore possibilities of working together in sport-related initiatives.
 
 2. An exciting new development in the pipeline as part of the MOU will be the launch of new sports electives, such as Sports Coaching, to provide SMU students the relevant knowledge and skills to prepare them for the sports industry in the future. The first SMU sports elective, titled "Principles of Coaching in Sports" will commence classes in August 2012. The content of this elective is jointly developed by SSC and SMU.
 
