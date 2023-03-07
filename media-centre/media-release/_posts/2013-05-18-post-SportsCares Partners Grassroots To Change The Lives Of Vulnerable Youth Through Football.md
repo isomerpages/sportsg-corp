@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **SportsCares Partners Grassroots To Change The Lives Of Vulnerable Youth Through Football**
+### **SportsCares Partners Grassroots To Change The Lives Of Vulnerable Youth Through Football**
 ![](/images/Media%20Centre/Media%20Release/2013/May/SSCANDSMUJOINFORCESTOINSTILLVALUESINYOUTHTHROUGHSPORTSMainPar0061Imagegif.gif)
 	
 **Singapore, 18 May 2013** - The SportCares Foundation, the philanthropic arm of Singapore Sports Council (SSC), today officially launched a football programme in Jurong to change the lives of underprivileged and at-risk youth, in partnership with local grassroots organisations. Known as Saturday Night Lights (SNL), the programme exemplifies the work being done by SportCares to help people live better through sports. SportCares was the first recommendation to be put into action under the Vision 2030 sports masterplan.
@@ -29,13 +29,13 @@ image: ""
 
 8. On Delta League's participation, Deputy Assistant Commissioner of Police (DAC) Melvin Yong, Commander of Clementi Police Division, said: "The Delta League has shown that football is an effective way of reaching out to youths to positively engage and influence them during the school holidays. We are pleased to be partnering with the SportCares Foundation and the Saturday Night Lights programme, to extend this outreach beyond the school holidays."
 
-**SNL pilot effects positive changes in character**
+##### **SNL pilot effects positive changes in character**
 
 9. The SNL pilot may have been running for just eight weeks, but organisers and volunteers are already seeing positive changes in character in the boys.
 
 10. Ms Laura Reid, Assistant Director, SportCares Foundation, Singapore Sports Council, said: "We are seeing flashes of self-belief and confidence from our most vulnerable group of boys who came into SNL with very little of either. We can feel the team spirit emanating from the teams when they cheer each other on during the friendly matches at the end of the night. We know they are more committed to self-improvement, as evidenced by the deeper effort they are putting into their training. We know that for a fact because they are drinking double the amount of water during the night than when they first started eight weeks ago!"
 . 
-**Future plans**
+##### **Future plans**
 
 11. With the completion of this pilot run, Ms Reid hopes to see SNL grow and reach out to more communities. She said: "We look forward to introducing the programme to other regions in Singapore. In the longer term, we also hope to adapt the programme for other sports such as basketball or floorball."
 
@@ -45,10 +45,10 @@ If you wish more details on our activities, please visit www.facebook.com/sportc
 
 If you wish to make a financial donation, please go to www.sggives.org/sportcares.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Siti Nurhidayati 
 <br>Senior Executive, Media Relations 
 <br>Corporate Communications & Relations 
@@ -60,7 +60,7 @@ Siti Nurhidayati
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
