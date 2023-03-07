@@ -223,35 +223,8 @@ Athletes
 | 61. |  Canoeing | Suzanne Seah | 佘素珊 | 20| F| √   | K2   500m (W)
 | 62. | Chess (Xiangqi) | Alvin Woo Tsung Han| 吴宗翰| 27| M| √   | Individual (M)
 | 63.  | Cuesports | Ang Boon Chin | 洪文进 | 29 | M | √| Snooker Team <br>Snooker Singles
-| 64.   
-
-Chan Keng Kwang
-
-曾庆光
-
-30
-
-M
-
- 
-
-8-ball Pool Singles
-
-9-ball Pool Singles
-
-65.   
-
-Charlene Chai Zeet Huey
-
-蔡志蔚
-
-30
-
-F
-
- 
-
-6-Red Snooker Team
+| 64.  | Cuesports |Chan Keng Kwang| 曾庆光 |30  | M  | 8-ball Pool Singles<br>9-ball Pool Singles
+| 65.  | Cuesports |Charlene Chai Zeet Huey  | 蔡志蔚  | 30  | F  | 6-Red Snooker Team
 
 6-Red Snooker Singles
 
