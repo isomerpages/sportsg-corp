@@ -86,8 +86,7 @@ Enhance SSC sports facilities through the use of universal design principles to 
 
 29. "Vision 2030 is an ongoing conversation and we hope that people will give us feedback and help us fine-tune the preliminary recommendations," concluded Acting Minister Chan. These recommendations will be available at www.vision2030.sg for public feedback from now till 15 May. Please refer to Annex B for the full list of preliminary recommendations.
 
--END-
-
+---
 
 **Annex A - About Vision 2030**
 
