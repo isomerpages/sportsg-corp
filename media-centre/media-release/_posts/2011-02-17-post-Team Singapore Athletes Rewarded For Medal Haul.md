@@ -54,114 +54,16 @@ Individual Events
 | Shooting | Women's 50m Rifle 3-Positions (Individual) | Aqilah Binte SUDHIR | Bronze | $20,000.00
 | Shooting | Men's 25m Standard Pistol (Individual) | GAI Bin | Gold | $80,000.00 | Shooting
 | Men's 10m Air Pistol (Individual) | GAI Bin | Silver | nil | Shooting
-| Men's 50m Pistol (Individual)
-
-GAI Bin
-
-Silver
-
-$40,000.00
-
-Shooting
-
-Women's 10m Air Rifle (Individual)
-
-Jasmine SER Xiang Wei
-
-Gold
-
-$80,000.00
-
-Shooting
-
-Women's 50m Rifle 3-Positions (Individual)
-
-Jasmine SER Xiang Wei
-
-Silver
-
-$40,000.00
-
-Shooting
-
-Men's 50m Pistol (Individual)
-
-LIM Swee Hon
-
-Bronze
-
-$20,000.00
-
-Shooting
-
-Men's 25m Centre Fire Pistol
-
-POH Lip Meng
-
-Bronze
-
-$20,000.00
-
-Table Tennis
-
-Women's Singles
-
-FENG Tianwei
-
-Gold
-
-$80,000.00
-
-Table Tennis
-
-Men's Singles
-
-YANG Zi
-
-Gold
-
-$80,000.00
-
-Table Tennis
-
-Men's Singles
-
-GAO Ning
-
-Silver
-
-$40,000.00
-
-Table Tennis
-
-Women's Singles
-
-YU Mengyu
-
-Silver
-
-$40,000.00
-
-Table Tennis
-
-Women's Singles
-
-WANG Yuegu
-
-Bronze
-
-$20,000.00
-
- 
-
- 
-
- 
-
- 
-
- 
-
+| Men's 50m Pistol (Individual) | GAI Bin | Silver | $40,000.00 | Shooting
+| Women's 10m Air Rifle (Individual) | Jasmine SER Xiang Wei | Gold | $80,000.00
+| Shooting | Women's 50m Rifle 3-Positions (Individual) | Jasmine SER Xiang Wei | Silver | $40,000.00 | Shooting
+| Men's 50m Pistol (Individual) | LIM Swee Hon | Bronze | $20,000.00 | Shooting
+| Men's 25m Centre Fire Pistol | POH Lip Meng | Bronze | $20,000.00
+| Table Tennis  | Women's Singles | FENG Tianwe | Gold | $80,000.00
+| Table Tennis | Men's Singles | YANG Zi | Gold | $80,000.00
+| Table Tennis | Men's Singles | GAO Ning | Silver | $40,000.00
+| Table Tennis | Women's Singles | YU Mengyu | Silver | $40,000.00
+| Table Tennis | Women's Singles | WANG Yuegu | Bronze | $20,000.00
  
 
 Team Events
