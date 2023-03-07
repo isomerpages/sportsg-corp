@@ -411,24 +411,9 @@ Team Officials
 | No. | Sport | Name |Role |
 | -------- | -------- | -------- |-------- |
 | 1. | Aquatics - Swimming | Ang Peng Siong | Team Manager
-
-2.     
-
-Fang Hai Jiao
-
-Coach
-
-3.     
-
-Roger Fitzerald
-
-Coach
-
-4.     
-
-Taisuke Kinugasa
-
-Coach
+| 2.| Fang Hai Jiao| Coach
+| 3.  | Roger Fitzerald| Coach
+| 4.  | Taisuke Kinugasa | Coach
 
 5.     
 
