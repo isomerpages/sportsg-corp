@@ -102,26 +102,11 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | Swimming | Women's 100m Butterfly | TAO Li | Silver | $100,000.00
 
 Team Events
+||| | | |
+| -------- | -------- | -------- | -------- | -------- 
+| Bowling     | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  | Gold  | $320,000.00
 
- 
 
- 
-
- 
-
- 
-
-Bowling
-
-Women's Trios
-
-Cherie TAN Shi Hua
-
-Gold
-
-$320,000.00
-
-Geraldine NG Su Yi
 
 Gold
 
