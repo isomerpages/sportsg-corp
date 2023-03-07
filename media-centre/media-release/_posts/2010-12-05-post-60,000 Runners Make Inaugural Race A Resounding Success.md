@@ -183,8 +183,9 @@ Annex B: Photos and Captions
 Photos and Captions [619 Kb]
 Annex C: SCMS 2010 Event Day Fact Sheet
 SCMS 2010 Event Day Fact Sheet [391 Kb]
-About the Singapore Sports Council
-statics0
+
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
@@ -195,7 +196,7 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-About Standard Chartered Bank in Singapore
+**About Standard Chartered Bank in Singapore**
 <br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
