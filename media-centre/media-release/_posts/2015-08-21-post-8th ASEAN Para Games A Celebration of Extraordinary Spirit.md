@@ -15,7 +15,7 @@ With just over 100 days to go, the Singapore ASEAN Para Games Organising Committ
 
 3\. Beyond just sporting excellence, SAPGOC also hopes to use the 8th ASEAN Para Games as a platform to garner more support, understanding and appreciation for para sport and for persons with disabilities (PWD).
 
-4\. The Games will see the largest ever contingent of 145 Team Singapore athletes - almost three times larger than the previous record of 59 athletes in 2008. Out of these, 80 athletes will be participating in the Games for the very first time.
+4\. The Games will see the largest ever contingent of 145 Team Singapore athletes – almost three times larger than the previous record of 59 athletes in 2008. Out of these, 80 athletes will be participating in the Games for the very first time.
 
 5\. “I am confident that our Team Singapore athletes will put in a performance of their lifetime come December,” Mr Lim added. "They are all already winners for stepping up to the plate in wanting to represent our country. The best recognition we can give them is to come to the Games as One Team Singapore."  
   
@@ -40,6 +40,6 @@ With just over 100 days to go, the Singapore ASEAN Para Games Organising Committ
 
 9\. As the final iconic celebration to SG50, the Games is set to be one of the most accessible games with tickets available to members of the public free of charge.
 
-10\. “We decided that as one of the major events of Singapore’s SG50 celebrations, we should make the events accessible so that everyone has the opportunity to experience the Games, especially one that rallies us to appreciate how we can all Live Better Through Sport” adds Mr Lim.
+10\. “We decided that as one of the major events of Singapore’s SG50 celebrations, we should make the events accessible so that everyone has the opportunity to experience the Games, especially one that rallies us to appreciate how we can all Live Better Through Sport,” adds Mr Lim.
 
-11\. Those interested in attending events during the Games can register their interest on the official Games website ([www.aseanparagames2015.com](http://www.aseanparagames2015.com/)).
+11\. Those interested in attending events during the Games can register their interest on the official Games website.
