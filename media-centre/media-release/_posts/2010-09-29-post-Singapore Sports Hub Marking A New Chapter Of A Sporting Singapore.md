@@ -9,11 +9,12 @@ image: ""
 ## **Singapore Sports Hub - Marking A New Chapter Of A Sporting Singapore**
 
 SINGAPORE SPORTS HUB - MARKING A NEW CHAPTER OF A SPORTING SINGAPORE
-Singapore, September 29, 2010 - Singapore's sporting landscape marks a new and very significant milestone today with the official groundbreaking ceremony of the new Singapore Sports Hub.
 
-2 A state-of-the-art facility in line with the Government's aim of creating a thriving sports, entertainment and lifestyle ecosystem, the Singapore Sports Hub, when built, will be Asia's best sports and entertainment facility and the pride of the Lion City.
+**Singapore, September 29, 2010** - Singapore's sporting landscape marks a new and very significant milestone today with the official groundbreaking ceremony of the new Singapore Sports Hub.
 
-3 "Over the past decade, Singapore has changed the way it perceives, plays and enjoys sports. By any measure, we are a true sporting nation. We play, we cheer, we excel and we work in sports. The new Sports Hub in Kallang is a bold confirmation of how much we have accomplished - and how much more we can do," said Mr Alex Chan, Chairman, Singapore Sports Council. "The Sports Hub will help us put in place the hardware and software that will not only benefit Sports Hub when it is up and running, but also spillover to all other areas of sports development in Singapore."
+2. A state-of-the-art facility in line with the Government's aim of creating a thriving sports, entertainment and lifestyle ecosystem, the Singapore Sports Hub, when built, will be Asia's best sports and entertainment facility and the pride of the Lion City.
+
+3. "Over the past decade, Singapore has changed the way it perceives, plays and enjoys sports. By any measure, we are a true sporting nation. We play, we cheer, we excel and we work in sports. The new Sports Hub in Kallang is a bold confirmation of how much we have accomplished - and how much more we can do," said Mr Alex Chan, Chairman, Singapore Sports Council. "The Sports Hub will help us put in place the hardware and software that will not only benefit Sports Hub when it is up and running, but also spillover to all other areas of sports development in Singapore."
 
 4 "SportsHub Pte Ltd is committed to furthering Singapore Sport, and the Singapore Sports Hub has been designed specifically with flexibility and multi-functionality in mind, which therefore allows for a variety of sports to be played there," said Ludwig Reichhold, Managing Director of Dragages Singapore, the lead partner of SportsHub Pte Ltd, owner and manager of the Singapore Sports Hub.
 
