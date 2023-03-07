@@ -8,8 +8,8 @@ image: ""
 ---
 ## **Team Singapore Athletes Rewarded For Medal Haul**
 
-TEAM SINGAPORE ATHLETES REWARDED FOR MEDAL HAUL
 DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore Athletes in Preparation for SEA Games 2011 and London 2012
+
 **Singapore, 17 February 2011** - In a joint ceremony for both the Commonwealth Games 2010 and Asian Games 2010 contingents, 43 Team Singapore medallists were presented with cash awards totalling S$4.22 million at the Multi-Million Dollar Award Programme (MAP) dinner at the Grand Copthorne Waterfront Hotel this evening.
 
 2. Deputy Prime Minister and Minister for Defence Teo Chee Hean, who is also the President of the Singapore National Olympic Council (SNOC), along with Minister for Community Development, Youth and Sports Dr Vivian Balakrishnan presented the awards on behalf of the Tote Board and the SNOC.
@@ -26,8 +26,7 @@ DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore A
 
 8. The sponsors and corporate partners of Team Singapore and the SNOC - Adecco Personnel Private Limited, Canon Singapore Private Limited, Changi Airport Group (Singapore) Private Limited, MediaCorp Private Limited, the National Library Board, Nestle Singapore Private Limited, NTUC FairPrice Foundation Limited, Singapore Press Holdings, Singapore Totalisator Board & Singapore Pools (Private) Limited, Sunrise & Company (Private) Limited, and StarHub Limited - were each presented with appreciation plaques to honour their generous and continued support of Team Singapore.
 
-
--End-
+---
 
 Annex A: About the Multi-Million Dollar Award Programme (MAP)
 
@@ -43,8 +42,9 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 
 It is mandatory for all athletes to plough back 20% of the MAP awards to their National Sports Association for future training and development.
 
-Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
+Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients<br>
 **Individual Events**
+
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Gymnastics     | Women's Balance Beam    | LIM Heem Wei     | Silver   | $40,000.00  |
@@ -65,6 +65,7 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
  
 
 **Team Events**
+
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Badminton     | Women's Doubles    | Shinta Mulia Sari <br>YAO Lei   | Silver   | $60,000.00  |
@@ -74,7 +75,7 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | Shooting | Men's 50m Pistol (Pairs) | GAI Bin <br>LIM Swee Hon | Gold | $120,000.00
 | Shooting | Women's 50m Rifle 3-Positions (Pairs) | Aqilah Binte SUDHIR <br>Jasmine SER <br> Xiang Wei | Gold | $120,000.00
 | Shooting | Women's 10m Air Rifle (Pairs) | CHENG Jian Huan <br> Jasmine SER <br>Xiang Wei | Silver | $60,000.00
-| Shooting | Men's 10m Air Pistol (Pairs) | GAI Bin <br LIM Swee Hon  | Bronze  | $30,000.00
+| Shooting | Men's 10m Air Pistol (Pairs) | GAI Bin <br> LIM Swee Hon  | Bronze  | $30,000.00
 | Shooting | Men's 25m Centre Fire Pistol (Pairs) | GAI Bin <br>POH Lip Meng | Bronze   | $30,000.00
 | Table Tennis | Men's Team | CAI Xiaoli  <br>GAO Ning <br>MA Liang <br>PANG Xue Jie <br>YANG Zi | Gold | $120,000.00
 | Table Tennis | Women's Team | FENG Tianwei <br>LI Jiawei <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu| Gold | $120,000.00
@@ -86,8 +87,9 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 
 Total MAP Award: $1,880,000.00
 
-Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
+Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients<br>
 **Individual Events**
+
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Bowling     | Women's Masters    | Cherie TAN Shi Hua    | Silver   | $100,000.00
@@ -101,11 +103,12 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | Swimming | Women's 50m Butterfly | TAO Li | Gold | $200,000.00
 | Swimming | Women's 100m Butterfly | TAO Li | Silver | $100,000.00
 
-Team Events
-||| | | |
-| -------- | -------- | -------- | -------- | -------- 
-| Bowling     | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi | Gold  | $320,000.00
-| Bowling     | Men's Doubles  | Jason YEONG-NATHAN <br>Remy ONG  | Silver | $160,000.00
+**Team Events**
+
+| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
+| -------- | -------- | -------- | -------- | -------- |
+| Bowling   | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi | Gold  | $320,000.00
+| Bowling   | Men's Doubles  | Jason YEONG-NATHAN <br>Remy ONG  | Silver | $160,000.00
 | Sailing | Men's Double Handed Dinghy 420 | Justin LIU Xiaman <br>Sherman CHENG Feng Yuan | Gold | $320,000.00
 | Sailing | Women's Double Handed Dinghy 42 | Cecilia LOW Rui Qi <br>Rachel LEE Qing | Gold | $320,000.00
 | Sailing | Open Hobie-16 | Justin WONG Ming Ho <br>TEO Wee Chin | Bronze | $80,000.00
@@ -114,10 +117,11 @@ Team Events
 
 Total MAP Award: $2,340,000.00
 
-Annex D: Singapore National Olympic Council and Team Singapore Appreciation 
-<br>**Plaque Recipients**
+Annex D: Singapore National Olympic Council and Team Singapore Appreciation <br>
+**Plaque Recipients**
+
 | SN | Name of Recipient |
-| -------- | -------- 
+| -------- | -------- |
 | 1.    | Adecco Personnel Private Limited
 | 2.   | Canon Singapore Private Limited
 | 3.  | Changi Airport Group (Singapore) Private Limited
@@ -135,11 +139,11 @@ Annex D: Singapore National Olympic Council and Team Singapore Appreciation
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and www.singaporesports.sg
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About the Singapore National Olympic Council**
@@ -153,13 +157,14 @@ Originally mooted by the then-Ministry of Community Development and Sports, and 
 The three core Team Singapore attributes are Pride, Performance and Perseverance. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-<br>
+
 For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
-<br>
+
 Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
 
 **For media enquiries, please contact:**
-<br>Tanty Nazlianah Rosli
+
+Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Media Relations
 <br>Singapore Sports Council
