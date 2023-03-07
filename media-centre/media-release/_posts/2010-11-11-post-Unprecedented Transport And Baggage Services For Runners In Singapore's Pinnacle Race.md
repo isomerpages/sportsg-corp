@@ -108,14 +108,14 @@ The Bank employs over 5,700 people in Singapore and has a network of 18 branches
 **For media enquiries, please contact:**
 <br>Samantha See
 <br>Fulford Public Relations
-<br>Email: ssee@fulfordpr.com
+<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
 
 <br>Katherine Kee
 <br>Fulford Public Relations
-<br>Email: kkee@fulfordpr.com
+<br>Email: [kkee@fulfordpr.com](kkee@fulfordpr.com)
 
 Jemuel Fu
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
-<br>Email: jemuel_fu@ssc.gov.sg
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
