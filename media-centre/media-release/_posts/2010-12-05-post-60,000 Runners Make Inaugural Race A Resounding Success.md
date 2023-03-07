@@ -54,15 +54,7 @@ Full Marathon (Singapore) Results - Men's
 | -------- | -------- | -------- | -------- |
 | 1 | Mok Ying Ren  | Singapore  |02:38.28
 | 2 | Ashley Liew Wei Yen | Singapore | 02:52.29
-| 3
-
-Ramesh s/o Palaniandy
-
-Singapore
-
-02:52.55
-
- 
+| 3 | Ramesh s/o Palaniandy | Singapore | 02:52.55
 
 Full Marathon (Singapore) Results - Women's
 
