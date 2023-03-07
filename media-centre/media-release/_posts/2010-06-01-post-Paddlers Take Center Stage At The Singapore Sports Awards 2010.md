@@ -87,13 +87,187 @@ The diversity of sports represented by the winners is a telling comment on how f
 || National Women 4x100m Freesytle Relay Swimming Team<br>Quah Ting Wen, Amanda Lim, Lynette Lim, Mylene Ong | Swimming |
 ||National Men 10m Air Rifle Shooting Team<br>Poh Lip Meng, Gai Bin, Lim Swee Hon |
 || National Men 4x100m Relay Athletic Team<br>Yeo Foo Ee, Elfi Mustapha, Lee Cheng Wei, Amiruddin Jamal, Poh Seng Song, Izwan Firdaus Hanif | Athletics |
+| Meritorious Award (Individual) | Wang Yuegu | Table Tennis |
+|| Yu Mengyu | Table Tennis |
+|| Seet Wee Key | Wushu |
+|| Khor Poh Chin | Wushu |
+|| Peter Edward Gilchrist | Cuesports |
+|| Zach Ong | Swimming |
+|| Parker Lam | Swimming |
+|| Gao Ning | Table Tennis |
+|| James Wong | Athletics |
+|| Zhang Jin | Shooting |
+|| Remy Ong | Bowling |
+|| Rabiatul Adawiyah Yusak | Silat |
+|| Tao Li | Swimming |
+|| Ser Xiang Wei Jasmine | Shooting |
+|| Zhang Guirong | Athletics |
+<hr>
+
+**2)   SPORTSBOY/SPORTSGIRL AWARDS**
 
 
+Awards
 
+Awardees
 
+Sports
 
+Sportsboy of the Year
 
+Darren Choy
 
+ 
 
+Sailing
 
+Sportsgirl of the Year
 
+Elizabeth Yin Yueling
+
+ 
+
+Sailing
+
+Team of the Year (Event)
+
+National Women Youth 10m Air Rifle Shooting Team
+
+Carol Lee,Vanessa Ong, Sarena Lin
+
+ 
+
+Shooting
+
+Meritorious Award
+
+(Team Sport)
+
+National Men/Women Mixed Junior Dragon Boat Team
+
+26 females, 24 males
+
+ 
+
+Dragon Boat
+
+Meritorious Award
+
+(Team Event)
+
+National Girls Bowling Doubles Team
+
+New Hui Feng/Krishna Darshini
+
+ 
+
+Bowling
+
+National 420 Girls Optimist Team
+
+Griselda Khng, Cecilia Low
+
+ 
+
+Sailing
+
+National Men Youth 10m Air Rifle Shooting Team
+
+Abel Lim, Wan Tian Chong, Cheston Ow
+
+ 
+
+Shooting
+
+Meritorious Award (Individual)
+
+Basil Low Eng Howe
+
+ 
+
+Bowling
+
+New Hui Fen
+
+ 
+
+Bowling
+
+Caroline Chew Pei Jia
+
+ 
+
+Equestrian
+
+Poh Swee Kiat
+
+ 
+
+Golf
+
+Nur Izzati Ismail
+
+ 
+
+Petanque
+
+Terence Choo Jian Jie
+
+ 
+
+Sailing
+
+Najwa Jumali
+
+ 
+
+Sailing
+
+Germaine Teo Wei Yin
+
+ 
+
+Sailing
+
+||Ho Ruth Airiel | Sailing |
+|| Chai Xun | Sailing |
+|| Goh Jia Yi | Shooting |
+|| Nur Zulaikha bte Zakaria | Silat |
+||Muhd Nur Shafiq Saiful | Silat |
+||Mohd Elyasak Said | Silat |
+|| Nuridah Mursani | Silat |
+|| Zulkhairi Zulhanif | Silat |
+|| Lynette Lim Shu En | Swimming |
+|| Amanda Lim Xiang Qi | Swimming |
+|| Roanne Ho Ru 'en | Swimming |
+||Shana Lim Jia Yi | Swimming |
+|| Lim Xing Jing | Swimming |
+|| Rainer Ng Kai Wee | Swimming |
+||Isabelle Li Siyun | Table Tennis |
+|| Clarence Chew Zheyu | Table Tennis |
+|| Jacqueline Quek Jie Lin | Taekwondo |
+|| Jason Tan Jun Wei | Taekwondo |
+|| Emily Sin Min Li | Wushu |
+|| Sim Ren Zoe | Wushu |
+|| Tan Xiang Ting | Wushu |
+
+**3)   IOC AWARDS**
+<br>
+|Awards | Awardees |
+|--|--|
+| 2010 IOC Trophy "Sport - Inspiring Young People" | Tan Howe Liang |
+<hr>
+
+**For media enquiries, please contact:**
+<br>
+Hazwani Hasni
+<br>
+Executive
+<br>
+Media & Public Relations
+<br>
+Singapore Sports Council
+<br>
+Office: 65005246
+<br>
+Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
