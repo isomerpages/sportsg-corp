@@ -315,23 +315,8 @@ Athletes
 |154.  | Gymnastics  | Lim Heem Wei| 林欣玮 | 21 | F | |Women's Artistic Gymnastics Individual
 | 155.    | Hockey | Robin Ng Wan Chiang | 吴文强 | 35 | M || Team (M)
 | 156.  | Hockey | Zulkarnain Bin Salim | NA | 24 | M | √  | Team (M)
-| 157.        
-
-Kelvin Lim Yong Sheng
-
-林永声
-
-26
-
-M
-
-√   
-
-Team (M)
-
-158.        
-
-Saifulnizam Bin Mohd Seftu
+| 157.  | Hockey | Kelvin Lim Yong Sheng |林永声 |26 |M |√    |Team (M)
+|158.  |Hockey | Saifulnizam Bin Mohd Seftu
 
 NA
 
