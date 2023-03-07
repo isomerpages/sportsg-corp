@@ -27,7 +27,7 @@ Singapore, 28 October 2009 - As part of Singapore Sports Council's (SSC) continu
 
 7. The NSAs do not need to amend their objects of sports promotion in their respective constitution as the advancement of sports is recognised as a charitable object, where the sport advances health through both physical skill and exertion.
 
-8. However, the NSAs will have to include the required provisions (refer to Appendix A) relating to charities in their constitution in order to qualify for charity registration.
+8. However, the NSAs will have to include the required provisions (refer to **Appendix A** below) relating to charities in their constitution in order to qualify for charity registration.
 
 **New Institution of a Public Character (IPC) requirement**
 
