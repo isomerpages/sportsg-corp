@@ -166,21 +166,8 @@ Athletes
 | 5. | Aquatics - Swimming | Joshua Lim Wen Hao | 林文豪 | 22 | M | √   | 200m Individual Medley (M) | 4X100m Freestyle Relay (M) <br>4X200m Freestyle Relay (M)
 | 6.  | Aquatics - Swimming | Koh Hui Yu | 许惠瑜  | 15  | F  | √     | <br>200m Individual Medley (W) <br>4X100m Freestyle Relay (W)
 | 7.  |  Aquatics - Swimming | Lionel Khoo Chien Yin | 邱湕颖 | 15 | M | √   | 100m Breaststroke (M) | 200m Breaststroke (M)
-| 8. |  Aquatics - Swimming | Lynette Lim Shu-En
-
-林淑恩
-
-18
-
-F
-
-√   
-
-200m Freestyle (W)
-
-400m Freestyle (W)
-
-800m Freestyle (W)
+| 8. |  Aquatics - Swimming | Lynette Lim Shu-En  | 林淑恩  | 18  | F
+ | √   | 200m Freestyle (W) <br>400m Freestyle (W) <br>800m Freestyle (W)
 
 4x200m Freestyle Relay (W)
 
