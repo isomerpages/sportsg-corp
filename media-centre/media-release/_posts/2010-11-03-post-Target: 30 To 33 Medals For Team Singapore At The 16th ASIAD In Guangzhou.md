@@ -131,46 +131,16 @@ TEAM SINGAPORE'S PARTICIPATION: 22 sports
  | Sport | Date
 | -------- | -------- 
 | DateAquatics - Swimming | 13 - 18 November 2010
-
-Aquatics - Water-polo
-
-13 - 25 November 2010
-
-Athletics
-
-21 - 27 November 2010
-
-Badminton
-
-13 - 21 November 2010
-
-Billiard Sports
-
-13 - 20 November 2010
-
-Bowling
-
-15 - 24 November 2010
-
-Canoeing
-
-13 - 26 November 2010
-
-Chess - Xiangqi
-
-13 - 19 November 2010
-
-Cycling - Road
-
-20 - 23 November 2010
-
-Dragonboat
-
-18 - 20 November 2010
-
-Equestrian
-
-14 - 24 November 2010
+| Aquatics - Water-polo | 13 - 25 November 2010
+| Athletics | 21 - 27 November 2010
+| Badminton | 13 - 21 November 2010
+| Billiard Sports | 13 - 20 November 2010
+| Bowling | 15 - 24 November 2010
+| Canoeing | 13 - 26 November 2010
+| Chess - Xiangqi | 13 - 19 November 2010
+| Cycling - Road | 20 - 23 November 2010
+| Dragonboat | 18 - 20 November 2010
+| Equestrian | 14 - 24 November 2010
 
 Fencing
 
