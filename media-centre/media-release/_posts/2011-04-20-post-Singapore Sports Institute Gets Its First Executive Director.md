@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore Sports Institute Gets Its First Executive Director Singapore**
+### **Singapore Sports Institute Gets Its First Executive Director Singapore**
 
-SINGAPORE SPORTS INSTITUTE GETS ITS FIRST EXECUTIVE DIRECTOR
 **Singapore, 20 April 2011** - The Singapore Sports Council (SSC) announced today the appointment of Associate Professor Fabian Lim Chin Leong as the Singapore Sports Institute's (SSI) first Executive Director. A/P Lim will commence his duties at the SSI from 1 June 2011.
 
 2. "I am delighted to have A/P Lim on board to realise our SSI's vision of providing a world-class sports science, medicine and technology centre for our athletes." said Mr Lim Teck Yin, CEO, Singapore Sports Council. "A/P Lim's proven track record, extensive practical and research experience which have led to break-through innovations in human performance studies, will help take Singapore's athlete performance to the next level. I am confident that A/P Lim will steer SSI to success."
@@ -27,9 +26,9 @@ SINGAPORE SPORTS INSTITUTE GETS ITS FIRST EXECUTIVE DIRECTOR
 
 9. A/P Lim loves the sport of Judo and has participated in numerous national competitions. He was a member of the Singapore Combined School Team that competed in Bangkok in 1982. He was a member of the Singapore Judo Federation between 1994 and 1997 and was instrumental in setting up the Jujitsu Association of Singapore in 2000. A/P Lim has been lecturing at the SSC's National Coaching Accreditation Programme since 1991 and he taught at the Fitness Instructor Course from 1995-1999.
 
-10. A/P Lim is an Adjunct Associate Professor at the Yong Loo Lin School of Medicine, NUS, where he teaches Exercise Physiology and he will also be lecturing on Exercise Biology at the School of Biological Sciences in NTU. A/P Lim collaborates actively in research with colleagues from A*STAR, NUS and NUHS, and with overseas partners, such as the Australian Institute of Sport. A/P Lim is a member of the MCYS's Olympic Pathway Programme's sub-committee for Sports Medicine and Science. A/P Lim is married with three children.
+10. A/P Lim is an Adjunct Associate Professor at the Yong Loo Lin School of Medicine, NUS, where he teaches Exercise Physiology and he will also be lecturing on Exercise Biology at the School of Biological Sciences in NTU. A/P Lim collaborates actively in research with colleagues from A&ast;STAR, NUS and NUHS, and with overseas partners, such as the Australian Institute of Sport. A/P Lim is a member of the MCYS's Olympic Pathway Programme's sub-committee for Sports Medicine and Science. A/P Lim is married with three children.
 
--End-
+---
 
 Annex A: Picture of Associate Professor Fabian Lim Chin Leong
 ![Associate Professor Fabian Lim Chin Leong.JPG [211 Kb]](/images/Media%20Centre/Media%20Release/2011/Apr/Associate%20Professor%20Fabian%20Lim%20Chin%20LeongJPG.jpeg)
@@ -39,15 +38,16 @@ Annex A: Picture of Associate Professor Fabian Lim Chin Leong
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **For media enquiries, please contact:**
-<br>S. Parameswaran (Parames)
+
+S. Parameswaran (Parames)
 <br>Senior Manager
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
