@@ -9,7 +9,7 @@ image: ""
 ## **60,000 Runners Make Inaugural Race A Resounding Success**
 
 60,000 RUNNERS MAKE INAUGURAL RACE A RESOUNDING SUCCESS
-Singapore, 5 December 2010 - History was made today as a record-breaking 60,000 runners took to the streets at the inaugural Standard Chartered Marathon Singapore (SCMS) 2010. Flagged off from three different start points, runners found themselves pounding through some of Singapore's key iconic landmarks, which included Orchard Road, Chinatown, Sentosa, Universal Studios Singapore, Marina Bay Sands and the Singapore Flyer.
+**Singapore, 5 December 2010** - History was made today as a record-breaking 60,000 runners took to the streets at the inaugural Standard Chartered Marathon Singapore (SCMS) 2010. Flagged off from three different start points, runners found themselves pounding through some of Singapore's key iconic landmarks, which included Orchard Road, Chinatown, Sentosa, Universal Studios Singapore, Marina Bay Sands and the Singapore Flyer.
 
 2 Commenting on the success of the inaugural race which was organised by the Singapore Sports Council (SSC), David Voth, Chairman, SCMS 2010 Organising Committee and Senior Director, Sports Marketing Group, SSC, said, "I am extremely pleased with the race today and the success of the inaugural race would not have been possible without the support of all our partners and stakeholders. Our aim has always been to make the Standard Chartered Marathon Singapore an event not just for runners but for the community as well. Looking at the spectacular turnout of runners and supporters today, I'm confident we are on track to fulfil our vision of the Marathon becoming Asia's pinnacle race."
 
