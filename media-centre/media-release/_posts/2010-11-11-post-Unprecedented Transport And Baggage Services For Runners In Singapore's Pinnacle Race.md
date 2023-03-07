@@ -69,13 +69,17 @@ Annex B: Pick-up Locations for Chartered Bus Service
 <br>Yishun Stadium
 
 Annex C: Pick-up and Drop-off Locations for Post-race Complimentary Shuttle Bus Service
-
+![](/images/Media%20Centre/Media%20Release/2010/Nov/UNPRECEDENTEDTRANSPORTANDBAGGAGESERVICESFORRUNNERSINSINGAPORESPINNACLERACEMainPar0054Imagegif.gif)
 Annex D: Baggage Deposit and Collection Locations and Timings
 Operating Hours
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |-------- |-------- |
+| Text     | Baggage Facilities / Check-In    | Text     |Text     |Text     |
+
 
  
 
-Baggage Facilities / Check-In
+
 
 Baggage Facilities / Collection
 
