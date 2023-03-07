@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Team Singapore Athletes Rewarded For Medal Haul
-Singapore , 17 Feb 2011
+## **Team Singapore Athletes Rewarded For Medal Haul**
 
 TEAM SINGAPORE ATHLETES REWARDED FOR MEDAL HAUL
 DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore Athletes in Preparation for SEA Games 2011 and London 2012
