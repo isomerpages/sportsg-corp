@@ -371,53 +371,11 @@ Athletes
 | 210.| Shooting | Eugene Chiew Huan Lin| 周焕霖| 30| M| √   | Skeet (M)
 | 211. | Shooting | Gai Bin| 盖斌| 42| M| √   | 10m Air Rifle (M) <br>25m Centre Fire Pistol (M) <br>25m Standard Pistol (M)
 <br>50m Pistol (M)
-| 212.| Shooting | Goh Jia Yi
+| 212.| Shooting | Goh Jia Yi | 吴珈仪 | 15 | F | √    | 10m Air Rifle (W)
+| 213. | Shooting | Haw Siew Peng | 何修蘋 | 30 | F| √    | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
+| 214.| Shooting | Jasmine Ser Xiang Wei| 徐湘玮| 20| F|| 10m Air Rifle (W)<br>50 m Rifle 3 positions (W) <br>50m Rifle Prone (W)
 
-吴珈仪
-
-15
-
-F
-
-√   
-
-10m Air Rifle (W)
-
-213.        
-
-Haw Siew Peng
-
-何修蘋
-
-30
-
-F
-
-√   
-
-50m Rifle 3 positions (W)
-
-50m Rifle Prone (W)
-
-214.        
-
-Jasmine Ser Xiang Wei
-
-徐湘玮
-
-20
-
-F
-
- 
-
-10m Air Rifle (W)
-
-50 m Rifle 3 positions (W)
-
-50m Rifle Prone (W)
-
-215.        
+215. | Shooting |        
 
 Jonathan Koh Tien Wei
 
