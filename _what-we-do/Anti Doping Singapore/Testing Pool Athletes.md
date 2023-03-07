@@ -75,3 +75,5 @@ Athletes in the DTP who do not provide updated and accurate whereabouts informat
 Athletes must continue to file whereabouts information until:
 
 ADS gives written notice to athletes of their removal from its RTP or DTP; or
+
+Athletes give written notice to ADS and their NSA of their retirement from sport using [ADS Return to Competition Notification Form](/anti-doping-singapore/resources/policies-and-forms)
