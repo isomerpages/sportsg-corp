@@ -6,20 +6,19 @@ layout: post
 description: ""
 image: ""
 ---
+### **Fields of Dreams: A Tribute to the National Stadium**
 
-### **Fields of Dreams - A Tribute to the National Stadium**
-
-The National Stadium is set to go out with a big bang and tickets for her much-anticipated final event on 30 June 2007 will be available from tomorrow through SISTIC, priced at $15 for adults and $8 for children (excluding SISTIC charge).
+The National Stadium is set to go out with a big bang, and tickets for her much-anticipated final event on 30 June 2007 will be available from tomorrow through SISTIC, priced at $15 for adults and $8 for children (excluding SISTIC charge).
 
 Titled "Field of Dreams - A Tribute to the National Stadium", the closing event will feature a stellar line-up of activities that commemorate and celebrate the Grand Old Dame of Kallang - which for 34 years has given life to our aspirations, hopes and dreams.
 
-From her stands to her track, dreams have been fulfilled in the pursuit of sporting glory, national pride and celebrating our common identity. And the Stadium's long friendship with football has seen many a dream realized on her field - from representing one's country, scoring a winning goal, to raising a prized cup. And so it is fitting that football will play a large role in the closing event.
+From her stands to her track, dreams have been fulfilled in the pursuit of sporting glory, national pride and celebrating our common identity. And the stadium's long friendship with football has seen many a dream realised on her field - from representing one's country, scoring a winning goal, to raising a prized cup. And so it is fitting that football will play a large role in the closing event.
 
 Take a walk down memory lane through an exhibition football match between veterans from Singapore and Malaysia. Featuring the likes of Quah Kim Song, Samad Allapitchay, Fandi Ahmad and V Sundramoorthy, the match aims to relive memories of the Malaysia Cup days when the Kallang Roar and Kallang Wave reigned supreme and concession store runners hawked curry puffs, crackers and drinks on the stands.
 
-The match will be followed by the highlight of the evening, an international friendly between Asean champions Singapore, and Australia. With their maiden appearance in the AFC Asian Cup in July to come, fans can expect to see a quality contest between a Qantas Socceroos squad laden with European-based talent like Mark Viduka, Mark Bresciano, Tim Cahill and Harry Kewell against the Lions.
+The match will be followed by the highlight of the evening, an international friendly between ASEAN champions Singapore and Australia. With their maiden appearance in the AFC Asian Cup in July to come, fans can expect to see a quality contest between a Qantas Socceroos squad laden with European-based talents like Mark Viduka, Mark Bresciano, Tim Cahill and Harry Kewell against the Lions.
 
-Says Steven Yeo, General Secretary of co-organiser Football Association of Singapore, "Football and the National Stadium have always been synonymous. From the Malaysia Cup, Singapore Cup to the Asean Football Championship, the Kallang Roar has been a part of Singapore culture. For the final time at the current National Stadium, Kallang will roar once again."
+Says Steven Yeo, General Secretary of co-organiser Football Association of Singapore, "Football and the National Stadium have always been synonymous. From the Malaysia Cup, Singapore Cup to the ASEAN Football Championship, the Kallang Roar has been a part of Singapore culture. For the final time at the current National Stadium, Kallang will roar once again."
 
 Providing the kits for the Singapore teams in both matches, sponsor Nike has produced two sets of apparel, including a Heritage Jersey for the veterans' match, as well as a commemorative T-shirt for the event. Both sets of apparel will be sold at the Singapore National Stadium at the event and will be available at Nike retail outlets from mid-June onwards.
 
@@ -57,6 +56,7 @@ Fax: 6345 2541
 Email: [susmita_dayanandan@ssc.gov.sg](mailto:susmita_dayanandan@ssc.gov.sg)
 
 
-**About SSC**
+***About SSC***
 <br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
+
+*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.*
