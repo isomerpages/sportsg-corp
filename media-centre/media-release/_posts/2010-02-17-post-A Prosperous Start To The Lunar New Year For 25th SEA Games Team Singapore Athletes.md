@@ -68,16 +68,12 @@ About the Multi-Million Dollar Award Programme (MAP) Awards
 
 MAP AWARDS RECIPIENTS
 
-
-
-
 | S/N | Sports | Name | Event | GOLD  | MAP  | Category | Old SEA Games Record |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1 | Athletics | Wong Tuck Yim James | Men's Discus Throw | 1 | $10,000 | Individual |
 ||| Zhang Guirong | Women's Shot Put | 1 | $10,000| Individual ||
-
-
-
+| 2 | Cuesports | Ang Boon Chin | Men's Snooker Doubles | 1 | $15,000 | Team Event ||
+||| Lim Chun Kiat |
 
 
 
