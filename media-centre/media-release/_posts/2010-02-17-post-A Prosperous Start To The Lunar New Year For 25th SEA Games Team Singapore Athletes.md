@@ -122,132 +122,20 @@ MAP AWARDS RECIPIENTS
 ||| Ho Ru'En Roanne | ||$5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
 ||| Tao Li |
 ||| Quah Ting Wen |
-| 6 | Table Tennis | Feng Tianwei<br>Wang Yuegu<br>Sun Beibei | Women's Team | 1 | $15,000 | Team Event |
+| 6 | Table Tennis | Feng Tianwei | Women's Team | 1 | $15,000 | Team Event |
 ||| Wang Yuegu |
 ||| Sun Beibei |
-
-
-
-Yu Mengyu
-
-
-
-
-
-
-
-Sim Kai Xin Zena
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Yang Zi
-Men's Team
-1
-$15,000
-Team Event
-
-
-
-Gao Ning
-
-
-
-
-
-
-
-Cai Xiaoli
-
-
-
-
-
-
-
-Pang Xue Jie
-
-
-
-
-
-
-
-Lim Jie Yan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Wang Yuegu
-Mixed Doubles
-1
-$15,000
-Team Event
-
-
-
-Yang Zi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sun Beibei
-Women's Doubles
-1
-$15,000
-Team Event
-
-
-
-Yu Mengyu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+||| Yu Mengyu |
+||| Sim Kai Xin Zena |
+||| Yang Zi | Men's Team | 1 | $15,000 | Team Event |
+||| Gao Ning |
+||| Cai Xiaoli |
+||| Pang Xue Jie |
+||| Lim Jie Yan |
+||| Wang Yuegu | Mixed Doubles |1 | $15,000 | Team Event |
+||| Yang Zi |
+||| Sun Beibei | Women's Doubles | 1 | $15,000 | Team Event |
+||| Yu Mengyu |
 Feng Tianwei
 Women's Singles
 1
