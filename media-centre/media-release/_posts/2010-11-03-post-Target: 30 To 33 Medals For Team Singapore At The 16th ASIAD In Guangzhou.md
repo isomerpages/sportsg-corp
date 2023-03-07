@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Target: 30 To 33 Medals For Team Singapore At The 16th ASIAD In Guangzhou
-Singapore , 03 Nov 2010
+## **Target: 30 To 33 Medals For Team Singapore At The 16th ASIAD In Guangzhou**
 
 TARGET: 30 TO 33 MEDALS FOR TEAM SINGAPORE AT THE 16TH ASIAD IN GUANGZHOU
 Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Sports Events
