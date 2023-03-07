@@ -10,7 +10,7 @@ image: ""
 
 *Enhanced Organisational Excellence Framework, Sharing of Guidelines and Best Practices, Matchmaking NSAs with Volunteers, Amongst Steps to Help NSAs*
 
-**Singapore, 5 June 2012** - The Singapore Sports Council (SSC), following a series of consultation sessions with the National Sports Associations (NSAs) will be rolling out an improved Organisational Excellence (OE) framework to enhance the professional management of NSAs.
+Singapore, 5 June 2012 - The Singapore Sports Council (SSC), following a series of consultation sessions with the National Sports Associations (NSAs) will be rolling out an improved Organisational Excellence (OE) framework to enhance the professional management of NSAs.
 
 2. Revealing this at a media briefing, SSC's Chief Executive Officer Lim Teck Yin said, "We have heard the NSAs' feedback, understand their difficulties and are working together to help them find solutions to the challenges that they face."
 
@@ -36,10 +36,10 @@ image: ""
 
 13. In conclusion, Er Dr Lee Bee Wah, President of the Singapore Table Tennis Association said, "Leadership development is critical for the long term sustainability of all organisations, including sports organisations. It provides opportunities for organisation renewal and injection of new ideas. As I enter my second term (fourth year) in office, I have already begun the process of identifying and grooming my successor. Planning early for succession will enable a smooth transition and give my successor more time to learn the ropes, as well as allow the table tennis fraternity to familiarise themselves with the new leadership. I welcome the refined version of the OE framework and SSC's approach in engaging NSAs. It is a step forward in the right direction for the entire sporting fraternity."
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Patricia Yee
 <br>Executive, Media Relations
 <br>Singapore Sports Council
@@ -55,7 +55,7 @@ S. Parameswaran
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg.
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
