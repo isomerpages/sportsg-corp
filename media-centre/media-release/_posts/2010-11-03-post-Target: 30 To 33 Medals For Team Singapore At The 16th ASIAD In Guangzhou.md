@@ -71,48 +71,17 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Aquatics - Water-polo | 13 - 25 November 2010
 | Archery | 19 - 24 November 2010
 | Athletics | 1 - 27 November 2010
-
-Badminton
-
-13 - 21 November 2010
-
-Baseball
-
-13 - 19 November 2010
-
-Basketball
-
-13 - 26 November 2010
-
-Billiard Sports
-
-13 - 20 November 2010
-
-Bowling
-
-15 - 24 November 2010
-
-Boxing
-
-16 - 26 November 2010
-
-Canoeing - Slalom
-
-13 - 16 November 2010
-
-Canoeing - Sprint
-
-22 - 26 November 2010
-
-Chess - Weiqi
-
-20 - 26 November 2010
-
-Chess - Xiangqi
-
-13 - 19 November 2010
-
-Cricket
+| Badminton | 13 - 21 November 2010
+| Baseball | 13 - 19 November 2010
+| Basketball | 13 - 26 November 2010
+| Billiard Sports | 13 - 20 November 2010
+| Bowling | 15 - 24 November 2010
+| Boxing | 16 - 26 November 2010
+| Canoeing - Slalom | 13 - 16 November 2010
+| Canoeing - Sprint | 22 - 26 November 2010
+| Chess - Weiqi | 20 - 26 November 2010
+| Chess - Xiangqi | 13 - 19 November 2010
+| Cricket
 
 13 - 26 November 2010
 
