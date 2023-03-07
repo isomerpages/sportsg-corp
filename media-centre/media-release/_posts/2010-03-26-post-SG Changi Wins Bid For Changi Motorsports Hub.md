@@ -75,6 +75,3 @@ Singapore Sports Council
 Office: 6500 5164
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
-
-
