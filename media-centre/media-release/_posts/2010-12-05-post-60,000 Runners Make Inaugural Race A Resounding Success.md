@@ -59,34 +59,9 @@ Full Marathon (Singapore) Results - Men's
 Full Marathon (Singapore) Results - Women's
  No. | Name | Country | Finishing Time |
 | -------- | -------- | -------- | -------- |
-| 1 | Mok Ying Ren  | Singapore  |02:38.28
-
-
-1
-
-Qi Hui
-
-Singapore
-
-03:12.24
-
-2
-
-Elaine Lim
-
-Singapore
-
-03:23.21
-
-3
-
-Jeradine Collett
-
-Singapore
-
-03:24.19
-
- 
+| 1 | Qi Hui  | Singapore  | 03:12.24
+| 2 | Elaine Lim | Singapore | 03:23.21
+| 3 | Jeradine Collett | Singapore | 03:24.19
 
 Annex B: [Photos and Captions [619 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/Photos%20and%20Captionspdf.pdf)
 
