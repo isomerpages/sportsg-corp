@@ -477,19 +477,9 @@ Team Officials
 | 65. | Sailing | Zhang Yong Qiang | Coach (420)
 | 66.  | Sailing | Peter Anthony Logan| Team Official
 | 67.  | Sailing | Chung Pei Ming | Team Captain
-| 68. | Shooting
-
-Ho Tsu Cher
-
-Team Manager
-
-69.   
-
-Lim Meng Kiaw
-
-Team Manager
-
-70.   
+| 68. | Shooting| Ho Tsu Cher| Team Manager
+| 69.  | Lim Meng Kiaw| Team Manager
+| 70.   
 
 Deng Pei Ming
 
