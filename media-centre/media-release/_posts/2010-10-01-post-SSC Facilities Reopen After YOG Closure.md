@@ -41,26 +41,9 @@ Annex 1: Schedule of Reopening Of SSC Facilities
 
 | Name of Facility | Expected Date of Reopening | Interim Alternative Facilities 
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
- 
-
-
-
-
-
-Bishan Sports Hall
-
-11 October 2010
-
-Hougang, Yio Chu Kang, Yishun
-
-Bishan ClubFITT Gym
-
-29 October 2010
-
-Tampines Bike Park
+| Bishan Sports Hall | 11 October 2010 | Hougang, Yio Chu Kang, Yishun
+| Bishan ClubFITT Gym| 29 October 2010 | Hougang, Yio Chu Kang, Yishun
+| Tampines Bike Park
 
 To be confirmed
 
