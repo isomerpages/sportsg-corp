@@ -30,6 +30,8 @@ Singapore, 4 August 2011 - BMW Asia today announced its inaugural co-sponsorship
 
 9. The BMW X1 sDrive18i comes with all the features so typical of a BMW X model and at the same time offers a new interpretation of BMW's Sheer Driving Pleasure. This youngest member in the wide range of BMW X models stands for versatile sportiness and supreme agility, with looks characterised by self-confident elegance and modern style. The BMW X1 brings together the features typical of a Sports Activity with the driving characteristics, dynamic performance and outstanding fuel economy and emission management of the BMW 1 Series.
 
+---
+
 Annex A - Details of BMW's Sponsorship of Standard Chartered Marathon Singapore 2011
 
 1. Official Pacers Programme
