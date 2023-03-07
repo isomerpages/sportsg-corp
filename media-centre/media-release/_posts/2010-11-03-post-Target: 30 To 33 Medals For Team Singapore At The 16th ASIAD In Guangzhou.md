@@ -203,36 +203,8 @@ Athletes
 | 41.  | Athletics | Zhang Guirong| 张桂荣 | 32 | F | √   | Shot Put (W)
 | 42.  | Badminton  | Shinta Mulia Sari  | NA  | 22  | F |  | Women's Doubles
 | 43.  | Badminton  | Yao Lei  | 姚蕾 | 20  | F | √ | Women's Doubles
-
-44.   
-
-Bowling
-
- 
-
-Basil Low Eng Howe
-
-刘英豪
-
-18
-
-M
-
-√   
-
-Singles (M)
-
-Doubles (M)
-
-Trios (M)
-
-Team (M)
-
-45.   
-
-Benjamin Lim Jia Jun
-
-林家骏
+| 44. | Bowling| Basil Low Eng Howe| 刘英豪 | 18 | M| √   | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
+| 45.  | Bowling | Benjamin Lim Jia Jun | 林家骏
 
 20
 
