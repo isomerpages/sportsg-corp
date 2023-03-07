@@ -8,9 +8,9 @@ description: ""
 image: ""
 ---
 ### **8th ASEAN Para Games joins hands with Community Chest under Care & Share @ SG50 Movement**
-**_SAPGOC calls for Corporate Singapore to support the APG_**
+_SAPGOC calls for Corporate Singapore to support the APG_
 
-**Singapore, 22 April 2015** – The Singapore ASEAN Para Games Organising Committee (SAPGOC) will be partnering Community Chest, the fund-raising and engagement arm of National Council of Social Service (NCSS) for the 8th ASEAN Para Games (APG).
+**Singapore, 22 April 2015** – The Singapore ASEAN Para Games Organising Committee (SAPGOC) will be partnering Community Chest, the fund-raising and engagement arm of National Council of Social Service (NCSS) for the 8th ASEAN Para Games (APG).
 
 2\. SAPGOC will be donating proceeds from the sale of APG merchandise to Community Chest and the amount will matched dollar-for-dollar by the government under the Care & Share Movement. This partnership with Community Chest will be one of many SAPGOC’s initiatives to rally the public, private and people sectors to come together to support the Games and raise funds for schools and organisations that support persons with disabilities.
 
@@ -21,5 +21,3 @@ image: ""
 5\. SAPGOC also hopes to clinch S$5 million in sponsorship as it ramps up its preparations for the first APG to be hosted in Singapore. Discussions have already started with members of the business community with the intent of attracting both cash and value-in-kind sponsorships.
 
 6\. “We are also thankful that Corporate Singapore has been considering their support for the APG. There has been promising signs from current discussions and if more eventually come onboard, it will help bring awareness to the para-sports scene and our collective efforts towards a more inclusive society. Finally, we would certainly want the APG to be a fitting wrap to the nation’s jubilee celebration.” added Mr Lim.
-
-END
