@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **DBS Bank Celebrates SG50 With 28th SEA Games**
-_**SGD3.5 million sponsorship to support a slew of SEA Games community programmes**_
+_SGD3.5 million sponsorship to support a slew of SEA Games community programmes_
 
 DBS Bank celebrates Singapore’s 50th birthday with a SGD3.5 million sponsorship of the 28th Southeast Asian (SEA) Games and its dragon boat and sailing races. As the largest bank in Singapore, DBS will help to further boost community participation in the 28th SEA Games, making it a truly inclusive event for all in Singapore.
 
@@ -21,7 +21,7 @@ DBS Bank celebrates Singapore’s 50th birthday with a SGD3.5 million sponsorshi
 
 6. Other community initiatives planned include getting pioneers and selected community groups to witness the SEA Games opening and closing ceremonies and rallying DBS employees to make 28th SEA Games mascots (Nila) for the dragon boating and sailing medalists. Limited edition DBS Marina Regatta merchandise celebrating the spirit of the SEA Games is also in the works.
 
-7. Mr Sim S Lim, Singapore Country Head, DBS Bank said, “We are honoured to be an Official Sponsor of the SEA Games and to celebrate our nation’s 50th birthday by rallying the community together to enjoy the SEA Games.  We are also excited about bringing a bigger DBS Marina Regatta, as part of our efforts to bring the Bay to the people, and the people to the Bay. In addition to the exhilarating dragon boat races, a host of exciting activities will be lined up for everyone to celebrate this momentous occasion.”
+7. Mr Sim S Lim, Singapore Country Head, DBS Bank said, “We are honoured to be an Official Sponsor of the SEA Games and to celebrate our nation’s 50th birthday by rallying the community together to enjoy the SEA Games.We are also excited about bringing a bigger DBS Marina Regatta, as part of our efforts to bring the Bay to the people, and the people to the Bay. In addition to the exhilarating dragon boat races, a host of exciting activities will be lined up for everyone to celebrate this momentous occasion.”
 
 8. DBS Bank is exemplary of what the Singapore Southeast Asian Games Organising Committee (SINGSOC) hopes to achieve through the Games – to have corporates take the initiative to adopt a sport, and co-create a Games that they can be proud of. 
 
@@ -31,24 +31,21 @@ DBS Bank celebrates Singapore’s 50th birthday with a SGD3.5 million sponsorshi
 
 11. In conjunction with SG50, the bank established a SGD 50 million foundation to address social needs in Singapore and across Asia in February this year. As the former Development Bank of Singapore, DBS has had a rich heritage of helping the development of modern Singapore. With POSB being the “People’s Bank”, the bank also sees itself as being an integral member of the community, serving more than four million customers in Singapore. Having progressed over the years with the nation, the bank believes that the foundation will enable it to further contribute to the success of Singapore.
 
-END
+---
 
-Refer to [Annex](/files/Media%20Centre/Media%20Release/2014/November/Annex%20%20DBS_SEA%20Games.pdf) for details on DBS Marina Regatta 2015 Dragon Boat Races.
-
-  
-  
+Refer to [Annex](/files/Media%20Centre/Media%20Release/2014/November/Annex%20%20DBS_SEA%20Games.pdf) for details on DBS Marina Regatta 2015 Dragon Boat Races.
 
 **For media enquiries, please contact:**
 
-Rachel Ang  
-Public Relations and Strategic Communications, SINGSOC  
-Tel: +65 6500 5217  
-HP: +65 9729 3700  
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+Rachel Ang<br>
+Public Relations and Strategic Communications, SINGSOC<br>
+Tel: +65 6500 5217<br>
+HP: +65 9729 3700<br>
+Email:=[rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
-Grace Ngoh  
-Group Strategic Marketing & Communications  
-DBS Bank  
-Tel: +65 6878 5325  
-HP: +65 9878 9623  
-Email: [grace.ngoh@dbs.com](mailto:grace.ngoh@dbs.com)
+Grace Ngoh<br>
+Group Strategic Marketing & Communications<br>
+DBS Bank<br>
+Tel: +65 6878 5325<br>
+HP: +65 9878 9623<br>
+Email:=[grace.ngoh@dbs.com](mailto:grace.ngoh@dbs.com)
