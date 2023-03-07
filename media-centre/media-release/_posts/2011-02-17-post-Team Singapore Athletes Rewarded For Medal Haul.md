@@ -68,12 +68,13 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Badminton     | Women's Doubles    | Shinta Mulia Sari <br>YAO Lei   | Silver   | $60,000.00  |
+| Badminton     | Men's Doubles    | Hendra Wijaya<br>YAO Lei  | Bronze   | $30,000.00  |
  
-Men's Doubles
 
-Hendra Wijaya
 
-Bronze
+
+
+
 
 $30,000.00
 
