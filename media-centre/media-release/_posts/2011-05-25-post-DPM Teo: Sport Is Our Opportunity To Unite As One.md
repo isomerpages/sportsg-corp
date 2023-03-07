@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-## **DPM Teo: Sport Is Our Opportunity To Unite As One**
+### **DPM Teo: Sport Is Our Opportunity To Unite As One**
 
-DPM TEO: SPORT IS OUR OPPORTUNITY TO UNITE AS ONE
 **Singapore, 25 May 2011** - Deputy Prime Minister Teo Chee Hean today called attention to the important role sport plays in Singapore's future.
 
 2. Speaking at the Singapore Sports Awards 2011 ceremony held at the Orchard Hotel, DPM Teo said, "Living in a nation of many races and many cultures, we need to find a common ground. Sport is that common ground, the space we can all share and celebrate. Sport is our opportunity to unite as one, regardless of language, religion, race or age."
@@ -25,9 +24,10 @@ DPM TEO: SPORT IS OUR OPPORTUNITY TO UNITE AS ONE
 
 8. A total of 79 athletes received 60 awards from DPM Teo and Acting Minister for Community Development, Youth and Sports Chan Chun Sing, who presented the Meritorious Awards to the athletes, at the Singapore Sports Awards 2011. These athletes and officials were each honoured with the country's most prestigious recognition of sporting excellence, for their contributions towards Singapore's sporting achievements in 2010.
 
--End-
+---
 
-Annex A - About the Singapore Sports Awards
+**Annex A - About the Singapore Sports Awards**
+
 The most prestigious annual recognition for sporting achievements in our city state, the Singapore Sports Awards were first introduced in late 1960's with the initial focus on sportsmen and sportswomen. Swimmers Tan Thuan Heng, and Patricia Chan were the first winners.
 
 Since then, the much coveted Sportsman and Sportswoman of the year titles have gone to some of the finest names in Singapore sport.
@@ -39,8 +39,9 @@ In the same year, meritorious awards, given to recognise extraordinary efforts b
 In 1978, the Sportsboy and Sportsgirl of the year awards were added. The focus on youth has also led to the introduction of the Meritorious awards for juniors in 1978. Since then, some of Singapore's brightest and most promising athletes have been recognised.
 
 The diversity of sports represented by the winners is a telling comment of how far Singapore sports has come. It not only shows the level of competition among sports but also reflects the fact that athletes and coaches have the opportunity to shine at the highest level whatever the discipline they choose to focus on. As Singapore moves towards excellence at the regional level and beyond, such democracy of sporting choices will serve us well.
-statics0
-Annex B - List of Singapore Sports Awards Recipients
+
+
+**Annex B - List of Singapore Sports Awards Recipients**<br>
 Senior Awards
 
 | S/N | Awards | Awardees | Sports |
@@ -120,9 +121,9 @@ The Singapore National Olympic Council (SNOC) is the national nonprofit organisa
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Team Singapore**
@@ -136,13 +137,14 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg) and [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
 
 **For media enquiries, please contact:**
-<br>Patricia Yee
+
+Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
 <br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
-	
+    
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Media Relations
