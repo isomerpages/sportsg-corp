@@ -47,16 +47,7 @@ Full Marathon Results - Women's Individual
 | -------- | -------- | -------- | -------- |
 | 1 | Irene Jerotich Kosgei |Kenya | 02:35.22
 | 2 | Ayelu Lemma Geda |Ethiopia |02:35.31
-
-3
-
-Annerien van Schalkwyk
-
-South Africa
-
-02:35.32
-
- 
+| 3 | Annerien van Schalkwyk | South Africa | 02:35.32
 
 Full Marathon (Singapore) Results - Men's
 
