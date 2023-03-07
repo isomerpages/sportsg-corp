@@ -265,61 +265,11 @@ Athletes
 |103.  | Dragon Boat  | Jess Poon Shing Ping | 潘心萍 | 23 | F | √| Team (Women)
 | 104. | Dragon Boat  | Joan Poh Xue Hua| 傅雪铧| 19| F| √   | Team (Women)
 | 105. | Dragon Boat   | Kwah RikaDragon Boat  | 柯利佳Dragon Boat  | 16Dragon Boat  | FDragon Boat  | √  Dragon Boat  | Team (Women)
-| 106.  | Dragon Boat  | Loh Ying
-
-罗莹
-
-20
-
-F
-
-√   
-
-Team (Women)
-
-107.        
-
-Neo Lay Peng
-
-梁丽萍
-
-41
-
-F
-
-√   
-
-Team (Women)
-
-108.        
-
-Ng Ji Yan
-
-黄紫恩
-
-20
-
-F
-
-√   
-
-Team (Women)
-
-109.        
-
-Ng Qihui
-
-呉启慧
-
-26
-
-F
-
-√   
-
-Team (Women)
-
-110.        
+| 106.  | Dragon Boat  | Loh Ying  | 罗莹 | 20  | F  | √     | Team (Women)
+| 107. | Dragon Boat  | Neo Lay Peng | 梁丽萍 | 41 | F | √    | Team (Women)
+| 108.  | Dragon Boat  | Ng Ji Yan | 黄紫恩 | 20 | F| √   | Team (Women)
+| 109.  | Dragon Boat  | Ng Qihui| 呉启慧| 26| F| √   | Team (Women)
+| 110.        
 
 Nurul Hakin Rohaizat
 
