@@ -33,7 +33,15 @@ Local Runners Retained Their Titles
 
 **FULL MARATHON OPEN (MEN)**
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Rank | Tag No. | Name | Nationality | Time |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | 738864 | Charles Mwai Kanyao | Kenya | 2:14:33.75|
+| 2 | 738860 | Luka Kipkemoi Chelimo | Kenya | 2:14:38.75|
+| 3 | 11 | John Kelai | Kenya | 2:15:45.65 |
 
+**FULL MARATHON OPEN (WOMEN)**
+| Rank | Tag No. | Name | Nationality | Time |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | 15 | Irene Jerotich Kosgei | Kenya | 2:36:42.39|
+| 2 | 22 | Roman Gebregessesse | Ethiopia | 2:37:30.74 |
+| 3 | 4 | Magadelene Mukunzi | Kenya | 2:38:06.50 |
