@@ -40,16 +40,9 @@ Annex: Results List of the National Cheerleading Championships 2011
 | -------- | -------- | 
 | FREESTYLE - SECONDARY     |  1ST - MG Sizzlers (Methodist Girls' School) <br>2ND - Avengerz (Ang Mo Kio Secondary School) <br>3RD - Swiss Sports Leaders (Swiss Cottage Secondary School)
 | FREESTYLE - OPEN | 1ST - ITE Genesis <br>2ND - KR Steppers (Kent Ridge Hall - National University of Singapore)
+| COMPETITIVE - STUNTS - PARTNER | 1ST - Wildcards <br>2ND - ASTROS - KnR <br>3RD - ASTROS ? Xwonder
 
-| COMPETITIVE - STUNTS - PARTNER
-
-1ST - Wildcards
-
-2ND - ASTROS - KnR
-
-3RD - ASTROS ? Xwonder
-
-COMPETITIVE - STUNTS -
+| COMPETITIVE - STUNTS -
 
 ALL-GIRLS
 
