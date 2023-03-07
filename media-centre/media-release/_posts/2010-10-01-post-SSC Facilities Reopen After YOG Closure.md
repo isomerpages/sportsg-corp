@@ -36,13 +36,19 @@ Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 Annex 1: Schedule of Reopening Of SSC Facilities
-Name of Facility
+
+
+
+| Name of Facility | Expected Date of Reopening | Interim Alternative Facilities 
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 
  
 
-Expected Date of Reopening
 
-Interim Alternative Facilities
+
+
 
 Bishan Sports Hall
 
