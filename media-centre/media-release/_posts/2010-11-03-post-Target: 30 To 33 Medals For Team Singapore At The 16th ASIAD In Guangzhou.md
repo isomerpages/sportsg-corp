@@ -306,46 +306,9 @@ Athletes
 | 144. | Football  | Eugene Luo Zhenlun| 罗振伦| 19| M| √  | Team (M)
 | 145. | Football | Khalili D'cruz| NA| 19| M| √   | Team (M)
 | 146. | Football | Rizawan Abdullah | NA | 23 | M |√    |Team (M)
-
-147.        
-
-Golf
-
-Choo Tze Huang
-
-朱思瑝
-
-23
-
-M
-
- 
-
-Team (M)
-
-Individual (M)
-
-148.        
-
-Gregory Raymund Foo Yong En
-
-符永恩
-
-17
-
-M
-
-√   
-
-Team (M)
-
-Individual (M)
-
-149.        
-
-Johnson Poh Swee Kiat
-
-傅瑞杰
+|147. |Golf|Choo Tze Huang|朱思瑝|23|M||Team (M)|Individual (M)
+|148.|Golf|Gregory Raymund Foo Yong En|符永恩|17|M|√  |Team (M) |Individual (M)
+|149.  |Golf|Johnson Poh Swee Kiat|傅瑞杰
 
 19
 
