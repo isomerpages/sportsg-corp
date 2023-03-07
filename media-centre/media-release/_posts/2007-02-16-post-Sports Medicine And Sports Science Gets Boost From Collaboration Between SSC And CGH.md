@@ -50,11 +50,13 @@ Tel: 6850 2732, Mobile: 8126 2139
 Email: [tasha_tan@cgh.com.sg](mailto:tasha_tan@cgh.com.sg)
 
 
-**About Singapore Sports Council**
+***About Singapore Sports Council***
 <br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Its vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
+
+*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Its vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.*
 
 
-**About Changi General Hospital**
+***About Changi General Hospital***
+
 <br>
-Changi General Hospital (CGH) is a 797-bed restructured hospital in eastern Singapore, CGH is a member of SingHealth, the eastern public healthcare cluster. CGH is the first hospital in the SingHealth cluster to receive the prestigious international JCI accreditation on 11 June 2005, which recognises the hospital'' performance in complying with international health care quality standards. CGH offers a comprehensive range of clinical specialities. These include accident and emergency (A&E), anaesthesia, cardiology, dermatology, Ear Nose and Throat (ENT), Gastroenterology, general medicine, general surgery, geriatric medicine, multiphasic health screening, neurology, neurosurgery, obstetrics & gynaecology (O&G), oral & maxillofacial surgery, orthopaedic surgery, psychological medicine, radiology, rehabilitation medicine, sports medicine and urology.
+*Changi General Hospital (CGH) is a 797-bed restructured hospital in eastern Singapore, CGH is a member of SingHealth, the eastern public healthcare cluster. CGH is the first hospital in the SingHealth cluster to receive the prestigious international JCI accreditation on 11 June 2005, which recognises the hospital'' performance in complying with international health care quality standards. CGH offers a comprehensive range of clinical specialities. These include accident and emergency (A&E), anaesthesia, cardiology, dermatology, Ear Nose and Throat (ENT), Gastroenterology, general medicine, general surgery, geriatric medicine, multiphasic health screening, neurology, neurosurgery, obstetrics & gynaecology (O&G), oral & maxillofacial surgery, orthopaedic surgery, psychological medicine, radiology, rehabilitation medicine, sports medicine and urology.*
