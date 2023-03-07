@@ -75,3 +75,12 @@ MAP AWARDS RECIPIENTS
 | 2 | Cuesports | Ang Boon Chin | Men's Snooker Doubles | 1 | $15,000 | Team Event ||
 ||| Lim Chun Kiat |
 ||| Peter Edward Gilchrist | Men's Billiards Singles | 1 | $10,000 | Individual ||
+| 3 | Shooting | Goh Jia Yi | Women's 10m Air Rifle Individual | 1 | $10,000 | Individual ||
+||| Zhang Jin | Men's 10m Air Rifle Individual | 1 | $10,000 | Individual |
+||| Zhang Jin | Men's 10m Air Rifle Team | 1 | $15,000 | Team Event |
+||| Koh Tien Wei Jonathan|
+||| Ong Jun Hong |
+
+
+
+
