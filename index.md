@@ -27,18 +27,21 @@ sections:
       button: Discover Now
       alt: Image alt text
       url: /what-we-do/academy-and-clubs/
+      image: /images/About Us/Values & Mission/Core Values/people.jpeg
   - infopic:
       title: Become A Certified Coach
       subtitle: Coaches' Corner
       button: Apply Now
       alt: Image alt text
       url: /support-resources/coaches-corner/introduction/
+      image: /images/Support/Coache's Corner/athletics2.jpeg
   - infopic:
       title: Develop A Love For Sport
       subtitle: Sport Education
       button: Learn More
       alt: Image alt text
       url: /sports-education/history-of-sportsg/introduction/
+      image: /images/Sport Education/Value & Principles in Sport/NSYS generic.jpeg
   - resources:
       title: Media Center
       button: Read more
