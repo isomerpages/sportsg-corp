@@ -43,6 +43,7 @@ Full Marathon Results - Men's Individual
 | 3 | Vincent Kro | Kenya | 02:14:57
 
 Full Marathon Results - Women's Individual
+
 | No. | Name | Country | Finishing Time |
 | -------- | -------- | -------- | -------- |
 | 1 | Irene Jerotich Kosgei |Kenya | 02:35.22
@@ -50,6 +51,7 @@ Full Marathon Results - Women's Individual
 | 3 | Annerien van Schalkwyk | South Africa | 02:35.32
 
 Full Marathon (Singapore) Results - Men's
+
 | No. | Name | Country | Finishing Time |
 | -------- | -------- | -------- | -------- |
 | 1 | Mok Ying Ren  | Singapore  |02:38.28
@@ -57,6 +59,7 @@ Full Marathon (Singapore) Results - Men's
 | 3 | Ramesh s/o Palaniandy | Singapore | 02:52.55
 
 Full Marathon (Singapore) Results - Women's
+
  No. | Name | Country | Finishing Time |
 | -------- | -------- | -------- | -------- |
 | 1 | Qi Hui  | Singapore  | 03:12.24
@@ -92,7 +95,8 @@ It serves both Consumer and Wholesale Banking customers. Consumer Banking provid
 The Bank employs over 5,700 people in Singapore and has a network of 18 branches, 29 ATMs, and 6 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
 
 **For media enquiries, please contact:**
-<br>Samantha See
+
+Samantha See
 <br>Fulford Public Relations
 <br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
 
