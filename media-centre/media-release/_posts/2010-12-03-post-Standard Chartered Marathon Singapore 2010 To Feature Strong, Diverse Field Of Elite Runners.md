@@ -108,10 +108,10 @@ Career Highlights:
 <br>2008 Prague Marathon, Champion (2:11:06)
 <br>2008 Toronto Waterfront Marathon, Champion (2:11:01)
 <br>2009 Mumbai Marathon, Champion (2:11:51) - Course Record
-2009 Prague Marathon, Third (2:10:29)
-2009 Toronto Waterfront Marathon, Champion (2:08:32) - Course & Canadian Record
-2010 Toronto Waterfront Marathon, Champion (2:07:58) - Course & Canadian Record
-statics0
+<br>2009 Prague Marathon, Third (2:10:29)
+<br>2009 Toronto Waterfront Marathon, Champion (2:08:32) - Course & Canadian Record
+<br>2010 Toronto Waterfront Marathon, Champion (2:07:58) - Course & Canadian Record
+
 Annex C: SCMS 2010 Event Day Fact Sheet
 SCMS 2010 Event Day Fact Sheet [348 Kb]
 About the Singapore Sports Council
