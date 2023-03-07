@@ -28,7 +28,7 @@ Singapore, 13 February 2009 - The Singapore Asian Youth Games Organising Committ
 <br>
 [Annex A - AYG Singapore 2009 Fact Sheet](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20A%20%2020Fact%20Sheet%20on%20AYG%20Singapore%202009pdf.pdf)
 <br>
-[Annex B - AYG Singapore 2009 Sports Events & Sports Venues]()
+[Annex B - AYG Singapore 2009 Sports Events & Sports Venues]([](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20B%20%20List%20of%20Sports%20Events.pdf))
 <br>
 [Annex C - AYG Singapore 2009 Competition Managers](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20C%20%20List%20of%20Competition%20Managerspdf.pdf)
 
