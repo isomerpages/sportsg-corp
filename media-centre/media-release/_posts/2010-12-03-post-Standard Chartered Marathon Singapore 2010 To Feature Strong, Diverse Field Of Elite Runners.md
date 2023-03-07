@@ -107,7 +107,7 @@ Career Highlights:
 <br>2008 Tiberias Marathon, Second (2:10:37)
 <br>2008 Prague Marathon, Champion (2:11:06)
 <br>2008 Toronto Waterfront Marathon, Champion (2:11:01)
-<br>2009 Mumbai Marathon, Champion (2:11:51) - Course Record
+<br>2009 Mumbai Marathon, Champion (2:11:51)  Course Record
 <br>2009 Prague Marathon, Third (2:10:29)
 <br>2009 Toronto Waterfront Marathon, Champion (2:08:32) - Course & Canadian Record
 <br>2010 Toronto Waterfront Marathon, Champion (2:07:58) - Course & Canadian Record
