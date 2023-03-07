@@ -24,7 +24,7 @@ Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 will enjoy
   
 7. “The new Ekiden fundraising format and the introduction of the registration roadshows are both key elements of SCMS’ enhanced community engagement in 2014,” said Robb. “Increasing the amount of funds raised for charity has long been a focus for SCMS and we are determined to make significant strides this year. We trust that the Ekiden teams, as well as all other participants, will go the extra mile for charity and use their fundraising as added motivation on race day. We’re also thrilled to be taking our registration roadshows across the island, further reaching out to the running communities to be part of SCMS 2014. This community engagement will also extend beyond registration and we look forward to announcing those exciting details at our official launch on 16 July.”  
   
-8. For all SCMS 2014 registration details please visit [www.marathonsingapore.com](http:).  
+8. For all SCMS 2014 registration details please visit [www.marathonsingapore.com](www.marathonsingapore.com).  
   
   
 **EVENT LAUNCH DETAILS**  
@@ -42,12 +42,12 @@ Venue: ION Orchard (main entrance along Orchard Road)
 PeiRu Ng                      
 Full Circle PR  
 Mobile: 9839 0905  
-Email: [peiru@fullcirclepr.co](http:)  
+Email: [peiru@fullcirclepr.co](peiru@fullcirclepr.co)
   
 Ronda Ng Doswell  
 Full Circle PR  
 Mobile: 9152 2842  
-Email: [ronda@fullcirclepr.co](http:)  
+Email: [ronda@fullcirclepr.co](mailto:ronda@fullcirclepr.co)
   
   
 **About Standard Chartered Bank in Singapore**    
@@ -71,11 +71,11 @@ The Bank’s global business is managed out of Singapore, as is its global Techn
    
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport.  
    
-To find out more, visit our websites [www.sportsingapore.gov.sg](http:) and [www.myactivesg.com](http:).  
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [www.myactivesg.com](www.myactivesg.com).  
   
-Follow us at [www.facebook.com/myActiveSG](http:) and [www.youtube.com/SingaporeSports](http:).  
+Follow us at [www.facebook.com/myActiveSG](www.facebook.com/myActiveSG) and [www.youtube.com/SingaporeSports](www.youtube.com/SingaporeSports).  
   
-For photographs, go to [www.flickr.com/ssc-sportsphotography](http:).  
+For photographs, go to [www.flickr.com/ssc-sportsphotography](www.flickr.com/ssc-sportsphotography).  
   
   
 **About Spectrum Worldwide**  
@@ -86,4 +86,4 @@ Through long-standing partnerships with multi-national companies throughout the 
   
 Spectrum’s approach centres on understanding clients’ needs, and designing and delivering the best event solutions based on our years of experience.  
   
-For more information, go to:  [www.sww.com.sg](http:)
+For more information, go to:  [www.sww.com.sg](www.sww.com.sg)
