@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
- The Singapore ASEAN Para Games Organising Committee (SAPGOC) announced today that the 8th ASEAN Para Games (APG) will be held from 3 to 9 December 2015. This will also be the first time that Singapore is hosting the Games.   
+### **Singapore To Host The 8th ASEAN Para Games From 3 To 9 December 2015**
+The Singapore ASEAN Para Games Organising Committee (SAPGOC) announced today that the 8th ASEAN Para Games (APG) will be held from 3 to 9 December 2015. This will also be the first time that Singapore is hosting the Games.   
 
 2. During the first Steering Committee meeting, it was also announced that Mr Lawrence Wong, Minister for Culture, Community and Youth will spearhead the Games as committee Chairman, with Mr Sam Tan, Minister-of-State, Prime Minister’s Office and Ministry of Culture, Community and Youth as Deputy Chairman. (Refer to Annex A for the full list of Steering Committee members). 
 
