@@ -78,3 +78,10 @@ Email: [Sport_TUE_ADS@sport.gov.sg](mailto:Sport_TUE_ADS@sport.gov.sg)
 Note: A TUE granted by the ADS TUE Committee may not be acknowledged by the International Federation. It is the athlete's responsibility to be aware of the requirements of the International Federation or event organiser prior to competing. International Federation's may have different TUE application and information requirements and forms.
 
 For more details, please refer to the [ADS TUE Policy](/anti-doping-singapore/resources/policies-and-forms).
+
+
+#### **PROHIBITED LIST**
+
+The List of Prohibited Substances and Methods, updated annually by the World Anti-Doping Agency (WADA), is the International Standard defining what is prohibited In-Competition and Out-of-Competition. The List also indicates whether particular substances are banned in particular sports. WADA reviews and updates the List annually and the most current edition of the List is posted on WADA's website at: [https://www.wada-ama.org/en/prohibited-list](https://www.wada-ama.org/en/prohibited-list) . The updated Prohibited List comes into effect on 1 January every year.
+
+For easier access, the List is now available on the various mobile devices and platforms. Visit the Prohibited List [mobile site](https://www.wada-ama.org/en/prohibited-list) or download the application for iPhones.
