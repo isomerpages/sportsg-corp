@@ -7,13 +7,13 @@ description: ""
 image: ""
 ---
 ### **A TREErific Christmas to mark one year to the 8th ASEAN Para Games**
-**_Event also presents opportunities for Team Singapore para-athletes and members of the community to come together to build a shared identity as one team_**
+_Event also presents opportunities for Team Singapore para-athletes and members of the community to come together to build a shared identity as one team_
 
 With one year to go to the 8th ASEAN Para Games which will be held in Singapore from 3 to 9 December 2014, organizers of the Games have put together "A TREErific Christmas - Sports Carnival" that will bring together members of the community, corporates and Team Singapore para-athletes together in the spirit of developing a shared identity and a deeper understanding of disability sports.
 
 2. Visitors to the carnival will be given the opportunity to engage in disability sports try outs such as javelin, shooting, bowling and air boccia while at the same time, team up and engage in friendly play with our Team Singapore para-athletes.
 
-**Community events to build a shared identity**
+##### **Community events to build a shared identity**
 
 3. A fun-filled day saw participants from schools and the public enjoy Singapore's first Reindeer Walk-a-Wheelathon as well as a series of carnival games, performances, arts & crafts, face-painting, balloon-sculptin and Christmas caroling.
 
@@ -33,30 +33,30 @@ With one year to go to the 8th ASEAN Para Games which will be held in Singapore 
 
 11. Says Team Singapore para-sailor Yap Qian Yin, "It is always an honour representing Singapore in international competitions. Come 2015, it will be an even greater honour to be able to represent our country in the ASEAN Para Games that will be held on our home ground. I am mindful that the competition is going to be tough, but with everyone's support, it will help me overcome all obstacles that will be presented during the race and to reach the common goal - that is, to be able to fly the Singapore flag high."
 
-END
+---
 
 **For media enquiries, please contact:**
 
 **Singapore ASEAN Para Games Organising Committee:**
 
-Lynette Lim  
-Manager, Public Relations  
-Communications and Engagement Division  
-Tel: +65 6500 5225  
-HP: +65 9736 6639  
-Email: [lynette\_lim@sport.gov.sg](mailto:lynette_lim@sport.gov.sg)
+Lynette Lim<br>
+Manager, Public Relations<br>
+Communications and Engagement Division<br>
+Tel: +65 6500 5225<br>
+HP: +65 9736 6639<br>
+Email:[lynette\_lim@sport.gov.sg](mailto:lynette_lim@sport.gov.sg)
 
-S. Parameswaran  
-Assistant Director, Public Relations  
-Communications and Engagement Division  
-Tel: +65 6500 5236  
-HP: +65 9839 1974  
-Email: [parames\_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
+S. Parameswaran<br>
+Assistant Director, Public Relations<br>
+Communications and Engagement Division<br>
+Tel: +65 6500 5236<br>
+HP: +65 9839 1974<br>
+Email:[parames\_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
 
 **Singapore Disability Sports Council:**
 
-Shanise Ho  
-Executive, Corporate Communications  
-Tel: +65 6342-6501  
-HP: +65 9852 0386  
-Email: [shanise.ho@sdsc.org.sg](mailto:shanise.ho@sdsc.org.sg)
+Shanise Ho<br>
+Executive, Corporate Communications<br>
+Tel: +65 6342-6501<br>
+HP: +65 9852 0386<br>
+Email:[shanise.ho@sdsc.org.sg](mailto:shanise.ho@sdsc.org.sg)
