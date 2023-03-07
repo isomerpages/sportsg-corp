@@ -6,29 +6,28 @@ layout: post
 description: ""
 image: ""
 ---
-SSC Banks On Youth Sports Development
-Singapore , 22 Feb 2011
+## **SSC Banks On Youth Sports Development**
 
 SSC BANKS ON YOUTH SPORTS DEVELOPMENT
 Increased Funding for Youth Development Programmes and Team Sports
 Increase in Quality of NSAs' Multi-Year Sports Plans
-Singapore, 22 February 2011 - Sports champions are not born. Their success results from many years of hard work and well-planned training. With this in mind, the Singapore Sports Council (SSC) has urged the National Sports Associations (NSAs) to put in place strong and structured youth development programmes to groom our young athletes into the champions of tomorrow.
+**Singapore, 22 February 2011** - Sports champions are not born. Their success results from many years of hard work and well-planned training. With this in mind, the Singapore Sports Council (SSC) has urged the National Sports Associations (NSAs) to put in place strong and structured youth development programmes to groom our young athletes into the champions of tomorrow.
 
-2 The Annual National Sports Association Grant Exercise (ANGE) for Financial Year (FY) 2011 (1 April 2011 to 31 March 2012) reflects this reality through a significant increase in funding for NSA development programmes. For FY 2011, a total of S$33.14 million in direct funding has been approved for 49 NSAs under ANGE FY2011 (ANGE FY2011), of which S$18.18 million (54.9% of the total amount) will be channelled towards developing a holistic athlete development structure and programming. This is an absolute year-on-year increase of 29.4% from the S$14.05 million of the total direct funding amount of S$32.3 million approved in FY 2010. As a percentage of the total direct allocation, development spending rose to 54.9% from only 43.9% the year before.
+2. The Annual National Sports Association Grant Exercise (ANGE) for Financial Year (FY) 2011 (1 April 2011 to 31 March 2012) reflects this reality through a significant increase in funding for NSA development programmes. For FY 2011, a total of S$33.14 million in direct funding has been approved for 49 NSAs under ANGE FY2011 (ANGE FY2011), of which S$18.18 million (54.9% of the total amount) will be channelled towards developing a holistic athlete development structure and programming. This is an absolute year-on-year increase of 29.4% from the S$14.05 million of the total direct funding amount of S$32.3 million approved in FY 2010. As a percentage of the total direct allocation, development spending rose to 54.9% from only 43.9% the year before.
 
-3 "Singapore needs holistic youth development programmes to identify and groom our young sporting talent into the world champions of tomorrow. For Singapore to be a regular feature on the podium at the major Games like the Olympics, it will not be enough to concentre our efforts solely on the existing pool of elite athletes. It is thus crucial to ensure that Singapore has a pipeline of athletes ready to peak in 2012 and 2016, and beyond," said Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports.
+3. "Singapore needs holistic youth development programmes to identify and groom our young sporting talent into the world champions of tomorrow. For Singapore to be a regular feature on the podium at the major Games like the Olympics, it will not be enough to concentre our efforts solely on the existing pool of elite athletes. It is thus crucial to ensure that Singapore has a pipeline of athletes ready to peak in 2012 and 2016, and beyond," said Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports.
 
-4 "I am certain that with a structured, aggressive and holistic youth development system in place, we will continue to be represented on the podium at all of the major games in which our athletes participate," added SPS Teo.
+4. "I am certain that with a structured, aggressive and holistic youth development system in place, we will continue to be represented on the podium at all of the major games in which our athletes participate," added SPS Teo.
 
-5 For ANGE FY 2011, the SSC will be channelling a total of S$67.24 million to the NSAs and other sports partners. The amount includes direct grants of S$33.14 million and indirect grants of S$33.1 million. This is up from FY 2010's funding of S$54.17 million (Direct grant: $32.3 million; indirect grant: S$21.87 million).
+5. For ANGE FY 2011, the SSC will be channelling a total of S$67.24 million to the NSAs and other sports partners. The amount includes direct grants of S$33.14 million and indirect grants of S$33.1 million. This is up from FY 2010's funding of S$54.17 million (Direct grant: $32.3 million; indirect grant: S$21.87 million).
 
-6 Indirect grants to NSAs include the Olympic Pathway Programme and Singapore Youth Sports Development funding, Sports Medicine and Sports Science support and subsidies for sports facilities, among others.
-statics0
+6. Indirect grants to NSAs include the Olympic Pathway Programme and Singapore Youth Sports Development funding, Sports Medicine and Sports Science support and subsidies for sports facilities, among others.
+
 Continued Investment in Team Sports
-statics0
-7 The ANGE FY 2011 allocation also saw the SSC continue their investment in Team Sports. About $8.32 million, up from $8.11 million in FY 2010, will be allocated towards Team Sports.
 
-8 The importance of Team Sports was explained by Mr Richard Seow, Chairman, SSC, who noted, "If we want to be masters of our sporting destiny, we need to get more of our youth into sports at an earlier age. Not only do team sports produce champions, they are a great way to build the social skills we need in life. These young athletes have the potential to become our leaders of tomorrow. Team sports teach youth about sharing responsibility in both victory and defeat, pursuing a group strategy and team problem-solving in real time."
+7. The ANGE FY 2011 allocation also saw the SSC continue their investment in Team Sports. About $8.32 million, up from $8.11 million in FY 2010, will be allocated towards Team Sports.
+
+8. The importance of Team Sports was explained by Mr Richard Seow, Chairman, SSC, who noted, "If we want to be masters of our sporting destiny, we need to get more of our youth into sports at an earlier age. Not only do team sports produce champions, they are a great way to build the social skills we need in life. These young athletes have the potential to become our leaders of tomorrow. Team sports teach youth about sharing responsibility in both victory and defeat, pursuing a group strategy and team problem-solving in real time."
 
 9. Football and Water Polo will see an increase in funding this year. The funding to the Football Association of Singapore is for development programmes for the men's under-16, 17 and 18 teams to help them prepare for the 2013 and 2015 SEA Games. The boost in funding for Water Polo is to assist the men's and women's teams' preparations for the 26th SEA Games 2011. This will be the first time that Singapore is expected to send a women's team to participate in Water Polo to the SEA Games, which will be held in Jakarta and Palembang from 11 to 25 November this year.
 
