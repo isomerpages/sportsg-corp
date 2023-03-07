@@ -361,40 +361,11 @@ Athletes
 | 200. | Sailing | Tan Wearn Haw| 陈文皓| 32| M||  4 persons Match Racing Skipper
 | 201.  | Sailing | Benjamin Tan Jia Ming| 陈加明| 25| M| √   | Crew 1
 | 202.  | Sailing | Yurii Alexander Siegel| NA| 32| M| √  |  | Crew 2
-| 203.  | Sailing | Colin Ng Wee Tai | 黄伟达| 32 | M| Crew 3
-| 204. | Shooting | Alex Chow Wei An | 邹维安| 39 | M| √    Double Trap (M)
-
-205.        
-
-Andy Chee Kwet Chian
-
-徐国千
-
-46
-
-M
-
-√   
-
-50m Rifle Prone (M)
-
-206.        
-
-Aqilah Binte Sudhir
-
-NA
-
-19
-
-F
-
-√   
-
-50m Rifle 3 positions (W)
-
-50m Rifle Prone (W)
-
-207.        
+| 203.  | Sailing | Colin Ng Wee Tai | 黄伟达| 32 | M| | Crew 3
+| 204. | Shooting | Alex Chow Wei An | 邹维安| 39 | M| √ |  Double Trap (M)
+| 205.  | Andy Chee Kwet Chian| 徐国千| 46| M| √   | 50m Rifle Prone (M)
+| 206.  | Aqilah Binte Sudhir| NA| 19| F| √   | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
+| 207.        
 
 Cheng Jian Huan
 
