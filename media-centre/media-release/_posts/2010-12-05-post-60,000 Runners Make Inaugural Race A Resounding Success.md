@@ -179,10 +179,9 @@ Singapore
 
  
 
-Annex B: Photos and Captions
-Photos and Captions [619 Kb]
-Annex C: SCMS 2010 Event Day Fact Sheet
-SCMS 2010 Event Day Fact Sheet [391 Kb]
+Annex B: [Photos and Captions [619 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/Photos%20and%20Captionspdf.pdf)
+
+Annex C: [SCMS 2010 Event Day Fact Sheet [391 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS%202010%20Event%20Day%20Fact%20Sheetpdf.pdf)
 
 **About the Singapore Sports Council**
 <br>
