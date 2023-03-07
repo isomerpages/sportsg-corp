@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **Road Closures and Restrictions Advisory for the 28th SEA Games**
-The 28th SEA Games will feature 36 sports across 31 venues with the first competition scheduled to kick off on Friday 29 May.
+The 28th SEA Games will feature 36 sports across 31 venues with the first competition scheduled to kick off on Friday, 29 May.
 
 More than 7,000 athletes and officials from the 11 Southeast Asian countries are expected to take part with the first arrivals expected from the week of 20 May.
 
@@ -25,8 +25,6 @@ The affected venues and dates are:
 | Cycling | Marina South | 9 – 14 June |
 | Closing Ceremony | National Stadium | 16 June |
 
-Detailed information on all road closures are listed on [www.seagames2015.com/advisories/road-closures](http://www.seagames2015.com/advisories/road-closures)
-
 **Guide for Spectators**
 
 1.  Come early for a stress-free enjoyable experience (factor in time for security checks, etc.)
@@ -40,13 +38,13 @@ Detailed information on all road closures are listed on [www.seagames2015.com/a
 1. Please Give Way to SEA Games vehicles
 
 *   Help our athletes get to the Games on time
-*   Check (website / app / social media) for latest in road closures / diversions during Games time
+*   Check (website/ app/ social media) for latest in road closures/ diversions during Games time
 
-2. Expect delays / congestions near Games venues during competition time
+2. Expect delays/ congestions near Games venues during competition time
 
 3. Plan your journey ahead
 
-*   Check (website / app / social media) for latest in road closures / diversions during Games time
+*   Check (website/ app/ social media) for latest in road closures/ diversions during Games time
 
 **Guide for the Opening & Closing Ceremonies**
 
@@ -63,12 +61,9 @@ Detailed information on all road closures are listed on [www.seagames2015.com/a
 
 *   Operations for MRT and buses to the Singapore Sports Hub are not affected
 *   Apart from Stadium station, Kallang and Mountbatten stations are also within walking distance to the National Stadium
-*   The following taxi stands will be in place:  
-    i. Singapore Indoor Stadium Taxi Stand (Location Code: I28) – Stadium Crescent next to the Singapore Indoor Stadium (opened throughout)  
-    ii. OCBC Arena Taxi Stand (Location Code: I29) – Stadium Boulevard next to OCBC Arena (closed from 2130hrs till 0100hrs the following day)  
-    iii. Kallang Wave Mall Taxi Stand (Location Code: I30) – Stadium Place next to OCBC Aquatic Centre and Kallang Wave Mall (closed from 1500hrs till 0100hrs the following day)
+*   The following taxi stands will be in place:
+	* Singapore Indoor Stadium Taxi Stand (Location Code: I28) – Stadium Crescent next to the Singapore Indoor Stadium (opened throughout)  
+	* OCBC Arena Taxi Stand (Location Code: I29) – Stadium Boulevard next to OCBC Arena (closed from 9.30pm till 1am the following day)  
+	* Kallang Wave Mall Taxi Stand (Location Code: I30) – Stadium Place next to OCBC Aquatic Centre and Kallang Wave Mall (closed from 3pm till 1am the following day)
 
 4. Ticket holders are encouraged to enter the National Stadium via the gate nearest to their allocated seats.
-
-5. The gates that will be opened and their respective screening stations are as shown below:
-
