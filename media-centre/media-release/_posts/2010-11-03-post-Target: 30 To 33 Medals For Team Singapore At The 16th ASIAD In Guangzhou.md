@@ -395,13 +395,7 @@ Athletes
 | 234. | Table Tennis | Yang Zi| 杨子| 26| M| |Men's Team <br>Men's Doubles<br>Men's Singles<br>Mixed Doubles
 | 235.  |Table Tennis | Yu Mengyu | 于梦雨 | 21 | F | √   |  Women's Team
 |236.  |Taekwondo | Jason Tan Junwei | 陈俊玮 | 18 | M | √   | Under 58kg
-| 237.        
-
-Wushu
-
-Khor Poh Chin
-
-许宝真
+| 237.  | Wushu | Khor Poh Chin | 许宝真
 
 24
 
