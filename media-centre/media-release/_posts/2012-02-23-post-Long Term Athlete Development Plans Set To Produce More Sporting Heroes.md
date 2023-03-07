@@ -12,7 +12,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2012/Feb/LONGTERMATHLETEDEVELOPMENTPLANSSETTOPRODUCEMORESPORTINGHEROESMainPar0028Imagegif.gif)
 
-Singapore, 23 February 2012 - As part of the 19 recommendations spelt out under Vision 2030 last week, the Singapore Sports Institute (SSI), under the Singapore Sports Council (SSC), has mapped out its first five-year plan that will provide seamless and holistic support for national athletes.
+**Singapore, 23 February 2012** - As part of the 19 recommendations spelt out under Vision 2030 last week, the Singapore Sports Institute (SSI), under the Singapore Sports Council (SSC), has mapped out its first five-year plan that will provide seamless and holistic support for national athletes.
 
 2. The SSI has identified three strategies. They are:
 High performance sports framework
