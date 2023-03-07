@@ -44,9 +44,7 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 It is mandatory for all athletes to plough back 20% of the MAP awards to their National Sports Association for future training and development.
 
 Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
-Individual Events
-
-
+**Individual Events**
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Gymnastics     | Women's Balance Beam    | LIM Heem Wei     | Silver   | $40,000.00  |
