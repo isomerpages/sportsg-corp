@@ -28,10 +28,11 @@ Valid for three years, the Provisional Membership will allow both existing and a
 The other requirements for registration for NROC have also been reviewed. Details are in Annex B. 
 
 Said Justin Teh, President of the Sports Coaches Association of Singapore, “The introduction of CoachSG and the enhancements to NROC will positively impact coaches’ professionalism, and are a step in the direction of advancing and raising the value and stature of sport coaches in Singapore.”  
-  
 
-#### **Annex A: About CoachSG**
+---
 
+**Annex A**: About CoachSG
+<br>
 CoachSG will provide all coaches in Singapore with programmes through which they can support their professional development throughout every stage of their coaching career. It will also strive to raise the profile of coaching as a profession and to guide the development of the coaching industry in Singapore, working with various stakeholders to ensure quality assurance and consistent employment policies and standards across the industry.  
 
 CoachSG efforts will focus on three main areas:  
@@ -42,8 +43,8 @@ CoachSG efforts will focus on three main areas:
   
 For more information on CoachSG, please go to www.sportsingapore.gov.sg/CoachSG  
   
-#### **Annex B: About National Registry of Coaches (NROC)**
-
+**Annex B**: About National Registry of Coaches (NROC)
+<br>
 The National Registry of Coaches (NROC) was created in 2004 to raise the standard and professionalism of sports coaching in Singapore. It serves to ensure minimum technical qualification of sport coaches, to ensure that practicing coaches continue to improve and that coaches provide a safe environment for their athletes. Today, there are over 2,000 coaches listed in 37 sports in the NROC and their profiles are made available in an online public database.   
 
 Coaches in the NROC are duly certified under the Singapore Coach Excellence (SG-Coach) Programme (formerly known as the National Coaching Accreditation Programme or NCAP) in their respective sports and must hold Standard First Aid certification (including AED). They are committed to abide by the Coach’s Code of Ethics and meet the requirements for Continuing Coach Education Programme. 
