@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Shaifulhaq Ahmad Ishak Guilty Of Violating Terms Of Sanction**
+### **Shaifulhaq Ahmad Ishak Guilty Of Violating Terms Of Sanction**
 
 ***Bodybuilder to serve 2-year suspension from start***
 
@@ -30,10 +30,10 @@ image: ""
 
 *Under Anti-Doping Singapore's (ADS) Anti-Doping Rules, the National Anti-Doping Disciplinary Committee (NADC) decides on the sanctions on athletes who have violated the doping rules and regulations. The respective NSAs must implement the sanctions accordingly. All athletes were given a period to appeal to the National Anti-Doping Appeals Committee (NAAC) following NADC's decision. After this period, no one, including the ADS and the NSAs, has the right to lift the ban.*
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>Eric Ong
+Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
@@ -43,9 +43,9 @@ image: ""
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
-<br>
+
 For a range of photographs, visit[ flickr.com/ssc-sportsphotography]( flickr.com/ssc-sportsphotography)
 
 **About Anti-Doping Singapore**
