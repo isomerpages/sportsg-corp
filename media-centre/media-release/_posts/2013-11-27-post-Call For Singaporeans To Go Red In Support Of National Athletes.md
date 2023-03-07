@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Call For Singaporeans To Go Red In Support Of National Athletes**
+### **Call For Singaporeans To Go Red In Support Of National Athletes**
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/I%20Am%20Red.jpeg)
 *Giordano the first to say "I AM RED" with the launch of limited edition Team Singapore tees*
 
@@ -28,10 +28,10 @@ image: ""
 
 8. Summing up the Giordano's support for Team Singapore and sports for the greater good, Mr Patrick Yeo, Director of South East Asia Operations, said: "Giordano is thrilled about this first ever sports collaboration with SSC. We would like to pledge our support for Team Singapore on their journey to bring glory to our nation through the launch of 'I AM RED' range of limited edition tees and our contribution to the SportCares Foundation. We would hence like to urge all Singaporeans to buy one of these tees and join us in creating a red wave of support for Team Singapore."
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Adrienne Ser
 <br>GolinHarris
 <br>Tel: +65 6551 5433
@@ -63,10 +63,10 @@ Follow Team Singapore's action on Facebook at www.facebook.com/TeamSG and #ourte
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg,](www.ssc.gov.sg,) [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg
-<br>
+
 Follow us on Facebook and Flickr at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports) and [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-About Giordano
+**About Giordano**
 <br>
 Giordano is a leading international retailer of men's, women's and children's apparel. Established in 1981, Giordano now operates 3,000 stores and counters worldwide. The pursuit of simplicity is at the core of the Giordano culture. The company's unwavering commitment to providing simple, clean lines, quality workmanship, and attentive customer service has helped built a strong loyal following throughout the world.
 
