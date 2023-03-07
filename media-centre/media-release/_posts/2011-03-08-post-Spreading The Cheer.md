@@ -121,7 +121,7 @@ For media enquiries, please contact:
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
  
 The latest Sport Singapore news delivered to your inbox
