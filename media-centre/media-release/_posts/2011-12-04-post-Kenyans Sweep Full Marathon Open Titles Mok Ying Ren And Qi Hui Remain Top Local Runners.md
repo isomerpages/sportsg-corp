@@ -70,6 +70,6 @@ Local Runners Retained Their Titles
 **HALF MARATHON OPEN (WOMEN)**
 | Rank | Tag No. | Name | Nationality | Time |
 | -------- | -------- | -------- | -------- | -------- |
-| 1 | 52459 | Benard Mwendia Muthoni | Kenya | 1:08:33.18 |
-| 2 | 50889 | Soh Rui Yong | Singapore | 1:15:34.29 |
-| 3 | 49812 | William Kimutai Kurgat | Kenya | 1:15:56.53 |
+| 1 | 49186 | Esther Wambui Karimi | Kenya | 1:22:27.28 |
+| 2 | 54246 | Satoko | Japan | 1:23:02.28 |
+| 3 | 52538 | Yucabeth Chelangat Bore | Kenya | 1:25:29.03 |
