@@ -338,34 +338,8 @@ Athletes
 | 177. | Rugby | Tan Hui Juan| 陈慧娟| 23| F| √ | Team (W)
 | 178.| Rugby | Samantha Teo Ming Li| 张明俐| 20| F| √   | Team (W)
 | 179.  | Rugby | Wong Yilin| 黄奕琳| 21| F| √   | Team (W)
-
-180.        
-
-Eunice Tay Gek Sie
-
-戴玉诗
-
-31
-
-F
-
-√   
-
-Team (W)
-
-181.        
-
-Derelyn Chua Jialing
-
-蔡家玲
-
-26
-
-F
-
-√   
-
-Team (W)
+| 180. | Rugby | Eunice Tay Gek Sie | 戴玉诗 | 31 | F | √    | Team (W)
+| 181. | Rugby | Derelyn Chua Jialing | 蔡家玲 | 26 | F | √  | Team (W)
 
 182.        
 
