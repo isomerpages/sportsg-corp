@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-SSC Facilities Reopen After YOG Closure
-Singapore , 01 Oct 2010
+## **SSC Facilities Reopen After YOG Closure**
 
 SSC FACILITIES REOPEN AFTER YOG CLOSURE
 Heartlanders And Local Sports Fraternity Set To Enjoy Legacy Of Singapore 2010 Youth Olympic Games Through Upgraded Sports Facilities
@@ -120,5 +119,3 @@ Jemuel Fu
 <br>Singapore Sports Council
 <br>DID: 6500 5245
 <br>Email: jemuel_fu@ssc.gov.sg
-
- 
