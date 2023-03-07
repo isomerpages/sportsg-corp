@@ -66,3 +66,10 @@ Local Runners Retained Their Titles
 | 1 | 52459 | Benard Mwendia Muthoni | Kenya | 1:08:33.18 |
 | 2 | 50889 | Soh Rui Yong | Singapore | 1:15:34.29 |
 | 3 | 49812 | William Kimutai Kurgat | Kenya | 1:15:56.53 |
+
+**HALF MARATHON OPEN (WOMEN)**
+| Rank | Tag No. | Name | Nationality | Time |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | 52459 | Benard Mwendia Muthoni | Kenya | 1:08:33.18 |
+| 2 | 50889 | Soh Rui Yong | Singapore | 1:15:34.29 |
+| 3 | 49812 | William Kimutai Kurgat | Kenya | 1:15:56.53 |
