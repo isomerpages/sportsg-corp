@@ -25,10 +25,10 @@ image: ""
 
 8. For more information on volunteering for the 2010 Singapore Grand Prix, please refer to http://raceofficials.singaporegp.sg.
 
--End-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Hazwani Hasni
 <br>
 Singapore Sports Council
