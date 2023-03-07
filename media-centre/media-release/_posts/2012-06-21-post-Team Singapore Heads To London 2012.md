@@ -12,7 +12,7 @@ image: ""
 *Team Singapore Will Participate in Eight Sports at the London 2012 Olympic Games and Four Sports at the Paralympic Games*
 ![](/images/Media%20Centre/Media%20Release/2012/Jun/TEAMSINGAPOREHEADSTOLONDON2012MainPar0042Imagegif.gif)
 
-Singapore, 21 June 2012 - This year, while other teenagers are enjoying their summer holidays, 17-year-old Joseph Schooling and 16-year-old Gemma Rose Foo will be spending all their time in the pool and on horseback respectively, hoping to give their Olympic dream a sweet start.
+**Singapore, 21 June 2012** - This year, while other teenagers are enjoying their summer holidays, 17-year-old Joseph Schooling and 16-year-old Gemma Rose Foo will be spending all their time in the pool and on horseback respectively, hoping to give their Olympic dream a sweet start.
 
 2. Newly crowned Sportsman of the Year Joseph Schooling captured the nation's imagination when he became the first Singaporean swimmer to meet the Olympic Games "A" qualifying mark at last year's Southeast Asian Games. Come July, he will compete alongside the world's best swimmers, including many of his own personal sporting heroes. Over at the arena, para-equestrienne Gemma Rose Foo, whose sporting talent was discovered in a riding therapy session, will take on competitors twice her age to show that age is just a number in pursuit of sporting excellence.
 
