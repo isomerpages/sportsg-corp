@@ -115,4 +115,3 @@ With more diversified funding, Sporting Singapore will enjoy improved opportunit
 
 The recommendation is for a multi-agency effort, involving the private sector and professional bodies, to grow professional services in the sports industry. Not only will this effort serve growing local and regional demand for such services, it will diversify the career options for athletes. To support Singapore's position as an Asian hub for sports industry (investment in new business, capex in fixed assets) and sports business (sponsorships of events and athletes, intellectual properties), there is a need for an intellectual infrastructure to nurture the development of sport-related professional services such as in law and marketing. For example, Singapore already is seen as an expert in finance and law and has an excellent reputation in arbitration. Developing its expertise as a regional expert on dispute resolution in sport would be a logical next step.
 
--END-
