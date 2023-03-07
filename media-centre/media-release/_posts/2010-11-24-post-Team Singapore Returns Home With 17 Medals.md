@@ -57,29 +57,11 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | 7.   | Silver | Bowling | Men's Doubles | Remy ONG & Jason YEONG-NATHAN
 | 8.    | Silver | Bowling | Women's Masters | Cherie TAN Shi Hua
 | 9.   | Silver | Sailing | Men's Laser | Colin CHENG Xinru
-| 10.   | Silver
+| 10. | Silver | Sailing | Women's Dinghy Optimist | Kimberly LIM Min
+| 11.  | Silver | Table Tennis | Women's Team | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu
+| 12.  | Bronze 
 
-Sailing
-
-Women's Dinghy Optimist
-
-Kimberly LIM Min
-
-11.   
-
-Silver
-
-Table Tennis
-
-Women's Team
-
-FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu
-
-12.   
-
-Bronze
-
-Cuesports
+| Cuesports
 
 English Billiards Singles
 
