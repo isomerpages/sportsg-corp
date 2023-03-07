@@ -137,19 +137,18 @@ Standard Chartered has a history of 150 years in Singapore, opening its first br
 It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
 
 The Bank employs over 5,700 people in Singapore and has a network of 18 branches, 29 ATMs, and 6 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
-statics0
+
 For media enquiries, please contact:
-Samantha See
-Fulford Public Relations
-Email: ssee@fulfordpr.com
-statics0
-statics0	
+<br>Samantha See
+<br>Fulford Public Relations
+<br>Email: ssee@fulfordpr.com
+
 Katherine Kee
-Fulford Public Relations
-Email: kkee@fulfordpr.com
-statics0
+<br>Fulford Public Relations
+<br>Email: kkee@fulfordpr.com
+
 Jemuel Fu
-Executive
-Media Relations
-Singapore Sports Council
-Email: jemuel_fu@ssc.gov.sg
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Email: jemuel_fu@ssc.gov.sg
