@@ -38,24 +38,12 @@ Full Marathon Results - Men's Individual
 
 | No. | Name | Country | Finishing Time |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
+| 1     | Kenneth Mburu Mungara     | Kenya   | 02:14.06     |
 
 
 
 
 
-
-
-
-
-
-1
-
-Kenneth Mburu Mungara
-
-Kenya
-
-02:14.06
 
 2
 
