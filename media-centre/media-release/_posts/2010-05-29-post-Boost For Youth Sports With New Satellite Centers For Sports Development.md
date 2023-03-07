@@ -51,7 +51,7 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 <br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
 
-Annex A - About the Satellite Centre For Sports Development Prog [131 Kb]
+[Annex A - About the Satellite Centre For Sports Development Prog](/files/Media%20Centre/Media%20Release/2010/May/Annex%20A%20%20About%20the%20Satellite%20Centre%20For%20Sports%20Development%20Progpdf.pdf)
 
 **For media enquiries, please contact:**
 <br>
