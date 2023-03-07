@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Volunteers Honoured For Making The Singapore National Games A Success**
+### **Volunteers Honoured For Making The Singapore National Games A Success**
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/SNG%202012%20Volunteer%20Appreciation%20Night_2012_10_17_153.jpeg)
 SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
@@ -24,8 +24,9 @@ SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
 6. 24-year-old Lim Hao Hiang Joey agrees. "Even though it was hard work, I found it very rewarding and a good learning experience volunteering at SNG. There are so many considerations when you are organising events of this scale. To do proper planning and to be ready for the unexpected ? lessons learnt for life. Thank you SNG for organising such a fantastic Games and for this appreciation night."
 
-**NILA the Sporting Singapore Mascot**
-<br>
+#####  **NILA the Sporting Singapore Mascot**
+
+
 7. Mascots have a way to make people smile, rouse crowds and add a fun touch to any sports event. Nila, the SNG mascot was a hit with many people as he went out and about the community in the lead up to and during the Games. In recognition of his popularity with the public, Nila was appointed as Sporting Singapore's Mascot, which will see him making public appearances at sports events in Singapore.
 
 8. Nila was designed by 19-year-old Visual Communications and Media Design student, Beatrice Cho, from Singapore Polytechnic who entered the SNG mascot design competition in April this year. A delighted Beatrice said, "I?m so honoured to have my design be used long-term as a mascot for Sporting Singapore. This is definitely unexpected and it is such great news to know that my design has got this far. I hope that Nila will continue to be a character that resonates with Sporting Singapore and I am very thankful for the opportunity to be part of this."
@@ -34,10 +35,10 @@ SNG Mascot Nila Takes On the Role as Sporting Singapore Mascot
 
 10. For more information, please visit [www.singaporenationalgames.sg](www.singaporenationalgames.sg).
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 U-Lynn LEE
 <br>Fulford Public Relations 
 <br>Email: [ullee@fulfordpr.com](ullee@fulfordpr.com)
@@ -56,9 +57,9 @@ Adlina JAFFAR
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About People's Association**
