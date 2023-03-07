@@ -92,12 +92,7 @@ Andrea CHEN Jiewen <br>Annabelle NG Xiang Ru | Women's Kayak Four 500m | PB 1:40
 | Stephenie CHEN Jiexian <br>Suzanne SEAH | Women's Kayak Double 500m, Heats | PB 1:54.214 (Previous PB 1:56.000)
 | Stephenie CHEN Jiexian <br>Suzanne SEAH Women's Kayak Double 500m, Final | PB 1:53.470  (Previous PB 1:54.214, set during the heats) | ROWING: 2 PBs
 | YEONG Wai Mun | Men's Lightweight Single Sculls, Heats | PB 7:30.47 (Previous PB 7:54.58)
-
-YEONG Wai Mun
-
-Men's Lightweight Single Sculls, Final B
-
-PB 7:29.12 (Previous PB 7:30.47, set during the heats)
+| YEONG Wai Mun | Men's Lightweight Single Sculls, Final B | PB 7:29.12 (Previous PB 7:30.47, set during the heats)
 
  
 
