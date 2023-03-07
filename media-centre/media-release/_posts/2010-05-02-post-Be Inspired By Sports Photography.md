@@ -23,26 +23,17 @@ Four-month Long Exhibition Across Singapore Aims To Bring The Drama Of Sports Ph
 6. "It allows me to capture the indomitable human spirit as they aim for triumph, but more importantly, it gives me a chance to be able to share it with others in the hope that they in turn would be similarly inspired," added Mr Heng.
 
 Annex 1 - List of SSC SRCs and NLB's Public Libraries where the Inspiring Sporting Singapore Photography Exhibition will be held in Phase 1
-
-|SRCs | NLB Public Libraries |
+| | |
 |--|--|
-Bukit Batok SRC
-Ang Mo Kio Public Library
-Buona Vista SRC
-Bedok Public Library
-Choa Chu Kang SRC
-Bishan Public Library
-Hougang SRC
-Bukit Merah Public Library
-Jurong West SRC
-Central Public Library
-Delta SRC
-Geylang East Public Library
-Sengkang SRC
-Marine Parade Public Library
-Yio Chu Kang SRC
-Queenstown Public Library
-Yishun SRC
-Tampines Regional Library
-Toa Payoh Public Library
-Woodlands Regional Library
+|SRCs | NLB Public Libraries |
+| Bukit Batok SRC | Ang Mo Kio Public Library |
+Buona Vista SRC | Bedok Public Library |
+Choa Chu Kang SRC | Bishan Public Library |
+Hougang SRC | Bukit Merah Public Library |
+Jurong West SRC | Central Public Library |
+Delta SRC | Geylang East Public Library |
+Sengkang SRC | Marine Parade Public Library |
+Yio Chu Kang SRC | Queenstown Public Library |
+Yishun SRC | Tampines Regional Library |
+Toa Payoh Public Library | Woodlands Regional Library |
+<hr>
