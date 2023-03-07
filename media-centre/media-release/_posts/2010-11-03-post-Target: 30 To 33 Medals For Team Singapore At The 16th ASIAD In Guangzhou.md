@@ -141,54 +141,18 @@ TEAM SINGAPORE'S PARTICIPATION: 22 sports
 | Cycling - Road | 20 - 23 November 2010
 | Dragonboat | 18 - 20 November 2010
 | Equestrian | 14 - 24 November 2010
-
-Fencing
-
-18 - 23 November 2010
-
-Football
-
-7 - 25 November 2010
-
-Golf
-
-7 - 20 November 2010
-
-Gymnastics
-
-13 - 26 November 2010
-
-Hockey
-
-13 - 25 November 2010
-
-Rugby
-
-21 - 23 November 2010
-
-Rowing
-
-14 - 19 November 2010
-
-Sailing
-
-14 - 21 November 2010
-
-Shooting
-
-13 - 24 November 2010
-
-Table Tennis
-
-13 - 20 November 2010
-
-Taekwondo
-
-17 - 20 November 2010
-
-Wushu
-
-13 - 17 November 2010
+| Fencing | 18 - 23 November 2010
+| Football | 7 - 25 November 2010
+| Golf | 7 - 20 November 2010
+| Gymnastics | 13 - 26 November 2010
+| Hockey | 13 - 25 November 2010
+| Rugby | 21 - 23 November 2010
+| Rowing | 14 - 19 November 2010
+| Sailing | 14 - 21 November 2010
+| Shooting | 13 - 24 November 2010
+| Table Tennis | 13 - 20 November 2010
+| Taekwondo | 17 - 20 November 2010
+| Wushu | 3 - 17 November 2010
 
  
 
