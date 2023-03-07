@@ -87,25 +87,10 @@ Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 20
 | CANOE/KAYAK: 1 PB | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Heats <br>PB 2:02.124 (Previous PB 2:02.399)
 | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Semi-Final | PB 2:01.351 (Previous PB 2:02.124, set during the heats)
 | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Final | PB 2:00.421 (Previous PB 2:01.351, set during the semi-final)
-
-Irene CHUA Pei Xuan
-Geraldine LEE Wei Ling
-Andrea CHEN Jiewen
-Annabelle NG Xiang Ru
-
-Women's Kayak Four 500m
-
-PB 1:40.483 (Previous PB 1:42.183)
-
-Stephenie CHEN Jiexian
-Suzanne SEAH
-
-Women's Kayak Double 500m, Heats
-
-PB 1:54.214 (Previous PB 1:56.000)
-
-Stephenie CHEN Jiexian
-Suzanne SEAH
+| Irene CHUA Pei Xuan <br>Geraldine LEE Wei Ling
+Andrea CHEN Jiewen <br>Annabelle NG Xiang Ru | Women's Kayak Four 500m | PB 1:40.483 (Previous PB 1:42.183)
+| Stephenie CHEN Jiexian <br>Suzanne SEAH | Women's Kayak Double 500m, Heats | PB 1:54.214 (Previous PB 1:56.000)
+| Stephenie CHEN Jiexian <br>Suzanne SEAH
 
 Women's Kayak Double 500m, Final
 
