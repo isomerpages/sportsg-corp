@@ -45,15 +45,14 @@ Following Team Singapore's Action on New Media
 
 15. For the first time in history, fans can now keep up with Team Singapore in action through SingaporeSports.tv, a free to access online portal launched by the Singapore Sports Council that will provide 'live' feeds of the sports events that feature Team Singapore athletes as they take place in Guangzhou.
 
-16 For Singaporeans and members of the public who have missed the 'live' action, they can also log on to the online portal and click on 'Sports on Demand' to view video clips of the highlights during the Games.
+16. For Singaporeans and members of the public who have missed the 'live' action, they can also log on to the online portal and click on 'Sports on Demand' to view video clips of the highlights during the Games.
 
-17 Apart from providing 'live' feeds during major Games, SingaporeSports.tv will also feature major sporting events such as the upcoming Singapore Cricket Club Rugby 7s taking place from 5 November to 7 November, as well as the Standard Chartered Marathon Singapore on 5 December.
+17. Apart from providing 'live' feeds during major Games, SingaporeSports.tv will also feature major sporting events such as the upcoming Singapore Cricket Club Rugby 7s taking place from 5 November to 7 November, as well as the Standard Chartered Marathon Singapore on 5 December.
 
-18 Members of the public can also follow Team Singapore's recently launched Facebook page (www.facebook.com/TeamSG) which provides fans with minute by minute updates during key events at the Games, quotes, results and photographs of Team Singapore?s athletes in action. For mobile-friendly fans, the Team Singapore iPhone application is available for free, to provide event schedules, news, updates and results on the move. The free SMS alert service that provides updates will still be available through the Team Singapore website at www.teamsingapore.com.sg.
-statics0
+18. Members of the public can also follow Team Singapore's recently launched Facebook page (www.facebook.com/TeamSG) which provides fans with minute by minute updates during key events at the Games, quotes, results and photographs of Team Singapore?s athletes in action. For mobile-friendly fans, the Team Singapore iPhone application is available for free, to provide event schedules, news, updates and results on the move. The free SMS alert service that provides updates will still be available through the Team Singapore website at www.teamsingapore.com.sg.
+
 -End-
 
-statics0
 Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010
 DATE: 12-27 November 2010
 
