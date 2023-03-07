@@ -291,80 +291,12 @@ Athletes
 |129.  | Football  | Shakir Hamzah |NA |18 |M |√    |Team (M)
 | 130.| Football  | Afiq Yunos | NA | 20 | M | √    | Team (M)
 | 131.| Football  | Eddie Affendy Chang | NA | 20 | M | √    | Team (M)
-
-132.        
-
-Safuwan Baharudin
-
-NA
-
-19
-
-M
-
-√   
-
-Team (M)
-
-133.        
-
-Faritz Abdul Hameed
-
-NA
-
-20
-
-M
-
-√   
-
-Team (M)
-
-134.        
-
-Hariss Harun
-
-NA
-
-19
-
-M
-
- 
-
-Team (M)
-
-135.        
-
-Shahdan Sulaiman
-
-NA
-
-22
-
-M
-
-√   
-
-Team (M)
-
-136.        
-
-Syafiq Zainal
-
-NA
-
-19
-
-M
-
-√   
-
-Team (M)
-
-137.        
-
-Fazly Hassan
+| 132. | Football  | Safuwan Baharudin | NA | 19 | M | √    | Team (M)
+| 133.| Football  | Faritz Abdul Hameed | NA | 20 | M | √ | Team (M)
+| 134.| Football  | Hariss Harun| NA| 19| M| Team (M)
+| 135.| Football  | Shahdan Sulaiman| NA| 22| M| √   | Team (M)
+| 136. | Football | Syafiq Zainal| NA| 19| M| √   | Team (M)
+| 137.  | Football   | Fazly Hassan
 
 NA
 
