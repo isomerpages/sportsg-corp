@@ -363,9 +363,9 @@ Athletes
 | 202.  | Sailing | Yurii Alexander Siegel| NA| 32| M| √  |  | Crew 2
 | 203.  | Sailing | Colin Ng Wee Tai | 黄伟达| 32 | M| | Crew 3
 | 204. | Shooting | Alex Chow Wei An | 邹维安| 39 | M| √ |  Double Trap (M)
-| 205.  | Andy Chee Kwet Chian| 徐国千| 46| M| √   | 50m Rifle Prone (M)
-| 206.  | Aqilah Binte Sudhir| NA| 19| F| √   | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
-| 207.        
+| 205.  | Shooting | Andy Chee Kwet Chian| 徐国千| 46| M| √   | 50m Rifle Prone (M)
+| 206.  | Shooting | Aqilah Binte Sudhir| NA| 19| F| √   | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
+| 207.  | Shooting |        
 
 Cheng Jian Huan
 
