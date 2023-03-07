@@ -7,17 +7,17 @@ description: ""
 image: ""
 ---
 ### **Routes announced for Standard Chartered Marathon Singapore 2015**
-**_Routes remained largely unchanged, with Improved overall experience part of key enhancements to the 2015 Marathon._**
+_Routes remained largely unchanged, with Improved overall experience part of key enhancements to the 2015 Marathon._
 
-**1 October 2015, Singapore** – The Standard Chartered Marathon Singapore 2015 (SCMS) today announced the race route and improvements to offer both participants and supporters an enhanced experience at the country’s biggest marathon, which will be held over two days for the first time in the event’s history, on 5th & 6th December.
+**1 October 2015, Singapore** – The Standard Chartered Marathon Singapore 2015 (SCMS) today announced the race route and improvements to offer both participants and supporters an enhanced experience at the country’s biggest marathon, which will be held over two days for the first time in the event’s history, on 5th & 6th December.
 
-**Race Enhancements**
+##### **Race Enhancements**
 
 Runners participating in the full marathon will be better looked after than ever been before due to the substantial participant support enhancements such as improved route management and the availability of 16 hydration stations, strategically placed to offer runners replenishment on average every 2.6 kilometres. In addition, the half-marathon will for the first time have a banana station, all aimed at helping more runners get to the finish line.
 
 On-route entertainment has also been given a boost this year at locations such as East Coast Park and West Coast Highway, to keep runners inspired and motivated. Runners can expect to see cheerleaders, live bands or LED robots among additions, creating a vibrant and energetic atmosphere to spur on the runners, as the ply their way through the halfway point and into the home leg of the race.
 
-**Route Enhancements**
+##### **Route Enhancements**
 
 The route for the 2015 Marathon will remain largely unchanged, meandering through the country’s most iconic landmarks, beginning outside of Mandarin Gallery (Orchard Road), proceeding along shopping district Orchard Road before turning at Singapore Management University (SMU) and then to two of Singapore’s most popular tourist spots Clarke Quay and Chinatown before moving onto Nicoll Highway and towards the Sports Hub.
 
