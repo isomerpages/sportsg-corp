@@ -15,11 +15,11 @@ Orchard Road was turned into a sea of red as Singaporeans turned out in force to
 
 ##### **One Team Singapore**
 
-4\. The event at Pedestrian Night at Orchard Road saw the hoisting of the largest ever Team Singapore flag measuring 10 by 7 metres after it was passed along Orchard road by thousands of athletes, volunteers and members of the public. This is also the first time the SEA Games Arch was lit up at the Scotts and will be present till 20th June.
+4\. The event at Pedestrian Night at Orchard Road saw the hoisting of the largest ever Team Singapore flag measuring 10 by 7 metres after it was passed along Orchard road by thousands of athletes, volunteers and members of the public. This is also the first time the SEA Games Arch was lit up at the Scotts and will be present till 20 June.
 
 5\. There were also meet and greets with Team Singapore athletes as well as the opportunity to experience some fun sporting activities along Singapore’s iconic shopping belt at the event. The public were given the chance to experience sports such as football, rugby, basketball and badminton right in the middle of Orchard Road.
 
-6\. Team Singapore rhythmic gymnast Tong Kah Mun had the opportunity to perform on stage to the crowd, and she relished the experience, noting “It was heart-warming to see all these people cheer me on in this demonstration as One Team Singapore, and to do it in the heart of orchard road is really amazing! I really feel that such an enthusiastic home ground support will make a significant difference in my performance come June at the SEA Games.”
+6\. Team Singapore rhythmic gymnast Tong Kah Mun had the opportunity to perform on stage to the crowd, and she relished the experience, noting, “It was heart-warming to see all these people cheer me on in this demonstration as One Team Singapore, and to do it in the heart of orchard road is really amazing! I really feel that such an enthusiastic home ground support will make a significant difference in my performance come June at the SEA Games.”
 
 7\. “Our team is at the last phase of training for SEA Games and today’s event is a timely intervention to remind us that the nation is behind us. I am simply awed and definitely motivated to push further in my preparations so that in June at the SEA Games, everyone will be cheering us with pride,” noted Team Singapore Rugby 7s Captain Daniel Chow.
 
@@ -33,6 +33,6 @@ Orchard Road was turned into a sea of red as Singaporeans turned out in force to
 
 ##### **Reaching out to the region**
 
-11\. To engage the regional community, NILA’s Quest, a web-based digital game specially created for the 28th SEA Games was launched during the event. Featuring the Games mascot, Nila, players will follow him, on a quest to all 11 South East Asian countries to collect flames to contribute to the final SEA Games Torch Up! Art Installation to be unveiled in June. The digital game will also provide players a chance to win one of 15 weekly prize draws. The grand prize will see a winning pair from each country to fly to Singapore to enjoy the SEA Games in Singapore, including the Opening Ceremony. The game is now online at [www.nilaquest.com](http://www.nilaquest.com/).
+11\. To engage the regional community, NILA’s Quest, a web-based digital game specially created for the 28th SEA Games was launched during the event. Featuring the Games mascot, Nila, players will follow him, on a quest to all 11 South East Asian countries to collect flames to contribute to the final SEA Games Torch Up! Art Installation to be unveiled in June. The digital game will also provide players a chance to win one of 15 weekly prize draws. The grand prize will see a winning pair from each country to fly to Singapore to enjoy the SEA Games in Singapore, including the Opening Ceremony. The game is now online.
 
 12\. Breaking new ground was also the SEA Games’ first ever Google+ Hangout, which allowed viewers to interact with Team Singapore athletes past and present, and experience highlights of the event live as they were broadcasted live around the region.
