@@ -51,8 +51,7 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | 2.  | Gold | Bowling | Women's Trios | Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi
 | 3. | Gold | Sailing | Women's Double Handed Dinghy 420 | Rachel LEE Qing & Cecilia LOW Rui Qi
 | 4.   | Gold | Sailing | Men's Double Handed Dinghy 420 | Sherman CHENG Feng Yuan & Justin LIU Xiaman
-| 5.  | Silver | Aquatics - Swimming | Women's 100m Butterfly
-| TAO Li | 7
+| 5.  | Silver | Aquatics - Swimming | Women's 100m Butterfly | TAO Li | 7
 | 6.   | Silver | Bowling | Women's Singles | Shayna NG Lin Zhi
 | 7.   | Silver | Bowling | Men's Doubles | Remy ONG & Jason YEONG-NATHAN
 | 8.    | Silver | Bowling | Women's Masters | Cherie TAN Shi Hua
@@ -61,19 +60,9 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | 11.  | Silver | Table Tennis | Women's Team | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu
 | 12.  | Bronze  | Cuesports | English Billiards Singles | Peter Edward GILCHRIST | 6
 | 13.  | Bronze | Bowling | Women's Singles | NEW Hui Fen
-| 14.  | Bronze| Sailing | Open Laser Radial | Scott Glen | Sydney
-
-15.   
-
-Bronze
-
-Sailing
-
-Men's Dinghy Optimist
-
-Ryan LO Jun Han
-
-16.   
+| 14.  | Bronze| Sailing | Open Laser Radial | Scott Glen Sydney
+| 15. | Bronze| Sailing | Men's Dinghy Optimist | yan LO Jun Han
+| 16.   
 
 Bronze
 
