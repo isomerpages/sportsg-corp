@@ -25,7 +25,7 @@ Four-month Long Exhibition Across Singapore Aims To Bring The Drama Of Sports Ph
 Annex 1 - List of SSC SRCs and NLB's Public Libraries where the Inspiring Sporting Singapore Photography Exhibition will be held in Phase 1
 <br>
 
-|SRCs | NLB Public Libraries |
+|SRCs | NLB Public Libraries
 |--|--|
 | Bukit Batok SRC | Ang Mo Kio Public Library |
 Buona Vista SRC | Bedok Public Library |
