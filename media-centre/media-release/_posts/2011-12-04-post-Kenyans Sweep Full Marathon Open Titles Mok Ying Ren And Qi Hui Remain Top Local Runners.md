@@ -84,6 +84,6 @@ Local Runners Retained Their Titles
 **10KM OPEN (WOMEN)**
 | Rank | Tag No. | Name | Nationality | Time |
 | -------- | -------- | -------- | -------- | -------- |
-| 1 | 75469 | Kent Normark | Denmark | 00:35:02.77 |
-| 2 | 75672 | Alfred Chan Hon Man | Hong Kong | 00:35:10.78 |
-| 3 | 75697 | Alfred Chan Hon Man | Hong Kong | 00:35:19.78 |
+| 1 | 75487 | Malene Munkholm | Denmark | 00:41:43.34 |
+| 2 | 79435 | Sylvia Md Arwan | Brunei Darusslam | 00:46:25.60 |
+| 3 | 70048 | Kalsang Gyalzur | Switzerland | 00:46:52.02 |
