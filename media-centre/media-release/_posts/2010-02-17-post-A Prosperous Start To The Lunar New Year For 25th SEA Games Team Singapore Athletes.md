@@ -80,6 +80,21 @@ MAP AWARDS RECIPIENTS
 ||| Zhang Jin | Men's 10m Air Rifle Team | 1 | $15,000 | Team Event |
 ||| Koh Tien Wei Jonathan|
 ||| Ong Jun Hong |
+|| | Lim Swee Hon Nigel | Men's 10m Air Pistol Team | 1 | $15,000 | Team Event |
+||| Poh Lip Meng |
+||| Gai Bin |
+||| Ser Xiang Wei Jasmine | Women's 50m Rifle 3 position Individual | 1 | $10,000 | Individual |
+||| Gai Bin | Men's 50m Pistol Team | 1 | $15,000 | Team Event |
+||| Poh Lip Meng |
+||| Lim Swee Hon Nigel |
+
+
+
+
+
+
+
+
 
 
 
