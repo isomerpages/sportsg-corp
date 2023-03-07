@@ -220,21 +220,8 @@ Athletes
 |  58. |  Canoeing | Geraldine Lee Wei Ling  |  李伟玲  |  23  |  F  |  √  |  K4  500m (W)
 |  59.  |   Canoeing | Irene Chua Pei Xuan  |  蔡佩璇  |  22  |  F  |  √   |  K4  500m (W)
 |  60.  |   Canoeing | Stephenie Chen Jiexian  |  陈洁娴  | 18 | F | √   | K2   500m (W)
-| 61. | Suzanne Seah | 佘素珊 | 20
-
-F
-
-√   
-
-K2   500m (W)
-
-62.   
-
-Chess (Xiangqi)
-
-Alvin Woo Tsung Han
-
-吴宗翰
+| 61. |  Canoeing | Suzanne Seah | 佘素珊 | 20| F| √   | K2   500m (W)
+| 62. | Chess (Xiangqi) | Alvin Woo Tsung Han| 吴宗翰
 
 27
 
