@@ -73,19 +73,19 @@ Annex A - List of 17 SSC Sports & Recreation Centres
 **12. Kallang Basin Swimming Complex**
 <br>21 Geylang Bahru Lane (339627)
 
-13. Sengkang SRC
+**13. Sengkang SRC**
 <br>57 Anchorvale Rd (544964)
 
-14. Tampines Swimming Complex
+**14. Tampines Swimming Complex**
 <br>505 Tampines Ave 5 (529652)
 
-15. Woodlands Swimming Complex
+**15. Woodlands Swimming Complex**
 <br>3 Woodlands St. 13 (738600)
 
-16. Yio Chu Kang Swimming Complex
+**16. Yio Chu Kang Swimming Complex**
 <br>202 Ang Mo Kio Ave 9 (569771)
 
-17. Yishun Swimming Complex
+**17. Yishun Swimming Complex**
 <br>351 Yishun Ave 3 (769057)
 
 Annex B - Selected Photos for Exhibition
