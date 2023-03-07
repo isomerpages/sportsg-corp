@@ -30,5 +30,3 @@ Over the past 3 months, participants had the opportunity to exercise online toge
 ![](/images/Media%20Centre/Media%20Release/2020/November/Virtual-High-Five.jpeg)
 
 “I enjoyed myself very much over the past three months, getting to play sport with my classmates and my new friends from ITE College West. It was fun when we played games together and I felt that I could keep myself healthy. This is the first time I joined Play Inclusive and I look forward to continue our play sessions together after this.” said Chong Jun Fong, 18, from APSN Delta Senior School.
-
-##### **[Download Media Release](/files/Media%20Centre/Media%20Release/2020/November/Play%20inclusive%202020%20copy.pdf)**
