@@ -80,3 +80,10 @@ Local Runners Retained Their Titles
 | 1 | 75469 | Kent Normark | Denmark | 00:35:02.77 |
 | 2 | 75672 | Alfred Chan Hon Man | Hong Kong | 00:35:10.78 |
 | 3 | 75697 | Alfred Chan Hon Man | Hong Kong | 00:35:19.78 |
+
+**10KM OPEN (WOMEN)**
+| Rank | Tag No. | Name | Nationality | Time |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | 75469 | Kent Normark | Denmark | 00:35:02.77 |
+| 2 | 75672 | Alfred Chan Hon Man | Hong Kong | 00:35:10.78 |
+| 3 | 75697 | Alfred Chan Hon Man | Hong Kong | 00:35:19.78 |
