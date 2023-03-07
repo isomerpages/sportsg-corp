@@ -32,7 +32,7 @@ is everyone's responsibility and we need everyone to share the information with 
 will further enhance our efforts to create a safe sporting environment in Singapore."
 
 **For media enquiries, please contact:**
-<br>
+
 S. Parameswaran
 <br>
 Senior Manager, Corporate Communications & Relations
