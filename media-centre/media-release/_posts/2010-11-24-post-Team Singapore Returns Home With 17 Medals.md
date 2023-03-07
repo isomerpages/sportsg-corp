@@ -59,25 +59,8 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | 9.   | Silver | Sailing | Men's Laser | Colin CHENG Xinru
 | 10. | Silver | Sailing | Women's Dinghy Optimist | Kimberly LIM Min
 | 11.  | Silver | Table Tennis | Women's Team | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu
-| 12.  | Bronze 
-
-| Cuesports
-
-English Billiards Singles
-
-Peter Edward GILCHRIST
-
-6
-
-13.   
-
-Bronze
-
-Bowling
-
-Women's Singles
-
-NEW Hui Fen
+| 12.  | Bronze  | Cuesports | English Billiards Singles | Peter Edward GILCHRIST | 6
+| 13.  | Bronze | Bowling | Women's Singles | NEW Hui Fen
 
 14.   
 
