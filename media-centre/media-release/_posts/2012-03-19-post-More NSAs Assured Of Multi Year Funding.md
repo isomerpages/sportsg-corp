@@ -9,7 +9,7 @@ image: ""
 ### **More NSAs Assured Of Multi-Year Funding**
 
 
-Singapore, 19 March 2012 - The Singapore Sports Council (SSC) announced that more National Sports Associations (NSAs) received in-principle approval for multi-year funding for Financial Year (FY) 2012 compared to FY 2011 under its Annual NSA Grant Exercise (ANGE). The move is in line with SSC's emphasis to help NSAs realise their medium-term strategies.
+**Singapore, 19 March 2012** - The Singapore Sports Council (SSC) announced that more National Sports Associations (NSAs) received in-principle approval for multi-year funding for Financial Year (FY) 2012 compared to FY 2011 under its Annual NSA Grant Exercise (ANGE). The move is in line with SSC's emphasis to help NSAs realise their medium-term strategies.
 
 2. For ANGE FY 2012, 29 NSAs received in-principle funding approval for their initiatives and programmes up to three years out, almost a 40% increase from FY 2011 (21 NSAs).
 
