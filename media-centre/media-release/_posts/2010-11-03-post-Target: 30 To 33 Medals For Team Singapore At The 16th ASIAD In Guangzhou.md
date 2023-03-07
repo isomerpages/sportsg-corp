@@ -62,7 +62,7 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 
 
 | Event | Name 
-| -------- | -------- | -------- |
+| -------- | -------- 
 | Opening Ceremony | 12 November 2010
 
 Closing Ceremony
