@@ -251,7 +251,8 @@ Athletes
 | 89.| Dragon Boat |  Raymond Tan Swee Siong| 陈瑞祥| 21| M| √  | Team (Men)
 | 90.| Dragon Boat | Jerry Tan Renyi| 陈仁义| 26| M| √   | Team (Men)
 | 91.  | Dragon Boat | Tan Chun Leng| 陈俊龙| 20| M| √   | Team (Men)
-| 92.  | Wong Kah Shawn| 黄珈萱| 20| M| √  | Team (Men)| 93.   
+| 92.  | Wong Kah Shawn| 黄珈萱| 20| M| √  | Team (Men)
+| 93. | Dragon Boat
 
 Yeo Chin Hwei
 
@@ -265,7 +266,7 @@ M
 
 Team (Men)
 
-94.   
+94.  | Dragon Boat 
 
 Bai Yi Rang
 
@@ -279,7 +280,7 @@ F
 
 Team (Women)
 
-95.   
+95.   | Dragon Boat
 
 Chiam Li Ping
 
@@ -307,7 +308,7 @@ F
 
 Team (Women)
 
-97.   
+97.   | Dragon Boat
 
 Diana Nai Min Zhen
 
