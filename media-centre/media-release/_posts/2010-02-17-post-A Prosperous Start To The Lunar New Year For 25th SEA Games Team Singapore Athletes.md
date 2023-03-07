@@ -156,10 +156,18 @@ MAP AWARDS RECIPIENTS
 ||| Tay Yu Juan |
 ||| Total Gold Medals / MAP Awards | 33 | $455,000 |
 
-
-
-
-
-
-
-
+LIST OF APPRECIATION PLAQUE RECIPIENTS
+<br>
+| S/NO | Appreciation Plaque Recipients |
+| -------- | -------- |
+| 1 | NTUC Fairprice Foundation Ltd
+| 2 | Nestle (Singapore) Pte Ltd
+| 3 | CapitaMalls Asia Ltd
+| 4 | National Library Board
+| 5 | Clear Channel Singapore Pte Ltd
+| 6 | Singapore Press Holdings Ltd
+| 7 | MediaCorp Pte Ltd
+| 8 | Canon Singapoe Lte Ltd
+| 9 | Diners World Travel Pte Ltd
+| 10 | Sunrise & Co. (Pte) Ltd
+| 11 | Singapore Totalisator Board & Singapore Pools
