@@ -98,24 +98,8 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | Sailing | Women's Dinghy Optimist | Kimberly LIM Min | Silver | $100,000.00
 | Sailing | Open Laser Radial | Scott Glen SYDNEY | Bronze | $50,000.00
 | Sailing |Men's Dinghy Optimist | Ryan LO Jun Han | Bronze| $50,000.00
-
-Swimming
-
-Women's 50m Butterfly
-
-TAO Li
-
-Gold
-
-$200,000.00
-
-Women's 100m Butterfly
-
-TAO Li
-
-Silver
-
-$100,000.00
+| Swimming | Women's 50m Butterfly | TAO Li | Gold | $200,000.00
+| Swimming | Women's 100m Butterfly | TAO Li | Silver | $100,000.00
 
  
 
