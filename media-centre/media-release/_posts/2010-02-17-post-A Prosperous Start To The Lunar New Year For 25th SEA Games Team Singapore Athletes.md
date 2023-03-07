@@ -64,6 +64,6 @@ The Singapore Sports Council (SSC) is Singapore's lead agency tasked with develo
 
 About the Multi-Million Dollar Award Programme (MAP) Awards
 
-About MAP Awards [234 Kb]
+[About MAP Awards](/files/Media%20Centre/Media%20Release/2010/February/Annex%20D%20%20About%20MAP%20Awardspdf.pdf)
 
 MAP AWARDS RECIPIENTS
