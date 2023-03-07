@@ -7,11 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore Sports Council And Nestle Milo Ink Partnership To Champion Youth Sports Development
-Singapore , 19 Feb 2010
+### **Singapore Sports Council And Nestle Milo Ink Partnership To Champion Youth Sports Development**
 
-SINGAPORE SPORTS COUNCIL AND NESTLE MILO INK PARTNERSHIP TO CHAMPION YOUTH SPORTS DEVELOPMENT
-Singapore, 19 February 2010 - The Singapore Sports Council (SSC) and Nestle MILO signed a Memorandum of Agreement (MOU) today at Seng Kang Primary School to officiate a year-long agreement between both organisations in championing youth sports development and learning through play to our young in Singapore. The significant occasion was attended by Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports; Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports and Ministry of Transport Singapore; as well as Team Singapore youth athletes such as Adam Goh (Basketball); Terence Choo (Sailing); Abel Lim (Shooting); Amanda Lim (Swimming) and Chau Hai Qing (Table Tennis).
+**Singapore, 19 February 2010** - The Singapore Sports Council (SSC) and Nestle MILO signed a Memorandum of Agreement (MOU) today at Seng Kang Primary School to officiate a year-long agreement between both organisations in championing youth sports development and learning through play to our young in Singapore. The significant occasion was attended by Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports; Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports and Ministry of Transport Singapore; as well as Team Singapore youth athletes such as Adam Goh (Basketball); Terence Choo (Sailing); Abel Lim (Shooting); Amanda Lim (Swimming) and Chau Hai Qing (Table Tennis).
 
 Under the MOU, the SSC and MILO will be working closely on multiple synergistic programmes and platforms, all contributing towards youth sports promotion and development. The MOU will be completed in three phases, beginning from February till December 2010, with Singapore's favourite energy drink, MILO pledging more than S$3 million in cash and kind, with substantial investment in activation programmes. The MOU marks MILO's 60th year in its advocacy on the development of youth sports in Singapore.
 
@@ -30,25 +28,35 @@ A great supporter and active participant in sports development in Singapore sinc
 Mr Suresh Narayanan, Managing Director of Nestle Singapore, expressed his enthusiasm for the new campaign, "We firmly believe that an active lifestyle through sports is an excellent avenue for youths to pick up key values and attitudes towards life, equipping them with the mindset and life skills that cannot be picked up from books. As we celebrate about 60 years of MILO's involvement with sports development in Singapore, we are honoured to be able to commemorate our involvement and commitment to the community through this partnership with the SSC. Sports is a wonderful platform for our youths to learn important values such as honesty, teamwork, fair play, respect, adherence to rules, discipline, perseverance, resilience and a strong sense of purpose and we hope this partnership will further engage the youth in Singapore and develop them to their full potential."
 
 The VIPs, students from Seng Kang Primary and Team Singapore youth athletes commemorated the MOU with an exciting telematch. Seng Kang Primary is a great believer of learning through play and is the first school to implement daily Physical Education (PE) lessons as part of its curriculum.
-statics0
-- End -
-For media enquiries, please contact:
+
+-End-
+
+**For media enquiries, please contact:**
+<br>
 Ronda Ng
+<br>
 Fulford PR
+<br>
 DID: 63245293
+<br>
 Email: rng@fulfordpr.com
-statics0
+
 Tanty Nazlianah Rosli
+<br>
 Singapore Sports Council
+<br>
 DID: 6500 5241
+<br>
 Email: tanty_nazlianah@ssc.gov.sg
-statics0
-statics0	
+
 Samantha See
+<br>
 Fulford PR
+<br>
 DID: 6324 9316
+<br>
 Email: ssee@fulfordpr.com
-statics0
+
 About the Singapore Sports Council
 statics0
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at Singapore Sports Council for more information.
@@ -62,9 +70,10 @@ statics0
 MILO is a nutritious, chocolate beverage made from the natural goodness of malt, milk and cocoa. First sold in the 1950s and locally produced since 1984, MILO contains Actigen-E, a combination of B Vitamins and Magnesium to aid in the release of energy from food. In 2006, with a reformulated recipe, MILO contains just 2% fat and 8% sugar per serve, thus attaining the Healthier Choice status from Health Promotion Board. As Singapore's favourite energy drink, more than 1 million cups of MILO are given free to Singaporeans annually through various sports and community events.
 
 MILO has been championing youth sports development in Singapore since 1950s. Through sponsorship of various sports events with institutions such as the Ministry of Education School Sports Council programmes, Singapore Sports Council, People's Association, MILO aims to nurture Singaporean athletes into national sports heroes. MILO also continues to rally and drive national support for Team Singapore athletes at international and regional events such as the South East Asian Games, 1st Asian Youth Games Singapore 2009.
-statics0
+
+
 MILO and SSC Signing of MOU Press Conference Speech by Mr. Suresh Narayanan, Managing Director of Nestle Singapore
-statics0
+
 Dr. Vivian Balakrishnan, Minister, for the Community Development, Youth and Sports;
 
 Mr. Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports & Ministry of Transport;
@@ -100,37 +109,41 @@ Both SSC and MILO are confident that we will be able to build a Sporting Singapo
 Today is the extension of our longstanding commitment to the community and to the SSC. We are excited to see this relationship develop to even greater heights in future years. Please join MILO and SSC in our conscious efforts to help Singapore reinforce its status as a sporting nation.
 
 Thank you.
-statics0
+
+<hr>
+<br>
 SPEECH FOR MR TEO SER LUCK, SENIOR PARLIAMENTARY SECRETARY, MINISTRY OF COMMUNITY DEVELOPMENT YOUTH AND SPORTS AND MINISTY OF TRANSPORT AT THE SSC - NESTLE (MILO) PARTNERSHIP TO CHAMPION YOUTH SPORTS DEVELOPMENT ON 19 FEBRUARY 2010 AT SENG KANG PRIMARY SCHOOL AT 1.35 PM.
-statics0
+
 Dr Vivian Balakrishnan, Minister, Community Development, Youth and Sports;
-
+<br>
 Oon Jin Teik, CEO, Singapore Sports Council
-
+<br>
 Suresh Narayanan, Managing Director, Nestle
-
+<br>
 Mrs Rabia Shahul Hameed, Principal, Seng Kang Primary School
-
+<br>
 Athletes, Students of Seng Kang Primary School,
-
+<br>
 Media friends,
-
+<br>
 Ladies and gentlemen,
-
+<br>
 Good afternoon.
 
 Today's signing of the Memorandum of Understanding between the Singapore Sports Council (SSC) and MILO marks a crucial step forward for youth sports development in Singapore. The MOU is indeed a wonderful reflection of the long standing partnership between both organisations in striving towards championing sports and active play to our young.
 
-2 Through participation in sports, youth are instilled with the right skills, attitudes and mindset to prepare them for the constantly evolving and dynamic world. Sports is a wonderful platform for our youths to learn important values such as honesty, teamwork, fair play, respect, perseverance, dedication, resilience and a strong sense of purpose.
+2. Through participation in sports, youth are instilled with the right skills, attitudes and mindset to prepare them for the constantly evolving and dynamic world. Sports is a wonderful platform for our youths to learn important values such as honesty, teamwork, fair play, respect, perseverance, dedication, resilience and a strong sense of purpose.
 
-3 Dealing with competition, coping with both winning and losing, building courage and striving towards improvement are further examples of how sport equips young people with important soft skills that are not easily learnt in the classroom.
+3. Dealing with competition, coping with both winning and losing, building courage and striving towards improvement are further examples of how sport equips young people with important soft skills that are not easily learnt in the classroom.
 
-4 The signing of this MOU comes at a time when Singapore is working hard as a nation to step up its preparations to host the inaugural Youth Olympic Games in August. I hope that through initiatives such as this MOU between the SSC and Milo, more youths will be interested in sports - not just to play but to volunteer and cheer. We are aiming to have more young people watching the 600-plus sports events that Singapore hosts annually, including Singapore 2010.
+4. The signing of this MOU comes at a time when Singapore is working hard as a nation to step up its preparations to host the inaugural Youth Olympic Games in August. I hope that through initiatives such as this MOU between the SSC and Milo, more youths will be interested in sports - not just to play but to volunteer and cheer. We are aiming to have more young people watching the 600-plus sports events that Singapore hosts annually, including Singapore 2010.
 
-5 To end, I would like to thank Nestle for keeping their faith in sports and for making a significant contribution towards Singapore's youth sports development. Corporate support is the foundation of our endeavours to turn Singapore into a sports city. I hope that more corporations will come forward to take part in the evolution of Sporting Singapore.
+5. To end, I would like to thank Nestle for keeping their faith in sports and for making a significant contribution towards Singapore's youth sports development. Corporate support is the foundation of our endeavours to turn Singapore into a sports city. I hope that more corporations will come forward to take part in the evolution of Sporting Singapore.
 
 Thank you.
-statics0
+
+<hr>
+<br>
 SPEECH BY MR OON JIN TEIK, CEO, SINGAPORE SPORTS COUNCIL AT THE SSC - NESTLE (MILO) PARTNERSHIP TO CHAMPION YOUTH SPORTS DEVELOPMENT ON 19 FEBRUARY 2010 AT SENG KANG PRIMARY SCHOOL AT 1.15 PM
 
 
