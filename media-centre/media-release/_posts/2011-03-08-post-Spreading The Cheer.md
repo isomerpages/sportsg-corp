@@ -133,5 +133,7 @@ Chrome 56, Safari 8, Opera 43 and above
 
 Contact Us 
 <br>Feedback FAQ
-<br>Report Vulnerability Terms of Use Privacy Statement
-<br>© 2019 Sport Singapore. Last Updated: 28 February, 2023
+<br>Report Vulnerability 
+<br>Terms of Use Privacy Statement
+<br>© 2019 Sport Singapore. 
+<br>Last Updated: 28 February, 2023
