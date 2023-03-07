@@ -22,7 +22,7 @@ Mr Vernon Kang, Chief Executive Officer of SHF said, “Sudden cardiac arrest ca
   
 Team Nila volunteers equipped with CPR & AED skills will not only improve their contribution at sports events, but also become an asset to the community and their families. Collaborations like these aim to build the capabilities of the volunteers and enhance the volunteer experience. Mr Lai Chin Kwang, Chief of ActiveSG said, “Learning new skills like CPR & AED can save lives. We are happy to partner Singapore Heart Foundation in our effort to train our volunteers, allowing them to be better equipped to assist someone in need. We are encouraged by the response from our volunteers and will continue to create more opportunities for them to learn and benefit.”  
   
-**myResponder Mobile Application**  
+##### **myResponder Mobile Application**  
 
 Individuals certified in CPR and AED are encouraged to download the myResponder mobile application, and register themselves as an active responder to cardiac arrest cases.  
   
@@ -30,6 +30,6 @@ In the event a cardiac arrest victim is reported, Singapore Civil Defence Force�
   
 myResponder mobile application is available for download on the [IOS app store](https://apps.apple.com/sg/app/myresponder/id983494391) and [Google Play store](https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp&hl=en_SG&gl=US&pli=1) for free.
 
-_________________________
+---
 
 \[1\] Singapore Civil Defence Force, https://www.scdf.gov.sg/content/scdf\_internet/en/community-and-volunteers/mobile\_phone\_technology.html
