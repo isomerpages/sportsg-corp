@@ -80,18 +80,9 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | Table Tennis | Women's Team | FENG Tianwei <br>LI Jiawei <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu| Gold | $120,000.00
 | Table Tennis | Mixed Doubles | WANG Yuegu <br>YANG Zi | Gold | $120,000.00
 | Table Tennis | Women's Doubles | LI Jiawei <br>SUN Beibei | Gold | $120,000.00
+| Table Tennis | Men's Doubles | GAO Ning <br>YANG Zi | Silver | $60,000.00
 
 
-
-Men's Doubles
-
-GAO Ning
-
-Silver
-
-$60,000.00
-
-YANG Zi
 
 Women's Doubles
 
