@@ -202,20 +202,7 @@ Athletes
 | 40. | Athletics | Wan Lay Chi | 阮丽智 | 22 | F | √    | Discus (W)
 | 41.  | Athletics | Zhang Guirong| 张桂荣 | 32 | F | √   | Shot Put (W)
 | 42.  | Badminton  | Shinta Mulia Sari  | NA  | 22  | F |  | Women's Doubles
-
-43.   
-
-Yao Lei
-
-姚蕾
-
-20
-
-F
-
-√   
-
-Women's Doubles
+| 43.  | Badminton  | Yao Lei  | 姚蕾 | 20  | F | √ | Women's Doubles
 
 44.   
 
