@@ -470,9 +470,7 @@ Team Officials
 | 58.  | Sailing | Mark Robinson| Team Manager
 | 59.  | Sailing |Serena Wong| Asst. Team Manager
 | 60. | Sailing |Fernando Javier Alegre Arbulu| Coach (Optimist)
-| 61. | Sailing |Thierry Bernard Jean Barot
-
-Coach (Keelboat)
+| 61. | Sailing |Thierry Bernard Jean Barot | Coach (Keelboat)
 
 62.   
 
