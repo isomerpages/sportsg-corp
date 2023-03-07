@@ -75,18 +75,9 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | Shooting | Women's 50m Rifle 3-Positions (Pairs) | Aqilah Binte SUDHIR <br>Jasmine SER <br> Xiang Wei | Gold | $120,000.00
 | Shooting | Women's 10m Air Rifle (Pairs) | CHENG Jian Huan <br> Jasmine SER <br>Xiang Wei | Silver | $60,000.00
 | Shooting | Men's 10m Air Pistol (Pairs) | GAI Bin <br LIM Swee Hon  | Bronze  | $30,000.00
+| Shooting | Men's 25m Centre Fire Pistol (Pairs) | GAI Bin <br>POH Lip Meng | Bronze   | $30,000.00
 
 
-
-Men's 25m Centre Fire Pistol (Pairs)
-
-GAI Bin
-
-Bronze
-
-$30,000.00
-
-POH Lip Meng
 
 Table Tennis
 
