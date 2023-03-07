@@ -478,13 +478,13 @@ Team Officials
 | 66.  | Sailing | Peter Anthony Logan| Team Official
 | 67.  | Sailing | Chung Pei Ming | Team Captain
 | 68. | Shooting| Ho Tsu Cher| Team Manager
-| 69.  | Lim Meng Kiaw| Team Manager
-| 70.  | Deng Pei Ming | Head Coach
-| 71.  | Gu Yong Qin | Coach (Rifle)
-| 72. | Yue Ming | Coach (Shotgun)
-| 73. | Zhang Man Zhen | Coach (Rifle)
-| 74.  | Zhu Chang Fu | Coach (Shotgun)
-| 75.  | Zhao Jin Hong | Team Official
+| 69.  |Shooting|  Lim Meng Kiaw| Team Manager
+| 70.  | Shooting| Deng Pei Ming | Head Coach
+| 71.  | Shooting| Gu Yong Qin | Coach (Rifle)
+| 72. | Shooting| Yue Ming | Coach (Shotgun)
+| 73. | Shooting| Zhang Man Zhen | Coach (Rifle)
+| 74.  | Shooting| Zhu Chang Fu | Coach (Shotgun)
+| 75.  | Shooting| Zhao Jin Hong | Team Official
 
 76.   
 
