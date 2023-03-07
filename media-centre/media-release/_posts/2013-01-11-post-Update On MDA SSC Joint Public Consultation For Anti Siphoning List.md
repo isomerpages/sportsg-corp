@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-## **Update On MDA-SSC Joint Public Consultation For Anti-Siphoning List**
+### **Update On MDA-SSC Joint Public Consultation For Anti-Siphoning List**
+
 **Singapore, 11 January 2013** - The MDA has gazetted the revised anti-siphoning list ("List") on 11 January 2013. This marks the conclusion of the two-phased review of the List, which started in February 2012.
 
 ![](/images/Media%20Centre/Media%20Release/2013/Jan/UPDATEONMDASSCJOINTPUBLICCONSULTATIONFORANTISIPHONINGLISTMainPar0042Imagegif.gif)
@@ -25,5 +26,3 @@ As this is the first time Category B programmes are introduced into the List, to
 This means that pay TV operators will not be allowed to acquire exclusive rights to the programme for more than 48 hours after the scheduled end of the event.
 
 For more details on the List and definition of delayed broadcast, please click here.
-
--END-
