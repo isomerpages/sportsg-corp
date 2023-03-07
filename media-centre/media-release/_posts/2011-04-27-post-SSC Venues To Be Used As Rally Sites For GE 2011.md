@@ -16,7 +16,7 @@ SSC VENUES TO BE USED AS RALLY SITES FOR GE 2011
 
 3. Although these fields will be closed to all bookings for sports activities, members of the public may still continue using the running tracks during the stadiums' normal operating hours, unless advised otherwise.
 
-4. The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at www.ssc.gov.sg. Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
+4. The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at [www.ssc.gov.sg](www.ssc.gov.sg). Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
 
 -End-
 
