@@ -21,7 +21,7 @@ Inspiring Singapore will start immediately with MILO supporting about 490 athlet
 
 Other plans in the pipeline include the production and launch of an 8-episode reality sports programme, featuring youth contestants where they will have to use their wits, skills and physical strength to compete against one another in a series of fun sporting activities. The programme will be broadcasted on Starhub's Super Sports Arena Channel from 23 May 2010.
 
-More details of these activities will be available once finalised.
+-More details of these activities will be available once finalised.-
 
 A great supporter and active participant in sports development in Singapore since the 1950s, MILO has consistently contributed to a sporting nation, through the sponsorship of various popular sports such as track and field, swimming, basketball and soccer. The household name has also supported partnerships with the Ministry of Education (MOE), the SSC and People's Association, strengthening its position as a strong advocate of sports and an active and healthy lifestyle.
 
@@ -39,7 +39,7 @@ Fulford PR
 <br>
 DID: 63245293
 <br>
-Email: rng@fulfordpr.com
+Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
 
 Tanty Nazlianah Rosli
 <br>
@@ -47,7 +47,7 @@ Singapore Sports Council
 <br>
 DID: 6500 5241
 <br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Samantha See
 <br>
@@ -55,37 +55,36 @@ Fulford PR
 <br>
 DID: 6324 9316
 <br>
-Email: ssee@fulfordpr.com
+Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 
-About the Singapore Sports Council
-statics0
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at Singapore Sports Council for more information.
-statics0
-About Nestle Singapore
-statics0
+
+**About Nestle Singapore**
+<br>
 NESTLE Singapore (Pte) Ltd, established in 1912, is a wholly owned subsidiary of NESTLE SA, the world's largest food company. Headquartered in Vevey, Switzerland, NESTLE employs over 283,000 people in factories and operating offices in almost every country around the world. NestlE aims to be the leading Nutrition, Health and Wellness Company in Singapore. NESTLE's range of products in Singapore include MILO, NESCAFE, MAGGI, YANG SHENG LE, NESCAFE, MILO, NESPRAY, NESTLE OMEGA PLUS, MOVENPICK of Switzerland, KIT KAT, PURINA, FRISKIES and dozens of other trusted brands that are household names and market leaders in their product categories.
-statics0
-About MILO Singapore
-statics0
+
+**About MILO Singapore**
+<br>
 MILO is a nutritious, chocolate beverage made from the natural goodness of malt, milk and cocoa. First sold in the 1950s and locally produced since 1984, MILO contains Actigen-E, a combination of B Vitamins and Magnesium to aid in the release of energy from food. In 2006, with a reformulated recipe, MILO contains just 2% fat and 8% sugar per serve, thus attaining the Healthier Choice status from Health Promotion Board. As Singapore's favourite energy drink, more than 1 million cups of MILO are given free to Singaporeans annually through various sports and community events.
 
 MILO has been championing youth sports development in Singapore since 1950s. Through sponsorship of various sports events with institutions such as the Ministry of Education School Sports Council programmes, Singapore Sports Council, People's Association, MILO aims to nurture Singaporean athletes into national sports heroes. MILO also continues to rally and drive national support for Team Singapore athletes at international and regional events such as the South East Asian Games, 1st Asian Youth Games Singapore 2009.
 
-
-MILO and SSC Signing of MOU Press Conference Speech by Mr. Suresh Narayanan, Managing Director of Nestle Singapore
+**MILO and SSC Signing of MOU Press Conference Speech by Mr. Suresh Narayanan, Managing Director of Nestle Singapore**
 
 Dr. Vivian Balakrishnan, Minister, for the Community Development, Youth and Sports;
-
+<br>
 Mr. Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports & Ministry of Transport;
-
+<br>
 SSC CEO, Mr. Oon Jin Teik;
-
+<br>
 Mrs Rabia Shahul Hameed, Principal of Seng Kang Primary;
-
+<br>
 Team Singapore athletes, Students of Seng Kang Primary;
-
+<br>
 Members of the media;
-
+<br>
 Ladies and Gentlemen.
 
 A very good afternoon to all of you and thank you for attending this very significant occasion for MILO and the Singapore Sports Council (SSC).
