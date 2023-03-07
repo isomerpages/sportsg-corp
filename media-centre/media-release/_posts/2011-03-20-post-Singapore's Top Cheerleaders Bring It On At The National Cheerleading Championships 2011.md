@@ -17,22 +17,22 @@ SP Gusto Crowned Overall Champions for the 2011 Edition, as 2000 Fans Pack Juron
 
 2 The 40 teams brought with them more than 2000 enthusiastic supporters who cheered just as hard, if not harder, than the competitors themselves. The cheers rose to a crescendo as SP Gusto from the Singapore Polytechnic were declared the 'Overall Champions' of the National Cheerleading Championships 2011. Guest-of-Honour Senior Minister of State for the Ministry of Education and the Ministry of National Development Ms Grace Fu, along with Team Singapore athletes and celebrity judges Lim Heem Wei (Gymnastics) and Tao Yi Jun (Wushu) watched on as they celebrated their well deserved victory.
 
-3 SP Gusto will now go on to represent Singapore and compete against some of the best cheer squads in the region at the 5th Cheerleading Asia International Open 2011 which is scheduled to be held in Tokyo, Japan this May. Clutching onto the championship trophy, Sen Poh Kang, captain of the winning team said "We trained extremely hard for this competition over the last eight months, and had to overcome our differences to unite as a team. The feeling of being crowned 'Overall Champions' is simply wonderful and we are all so happy!"
+3. SP Gusto will now go on to represent Singapore and compete against some of the best cheer squads in the region at the 5th Cheerleading Asia International Open 2011 which is scheduled to be held in Tokyo, Japan this May. Clutching onto the championship trophy, Sen Poh Kang, captain of the winning team said "We trained extremely hard for this competition over the last eight months, and had to overcome our differences to unite as a team. The feeling of being crowned 'Overall Champions' is simply wonderful and we are all so happy!"
 
-4 A total of 24 teams from eight categories walked away with trophies and cash prizes. The top teams from the open and high school categories of the 'Competitive' segment will also get to showcase their talent at the World Netball Championships 2011 to be held in Singapore in July.
+4. A total of 24 teams from eight categories walked away with trophies and cash prizes. The top teams from the open and high school categories of the 'Competitive' segment will also get to showcase their talent at the World Netball Championships 2011 to be held in Singapore in July.
 
-5 Apart from seeing a majority of last year's champions coming back to compete, there were also many established cheer squads taking part for the first time. In the 'Freestyle' segment, the MG Sizzlers from Methodist Girls' School were crowned champions of the secondary school category while ITE Genesis, clinched the top prize in the open category.
+5. Apart from seeing a majority of last year's champions coming back to compete, there were also many established cheer squads taking part for the first time. In the 'Freestyle' segment, the MG Sizzlers from Methodist Girls' School were crowned champions of the secondary school category while ITE Genesis, clinched the top prize in the open category.
 
-6 In the 'Competitive' cheerleading segment, top honours went to St Hilda's Shooting Stars (primary school category), SP Gusto (high school category) and the Wildcards (open category).
+6. In the 'Competitive' cheerleading segment, top honours went to St Hilda's Shooting Stars (primary school category), SP Gusto (high school category) and the Wildcards (open category).
 
-7 Results for the 'Stunting' events held yesterday were also announced, with SP Gusto walking away with the gold in the team stunts. RP Rexaz and the Wildcards were also equally elated after receiving their trophies for their winning performances in the all-girls stunts and partner stunt events respectively.
+7. Results for the 'Stunting' events held yesterday were also announced, with SP Gusto walking away with the gold in the team stunts. RP Rexaz and the Wildcards were also equally elated after receiving their trophies for their winning performances in the all-girls stunts and partner stunt events respectively.
 
-8 "We are thrilled with the overall success of the Championships. All the teams put up extremely outstanding performances. It was truly inspiring to witness such enthusiasm and passion for cheering. This is what we want to see in sporting arenas all around Singapore - people who are eager and excited to watch and cheer for sports. It will be the job of these cheerleaders now to act as role models, and carry on spreading the cheer," said Ms Sharon Kam, Senior Director, Sports Marketing Group, Singapore Sports Council (SSC).
+8. "We are thrilled with the overall success of the Championships. All the teams put up extremely outstanding performances. It was truly inspiring to witness such enthusiasm and passion for cheering. This is what we want to see in sporting arenas all around Singapore - people who are eager and excited to watch and cheer for sports. It will be the job of these cheerleaders now to act as role models, and carry on spreading the cheer," said Ms Sharon Kam, Senior Director, Sports Marketing Group, Singapore Sports Council (SSC).
 
-9 Highlights of the National Cheerleading Championships 2011 will be broadcast on SuperSports Arena on StarHub Channel 201 on 7 April and a repeat telecast on 10 April 2011.
+9. Highlights of the National Cheerleading Championships 2011 will be broadcast on SuperSports Arena on StarHub Channel 201 on 7 April and a repeat telecast on 10 April 2011.
 
-10 The National Cheerleading Championships 2011 is held in conjunction with the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
-statics0
+10. The National Cheerleading Championships 2011 is held in conjunction with the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
+
 -End-
 
 Annex: Results List of the National Cheerleading Championships 2011
