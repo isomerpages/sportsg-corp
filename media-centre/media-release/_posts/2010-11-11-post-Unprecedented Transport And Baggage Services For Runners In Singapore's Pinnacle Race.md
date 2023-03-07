@@ -47,16 +47,7 @@ Annex A: Bus schedule for Pre-race Chartered Bus Service
 | -------- | -------- | -------- |
 | All 17 Pick-Up Locations | Orchard Boulevard, by Orchard Turn (Full Marathon) | 3:00 AM <br>3:15 AM <br>3:30 AM
 | All 17 Pick-Up Locations | Harbourfront Place, by Harbourfront Centre <br>(Half Marathon) | 4:45 AM <br>5:00 AM <br>5:15 AM
-
-All 17 Pick-Up Locations
-
-City Hall Area (10km Run)
-
-6:00 AM
-
-6:30 AM
-
-7:00 AM
+| All 17 Pick-Up Locations | City Hall Area (10km Run) | 6:00 AM <br>6:30 AM <br>7:00 AM
 
  
 
