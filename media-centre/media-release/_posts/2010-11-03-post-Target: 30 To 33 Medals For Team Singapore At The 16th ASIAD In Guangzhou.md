@@ -486,61 +486,15 @@ Team Officials
 | 74.  | Shooting| Zhu Chang Fu | Coach (Shotgun)
 | 75.  | Shooting| Zhao Jin Hong | Team Official
 | 76. | Table Tennis  | Loy Soo Han  | Team Manager
-| 77. | Table Tennis  
-
-Jing Junhong
-
-Coach
-
-78.   
-
-Yang Chuanning
-
-Coach
-
-79.   
-
-Zhou Shusen
-
-Coach
-
-80.   
-
-Eddy Tay Han Chong
-
-Team Official
-
-81.   
-
-Hao Anlin
-
-Sparring Partner
-
-82.   
-
-Taekwondo
-
-Wong Liang Ming
-
-Team Manager/ Coach
-
-83.   
-
-Wushu
-
-Ng Kim Foo
-
-Team Manager
-
-84.   
-
-Sheng Shi Jie
-
-Coach
-
- 
-
- 
+| 77. | Table Tennis   | Jing Junhong | Coach
+| 78.  | Yang Chuanning | Coach
+| 79.  | Zhou Shusen | Coach
+| 80. | Eddy Tay Han Chong  | Team Official
+| 81.  | Hao Anlin  | Sparring Partner
+| 82.  | Taekwondo | Wong Liang Ming
+| Team Manager/ Coach
+| 83. | Wushu | Ng Kim Foo | Team Manager
+| 84.  | Wushu | Sheng Shi Jie | Coach
 
 Annex C: Profile of Chef-de-Mission
 Low Teo Ping
