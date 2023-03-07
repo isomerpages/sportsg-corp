@@ -86,54 +86,18 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Cycling - Mountain Bike | 18 November 2010
 | Cycling - Road | 20 - 23 November 2010
 | Cycling - Track | 13 - 17 November 2010
-
-Dancesport
-
-13 - 14 November 2010
-
-Dragonboat
-
-18 - 20 November 2010
-
-Equestrian
-
-14 - 24 November 2010
-
-Fencing
-
-18 - 23 November 2010
-
-Football
-
-7 - 25 November 2010
-
-Golf
-
-7 - 20 November 2010
-
-Gymnastics - Artistic
-
-13 - 17 November 2010
-
-Gymnastics - Rhythmic
-
-25 - 26 November 2010
-
-Gymnastics - Trampoline
-
-21 - 22 November 2010
-
-Handball
-
-13 - 26 November 2010
-
-Hockey
-
-13 - 25 November 2010
-
-Judo
-
-13 - 16 November 2010
+| Dancesport | 13 - 14 November 2010
+| Dragonboat | 18 - 20 November 2010
+| Equestrian | 14 - 24 November 2010
+| Fencing | 18 - 23 November 2010
+| Football | 7 - 25 November 2010
+| Golf | 7 - 20 November 2010
+| Gymnastics - Artistic | 13 - 17 November 2010
+| Gymnastics - Rhythmic | 25 - 26 November 2010
+| Gymnastics - Trampoline | 21 - 22 November 2010
+| Handball | 13 - 26 November 2010
+| Hockey | 13 - 25 November 2010
+| Judo | 13 - 16 November 2010
 
 Kabaddi
 
