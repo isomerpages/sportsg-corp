@@ -7,14 +7,14 @@ layout: post
 description: ""
 image: ""
 ---
-## **Champions Back to Defend Titles In This Year's Standard Chartered Marathon Singapore**
+### **Champions Back to Defend Titles In This Year's Standard Chartered Marathon Singapore**
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0028Imagegif.gif)
 
 **Singapore, 30 November 2012** - This year's Standard Chartered Marathon Singapore (SCMS) will feature a contingent of elite athletes including winners and record holders from previous editions. Defending champions, Charles Mwai Kanyao, and Irene Jerotich Kosgei, both from Kenya, will be amongst the world-class international elite runners at the start line of this International Association of Athletics Federations (IAAF) Gold Label race.
 
 2. "We are delighted to welcome such a strong field of elite athletes to this year?s race. I'm particularly pleased to see several former champions of the SCMS returning and with several other top contenders in the mix, there is growing recognition of the SCMS as one of the top marathons. Given the fast times of this field, my fingers are crossed for a new course record.", said Mr Lim Teck Yin, Chief Executive Officer, SSC and Chairman, SCMS 2012 Organising Committee.
 
-**Battle of the Champions**
+##### **Battle of the Champions**
 
 3. The SCMS 2012 will see a total of 24 international elite athletes from seven different countries taking part in the Full Marathon race category. Featuring athletes from Belarus, Ethiopia, Kenya, Morocco, Russia, Ukraine and USA, they will begin their race under the Christmas lights along Orchard Road together with 19,200 Full Marathon and Ekiden runners.
 
@@ -28,26 +28,25 @@ image: ""
 
 8. SCMS 2011 Women's Open runner-up Roman Gebregessese of Ethiopia will reignite the rivalry with Kosgei and aim to pip Kosgei to the finish line. Other contenders in the women's open category include fellow Ethiopian Shitaye Gemechu (2:26:10) and Ivanova Alevtina (2:26:38) of Russia, who hold the top two personal best timings in the category.
 
-**Local runners look to set new records**
+##### **Local runners look to set new records**
 
 9. Having won the Standard Chartered Marathon Singapore for three consecutive years since 2009, champion of the local men's category Mok Ying Ren is also returning to defend his title. Challenging his dominance in this route is last year's runner-up Ang Chee Yong. Anne Qi Hui will be looking to retain her crown in the local women's category for the fourth consecutive time this year, having just set a personal best and new national record time of 1:23:16 at the IAAF World Half Marathon Championships.
 
 10. The SCMS 2012 will see 53,000 runners participating in the Full Marathon, Half Marathon, 10km and Kids Dash. Featuring three different routes, runners will take in the full spectrum of iconic landmarks in Singapore including Orchard Road, Universal Studios Singapore, Sentosa, Singapore Flyer and Gardens by the Bay.
 
--END-
+---
 
 Annexes
 
-Annex A: List of Elite Athletes
-Annex B: Profiles of Top Elite Athletes
-Annex C: SCMS Race Results (2009 - 2011)
-
+**Annex A**: List of Elite Athletes
+**Annex B**: Profiles of Top Elite Athletes
+**Annex C**: SCMS Race Results (2009 - 2011)
 
 Annex A: List of Elite Athletes
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0047Imagegif.gif)
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0051Imagegif.gif)
 
-Annex B: Profiles of Top Elite Athletes
+**Annex B**: Profiles of Top Elite Athletes
 <br>Charles Mwai Kanyao
 <br>Gender: Male
 <br>Country: Kenya
@@ -144,7 +143,7 @@ Annex C: SCMS Race Results (2009 - 2011)
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0059Imagegif.gif)
 
 **For media enquiries, please contact:**
-<br>
+
 Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
