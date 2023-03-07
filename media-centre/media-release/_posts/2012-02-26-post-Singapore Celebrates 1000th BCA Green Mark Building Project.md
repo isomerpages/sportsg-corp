@@ -12,7 +12,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2012/Feb/SINGAPORECELEBRATES1000THBCAGREENMARKBUILDINGPROJECTMainPar0028Imagegif.gif)
 	
-26 February 2012 (Sunday) - Singapore has reached a new milestone in its green building journey - the 1000th green building since the Building and Construction Authority's (BCA) Green Mark Scheme was introduced in 2005. The 1000th placing goes to Pasir Ris Sports and Recreation Centre (SRC), which has achieved the BCA Green Mark GoldPlus, the second highest rating under the green building rating scheme.
+**26 February 2012 (Sunday)** - Singapore has reached a new milestone in its green building journey - the 1000th green building since the Building and Construction Authority's (BCA) Green Mark Scheme was introduced in 2005. The 1000th placing goes to Pasir Ris Sports and Recreation Centre (SRC), which has achieved the BCA Green Mark GoldPlus, the second highest rating under the green building rating scheme.
 
 2. To mark this special milestone, about 500 residents from Pasir Ris-Punggol Group Representation Constituency (GRC) participated in a 'Walk the Green Talk' event this morning. Led by Deputy Prime Minister (DPM) Teo Chee Hean, who was accompanied by other Members of Parliament from Pasir Ris-Punggol GRC and Punggol East SMC, the walk began at Pasir Ris Elias Community Club and ended with a memorable award ceremony at Pasir Ris SRC. DPM Teo, together with Singapore Sports Council?s (SSC) Chief Executive Officer (CEO) Mr Lim Teck Yin, received the Green Mark Award from Mr Quek See Tiat, Chairman of BCA and Dr John Keung, CEO of BCA.
 
