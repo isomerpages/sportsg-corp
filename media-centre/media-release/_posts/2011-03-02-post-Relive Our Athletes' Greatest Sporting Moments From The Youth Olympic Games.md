@@ -86,8 +86,8 @@ statics0
 202 Ang Mo Kio Ave 9 (569771)
 
 17. Yishun Swimming Complex
-351 Yishun Ave 3 (769057)
-statics0
+<br>351 Yishun Ave 3 (769057)
+
 Annex B - Selected Photos for Exhibition
 Annex B - Selected Photos for Exhibition [344 Kb]
 Annex C - Schedule of Sports Photography Workshops
@@ -134,21 +134,21 @@ Tapping on his uncanny knack for perfect imagery, Jeremy ventured into the world
 In 2009, his love for sports and photography came to fruition as he moved to Action Images - a division of Reuters Media. Within this division, Jeremy was able to infuse his experience in commercial photography into editing high profile assignments for Action Images involving Wayne Rooney for Coca Cola UK and sport governing bodies such as FIFA on many of their global tournaments, ranging from beach soccer to 2010 FIFA World Cup in South Africa. Jeremy's most recent photography assignment was the Barclays Singapore Open 2010 - the most prestigious Asian tour golf tournament and the globally renowned Asian Soccerex Forum 2010 in Singapore.
 
 Even though sport has become a popular vocation to many photographers in recent years, very few have the experience and expertise to interpret a brief with flair and originality. In 2010, Jeremy was instrumental in managing the photography assignments for SSC, notably the inaugural Youth Olympic Games. The objective is to capture the young Team Singapore athletes in action during the Games. This project created a large collection of inspiring images which was pivotal to the "Reliving YOG Moments" photography exhibition.
-statics0
-About the Singapore Sports Council
-statics0
+
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
-
+<br>
 Join SSC on Twitter at: www.twitter.com/singaporesports
-
+<br>
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-About Team Singapore
-statics0
+
+**About Team Singapore**
+<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -158,11 +158,11 @@ For further information, please visit www.teamsingapore.com.sg
 
 Follow Team Singapore's action on Facebook at: www.facebook.com/TeamSG
 
-About Let's Play
+**About Let's Play**
 <br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 <br>Patricia Yee
 <br>Executive
 <br>Media Relations
