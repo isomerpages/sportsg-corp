@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Greater Opportunities For The Community To Play Sports On Ice**
 
-![](/images/Media%20Centre/Media%20Release/2012/May/skatestar.gif)
+![](/images/Media%20Centre/Media%20Release/2012/Apr/skatestar.gif)
 
 *SkateStar Programme to Introduce Ice Skating to the Heartlands*
 	
