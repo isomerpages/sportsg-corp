@@ -48,25 +48,8 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | No. | Medal | Sport | Event | Name of Athlete(s) | Total |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1.     | Gold | Aquatics - Swimming | Women's 50m Butterfly | TAO Li  | 4 
-| 2.     
-
-Gold
-
-Bowling
-
-Women's Trios
-
-Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi
-
-3.     
-
-Gold
-
-Sailing
-
-Women's Double Handed Dinghy 420
-
-Rachel LEE Qing & Cecilia LOW Rui Qi
+| 2.  | Gold | Bowling | Women's Trios | Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi
+| 3. | Gold | Sailing | Women's Double Handed Dinghy 420 | Rachel LEE Qing & Cecilia LOW Rui Qi
 
 4.     
 
