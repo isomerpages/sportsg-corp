@@ -30,6 +30,7 @@ DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore A
 -End-
 
 Annex A: About the Multi-Million Dollar Award Programme (MAP)
+
 In the 1990s, under the direction of then President Dr. Yeo Ning Hong, the Singapore National Olympic Council devised an incentive scheme to reward medal-winning athletes. The Multi-Million Dollar Awards Programme (MAP) provides a cash payout to athletes who win gold medals at the Olympic, Asian, Commonwealth and South East Asian (SEA) Games.
 
 The largest award is $1 million, payable to athletes who achieve a gold medal standing at the Olympic Games. The smallest award is $10,000, for athletes who win a gold medal at the SEA Games. The value of the awards varies with the respective Games, with the Olympic Games providing significantly higher payouts. The awards also vary based on individual versus team events and team sports.
@@ -41,7 +42,7 @@ The Tote Board/Singapore Pools (Pte) Ltd is the primary sponsor of the MAP award
 Athletes who break the South East Asian or Asian Games records will be awarded $5,000 and $50,000 respectively. This incentive does not apply to sports with no official records.
 
 It is mandatory for all athletes to plough back 20% of the MAP awards to their National Sports Association for future training and development.
-statics0
+
 Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 Individual Events
 
