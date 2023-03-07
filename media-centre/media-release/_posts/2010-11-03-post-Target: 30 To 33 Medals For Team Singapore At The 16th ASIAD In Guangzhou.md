@@ -172,39 +172,9 @@ Athletes
 | 11.  |   Aquatics - Swimming | Pang Sheng Jun | 冯盛均 | 18 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>200m Breaststroke (M) <br>200m Individual Medley (M) <br>400m Individual Medley (M) <br>4X200m Medley Relay (M)
 | 12. |   Aquatics - Swimming | Parker Lam Wei-Xiong | 林伟雄 | 21 | M | √    | 50m | Breaststroke (M) <br>100m Breaststroke (M)
 | 13.  |   Aquatics - Swimming | Quah Tingwen | 柯婷文 | 18 | F |  |100m Freestyle (W) <br>200m Freestyle (W) <br>400m Freestyle (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W) <br>4X100m Medley Relay (W)
-| 14. |   Aquatics - Swimming |  Rainer Ng Kai Wee | 黄凯伟 | 18 | M | √   | 50m Backstroke (M)
-
-100m Backstroke (M)
-
-200m Backstroke (M)
-
-200m Butterfly (M)
-
-4X100m Medley Relay (M)
-
-15.   
-
-Samantha Louisa Yeo Ginn
-
-杨琪
-
-13
-
-F
-
-√   
-
-50m Breaststroke (W)
-
-100m Breaststroke (W)
-
-200m Breaststroke (W)
-
-4X100m Medley Relay (W)
-
-16.   
-
-Shana Lim Jia Yi
+| 14. | Aquatics - Swimming |  Rainer Ng Kai Wee | 黄凯伟 | 18 | M | √   | 50m Backstroke (M)<br>100m Backstroke (M) <br>200m Backstroke (M) <br>200m Butterfly (M) <br>4X100m Medley Relay (M)
+| 15.   |  Aquatics - Swimming |  Samantha Louisa Yeo Ginn| 杨琪 |  13 |  F  |  √    |  50m Breaststroke (W) <br>100m Breaststroke (W) <br>200m Breaststroke (W) <br>4X100m Medley Relay (W)
+| 16. | Shana Lim Jia Yi
 
 林佳育
 
