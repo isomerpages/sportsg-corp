@@ -29,9 +29,9 @@ image: ""
 
 9. For more information, please visit www.singaporenationalgames.sg.
 
--END-
+---
 
-Annex A: Singapore National Games 2012 Fact Sheet
+**Annex A: Singapore National Games 2012 Fact Sheet**
 
 The Singapore National Games 2012 (SNG) is a new biennial multi-sports festival that bridges community participation and sports excellence, and will offer residents of all ages, races and from different estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
 
@@ -46,7 +46,7 @@ Participation is open to Singapore Citizens as well as non-Citizens, including S
 For more information regarding the Games, please visit the singaporenationalgames.sg
 
 **For media enquiries, please contact:**
-<br>
+
 U-Lynn LEE
 <br>Fulford Public Relations 
 <br>Email: [ullee@fulfordpr.com](ullee@fulfordpr.com)
