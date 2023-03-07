@@ -20,5 +20,3 @@ Accompanying ‘Celebrate The Extraordinary’ were four other Community Torches
 Also unveiled today was ‘Fighting Flying Flight’ by Amanda Lim, a site-specific light installation co-created with students from Spectra Secondary School and the clients from Bizlink Day Activity Centre. The installation represents the hopes and aspirations of the athletes who will be fighting hard to achieve their goals. Finally, ‘Our Singapore Dreams, Twinkle! by versatile multi-media sculptor Tay Swee Siong showcases an LED light sculpture inspired by the energetic movements of the athletes in SEA Games, and aims to express the individual dreams of Singaporeans from all walks of life, in an interactive way.
 
 Happening concurrently was also a public Art Picnic and Community Art session aimed at creating awareness for Art Therapy, in which participants had the chance to try their hands at a craft session titled ‘Hand+Heart’, using their hands to express the heart.
-
-END
