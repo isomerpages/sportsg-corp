@@ -49,18 +49,18 @@ Located on a 35ha site in Kallang, the Singapore Sports Hub will include the fol
 
 The Sports Hub, which is currently under construction, is the largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world. It is also Singapore's largest and flagship PPP project of this nature.
 
-For more information, please visit the Singapore Sports Hub website: http://www.sportshub.com.sg
+For more information, please visit the Singapore Sports Hub website: [http://www.sportshub.com.sg](http://www.sportshub.com.sg)
 
 Annex A- Partner Profiles [214 Kb]
 Annex B - Sports Hub Fact Sheet [121 Kb]
 Annex C - Stadium Roads Closure Media Advisory [125 Kb]
+
 For media enquiries, please contact:
-Linda Fulford
-Fulford Public Relations
-DID: 6324 2268
-Email: lfulford@fulfordpr.com
-statics0
-statics0	
+<br>Linda Fulford
+<br>Fulford Public Relations
+<br>DID: 6324 2268
+<br>Email: lfulford@fulfordpr.com
+
 Samantha See
 Fulford Public Relations
 DID: 6324 5293
