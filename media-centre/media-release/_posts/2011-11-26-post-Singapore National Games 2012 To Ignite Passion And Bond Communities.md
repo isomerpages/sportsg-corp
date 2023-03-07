@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore National Games 2012 To Ignite Passion And Bond Communities**
+### **Singapore National Games 2012 To Ignite Passion And Bond Communities**
 
 *Launch of New Multi-Sports Festival That Will Serve as A Bridge Between Sports Excellence and Community Participation*
 
@@ -38,9 +38,9 @@ image: ""
 
 13. For more information regarding the Games, please visit the PA and SSC websites: ([www.pacsc.org.sg](www.pacsc.org.sg)) and ([www.ssc.gov.sg](www.ssc.gov.sg)). Public enquiries regarding in the Games can be directed to the following Hotline: 6238 2058
 
--END-
+---
 
-**Annex - Information and Rules: Singapore National Games **<br>2012/Community Games 2012
+**Annex - Information and Rules: Singapore National Games**<br>2012/Community Games 2012
 <br>[Games Info and General Rules](/files/Media%20Centre/Media%20Release/2011/November/Games%20Info%20and%20General%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [208 Kb]
 <br>[Athletics Rules](/files/Media%20Centre/Media%20Release/2011/November/Athletics%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [448 Kb]
 <br>[Badminton Rules ](/files/Media%20Centre/Media%20Release/2011/November/Badminton%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf)[202 Kb]
@@ -53,8 +53,9 @@ image: ""
 <br>[Swimming Rules](/files/Media%20Centre/Media%20Release/2011/November/FinalCgSng2012SwimmingRulesStandardised%20as%20at%2024%20November%202011pdf.pdf) [237 Kb]
 <br>[Table Tennis Rules](/files/Media%20Centre/Media%20Release/2011/November/Table%20Tennis%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [226 Kb]
 
+
 **For media enquiries, please contact:**
-<br>
+
 Ms Lorraine Tiang
 <br>Manager, Corporate & Marketing Communications
 <br>People's Association 
@@ -71,9 +72,9 @@ Ms Samantha See
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG[www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg).
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [www.Vision2030.sg](www.Vision2030.sg).
