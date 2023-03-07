@@ -361,21 +361,8 @@ Athletes
 | 200. | Sailing | Tan Wearn Haw| 陈文皓| 32| M| 4 persons Match Racing Skipper
 | 201.  | Sailing | Benjamin Tan Jia Ming| 陈加明| 25| M| √   | Crew 1
 | 202.  | Sailing | Yurii Alexander Siegel| NA| 32| M| √   | Crew 2
-| 203.  | Sailing | Colin Ng Wee Tai
-
-黄伟达
-
-32
-
-M
-
- 
-
-Crew 3
-
-204.        
-
-Shooting
+| 203.  | Sailing | Colin Ng Wee Tai | 黄伟达| 32 | M| Crew 3
+| 204. | Shooting
 
  
 
