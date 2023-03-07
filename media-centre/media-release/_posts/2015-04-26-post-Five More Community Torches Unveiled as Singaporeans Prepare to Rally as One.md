@@ -21,6 +21,4 @@ Also unveiled today was ‘Fighting Flying Flight’ by Amanda Lim, a site-speci
 
 Happening concurrently was also a public Art Picnic and Community Art session aimed at creating awareness for Art Therapy, in which participants had the chance to try their hands at a craft session titled ‘Hand+Heart’, using their hands to express the heart.
 
-Members of the public can also visit " - " to get a better understanding on the 28th SEA Games Torch Up! Programme, where more information on the five Community Torch locations and the completed Community Torches can be found.
-
 END
