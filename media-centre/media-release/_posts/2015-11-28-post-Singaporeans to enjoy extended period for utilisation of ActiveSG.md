@@ -6,10 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-### **Singaporeans to enjoy extended period for utilisation of ActiveSG**
-All Singaporeans and Permanent Residents (PRs) will now have more time and opportunities to utilise the ActiveSG $100 that they received in April last year, following an extension of validity as announced today.  
+### **Singaporeans to enjoy extended period for utilisation of ActiveSG$**
+All Singaporeans and Permanent Residents (PRs) will now have more time and opportunities to utilise the ActiveSG$100 that they received in April last year, following an extension of validity as announced today.  
   
-With the launch of the national movement for sport last year, Singaporeans and PRs who signed up for a membership were given $100 worth of credits to book sport facilities or sign up for programmes at all ActiveSG Sports Centres islandwide. Originally, members were given up to 31 December of the following year to utilise their ActiveSG $[1].  
+With the launch of the national movement for sport last year, Singaporeans and PRs who signed up for a membership were given $100 worth of credits to book sport facilities or sign up for programmes at all ActiveSG Sports Centres islandwide. Originally, members were given up to 31 December of the following year to utilise their ActiveSG$[1].  
   
 With the extension, ActiveSG members will benefit as follows:  
   
@@ -21,7 +21,7 @@ Utilisation period for ActiveSG Dollars will be extended by an additional year, 
   
 The move was in an effort to support Singaporeans and Permanent Residents in their journey to lead an active lifestyle through sport, said Ms Sim Ann, Senior Minister of State, Ministry of Culture, Community and Youth. She announced the extension at the ActiveSG U21 Ultimate Frisbee Competition held at Yio Chu Kang today.  
   
-Said Ms Sim: “Through ActiveSG, we want to encourage Singaporeans from all walks of life, regardless of age, skill level or physical ability, to lead an active and healthy lifestyle. We are heartened by the encouraging response – nearly a million have signed up since its launch last year. I’m pleased to announce that we are extending the validity of the ActiveSG $100, so that our members can continue to stay active. They can also look forward to more engaging and innovative programmes in the coming year. I urge all Singaporeans to join ActiveSG, and live better through sport!”  
+Said Ms Sim: “Through ActiveSG, we want to encourage Singaporeans from all walks of life, regardless of age, skill level or physical ability, to lead an active and healthy lifestyle. We are heartened by the encouraging response – nearly a million have signed up since its launch last year. I’m pleased to announce that we are extending the validity of the ActiveSG$100, so that our members can continue to stay active. They can also look forward to more engaging and innovative programmes in the coming year. I urge all Singaporeans to join ActiveSG, and live better through sport!”  
   
 The Ultimate Frisbee Competition held today is among many activities rolled out by ActiveSG to engage different segments of the community. Since its launch in April 2014, ActiveSG has run more than 5,000 activities to date – ranging from studio programmes such as Piloxing and innovative offerings such as Aqua Spinning, to school holiday programmes, sport and leadership camps, as well as multi-sport competitions. ActiveSG plans to continue expanding on the suite of activities available to members.  
   
