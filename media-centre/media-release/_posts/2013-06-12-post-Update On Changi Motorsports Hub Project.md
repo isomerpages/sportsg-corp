@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Update On Changi Motorsports Hub Project**
+### **Update On Changi Motorsports Hub Project**
 
 **Singapore, 12 June 2013** - The Singapore Sports Council (SSC) announced today that it would not be proceeding with the re-tender for the Changi Motorsports Hub site following the conclusion of an extensive international and local market sounding and Request for Information (RFI) exercise.
 
@@ -22,9 +22,9 @@ image: ""
 
 7. Added Lim: "While we work towards handing the site back to the authorities, SSC is also actively working with the relevant agencies on possible interim uses for the site for motorsports-related activities such as karting for the community."
 
--END-
+---
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 Alvin Hang 
 <br>
@@ -39,7 +39,7 @@ Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow SSC on Twitter at:[www.twitter.com/Lets_PlaySG]( www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
