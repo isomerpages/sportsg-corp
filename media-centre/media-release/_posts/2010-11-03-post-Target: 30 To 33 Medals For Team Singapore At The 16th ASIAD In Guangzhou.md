@@ -278,127 +278,14 @@ Athletes
 | 116. | Dragon Boat  | Siti Norwani Binte Mohamed Hussainain| NA| 29| F| √   | Team (Women)
 | 117.  | Dragon Boat  | Tan Si Min| 陈思敏| 20 | F |√    |Team (Women)
  |118.  |Equestrian |Catherine Marissa Chew Yen Tung |朱晏彤 |21 |F |√    |Show Jumping
-|119.        
-
-Fencing
-
-Ann Lee Huimin
-
-李慧敏
-
-19
-
-F
-
-√   
-
-Sabre Individual (W)
-
-Sabre Team (W)
-
-120.        
-
-Cheryl Wong Ye Han
-
-王业涵
-
-19
-
-F
-
-√   
-
-Foil Team (W)
-
-121.        
-
-Lewina Lee Yi Chen
-
-李玉珍
-
-23
-
-F
-
-√   
-
-Sabre Team (W)
-
-122.        
-
-Nelicia Low Wai Ling
-
-刘慧伶
-
-19
-
-F
-
-√   
-
-Sabre Team (W)
-
-123.        
-
-Nona Lim Yean Hong
-
-林艳虹
-
-36
-
-F
-
-√   
-
-Sabre Individual (W)
-
-Sabre Team (W)
-
-124.        
-
-Ruth Ng Yi Lin
-
-黄怡琳
-
-24
-
-F
-
- 
-
-Foil Individual (W)
-
-Foil Team (W)
-
-125.        
-
-Tay Yu Ling
-
-戴妤玲
-
-23
-
-F
-
- 
-
-Foil Team (W)
-
-126.        
-
-Wang Wenying
-
-王雯莹
-
-29
-
-F
-
- 
-
-Foil Individual (W)
-
-Foil Team (W)
+|119.  |Fencing |Ann Lee Huimin |李慧敏 |19 |F |√  |Sabre Individual (W) <br>Sabre Team (W)
+|120.  |Fencing |Cheryl Wong Ye Han  |王业涵  | 19 |F |√    |Foil Team (W)
+|121.  | Fencing |  Lewina Lee Yi Chen| 李玉珍| 23| F| √   | Sabre Team (W)
+| 122. | Fencing |  Nelicia Low Wai Ling| 刘慧伶| 19| F| √   | Sabre Team (W)
+| 123.| Nona Lim Yean Hong| 林艳虹| 36| F| √   | Sabre Individual (W) <br>Sabre Team (W)
+| 124. | Fencing | Ruth Ng Yi Lin| 黄怡琳| 24| F| Foil Individual (W)<br>Foil Team (W)
+| 125.  | Fencing | Tay Yu Ling | 戴妤玲| 23| F| Foil Team (W)
+| 126.  | Wang Wenying| 王雯莹| 29| F| Foil Individual (W) <br>Foil Team (W)
 
 127.        
 
