@@ -10,7 +10,7 @@ A1: Athletes can check all medications purchased in Singapore using the ADS [CH
 
 **Q2: If I need to use medication or methods of treatment that are prohibited, how do I apply for a Therapeutic Use Exemption (TUE)?**
 <br>
-A2: TUE applications are to be completed with your doctor and submitted to ADS at [ads@sport.gov.sg](mailto:ads@sport.gov.sg). Applications should include the necessary medical reports or evaluation where required. For more information on TUEs, please visit the [TUE section](/anti-doping-singapore/substances/therapeutic-use-exemption/).
+A2: TUE applications are to be completed with your doctor and submitted to ADS at [ads@sport.gov.sg](mailto:ads@sport.gov.sg). Applications should include the necessary medical reports or evaluation where required. For more information on TUEs, please visit the [TUE & Substances section](/anti-doping-singapore/substances/therapeutic-use-exemption/).
 
 **Q3: How do I know if the supplements I use contain prohibited substances?**
 <br>
