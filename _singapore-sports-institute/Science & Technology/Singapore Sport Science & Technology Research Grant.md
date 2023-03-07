@@ -77,4 +77,19 @@ Results of the 2017 grant award is projected to be announced in September 2017.
 
 <hr>
 
+#### **More Information**
+If you have any queries relating to the grant:
 
+E-mail: [sport_ssi_research@sport.gov.sg](mailto:sport_ssi_research@sport.gov.sg)
+
+Mailing Address:
+
+Attn: SSSTRG Officer
+
+Sport Singapore
+<br>
+Singapore Sports Institute
+<br>
+3 Stadium Drive
+<br>
+Singapore 397630
