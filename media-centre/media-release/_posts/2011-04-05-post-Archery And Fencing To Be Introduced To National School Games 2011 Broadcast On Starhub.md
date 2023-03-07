@@ -7,9 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-## **Archery And Fencing To Be Introduced To National School Games 2011 Broadcast On Starhub's Supersports Arena Singapore**
+### **Archery And Fencing To Be Introduced To National School Games 2011 Broadcast On Starhub's Supersports Arena Singapore**
 
-ARCHERY AND FENCING TO BE INTRODUCED TO NATIONAL SCHOOL GAMES 2011 BROADCAST ON STARHUB'S SUPERSPORTS ARENA
 2011 Edition to Feature Team Singapore Youth Athletes and Alternative Viewing Platforms via Android and Apple iOS Applications
 
 **Singapore, 5 April 2011** - The Ministry of Education (MOE), Singapore Sports Council (SSC) and StarHub are collaborating for the second year running to broadcast the National School Games (NSG) on StarHub's sports channel SuperSports Arena (Starhub TV Channel 201), available free to all StarHub TV customers.
@@ -30,36 +29,27 @@ ARCHERY AND FENCING TO BE INTRODUCED TO NATIONAL SCHOOL GAMES 2011 BROADCAST ON 
 
 9. The NSG is the umbrella event of the National Inter-School Championships for the 29 sports on the Singapore Schools Sports Council's Sporting Calendar. It is one of the highlight events for Singapore's school athletes. Approximately 34,000 student athletes from 183 schools will be competing for 174 national championship titles. About 2,600 sports officials, 1,800 school officials, 29 organisers and 16 sports advisors will also be involved.
 
--End-
+---
 
 **About the Singapore Sports Council**
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About the Ministry of Education, Singapore**
 <br>
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges.
 
-For more information, please visit [www.moe.gov.sg](www.moe.gov.sg) or connect with us on:
-<br>
-Facebook : [http://www.facebook.com/moesingapore](http://www.facebook.com/moesingapore)
-<br>
-Twitter :[ http://twitter.com/MOEsg]( http://twitter.com/MOEsg)
-<br>
+For more information, please visit [www.moe.gov.sg](www.moe.gov.sg) or connect with us on:<br>
+Facebook : [http://www.facebook.com/moesingapore](http://www.facebook.com/moesingapore)<br>
+Twitter :[ http://twitter.com/MOEsg]( http://twitter.com/MOEsg)<br>
 YouTube : [http://www.youtube.com/MOESpore](http://www.youtube.com/MOESpore)
 
 About Singapore Schools Sports Council
@@ -77,7 +67,8 @@ StarHub is Singapore's fully-integrated info-communication company, offering a f
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MCSI Singapore Free Index.
 
 **For media enquiries, please contact:**
-<br>Jemuel Fu
+
+Jemuel Fu
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
