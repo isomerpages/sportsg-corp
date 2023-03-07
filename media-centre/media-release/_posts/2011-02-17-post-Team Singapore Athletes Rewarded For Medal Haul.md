@@ -10,7 +10,7 @@ image: ""
 
 TEAM SINGAPORE ATHLETES REWARDED FOR MEDAL HAUL
 DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore Athletes in Preparation for SEA Games 2011 and London 2012
-Singapore, 17 February 2011 - In a joint ceremony for both the Commonwealth Games 2010 and Asian Games 2010 contingents, 43 Team Singapore medallists were presented with cash awards totalling S$4.22 million at the Multi-Million Dollar Award Programme (MAP) dinner at the Grand Copthorne Waterfront Hotel this evening.
+**Singapore, 17 February 2011** - In a joint ceremony for both the Commonwealth Games 2010 and Asian Games 2010 contingents, 43 Team Singapore medallists were presented with cash awards totalling S$4.22 million at the Multi-Million Dollar Award Programme (MAP) dinner at the Grand Copthorne Waterfront Hotel this evening.
 
 2 Deputy Prime Minister and Minister for Defence Teo Chee Hean, who is also the President of the Singapore National Olympic Council (SNOC), along with Minister for Community Development, Youth and Sports Dr Vivian Balakrishnan presented the awards on behalf of the Tote Board and the SNOC.
 
