@@ -31,12 +31,12 @@ On the digital-front, the online game ‘NILA’s Quest’ has been collecting d
 
 Beyond these initiatives, other community events and opportunities for the community to come together include:
 
-• The Songs of the Games contest  
-• ActiveSG SEA Games carnivals  
-• Carnivals at Kallang and Marina Bay during the SEA Games period  
-• Nila Run, Swim, Aquathlon for members of the public to experience being a SEA Games athlete
+* The Songs of the Games contest  
+* ActiveSG SEA Games carnivals  
+* Carnivals at Kallang and Marina Bay during the SEA Games period  
+* Nila Run, Swim, Aquathlon for members of the public to experience being a SEA Games athlete
 
-These community efforts will culminate in a Torch Parade on 4th June where the SEA Games flame will be officially lit and paraded around the Marina Bay. The flame will make the final journey to the cauldron on 5th June, to be lit during the Opening Ceremony of the Games.
+These community efforts will culminate in a Torch Parade on 4 June where the SEA Games flame will be officially lit and paraded around the Marina Bay. The flame will make the final journey to the cauldron on 5 June, to be lit during the Opening Ceremony of the Games.
 
 **A spectacular beginning to the Games**
 
@@ -52,6 +52,6 @@ The Torch Relay to lighting the cauldron will involve athletes who have either c
 
 Says COL Lim, “As one of the highlights of the Opening Ceremony, the 28th SEA Games flame will be transported across the Kallang Basin to the National Stadium. The Games Torch will be brought into the National Stadium by a number of torchbearers, and all spectators will be able to see and cheer on our torchbearers as it makes its way around the stadium.”
 
-“The torchbearers have been selected from a variety of sports to symbolize how sports have grown in both breadth and depth in Singapore. The idea behind the inter-generational pair of athletes is to connote the nurturing and passing down of sporting values from one generation to another.” he added.
+“The torchbearers have been selected from a variety of sports to symbolize how sports have grown in both breadth and depth in Singapore. The idea behind the inter-generational pair of athletes is to connote the nurturing and passing down of sporting values from one generation to another,” he added.
 
-End
+END
