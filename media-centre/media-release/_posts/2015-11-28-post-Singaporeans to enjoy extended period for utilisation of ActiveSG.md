@@ -9,7 +9,7 @@ image: ""
 ### **Singaporeans to enjoy extended period for utilisation of ActiveSG**
 All Singaporeans and Permanent Residents (PRs) will now have more time and opportunities to utilise the ActiveSG $100 that they received in April last year, following an extension of validity as announced today.  
   
-With the launch of the national movement for sport last year, Singaporeans and PRs who signed up for a membership were given $100 worth of credits to book sport facilities or sign up for programmes at all ActiveSG Sports Centres islandwide. Originally, members were given up to 31 December of the following year to utilise their ActiveSG$[1].  
+With the launch of the national movement for sport last year, Singaporeans and PRs who signed up for a membership were given $100 worth of credits to book sport facilities or sign up for programmes at all ActiveSG Sports Centres islandwide. Originally, members were given up to 31 December of the following year to utilise their ActiveSG $[1].  
   
 With the extension, ActiveSG members will benefit as follows:  
   
