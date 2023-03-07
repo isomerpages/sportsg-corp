@@ -31,7 +31,7 @@ SINGAPORE SPORTS INSTITUTE GETS ITS FIRST EXECUTIVE DIRECTOR
 
 -End-
 
-Annex A: Annex A: Picture of Associate Professor Fabian Lim Chin Leong
+Annex A: Picture of Associate Professor Fabian Lim Chin Leong
 ![Associate Professor Fabian Lim Chin Leong.JPG [211 Kb]](/images/Media%20Centre/Media%20Release/2011/Apr/Associate%20Professor%20Fabian%20Lim%20Chin%20LeongJPG.jpeg)
 
 **About the Singapore Sports Council**
