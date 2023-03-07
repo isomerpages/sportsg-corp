@@ -31,7 +31,7 @@ Coaches interested in Para sport can find out more on upcoming courses in early 
 **Annex A: Para sport programmes**
 
 **IPC Academy Educator Programme**
-
+<br>
 Date: 19 to 21 November 2016 <br> 
 Time: 0900 to 1800 daily <br> 
 No of pax: 5  <br>
@@ -40,7 +40,7 @@ Target: Singapore coaches
 The IPC Academy Educator course, held 19-21 November, will train five Singaporean coaches on how to become Educators and expand their ability to train not just their athletes, but other coaches in Para sports. The course will be led by Simon Jones from the World Academy of Sport, an education partner of the IPC.
 
 **IPC Introduction to Para Sports Coaching Programme**
-
+<br>
 Date: 22 to 23 November 2016  <br>
 Time: 0900 to 1800 daily  <br>
 No of pax: Up to 50pax (two sessions, 25 pax each)  <br>
