@@ -26,5 +26,3 @@ Since 2014, through its corporate responsibility programmes, Deloitte has been s
 Deloitte is also the charity partner of the “Back Up the 8th ASEAN Para Games 2015” campaign. This campaign is currently on-going and will end on 13 July 2015. Through this campaign, Deloitte will donate up to SGD50,000 for schools and organisations that support persons with disabilities.
 
 Deloitte Singapore is also represented as part of a specially-convened Committee on Disability Sports which is chaired by Mr Sam Tan, Minister of State, Prime Minister’s Office & Ministry of Culture, Community and Youth. The Committee, which was convened to look at how Singapore can build a lasting legacy for disability sports beyond the Games, will provide recommendations specifically on ways to raise awareness of and participation in sport by persons with disabilities and engender greater inclusiveness and understanding of persons with disabilities through disability sports.
-
-END
