@@ -44,32 +44,30 @@ statics0
 
 Annex A: Bus schedule for Pre-race Chartered Bus Service
 | From | To | Period |
-| -------- | -------- | -------- |
+| -------- | ---------- | ---------- |
 | All 17 Pick-Up Locations | Orchard Boulevard, by Orchard Turn (Full Marathon) | 3:00 AM <br>3:15 AM <br>3:30 AM
 | All 17 Pick-Up Locations | Harbourfront Place, by Harbourfront Centre <br>(Half Marathon) | 4:45 AM <br>5:00 AM <br>5:15 AM
 | All 17 Pick-Up Locations | City Hall Area (10km Run) | 6:00 AM <br>6:30 AM <br>7:00 AM
 
- 
-
 Annex B: Pick-up Locations for Chartered Bus Service
-Bedok Stadium
-Bishan Stadium
-Bukit Gombak Stadium
-Choa Chu Kang Stadium
-Clementi Stadium
-Delta Sports Complex
-Hougang Stadium
-Jurong East Stadium
-Jurong West Sports Complex
-Queenstown Stadium
-Sengkang SRC
-Serangoon Stadium
-Tampines Stadium
-Toa Payoh Stadium
-Woodlands Stadium
-Yio Chu Kang Stadium
-Yishun Stadium
-statics0
+<br>Bedok Stadium
+<br>Bishan Stadium
+<br>Bukit Gombak Stadium
+<br>Choa Chu Kang Stadium
+<br>Clementi Stadium
+<br>Delta Sports Complex
+<br>Hougang Stadium
+<br>Jurong East Stadium
+<br>Jurong West Sports Complex
+<br>Queenstown Stadium
+<br>Sengkang SRC
+<br>Serangoon Stadium
+<br>Tampines Stadium
+<br>Toa Payoh Stadium
+<br>Woodlands Stadium
+<br>Yio Chu Kang Stadium
+<br>Yishun Stadium
+
 Annex C: Pick-up and Drop-off Locations for Post-race Complimentary Shuttle Bus Service
 
 Annex D: Baggage Deposit and Collection Locations and Timings
