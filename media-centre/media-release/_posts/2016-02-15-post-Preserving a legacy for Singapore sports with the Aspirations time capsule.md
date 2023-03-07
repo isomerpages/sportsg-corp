@@ -13,7 +13,7 @@ Says Mr Richard Seow, Chairman, Sport Singapore, “The time capsule reflects ou
 
 ![](/images/Media%20Centre/Media%20Release/2016/February/Donors%20and%20sports%20pioneers%20at%20time%20capsule%20unveiling%20event%20800x600.jpeg)
 
-**Items that tell the story of our hopes and dreams**
+##### **Items that tell the story of our hopes and dreams**
 
 Previously symbolically sealed by Prime Minister Lee Hsien Loong to commemorate the official opening of the Singapore Sports Hub at "Youth Celebrate!" in July 2015, the selected items are specially chosen to reflect the aspirations of Youth and sport in Singapore – Sports excellence to inspire the next generation, providing opportunities through sport that will bond the community while encouraging them to stay active, and a caring and cohesive society where everyone will have the opportunity to participate in the sport of their choice.  
   
