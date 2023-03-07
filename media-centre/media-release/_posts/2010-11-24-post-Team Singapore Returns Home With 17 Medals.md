@@ -68,15 +68,9 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | | | | | | 17
 
 Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010
- 
-
-Name of Athlete(s)
-
-Event
-
-Remarks
-
-AQUATICS - SWIMMING: 14 PBs, Broke National Record in 2 events
+| Name of Athlete(s) | Event | Remarks |
+| -------- | -------- | -------- |
+| AQUATICS - SWIMMING: 14 PBs, Broke National Record in 2 events
 
 Andrew LIM Xin En
 
