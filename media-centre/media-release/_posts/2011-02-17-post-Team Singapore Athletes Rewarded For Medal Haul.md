@@ -77,16 +77,7 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | Shooting | Men's 10m Air Pistol (Pairs) | GAI Bin <br LIM Swee Hon  | Bronze  | $30,000.00
 | Shooting | Men's 25m Centre Fire Pistol (Pairs) | GAI Bin <br>POH Lip Meng | Bronze   | $30,000.00
 | Table Tennis | Men's Team | CAI Xiaoli  <br>GAO Ning <br>MA Liang <br>PANG Xue Jie <br>YANG Zi | Gold | $120,000.00
-
-
-
-
-
-
-
-
-
-Women's Team
+| Table Tennis |Women's Team
 
 FENG Tianwei
 
