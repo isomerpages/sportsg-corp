@@ -40,16 +40,15 @@ Full Marathon Results - Men's Individual
 | -------- | -------- | -------- | -------- |
 | 1     | Kenneth Mburu Mungara     | Kenya   | 02:14.06     |
 | 2 | Thomas Cherogony | Kenya | 02:14.32
-| 3 | Vincent Krop
-
-Kenya
-
-02:14:57
-
- 
+| 3 | Vincent Kro | Kenya | 02:14:57
 
 Full Marathon Results - Women's Individual
+| No. | Name | Country | Finishing Time |
+| -------- | -------- | -------- | -------- |
 
+| 1     | Kenneth Mburu Mungara     | Kenya   | 02:14.06     |
+
+| 2 | Thomas Cherogony | Kenya | 02:14.32
 No.
 
 Name
