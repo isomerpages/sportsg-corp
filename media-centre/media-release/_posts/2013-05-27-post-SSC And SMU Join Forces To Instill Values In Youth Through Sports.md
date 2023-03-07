@@ -6,14 +6,16 @@ layout: post
 description: ""
 image: ""
 ---
-## **SSC And SMU Join Forces To Instill Values In Youth Through Sports**
+### **SSC And SMU Join Forces To Instill Values In Youth Through Sports**
+
 ![](/images/Media%20Centre/Media%20Release/2013/May/GFL3.jpeg)
+
 **Singapore, 27 May 2013** - Using the power of sport to teach youth important life skills and to develop their character and leadership capabilities, the Singapore Sports Council (SSC) and Singapore Management University (SMU) today launched the 'Game For Life' Toolkit and LifeLessons respectively at the inaugural Leadership Symposium 2013.
 ![](/images/Media%20Centre/Media%20Release/2013/May/SSCANDSMUJOINFORCESTOINSTILLVALUESINYOUTHTHROUGHSPORTSMainPar0061Imagegif.gif)
 
 2. Based on the 'Future Ready through Sport' strategic thrust of the Vision 2030 recommendation, the Leadership Symposium 2013 serves as a platform to promote the development of character and leadership skills through sport.
 
-**'Game For Life' Toolkit**
+##### **'Game For Life' Toolkit**
 
 3. The 'Game For Life' Toolkit comprises the 'character and leadership through sport' Framework and a 'Game For Life: 25 Journeys' book, which chronicles the transformation of 25 ordinary lives made extraordinary through sports.
 
@@ -50,9 +52,9 @@ LifeLessons to develop life-long skills and attitudes
 
 19. The programme will be opened to the first year students (incoming cohort) in year 2013 (AY2013/2014) and rolled-out in phases.
 
--END-
+---
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 Bridgitte Lee
 <br>Senior Executive, Media Relations
@@ -67,9 +69,6 @@ Kong Hwee Ting
 <br>Email: [htkong@smu.edu.sg](htkong@smu.edu.sg)
 
 **Enclosures**
-
-**Annex A: 'Game For Life' Toolkit**
-<br>**Annex B: LifeLessons**
 
 **Annex A: 'Game For Life' Toolkit**
 <br>
@@ -176,9 +175,9 @@ A descriptive assessment in the form of active participation, demonstration of r
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 **About the Singapore Management University**
