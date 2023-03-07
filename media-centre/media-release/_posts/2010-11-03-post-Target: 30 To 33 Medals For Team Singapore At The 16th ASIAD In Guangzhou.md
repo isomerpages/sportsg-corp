@@ -333,33 +333,8 @@ Athletes
 | 172.  | Rugby| Wang Shao-Ing| 王邵颖| 3| F| √   | Team (W)
 | 173. | Rugby| Leung Wai-Mun| 梁惠雯| 31| F| √  | Team (W)
 | 174.  | Rugby | Angelina Liu Huiyun | 刘慧芸 | 28 | F | √    | Team (W)
-| 175.        
-
-Humphries Priscilla Abelina
-
-NA
-
-29
-
-F
-
-√   
-
-Team (W)
-
-176.        
-
-Sophie Ngin Gollifer
-
-NA
-
-21
-
-F
-
-√   
-
-Team (W)
+| 175.  | Rugby | Humphries Priscilla Abelina | NA | 29 | F | √    | Team (W)
+| 176.   | Rugby | Sophie Ngin Gollifer | NA | 21 | F | √    | Team (W)
 
 177.        
 
