@@ -63,9 +63,9 @@ The Singapore Schools Sports Council (SSSC) started in 1959 and comes under the 
 To find out more, visit our website www.schoolsports.sg
 
 Join School sports on Facebook at: http://www.facebook.com/pages/Singapore-Schools-Sports-Council/152031807285
-statics0
+
 About StarHub
-statics0
+<br>
 StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services. Over Singapore?s fibre-based Next Generation Nationwide Broadband Network, StarHub offers a broad range of home and business broadband plans along with a host of advanced media-rich value-added services.
 
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MCSI Singapore Free Index.
