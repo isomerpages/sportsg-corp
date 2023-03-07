@@ -33,7 +33,7 @@ image: ""
 
 11. Venue partner Velocity will also be decorating its sports themed mall with larger than life images of Team Singapore athletes. They will also be hosting a meet and greet session with our nation's paddlers Feng Tianwei, Wang Yuegu, Li Jiawei, Gao Ning, Yang Zi and Zhan Jian on 2 June 2012 from 2:30pm - 4:00pm.
 
-30 Days to Win Tickets to London
+##### **30 Days to Win Tickets to London**
 
 12. The SSC is also giving away three 'I Love Team Singapore' travel packages for two to London. To win the travel package, the public has 30 days to submit their well-wishes for their favourite athletes. The contest will close on 30th June 2012.
 
@@ -41,10 +41,10 @@ image: ""
 
 14. The 2012 Olympic Games will be held in London, from 27 July to 12 August 2012 and the 2012 Paralympic Games will take place between 29 August and 9 September 2012.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Lin Kuek
 <br>Hill+Knowlton Strategies
 <br>Email: [lin.kuek@hkstrategies.com](lin.kuek@hkstrategies.com)
