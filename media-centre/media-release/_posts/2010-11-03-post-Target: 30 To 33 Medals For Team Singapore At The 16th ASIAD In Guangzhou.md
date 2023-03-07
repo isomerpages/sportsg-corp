@@ -296,143 +296,16 @@ Athletes
 | 134.| Football  | Hariss Harun| NA| 19| M| | Team(M)
 | 135.| Football  | Shahdan Sulaiman| NA| 22| M| √   | Team (M)
 | 136. | Football | Syafiq Zainal| NA| 19| M| √   | Team (M)
-| 137.  | Football   | Fazly Hassan
-
-NA
-
-22
-
-M
-
-√   
-
-Team (M)
-
-138.        
-
-Nazrul Ahmad Nazari
-
-NA
-
-19
-
-M
-
-√   
-
-Team (M)
-
-139.        
-
-Zulfahmi Arifin
-
-NA
-
-19
-
-M
-
-√   
-
-Team (M)
-
-140.        
-
-Izzdin Shafiq
-
-NA
-
-29
-
-M
-
-√   
-
-Team (M)
-
-141.        
-
-Shahril Ishak
-
-NA
-
-26
-
-M
-
- 
-
-Team (M)
-
-142.        
-
-Firdaus Kasman
-
-NA
-
-22
-
-M
-
-√   
-
-Team (M)
-
-143.        
-
-Erwan Gunawan
-
-NA
-
-23
-
-M
-
-√   
-
-Team (M)
-
-144.        
-
-Eugene Luo Zhenlun
-
-罗振伦
-
-19
-
-M
-
-√   
-
-Team (M)
-
-145.        
-
-Khalili D'cruz
-
-NA
-
-19
-
-M
-
-√   
-
-Team (M)
-
-146.        
-
-Rizawan Abdullah
-
-NA
-
-23
-
-M
-
-√   
-
-Team (M)
+| 137.  | Football   | Fazly Hassan | NA| 22| M| √   | Team (M)
+| 138. | Football   | Nazrul Ahmad Nazari | NA| 19| M| √   | Team (M)
+| 139. | Football | Zulfahmi Arifin| NA| 19| M| √   | Team (M)
+| 140.  | Football | Izzdin Shafiq | NA| 29| M| √   | Team (M)
+| 141.  | Football  | Shahril Ishak | NA  | 26  | M |  | Team (M)
+| 142.  | Football  | Firdaus Kasman | NA | 22 | M | √ | Team (M)
+| 143. | Football  | Erwan Gunawan| NA| 23| M| √   | Team (M)
+| 144. | Football  | Eugene Luo Zhenlun| 罗振伦| 19| M| √  | Team (M)
+| 145. | Football | Khalili D'cruz| NA| 19| M| √   | Team (M)
+| 146. | Football | Rizawan Abdullah | NA | 23 | M |√    |Team (M)
 
 147.        
 
