@@ -6,7 +6,7 @@ third_nav_title: Anti Doping Singapore
 ---
 **Q1: How do I check if my medication is safe for use in sport**?
 <br>
-A1: Athletes can check all medications purchased in Singapore using the ADS [CHECKDRUGS](/anti-doping-singapore/about/about-ads/) Database.
+A1: A1: Athletes can check all medications purchased in Singapore using the ADS Check Medications Database. For medications purchased overseas, please refer to the Global Drug Reference Online [GlobaDRO](https://www.globaldro.com/Home). 
 
 **Q2: If I need to use medication or methods of treatment that are prohibited, how do I apply for a Therapeutic Use Exemption (TUE)?**
 <br>
