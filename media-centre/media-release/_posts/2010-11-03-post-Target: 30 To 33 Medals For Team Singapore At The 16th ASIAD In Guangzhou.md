@@ -195,19 +195,7 @@ Athletes
 | 33.  | Athletics | Calvin Kang Li Loong | |江利龙 | 20 |M |√    |4 X 100m Relay (M)
 |34. |Athletics | Gary Yeo Foo Ee  | 杨富益  | 24  | M  | √   | 4 X 100m Relay (M)
 | 35.  | Athletics | Lee Cheng Wei  | 李成伟  | 23  | M  | √     | 4 X 100m Relay (M)
-| 36. | Muhammad Amirudin Bin Jamal
-
-NA
-
-23
-
-M
-
-√   
-
-100m (M)
-
-4 X 100m Relay (M)
+| 36. | Athletics | Muhammad Amirudin Bin Jamal  | NA  | 23  | M  | √    | 100m (M)  | 4 X 100m Relay (M)
 
 37.   
 
