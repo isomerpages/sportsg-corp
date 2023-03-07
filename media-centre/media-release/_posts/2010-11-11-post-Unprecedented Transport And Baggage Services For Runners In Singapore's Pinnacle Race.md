@@ -79,14 +79,7 @@ Annex D: Baggage Deposit and Collection Locations and Timings
 | Full Marathon   |  Angullia Carpark (Behind Wheelock Place) Full Marathon |3.00am - 5.00am  |F1 Pit Building  |8.30am -2.00pm
 | Ekiden Race  | Angullia Carpark (Behind Wheelock Place) Full Marathon |3.00am - 5.00am  |F1 Pit Building  |8.30am -2.00pm
 | Half Marathon | Seah Im Carpark <br>(Next to Seah Im Food Centre)  | 4.30am - 6.30am |F1 Pit Building  |8.30am -2.00pm
-
-10km
-
-War Memorial Park
-
-5.30am - 7.45am
-
-War Memorial Park
+| 10km | War Memorial Park | 5.30am - 7.45am | War Memorial Park
 
 **About the Singapore Sports Council**
 <br>
