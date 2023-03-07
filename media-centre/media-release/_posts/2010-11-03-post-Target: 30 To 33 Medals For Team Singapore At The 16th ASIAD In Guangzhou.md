@@ -271,83 +271,12 @@ Athletes
 | 109.  | Dragon Boat  | Ng Qihui| 呉启慧| 26| F| √   | Team (Women)
 | 110. | Nurul Hakin Rohaizat| NA| 22| F| √  | Team (Women)
 | 111.| Dragon Boat  | Pamela Ee Pei Shan |  叶佩姍 |  20 |  F |  √ |  Team (Women)
- | 112. |  Dragon Boat  |       
-
-Samantha Lau Khing Hui
-
-刘锦慧
-
-35
-
-F
-
-√   
-
-Team (Women)
-
-113.        
-
-Samantha Tham Peiwen
-
-谭佩雯
-
-19
-
-F
-
-√   
-
-Team (Women)
-
-114.        
-
-Sarah Ching Siew Han
-
-莊秀菡
-
-23
-
-F
-
-√   
-
-Team (Women)
-
-115.        
-
-Seah Beng Choo
-
-谢明珠
-
-46
-
-F
-
-√   
-
-Team (Women)
-
-116.        
-
-Siti Norwani Binte Mohamed Hussain
-
-NA
-
-29
-
-F
-
-√   
-
-Team (Women)
-
-117.        
-
-Tan Si Min
-
-陈思敏
-
-20
+ | 112. |  Dragon Boat  | Samantha Lau Khing Hui| 刘锦慧| 35| F| √  | Team (Women)
+| 113.   | Dragon Boat  | Samantha Tham Peiwen| 谭佩雯| 19| F| √  | Team (Women)
+| 114.  | Dragon Boat  | Sarah Ching Siew Han | 莊秀菡 | 23| F| √   | Team (Women)
+| 115.   | Dragon Boat  | Seah Beng Choo| 谢明珠| 46| F| √   | Team (Women)
+| 116. | Dragon Boat  | Siti Norwani Binte Mohamed Hussainain| NA| 29| F| √   | Team (Women)
+| 117.  | Dragon Boat  | Tan Si Min| 陈思敏| 20
 
 F
 
