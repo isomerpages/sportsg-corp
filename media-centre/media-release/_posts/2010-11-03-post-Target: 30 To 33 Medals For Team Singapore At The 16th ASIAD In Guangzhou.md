@@ -447,153 +447,29 @@ Team Officials
 | 35.| Fencing| Ryan Quek Wee Lun| Team Manager
 | 36. | Fencing| Khorvat Oleg| Coach
 | 37. | Fencing| Bobok Viacheslav| Coach
-| 38.| Football| Eugene Loo Kai York
-
-Team Manager
-
-39.   
-
-V Sundram Moorthy
-
-Coach
-
-40.   
-
-Pavkovic Slobodan
-
-Coach
-
-41.   
-
-Pathmanathan Thambiayah
-
-Coach
-
-42.   
-
-Yeo Hwee Koon
-
-Physiotherapist
-
-43.   
-
-Omar Mohamed
-
-Team official
-
-44.   
-
-Golf
-
-Roko Kho Kim Tat
-
-Team Manager
-
-45.   
-
-Kim Walter Raymond Baldwin
-
-Coach
-
-46.   
-
-Gymnastics
-
-Yuan Kexia
-
-Team Manager/Coach
-
-47.   
-
-Lin Zhen Qiu
-
-Coach
-
-48.   
-
-Zhao Qun
-
-Coach
-
-49.   
-
-Hockey
-
-How Eng Choon
-
-Team Manager
-
-50.   
-
-Andrew Meredith
-
-Coach
-
-51.   
-
-Juanma Mas Ortiz
-
-Coach
-
-52.   
-
-Mohd Ali Abdul Rahman
-
-Coach
-
-53.   
-
-Ronald Stein
-
-Video Analyst
-
-54.   
-
-Rowing
-
-Alastair Isherwood
-
-Coach
-
-55.   
-
-Rugby
-
-Kristy Teh Chia Hwee
-
-Team Manager
-
-56.   
-
-Etheredge Simon Peter
-
-Coach
-
-57.   
-
-Gene Tong Tzee Meng
-
-Coach
-
-58.   
-
-Sailing
-
-Mark Robinson
-
-Team Manager
-
-59.   
-
-Serena Wong
-
-Asst. Team Manager
-
-60.   
-
-Fernando Javier Alegre Arbulu
-
-Coach (Optimist)
+| 38.| Football | Eugene Loo Kai York | Team Manager
+| 39.| Football | V Sundram Moorthy| Coach
+| 40. | Football | Pavkovic Slobodan| Coach
+| 42.| Football | Yeo Hwee Koon| Physiotherapist
+| 41.  | Football | Pathmanathan Thambiayah| Coach
+| 43. | Football | Omar Mohamed| Team official
+| 44.   | Golf| Roko Kho Kim Tat| Team Manager
+| 45.| Golf| Kim Walter Raymond Baldwin| Coach
+| 46.| Gymnastics| Yuan Kexia| Team Manager/Coach
+| 47. | Gymnastics| Lin Zhen Qiu| Coach
+| 48. | Gymnastics| Zhao Qun| Coach
+| 49.  | Hockey| How Eng Choon| Team Manager
+| 50.  | Hockey| Andrew Meredith| Coach
+| 51.| Hockey| Juanma Mas Ortiz| Coach
+| 52. | Hockey| Mohd Ali Abdul Rahman| Coach
+| 53.   | Hockey| Ronald Stein| Video Analyst
+| 54. | Rowing| Alastair Isherwood| Coach
+| 55.| Rugby| Kristy Teh Chia Hwee| Team Manager
+| 56. | Rugby| Etheredge Simon Peter| Coach
+| 57. | Rugby| Gene Tong Tzee Meng| Coach
+| 58.  | Sailing| Mark Robinson| Team Manager
+| 59.  | Serena Wong| Asst. Team Manager
+| 60. | Fernando Javier Alegre Arbulu| Coach (Optimist)
 
 61.   
 
