@@ -76,42 +76,26 @@ Competitive Segment
 <br>Primary School - 1st prize S$800, 2nd prize S$500, 3rd prize S$300
 
 2.    Group Stunts
-
-All Female
-
-Mixed
+<br>All Female
+<br>Mixed
 
 3.    Partner Stunts
 
- 
-
 Freestyle Segment
-
-1st prize S$800, 2nd prize S$500, 3rd prize S$300
-
-1.    Open
-
-2.    Secondary School
-
- 
+<br>1st prize S$800, 2nd prize S$500, 3rd prize S$300
+1. Open
+2. Secondary School
 
 JUDGES
 
- 
-
 Judges representing International Federation of Cheerleading:
-
-1.    Ms Ayako Kitano (Japan, Head Judge)
-
-2.    Ms Yuko Minegishi (Japan)
-
-3.    Mr Rapeepong Upama (Thailand)
-
-4.    Mr Oki Trihartomo (Indonesia)
-
-5.    Mr Ami Sulistyo (Indonesia)
-
-6.    Mr Ajjie Mendelebar (Philippines)
+<br>
+1. Ms Ayako Kitano (Japan, Head Judge)
+2.  Ms Yuko Minegishi (Japan)
+3.  Mr Rapeepong Upama (Thailand)
+4. Mr Oki Trihartomo (Indonesia)
+5.  Mr Ami Sulistyo (Indonesia)
+6.  Mr Ajjie Mendelebar (Philippines)
 
  
 
