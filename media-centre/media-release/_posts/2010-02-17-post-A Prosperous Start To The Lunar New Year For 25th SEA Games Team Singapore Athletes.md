@@ -154,7 +154,7 @@ MAP AWARDS RECIPIENTS
 | 8 | Wushu | Khor Poh Chin |Women's Duilian with Weapon | 1 | $15,000 | Team Event |
 ||| Tao Yijun |
 ||| Tay Yu Juan |
-||| Total Gold Medals / MAP Awards | 33 | $455,000 |
+||| Total Gold Medals / MAP Awards | | 33 | $455,000 |
 
 LIST OF APPRECIATION PLAQUE RECIPIENTS
 <br>
