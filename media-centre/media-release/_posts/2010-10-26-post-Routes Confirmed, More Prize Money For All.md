@@ -48,6 +48,7 @@ The Singapore Sports Council (SSC), the organiser of the Standard Chartered Mara
 
 [ FACT SHEET-Standard Chartered Marathon Singapore 2010 ](/files/Media%20Centre/Media%20Release/2010/October/SCMS%202010%20Event%20Fact%20Sheet%2026%20Oct%2010pdf.pdf) [126kb]
 
+END
 
 **About the Singapore Sports Council**
 
