@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**A Prosperous Start To The Lunar New Year For 25th SEA Games Team Singapore Athletes At The Map Awards**
+### **A Prosperous Start To The Lunar New Year For 25th SEA Games Team Singapore Athletes At The Map Awards**
 
 **Singapore, 17 February 2010** - Team Singapore's highly successful 25th Southeast Asian (SEA) Games contingent gathered tonight at the Fairmont Singapore for a Chinese New Year-inspired Multi-Million Dollar Award Programme (MAP) Awards and Appreciation Dinner to celebrate their exceptional performance at the Games. The contingent returned from the 25th SEA Games in Vientiane, Laos, last December with an impressive medal haul of 98 medals (33 Gold, 30 Silver and 35 Bronze) despite the nation sending in its smallest contingent for the SEA Games.
 
