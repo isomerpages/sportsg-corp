@@ -313,35 +313,9 @@ Athletes
 |152. |Gymnastics  | Gabriel Gan Zi Jie  | 颜子杰  | 24  | M  | √     | Men's Artistic Gymnastics Individual
 |153.  | Gymnastics  | Krystal Khoo Oon Hui | 邱思惠 |17 | F | √    | Women's Artistic Gymnastics Individual
 |154.  | Gymnastics  | Lim Heem Wei| 林欣玮 | 21 | F | Women's Artistic Gymnastics Individual
-| 155.    | Hockey
-
-Robin Ng Wan Chiang
-
-吴文强
-
-35
-
-M
-
- 
-
-Team (M)
-
-156.        
-
-Zulkarnain Bin Salim
-
-NA
-
-24
-
-M
-
-√   
-
-Team (M)
-
-157.        
+| 155.    | Hockey | Robin Ng Wan Chiang | 吴文强 | 35 | M | Team (M)
+| 156.  | Hockey | Zulkarnain Bin Salim | NA | 24 | M | √  | Team (M)
+| 157.        
 
 Kelvin Lim Yong Sheng
 
