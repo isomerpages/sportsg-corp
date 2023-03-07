@@ -316,129 +316,15 @@ Athletes
 | 155.    | Hockey | Robin Ng Wan Chiang | 吴文强 | 35 | M || Team (M)
 | 156.  | Hockey | Zulkarnain Bin Salim | NA | 24 | M | √  | Team (M)
 | 157.  | Hockey | Kelvin Lim Yong Sheng |林永声 |26 |M |√    |Team (M)
-|158.  |Hockey | Saifulnizam Bin Mohd Seftu
-
-NA
-
-25
-
-M
-
-√   
-
-Team (M)
-
-159.        
-
-Mohd Farhan Bin Mohd Suhaili
-
-NA
-
-23
-
-M
-
-√   
-
-Team (M)
-
-160.        
-
-Mohd Sabri Bin Yuhari
-
-NA
-
-20
-
-M
-
-√   
-
-Team (M)
-
-161.        
-
-Tan Yi Ru
-
-陈奕偄
-
-20
-
-M
-
-√   
-
-Team (M)
-
-162.        
-
-Harjeet Singh
-
-NA
-
-29
-
-M
-
-√   
-
-Team (M)
-
-163.        
-
-Hazmi Bin Mohd Ibrahim
-
-NA
-
-24
-
-M
-
-√   
-
-Team (M)
-
-164.        
-
-Mohd Ishak Bin Ismail
-
-NA
-
-27
-
-M
-
-√   
-
-Team (M)
-
-165.        
-
-Prashan s/o Anbalagan
-
-NA
-
-18
-
-M
-
-√   
-
-Team (M)
-
-166.        
-
-Muhd Baqir Bin Asali
-
-NA
-
-18
-
-M
-
-√   
-
-Team (M)
+|158.  | Hockey | Saifulnizam Bin Mohd Seftu  | NA  | 25  | M  | √     | Team (M)
+| 159.  | Mohd Farhan Bin Mohd Suhaili  | NA  | 23  | M  | √     | Team (M)
+| 160. | Hockey | Mohd Sabri Bin Yuhari | NA | 20 | M | √   | Team (M)
+| 161. | Hockey | Tan Yi Ru | 陈奕偄 | 20 | M | √    | Team (M)
+| 162. | Hockey | Harjeet Singh | NA | 29 | M | √   | Team (M)
+| 163. | Hockey | Hazmi Bin Mohd Ibrahim | NA | 24 | M | √    | Team (M)
+| 164.   | Hockey | Mohd Ishak Bin Ismail | NA | 27 | M  | √     | Team (M)
+| 165.  | Hockey |  Prashan s/o Anbalagan | NA | 18 | M | √    | Team (M)
+| 166.  | Hockey | Muhd Baqir Bin Asali | NA | 18 | M | √    | Team (M)
 
 167.        
 
