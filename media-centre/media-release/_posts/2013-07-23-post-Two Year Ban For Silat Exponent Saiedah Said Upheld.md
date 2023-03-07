@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Two-Year Ban For Silat Exponent Saiedah Said Upheld**
+### **Two-Year Ban For Silat Exponent Saiedah Said Upheld**
 
 **Singapore, 23 July 2013** - Silat exponent Saiedah Bte Said has had her two-year suspension from the sport upheld following her appeals hearing last Friday 19 July.
 
@@ -24,10 +24,10 @@ image: ""
 
 8. Under the ADS Anti-Doping rules, results management and appeals process, which are consistent with the World Anti-Doping Agency (WADA) Code, Singapore Silat Federation is required to enforce the sanctions on Saiedah immediately.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>Eric Ong
+Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: +65 6500 5014
@@ -38,9 +38,9 @@ image: ""
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg.
-<br>
+
 Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
-<br>
+
 For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 **About Anti-Doping Singapore**
