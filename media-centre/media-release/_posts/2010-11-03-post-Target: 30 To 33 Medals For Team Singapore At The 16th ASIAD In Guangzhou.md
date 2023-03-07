@@ -422,8 +422,8 @@ Team Officials
 | 10. | Aquatics - Waterpolo| Lee Sai Meng| Coach
 | 11. | Aquatics - Waterpolo| Marcus Ng Eu Liem | Coach
 | 12. | Athletics| Melvin Tan Kim Boon | Team Manager
-| 13. | James Wong Tuck Yim| Coach
-| 14. | David Yeo Chee Ping| Coach
+| 13. | Athletics|James Wong Tuck Yim| Coach
+| 14. | Athletics|David Yeo Chee Ping| Coach
 | 15.  | Badminton| Eng Hian| Team Manager/ Coach
 | 16. | Bowling| Melvin Lim| Team Manager
 | 17.   
