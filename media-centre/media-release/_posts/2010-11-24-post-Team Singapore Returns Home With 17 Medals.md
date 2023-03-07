@@ -71,34 +71,11 @@ Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 20
 | Name of Athlete(s) | Event | Remarks |
 | -------- | -------- | -------- |
 | AQUATICS - SWIMMING: 14 PBs, Broke National Record in 2 events
-
-Andrew LIM Xin En
-
-Men's 50m Breaststroke, Heats
-
-PB 0:28.93 (Previous PB 0:29.09)
-
-Andrew LIM Xin En
-
-Men's 100m Breaststroke, Heats
-
-PB 1:05.19 (Previous PB 1:05.22)
-
-Clement LIM Yong En
-
-Men's 200m Freestyle, Heats
-
-PB 1:51.91 (Previous PB 1:52.17)
-
-Danny YEO Kai Quan
-
-Men's 200m Freestyle, Heats
-
-PB 1:51.70 (Previous PB 1:52.01)
-
-Danny YEO Kai Quan
-
-Men's 200m Freestyle, Final
+| Men's 50m Breaststroke, Heats | PB 0:28.93 (Previous PB 0:29.09) | Andrew LIM Xin En
+| Men's 100m Breaststroke, Heats | PB 1:05.19 (Previous PB 1:05.22) | Clement LIM Yong En
+| Men's 200m Freestyle, Heats | PB 1:51.91 (Previous PB 1:52.17) | Danny YEO Kai Quan
+| Men's 200m Freestyle, Heats | PB 1:51.70 (Previous PB 1:52.01)| Danny YEO Kai Quan
+| Men's 200m Freestyle, Final
 
 PB 1:51.07 (Previous PB 1:51.70, set during the heats)
 
