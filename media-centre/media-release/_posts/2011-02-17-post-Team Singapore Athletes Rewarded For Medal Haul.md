@@ -47,20 +47,20 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 Individual Events
 
 
-| Column 1 | Column 2 | Column 3 | Column 3 | Column 3 |
+| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     | Text     |
 
 
-SPORT
 
-EVENT
 
-NAME(S)
 
-MEDAL
 
-AMOUNT (SGD)
+
+
+
+
+
 
 Gymnastics
 
