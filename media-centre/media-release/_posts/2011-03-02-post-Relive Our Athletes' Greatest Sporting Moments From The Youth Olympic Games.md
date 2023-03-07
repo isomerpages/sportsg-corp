@@ -32,66 +32,66 @@ Singapore, 2 March 2011 - To relive the success stories and historic moments fro
 10 30 slots per sports photography workshop are available on a first-come-first-serve basis. Photographers who are interested in attending the complimentary workshops may register online at SingaporeSports.sg/SportsPhotography
 
 11 The Inspiring Sporting Singapore Photography Exhibition and sports photography workshops are part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it playing, watching, cheering or volunteering for sports.
-statics0
+
 -End-
 
 Annex A - List of 17 SSC Sports & Recreation Centres
-statics0
+<br>
 1. Ang Mo Kio Swimming Complex
-1771 Ang Mo Kio Ave 1 (569978)
+<br>1771 Ang Mo Kio Ave 1 (569978)
 
 2. Bedok Swimming Complex
-901 New Upper Changi Road (467355)
+<br>901 New Upper Changi Road (467355)
 
 3. Bukit Batok Swimming Complex
-2 Bukit Batok St. 22 (659581)
+<br>2 Bukit Batok St. 22 (659581)
 
 4. Buona Vista Swimming Complex
-76 Holland Drive (278938)
+<br>76 Holland Drive (278938)
 
 5. Choa Chu Kang Swimming Complex
-1 Choa Chu Kang St 53 (689236)
+<br>1 Choa Chu Kang St 53 (689236)
 
 6. Clementi Swimming Complex
-520 Clementi Ave 3 (129908)
+<br>520 Clementi Ave 3 (129908)
 
 7. Delta Swimming Complex
-900 Tiong Bahru Road (158790)
+<br>900 Tiong Bahru Road (158790)
 
 8. Geylang East Swimming Complex
-601 Aljunied Crescent (389862)
+<br>601 Aljunied Crescent (389862)
 
 9. Hougang Swimming Complex
-95 Hougang Ave 4 (538830)
+<br>95 Hougang Ave 4 (538830)
 
 10. Jurong East SRC
-21 Jurong East Street 31 (609517)
+<br>21 Jurong East Street 31 (609517)
 
 11. Jurong West SRC
-20 Jurong West Street 93 (648965)
+<br>20 Jurong West Street 93 (648965)
 
 12. Kallang Basin Swimming Complex
-21 Geylang Bahru Lane (339627)
+<br>21 Geylang Bahru Lane (339627)
 
 13. Sengkang SRC
-57 Anchorvale Rd (544964)
+<br>57 Anchorvale Rd (544964)
 
 14. Tampines Swimming Complex
-505 Tampines Ave 5 (529652)
+<br>505 Tampines Ave 5 (529652)
 
 15. Woodlands Swimming Complex
-3 Woodlands St. 13 (738600)
+<br>3 Woodlands St. 13 (738600)
 
 16. Yio Chu Kang Swimming Complex
-202 Ang Mo Kio Ave 9 (569771)
+<br>202 Ang Mo Kio Ave 9 (569771)
 
 17. Yishun Swimming Complex
 <br>351 Yishun Ave 3 (769057)
 
 Annex B - Selected Photos for Exhibition
-Annex B - Selected Photos for Exhibition [344 Kb]
+[Annex B - Selected Photos for Exhibition](/files/Media%20Centre/Media%20Release/2011/March/Annex%20B%20%20Selected%20Photos%20for%20Exhibitionpdf.pdf) [344 Kb]
 Annex C - Schedule of Sports Photography Workshops
-statics0
+
 Trainer: Russell Boyce - Chief Photographer, Asia (Reuters)
 Date: Saturday, 5 March 2011
 Time: 9am - 12pm
