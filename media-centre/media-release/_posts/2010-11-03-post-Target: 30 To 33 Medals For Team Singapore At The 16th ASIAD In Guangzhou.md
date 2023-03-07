@@ -381,7 +381,7 @@ Athletes
 | 220.  | Shooting | Muhd Ikram Bin Ismail  | NA |39  | M  |√    |Double Trap (M) 
 | 221. | Shooting | Nigel Lim Swee Hon |林瑞鸿 | 31 | M | √   | 10m Air Rifle (M) <br>50m Pistol (M)
 | 222.  | Shooting | On Shaw Ming| 翁绍铭| 33| M| √  | 25m Centre Fire Pistol&25m Standard Pistol (M)
-| 223.   | Shooting | Ong Jun Hong| 王竣鸿| 22| M| 10m Air Rifle& 50m Rifle Prone (M)
+| 223.   | Shooting | Ong Jun Hong| 王竣鸿| 22| M| |10m Air Rifle& 50m Rifle Prone (M)
 | 224.  | Shooting | Poh Lip Meng| 傅立民| 41| M| √   | 10m Air Rifle (M) <br>25m Centre Fire Pistol (M)<br>25m Standard Pistol (M)
 <br>50m Pistol (M)
 | 225.| Shooting | Zhang Jin| 张劲 | 22| M| 10m Air Rifle (M)
