@@ -103,34 +103,13 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Modern Pentathlon | 23 - 24 November 2010
 | Roller Sports | 23 - 26 November 2010
 | Rowing | 14 - 19 November 2010
-
-Rugby
-
-21 - 23 November 2010
-
-Sailing
-
-14 - 21 November 2010
-
-Sepaktakraw
-
-16 - 27 November 2010
-
-Shooting
-
-13 - 24 November 2010
-
-Softball
-
-19 - 26 November 2010
-
-Soft Tennis
-
-13 - 19 November 2010
-
-Squash
-
-18 - 25 November 2010
+| Rugby | 21 - 23 November 2010
+| Sailing | 14 - 21 November 2010
+| Sepaktakraw | 16 - 27 November 2010
+| Shooting | 13 - 24 November 2010
+| Softball | 19 - 26 November 2010
+| Soft Tennis | 13 - 19 November 2010
+| Squash | 18 - 25 November 2010
 
 Table Tennis
 
