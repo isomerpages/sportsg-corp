@@ -51,9 +51,9 @@ The Sports Hub, which is currently under construction, is the largest sports fac
 
 For more information, please visit the Singapore Sports Hub website: [http://www.sportshub.com.sg](http://www.sportshub.com.sg)
 
-Annex A- Partner Profiles [214 Kb]
-Annex B - Sports Hub Fact Sheet [121 Kb]
-Annex C - Stadium Roads Closure Media Advisory [125 Kb]
+Annex A- [Partner Profiles](/files/Media%20Centre/Media%20Release/2010/Sept/Partner%20Profilespdf.pdf) [214 Kb]
+Annex B - [Sports Hub Fact Sheet ](/files/Media%20Centre/Media%20Release/2010/Sept/SportsHubFact%20Sheetpdf.pdf)[121 Kb]
+Annex C - [Stadium Roads Closure Media Advisory](/files/Media%20Centre/Media%20Release/2010/Sept/Media%20AdvisoryStadium%20Roads%20Closurepdf.pdf) [125 Kb]
 
 For media enquiries, please contact:
 <br>Linda Fulford
@@ -62,7 +62,6 @@ For media enquiries, please contact:
 <br>Email: lfulford@fulfordpr.com
 
 Samantha See
-Fulford Public Relations
-DID: 6324 5293
-Email: ssee@fulfordpr.com
-statics0
+<br>Fulford Public Relations
+<br>DID: 6324 5293
+<br>Email: ssee@fulfordpr.com
