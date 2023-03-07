@@ -335,48 +335,9 @@ Athletes
 | 174.  | Rugby | Angelina Liu Huiyun | 刘慧芸 | 28 | F | √    | Team (W)
 | 175.  | Rugby | Humphries Priscilla Abelina | NA | 29 | F | √    | Team (W)
 | 176.   | Rugby | Sophie Ngin Gollifer | NA | 21 | F | √    | Team (W)
-
-177.        
-
-Tan Hui Juan
-
-陈慧娟
-
-23
-
-F
-
-√   
-
-Team (W)
-
-178.        
-
-Samantha Teo Ming Li
-
-张明俐
-
-20
-
-F
-
-√   
-
-Team (W)
-
-179.        
-
-Wong Yilin
-
-黄奕琳
-
-21
-
-F
-
-√   
-
-Team (W)
+| 177. | Rugby | Tan Hui Juan| 陈慧娟| 23| F| √ | Team (W)
+| 178.| Rugby | Samantha Teo Ming Li| 张明俐| 20| F| √   | Team (W)
+| 179.  | Rugby | Wong Yilin| 黄奕琳| 21| F| √   | Team (W)
 
 180.        
 
