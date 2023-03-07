@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore High Performance Sports Steering Committee**
+### **Singapore High Performance Sports Steering Committee**
 
 **Singapore, 26 February 2013** - The Ministry of Culture, Community and Youth announced the formation of a Singapore High Performance Sports Steering Committee today. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, will chair the Committee, which will be appointed for two years, starting 2013, and include key stakeholders from the Singapore National Olympic Council, Singapore National Paralympic Council, National Sports Associations (NSA), and members of the sporting fraternity. See Annex for the composition of the Steering Committee.
 
@@ -69,5 +69,3 @@ Mr Tan Ju Seng
 Mr Tan Soo Nan
 <br>Chief Executive Officer
 <br>Tote Board
-
--END-
