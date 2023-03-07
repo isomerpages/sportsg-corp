@@ -50,32 +50,11 @@ Full Marathon Results - Women's Individual
 | 3 | Annerien van Schalkwyk | South Africa | 02:35.32
 
 Full Marathon (Singapore) Results - Men's
-
-No.
-
-Name
-
-Country
-
-Finishing Time
-
-1
-
-Mok Ying Ren
-
-Singapore
-
-02:38.28
-
-2
-
-Ashley Liew Wei Yen
-
-Singapore
-
-02:52.29
-
-3
+| No. | Name | Country | Finishing Time |
+| -------- | -------- | -------- | -------- |
+| 1 | Mok Ying Ren  | Singapore  |02:38.28
+| 2 | Ashley Liew Wei Yen | Singapore | 02:52.29
+| 3
 
 Ramesh s/o Palaniandy
 
