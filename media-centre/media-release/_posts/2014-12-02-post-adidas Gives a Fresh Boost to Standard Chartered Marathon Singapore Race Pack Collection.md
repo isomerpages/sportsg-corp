@@ -24,11 +24,11 @@ adidas, in partnership with the Standard Chartered Marathon Singapore (SCMS), to
 
 END
 
-[*Please refer to the appendix for a detailed schedule of the SCMS race pack collection.](/files/Media%20Centre/Media%20Release/2014/December/MEDIA%20RELEASE%20adidas%20Gives%20a%20Fresh%20Boost%20to%20Standard%20Chartered%20Marathon.pdf)
+[Please refer to the appendix for a detailed schedule of the SCMS race pack collection.](/files/Media%20Centre/Media%20Release/2014/December/MEDIA%20RELEASE%20adidas%20Gives%20a%20Fresh%20Boost%20to%20Standard%20Chartered%20Marathon.pdf)
 
 **For further information, please contact:**
 
-Li Lan Tan  
-Edelman for adidas  
-Tel: 6733 1110  
-Email: [lilan.tan@edelman.com](mailto:lilan.tan@edelman.com)
+Li Lan Tan<br>
+Edelman for adidas<br>
+Tel: 6733 1110<br>
+Email:[lilan.tan@edelman.com](mailto:lilan.tan@edelman.com)
