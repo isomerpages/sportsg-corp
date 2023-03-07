@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **SSC Announces Spectrum Worldwide Events As Its Strategic Partner For Standard Chartered Marathon Singapore**
+### **SSC Announces Spectrum Worldwide Events As Its Strategic Partner For Standard Chartered Marathon Singapore**
 ![](/images/Media%20Centre/Media%20Release/2013/July/Standard%20Chartered%20Marathon%20Singapore%202013%20Logo.jpeg)
 
 **Singapore, 19 July 2013** - The Singapore Sports Council (SSC) has appointed event management and experiential marketing company Spectrum Worldwide Events (Singapore) Pte. Ltd. as the Event Organiser of the Standard Chartered Marathon Singapore (SCMS). This follows SSC's Request For Proposal (RFP) published in GeBIZ in March this year.
@@ -19,10 +19,10 @@ image: ""
 
 5. This year's SCMS is scheduled to take place on 1 December 2013. To date, 34,709 runners have registered for the event. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com ](www.marathonsingapore.com )and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG).
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>S. Parameswaran
+S. Parameswaran
 <br>Assistant Director, Media Relations
 <br>Singapore Sports Council
 <br>Tel: +65 6500 5236
@@ -33,9 +33,9 @@ image: ""
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
+
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 **About Standard Chartered Bank in Singapore**
