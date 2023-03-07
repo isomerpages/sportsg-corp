@@ -264,23 +264,8 @@ Athletes
 |102.  | Dragon Boat  | Jennifer Chen Qiujun |陈秋君 |25 |F |√   | Team (Women)
 |103.  | Dragon Boat  | Jess Poon Shing Ping | 潘心萍 | 23 | F | √| Team (Women)
 | 104. | Dragon Boat  | Joan Poh Xue Hua| 傅雪铧| 19| F| √   | Team (Women)
-| 105.        
-
-Kwah Rika
-
-柯利佳
-
-16
-
-F
-
-√   
-
-Team (Women)
-
-106.        
-
-Loh Ying
+| 105. | Dragon Boat   | Kwah RikaDragon Boat  | 柯利佳Dragon Boat  | 16Dragon Boat  | FDragon Boat  | √  Dragon Boat  | Team (Women)
+| 106.  | Dragon Boat  | Loh Ying
 
 罗莹
 
