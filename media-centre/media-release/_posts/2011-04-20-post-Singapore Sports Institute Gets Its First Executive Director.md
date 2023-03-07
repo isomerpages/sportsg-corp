@@ -41,9 +41,9 @@ To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
 <br>
 Join SSC on Twitter at: www.twitter.com/singaporesports
 <br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **For media enquiries, please contact:**
 <br>S. Parameswaran (Parames)
@@ -51,12 +51,11 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5236
-<br>Email: parames_seenivasagam@ssc.gov.sg
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 Alvin Hang
 <br>Director
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5164
-<br>Email: alvin_hang@ssc.gov.sg
-statics0
+<br>Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
