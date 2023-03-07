@@ -112,73 +112,13 @@ MAP AWARDS RECIPIENTS
 ||| Ong Chui Bin Mylene |
 ||| Ong Chui Bin Mylene | Women's 4x100m Freestyle Relay | 1 | $15,000 | Team Event |
 ||| Lim Xiang Qi Amanda | | |$5,000 | SEA Games Record - 03:45:73 | Yr '07 - THA - 03:51:86 |
-
-
-Lim Shu-En Lynette
-
-
-
-
-
-
-
-Quah Ting Wen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ong Kai Yi Russell
-Men's 4x100m Freestyle Relay
-1
-$15,000
-Team Event &
-
-
-
-Lim Wen Hao Joshua
-
-
-$5,000
-SEA Games Record - 03:23:22
-Yr '07 - SIN - 03:26:70
-
-
-Yeo Kai Quan Danny
-
-
-
-
-
-
-
-Ong Wei Shien Zach
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+||| Lim Shu-En Lynette|
+||| Quah Ting Wen |
+||| Ong Kai Yi Russell | Men's 4x100m Freestyle Relay | 1 | $15,000 | Team Event |
+||| Lim Wen Hao Joshua ||| $5,000 | SEA Games Record - 03:23:22 | Yr '07 - SIN - 03:26:70 |
+||| Yeo Kai Quan Danny |
+||| Ong Wei Shien Zach |
 ||| Lim Jia Yi Shana | Women's 4x100m Medley Relay | 1 | $15,000 | Team Event |
-||| Ho Ru'En Roanne | $5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
-||||| Tao Li |
-||||| Quah Ting Wen |
+||| Ho Ru'En Roanne | ||$5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
+||| Tao Li |
+||| Quah Ting Wen |
