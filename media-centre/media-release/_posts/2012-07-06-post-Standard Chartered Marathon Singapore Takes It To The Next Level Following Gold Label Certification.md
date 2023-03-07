@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Standard Chartered Marathon Singapore Takes It To The Next Level Following Gold Label Certification**
+### **Standard Chartered Marathon Singapore Takes It To The Next Level Following Gold Label Certification**
 
 **Singapore, 6 July 2012** - Singapore's premier running event, the Standard Chartered Marathon Singapore (SCMS), is set to live up to its status as an International Association of Athletics Federation (IAAF) Gold Label race by delivering an enhanced race experience for all.
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/STANDARDCHARTEREDMARATHONSINGAPORETAKESITTOTHENEXTLEVELFOLLOWINGGOLDLABELCERTMainPar0042Imagegif.gif)
@@ -30,9 +30,9 @@ image: ""
 
 10. Runners can also register online via the official website (www.marathonsingapore.com) from 11am on 6 July 2012, and at Toa Payoh Sports & Recreation Centre (SRC) from 10am on 7 July 2012 onwards. More information is available on SCMS' official website.
 
--END-
+---
 
-Annex A: Standard Chartered Marathon Singapore 2012 Fact Sheet
+**Annex A: Standard Chartered Marathon Singapore 2012 Fact Sheet**
 Date: Sunday, 2 December 2012
 
 Start:                               
@@ -79,11 +79,11 @@ Official Website: [www.marathonsingapore.com](www.marathonsingapore.com)
 Official YouTube Channel: [www.youtube.com/SCMarathonSingapore ](www.youtube.com/SCMarathonSingapore ) 
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
-Race Categories:
+**Race Categories:**
 <br>Categories
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/Annex%20A-%20Standard%20Chartered%20Marathon%20Singapore%202012%20Fact%20Sheet.png)
 
-*Note:*
+***Note:***
 *    It is compulsory for a parent/guardian to accompany any child six years and below during the Kids Dash for safety purposes, failing which, the Organiser reserves the right to refuse entry to the participant.
 
 *    Only one parent/guardian issued with an identification tag will be allowed to accompany any child six years and below.
