@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **President Tony Tan Becomes Patron Of SportsCares**
+### **President Tony Tan Becomes Patron Of SportsCares**
 ![](/images/Media%20Centre/Media%20Release/2013/June/VISION2030IMPLEMENTATIONBEGINSWITHSPORTCARESMainPar0041Imagegif.gif)
 	
 **Singapore, 8 June 2013** - It was yet another milestone for the Singapore Sports Council's (SSC) philanthropic arm, as President Tony Tan was announced as Patron of SportCares today. This announcement follows the roll-out of SportCares programmes that have transformed the lives of Singaporeans in need over the recent months.
@@ -16,7 +16,7 @@ image: ""
 
 3. The SportCares Foundation has been running sports programmes that provide skill-based learning, character development, educational support and life skills. The recently launched Saturday Night Lights (SNL) football programme, for instance, provides some 90 underprivileged and at-risk youth every weekend with free quality coaching, workshops, a nutritious meal at the end of the night, and transit home. SportCares also offers opportunities for underprivileged youth to participate in sport programmes run by partners. They include the recent OCBC Cycle Singapore and the upcoming Milo Youth Triathlon, football clinic with young Arsenal, and Real Madrid holiday camp.
 
-**Donors and partners support use of sport as a force for social good**
+##### **Donors and partners support use of sport as a force for social good**
 	![](/images/Media%20Centre/Media%20Release/2013/June/PRESIDENTTONYTANBECOMESPATRONOFSPORTCARESMainPar0053Imagegif.gif)
 
 4. SportCares has raised some S$1 million from corporates and individuals to date. It currently enjoys strong support from companies that believe in the power of sport to transform lives. Many companies agree that SportCares is a meaningful Corporate Social Responsibility (CSR) programme for their staff.
@@ -36,17 +36,18 @@ As sport continues to establish itself in the nation's culture, I believe SportC
 
 10. Mr Lee Kok Choy, Managing Director and Singapore Country Manager of Micron Semiconductor Asia Pte Ltd, said: "Micron is delighted and excited to be a supporter of sports in Singapore as a means of developing and enriching our youths. We firmly believe that sound education and a strong community are vital to the success of both society and innovative companies, and through our partnership with SportCares we are able to make a positive impact through sports."
 
-**Team SportCares at the 25th Canon Lion City Cup**
+##### **Team SportCares at the 25th Canon Lion City Cup**
 ![](/images/Media%20Centre/Media%20Release/2013/June/PRESIDENTTONYTANBECOMESPATRONOFSPORTCARESMainPar0054Imagegif.gif)
 
 11. Players of the SNL programme were invited to play exhibition matches during the halftime breaks of the 25th Canon Lion City Cup from 8 to 16 June. Making their debut at the opening of the tournament today, the boys demonstrated their sporting talents and skills learnt from nine weeks of SNL fitness training, football coaching and leadership mentoring. Beyond displaying their football skills, the players also put their improved self-belief, teamwork and sportsmanship to the test during the game.
 
 12. For more information on how to contribute to SportCares as a partner or volunteer, please send an email to sportcares@ssc.gov.sg. If you wish more details on our activities, please visit www.facebook.com/sportcaresSG. If you wish to make a financial donation, please go to www.sggives.org/sportcares.
 
--END-
+---
 
-For media enquiries, please contact:
-<br>Siti Nurhidayati 
+**For media enquiries, please contact:**
+
+Siti Nurhidayati 
 <br>Senior Executive, Media Relations 
 <br>Singapore Sports Council
 <br>Tel: 6500 5246
@@ -57,7 +58,7 @@ For media enquiries, please contact:
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg),[www.Vision2030.sg]( www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
