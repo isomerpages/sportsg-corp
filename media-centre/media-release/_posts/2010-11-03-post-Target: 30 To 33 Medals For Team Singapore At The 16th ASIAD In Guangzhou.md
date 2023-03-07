@@ -293,7 +293,7 @@ Athletes
 | 131.| Football  | Eddie Affendy Chang | NA | 20 | M | √    | Team (M)
 | 132. | Football  | Safuwan Baharudin | NA | 19 | M | √    | Team (M)
 | 133.| Football  | Faritz Abdul Hameed | NA | 20 | M | √ | Team (M)
-| 134.| Football  | Hariss Harun| NA| 19| M| Team (M)
+| 134.| Football  | Hariss Harun| NA| 19| M| Team | (M)
 | 135.| Football  | Shahdan Sulaiman| NA| 22| M| √   | Team (M)
 | 136. | Football | Syafiq Zainal| NA| 19| M| √   | Team (M)
 | 137.  | Football   | Fazly Hassan
