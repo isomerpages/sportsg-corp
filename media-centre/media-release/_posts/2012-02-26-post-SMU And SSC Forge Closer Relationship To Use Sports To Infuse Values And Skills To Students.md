@@ -50,7 +50,8 @@ Students who have successfully completed the Course will be provided with fundam
 - Planning & Sports Safety
 - Analysis / Development of Skills
 - Physical Preparation
-- Mental Skills Traini<br><br>
+- Mental Skills Traini
+<br><br>
 - Intermediate Planning for Coaches
 - Physical Training Principles
 - Sports Medicine
