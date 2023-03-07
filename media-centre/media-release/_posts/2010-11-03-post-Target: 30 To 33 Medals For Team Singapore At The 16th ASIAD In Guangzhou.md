@@ -310,20 +310,8 @@ Athletes
 |148.|Golf|Gregory Raymund Foo Yong En|符永恩|17|M|√  |Team (M) |Individual (M)
 |149.  | Golf | Johnson Poh Swee Kiat|傅瑞杰|19|M|√   |Team (M)|Individual (M)
 |150.| Golf | Joshua Shou Mingqing|寿珉庆|20|M|√   |Team (M)|Individual (M)
-| 151.  |Golf | Gymnastics  |David-Jonathan Chan Thuang Tong |曾传忠 |25 |M |√    |Men's Artistic Gymnastics Individual 
-|152. Golf |        
-
-Gabriel Gan Zi Jie
-
-颜子杰
-
-24
-
-M
-
-√   
-
-Men's Artistic Gymnastics Individual
+| 151.  |Gymnastics  |David-Jonathan Chan Thuang Tong |曾传忠 |25 |M |√    |Men's Artistic Gymnastics Individual 
+|152. |Gymnastics  | Gabriel Gan Zi Jie  | 颜子杰  | 24  | M  | √     | Men's Artistic Gymnastics Individual
 
 153.        
 
