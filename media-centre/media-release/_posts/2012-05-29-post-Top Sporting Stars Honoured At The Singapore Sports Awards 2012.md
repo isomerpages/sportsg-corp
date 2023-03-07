@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Top Sporting Stars Honoured At The Singapore Sports Awards 2012**
+
 ![](/images/Media%20Centre/Media%20Release/2012/May/TOPSPORTINGSTARSHONOUREDATTHESINGAPORESPORTSAWARDS2012MainPar0042Imagegif.gif)
 *Fu Mingtian and Joseph Schooling Earned Top Spots at the Event*
 
