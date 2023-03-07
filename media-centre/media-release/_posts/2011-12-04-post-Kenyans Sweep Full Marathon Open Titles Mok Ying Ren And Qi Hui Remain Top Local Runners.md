@@ -45,3 +45,10 @@ Local Runners Retained Their Titles
 | 1 | 15 | Irene Jerotich Kosgei | Kenya | 2:36:42.39|
 | 2 | 22 | Roman Gebregessesse | Ethiopia | 2:37:30.74 |
 | 3 | 4 | Magadelene Mukunzi | Kenya | 2:38:06.50 |
+
+**FULL MARATHON SINGAPOREAN (MEN)**
+| Rank | Tag No. | Name | Nationality | Time |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | 15 | Irene Jerotich Kosgei | Kenya | 2:36:42.39|
+| 2 | 22 | Roman Gebregessesse | Ethiopia | 2:37:30.74 |
+| 3 | 4 | Magadelene Mukunzi | Kenya | 2:38:06.50 |
