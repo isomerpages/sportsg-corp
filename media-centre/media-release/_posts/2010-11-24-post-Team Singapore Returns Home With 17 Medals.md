@@ -67,10 +67,6 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun
 | | | | | | 17
 
- 
-
- 
-
 Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010
  
 
