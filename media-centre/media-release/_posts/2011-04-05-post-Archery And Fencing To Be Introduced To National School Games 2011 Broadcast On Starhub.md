@@ -22,7 +22,7 @@ ARCHERY AND FENCING TO BE INTRODUCED TO NATIONAL SCHOOL GAMES 2011 BROADCAST ON 
 
 5. "The National School Games provides our students with a structured platform to showcase their sporting talents and good sportsmanship. It presents teachable moments for students to learn what fair play is, even under intense competition. In their pursuit of sporting excellence, our student athletes will apply a high level of self-discipline, focus and perseverance. They will also strive to achieve the highest standard of sportsmanship by caring deeply for themselves, others, and respecting the rules of the game. Beyond sporting excellence and character development, the Games also supports the promotion of a strong sporting culture for the nation, and we look forward to another exciting season of school sports," added Mr Ong Kim Soon, Deputy Director, Co-Curricular Activities Branch, Ministry of Education.
 
-6. Similar to last year's format, highlights from the NSG 2011 will be broadcast by StarHub via SuperSports Arena (StarHub TV Channel 201) in a 13-part series at 9pm every Thursday, starting from 7 April 2011, with an encore broadcast at 11.30am every Sunday. There will also be a one-hour 'Best of NSG 2011' special highlight after the 13th episode, which will be aired on the same channel at 9pm on Thursday, 8 September 2011. A weekly online broadcast will commence on the following Monday after its first TV broadcast, and may be viewed at SingaporeSports.tv.
+6. Similar to last year's format, highlights from the NSG 2011 will be broadcast by StarHub via SuperSports Arena (StarHub TV Channel 201) in a 13-part series at 9pm every Thursday, starting from 7 April 2011, with an encore broadcast at 11.30am every Sunday. There will also be a one-hour 'Best of NSG 2011' special highlight after the 13th episode, which will be aired on the same channel at 9pm on Thursday, 8 September 2011. A weekly online broadcast will commence on the following Monday after its first TV broadcast, and may be viewed at [SingaporeSports.tv](SingaporeSports.tv).
 
 7. "StarHub is a firm supporter of local sports, and we endeavour to offer a bigger stage for local sporting events by airing the events on StarHub TV. This year, we are once again delighted to broadcast the National School Games on SuperSports Arena, a destination channel for local sports content, and the ideal platform to reach out to sporting enthusiasts. We hope that by showcasing our young talents in action, future generations of athletes will be inspired to excel in their respective sports and bring glory to Singapore," said Ms Sandie Lee, StarHub's Vice President of Content.
 
@@ -60,7 +60,7 @@ Facebook : [http://www.facebook.com/moesingapore](http://www.facebook.com/moesin
 <br>
 Twitter :[ http://twitter.com/MOEsg]( http://twitter.com/MOEsg)
 <br>
-YouTube : http://www.youtube.com/MOESpore
+YouTube : [http://www.youtube.com/MOESpore](http://www.youtube.com/MOESpore)
 
 About Singapore Schools Sports Council
 <br>
