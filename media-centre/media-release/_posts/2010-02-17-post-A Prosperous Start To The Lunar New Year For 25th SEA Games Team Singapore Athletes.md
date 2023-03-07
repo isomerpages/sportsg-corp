@@ -457,5 +457,3 @@ Total Gold Medals / MAP Awards
 
 33
 $455,000
-
-
