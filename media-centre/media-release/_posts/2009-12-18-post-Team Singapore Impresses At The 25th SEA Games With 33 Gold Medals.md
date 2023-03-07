@@ -178,29 +178,37 @@ List of Medal Winners**
 | | Men's 10m Air Pistol 60 Shots (INDV)	Poh Lip Meng	| Silver |
 | | Women's 50m Rifle 3 Positions 3 x 20	| Lim Chea Rong<br>Ser Xiang Wei Jasmine<br>Aqilah Binte Sudhir	| Silver |
 | | Men's 50m Free Pistol 60 Shots(INDV)	| Gai Bin	| Silver |
+| | Women's 10m Air Rifle (TEAM)	| Haw Siew Peng<br>Goh Jia Yi<br>Aqilah Binte Sudhir | Bronze |
+| | Men's 25m Standard Pistol (TEAM)	| Gai Bin<br>On Shaw Ming<br>Poh Lip Meng | Bronze |
+| | Men's 50m Rifle Prone 60 Shots	Ong Jun Hong<br>Zhang Jin | Bronze |
+| | Women's 50m Rifle 3 Positions 3 x 20 (INDV)	| Aqilah Binte Sudhir	| Bronze |
+| | 25m Center Fire Pistol Team	Gai Bin<br>Poh Lip Meng<br>On Shaw Ming | Bronze|
+| Silat | Tunggal Female Single	| Rabiatul Adawiyah Yusak	| Gold |
+| | Female Class B (50-55kg)	| Nur Dinniyati Julaimi	| Silver |
+| | Men's Class G (75-80kg)	| Mohd Shakir Juanda	| Silver |
+| | Men's Class D (60-65kg)	| Mohd Saufullah M Julaimi	| Bronze |
+| | Men's Class E (65-70kg)	| Mohd Saifuddin M Julaimi	| Bronze |
+| | Men's Class H (80-85kg)	| Mohd Nur Shafiq Saiful	| Bronze |
+| | Men's Class F (70-75kg)	| Mohd Elyasak Said	| Bronze |
+| | Female Class C (55-60kg)	| Saiedah Said	| Bronze |
+|Swimming | Men's 4x200m Freestyle Relay	| Clement Lim Yong En<br>Joshua Lim Wei Hao<br>Marcus Cheah Mingzhe<br>Zach Ong Wei Shien | Gold|
+| | Women's 4x200m Freestyle Relay	| Amanda Lim Xiang Qi<br>Quah Ting Wen<br>Mylene Ong Chui Bin<br>Lynette Lim Shu-en | Gold |
+| | Women's 100m Freestyle	| Quah Ting Wen	| Gold |
+| | Men's 200m Backstroke |	Zach Ong Wei Shien |	Gold |
+| | Women's 200m Backstroke |	Tao Li	| Gold |
+| | Women's 4x100m Freestyle Relay	| Amanda Lim Xiang Qi<br>Quah Ting Wen<br>Mylene Ong Chui Bin<br>Lynette Lim Shu-en | Gold |
+| | Women's 100m Backstroke |	Tao Li	| Gold |
+| | Women's 100m Butterfly |	Tao Li	| Gold |
+| | Women's 800m Freestyle |	Lynette Lim Shu-en	| Gold |
+| | Men's 4x100m Freestyle Relay	| Russell Ong Kai Yi<br>Joshua Lim Wei Hao<br>Zach Ong<br>Yeo Kai Quan | Gold |
+| | Women's 200m Freestyle	| Quah Ting Wen	| Gold |
+| | Women's 4x100m Medley Relay |	Quah Ting Wen<br>Tao Li<br>Shana Lim Jiayi<br>Roanne Ho Ru'En |	Gold |
+| | Women's 50m Freestyle	| Amanda Lim Xiang Qi	| Gold |
+| | Women's 200m Butterfly |	Tao Li	| Gold |
 
 
 
 
-
-
-
-
-
-
-
-Women's 10m Air Rifle (TEAM)	Haw Siew Peng	Bronze
-Goh Jia Yi
-Aqilah Binte Sudhir
-Men's 25m Standard Pistol (TEAM)	Gai Bin	Bronze
-On Shaw Ming
-Poh Lip Meng
-Men's 50m Rifle Prone 60 Shots	Ong Jun Hong	Bronze
-Zhang Jin
-Women's 50m Rifle 3 Positions 3 x 20 (INDV)	Aqilah Binte Sudhir	Bronze
-25m Center Fire Pistol Team	Gai Bin	Bronze
-Poh Lip Meng
-On Shaw Ming
 
 
 
