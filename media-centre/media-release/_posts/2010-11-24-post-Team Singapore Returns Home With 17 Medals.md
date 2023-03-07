@@ -63,8 +63,7 @@ Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 | 14.  | Bronze| Sailing | Open Laser Radial | Scott Glen Sydney
 | 15. | Bronze| Sailing | Men's Dinghy Optimist | yan LO Jun Han
 | 16.  | Bronze | Sailing | Open Hobie-16 | TEO Wee Chin & Justin WONG Ming Ho
-| 17.   | Bronze | Sailing | Women's Double Handed Dinghy 470
-| Dawn LIU Xiaodan & Siobhan TAM Shui Wun
+| 17.   | Bronze | Sailing | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun
 | | | | | | 17
 
 Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010
