@@ -239,5 +239,4 @@ Email: dominic_tay@ssc.gov.sg
 |              | Duilian Barehand (Men's Taolu)              | Tay Wei Sheng Jaryl<br>Fung Jin Jie<br>Seah Kah Yeap Samuel                                                                                                                                                                                                                                                              | Silver      |
 | Waterpolo    | Men's                                       | Andy Chin<br>Eugene Teo<br>Kelvin Ong<br>Kenneth Wee<br>Lim Yaoxiang<br>Lin Diyan<br>Lin Diyang<br>Luo Nan<br>Nigel Tay<br>Samuel Loh<br>Terence Tan<br>Yip Renkai                                                                                                                                                       | Gold        |
 
-
 Note: Highlights Debutant Medallist
