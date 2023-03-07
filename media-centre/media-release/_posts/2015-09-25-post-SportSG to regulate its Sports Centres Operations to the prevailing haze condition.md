@@ -20,12 +20,9 @@ The health impact of haze is dependent on one’s health status (e.g. whether on
 
 Reducing outdoor activities and physical exertion can help limit the ill effects from haze exposure. Persons who are not feeling well, especially the elderly and children, and those with chronic heart or lung conditions, should seek medical attention.
 
-For more updates, members of the public can refer to:
-
-[https://www.myactivesg.com/news/2015/9/health-advisory-on-haze](https://www.myactivesg.com/news/2015/9/health-advisory-on-haze)
-
+For more updates, members of the public can refer to:<br>
+[https://www.myactivesg.com/news/2015/9/health-advisory-on-haze](https://www.myactivesg.com/news/2015/9/health-advisory-on-haze)<br>
 [https://www.facebook.com/myActiveSG](https://www.facebook.com/myActiveSG)
 
-For the latest information on Haze, please visit:
-
+For the latest information on Haze, please visit:<br>
 [http://www.haze.gov.sg](http://www.haze.gov.sg/)
