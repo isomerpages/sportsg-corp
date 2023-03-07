@@ -223,14 +223,12 @@ Athletes
 | 61. |  Canoeing | Suzanne Seah | 佘素珊 | 20| F| √   | K2   500m (W)
 | 62. | Chess (Xiangqi) | Alvin Woo Tsung Han| 吴宗翰| 27| M| √   | Individual (M)
 | 63.  | Cuesports | Ang Boon Chin | 洪文进 | 29 | M | √| Snooker Team <br>Snooker Singles
-| 64.  | Cuesports |Chan Keng Kwang| 曾庆光 |30  | M  | 8-ball Pool Singles<br>9-ball Pool Singles
+| 64.  | Cuesports |Chan Keng Kwang| 曾庆光 |30  | M  |  | 8-ball Pool Singles<br>9-ball Pool Singles
 | 65.  | Cuesports |Charlene Chai Zeet Huey  | 蔡志蔚  | 30  | F  | 6-Red Snooker Team <br>6-Red Snooker Singles <br>8-ball Pool Singles <br>9-ball Pool Singles
 | 66.  | Cuesports |Hoe Shu Wah | 何淑华 | 39 |F |6-Red Snooker Team <br>6-Red Snooker Singles <br>8-ball Pool Singles <br>9-ball Pool Singles
 | 67.   |Lim Chun Kiat  |林俊杰  |35  |M  |√     |Snooker Team <br>Snooker Singles
 | 68. | Cuesports |Peter Edward Gilchrist  |NA  |42  |M  |9-ball Singles
-| 69. | Cycling  | Dinah Chan Siew Kheng  | 曾秀卿  | 24  | F
-
-√   
+| 69. | Cycling  | Dinah Chan Siew Kheng  | 曾秀卿  | 24  | F  | √   
 
 Road Individual Time Trial (W)
 
