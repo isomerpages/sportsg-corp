@@ -102,3 +102,196 @@ MAP AWARDS RECIPIENTS
 ||||||$5,000 | SEA Games Record - 08:35:41 | Yr '07 - MAL - 08:47:80 |
 
 
+
+
+
+
+
+Lim Xiang Qi Amanda
+Women's 50m Freestyle
+1
+$10,000
+Individual &
+
+
+
+
+
+
+$5,000
+SEA Games Record - 00:25:82
+Yr '05 - Joscelin - 00:26:13
+
+
+
+
+
+
+
+
+
+
+Lim Wen Hao Joshua
+Men's 4x200m Freestyle Relay
+1
+$15,000
+Team Event &
+
+
+
+Lim Yong En Clement
+
+
+$5,000
+SEA Games Record - 07:30:73
+Yr '05 - SIN - 07:35:85
+
+
+Ong Wei Shien Zach
+
+
+
+
+
+
+
+Cheah Mingzhe Marcus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quah Ting Wen
+Women's 4x200m Freestyle Relay
+1
+$15,000
+Team Event &
+
+
+
+Lim Shu-En Lynette
+
+
+$5,000
+SEA Games Record - 08:11:75
+Yr '07 - SIN - 08:20:77
+
+
+Lim Xiang Qi Amanda
+
+
+
+
+
+
+
+Ong Chui Bin Mylene
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ong Chui Bin Mylene
+Women's 4x100m Freestyle Relay
+1
+$15,000
+Team Event &
+
+
+
+Lim Xiang Qi Amanda
+
+
+$5,000
+SEA Games Record - 03:45:73
+Yr '07 - THA - 03:51:86
+
+
+Lim Shu-En Lynette
+
+
+
+
+
+
+
+Quah Ting Wen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ong Kai Yi Russell
+Men's 4x100m Freestyle Relay
+1
+$15,000
+Team Event &
+
+
+
+Lim Wen Hao Joshua
+
+
+$5,000
+SEA Games Record - 03:23:22
+Yr '07 - SIN - 03:26:70
+
+
+Yeo Kai Quan Danny
+
+
+
+
+
+
+
+Ong Wei Shien Zach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+||| Lim Jia Yi Shana | Women's 4x100m Medley Relay | 1 | $15,000 | Team Event |
+||| Ho Ru'En Roanne | $5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
+||||| Tao Li |
+||||| Quah Ting Wen |
