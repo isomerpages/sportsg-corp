@@ -161,32 +161,8 @@ Athletes
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- |
 | 1.    | Aquatics - Swimming | Amanda Lim Xiang Qi | 林香杞 | 17 | F | √ | 50m Freestyle (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W)
 | 2.    |  Andrew Lim Xin En  | 林信恩  | 20  | M  | √  | 50m Breaststroke (M)
-
-3.     
-
-Clement Lim Yong'En
-
-林雍恩
-
-17
-
-M
-
-√
-
-50m Freestyle (M)
-
-100m Freestyle (M)
-
-200m Freestyle (M)
-
-400m Freestyle (M)
-
-4X100m Freestyle Relay (M)
-
-4X200m Freestyle Relay (M)
-
-4.     
+| 3.   | Clement Lim Yong'En  | 林雍恩  | 17  | M  | √  | 50m Freestyle (M) <br>100m Freestyle (M) <br>200m Freestyle (M) <br>400m Freestyle (M) <br>4X100m Freestyle Relay (M) <br>4X200m Freestyle Relay (M)
+| 4.     
 
 Danny Yeo Kai Quan
 
