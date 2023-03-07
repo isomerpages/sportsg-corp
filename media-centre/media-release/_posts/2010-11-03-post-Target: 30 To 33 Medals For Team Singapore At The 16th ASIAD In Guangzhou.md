@@ -180,7 +180,7 @@ Athletes
 | 19.  | Aquatics - Waterpolo | Alvin Poh Hock Yen | 傅福缘 | 25 | M
 | √  | Team (M)
 | 20.  |  Aquatics - Waterpolo | Ang Song Loo | 洪松裕 | 23 | M | √  | Team (M)
-| 21.  | Eugene Teo Zhen Wei | 张真玮 | 22 | M | √    | Team (M)
+| 21.  |  Aquatics - Waterpolo | Eugene Teo Zhen Wei | 张真玮 | 22 | M | √    | Team (M)
 
 22.   
 
