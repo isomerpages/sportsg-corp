@@ -93,25 +93,25 @@ Annex B - Selected Photos for Exhibition
 
 Annex C - Schedule of Sports Photography Workshops
 
-Trainer: Russell Boyce - Chief Photographer, Asia (Reuters)
+Trainer: **Russell Boyce - Chief Photographer, Asia (Reuters)**
 <br>Date: Saturday, 5 March 2011
 <br>Time: 9am - 12pm
 <br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
 
-Trainer: Mindy Tan - Multi-award Winning Photographer
+Trainer: **Mindy Tan - Multi-award Winning Photographer**
 <br>Date: Saturday, 19 March 2011
 <br>Time: 9am - 12pm
 <br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
 
-Trainer: Jeremy Lee - Photographer and Sub-Editor, Action Images
+Trainer: **Jeremy Lee - Photographer and Sub-Editor, Action Images**
 <br>Date: Saturday, 26 March 2011
 <br>Time: 9am - 12pm
 <br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
 
 Annex D - Profiles of Sports Photography Workshop Trainers
 
-Russell Boyce - Chief Photographer, Asia (Reuters)
-
+**Russell Boyce - Chief Photographer, Asia (Reuters)**
+<br>
 Having started out as a staff photographer in 1988, Russell has travelled the globe covering the most high profile news and sports events for Reuters UK. His assignments have included the Olympics, cricket, football and rugby World Cups and the Formula OneTM races. In addition to his illustrious career, Russell has also worked in war zones and covered international politics. In his 8 years tenure there, he progressed to become the Deputy Chief Photographer for UK and Ireland.
 
 Based in Singapore, Russell is now the Chief Photographer for Asia. Besides running the daily picture file from Asia, Russell is often the lead editor at major sporting events such as the most recent 2010 FIFA Football World Cup in South Africa, looking at thousands of sports images every day. He believes that good editing is equally important as good photography and if either of these processes fails, the story will be lost.
