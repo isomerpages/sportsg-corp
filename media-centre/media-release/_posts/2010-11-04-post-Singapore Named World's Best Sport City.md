@@ -52,10 +52,10 @@ For a range of photographs, search for "Singapore Sports Council" on[ www.flickr
 <br>Senior Manager
 <br>Public and Media Relations
 <br>Singapore Sports Council
-<br>Email: dominic_tay@ssc.gov.sg
+<br>Email: [dominic_tay@ssc.gov.sg](dominic_tay@ssc.gov.sg)
 
 Jose Raymond
 <br>Deputy Director
 <br>Media Relations and Social Media
 <br>Singapore Sports Council
-<br>Email: jose_raymond@ssc.gov.sg
+<br>Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
