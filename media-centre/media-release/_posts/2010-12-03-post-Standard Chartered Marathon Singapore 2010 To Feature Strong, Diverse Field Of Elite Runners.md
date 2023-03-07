@@ -7,9 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Standard Chartered Marathon Singapore 2010 To Feature Strong, Diverse Field Of Elite Runners**
-
-STANDARD CHARTERED MARATHON SINGAPORE 2010 TO FEATURE STRONG, DIVERSE FIELD OF ELITE RUNNERS
+### **Standard Chartered Marathon Singapore 2010 To Feature Strong, Diverse Field Of Elite Runners**
 
 **Singapore, 3 December 2010** - A unique showdown is on the cards in both the men's and women's Full Marathon categories of the inaugural Standard Chartered Marathon Singapore (SCMS) 2010 on 5 December 2010. This comes after the Singapore Sports Council (SSC), the race organiser, today announced the finalised entry list of world-class elite athletes which includes the likes of recent race winners and up-and-coming runners who will be competing in the event for the first time.
 
