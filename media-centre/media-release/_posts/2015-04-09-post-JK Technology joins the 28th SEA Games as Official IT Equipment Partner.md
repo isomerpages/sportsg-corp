@@ -9,7 +9,7 @@ image: ""
 ### **JK Technology joins the 28th SEA Games as Official IT Equipment Partner**
 The Singapore Southeast Asian Games Organising Committee (SINGSOC) and JK Technology Pte Ltd jointly announced today that the local IT company is the Official IT Equipment Partner of the 28th SEA Games.
 
-2\. As the IT hardware backbone of the Games, JK Technology will be providing 450 printers, 100 scanners and 1,450 laptops with accessories. With a sponsorship valued at S$1.5 million, the local Small and Medium Enterprise (SME) will also be supporting the Games with IT installation and configuration services across 31 competition venues.
+2\. As the IT hardware backbone of the Games, JK Technology will be providing 450 printers, 100 scanners and 1,450 laptops with accessories. With a sponsorship valued at S$1.5 million, the local small and medium enterprise (SME) will also be supporting the Games with IT installation and configuration services across 31 competition venues.
 
 3\. Commenting on the company’s participation in the Games, Mr Eugene Ang, Executive Director, JK Technology said, “As an official IT Equipment Partner of the 28th SEA Games, this appointment underscores JK Technology’s commitment in bringing the SEA Games’ “Celebrate The Extraordinary” spirit to the community. The sponsorship for the Games will be the largest one that we have ever committed. We like to thank our staff who have worked tireless and selflessly in contributing to our success over the years. It is a dream come true and a represents a major milestone for an SME like us.”
 
