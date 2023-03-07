@@ -160,13 +160,7 @@ Athletes
 | No | Sport | Name | Chinese Name | Age | M/F |Debutant | Event Discipline
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- |
 | 1.    | Aquatics - Swimming | Amanda Lim Xiang Qi | 林香杞 | 17 | F | √ | 50m Freestyle (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W)
-| 2.    |  Andrew Lim Xin En  | 林信恩  | 20
-
-M
-
-√
-
-50m Breaststroke (M)
+| 2.    |  Andrew Lim Xin En  | 林信恩  | 20  | M  | √  | 50m Breaststroke (M)
 
 3.     
 
