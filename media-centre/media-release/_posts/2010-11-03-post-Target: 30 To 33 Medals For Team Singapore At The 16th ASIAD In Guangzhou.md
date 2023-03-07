@@ -390,47 +390,12 @@ Athletes
 |229.  |  Table Tennis |  Li Jiawei|李佳微|29|F||  Women's Team<br>Women's Doubles
 |  230. |  Table Tennis | Ma Liang |  马良 |  19 |  M |  √    |  Men's Team <br>Men's Doubles
 |  231. |  Table Tennis | Pang Xue Jie|  庞学杰|  17|  M |  √    |  Men's Team<br>Men's Doubles
-|  232.| Table Tennis | Sun Beibei |  孙蓓蓓 |  26 |  F|  Women's Team <br>Women's Doubles
+|  232.| Table Tennis | Sun Beibei |  孙蓓蓓 |  26 |  F|  |  Women's Team <br>Women's Doubles
 | 233. | Table Tennis | Wang Yuegu| 王越古| 30| F| √   | Women's Team <br>Women's Doubles <br>Women's Singles <br>Mixed Doubles
-| 234. | Table Tennis | Yang Zi| 杨子| 26| M| Men's Team
-
-Men's Doubles
-
-Men's Singles
-
-Mixed Doubles
-
-235.        
-
-Yu Mengyu
-
-于梦雨
-
-21
-
-F
-
-√   
-
-Women's Team
-
-236.        
-
-Taekwondo
-
-Jason Tan Junwei
-
-陈俊玮
-
-18
-
-M
-
-√   
-
-Under 58kg
-
-237.        
+| 234. | Table Tennis | Yang Zi| 杨子| 26| M| |Men's Team <br>Men's Doubles<br>Men's Singles<br>Mixed Doubles
+| 235.  |Table Tennis | Yu Mengyu | 于梦雨 | 21 | F | √   Women's Team
+|236.  |Table Tennis | Taekwondo | Jason Tan Junwei | 陈俊玮 | 18 | M | √   | Under 58kg
+| 237.        
 
 Wushu
 
