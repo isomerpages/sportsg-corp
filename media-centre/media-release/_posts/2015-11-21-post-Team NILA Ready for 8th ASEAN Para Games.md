@@ -9,7 +9,7 @@ image: ""
 ### **Team NILA Ready for 8th ASEAN Para Games**
 With 12 days to go to the 8th ASEAN Para Games, Team NILA is just final steps away from being ready for yet another extraordinary Games.
 
-As of 1 pm, approximately 1,500 volunteers have collected their uniform and accreditation passes at the Uniform Distribution & Accreditation Centre (UDAC) at Kallang Theatre since the exercise started on Friday, 20 November 2015. A total of 4,300 members of the public have signed up to join the ASEAN Para Games as Team NILA volunteers since the call for volunteers began in July this year.
+As of 1pm, approximately 1,500 volunteers have collected their uniform and accreditation passes at the Uniform Distribution & Accreditation Centre (UDAC) at Kallang Theatre since the exercise started on Friday, 20 November 2015. A total of 4,300 members of the public have signed up to join the ASEAN Para Games as Team NILA volunteers since the call for volunteers began in July this year.
 
 Embodying Team NILA’s values of courage, passion and friendship, volunteers have dedicated hours of their time attending multiple training sessions organised to get them ready for the Games. This includes attending a Disability Awareness session which equipped them with the know-how to interact with Persons with Disabilities. Since October 2015, more than 70 training sessions have been organised across 21 areas of games operations.
 
@@ -21,10 +21,10 @@ Mrs Susan Heng, a Dignitary Liaison Officer, was one of the volunteers who colle
 
 The UDAC is part of the volunteers’ final stages of preparation for the 8th ASEAN Para Games. Located at Level 1 of Kallang Theatre, volunteers can collect their uniforms till 8.00pm, Sunday, 22 November 2015.
 
-**About the 8th ASEAN Para Games**  
+#### **About the 8th ASEAN Para Games**  
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
 
 **Facebook:** ASEANParaGames2015  
-**Twitter & Instagram:** APG\_2015  
+**Twitter & Instagram:** @APG_2015  
 **YouTube:** [www.youtube.com/singaporesports](https://www.youtube.com/user/SingaporeSports)  
 **Backup APG:** #BackupAPG2015
