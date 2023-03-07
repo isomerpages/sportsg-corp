@@ -43,55 +43,27 @@ Annex 1: Schedule of Reopening Of SSC Facilities
 | -------- | -------- | -------- |
 | Bishan Sports Hall | 11 October 2010 | Hougang, Yio Chu Kang, Yishun
 | Bishan ClubFITT Gym| 29 October 2010 | Hougang, Yio Chu Kang, Yishun
-| Tampines Bike Park
-
-To be confirmed
-
-NA
-
-Bishan Stadium
-
-Reopened
-
-NA
-
-Bishan Swimming Complex
-
-Buona Vista Swimming Complex
-
-Jalan Besar Stadium
-
-Kallang Basin Swimming Complex
-
-Kallang Field
-
-Kallang Tennis Centre
-
-Kallang Squash Centre
-
-Kallang Netball Centre
-
-Seng Kang Hockey Pitch
-
-Toa Payoh Sports Hall
-
-Toa Payoh Stadium
-
-Toa Payoh Swimming Complex
-
-Toa Payoh CLubFITT Gym
-
-Choa Chu Kang Stadium
-
-Jurong East Stadium
-
-Jurong East Sports Hall
-
-Jurong West Stadium
-
-Jurong West Swimming Complex
-
-Jurong West Sports Hall
+| Tampines Bike Park | To be confirmed | NA
+| Bishan Stadium | Reopened | NA
+| Bishan Swimming Complex | Reopened | NA
+| Buona Vista Swimming Complex | Reopened | NA
+| Jalan Besar Stadium | Reopened | NA
+| Kallang Basin Swimming Complex
+| Kallang Field
+| Kallang Tennis Centre
+| Kallang Squash Centre
+| Kallang Netball Centre
+| Seng Kang Hockey Pitch
+| Toa Payoh Sports Hall
+| Toa Payoh Stadium
+| Toa Payoh Swimming Complex
+| Toa Payoh CLubFITT Gym
+| Choa Chu Kang Stadium
+| Jurong East Stadium
+| Jurong East Sports Hall
+| Jurong West Stadium
+| Jurong West Swimming Complex
+| Jurong West Sports Hall
 
  
 
