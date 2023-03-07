@@ -8,8 +8,6 @@ description: ""
 image: ""
 ---
 ### **Sport Singapore Unveils First Edition of Sport Industry Problem Statements to Simulate Cross Ideation and Innovation**
-
-SPORT SINGAPORE UNVEILS FIRST EDITION OF SPORT INDUSTRY PROBLEM STATEMENTS TO STIMULATE CROSS IDEATION AND INNOVATION  
   
 * First edition of problem statements is a result of Sport Singapore’s (SportSG) partnership with Global Sports Innovation Center (GSIC) and aggregates inputs from industry stakeholders.   
 * Together with the problem statements, SportSG and GSIC launch the inaugural International Sports Groundbreakers Challenge – a competition seeking innovative and technological developments to help the industry tackle challenges identified in the problem statements.   
