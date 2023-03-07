@@ -348,49 +348,11 @@ Athletes
 | 187.   | Sailing | Joshua Choo Meng Keong| 朱明强| 21| M| √   |  IMCO Mistral (M)
 | 188. | Sailing | Justin Liu Xiaman| 刘遐满| 19| M| | 420 Boy
 | 189. | Sailing | Justin Wong Ming Ho| 黄明豪| 24| M| | Hobie 16 Open
-| 190.  | Sailing | Kimberly Lim Min| 林敏| 14| F| √   | Optimist Girl
-| 191. | Sailing | Leonard Ong| 王俊| 17| M| √   | RS: X Men
-| 192.  | Sailing | Rachel Lee Qing
-
-李清
-
-17
-
-F
-
-√   
-
-420 Girl
-
-193.        
-
-Roy Tay Junhao
-
-郑俊豪
-
- 
-
-27
-
-M
-
- 
-
-470 Men
-
-194.        
-
-Ryan Lo Jun Han
-
-卢军汉
-
-13
-
-M
-
-√   
-
-Optimist Boy
+| 190.  | Sailing | Kimberly Lim Min | 林敏| 14| F| √   | Optimist Girl
+| 191. | Sailing | Leonard Ong| 王俊 | 17| M| √   | RS: X Men
+| 192.  | Sailing | Rachel Lee Qing | 李清 | 17 | F | √    | 420 Girl
+| 193.  | Sailing | Roy Tay Junhao | 郑俊豪 | 2 | M | 470 Men
+| 194.| Sailing |  Ryan Lo Jun Han| 卢军汉| 13| M| √   | Optimist Boy
 
 195.        
 
