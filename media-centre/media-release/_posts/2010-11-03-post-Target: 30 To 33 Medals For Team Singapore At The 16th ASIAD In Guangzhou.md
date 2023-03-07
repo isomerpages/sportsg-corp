@@ -411,16 +411,14 @@ Team Officials
 | No. | Sport | Name |Role |
 | -------- | -------- | -------- |-------- |
 | 1. | Aquatics - Swimming | Ang Peng Siong | Team Manager
-| 2.| Fang Hai Jiao| Coach
-| 3.  | Roger Fitzerald| Coach
-| 4.  | Taisuke Kinugasa | Coach
-| 5. | Jin Xiao Li| Coach
-| 6.  | David Lim Fong Jock| Coach
-| 7. | Barry Prime| Coach
-| 8. | See Puey Kheng| Coach
-| 9. | Aquatics - Waterpolo| Samuel Wong Kok Piew
-
-Team Manager
+| 2.| Aquatics - Swimming | Fang Hai Jiao| Coach
+| 3.  | Aquatics - Swimming | Roger Fitzerald| Coach
+| 4.  | Aquatics - Swimming | Taisuke Kinugasa | Coach
+| 5. | Aquatics - Swimming | Jin Xiao Li| Coach
+| 6.  | Aquatics - Swimming | David Lim Fong Jock| Coach
+| 7. | Aquatics - Swimming | Barry Prime| Coach
+| 8. | Aquatics - Swimming | See Puey Kheng| Coach
+| 9. | Aquatics - Waterpolo| Samuel Wong Kok Piew| Team Manager
 
 10.   
 
