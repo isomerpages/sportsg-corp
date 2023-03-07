@@ -32,7 +32,7 @@ Community Games 2012 Kicked Off With Four Sports
 
 9. Two winning teams in every sports category will emerge from each cluster to qualify for the SNG 2012. This could be a dream come true for many a sporting enthusiast to play at a national level supported and cheered on by their neighbours and friends living in the same cluster and the community.
 
-Inter-Cluster Mascot Customisation Contest
+##### **Inter-Cluster Mascot Customisation Contest**
 
 10. From 17 April to 15 May, the 15 clusters can inject their unique identity into the SNG mascot so as to make it their own, through an inter-cluster mascot customisation contest. Subsequently one customised mascot will be produced by the SNG organisers for each cluster.
 
@@ -40,9 +40,9 @@ Inter-Cluster Mascot Customisation Contest
 
 12. The SNG is a community-based multi-sports competition jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations the Community Sports Clubs, as well as 10 National Sports Associations (NSAs). Held once every two years, the SNG will offer sports enthusiasts of all ages an opportunity to be part of Singapore's exciting sporting landscape.
 
--END-
+---
 
-Annex A: Singapore National Games 2012 Fact Sheet
+**Annex A: Singapore National Games 2012 Fact Sheet**
 
 The Singapore National Games 2012 (SNG) is a new biennial sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore?s exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
 
@@ -62,19 +62,17 @@ Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.
 #### **Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet**
 ![](/images/Media%20Centre/Media%20Release/2012/Apr/SinagporeNationalGames.gif)
 
-**Designer**: Yong Wen Yeu
-**School**: Nanyang Academy of Fine Arts
-**Age**: 20
-
+**Designer**: Yong Wen Yeu<br>
+**School**: Nanyang Academy of Fine Arts<br>
+**Age**: 20<br>
 **Rationale**:
 The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
 
 ![](/images/Media%20Centre/Media%20Release/2012/Apr/lion_logo.gif)
 
-**Designer**: Beatrice Cho
-**School**: Singapore Polytechnic
-**Age**: 19
-
+**Designer**: Beatrice Cho<br>
+**School**: Singapore Polytechnic<br>
+**Age**: 19<br>
 **Rationale**:
 When we utter the word 'Lion' the first word that comes into our mind is strength. It also upholds many beliefs, such as courage, power, royalty and wisdom. Sang Nila Utama, founder of Singapore and the Merlion is the reason I decided to name my mascot 'Nila'. The SNG will create friendly rivalry and bring friendship to another level. These elements are infused and depicted in my mascot by the fiery mane and the heart shaped face. The fiery mane symbolises the burning passion of the athletes fighting to win. The heart-shaped face displays love which represents how people interact with one another and come together as a community.
 
