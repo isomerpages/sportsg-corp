@@ -96,21 +96,8 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | Cuesports | English Billiards Singles | Peter Edward GILCHRIST | Bronze | $50,000.00
 | Sailing | Men's Laser | Colin CHENG Xinru | Silver | $100,000.00
 | Sailing | Women's Dinghy Optimist | Kimberly LIM Min | Silver | $100,000.00
-| Sailing | Open Laser Radial
-
-Scott Glen SYDNEY
-
-Bronze
-
-$50,000.00
-
-Men's Dinghy Optimist
-
-Ryan LO Jun Han
-
-Bronze
-
-$50,000.00
+| Sailing | Open Laser Radial | Scott Glen SYDNEY | Bronze | $50,000.00
+| Sailing |Men's Dinghy Optimist | Ryan LO Jun Han | Bronze| $50,000.00
 
 Swimming
 
