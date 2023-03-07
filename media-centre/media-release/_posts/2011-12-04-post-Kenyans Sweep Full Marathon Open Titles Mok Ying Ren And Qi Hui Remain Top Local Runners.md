@@ -52,3 +52,10 @@ Local Runners Retained Their Titles
 | 1 | 410143 | Mok Ying Ren | Singapore | 2:46:01.24 |
 | 2 | 410145 | Ang Chee Yong | Singapore | 2:49:06.24 |
 | 3 | 410150 | Soon Suan Boon Paul | Singapore | 2:49:37.32 |
+
+**FULL MARATHON SINGAPOREAN (WOMEN)**
+| Rank | Tag No. | Name | Nationality | Time |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | 410143 | Mok Ying Ren | Singapore | 2:46:01.24 |
+| 2 | 410145 | Ang Chee Yong | Singapore | 2:49:06.24 |
+| 3 | 410150 | Soon Suan Boon Paul | Singapore | 2:49:37.32 |
