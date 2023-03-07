@@ -10,11 +10,12 @@ image: ""
 
 ROUTES CONFIRMED, MORE PRIZE MONEY FOR ALL
 SSC reveals route details for 60,000 runners as race date beckons
-Singapore, 26 October 2010 - The Singapore Sports Council (SSC), the organiser of the Standard Chartered Marathon Singapore 2010, rolled out a comprehensive incentive scheme to raise competition levels and the quality of runners at Asia's pinnacle running event on 5 December. The long-anticipated details of the three new routes were also announced, to provide all participants with as much time as possible to familiarise themselves with their respective routes with the event now less than six weeks away.
+
+**Singapore, 26 October 2010 **- The Singapore Sports Council (SSC), the organiser of the Standard Chartered Marathon Singapore 2010, rolled out a comprehensive incentive scheme to raise competition levels and the quality of runners at Asia's pinnacle running event on 5 December. The long-anticipated details of the three new routes were also announced, to provide all participants with as much time as possible to familiarise themselves with their respective routes with the event now less than six weeks away.
 
 Increase in prize money and incentives
 
-2 The SSC introduced a revised prize money structure of the prize fund for this year's race - an increase in prize money for the Elite and Open categories, a 'Champions Fund', for athletes who return to Singapore for the 2011 edition. Participants also have a chance of pocketing the 'Time Bonus', if they are able to meet certain times for the full marathon. Altogether the total prize purse now amounts to US$355,707 (S$473,090), making the SCMS 2010 one of the most lucrative races in the region.
+2. The SSC introduced a revised prize money structure of the prize fund for this year's race - an increase in prize money for the Elite and Open categories, a 'Champions Fund', for athletes who return to Singapore for the 2011 edition. Participants also have a chance of pocketing the 'Time Bonus', if they are able to meet certain times for the full marathon. Altogether the total prize purse now amounts to US$355,707 (S$473,090), making the SCMS 2010 one of the most lucrative races in the region.
 
 3 Elite athletes this year can expect a higher level of competition, with a substantial US$15,000 (S$19,950) increase in prize money for the champions of both Men's and Women's categories. Runners in the Open and Veteran race categories also get a boost in their prize fund.
 
