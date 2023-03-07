@@ -16,5 +16,3 @@ The Singapore Southeast Asian Games Organising Committee (SINGSOC) and JK Techno
 4\. Mr Toh Boon Yi, Chief, Community & Corporate Outreach, SINGSOC said, “We are very pleased to have our SMEs on board the 28th SEA Games. It is Singapore’s turn to host and we are delighted that our home-grown companies are stepping up and going the extra mile to contribute to the success of the Games. JK Technology is one of our key service and product suppliers, and with their support, I am confident that the Games will be delivered in a seamless and secure manner.”
 
 5\. Aside from its sponsorship of the 28th SEA Games, JK Technology also regularly sponsors the Singapore Badminton Open Championships and several local badminton tournaments.
-
-END
