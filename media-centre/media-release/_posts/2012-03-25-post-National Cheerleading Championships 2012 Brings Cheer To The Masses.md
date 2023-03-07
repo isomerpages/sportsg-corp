@@ -34,7 +34,7 @@ Singapore, 25 March 2012 - More than 500 participants from 44 teams competed for
 
 11. NCC 2012 is held in conjunction with the Let's Play movement, an initiative by SSC to encourage all Singaporeans to embrace a sporting lifestyle, be it through playing, watching, cheering or volunteering for sports.
 
--END-
+---
 
 **Annex A - Results List of the National Cheerleading Championships 2012**
 
