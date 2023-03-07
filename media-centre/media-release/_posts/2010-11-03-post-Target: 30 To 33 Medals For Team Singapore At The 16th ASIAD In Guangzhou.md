@@ -467,13 +467,10 @@ Team Officials
 | 55.| Rugby| Kristy Teh Chia Hwee| Team Manager
 | 56. | Rugby| Etheredge Simon Peter| Coach
 | 57. | Rugby| Gene Tong Tzee Meng| Coach
-| 58.  | Sailing| Mark Robinson| Team Manager
-| 59.  | Serena Wong| Asst. Team Manager
-| 60. | Fernando Javier Alegre Arbulu| Coach (Optimist)
-
-61.   
-
-Thierry Bernard Jean Barot
+| 58.  | Sailing | Mark Robinson| Team Manager
+| 59.  | Sailing |Serena Wong| Asst. Team Manager
+| 60. | Sailing |Fernando Javier Alegre Arbulu| Coach (Optimist)
+| 61. | Sailing |Thierry Bernard Jean Barot
 
 Coach (Keelboat)
 
