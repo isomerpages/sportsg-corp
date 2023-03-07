@@ -89,7 +89,8 @@ MAP AWARDS RECIPIENTS
 ||| Lim Swee Hon Nigel |
 | 5 | Swimming | Quah Ting Wen | Women's 100m Freestyle | 1 | $10,000 | Individual - 1st Gold |
 ||||||$5,000 | SEA Games Record - 00:56:03 | Yr '99 - Joscelin - 00:56:05 |
-
+|||| Women's 200m Freestyle | 1 | $5,000 | Individual - 2nd Gold |
+|||||| $5,000 | SEA Games Record - 02:00:57 | Yr '07 - THA - 02:03:00 |
 
 
 
