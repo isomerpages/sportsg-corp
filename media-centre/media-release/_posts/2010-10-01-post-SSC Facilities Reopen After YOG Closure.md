@@ -48,22 +48,22 @@ Annex 1: Schedule of Reopening Of SSC Facilities
 | Bishan Swimming Complex | Reopened | NA
 | Buona Vista Swimming Complex | Reopened | NA
 | Jalan Besar Stadium | Reopened | NA
-| Kallang Basin Swimming Complex
-| Kallang Field
-| Kallang Tennis Centre
-| Kallang Squash Centre
-| Kallang Netball Centre
-| Seng Kang Hockey Pitch
-| Toa Payoh Sports Hall
-| Toa Payoh Stadium
-| Toa Payoh Swimming Complex
-| Toa Payoh CLubFITT Gym
-| Choa Chu Kang Stadium
-| Jurong East Stadium
-| Jurong East Sports Hall
-| Jurong West Stadium
-| Jurong West Swimming Complex
-| Jurong West Sports Hall
+| Kallang Basin Swimming Complex| Reopened | NA
+| Kallang Field| Reopened | NA
+| Kallang Tennis Centre| Reopened | NA
+| Kallang Squash Centre| Reopened | NA
+| Kallang Netball Centre| Reopened | NA
+| Seng Kang Hockey Pitch| Reopened | NA
+| Toa Payoh Sports Hall| Reopened | NA
+| Toa Payoh Stadium| Reopened | NA
+| Toa Payoh Swimming Complex| Reopened | NA
+| Toa Payoh CLubFITT Gym| Reopened | NA
+| Choa Chu Kang Stadium| Reopened | NA
+| Jurong East Stadium| Reopened | NA
+| Jurong East Sports Hall| Reopened | NA
+| Jurong West Stadium| Reopened | NA
+| Jurong West Swimming Complex| Reopened | NA
+| Jurong West Sports Hall| Reopened | NA
 
  
 
