@@ -13,7 +13,7 @@ SSC reveals route details for 60,000 runners as race date beckons
 
 **Singapore, 26 October 2010** - The Singapore Sports Council (SSC), the organiser of the Standard Chartered Marathon Singapore 2010, rolled out a comprehensive incentive scheme to raise competition levels and the quality of runners at Asia's pinnacle running event on 5 December. The long-anticipated details of the three new routes were also announced, to provide all participants with as much time as possible to familiarise themselves with their respective routes with the event now less than six weeks away.
 
-Increase in prize money and incentives
+**Increase in prize money and incentives**
 
 2. The SSC introduced a revised prize money structure of the prize fund for this year's race - an increase in prize money for the Elite and Open categories, a 'Champions Fund', for athletes who return to Singapore for the 2011 edition. Participants also have a chance of pocketing the 'Time Bonus', if they are able to meet certain times for the full marathon. Altogether the total prize purse now amounts to US$355,707 (S$473,090), making the SCMS 2010 one of the most lucrative races in the region.
 
@@ -31,7 +31,7 @@ Increase in prize money and incentives
 
 8. "Given the magnitude of this year?s race and three different routes, we have worked closely with the Singapore Sports Council, the organiser of the SCMS 2010, to implement every measure and precaution needed to ensure a safe running experience for all," said Dr Francis Lee, SCMS 2010 medical doctor from Alexandra Health.
 
-Full Marathon (42km)
+**Full Marathon (42km)**
 
 9. For the first time ever, the Full Marathon will kick-off at 5am, 30 minutes earlier than previous years, at the heart of Orchard Road at the T-junction after Ngee Ann City. Runners will run pass landmarks such as Fort Canning Park, Clarke Quay, Chinatown, the Esplanade, Singapore Flyer and the Marina Bay Sands Integrated Resort. The runners will cross the Helix Bridge before making the final push to the finish line at the Padang.
 
@@ -64,7 +64,7 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-About Standard Chartered Bank in Singapore
+**About Standard Chartered Bank in Singapore**
 <br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
@@ -77,20 +77,19 @@ It serves both Consumer and Wholesale Banking customers. Consumer Banking provid
 The Bank employs over 5,700 people in Singapore and has a network of 18 branches, 29 ATMs, and 6 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
 
 For media enquiries, please contact:
-Samantha See
-Fulford Public Relations
-Office: (65) 6324 5293
-Email: ssee@fulfordpr.com
-statics0
-statics0	
+<br>Samantha See
+<br>Fulford Public Relations
+<br>Office: (65) 6324 5293
+<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
+	
 Katherine Kee
-Fulford Public Relations
-Office: (65) 6324 2284
-Email: kkee@fulfordpr.com
-statics0
+<br>Fulford Public Relations
+<br>Office: (65) 6324 2284
+<br>Email: [kkee@fulfordpr.com](kkee@fulfordpr.com)
+
 Tanty Nazlianah Rosli
-Senior Manager
-Public Relations & Social Media
-Singapore Sports Council
-Office: (65) 6500 5241
-Email: tanty_nazlianah@ssc.gov.sg
+<br>Senior Manager
+<br>Public Relations & Social Media
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5241
+<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
