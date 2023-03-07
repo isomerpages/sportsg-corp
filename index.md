@@ -17,7 +17,6 @@ sections:
       url: /contact-us/
   - infobar:
       title: Serving Through Sport With Passion And Pride
-      subtitle: Subtitle
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
         Singapore through innovative, fun and meaningful sporting experiences.
       button: Learn more
