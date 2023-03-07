@@ -389,7 +389,7 @@ Athletes
 |228. |Table Tennis | Gao Ning | 高宁| 28| M| √   | Men's Team <br>Men's Doubles<br>Men's Singles <br>Mixed Doubles
 |229.  |  Table Tennis |  Li Jiawei|李佳微|29|F||  Women's Team<br>Women's Doubles
 |  230. |  Table Tennis | Ma Liang |  马良 |  19 |  M |  √    |  Men's Team <br>Men's Doubles
-|  231. |  Pang Xue Jie|  庞学杰|  17|  M |  √    |  Men's Team<br>Men's Doubles
+|  231. |  Table Tennis | Pang Xue Jie|  庞学杰|  17|  M |  √    |  Men's Team<br>Men's Doubles
 |  232.| Table Tennis | Sun Beibei |  孙蓓蓓 |  26 |  F|  Women's Team <br>Women's Doubles
 | 233. | Table Tennis | Wang Yuegu| 王越古| 30| F| √   | Women's Team <br>Women's Doubles <br>Women's Singles <br>Mixed Doubles
 | 234. | Table Tennis | Yang Zi| 杨子| 26| M| Men's Team
