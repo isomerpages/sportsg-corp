@@ -183,27 +183,9 @@ Athletes
 | 21.  |  Aquatics - Waterpolo | Eugene Teo Zhen Wei | 张真玮 | 22 | M | √    | Team (M)
 | 22.  | Aquatics - Waterpolo | Foo Chuan Yu | 符传煜 | 20 | M | √    | Team (M)
 | 23.  | Aquatics - Waterpolo | Kelvin Ong Weisheng | 王伟圣 | 26 | M | √    | Team (M)
-| 24. | Lim Yaoxiang | 林耀翔 | 28 | M
-
-√   
-
-Team (M)
-
-25.   
-
-Lin Diyan
-
-林迪晏
-
-24
-
-M
-
-√   
-
-Team (M)
-
-26.   
+| 24. | Aquatics - Waterpolo | Lim Yaoxiang | 林耀翔 | 28 | M | √   | Team (M)
+| 25.  | Aquatics - Waterpolo | Lin Diyan | 林迪晏 | 24 | M | √    | Team (M)
+| 26.   
 
 Lin Diyang
 
