@@ -54,11 +54,11 @@ _Caption: Nila the official mascot of the 28th SEA Games & 8th ASEAN Para Games 
 
 \-END-
 
-**For high-resolution photos:** [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](http:). Please credit photos to Singapore Sports Council.
+**For high-resolution photos:** [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). Please credit photos to Singapore Sports Council.
 
 **Related Link:**
 
-[**Speech By Mr Lawrence Wong, Acting Minister For Culture, Community And Youth, And Senior Minister Of State For Communications And Information, At The Singapore 2015 Launch Party**](http://corp-authoring.ssc.gov.sg/?sc_itemid=%7BAF0CD399-D19A-4989-A501-3CC5F8BC4EE7%7D&sc_mode=preview&sc_lang=en)
+[**Speech By Mr Lawrence Wong, Acting Minister For Culture, Community And Youth, And Senior Minister Of State For Communications And Information, At The Singapore 2015 Launch Party**](/media-centre/speeches/the-singapore-2015-launch-party/)
 
 **For media enquiries, please contact:**  
   
@@ -67,29 +67,29 @@ Senior Executive, Media Relations
 Singapore Sports Council  
 Tel: (65) 6500 5246  
 HP: (65) 9729 3700  
-Email: [rachel\_ang@ssc.gov.sg](http:)  
+Email: [rachel\_ang@ssc.gov.sg](mailto:rachel\_ang@ssc.gov.sg)
   
 S. Parameswaran  
 Assistant Director, Media Relations  
 Singapore Sports Council  
 Tel: (65) 6500 5236  
 HP: (65) 9839 1974  
-Email: [parames\_seenivasagam@ssc.gov.sg](http:)  
+Email: [parames\_seenivasagam@ssc.gov.sg](mailto:parames\_seenivasagam@ssc.gov.sg)
   
   
 **About Singapore Sports Council (SSC)**  
   
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.  
   
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg  
-Follow us on Facebook at: www.facebook.com/SingaporeSports  
-For a range of photographs, visit flickr.com/ssc-sportsphotography  
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg  
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)  
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)  
   
 **About Singapore National Olympic Council (SNOC)**  
   
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.  
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).  
   
 **Follow us on:**  
-28th SEA Games Website: www.seagames2015.com  
-28th SEA Games Facebook Page: www.facebook.com/SEAGAMES2015  
-8th ASEAN Para Games Facebook Page: www.facebook.com/ASEANPARAGAMES2015
+28th SEA Games Website: [www.seagames2015.com](www.seagames2015.com)  
+28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)
+8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)
