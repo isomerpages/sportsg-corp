@@ -396,7 +396,7 @@ Athletes
 | 235.  |Table Tennis | Yu Mengyu | 于梦雨 | 21 | F | √   |  Women's Team
 |236.  |Taekwondo | Jason Tan Junwei | 陈俊玮 | 18 | M | √   | Under 58kg
 | 237.  | Wushu | Khor Poh Chin | 许宝真  | 24  | F| |  Changquan (W)<br>Jianshu (W) <br>Qiangshu All-round (W) 
-| 238.  | Lee Tze Yuan  | 李志远  | 19  | M | √    Taijiquan (M)<br>Taijijian All-round (M)
+| 238.  | Wushu | Lee Tze Yuan  | 李志远  | 19  | M | √  | Taijiquan (M <br>Taijijian All-round (M)
 
 239.        
 
