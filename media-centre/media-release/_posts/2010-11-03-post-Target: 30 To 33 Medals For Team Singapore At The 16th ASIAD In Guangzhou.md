@@ -343,20 +343,7 @@ Athletes
 | 182.  | Rugby | Fong Sei Yin| 冯雪燕| 34| F| √   | Team (W)
 | 183. | Rugby | Amanda Teo Baoling| 张宝玲| 23| F| √   | Team (W)
 | 184.  | Sailing| Cecilia Low Rui Qi| 刘瑞琦| 19| F| √   | 420 Girl
-
-185.        
-
-Colin Cheng Xinru
-
-郑忻如
-
-21
-
-M
-
- 
-
-Laser Standard (M)
+| 185. |  Sailing|Colin Cheng Xinru| 郑忻如| 21| M| | Laser Standard (M)
 
 186.        
 
