@@ -171,13 +171,7 @@ Athletes
 <br>100m Freestyle (W) <br>50m Butterfly (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W)
 | 10.  | Nicholas Tan Xue-Wei | 陈雪伟 | 21 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>4X100m Freestyle Relay (M)<br>4X100m Medley Relay (M)
 | 11.  | Pang Sheng Jun | 冯盛均 | 18 | M | √   | 50m Butterfly (M) <br>100m Butterfly (M) <br>200m Breaststroke (M) <br>200m Individual Medley (M) <br>400m Individual Medley (M) <br>4X200m Medley Relay (M)
-| 12.   
-
-Parker Lam Wei-Xiong
-
-林伟雄
-
-21
+| 12. | Parker Lam Wei-Xiong | 林伟雄 | 21
 
 M
 
