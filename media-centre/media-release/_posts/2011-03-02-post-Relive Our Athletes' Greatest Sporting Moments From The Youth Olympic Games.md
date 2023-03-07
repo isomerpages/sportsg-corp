@@ -90,25 +90,26 @@ Annex A - List of 17 SSC Sports & Recreation Centres
 
 Annex B - Selected Photos for Exhibition
 [Annex B - Selected Photos for Exhibition](/files/Media%20Centre/Media%20Release/2011/March/Annex%20B%20%20Selected%20Photos%20for%20Exhibitionpdf.pdf) [344 Kb]
+
 Annex C - Schedule of Sports Photography Workshops
 
 Trainer: Russell Boyce - Chief Photographer, Asia (Reuters)
-Date: Saturday, 5 March 2011
-Time: 9am - 12pm
-Venue: Jalan Besar Stadium (Level 2 Boardroom)
+<br>Date: Saturday, 5 March 2011
+<br>Time: 9am - 12pm
+<br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
 
 Trainer: Mindy Tan - Multi-award Winning Photographer
-Date: Saturday, 19 March 2011
-Time: 9am - 12pm
-Venue: Jalan Besar Stadium (Level 2 Boardroom)
+<br>Date: Saturday, 19 March 2011
+<br>Time: 9am - 12pm
+<br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
 
 Trainer: Jeremy Lee - Photographer and Sub-Editor, Action Images
-Date: Saturday, 26 March 2011
-Time: 9am - 12pm
-Venue: Jalan Besar Stadium (Level 2 Boardroom)
-statics0
+<br>Date: Saturday, 26 March 2011
+<br>Time: 9am - 12pm
+<br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
+
 Annex D - Profiles of Sports Photography Workshop Trainers
-statics0
+
 Russell Boyce - Chief Photographer, Asia (Reuters)
 
 Having started out as a staff photographer in 1988, Russell has travelled the globe covering the most high profile news and sports events for Reuters UK. His assignments have included the Olympics, cricket, football and rugby World Cups and the Formula OneTM races. In addition to his illustrious career, Russell has also worked in war zones and covered international politics. In his 8 years tenure there, he progressed to become the Deputy Chief Photographer for UK and Ireland.
