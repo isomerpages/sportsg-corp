@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **SSC Venues To Be Used As Rally Sites For GE 2011
-Singapore**
+## **SSC Venues To Be Used As Rally Sites For GE 2011 Singapore**
 
 SSC VENUES TO BE USED AS RALLY SITES FOR GE 2011
 Singapore, 27 April 2011 - From 28 April 2011 to 5 May 2011, a total of 14 Singapore Sports Council (SSC) facilities island-wide will be designated for use at selected times as rally sites for the Singapore General Election (GE) 2011.
