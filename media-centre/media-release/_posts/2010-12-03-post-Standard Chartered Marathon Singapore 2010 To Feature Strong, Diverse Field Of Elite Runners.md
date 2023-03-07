@@ -29,87 +29,87 @@ STANDARD CHARTERED MARATHON SINGAPORE 2010 TO FEATURE STRONG, DIVERSE FIELD OF E
 
 9. The SCMS 2010 will see a record 60,000 runners competing in a variety of categories which includes the Full Marathon, the Half-marathon and the 10km Run. Featuring three different routes, runners will take in the full spectrum of iconic landmarks in Singapore including Orchard Road, Chinatown, Universal Studios Singapore, the Marina Bay Sands Integrated Resort and the Esplanade - Theatres on the Bay.
 
--End-
+---
 
-Annex A: List of Elite Athletes Participating in the SCMS 2010
+**Annex A: List of Elite Athletes Participating in the SCMS 2010**
+
 **Male Elite Athletes**
-<br>Ambesse Tolossa (Ethiopia)
-<br>Augustine Rono (Kenya)
-<br>Benjamin Maiyo (Kenya)
-<br>Benson Cherono (Kenya)
-<br>Edwin Kimaiyo (Kenya)
-<br>Francis Kibiwott Larabal (Kenya)
-<br>Francis Maundu (Kenya)
-<br>Hosea Kiprop Rotich (Kenya)
-<br>Kenneth Mburu Mungara (Kenya)
-<br>Leonard Mucheru (Kenya)
-<br>Stephen Kinyanjui (Kenya)
-<br>Thomas Cherogony (Kenya)
-<br>Thomas Omwenga (Kenya)
-<br>Vincent Krop (Kenya)
+* Ambesse Tolossa (Ethiopia)
+* Augustine Rono (Kenya)
+* Benjamin Maiyo (Kenya)
+* Benson Cherono (Kenya)
+* Edwin Kimaiyo (Kenya)
+* Francis Kibiwott Larabal (Kenya)
+* Francis Maundu (Kenya)
+* Hosea Kiprop Rotich (Kenya)
+* Kenneth Mburu Mungara (Kenya)
+* Leonard Mucheru (Kenya)
+* Stephen Kinyanjui (Kenya)
+* Thomas Cherogony (Kenya)
+* Thomas Omwenga (Kenya)
+* Vincent Krop (Kenya)
 
 **Female Elite Athletes**
-<br>Aberu Mekuria Zennebe (Ethiopia)
-<br>Adanech Zekiros (Ethiopia)
-<br>Annerien van Schalkwyk (South Africa)
-<br>Ayantu Dakebo Hailemaryam (Ethiopia)
-<br>Ayelu Lemma Geda (Ethiopia)
-<br>Gladys Asiba (Kenya)
-<br>Irene Jerotich Kosgei (Kenya)
-<br>Lyubov Morgunova (Russia)
-<br>Margarita Plaksina (Russia)
-<br>Seada Kedir Adilo (Ethiopia)
+* Aberu Mekuria Zennebe (Ethiopia)
+* Adanech Zekiros (Ethiopia)
+* Annerien van Schalkwyk (South Africa)
+* Ayantu Dakebo Hailemaryam (Ethiopia)
+* Ayelu Lemma Geda (Ethiopia)
+* Gladys Asiba (Kenya)
+* Irene Jerotich Kosgei (Kenya)
+* Lyubov Morgunova (Russia)
+* Margarita Plaksina (Russia)
+* Seada Kedir Adilo (Ethiopia)
 
-Annex B: Profiles of Elite Runners - Lyubov <br>Morgunova and Kenneth Mburu Mungara
-<br>Lyubov Morgunova
+**Annex B: Profiles of Elite Runners - Lyubov * Morgunova and Kenneth Mburu Mungara**
 
-Country: Russia
-<br>Hometown: Moscow
-<br>Birth Date: 14 January 1973
+* Lyubov Morgunova
+* Country: Russia
+* Hometown: Moscow
+* Birth Date: 14 January 1973
 
 Lyubov Morgunova is a long-distance runner from Russia who has represented her native country in the marathon at the 2000 Summer Olympics in Sydney, Australia. A veteran runner with victories in the 1997 Twin Cities Marathon, 2000 and 2004 Honolulu Marathon, 2003 Toronto Waterfront Marathon, and the 2008 Rotterdam Marathon, Morgunova was placed second in the Standard Chartered Singapore Marathon 2009.
 
 Personal Records:
-<br>Full Marathon: 2:25:12
-<br>Half Marathon: 1:08:45
-<br>10 KM: 32:55
+* Full Marathon: 2:25:12
+* Half Marathon: 1:08:45
+* 10 KM: 32:55
 
 Career Highlights:
-1996 Cesano Boscone Marathon, Second (2:37:30 - debut)
-1997 Twin Cities Marathon, Champion (2:30:43)
-1998 Beijing Marathon, Second (2:28:51)
-1999 Nagoya Women's Marathon, Second (2:27:43)
-1999 Amsterdam Marathon, Second (2:29:21)
-2000 Malmo Half Marathon, Third (1:08:45)
-2000 Honolulu Marathon, Champion (2:28:33)
-2001 Boston Marathon, Third (2:27:18)
-2003 Toronto Waterfront Marathon, Champion (2:36:19)
-2004 Honolulu Marathon, Champion (2:27:33)
-2006 Rock n Roll San Diego Marathon, Third (2:29:39)
-2007 Nagano Olympic Commemorative Marathon, Third (2:29:34)
-2008 Rotterdam Marathon, Champion (2:25:12)
-2009 Singapore Marathon, Second (2:34:47)
+* 1996 Cesano Boscone Marathon, Second (2:37:30 - debut)
+* 1997 Twin Cities Marathon, Champion (2:30:43)
+* 1998 Beijing Marathon, Second (2:28:51)
+* 1999 Nagoya Women's Marathon, Second (2:27:43)
+* 1999 Amsterdam Marathon, Second (2:29:21)
+* 2000 Malmo Half Marathon, Third (1:08:45)
+* 2000 Honolulu Marathon, Champion (2:28:33)
+* 2001 Boston Marathon, Third (2:27:18)
+* 2003 Toronto Waterfront Marathon, Champion (2:36:19)
+* 2004 Honolulu Marathon, Champion (2:27:33)
+* 2006 Rock n Roll San Diego Marathon, Third (2:29:39)
+* 2007 Nagano Olympic Commemorative Marathon, Third (2:29:34)
+* 2008 Rotterdam Marathon, Champion (2:25:12)
+* 2009 Singapore Marathon, Second (2:34:47)
 
 **Kenneth Mburu Mungara**
-<br>
-Country: Kenya
-<br>Hometown: Limuru
-<br>Birth Date: 7 September 1973
+* Country: Kenya
+* Hometown: Limuru
+* Birth Date: 7 September 1973
 
 Personal Records:
-<br>Full Marathon: 2:07:58
+* Full Marathon: 2:07:58
 
 Kenneth Mburu Mungara is a Kenyan long distance runner who specialises in the Marathon. Having won the Toronto Waterfront Marathon for three consecutive years from 2008 to 2010, Mungara is the current course record holder with a time of 2:07:58 set this year. Mungara has also clinched the 2009 Standard Chartered Mumbai Marathon with a time of 2:11:51, making him the current course record holder of the race.
 
 Career Highlights:
-<br>2007 Mombasa Marathon, Second (2:10:13)
-<br>2008 Tiberias Marathon, Second (2:10:37)
-<br>2008 Prague Marathon, Champion (2:11:06)
-<br>2008 Toronto Waterfront Marathon, Champion (2:11:01)
-<br>2009 Mumbai Marathon, Champion (2:11:51)  Course Record
-<br>2009 Prague Marathon, Third (2:10:29)
-<br>2009 Toronto Waterfront Marathon, Champion (2:08:32) - Course & Canadian Record
-<br>2010 Toronto Waterfront Marathon, Champion (2:07:58) - Course & Canadian Record
+* 2007 Mombasa Marathon, Second (2:10:13)
+* 2008 Tiberias Marathon, Second (2:10:37)
+* 2008 Prague Marathon, Champion (2:11:06)
+* 2008 Toronto Waterfront Marathon, Champion (2:11:01)
+* 2009 Mumbai Marathon, Champion (2:11:51)  Course Record
+* 2009 Prague Marathon, Third (2:10:29)
+* 2009 Toronto Waterfront Marathon, Champion (2:08:32) - Course & Canadian Record
+* 2010 Toronto Waterfront Marathon, Champion (2:07:58) - Course & Canadian Record
 
 Annex C: [SCMS 2010 Event Day Fact Sheet [348 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS%202010%20Event%20Day%20Fact%20Sheetpdf.pdf)
 
@@ -118,11 +118,11 @@ Annex C: [SCMS 2010 Event Day Fact Sheet [348 Kb]](/files/Media%20Centre/Media%2
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
-<br>
+
 Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
 **About Standard Chartered Bank in Singapore**
@@ -137,17 +137,18 @@ It serves both Consumer and Wholesale Banking customers. Consumer Banking provid
 
 The Bank employs over 5,700 people in Singapore and has a network of 18 branches, 29 ATMs, and 6 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
 
-For media enquiries, please contact:
-<br>Samantha See
-<br>Fulford Public Relations
-<br>Email: ssee@fulfordpr.com
+**For media enquiries, please contact:**
 
-Katherine Kee
-<br>Fulford Public Relations
-<br>Email: kkee@fulfordpr.com
+Samantha See<br>
+Fulford Public Relations<br>
+Email: ssee@fulfordpr.com
 
-Jemuel Fu
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Email: jemuel_fu@ssc.gov.sg
+Katherine Kee<br>
+Fulford Public Relations<br>
+Email: kkee@fulfordpr.com
+
+Jemuel Fu<br>
+Executive<br>
+Media Relations<br>
+Singapore Sports Council<br>
+Email: jemuel_fu@ssc.gov.sg
