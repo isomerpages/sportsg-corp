@@ -325,64 +325,11 @@ Athletes
 | 164.   | Hockey | Mohd Ishak Bin Ismail | NA | 27 | M  | √     | Team (M)
 | 165.  | Hockey |  Prashan s/o Anbalagan | NA | 18 | M | √    | Team (M)
 | 166.  | Hockey | Muhd Baqir Bin Asali | NA | 18 | M | √    | Team (M)
-
-167.        
-
-Mohd Farhan Bin Kamsani
-
-NA
-
-22
-
-M
-
-√   
-
-Team (M)
-
-168.        
-
-Enrico Elifh Marican
-
-NA
-
-19
-
-M
-
-√   
-
-Team (M)
-
-169.        
-
-Ian James Valence Vanderput
-
-NA
-
-22
-
-M
-
-√   
-
-Team (M)
-
-170.        
-
-Chia Kai Bin
-
-谢凯冰
-
-23
-
-M
-
-√   
-
-Team (M)
-
-171.        
+| 167. | Hockey | Mohd Farhan Bin Kamsani | NA | 22 | M | √    | Team (M)
+| 168. | Hockey | Enrico Elifh Marican| NA| 19| M| √   | Team (M)
+| 169. | Hockey | Ian James Valence Vanderpu | NA | 22 | M | √   | Team (M)
+| 170.| Hockey | Chia Kai Bin| 谢凯冰| 23| M| √   | Team (M)
+| 171.        
 
 Rowing
 
