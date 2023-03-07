@@ -238,7 +238,7 @@ Athletes
 | 77.   | Dragon Boat|  Derick Tan Jia Xiong| 陈家雄| 25| M| √    | Team (Men)
 | 78. | Dragon Boat|  Gan Choon Kiat | 颜俊杰 | 33 | M | √   | Team (Men)
 | 79. | Dragon Boat| Glenn Chan Wei Xiang  | 曾威祥  | 24  | M  | √    | Team (Men)
-| 80.  | Jonathan Gan Cai Sheng | 颜才盛  | 20  | M  | √    | Team (Men)
+| 80.  | Dragon Boat| Jonathan Gan Cai Sheng | 颜才盛  | 20  | M  | √    | Team (Men)
 | 81. | Dragon Boat| Mark Liu Hou Cheng | 廖皓政 | 23 | M | √   | Team (Men)
 | 82.  | Dragon Boat| Michael Luo Weining | 罗伟宁 | 25 | M | √   | Team (Men)
 83.  | Dragon Boat|  Mohamad Faizal Bin Mokmin | NA | 29 | M | √ | Team (Men)
