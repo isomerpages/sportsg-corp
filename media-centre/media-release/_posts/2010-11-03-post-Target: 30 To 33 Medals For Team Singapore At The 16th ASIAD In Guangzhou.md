@@ -170,8 +170,7 @@ Athletes
 | √   | 200m Freestyle (W) <br>400m Freestyle (W) <br>800m Freestyle (W)<br>4x200m Freestyle Relay (W) 
 | 9.  | Mylene Ong Chui Bin  | 王翠彬  | 19  | F  | 50m Freestyle (W)
 <br>100m Freestyle (W) <br>50m Butterfly (W) <br>4x100m Freestyle Relay (W) <br>4x200m Freestyle Relay (W)
-
-10.   
+| 10.   
 
 Nicholas Tan Xue-Wei
 
