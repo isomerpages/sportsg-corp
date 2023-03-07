@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **SSC Launches Market Sounding Exercise For Changi Site**
+### **SSC Launches Market Sounding Exercise For Changi Site**
 
 **Singapore, 27 July 2012** - The Singapore Sports Council (SSC) has rolled out a comprehensive four-month market sounding exercise to assess the level of continuing interest and ideas among potential investors for a motorsports hub or other sports and lifestyle concepts at the 41 hectare site in Changi, which was earlier slated for a Motorsports Hub development.
 
@@ -20,10 +20,10 @@ image: ""
 
 6. SSC had earlier terminated the Project Delivery Agreement with SG Changi for the Changi Motorsports Hub on 7 December 2011. Both parties have also signed off on a deed of termination on various issues relating to the land on 15 May 2012, with SSC currently in possession of the site.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Jemuel Fu
 <br>Executive, Media Relations
 <br>Singapore Sports Council
