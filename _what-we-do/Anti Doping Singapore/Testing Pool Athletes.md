@@ -61,3 +61,17 @@ When an athlete retires while serving a period of ineligibility, the clock stops
 
 * wait out either the remaining period of ineligibility or the reinstatement period, whichever is longer; and
 * be subject to out-of-competition testing.
+
+#### **WHEREABOUTS INFORMATION**
+
+**An effective out-of-competition testing programme depends largely on accurate and updated whereabouts information.** 
+
+Athletes who have been nominated by Anti-Doping Singapore (ADS) or their National Sports Association (NSA) to be included into the ADS Registered Testing Pool (RTP) or the ADS Domestic Testing Pool (DTP) are required to provide accurate and updated Whereabouts Information to ensure they can be tested at anytime and anywhere with no advance notice. 
+
+Athletes in the RTP may incur anti-doping rule violations and subsequent sanctions, if they do not provide accurate and updated whereabouts information.
+
+Athletes in the DTP who do not provide updated and accurate whereabouts information may be included in the ADS RTP.
+
+Athletes must continue to file whereabouts information until:
+
+ADS gives written notice to athletes of their removal from its RTP or DTP; or
