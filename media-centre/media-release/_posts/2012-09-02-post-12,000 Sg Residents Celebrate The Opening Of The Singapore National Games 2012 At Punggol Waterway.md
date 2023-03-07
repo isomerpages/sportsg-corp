@@ -7,7 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-## **12,000 Singapore Residents Of All Ages, Races And Backgrounds Celebrate The Opening Of The Singapore National Games 2012 At Punggol Waterway**
+### **12,000 Singapore Residents Of All Ages, Races And Backgrounds Celebrate The Opening Of The Singapore National Games 2012 At Punggol Waterway**
+
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGERESIDENTSOFALLAGESRACESANDBCKGDSCELEBRATEOPENOFTHESGNATIONALGAMES2012MainPar0061Imagegif.gif)
 	
 **Singapore, 1 September 2012** - About 12,000 people comprising residents, athletes and volunteers from all walks of life were part of the inaugural Singapore National Games (SNG) 2012 Opening Ceremony at Punggol Waterway this evening, jointly organised by the People's Association (PA) and Singapore Sports Council (SSC). The event brought residents of different races, ages and backgrounds from all over Singapore to celebrate the opening of the first-ever SNG together, demonstrating the 'We are One' Singapore Spirit at the same time.
@@ -18,13 +19,13 @@ image: ""
 
 4. Earlier in the afternoon, the crowd was also treated to roving Cheer Entertainment by the 15 Clusters in their respective Cluster sports theme attire. Some of the acts included a Bubbles Magician, Ball Juggling, Cheerleading and Balloon Sculpting. These activities further roused the celebratory mood of the residents present. And for many, this was only the beginning of a memorable Games for all. Competitions for SNG 2012 have already started in the morning and more will follow over the next nine days across the island.
 
--END-
+---
 
-Annex
-<br>
-**The Singapore National Games 2012
+**Annex**
+
+**The Singapore National Games 2012<br>
 List of SNG Baton Bearers and Pledge-Takers**
-<br>
+
 (I) List of SNG 2012 Baton Bearers
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/12000SGRESIDENTSOFALLAGESRACESANDBKGDSCELEBRATEOPENINGSGNATIONALGAMES2012ATMainPar0040Imagegif.gif)
 
@@ -34,14 +35,14 @@ List of SNG Baton Bearers and Pledge-Takers**
 
 
 
-**The Singapore National Games 2012
+**The Singapore National Games 2012<br>
 SNG Athletes & Officials' Oath**
 <br>
 The athletes and officials raise their right hands while reciting the oath in unison:
 
 "On behalf of all the athletes and officials taking part in the Singapore National Games, we promise to abide by the rules of the Games, in the true spirit of sportsmanship and for the honour of our people and greater good of our communities."
 
-**The Singapore National Games 2012
+**The Singapore National Games 2012<br>
 Fact Sheet - Cluster Raft Design Competition**
 <br>
 OBJECTIVES
@@ -65,12 +66,12 @@ WATER CONTINGENT SAIL PAST DURING SNG 2012 OPENING CEREMONY AT PUNGGOL WATERWAY
 * Level of synchronisation and energy level
 * Cluster identity and passion and love for SNG
 
-WHEN WILL THE RESULTS OF THE AWARDS BE ANNOUNCED?
+**WHEN WILL THE RESULTS OF THE AWARDS BE ANNOUNCED?**
 <br>Results will be announced after the closing ceremony of the SNG 2012 on 9 September 2012 at Bishan Stadium.
 
 
 **For media enquiries, please contact:**
-<br>
+
 U-Lynn LEE
 <br>Fulford Public Relations 
 <br>Email: ullee@fulfordpr.com
@@ -89,9 +90,9 @@ Adlina JAFFAR
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sgv), [www.Vision2030.sg](www.Vision2030.sg) and [SingaporeSports.sg](SingaporeSports.sg)
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG ](www.twitter.com/Lets_PlaySG )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 **About People's Association**
