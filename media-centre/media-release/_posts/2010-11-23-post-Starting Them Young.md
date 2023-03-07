@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-## **Starting Them Young**
+### **Starting Them Young**
 
-STARTING THEM YOUNG
 SSC Launches First-ever Fundamental Movement Skills Resource Guide To Boost The Development Of Physical Literacy
 
 **Singapore 23 November 2010** - Children in Singapore will now receive a holistic education right from preschool with the launch of "FUN Start, MOVE Smart! The FUNdamental MOVEment Skills for Growing Active Learners" developed by the Singapore Sports Council (SSC).
@@ -31,7 +30,7 @@ SSC Launches First-ever Fundamental Movement Skills Resource Guide To Boost The 
 
 10. The "FUN Start, MOVE Smart! The FUNdamental MOVEment Skills for Growing Active Learners Resource Guide" is developed as part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
 
--End-
+---
 
 **About the Singapore Sports Council**
 <br>
@@ -50,7 +49,8 @@ For a range of photographs, search for "Singapore Sports Council" on [www.flickr
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
 
 **For media enquiries, please contact:**
-<br>Grace Cher
+
+Grace Cher
 <br>Account Executive
 <br>STC Associates
 <br>Email: [grace@stcassociates.com](grace@stcassociates.com)
