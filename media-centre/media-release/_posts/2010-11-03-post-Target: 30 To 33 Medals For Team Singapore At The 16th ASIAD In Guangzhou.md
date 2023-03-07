@@ -426,53 +426,14 @@ Team Officials
 | 14. | Athletics|David Yeo Chee Ping| Coach
 | 15.  | Badminton| Eng Hian| Team Manager/ Coach
 | 16. | Bowling| Melvin Lim| Team Manager
-| 17.   
-
-Mervyn Foo Chee Leong
-
-Coach
-
-18.   
-
-Henry Tan Yoke See
-
-Coach
-
-19.   
-
-William Woo Nam Fatt
-
-Coach
-
-20.   
-
-Francis Yeo Lau Seng
-
-Coach
-
-21.   
-
-Canoe-Kayak
-
-Zason Chian Lit Khoon
-
-Team Manager
-
-22.   
-
-Balazs Babella
-
-Coach
-
-23.   
-
-Chess - Xiangqi
-
-Lee Sit Seng
-
-Team Manager
-
-24.   
+| 17. | Bowling| Mervyn Foo Chee Leong | Coach
+| 18. | Bowling| Henry Tan Yoke See| Coach
+| 19.  | Bowling| William Woo Nam Fatt| Coach
+| 20.  | Bowling| Francis Yeo Lau Seng| Coach
+| 21.  | Canoe-Kayak| Zason Chian Lit Khoon| Team Manager
+| 22.| Canoe-Kayak| Balazs Babella| Coach
+| 23. | Chess - Xiangqi| Lee Sit Seng| Team Manager
+| 24.   
 
 Cue Sports
 
