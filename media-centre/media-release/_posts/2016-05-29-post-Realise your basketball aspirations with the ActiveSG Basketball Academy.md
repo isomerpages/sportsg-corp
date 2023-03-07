@@ -11,7 +11,7 @@ Sport Singapore continues to demonstrate its commitment towards building a stron
   
 Says Mr Lim Teck Yin, Chief Executive Officer, Sport Singapore, “Basketball continues to be amongst the top 10 sports in Singapore, being played widely in schools and at a community level. The ActiveSG Basketball Academy will seek to complement the efforts of the BAS and Singapore Slingers in encouraging participation, raising the quality of coaching and programmes, and nurturing a calendar of leagues and competitions for all ability levels. All our academies and clubs will give emphases to developing transferable life skills too."  
   
-**A partnership that delivers new value for basketball enthusiasts**  
+##### **A partnership that delivers new value for basketball enthusiasts**  
 
 A partnership between Sport Singapore, Basketball Association of Singapore and the Singapore Slingers, the ActiveSG Basketball Academy will be helmed by Principal, former national coach Neo Beng Siang and will provide a continuous pathway for everyone – from kids, to youths to working adults, to realise their potential and to engage in the sport.  
   
@@ -25,19 +25,16 @@ Says Principal of the ActiveSG Basketball Academy Neo Beng Siang, “The ActiveS
   
 Commencing in September 2016, the ActiveSG Basketball Academy will have sessions conducted in five centres islandwide – Choa Chu Kang Sports Centre, Clementi Sports Centre, Delta Sports Centre, Hougang Sports Centre and Pasir Ris Sports Centre.  
   
-Interested participants can register their interest online at [https://www.myactivesg.com/academy/basketball](https://www.myactivesg.com/academy/basketball)  
+Interested participants can register their interest online at [https://www.myactivesg.com/academy/basketball](https://www.myactivesg.com/academy/basketball)  
   
 
-#### **About the ActiveSG Basketball Academy**
-
-  
+**About the ActiveSG Basketball Academy**
+<br>
 At the ActiveSG Basketball Academy, boys and girls learn, play and develop progressively through fun. From learning the basics of the sport to moving on to higher skill levels, we’ve got it all to unleash your child’s potential as the next basketball superstar.  
   
-Led by former national coach Neo Beng Siang, beyond the basic skills, participants will learn about the important values such as discipline, respect and team spirit, and acquire valuable life skills including communication, goal setting and problem solving through the game of basketball. Our holistic programme is designed to build character and encourage the children to pursue their sporting passion with the right attitude. 
+Led by former national coach Neo Beng Siang, beyond the basic skills, participants will learn about the important values such as discipline, respect and team spirit, and acquire valuable life skills including communication, goal setting and problem solving through the game of basketball. Our holistic programme is designed to build character and encourage the children to pursue their sporting passion with the right attitude. 
 
 **ActiveSG Basketball Academy programme structure**
-
-
 
 | 5 to 9 years | 10 to 12 years | 13 to 14 years |
 | -------- | -------- | -------- |
