@@ -120,14 +120,12 @@ NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 | Wrestling | 21 - 26 November 2010
 | Wushu | 3 - 17 November 2010
 
- 
-
 TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS: 241 athletes & 120 officials
-
+<br>
 CHEF DE MISSION FOR TEAM SINGAPORE: Low Teo Ping
-
+<br>
 TEAM SINGAPORE FLAG BEARER: Jasmine Yeong-Nathan
-
+<br>
 TEAM SINGAPORE'S PARTICIPATION: 22 sports
 
  
