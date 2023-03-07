@@ -45,18 +45,18 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-About Let's Play
+**About Let's Play**
 <br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 <br>Grace Cher
 <br>Account Executive
 <br>STC Associates
-<br>Email: grace@stcassociates.com
+<br>Email: [grace@stcassociates.com](grace@stcassociates.com)
 
 Patricia Yee
 <br>Executive
 <br>Public & Media Relations
 <br>Singapore Sports Council
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
