@@ -8,7 +8,6 @@ image: ""
 ---
 ## **Spreading The Cheer**
 
-SPREADING THE CHEER
 The National Cheerleading Championships Returns for a Second Edition
 
 **Singapore 8 March 2011** - The National Cheerleading Championships is back! Following a successful first edition in 2010, the best cheer squads in Singapore will once again battle it out at the National Cheerleading Championships 2011 on 19 and 20 March at the Jurong East Sports Hall.
@@ -31,24 +30,20 @@ The National Cheerleading Championships Returns for a Second Edition
 
 10. The National Cheerleading Championships 2011 is held in conjunction of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
 
--End-
+---
 
-Annex A - National Cheerleading Championships 2011 Fact Sheet
-DATE: Saturday, 19 and Sunday, 20 March 2011
-<br>
-VENUE: Jurong East Sports Hall (21 Jurong East Street 31 Singapore 609517)
-<br>
-ORGANISERS: Singapore Sports Council and the Federation of Cheerleading Singapore
-<br>
+Annex A - National Cheerleading Championships 2011 Fact Sheet<br>
+DATE: Saturday, 19 and Sunday, 20 March 2011<br>
+VENUE: Jurong East Sports Hall (21 Jurong East Street 31 Singapore 609517)<br>
+ORGANISERS: Singapore Sports Council and the Federation of Cheerleading Singapore<br>
 GUEST-OF-HONOUR: Ms Grace Fu, Senior Minister of State, Ministry of National Development and Ministry of Education
 
  
 
-COMPETITION COMPONENTS\
+COMPETITION COMPONENTS<br>
 Total no. of teams: 27 teams, 40 entries
 
 Competitive Segment
-<br>
 1. Team Event (12-16 persons per team) 
 <br>Open (Universities, Independent Cheer Squads)
 <br>High School (Secondary Schools and Polytechnics)
@@ -60,7 +55,6 @@ Competitive Segment
 
 
 Freestyle Segment (12 - 25 persons per team)
-<br>
 1. Open
 2. Secondary School
 
@@ -69,33 +63,30 @@ PRIZES
 Top three winners of each category will receive trophies and medals
 
 Competitive Segment
-<br>
-1.    Overall Champion - 50% subsidised trip to participate in the 5th Cheerleading Asian-International Open 2011
+1.  Overall Champion - 50% subsidised trip to participate in the 5th Cheerleading Asian-International Open 2011
 <br>Team Event
 <br> Top three teams from Open and High School categories - invitation to perform at Public Service Week and World Netball Championships 2011 Singapore, and 50% subsidised trip to participate in the 3rd Asian-Thailand Cheerleading invitational 2011
 <br>Primary School - 1st prize S$800, 2nd prize S$500, 3rd prize S$300
-
-2.    Group Stunts
+2.  Group Stunts
 <br>All Female
 <br>Mixed
+3.  Partner Stunts
 
-3.    Partner Stunts
 
 Freestyle Segment
 <br>1st prize S$800, 2nd prize S$500, 3rd prize S$300
 1. Open
 2. Secondary School
 
-JUDGES
+##### **Judges**
 
 Judges representing International Federation of Cheerleading:
-<br>
 1. Ms Ayako Kitano (Japan, Head Judge)
-2.  Ms Yuko Minegishi (Japan)
-3.  Mr Rapeepong Upama (Thailand)
+2. Ms Yuko Minegishi (Japan)
+3. Mr Rapeepong Upama (Thailand)
 4. Mr Oki Trihartomo (Indonesia)
-5.  Mr Ami Sulistyo (Indonesia)
-6.  Mr Ajjie Mendelebar (Philippines)
+5. Mr Ami Sulistyo (Indonesia)
+6. Mr Ajjie Mendelebar (Philippines)
 
 Celebrity judges: Muttons of 987FM - Justin Ang and Vernon A
 
@@ -106,34 +97,20 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
 
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Let's Play**
 <br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [SingaporeSports.sg](SingaporeSports.sg).
 
-For media enquiries, please contact:
-<br>Patricia Yee
+**For media enquiries, please contact:**
+
+Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
 <br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
-
- 
-The latest Sport Singapore news delivered to your inbox
-<br>Name
-<br>Email
-<br>Sport Singapore
-<br>Best viewed using IE 11, Firefox 52,
-Chrome 56, Safari 8, Opera 43 and above
-
-Contact Us 
-<br>Feedback FAQ
-<br>Report Vulnerability 
-<br>Terms of Use Privacy Statement
-<br>© 2019 Sport Singapore. 
-<br>Last Updated: 28 February, 2023
