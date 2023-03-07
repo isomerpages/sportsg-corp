@@ -414,36 +414,11 @@ Team Officials
 | 2.| Fang Hai Jiao| Coach
 | 3.  | Roger Fitzerald| Coach
 | 4.  | Taisuke Kinugasa | Coach
-
-5.     
-
-Jin Xiao Li
-
-Coach
-
-6.     
-
-David Lim Fong Jock
-
-Coach
-
-7.     
-
-Barry Prime
-
-Coach
-
-8.     
-
-See Puey Kheng
-
-Coach
-
-9.     
-
-Aquatics - Waterpolo
-
-Samuel Wong Kok Piew
+| 5. | Jin Xiao Li| Coach
+| 6.  | David Lim Fong Jock| Coach
+| 7. | Barry Prime| Coach
+| 8. | See Puey Kheng| Coach
+| 9. | Aquatics - Waterpolo| Samuel Wong Kok Piew
 
 Team Manager
 
