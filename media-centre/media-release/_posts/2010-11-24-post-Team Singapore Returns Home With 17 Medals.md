@@ -6,14 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-Team Singapore Returns Home With 17 Medals
-Singapore , 24 Nov 2010
+## **Team Singapore Returns Home With 17 Medals**
 
 TEAM SINGAPORE RETURNS HOME WITH 17 MEDALS
 CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite High Level Of Competition In Guangzhou
-Guangzhou, 27 November 2010 - With 17 medals in the bag as the 16th Asian Games Guangzhou 2010 comes to a close, Chef-de-Mission Low Teo Ping today congratulated Team Singapore for a respectable showing at the quadrennial event, despite the extremely high standards showed by the competing nations, especially host nation China, which amassed a total of 383 medals, 185 of them gold [1].
+**Guangzhou, 27 November 2010** - With 17 medals in the bag as the 16th Asian Games Guangzhou 2010 comes to a close, Chef-de-Mission Low Teo Ping today congratulated Team Singapore for a respectable showing at the quadrennial event, despite the extremely high standards showed by the competing nations, especially host nation China, which amassed a total of 383 medals, 185 of them gold [1].
 
-2 Team Singapore returned from the 16th Asian Games Guangzhou 2010 having clinched four gold, seven silver and six bronze medals.
+2. Team Singapore returned from the 16th Asian Games Guangzhou 2010 having clinched four gold, seven silver and six bronze medals.
 
 3 "The level of competition was very high at this installment of the Asian Games and I am proud that our athletes managed to hold their own against athletes from powerhouses like China, Japan, Korea and Iran," said CDM Low. "Although we would be happier had we achieved our medal projections, I know our athletes have put in their very best effort, and they deserve our congratulations and support. I know each athlete will return to Singapore with enriching experiences and having learnt many lessons. I am certain they will use these experiences as an inspiration for greater perseverance, pride and performances at future games."
 
