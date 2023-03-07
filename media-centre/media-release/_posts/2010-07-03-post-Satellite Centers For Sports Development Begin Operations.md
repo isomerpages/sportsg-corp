@@ -45,10 +45,7 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
 
 **Annex 1 - Satellite Centres for Sports Development Programmes**
-
-
-
-
+<br>
 **Wrestling Satellite Centre**
 | | |
 |--|--|
@@ -60,8 +57,7 @@ Let's Play is a nation-wide movement by the Singapore Sports Council to encourag
 |Dates: | 10 weeks commencing Saturday 3rd July 2010<br>(4 x 10 week sessions will be run every year) |
 |Times: | Two sessions will be conducted every Saturday<br>1st session - 10.30am - 12noon<br>2nd session - 12noon - 1.30pm |
 | Age Group: | Participants will be divided into two age groups: |
-| Group 1 | 7 - 12 years old |
-| Group 2 | 13 - 16 years old |
+| Group 1<br>Group 2 | 7 - 12 years old<br>13 - 16 years old |
 |Number of participants: | 20 per session |
 | Certification: | After 10 weeks, participants will be at least half-way to achieving the yellow belt |
 | Next Steps: | The sessions will continue, allowing participants to work through the belt system |
@@ -69,7 +65,10 @@ Let's Play is a nation-wide movement by the Singapore Sports Council to encourag
 | Registration Details: | Registration may be completed online via the website (www.singaporewrestling.com), by phone (6280 4748) or walk-in at the National Wrestling Centre at 102 Upper Aljunied Road. |
 | Instructors: | Two qualified wrestling instructors |
 <br>
-|Sailing Satellite Centre |
+
+**Sailing Satellite Centre**
+| | |
+|--|--|
 | Overview: | An introductory programme on the sport of sailing combined with the development of knowledge, including understanding the environment, weather, tides, and decision-making. |
 || Sailing as a sport strongly contributes to important life-skills such as leadership, teamwork, applying scientific principles to real life scenarios and water safety.
 | Venue: | Marina Barrage
@@ -78,55 +77,27 @@ Let's Play is a nation-wide movement by the Singapore Sports Council to encourag
 || Every Saturday and Sunday<br>1st session - 9am to 12.30pm<br> 2nd session - 2pm to 5.30pm |
 |Age Group: | 7 - 14 years old |
 | Instructors: | 4 qualified instructors |
-Number of participants:
+| Number of participants: | 16 participants per half-day session |
+| Certification: | Participants will receive certification on completion of the half-day session |
+| Next Steps: | Participants can follow the comprehensive Singapore Sailing Federation system. The next step would be to complete the 4-day SailSmart, based at the National Sailing Centre or basic sailing courses available at sailing clubs islandwide. |
+| Cost: | $50 per participant, 3.5 hours of instruction. (1 coach to 4 participants) |
+| Registration Details: | Registration may be completed online via the website (www.sailing.org.sg), by phone (6444 4555), e-mail (gosailing@singaporesailing.org.sg), or walk-in to the National Sailing Centre at 1500 East Coast Parkway, Singapore 468963. |
+<br>
 
-16 participants per half-day session
-
- 
-
-Certification:
-
-Participants will receive certification on completion of the half-day session
-
- 
-
-Next Steps:
-
-Participants can follow the comprehensive Singapore Sailing Federation system. The next step would be to complete the 4-day SailSmart, based at the National Sailing Centre or basic sailing courses available at sailing clubs islandwide.
-
- 
-
-Cost:
-
-$50 per participant, 3.5 hours of instruction. (1 coach to 4 participants)
-
- 
-
-Registration Details:
-
-Registration may be completed online via the website (www.sailing.org.sg), by phone (6444 4555), e-mail (gosailing@singaporesailing.org.sg), or walk-in to the National Sailing Centre at 1500 East Coast Parkway, Singapore 468963.
-
- 
-
- 
-
- 
-
- 
-
-|Basketball Satellite Centre | Overview: | The Basketball programme will consist of 12 weeks of small sided games as well as guidance and coaching from qualified coaches. |
-
-|The sport will help hone the participants? life skills in areas of teamwork, decision-making and leadership and promotes a high level of fitness. (Participants get to bring home a basketball upon registration) |
+**Basketball Satellite Centre**
+| | |
+|--|--|
+| Overview: | The Basketball programme will consist of 12 weeks of small sided games as well as guidance and coaching from qualified coaches. |
+|| The sport will help hone the participants? life skills in areas of teamwork, decision-making and leadership and promotes a high level of fitness. (Participants get to bring home a basketball upon registration) |
 | Venue: | Bukit Panjang Government High - Indoor Sports Hall 7, Choa Chu Kang Avenue 4 Singapore 689809 |
 |Dates: | 12 weeks commencing Sunday 4 July 2010<br>(3 x 12 week sessions will be run every year)|
 |Times: | 3 sessions will be conducted every Sunday<br>First session - 9.00am to 11.00am<br>Second session - 11.00am - 1.00pm<br>Third session - 3.00pm - 5.00pm |
-| Age Group: | Participants will be divided into three age groups: |
-|Group 1 | 6 - 8 years old |
-|Group 2 | 9 - 11 years old |
-|Group 3 | 12 - 15 years old |
+| Age Group: | Participants will be divided into three age groups:
+| Group 1<br>Group 2<br>Group 3 | 6 - 8 years old<br> 9 - 11 years old<br>12 - 15 years old |
 |Instructors: | 3 qualified instructors |
 | Number of participants: | 30 per session |
 |Certification: | Participants will receive a certificate upon completion of the 10- week programme |
 | Next Steps: | Sessions will continue throughout the year. Participants can join in Singapore Basketball Association's other advance initiatives. |
 |Cost: | $180 for 12 weeks, 20 hours instruction.|
 | Registration Details: | Registration may be completed online via the website (www.bas.org.sg), by phone (6743 8425), e-mail (benson@bas.org.sg) or walk-in to the Singapore Basketball Centre at 601 Aljunied Crescent, #01-04, Singapore 389862 |
+<br>
