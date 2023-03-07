@@ -227,7 +227,7 @@ Athletes
 | 65.  | Cuesports |Charlene Chai Zeet Huey  | 蔡志蔚  | 30  | F |   | 6-Red Snooker Team <br>6-Red Snooker Singles <br>8-ball Pool Singles <br>9-ball Pool Singles
 | 66.  | Cuesports |Hoe Shu Wah | 何淑华 | 39 |F  | |6-Red Snooker Team <br>6-Red Snooker Singles <br>8-ball Pool Singles <br>9-ball Pool Singles
 | 67.   |Cuesports |Lim Chun Kiat  |林俊杰  |35  |M  |√     |Snooker Team <br>Snooker Singles
-| 68. | Cuesports |Peter Edward Gilchrist  |NA  |42  |M  |9-ball Singles
+| 68. | Cuesports |Peter Edward Gilchrist  |NA  |42  |M | |9-ball Singles
 | 69. | Cycling  | Dinah Chan Siew Kheng  | 曾秀卿  | 24  | F  | √     | Road Individual Time Trial (W)<br>Road Mass Start (W)
 | 70.   | Dragon Boat| Alvan Lim Heng Ann| 林兴安| 20| M| √    | Team (Men)
 | 71.  | Dragon Boat|Andrew Sim Yun Wen | 沈允 | 20 | M | √    | Team (Men)
