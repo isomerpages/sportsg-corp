@@ -110,3 +110,8 @@ Athletes should know that, under the Code, they are strictly liable whenever a p
 
 Athletes should always check with their International Federation or Anti-Doping Singapore (ADS) to find out what additional substances and methods are prohibited in their sport.  Athletes should always make their doctor aware that they are athletes and check if the prescribed medications is in the Prohibited List. Those who are unsure of what a product contains should not take it until they are sure it is not prohibited. Ignorance is never an excuse.
 
+**MEDICAL CONDITIONS**
+
+Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine.
+
+Athletes who need to apply for a TUE should request more information about the TUE application process from their International Federation (for international-level athletes) or ADS (for national-level athletes).
