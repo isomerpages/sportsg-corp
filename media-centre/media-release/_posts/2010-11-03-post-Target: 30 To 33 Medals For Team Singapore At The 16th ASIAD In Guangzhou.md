@@ -246,49 +246,10 @@ Athletes
 | 84. | Dragon Boat|  Ng Choon Chek | 吴春杰| 25| M| √   | Team (Men)
 | 85.| Dragon Boat|  Terence Ong Tian Ghee| 王天义| 27| M| √   | Team (Men)
 | 86. | Dragon Boat|  Siu Jun Yang| 邵俊扬| 20| M| √   | Team (Men)
-| 87. | Dragon Boat | Jeffrey Tan Yu Zhong
-
-陈昱中
-
-22
-
-M
-
-√   
-
-Team (Men)
-
-88.   
-
-Jeffrey Tan Xuanwen
-
-陈萱汶
-
-26
-
-M
-
-√   
-
-Team (Men)
-
-89.   
-
-Raymond Tan Swee Siong
-
-陈瑞祥
-
-21
-
-M
-
-√   
-
-Team (Men)
-
-90.   
-
-Jerry Tan Renyi
+| 87. | Dragon Boat | Jeffrey Tan Yu Zhong | 陈昱中 | 22 | M | √   | Team (Men)
+| 88.| Dragon Boat | Jeffrey Tan Xuanwen| 陈萱汶| 26| M| √   | Team (Men)
+| 89.| Dragon Boat |  Raymond Tan Swee Siong| 陈瑞祥| 21| M| √  | Team (Men)
+| 90.| Dragon Boat | Jerry Tan Renyi
 
 陈仁义
 
