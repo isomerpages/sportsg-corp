@@ -26,9 +26,7 @@ Singapore, 2 February 2012 - For their great outing at the 26th SEA Games, 50 Te
 
 7. 413 Team Singapore athletes competed in the 26th SEA Games in Indonesia from 11 to 22 November 2011. They brought back 160 medals (42 gold, 45 silver, 73 bronze) and secured the fifth position on the medal table, ahead of The Philippines, bettering the nation's position of sixth at the 25th SEA Games, Laos.
 
--END-
-
-Annex A - About The SNOC Multi-Million Dollar Award Programme (MAP)
+**Annex A - About The SNOC Multi-Million Dollar Award Programme (MAP)**
 
 In the 1990s, under the direction of then President Dr. Yeo Ning Hong, the Singapore National Olympic Council devised an incentive scheme to reward medal-winning athletes. The SNOC Multi-Million Dollar Awards Programme (MAP) provides a cash payout to athletes who win gold medals at the Olympic, Asian, Commonwealth and Southeast Asian (SEA) Games.
 
@@ -42,5 +40,4 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 
 It is mandatory for all athletes to plough back 20% of the SNOC MAP awards to their National Sports Association for future training and development.
 
-Click [here](/files/Media%20Centre/Media%20Release/2012/Feb/water-sports-make-a-splash-at-snoc-multi-million-dollar-award-presentation.pdf) to download **Annex B - SNOC MAP Award Recipients** and **Annex C - Fact Sheet**
-
+Click [here](/files/Media%20Centre/Media%20Release/2012/Feb/water-sports-make-a-splash-at-snoc-multi-million-dollar-award-presentation.pdf) to download Annex B - SNOC MAP Award Recipients and Annex C - Fact Sheet
