@@ -10,26 +10,27 @@ image: ""
 
 SPREADING THE CHEER
 The National Cheerleading Championships Returns for a Second Edition
-Singapore 8 March 2011 - The National Cheerleading Championships is back! Following a successful first edition in 2010, the best cheer squads in Singapore will once again battle it out at the National Cheerleading Championships 2011 on 19 and 20 March at the Jurong East Sports Hall.
 
-2 This year's edition will feature new cheerleading categories and celebrity judges, Justin Ang and Vernon A also known as the 'Muttons' from 987FM. The second best cheerleading squad in the world - the Rangsit University Cheerleading Team - from Thailand will also be making a special appearance and will aim to thrill the crowd with their stunning routines.
+**Singapore 8 March 2011** - The National Cheerleading Championships is back! Following a successful first edition in 2010, the best cheer squads in Singapore will once again battle it out at the National Cheerleading Championships 2011 on 19 and 20 March at the Jurong East Sports Hall.
 
-3 A total of 40 entries from Primary, Secondary and Tertiary schools, as well as independent cheerleading squads will dance, stunt and cheer their lungs out in the hopes of being crowned the National Cheerleading Champions 2011.
+2. This year's edition will feature new cheerleading categories and celebrity judges, Justin Ang and Vernon A also known as the 'Muttons' from 987FM. The second best cheerleading squad in the world - the Rangsit University Cheerleading Team - from Thailand will also be making a special appearance and will aim to thrill the crowd with their stunning routines.
 
-4 The competition will feature cheer squads competing in two segments. Teams in the 'Competitive' segment are required to perform original cheer routines with coordinated dance moves and stunts, while cheer teams in the 'Freestyle' segment are judged based on the creativity of their rendition of the "Go! Go! Singapore!!" cheer, and how they jazz up their performance with hand movements and colourful props.
+3. A total of 40 entries from Primary, Secondary and Tertiary schools, as well as independent cheerleading squads will dance, stunt and cheer their lungs out in the hopes of being crowned the National Cheerleading Champions 2011.
 
-5 "Cheering is vital to the overall sporting experience. Cheerleaders help to generate that buzz of excitement in a sporting arena by encouraging and leading fans in cheering on their teams with one voice," said Ms Sharon Kam, Senior Director, Strategic Marketing, Singapore Sports Council.
+4. The competition will feature cheer squads competing in two segments. Teams in the 'Competitive' segment are required to perform original cheer routines with coordinated dance moves and stunts, while cheer teams in the 'Freestyle' segment are judged based on the creativity of their rendition of the "Go! Go! Singapore!!" cheer, and how they jazz up their performance with hand movements and colourful props.
 
-6 "Cheerleaders help bring out the soul and passion in each fan, and we want to see a burgeoning cheer culture among Singaporeans. Whether is it cheering for our Team Singapore athletes during the SEA Games and World Netball Championships, for your favourite S-League team, or for your school mates during the National School Games or even during inter-class competitions, we want to hear your voices," added Ms Kam.
+5. "Cheering is vital to the overall sporting experience. Cheerleaders help to generate that buzz of excitement in a sporting arena by encouraging and leading fans in cheering on their teams with one voice," said Ms Sharon Kam, Senior Director, Strategic Marketing, Singapore Sports Council.
 
-7 The National Cheerleading Championships 2011 is co-organised by the SSC and the Federation of Cheerleading Singapore (FCS) in line with the Sporting Singapore vision of building a sustainable sports culture and to cultivate and encourage a cheering culture amongst Singaporeans.
+6. "Cheerleaders help bring out the soul and passion in each fan, and we want to see a burgeoning cheer culture among Singaporeans. Whether is it cheering for our Team Singapore athletes during the SEA Games and World Netball Championships, for your favourite S-League team, or for your school mates during the National School Games or even during inter-class competitions, we want to hear your voices," added Ms Kam.
 
-8 The winning teams from the 'Competitive' segment will be invited to spread the cheer as cheer ambassadors during Public Service Week from 16 to 22 May and at the World Netball Championships that will be held in Singapore from 3 to 10 July.
+7. The National Cheerleading Championships 2011 is co-organised by the SSC and the Federation of Cheerleading Singapore (FCS) in line with the Sporting Singapore vision of building a sustainable sports culture and to cultivate and encourage a cheering culture amongst Singaporeans.
 
-9 Winners of the Open and High School categories from the 'Competitive' segment will go on to compete at the 3rd Asian-Thailand Cheerleading Invitational 2011, while the overall champions will win a spot at the 5th Cheerleading Asian-International Open 2011. Cash prizes of up to S$800 will be awarded to winning teams of the 'Freestyle' segment (all categories) and Competitive segment (primary school category).
+8. The winning teams from the 'Competitive' segment will be invited to spread the cheer as cheer ambassadors during Public Service Week from 16 to 22 May and at the World Netball Championships that will be held in Singapore from 3 to 10 July.
 
-10 The National Cheerleading Championships 2011 is held in conjunction of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
-statics0
+9. Winners of the Open and High School categories from the 'Competitive' segment will go on to compete at the 3rd Asian-Thailand Cheerleading Invitational 2011, while the overall champions will win a spot at the 5th Cheerleading Asian-International Open 2011. Cash prizes of up to S$800 will be awarded to winning teams of the 'Freestyle' segment (all categories) and Competitive segment (primary school category).
+
+10. The National Cheerleading Championships 2011 is held in conjunction of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
+
 -End-
 
 Annex A - National Cheerleading Championships 2011 Fact Sheet
