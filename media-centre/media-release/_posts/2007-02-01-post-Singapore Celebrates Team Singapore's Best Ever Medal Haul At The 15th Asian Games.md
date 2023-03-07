@@ -31,9 +31,9 @@ Commenting on Tiger Beer's sponsorship of the SNOC Joint Tiger Beer and Singapor
 
 MAP serves as an incentive scheme to reward medal winners in the Olympic, Asian, Commonwealth and SEA Games. Awards are sponsored by the Singapore Totalisator Board & Singapore Pools (Private) Limited and Asia Pacific Breweries (Singapore) Pte Ltd and its flagship brew Tiger Beer.
 
-Guests also toured the photography exhibition, 'The Moment' presented by Team Singapore and Nikon Singapore Pte Ltd. The exhibition held from 30 January 2007 to 1 February 2007 features the inspirational moments captured during the 15th Asian Games in Doha.
+Guests also toured the photography exhibition, 'The Moment' presented by Team Singapore and Nikon Singapore Pte Ltd. The exhibition, held from 30 January 2007, to 1 February 2007 features the inspirational moments captured during the 15th Asian Games in Doha.
 
-For more information on Team Singapore athletes' performance at the 15th Asian Games, please refer to www.teamsingapore.com.sg..
+For more information on Team Singapore athletes' performance at the 15th Asian Games, please refer to [www.teamsingapore.sg](https://www.teamsingapore.sg/home).
 
 Enclosures:
 <br>
@@ -43,11 +43,11 @@ Enclosures:
 <br>
 [Annex 3: List of MAP Award Recipients](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex3.pdf)
 <br>
-[Annex 5: Factsheet on Singapore Pools (Private) Limited](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex5.pdf)
+[Annex 4: Factsheet on Singapore Pools (Private) Limited](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex5.pdf)
 <br>
-[Annex 6: Factsheet on Tiger Beer](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex6.pdf)
+[Annex 5: Factsheet on Tiger Beer](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex6.pdf)
 <br>
-[Annex 7: Factsheet on Photography Exhibition - 'The Moment'](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex7.pdf)
+[Annex 6: Factsheet on Photography Exhibition - 'The Moment'](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex7.pdf)
 
 **For media enquiries, please contact:**
 <br>
