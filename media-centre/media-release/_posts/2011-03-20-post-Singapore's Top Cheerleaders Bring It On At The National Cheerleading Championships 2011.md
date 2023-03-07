@@ -35,7 +35,7 @@ SP Gusto Crowned Overall Champions for the 2011 Edition, as 2000 Fans Pack Juron
 
 -End-
 
-Annex: Results List of the National Cheerleading Championships 2011
+**Annex: Results List of the National Cheerleading Championships 2011**
 | OVERALL CHAMPION | SP Gusto (Singapore Polytechnic)
 | -------- | -------- | 
 | FREESTYLE - SECONDARY     |  1ST - MG Sizzlers (Methodist Girls' School) <br>2ND - Avengerz (Ang Mo Kio Secondary School) <br>3RD - Swiss Sports Leaders (Swiss Cottage Secondary School)
