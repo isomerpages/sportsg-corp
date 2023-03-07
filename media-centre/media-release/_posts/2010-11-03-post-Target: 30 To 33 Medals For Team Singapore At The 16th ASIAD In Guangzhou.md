@@ -354,7 +354,7 @@ Athletes
 | 193.  | Sailing | Roy Tay Junhao | 郑俊豪 | 2 | M |  | 470 Men
 | 194.| Sailing |  Ryan Lo Jun Han| 卢军汉| 13| M| √   | Optimist Boy
 | 195.  | Sailing | Scott Glen Sydney |  NA | 19 | M| √  | Laser Radial Open
-| 196.  | Sailing | Sherman Cheng Feng Yuan| 张峯源| 19| M| 420 Boy
+| 196.  | Sailing | Sherman Cheng Feng Yuan| 张峯源| 19| M| | 420 Boy
 | 197.   | Sailing | Siobhan Tam Shiu Wun| 谭兆媛| 23| F| √   | | 420 Women
 | 198. | Sailing | Teo Wee Chin| 张为珺| 23| M| | Hobie 16
 | 99.  | Sailing | Terence Koh Seng Kiat| 许圣洁| 23| M| | 470 Men
