@@ -75,7 +75,7 @@ Annex D: Baggage Deposit and Collection Locations and Timings
 
 |Operating Hours |   |  | |  |
 | -------- | -------- | -------- |-------- |-------- |
-|     | Baggage Facilities | Check-In    |     |Baggage Facilities / Collection     |  |
+|          | Baggage Facilities | Check-In    |     |Baggage Facilities / Collection     |  |
 | Full Marathon   |  Angullia Carpark (Behind Wheelock Place) Full Marathon |3.00am - 5.00am  |F1 Pit Building  |8.30am -2.00pm
 | Ekiden Race  | Angullia Carpark (Behind Wheelock Place) Full Marathon |3.00am - 5.00am  |F1 Pit Building  |8.30am -2.00pm
 Seah Im Carpark
