@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore Sports Council's Let's Play Movement Gets S$5 Million Boost From Coca-Cola Singapore**
+### **Singapore Sports Council's Let's Play Movement Gets S$5 Million Boost From Coca-Cola Singapore**
 
 SINGAPORE SPORTS COUNCIL'S LET'S PLAY MOVEMENT GETS S$5 MILLION BOOST FROM COCA-COLA SINGAPORE
 SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Communities
@@ -30,9 +30,9 @@ SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commun
 
 10. Let's Play Non-Stop! is part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports. More information on Let's Play Non-Stop! can be found at [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg).
 
--End-
+---
 
-**Annex A - Schedule of Let's Play Non-Stop!
+**Annex A - Schedule of Let's Play Non-Stop!**
 
 | Month| Sport | Mall | Sports and Recreation Centre | Mall <br>(12- 8pm)  | SRC <br>(12- 4pm)
 | -------- | -------- | -------- | -------- |-------- |-------- |
@@ -53,11 +53,11 @@ Annex B - Fact Sheet on World Netball Championships
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Let's Play**
@@ -75,7 +75,8 @@ The Coca-Cola system in Singapore is a Gold award recipient of the Food Safety A
 For more information about The Coca-Cola Company or Coca-Cola Singapore, please visit [www.thecoca-colacompany.com](www.thecoca-colacompany.com) and [www.coca-cola.com.sg](www.coca-cola.com.sg).
 
 **For media enquiries on the SSC and Let's Play Non-Stop!, please contact:**
-<br>Patricia Yee
+
+Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
@@ -83,7 +84,8 @@ For more information about The Coca-Cola Company or Coca-Cola Singapore, please 
 <br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
 **For media enquiries on Coca-Cola, please contact:**
-<br>June Kong
+
+June Kong
 <br>Public Affairs and Communications
 <br>Coca-Cola Singapore
 <br>Office: (65) 6860 4067
