@@ -19,7 +19,7 @@ Activities at the carnival are divided into four main zones – the Para Experie
 
 **Athletes and officials can expect a well-equipped Games Village**
 
-On the other hand, the Games Village, located at the iconic Marina Bay Sands, will house approximately 3,000 athletes and officials, in 1,300 hotel rooms, for the duration of the Games (3 – 9 December 2015).
+On the other hand, the Games Village, located at the iconic Marina Bay Sands, will house approximately 3,000 athletes and officials, in 1,300 hotel rooms, for the duration of the Games (3 - 9 December 2015).
 
 Beyond the accommodation point for APG athletes, Marina Bay Sands will also feature a large concentration of activities– from hosting competitions across four sports (Goalball, Football 5-a-side, Powerlifting, Sailing) to providing work spaces for delegates.
 
