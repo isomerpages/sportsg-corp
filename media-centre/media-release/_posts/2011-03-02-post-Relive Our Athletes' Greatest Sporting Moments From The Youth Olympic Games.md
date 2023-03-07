@@ -6,12 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-## **Relive Our Athletes' Greatest Sporting Moments From The Youth Olympic Games**
+### **Relive Our Athletes' Greatest Sporting Moments From The Youth Olympic Games**
 
 RELIVE OUR ATHLETES' GREATEST SPORTING MOMENTS FROM THE YOUTH OLYMPIC GAMES
 SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photography Exhibition & Workshops
 
-**Singapore, 2 March 2011 **- To relive the success stories and historic moments from Team Singapore's endeavour at the inaugural Singapore 2010 Youth Olympic Games (YOG), the Singapore Sports Council (SSC) is proud to present the third edition of the Inspiring Sporting Singapore Photography Exhibition entitled "Reliving YOG Moments", an inspirational showcase featuring our nation's YOG medallists, and other young Team Singapore athletes in action during the games.
+**Singapore, 2 March 2011** - To relive the success stories and historic moments from Team Singapore's endeavour at the inaugural Singapore 2010 Youth Olympic Games (YOG), the Singapore Sports Council (SSC) is proud to present the third edition of the Inspiring Sporting Singapore Photography Exhibition entitled "Reliving YOG Moments", an inspirational showcase featuring our nation's YOG medallists, and other young Team Singapore athletes in action during the games.
 
 2. The exhibition will be held from 2 March 2011 to 2 May 2011 at 17 SSC Sports & Recreation Centres (SRCs) nationwide (see Annex A) and will showcase 34 colour images of Team Singapore athletes in competition at the YOG. Through this exhibition, the SSC aims to inspire Singaporeans to participate in sports.
 
@@ -33,10 +33,10 @@ SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photog
 
 11. The Inspiring Sporting Singapore Photography Exhibition and sports photography workshops are part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it playing, watching, cheering or volunteering for sports.
 
--End-
+---
 
 Annex A - List of 17 SSC Sports & Recreation Centres
-<br>
+
 **1. Ang Mo Kio Swimming Complex**
 <br>1771 Ang Mo Kio Ave 1 (569978)
 
@@ -141,11 +141,11 @@ Even though sport has become a popular vocation to many photographers in recent 
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Team Singapore**
@@ -164,7 +164,8 @@ Follow Team Singapore's action on Facebook at: www.facebook.com/TeamSG
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [SingaporeSports.sg](SingaporeSports.sg).
 
 **For media enquiries, please contact:**
-<br>Patricia Yee
+
+Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
