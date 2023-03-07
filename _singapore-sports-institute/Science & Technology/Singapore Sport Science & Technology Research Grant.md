@@ -21,4 +21,7 @@ Through the SSSTRG, the research findings and practical applications should be h
 Sport Singapore is the SSSTRG grant agency and SSI will be the executing arm for the grant.
 
 #### **Call for Proposals**
-The 2017 Grant Call for the Singapore Sports Science & Technology Research Grant is now **CLOSED**. 
+The 2017 Grant Call for the Singapore Sports Science & Technology Research Grant is now **CLOSED**.
+
+#### **Research Themes**
+Proposals should target **high performance** for athletes in the following areas:
