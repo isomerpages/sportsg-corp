@@ -10,7 +10,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Minister%20Grace%20Fu%20and%20Speaker%20Tan%20Chuan%20Jin%20flags%20off%20Nila%20Walk%20with%20ActiveSG%20Football%20Academy.jpeg)
 
-**Singapore, 29 July 2018** – The third edition of GetActive! Singapore started off with a bang as 12,388 people got active by taking part in various sporting activities offered at the Padang during Car-Free Sunday SG.
+**Singapore, 29 July 2018** – The third edition of GetActive! Singapore started off with a bang as 12,388 people got active by taking part in various sporting activities offered at the Padang during Car-Free Sunday SG.
 
 The day began with the official Team Singapore Flag Presentation for the upcoming Asian Games, Asian Para Games and Youth Olympic Games, where more than 300 Team Singapore athletes gathered with members of public to sing the national anthem and take the national pledge.
 
@@ -26,4 +26,4 @@ Ms Fu said, “Sport brings people together. I am happy to see so many people of
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Kids%20participating%20in%20the%20Kids%20Strider%20Race.jpeg)
 
-Sporting activities that took place during Car-Free Sunday SG included a McDonald’s Family Day, the Epson Youth Challenge football finals as well as free spinning classes in the dark for members of public. For more information on the activities taking place during the week-long GetActive! Singapore, you can visit [www.getactive.sg](http://www.getactive.sg/).
+Sporting activities that took place during Car-Free Sunday SG included a McDonald’s Family Day, the Epson Youth Challenge football finals as well as free spinning classes in the dark for members of public. For more information on the activities taking place during the week-long GetActive! Singapore, you can visit [www.getactive.sg](http://www.getactive.sg/).
