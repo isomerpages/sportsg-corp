@@ -26,7 +26,7 @@ image: ""
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/nafa_logo.gif" style="width: 150px"  />
 
-**Designer:** Yong Wen Yeu<br>
+**Designer:** Yong Wen Yeu<br>
 **School:** Nanyang Academy of Fine Arts <br>
 **Rationale:** The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
 
@@ -38,8 +38,8 @@ image: ""
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/NYP_logo.gif" style="width: 150px"  />
 
-**Designer:** Tay Yong Le <br>
-**School:** Nanyang Polytechnic <br>
+**Designer:** Tay Yong Le <br>
+**School:** Nanyang Polytechnic <br>
 **Rationale:**  The logo is based on the passion felt by all who are involved in sports. The flame, which forms the lion's mane, represents the fire in their passion. The lion represents Singapore and also symbolises the character of Singaporeans; courageous, full of strength and relentlessly striving for excellence. The colour red is used to further emphasise the Singapore Spirit.
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo1.gif" style="width: 150px"  />
@@ -52,8 +52,8 @@ image: ""
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo2.gif" style="width: 150px"  />
 
-**Designer:** Serene Khor  <br>
-**School:** Singapore Polytechnic <br>  
+**Designer:** Serene Khor  <br>
+**School:** Singapore Polytechnic <br>  
 **Rationale:**  My mascot's name is Kucinta. It is unique to Singapore but not many people of my age are aware of it. It being a street cat is part and parcel of the community, or used to be when people would play with street cats. This action shows the friendliness and warmth among the community during the kampong days. Furthermore, the name Kucinta consists of the term 'love', which symbolises the passion in sports and care for the community. I think Kucinta would serve as a good reminder of the good old days.
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo3.gif" style="width: 150px"  />
@@ -64,14 +64,14 @@ image: ""
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/nyp_logo1.gif" style="width: 150px"  />
 
-**Designer:** Lim Chi Yang  <br>
-**School:** Nanyang Polytechnic <br> 
+**Designer:** Lim Chi Yang  <br>
+**School:** Nanyang Polytechnic <br> 
 **Rationale:**  The character design was greatly inspired by the Singapore 2010 Youth Olympic Games' mascots. Therefore, the concept was to use the lion as a symbol of our nation, as it has an active and strong character. The orange colour used for the mascot represents passion and participation while the red fur represents competitiveness. I have named my mascot 'Jian Kang' to promote an active nation that leads a healthy lifestyle.
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo4.gif" style="width: 150px"  />
 
-**Designer:** Jon Tan and Eng Sui Kee  <br>
-**School:** Singapore Polytechnic  <br>
+**Designer:** Jon Tan and Eng Sui Kee  <br>
+**School:** Singapore Polytechnic  <br>
 **Rationale:**  Unique (to Singapore) yet commonplace (in Singapore), the Singapura cat perfectly represents the nature of the Singaporean spirit. The familiar sight of this adorable feline is a comforting reminder that this is home. Competitor or supporter let Kuching bring the joy and camaraderie of the Singapore National Games into your heart!
 
 #### **Annex C: Fact Sheet on Singapore National Games**
