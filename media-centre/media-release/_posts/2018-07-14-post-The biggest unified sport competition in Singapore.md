@@ -8,13 +8,13 @@ image: ""
 ---
 ### **The biggest unified sport competition in Singapore**
 
-**The biggest unified sport competition in Singapore**
+##### **The biggest unified sport competition in Singapore**
 
 _Special Olympics Singapore and SportCares team up to co-organise Singapore’s biggest unified competition for athletes with intellectual disabilities and students from mainstream schools_
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Min%20Ong%20Ye%20Kung%20mingling%20with%20participants.jpeg)
 
-**Singapore, 14 July 2018** – Over 450 participants comprising of athletes with intellectual disabilities and their unified partners from mainstream schools came together on Saturday to contest four sports – badminton, basketball, floorball, and football – in the inaugural Play Inclusive 2018 event, Singapore’s biggest unified competition to date.
+**Singapore, 14 July 2018** – Over 450 participants comprising of athletes with intellectual disabilities and their unified partners from mainstream schools came together on Saturday to contest four sports – badminton, basketball, floorball, and football – in the inaugural Play Inclusive 2018 event, Singapore’s biggest unified competition to date.
 
 The event was co-organised by Special Olympics Singapore and SportCares with the support of the Ministry of Education. Play Inclusive 2018 is the culmination of a 6-month long campaign to promote social inclusion through shared sport and competition experiences between persons with and without intellectual disabilities, using sport as the common language to break down barriers. Minister for Education, Mr Ong Ye Kung opened the Games at the Singapore Sports Hub’s OCBC Arena this morning.
 
@@ -32,7 +32,7 @@ Identifying that more can be done to increase social interaction amongst these v
 
 Dr Christopher Tay, Chief Executive Officer of Association for Persons with Special Needs also shared “Sport is a universal language that can play a key part in celebrating diversity. Despite their differences, our students/trainees and the unified partners are able to unite together as a team to have fun and play sports. This serves as a good opportunity for meaningful interaction and helps to foster understanding amongst the sportsmen.”
 
-**Unified sport competitions**
+##### **Unified sport competitions**
 
 In unified sport competitions, athletes with intellectual disabilities are teamed up with unified partners (who are persons without special needs). A process called “divisioning”, where athletes are assessed for their playing abilities and then placed in a division where the athletes’ skills are similar. This is used to ensure equal and quality participation for the athletes. The presence of unified partners in each team is to encourage and facilitate meaningful gameplay, and penalties will be imposed if partners dominate the game.
 
