@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **The OCBC Group Is The Largest Sponsorship Partner Of The Singapore Sports Hub**
+### **The OCBC Group Is The Largest Sponsorship Partner Of The Singapore Sports Hub**
 
 *OCBC Bank and its subsidiaries as a Group will be the largest sponsorship partner of the Singapore Sports Hub, with OCBC Bank named the Premier Founding Partner.*
 
@@ -39,10 +39,10 @@ image: ""
 
 13. This is the first Founding Partnership to be officially announced by the Singapore Sports Hub, which was facilitated by World Sport Group - Singapore Sports Hub's official Commercial Rights procurement partner.
 
--END-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Sam Eatwell
 <br>Communications Manager 
 <br>Singapore Sports Hub
@@ -97,7 +97,7 @@ Located on a 35-hectare site in Kallang, the Singapore Sports Hub will include t
 The Singapore Sports Hub, which is managed by SportsHub Pte Ltd, is one of the largest sporting Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and has won the PFI award in London in 2011 and the World Architecture Festival Award for Best Future Project in the leisure-led development category in 2013.
 
 The Singapore Sports Hub will open its doors in April 2014.
-<br>
+
 For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](www.sportshub.com.sg)
 
 The Public-Private Partnership includes:
