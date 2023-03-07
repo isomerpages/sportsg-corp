@@ -185,33 +185,8 @@ Athletes
 | 23.  | Aquatics - Waterpolo | Kelvin Ong Weisheng | 王伟圣 | 26 | M | √    | Team (M)
 | 24. | Aquatics - Waterpolo | Lim Yaoxiang | 林耀翔 | 28 | M | √   | Team (M)
 | 25.  | Aquatics - Waterpolo | Lin Diyan | 林迪晏 | 24 | M | √    | Team (M)
-| 26.   
-
-Lin Diyang
-
-林迪洋
-
-23
-
-M
-
-√   
-
-Team (M)
-
-27.   
-
-Loh Zhi Zhi
-
-骆之志
-
-20
-
-M
-
-√   
-
-Team (M)
+| 26.  | Aquatics - Waterpolo | Lin Diyang| 林迪洋 | 23 | M | √   | Team (M)
+| 27.   | Aquatics - Waterpolo | Loh Zhi Zhi | 骆之志 | 20 | M | √   | Team (M)
 
 28.   
 
