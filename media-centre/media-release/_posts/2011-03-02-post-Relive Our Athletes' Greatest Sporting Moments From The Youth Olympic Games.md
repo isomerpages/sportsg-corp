@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Relive Our Athletes' Greatest Sporting Moments From The Youth Olympic Games
-Singapore , 02 Mar 2011
+## **Relive Our Athletes' Greatest Sporting Moments From The Youth Olympic Games**
 
 RELIVE OUR ATHLETES' GREATEST SPORTING MOMENTS FROM THE YOUTH OLYMPIC GAMES
 SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photography Exhibition & Workshops
