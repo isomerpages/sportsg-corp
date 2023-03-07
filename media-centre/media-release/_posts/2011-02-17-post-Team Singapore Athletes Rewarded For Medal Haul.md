@@ -112,12 +112,7 @@ Team Events
 | Sailing | Women's Double Handed Dinghy 470  | Dawn LIU Xiaodan <br>Siobhan TAM Shui Wun | Bronze  | $80,000.00
 | Table Tennis | Women's Team | FENG Tianwei <br>LI Jiawei  <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu| Silver | $160,000.00
 
-
-Total MAP Award:
-
-$2,340,000.00
-
- 
+Total MAP Award: $2,340,000.00
 
 Annex D: Singapore National Olympic Council and Team Singapore Appreciation Plaque Recipients
 SN
