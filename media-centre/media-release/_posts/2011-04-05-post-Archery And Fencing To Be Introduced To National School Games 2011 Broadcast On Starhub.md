@@ -50,7 +50,7 @@ The Singapore Ministry of Education (MOE) formulates and implements education po
 
 For more information, please visit www.moe.gov.sg or connect with us on:
 <br>
-Facebook : http://www.facebook.com/moesingapore
+Facebook : [http://www.facebook.com/moesingapore](http://www.facebook.com/moesingapore)
 <br>
 Twitter : http://twitter.com/MOEsg
 <br>
@@ -60,9 +60,9 @@ About Singapore Schools Sports Council
 <br>
 The Singapore Schools Sports Council (SSSC) started in 1959 and comes under the administration of the Ministry of Education. It is a Council of principals who actively work to promote and develop sports in schools. The council oversees a vibrant sports competition framework that caters to 29 sports and provides opportunities for development and recognition for our young sporting talents in schools. In addition, SSSC also provides development pathways for our young school athletes by providing them with the necessary exposure to competitions that would up their level of play. Today, the Council plays an increasingly important role in the current education landscape which emphasises holistic education, of which, sports is an important component.
 
-To find out more, visit our website www.schoolsports.sg
+To find out more, visit our website [www.schoolsports.sg](www.schoolsports.sg)
 <br>
-Join School sports on Facebook at: http://www.facebook.com/pages/Singapore-Schools-Sports-Council/152031807285
+Join School sports on Facebook at: [http://www.facebook.com/pages/Singapore-Schools-Sports-Council/152031807285](http://www.facebook.com/pages/Singapore-Schools-Sports-Council/152031807285)
 
 **About StarHub**
 <br>
