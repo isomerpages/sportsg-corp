@@ -12,7 +12,7 @@ image: ""
 • Audience at the closing ceremony will receive a Supporters’ Medallion  
 • 28th SEA Games stamps to go on sale from 5 June
 
-**Singapore, 27 April** – With just 39 days to go to the 28th Southeast Asian (SEA) Games, the promise of a true spectacle for all communities comes to life with its final celebratory party – the 28th SEA Games Closing Ceremony on 16 June 2015.
+**Singapore, 27 April** – With just 39 days to go to the 28th Southeast Asian (SEA) Games, the promise of a true spectacle for all communities comes to life with its final celebratory party – the 28th SEA Games Closing Ceremony on 16 June 2015.
 
 Spectators can expect a visually stunning Closing Ceremony, as they come together with friends new and old. Highlights include performances by local artistes as well as Dutch DJ Ferry Corsten, well known globally for being a trance producer pioneer and legend.
 
@@ -24,13 +24,13 @@ Beatrice also shared that a parade of stamps will be another highlight of the Ce
 
 The 28th SEA Games stamps is a collaboration between SINGSOC and SingPost. The stamps commemorate the return of the SEA Games to Singapore after 22 years and will go on sale from 5 June. More details will be shared later.
 
-**Medal to go for**
+##### **Medal to go for**
 
 At the Closing Ceremony brief, SINGSOC also unveiled the official medals for the 28th SEA Games. The medal design brings together the vibrantly coloured 28th SEA Games logo on its front and the iconic Singapore Sports Hub – the main venue for the Games – on the reverse side.
 
 Mr Lim Teck Yin, Chairman of SINGSOC EXCO, who revealed the medal design at the event, said: “A medal is a story of years of training, dedication and sacrifice. The 28th SEA Games medal is intended to celebrate these extraordinary and colourful journeys and spirit of Southeast Asian athletes. We hope that the design of the medal around the logo for the 28th SEA Games, which embodies the winning spirit of athletes and the art and grace of sporting endeavor, will inspire the memories and stories of excellence and courage long after the competitions.”
 
-**Supporters’ Medallion for all at Closing Ceremony**
+##### **Supporters’ Medallion for all at Closing Ceremony**
 
 Helming the Ceremonies through its Artillery Formation, the Singapore Armed Forces (SAF) have been working hand in hand with over 5,000 volunteers and performers in preparations for the Ceremonies.
 
@@ -40,10 +40,8 @@ A surprise for all audiences at the Closing Ceremony was also revealed, where sp
 
 “The Supporters’ Medallion represents Singapore and the region’s support and solidarity towards the athletes and participants of the 28th SEA Games. These Medallions along with the memories and friendships forged during the Games will definitely be something that one can keep and maintain for years to come,” said Colonel Lawrence Lim.
 
-**Tickets to Closing Ceremony still available**
+##### **Tickets to Closing Ceremony still available**
 
 SINGSOC announced that tickets to the Opening Ceremony are sold out. Tickets to the Closing Ceremony, priced from $12 to $40, are still available.
 
 Concession prices are made available to students, senior citizens and full-time National Servicemen. There is also a 20% discount off every purchase of four or more tickets, to encourage family and friends to catch the Games in action.
-
-END
