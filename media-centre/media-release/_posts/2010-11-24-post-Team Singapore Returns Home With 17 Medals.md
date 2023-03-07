@@ -86,12 +86,7 @@ Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 20
 | TAO Li | Women's 50m Butterfly, Final | PB 0:26.10 (Previous PB 0:26.52, set during the heats) <br>NR 0:26.10 (Previous NR 0:26.52, set during the heats)
 | CANOE/KAYAK: 1 PB | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Heats <br>PB 2:02.124 (Previous PB 2:02.399)
 | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Semi-Final | PB 2:01.351 (Previous PB 2:02.124, set during the heats)
-
-Geraldine LEE Wei Ling
-
-Women's Kayak Single 500m, Final
-
-PB 2:00.421 (Previous PB 2:01.351, set during the semi-final)
+| Geraldine LEE Wei Ling | Women's Kayak Single 500m, Final | PB 2:00.421 (Previous PB 2:01.351, set during the semi-final)
 
 Irene CHUA Pei Xuan
 Geraldine LEE Wei Ling
