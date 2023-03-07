@@ -8,7 +8,8 @@ description: ""
 image: ""
 ---
 ### **spexCareer Scheme celebrates One Year milestone with 20 Corporate Partners on board**
-_**Seven new companies join spexBusiness Network for Athletes**_
+_Seven new companies join spexBusiness Network for Athletes_
+
 ![](/images/Media%20Centre/Media%20Release/2014/December/Spex%20Business%20Grp%20Photo.jpeg)
 
 Seven new corporate partners, namely Banyan Tree, CapitaLand, Fuji Xerox Singapore, OSIM International, Pacific International Lines, Sports Link Holdings and Volkswagen Group Singapore, have joined the Sports Excellence Business (spexBusiness) Network for Athletes today, bringing the total to 20 companies from 16 diverse industries.
@@ -27,7 +28,7 @@ Seven new corporate partners, namely Banyan Tree, CapitaLand, Fuji Xerox Singapo
 
 8. Mr Koh Ching Hong, Managing Director of Borneo Motors Singapore, feels that the many qualities that athletes possess make them a perfect fit in the business environment. He said, “We believe that sportsmen have within them the discipline, hard work, resilience and a winning mentality in order to achieve results. Having Cerigwen join us is something that we welcome and sits nicely with our values and work philosophy.”
 
-END
+---
 
 **Annexes:**
 <br>Annex A: [ Fact Sheet: spexBusiness Network for Athletes, spexBusiness Career Scheme, spexBusiness Advisory](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20Fact%20Sheet%20spexBusiness%20Network%20for%20Athletes.pdf)
@@ -35,9 +36,9 @@ END
 
 **For media enquiries, please contact:**
 
-Eric Ong  
-Public Relations  
-Sport Singapore  
-Tel: +65 6500 5014  
-HP: +65 9764 4964  
-Email: [eric\_ong@sport.gov.sg](mailto:eric_ong@sport.gov.sg)
+Eric Ong<br>
+Public Relations<br>
+Sport Singapore<br>
+Tel: +65 6500 5014<br>
+HP: +65 9764 4964<br>
+Email:[eric\_ong@sport.gov.sg](mailto:eric_ong@sport.gov.sg)
