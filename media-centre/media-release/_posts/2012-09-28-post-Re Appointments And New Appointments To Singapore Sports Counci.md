@@ -48,6 +48,8 @@ image: ""
 
 **Annex**
 
+![](/images/Media%20Centre/Media%20Release/2012/Sep/REAPPOINTMENTSANDNEWAPPOINTMENTSTOSINGAPORESPORTSCOUNCILMainPar0044Imagegif.gif)
+
 **For media enquiries, please contact:**
 
 Ms Nur Diana Jamaludin<br>
