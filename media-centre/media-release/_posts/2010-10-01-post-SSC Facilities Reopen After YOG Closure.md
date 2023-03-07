@@ -65,9 +65,7 @@ Annex 1: Schedule of Reopening Of SSC Facilities
 | Jurong West Swimming Complex| Reopened | NA
 | Jurong West Sports Hall| Reopened | NA
 
- 
-
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 <br>Dominic Tay
 <br>Senior Manager
 <br>Public and Media Relations
