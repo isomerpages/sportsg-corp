@@ -205,30 +205,10 @@ Athletes
 | 43.  | Badminton  | Yao Lei  | 姚蕾 | 20  | F | √ | Women's Doubles
 | 44. | Bowling| Basil Low Eng Howe| 刘英豪 | 18 | M| √   | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
 | 45.  | Bowling | Benjamin Lim Jia Jun | 林家骏 | 20 | M | √    | Singles (M)<br>Doubles (M)<br>Trios (M)<br>Team (M)
-| 46.    | Cherie Tan Shi Hua  | 陈诗桦  | 22  | F  | Singles (W)
+| 46.    | Bowling | Cherie Tan Shi Hua  | 陈诗桦  | 22  | F  | Singles (W)
 <br>Doubles (W)<br>Trios (W)<br>Team (W)
-
-47.   
-
-Geraldine Ng Su Yi
-
-伍纾仪
-
-24
-
-F
-
-√   
-
-Singles (W)
-
-Doubles (W)
-
-Trios (W)
-
-Team (W)
-
-48.   
+| 47.    | Bowling | Geraldine Ng Su Yi | 伍纾仪 | 24 | F| √    | Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
+| 48.   
 
 Jasmine Yeong-Nathan
 
