@@ -118,16 +118,16 @@ Based in Singapore, Russell is now the Chief Photographer for Asia. Besides runn
 
 Russell has a keen eye on the social media tracking trends and issues through Twitter (@Cropperboyce) and Facebook via the iPad. He also writes a weekly blog - "Asia - A Week in Pictures" which is posted every Monday on Reuters.com.
 
-Mindy Tan - Multi-award Winning Photographer
-
+**Mindy Tan - Multi-award Winning Photographer**
+<br>
 Mindy is a multi-award winning photographer, having won at the International Photography Awards and the US-based Wedding Photojournalist Association. She started out as a journalist at The New Paper after winning the Singapore Press Holdings scholarship in 2004. Dedicated in bringing out the best of each story, her hard work was recognised as she won the Society of Publishers Asia (SOPA) award for excellence in Human Rights Reporting in 2007.
 
 Mindy became a full-time professional photographer in 2008. Her uniqueness in interpreting pictures allows her to stand out from the crowd and she has been commissioned to take on numerous photography assignments around the region. She has also covered major sporting events such as the 2008 Beijing Paralympics, the inaugural Singapore 2010 Youth Olympic Games and the most recently, the Standard Chartered Marathon Singapore 2010. Her works have been widely recognised within the industry and published in leading newspapers and magazines such as The Straits Times, Her World, Action Asia and also the cover of Nikon's Focus.
 
 Last year, her passion in photojournalism paid off as Asia Exposed, a 30-minute TV documentary by Channel NewsAsia, featured her inspiring reportage photographs and her journey in photojournalism.
 
-Jeremy Lee - Photographer and Sub-Editor, Action Images
-
+**Jeremy Lee - Photographer and Sub-Editor, Action Images**
+<br>
 Jeremy Lee started out as a commercial photographer in 2004 and has covered numerous high-end assignments for the likes of Levis, Sony, O2 and Subaru to name a few. He has also previously worked on a number of the Football Association of Singapore and the Singapore Rugby Union commercial assignments.
 
 Tapping on his uncanny knack for perfect imagery, Jeremy ventured into the world of editorial news and sport in 2007 by joining Reuters News Agency, as Sub-Editor, working at the Global Pictures Desk, editing powerful and evocative images from around the globe.
