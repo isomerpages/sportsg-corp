@@ -364,86 +364,14 @@ Athletes
 | 203.  | Sailing | Colin Ng Wee Tai | 黄伟达| 32 | M| | Crew 3
 | 204. | Shooting | Alex Chow Wei An | 邹维安| 39 | M| √ |  Double Trap (M)
 | 205.  | Shooting | Andy Chee Kwet Chian| 徐国千| 46| M| √   | 50m Rifle Prone (M)
-| 206.  | Shooting | Aqilah Binte Sudhir| NA| 19| F| √   | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
-| 207.  | Shooting |        
-
-Cheng Jian Huan
-
-郑建欢
-
-17
-
-F
-
-√   
-
-10m Air Rifle (W)
-
-208.        
-
-Choo Choon Seng
-
-朱俊盛
-
-38
-
-M
-
- 
-
-Trap (M)
-
-209.        
-
-David Chan
-
-陈大伟
-
-37
-
-M
-
-√   
-
-Skeet (M)
-
-210.        
-
-Eugene Chiew Huan Lin
-
-周焕霖
-
-30
-
-M
-
-√   
-
-Skeet (M)
-
-211.        
-
-Gai Bin
-
-盖斌
-
-42
-
-M
-
-√   
-
-10m Air Rifle (M)
-
-25m Centre Fire Pistol (M)
-
-25m Standard Pistol (M)
-
-50m Pistol (M)
-
-212.        
-
-Goh Jia Yi
+| 206.  | Shooting | Aqilah Binte Sudhir | NA| 19| F| √   | 50m Rifle 3 positions (W) <br>50m Rifle Prone (W)
+| 207.  | Shooting | Cheng Jian Huan| 郑建欢 | 17| F | √    | 10m Air Rifle (W)
+| 208. | Shooting | Choo Choon Seng | 朱俊盛 | 38 | M ||  Trap (M)
+| 209. | Shooting | David Chan| 陈大伟| 37| M| √| Skeet (M)
+| 210.| Shooting | Eugene Chiew Huan Lin| 周焕霖| 30| M| √   | Skeet (M)
+| 211. | Shooting | Gai Bin| 盖斌| 42| M| √   | 10m Air Rifle (M) <br>25m Centre Fire Pistol (M) <br>25m Standard Pistol (M)
+<br>50m Pistol (M)
+| 212.| Shooting | Goh Jia Yi
 
 吴珈仪
 
