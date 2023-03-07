@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore Sports Institute Gets Its First Executive Director Singapore **
+## **Singapore Sports Institute Gets Its First Executive Director Singapore**
 
 SINGAPORE SPORTS INSTITUTE GETS ITS FIRST EXECUTIVE DIRECTOR
 Singapore, 20 April 2011 - The Singapore Sports Council (SSC) announced today the appointment of Associate Professor Fabian Lim Chin Leong as the Singapore Sports Institute's (SSI) first Executive Director. A/P Lim will commence his duties at the SSI from 1 June 2011.
