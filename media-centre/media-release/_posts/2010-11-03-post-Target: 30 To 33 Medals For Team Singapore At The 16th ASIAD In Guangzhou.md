@@ -346,9 +346,8 @@ Athletes
 | 185. |  Sailing  |Colin Cheng Xinru| 郑忻如| 21| M| | Laser Standard (M)
 | 186.  |Sailing | Dawn Liu Xiaodan| 刘晓丹| 23| F| √   | 470 Women
 | 187.   | Sailing | Joshua Choo Meng Keong| 朱明强| 21| M| √   |  IMCO Mistral (M)
-| 188. | Justin Liu Xiaman| 刘遐满| 19| M| 420 Boy
-
-189.        
+| 188. | Sailing | Justin Liu Xiaman| 刘遐满| 19| M| | 420 Boy
+| 189.        
 
 Justin Wong Ming Ho
 
