@@ -38,11 +38,10 @@ Since the last series of the Sports Sponsorship Master class, there has been a d
 “Previously, we used to work with sponsors on an event to event basis. However, over the last 2 years and based on the learnings from the class, we have managed to develop long term sponsorships, which are beneficial for both SSA and the sponsors. ”  
   
   
-
 #### **ANNEX A: Details on the Sports Sponsorship Master Class**  
   
 **“Seeking Sponsorship” Master Class, 3 November 2014**  
-  A pilot run For NSAs and other rights holders to understand the essentials of sport sponsorship, practical selling and building an effective commercial practice.  
+A pilot run For NSAs and other rights holders to understand the essentials of sport sponsorship, practical selling and building an effective commercial practice.  
   
 **“Creating a Sponsorship Strategy” Master Class, 29 September & 6th October & 27 October 2015**  
 An immersive class for companies to learn about marketing through sponsorship, and the creation of sponsorship strategies and ideas, with an emphasis on case studies in sport sponsorship. Participants also embarked on a “field trip” to see sponsorship activations live at the 2015 BNP Paribus WTA Finals Singapore presented by SC Global.  
