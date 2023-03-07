@@ -95,3 +95,5 @@ Immediately update any information in a previously provided whereabouts filing i
 **WHEREABOUTS FILING REQUIREMENTS**
 
 Athlete whereabouts filing and updates shall be made through WADA's online Anti-Doping Administration and Management System (ADAMS).
+
+To facilitate athletes in using ADAMS to submit their whereabouts information, watch the [video tutorial](https://www.youtube.com/watch?v=UmTpHy9oJc8) on entering your whereabouts.
