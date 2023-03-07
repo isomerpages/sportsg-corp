@@ -35,10 +35,10 @@ Spectators and supporters can also expect numerous exciting fringe activities to
 
 More details of the Standard Chartered Marathon Singapore 2010 will be released within the next few months.
 
--End-
+---
 
 **For media enquiries, please contact:**
-<br>
+
 Tanty Nazlianah Rosli
 <br>
 Manager, Public & Media Relations
