@@ -33,11 +33,9 @@ Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singap
 <br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [[www.flickr.com](www.flickr.com)](www.flickr.com](www.flickr.com)
 
 Annex 1: Schedule of Reopening Of SSC Facilities
-
-
 
 | Name of Facility | Expected Date of Reopening | Interim Alternative Facilities 
 | -------- | -------- | -------- |
