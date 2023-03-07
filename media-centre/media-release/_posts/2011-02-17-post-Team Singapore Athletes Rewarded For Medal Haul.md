@@ -49,72 +49,12 @@ Individual Events
 
 | SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
 | -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     | Text     |
-
-
-
-
-
-
-
-
-
-
-
-
-Gymnastics
-
-Women's Balance Beam
-
-LIM Heem Wei
-
-Silver
-
-$40,000.00
-
-Gymnastics
-
-Men's Pommel Horse
-
-CHAN Thuang Tong David-Jonathan
-
-Bronze
-
-$20,000.00
-
-Shooting
-
-Women's 50m Rifle 3-Positions (Individual)
-
-Aqilah Binte SUDHIR
-
-Bronze
-
-$20,000.00
-
-Shooting
-
-Men's 25m Standard Pistol (Individual)
-
-GAI Bin
-
-Gold
-
-$80,000.00
-
-Shooting
-
-Men's 10m Air Pistol (Individual)
-
-GAI Bin
-
-Silver
-
-nil
-
-Shooting
-
-Men's 50m Pistol (Individual)
+| Gymnastics     | Women's Balance Beam    | LIM Heem Wei     | Silver   | $40,000.00  |
+| Gymnastics     | Men's Pommel Horse   | CHAN Thuang Tong David-Jonathan     | Bronze   | $20,000.00  |
+| Shooting | Women's 50m Rifle 3-Positions (Individual) | Aqilah Binte SUDHIR | Bronze | $20,000.00
+| Shooting | Men's 25m Standard Pistol (Individual) | GAI Bin | Gold | $80,000.00 | Shooting
+| Men's 10m Air Pistol (Individual) | GAI Bin | Silver | nil | Shooting
+| Men's 50m Pistol (Individual)
 
 GAI Bin
 
