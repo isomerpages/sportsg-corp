@@ -101,18 +101,6 @@ Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
 | Swimming | Women's 50m Butterfly | TAO Li | Gold | $200,000.00
 | Swimming | Women's 100m Butterfly | TAO Li | Silver | $100,000.00
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Team Events
 
  
