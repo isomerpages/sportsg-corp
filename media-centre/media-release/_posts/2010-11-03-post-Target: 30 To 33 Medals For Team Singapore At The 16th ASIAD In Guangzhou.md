@@ -216,19 +216,7 @@ Athletes
 |54. |Bowling | Remy Ong | 王雷明 | 31 |M | | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
 |55. |Bowling | Shayna Ng Lin Zhi |黄琳芷 | 21 | F |√   |Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
 |56. |Canoeing |Andrea Chen Jiewen |陈洁文 |25 |F |√    |K4  500m (W)
-|57.   
-
-Annabelle Ng Xiang Ru
-
-黄湘茹
-
-27
-
-F
-
-√   
-
-K4  500m (W)
+|57.  | Canoeing |Annabelle Ng Xiang Ru  | 黄湘茹  | 27  | F  | √    | K4  500m (W)
 
 58.   
 
