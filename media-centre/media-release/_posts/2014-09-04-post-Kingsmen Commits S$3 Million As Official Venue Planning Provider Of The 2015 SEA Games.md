@@ -18,46 +18,46 @@ Kingsmen Creatives Ltd (“Kingsmen” or “the Group”), a leading communicat
 
 5. Kingsmen’s involvement in the Games underpins the Group’s presence in Asia’s burgeoning lifestyle and sports scene. The Group is already widely recognised as a leading communication design and production group in Asia; having supported projects in Singapore such as BMW World, Enchanted Garden at Changi Airport, Gardens by the Bay, National Museum of Singapore and Singapore Sports Hub, as well as regional projects such as Burj Khalifa Observatory Gallery, Commonwealth Games 2010 Delhi, Expo 2012 Yeosu Korea, Hong Kong Disneyland, Lotte and Tiffany & Co. to name a few. 
 
-END
+---
 
-**For media enquiries, please contact:**  
-  
-Andrew Cheng  
-Group General Manager  
-Kingsmen Creatives Ltd  
-DID: (65) 6880 0465  
-Fax: (65) 6880 0038  
-Email: [andrewcheng@kingsmen-int.com](http:)   
-  
-Charlene Sng  
-Manager, Corporate Communications  
-Kingsmen Creatives Ltd  
-DID: (65) 6831 1346  
-Fax: (65) 6880 0038  
-Email: [charlenesng@kingsmen-int.com](http:)    
-  
-Siti Nurhidayati  
-Public Relations  
-Sport Singapore  
-Tel: +65 6500 5246  
-HP: +65 9647 7432  
-Email: [siti\_nurhidayati@sport.gov.sg](http:)  
-  
-  
-**About Kingsmen Creatives Ltd.**  
-  
-Listed on the Main Board of the Singapore Exchange, Kingsmen is a leading communication design and production group. Established in 1976, the Group has a network of 18 offices and full-service facilities serving global clients in Exhibitions & Museums, Retail & Corporate Interiors, Research & Design, and Alternative Marketing today.  
-  
-Kingsmen’s “one-stop-shop” solution, through its vertically and horizontally integrated service offerings coupled with its network of offices and partners, provides clients the benefits of flexibility, speed and value. Building on its design-led, quality and service-driven culture, the Group has established a reputation and visible brand that is synonymous with creative and innovative solutions.  
-  
-The Group serves a long-standing base of clients from diverse industries including well-known names such as BMW, Burberry, DBS Bank, FJ Benjamin Group, Gucci, Hong Kong Disneyland, LVMH, Ralph Lauren, Resorts World Sentosa, Robinsons Group, TAG Heuer, Tiffany & Co., Universal Studios Singapore and Wing Tai Asia.  
-  
-  
-**About the 28th SEA Games**   
-  
-The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.   
-  
-Follow us on:   
-28th SEA Games Website: [www.seagames2015.com](http:)   
-28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](http:)    
-8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](http:)
+**For media enquiries, please contact:**
+
+Andrew Cheng<br>
+Group General Manager<br>
+Kingsmen Creatives Ltd<br>
+DID: (65) 6880 0465<br>
+Fax: (65) 6880 0038
+Email:[andrewcheng@kingsmen-int.com](http:)
+
+Charlene Sng<br>
+Manager, Corporate Communications<br>
+Kingsmen Creatives Ltd<br>
+DID: (65) 6831 1346<br>
+Fax: (65) 6880 0038<br>
+Email:[charlenesng@kingsmen-int.com](http:)
+
+Siti Nurhidayati<br>
+Public Relations<br>
+Sport Singapore<br>
+Tel: +65 6500 5246<br>
+HP: +65 9647 7432<br>
+Email:[siti\_nurhidayati@sport.gov.sg](http:)
+
+
+**About Kingsmen Creatives Ltd.**
+<br>
+Listed on the Main Board of the Singapore Exchange, Kingsmen is a leading communication design and production group. Established in 1976, the Group has a network of 18 offices and full-service facilities serving global clients in Exhibitions & Museums, Retail & Corporate Interiors, Research & Design, and Alternative Marketing today.
+
+Kingsmen’s “one-stop-shop” solution, through its vertically and horizontally integrated service offerings coupled with its network of offices and partners, provides clients the benefits of flexibility, speed and value. Building on its design-led, quality and service-driven culture, the Group has established a reputation and visible brand that is synonymous with creative and innovative solutions.
+
+The Group serves a long-standing base of clients from diverse industries including well-known names such as BMW, Burberry, DBS Bank, FJ Benjamin Group, Gucci, Hong Kong Disneyland, LVMH, Ralph Lauren, Resorts World Sentosa, Robinsons Group, TAG Heuer, Tiffany & Co., Universal Studios Singapore and Wing Tai Asia.
+
+
+**About the 28th SEA Games**
+<br>
+The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
+
+Follow us on:
+28th SEA Games Website:[www.seagames2015.com](http:)<br>
+28th SEA Games Facebook Page:[www.facebook.com/SEAGAMES2015](http:)<br>
+8th ASEAN Para Games Facebook Page:[www.facebook.com/ASEANPARAGAMES2015](http:)
