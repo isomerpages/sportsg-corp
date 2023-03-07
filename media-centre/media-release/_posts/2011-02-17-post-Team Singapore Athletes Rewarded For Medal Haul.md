@@ -64,28 +64,11 @@ Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
 | Table Tennis | Women's Singles | WANG Yuegu | Bronze | $20,000.00
  
 
-Team Events
-
+**Team Events**
+| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
+| -------- | -------- | -------- | -------- | -------- |
+| Badminton     | Women's Doubles    | Shinta Mulia Sari <br>YAO Lei   | Silver   | $60,000.00  |
  
-
- 
-
- 
-
- 
-
-Badminton
-
-Women's Doubles
-
-Shinta Mulia Sari
-
-Silver
-
-$60,000.00
-
-YAO Lei
-
 Men's Doubles
 
 Hendra Wijaya
