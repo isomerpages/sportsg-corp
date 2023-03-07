@@ -310,21 +310,8 @@ Athletes
 |148.|Golf|Gregory Raymund Foo Yong En|符永恩|17|M|√  |Team (M) |Individual (M)
 |149.  | Golf | Johnson Poh Swee Kiat|傅瑞杰|19|M|√   |Team (M)|Individual (M)
 |150.| Golf | Joshua Shou Mingqing|寿珉庆|20|M|√   |Team (M)|Individual (M)
-| 151.  |Golf | Gymnastics
-
-David-Jonathan Chan Thuang Tong
-
-曾传忠
-
-25
-
-M
-
-√   
-
-Men's Artistic Gymnastics Individual
-
-152.        
+| 151.  |Golf | Gymnastics  |David-Jonathan Chan Thuang Tong |曾传忠 |25 |M |√    |Men's Artistic Gymnastics Individual 
+|152.        
 
 Gabriel Gan Zi Jie
 
@@ -2307,10 +2294,10 @@ Follow Team Singapore's action at the 16th Asian Games on Facebook at: www.faceb
 **For media enquiries, please contact:**
 <br>Lin Kuek
 <br>Caelan & Sage Pte Ltd
-<br>Email: lin@caelansage.com
+<br>Email:[ lin@caelansage.com]( lin@caelansage.com)
 
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Public Relations & Social Media
 <br>Singapore Sports Council
-<br>Email: tanty_nazlianah@ssc.gov.sg
+<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
