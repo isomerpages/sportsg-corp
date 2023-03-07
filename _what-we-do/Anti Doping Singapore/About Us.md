@@ -26,11 +26,9 @@ Every Singaporean athlete is a True Winner.
 
 The work of Anti-Doping Singapore (ADS) is governed by the [Anti-Doping Policy of Singapore](/anti-doping-singapore/resources/policies-and-forms/) ("Policy") and the ADS Anti-Doping Rules ("Rules") that are established in accordance with the [WAD Code](https://www.wada-ama.org/en/what-we-do/the-code) and its [International Standards](https://www.wada-ama.org/en/international-standards).
 
-The World Anti-Doping Code ("WAD Code") provides a framework for the harmonization of anti-doping policies, rules and regulations across all sports and countries in the world.
+The [World Anti-Doping Code](https://www.wada-ama.org/en/what-we-do/the-code) ("WAD Code") provides a framework for the harmonization of anti-doping policies, rules and regulations across all sports and countries in the world.
 
-Anti-Doping Policy of Singapore
-ADS Anti-Doping Rules
+[Anti-Doping Policy of Singapore](/anti-doping-singapore/resources/policies-and-forms/)
 
-
-
+[ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and-forms/)
 
