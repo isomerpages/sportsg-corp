@@ -54,7 +54,7 @@ For a range of photographs, search for "Singapore Sports Council" on [www.flickr
 <br>
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges.
 
-For more information, please visit www.moe.gov.sg or connect with us on:
+For more information, please visit [www.moe.gov.sg](www.moe.gov.sg) or connect with us on:
 <br>
 Facebook : [http://www.facebook.com/moesingapore](http://www.facebook.com/moesingapore)
 <br>
