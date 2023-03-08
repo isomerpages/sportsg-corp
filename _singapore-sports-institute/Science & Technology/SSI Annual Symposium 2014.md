@@ -12,5 +12,4 @@ Into its third year after its inauguration in 2012, the SSI Symposium is a yearl
 
 This year’s symposium is titled “New Frontiers in Elite Sport Performance”, and we have invited a range of world-leading speakers from around the globe to share the latest knowledge and applications on sport science and technology. The two day symposium was held on 10-11 Nov at the newly opened Singapore Sports Hub. The keynote speakers for this symposium are Dr Inigo Mujika, a world leading sport physiologist and associate professor at University of Basque Country, and Dr Patrick Goh, a specialist sport physician and chairman of the Southeast Asia Regional Anti-Doping Organization. The topics discussed at the symposium include sport science, sport analytics, sport medicine, and sport technology.
 
-SSI Annual Symposium Presentations
-----------------------------------
+#### **SSI Annual Symposium Presentations**
