@@ -59,10 +59,12 @@ E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
 
 ---
 
-###### Sports Safety Committee
+**Sports Safety Committee**
+<br>
 Formed in July 2007, the sports safety committee was appointed by MCYS and SSC to review sports safety practices in Singapore and make recommendations to minimise the incidence and consequences of catastrophic injuries, and sudden unexpected death during sports participation, be it during training or competition.
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
 
 Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
