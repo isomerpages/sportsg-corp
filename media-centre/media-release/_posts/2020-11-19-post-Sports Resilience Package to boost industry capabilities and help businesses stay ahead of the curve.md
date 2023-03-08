@@ -13,9 +13,9 @@ image: ""
 
 Following the announcement of the S$50 million Sports Resilience Package (SRP) on 15 October, Sport Singapore (SportSG) has announced the full details of the grant framework and eligibility criteria for both businesses and individuals. The new measures under the SRP aim to support critical players in the sports ecosystem, to preserve core capabilities in athlete pathways and pipeline development, as well as to catalyse the industry to provide innovative sports formats for Singaporeans to continue to stay active.
 
-##### **For Businesses**
+**For Businesses**
 
-2. The **Operating Grant** will provide additional support for more than 100 entities including private academies and clubs, private league operators and facility operators who contribute to athlete pipeline development. Eligible entities will receive an equivalent of about 25% of their total operating expenses, capped at $15,000 per month, from now till Mar 2021.
+2. The **Operating Grant** will provide additional support for more than 100 entities including private academies and clubs, private league operators and facility operators who contribute to athlete pipeline development. Eligible entities will receive an equivalent of about 25% of their total operating expenses, capped at $15,000 per month, from now till March 2021.
 
 3. Under the theme of ‘Going Blended, Driving Innovations’, the **‘Blended’ Initiative Grant** supports event management companies, event organisers and private academies and clubs in the development of event and programme innovation that engage participants in ‘phygital’ event formats and/or programmes. This initiative aims to support at least 50 projects and also expand their reach beyond Singapore’s borders to engage regional or global audiences.
 
