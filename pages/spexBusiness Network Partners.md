@@ -185,3 +185,25 @@ OSIM creates, designs, develops and markets well-being and healthy lifestyle pro
 **[Pacific International Lines](https://www.pilship.com/en-careers-pil-pacific-international-lines/14.htm)**
 
 PIL is a privately held company incorporated in Singapore that operates a range of businesses spanning from shipping to container manufacturing and other logistics related services, with a core business in container shipping. PIL is ranked 16th amongst the top containership operators in the world, offering container liner services and multi-purpose services at over 500 locations in 100 countries worldwide, employs about 18,000 employees worldwide. PIL has diversified into logistics related activities such as supply chain management, consolidation/distribution facilities, warehousing, multi-modal services, container depot/terminal operations as well as having interest in ship-agencies worldwide, container manufacturing/repairs, ship recycling, marine services and real estate.
+
+**[Raffles Medical Group](https://www.rafflesmedicalgroup.com/careers-at-raffles/)**
+
+Raffles Medical Group (RMG) is a leading medical group and the largest private group practice in Singapore. As a fully integrated healthcare organisation, the Group owns and operates a network of family medicine clinics, a tertiary care private hospital, insurance services and a consumer healthcare division.  
+  
+At RMG, we are constantly seeking outstanding healthcare and non-healthcare professionals with diverse skills and experiences to join us in delivering the highest level of medical and service excellence in our patient care. When you join us, you become a valuable member of the RMG family. You do not merely enter into a job; we partner you to develop your career, dreams and aspirations.
+
+**[People’s Association (PA)](https://www.pa.gov.sg/careers)**
+
+The People’s Association’s mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 Grassroots Organisations, five Community Development Councils, National Community Leadership Institute and Water Venture.
+
+**[Pan Pacific Hotels Group](https://www.panpacific.com/en/careers.html)**
+
+Pan Pacific Hotels Group is a hotel subsidiary of Singapore-listed UOL Group, one of Asia’s largest hotel and property companies with a diversified portfolio of investment and development properties. Headquartered in Singapore, Pan Pacific Hotels Group owns, manages and/or operates over 30 hotels, resorts and serviced suites (including those under development) with over 10,000 rooms in Asia, Oceania and North America. The Group comprises two acclaimed brands: Pan Pacific and PARKROYAL.
+
+**[Polygon Asia](http://polygongroup.asia/)**
+
+We provide consulting and training services in: human capital development, business excellence, business strategy, business process re-engineering and business innovation. We leverage on our knowledge and understanding of best practices in business, problem solving toolkit and best-in-class management systems to consult for our clients. Polygon Asia Consulting Enterprise is a Centre of Excellence for Business Consulting.
+
+**[PSB Academy](http://www.psb-academy.edu.sg/)**
+
+PSB Academy is one of the largest private education institutions in Singapore. It was formerly part of the Productivity and Standards Board of Singapore (PSB). The academy has a suite of internationally recognised tertiary-level programmes for a population of almost 10,000 local and international students in Singapore.
