@@ -29,7 +29,7 @@ Enclosures
 For more on the Sports Hub, please log on to [https://www.sportshub.com.sg](https://www.sportshub.com.sg)
 
 **For media inquiries, please contact:**
-<br>
+
 Alvin Hang
 <br>
 Assistant Director
