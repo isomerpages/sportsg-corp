@@ -40,8 +40,8 @@ WaterFest by the Bay will give the public a glimpse of the thrills and spill at 
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Jonathan Wong
 <br>
 Asia PR Werkz Pte Ltd
@@ -86,8 +86,10 @@ Email: [evelyn_liu@ssc.gov.sg](mailto:evelyn_liu@ssc.gov.sg)
 
 ---
 
-###### About WaterFest Singapore 2007
+**About WaterFest Singapore 2007**
+<br>
 The WaterFest Singapore 2007 is Singapore's only international water-sports festival that encompasses competitive and lifestyle events that are fun and exhilarating. The 6-week long festival is into its third year running and will kick off on 25-26 August with events extending till 7 Oct. WaterFest Singapore aims to raise the profile of water sports and water-related recreational activities and bring Singaporeans closer to the various water locales all over the island. Encompassing fun and exhilarating events, WaterFest Singapore hopes to get Singaporeans to experience and enjoy our water facilities and integrate water-related culture and sport into their lifestyles.
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
