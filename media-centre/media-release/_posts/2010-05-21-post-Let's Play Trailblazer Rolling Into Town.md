@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Let's Play Trailblazer Rolling Into Town**
 
-Singapore Sports Council's Roving Sports Truck To Make Its Rounds Across The Island In The Lead Up To Singapore 2010
+_Singapore Sports Council's Roving Sports Truck To Make Its Rounds Across The Island In The Lead Up To Singapore 2010_
 
 **Singapore, 21 May 2010** - The Singapore Sports Council (SSC) will be bringing sporting fun to the heartlands in the lead up to the Singapore 2010 Youth Olympic Games with its new sports truck. Named the 'Trailblazer', the sports truck will be a roving one-stop sports resource centre, offering Singaporeans a wide array of sporting activities including hands-on sports try-outs as well as cheer and sports demonstrations.
 
@@ -28,34 +28,17 @@ Singapore Sports Council's Roving Sports Truck To Make Its Rounds Across The Isl
 
 9. For more information on the SSC's Let's Play movement, visit www.sportsingapore.gov.sg
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+###### Annex A: About the Trailblazer
 
-**About Let's Play**
-<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
-
-**Annex A: About the Trailblazer**
-
-**Introduction**
-<br>
+**Introduction**<br>
 The Singapore Sports Council will be bringing sports closer to the heartlands with the introduction of its new roving sports truck, named the Trailblazer. The 20-feet truck will be making its appearances around Singapore in the lead up to the Singapore 2010 Youth Olympic Games.
 
 The Trailblazer will be a roving one-stop sports resource centre, offering Singaporeans with a wide array of sporting activities including hands-on sports try-outs as well as cheer and sports demonstrations.
 
-**a) Trailblazer's Sports Stations**
-<br>
+**a) Trailblazer's Sports Stations**<br>
 Singaporeans will have the opportunity to try out some of Singapore's most popular sports at the Trailblazer's sports stations. The stations will feature sports such as:
 1) Table Tennis
 2) Handball
@@ -66,16 +49,14 @@ Singaporeans will have the opportunity to try out some of Singapore's most popul
 7) Fencing
 8) Boxing
 
-**b) Trailblazer's Sports Demonstrations**
-<br>
+**b) Trailblazer's Sports Demonstrations**<br>
 At each of the Trailblazer's roadshow, Singaporeans can keep their eyes peeled for the following sports demonstrations:
 1) Fencing
 2) Taekwondo
 3) Boxing
 4) Wushu
 
-**c) Trailblazer's Sports Resource Centre**
-<br>
+**c) Trailblazer's Sports Resource Centre**<br>
 The Trailblazer will also be a one-stop resource for Singaporeans to find out more about how they can participate in some of the most popular sports in Singapore. The Trailblazer will be disseminating information on Singapore's 24 most popular sports such as:
 1) Swimming
 2) Bowling
@@ -102,28 +83,36 @@ The Trailblazer will also be a one-stop resource for Singaporeans to find out mo
 23) Karate
 24) Motorsports
 
-**For media enquiries, please contact:**
-<br>
-Hazwani Hasni
-<br>
-Executive
-<br>
-Media and Public Relations
-<br>
-Singapore Sports Council
-<br>
-Office: 6500 5246
-<br>
+---
+
+###### For media enquiries, please contact:
+
+Hazwani Hasni<br>
+Executive<br>
+Media and Public Relations<br>
+Singapore Sports Council<br>
+Office: 6500 5246<br>
 Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
-Jose Raymond
-<br>
-Deputy Director
-<br>
-Media Relations and Social Media
-<br>
-Singapore Sports Council
-<br>
-Office: 6500 5289
-<br>
+Jose Raymond<br>
+Deputy Director<br>
+Media Relations and Social Media<br>
+Singapore Sports Council<br>
+Office: 6500 5289<br>
 Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.sportsingapore.gov.sg
+
+Join SSC on Twitter at: www.twitter.com/singaporesports
+
+Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+
+###### About Let's Play
+Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
