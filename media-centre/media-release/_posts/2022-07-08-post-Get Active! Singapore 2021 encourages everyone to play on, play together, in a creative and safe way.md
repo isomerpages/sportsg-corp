@@ -31,7 +31,7 @@ In addition, public can also participate in GASG through GameOn Nila, the in-app
 
 Pesta Sukan will continue to promote camaraderie through friendly competitions and encourage future generations to live better through sport. Taking place islandwide, Pesta Sukan will see individuals and teams compete in over 28 sports, including para sports. Register now at: [https://go.gov.sg/getactivesingapore-pestasukan](https://go.gov.sg/getactivesingapore-pestasukan)
 
-For the sixth year running, GASG hopes to rally and unite Singaporeans through Sport to celebrate National Day in a safe manner. Participants are encouraged to share memorable sporting memories on social media with the hash tags #GetActiveSG and #PlayOnPlayTogether. More event details can be found on [https://go.gov.sg/getactivesingapore](https://go.gov.sg/getactivesingapore-pestasukan)
+For the sixth year running, GASG hopes to rally and unite Singaporeans through Sport to celebrate National Day in a safe manner. Participants are encouraged to share memorable sporting memories on social media with the hashtags #GetActiveSG and #PlayOnPlayTogether. More event details can be found on [https://go.gov.sg/getactivesingapore](https://go.gov.sg/getactivesingapore-pestasukan)
 
 **About GetActive! Singapore**
 <br>
