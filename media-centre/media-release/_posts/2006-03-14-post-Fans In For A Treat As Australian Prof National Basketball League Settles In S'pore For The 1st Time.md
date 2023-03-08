@@ -40,7 +40,7 @@ This latest initiative has also gotten the local basketball community in Singapo
 Added Koh Meng Koon, a Singapore National Men Team Player, "This is certainly a good development which will allow our players to gain a exposure to higher level basketball games. If an NBL team takes in one or two players from our National Team, it will definitely encourage more youngsters to fight for a place in the National Team to get that chance to play professionally. This way, the standard of our National Team will definitely improve."
 
 **For media inquiries, please contact:**
-<br>
+
 Alvin Hang
 <br>
 Assistant Director
