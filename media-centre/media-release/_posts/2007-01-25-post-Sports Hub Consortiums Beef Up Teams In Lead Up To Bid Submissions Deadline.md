@@ -15,7 +15,7 @@ The consortiums have added new partners who will provide expertise in the areas 
 Oon Jin Teik, CEO of the Singapore Sports Council, said, "As we approach the final stretch of the Invitation To Tender (ITT) for the Singapore Sports Hub, I am pleased to see the consortiums bringing on new partners and expert advice. Over the last few months, the consortiums have taken the project brief, digested it and understood very clearly our project objectives. This addition of new consortium partners signals their recognition of the areas of importance to focus and to put up the best proposals that will meet our vision for the Sports Hub."
 
 ##### **New Partners**
-
+,br>
 **The consortiums have added the following new partners:**
 * Alpine Consortium (led by Alpine Mayreder Bau GmbH/ Alpine Bau Deutscheland AG/ AFP)
 * Tim Hupe Architects Germany (Lead architect/ master planner)
@@ -59,7 +59,7 @@ Added Oon: "Forty percent of the evaluation will focus on the strength of the co
 ---
 
 ###### For media enquiries, please contact:
-
+<br>
 Sharon Liew<br>
 Manager<br>
 (Corporate Marketing & Communications)<br>
