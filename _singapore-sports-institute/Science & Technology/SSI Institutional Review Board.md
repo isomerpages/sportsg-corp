@@ -141,7 +141,7 @@ Study pre-approval
 | -------- | -------- | -------- |
 | SSI-IRB Application Form | 28 July 2021 | [Download ](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_application_form.pdf)  |
 | Specific Research  | | |
-| Participant Information Sheet | 05 August 2021 | [Download ](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_application_form.pdf)  |
+| Participant Information Sheet | 05 August 2021 | [Download ]([Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/2)%20SSI-IRB%20Specific%20Participant%20Information%20Sheet%20Template%20(August%202021).pdf)  |
 
 
 
