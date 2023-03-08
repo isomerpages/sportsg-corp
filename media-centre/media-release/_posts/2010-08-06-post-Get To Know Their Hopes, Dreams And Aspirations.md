@@ -57,18 +57,8 @@ Inspiring Sporting Singapore Photography Exhibition Venues from 6 to 31 August 2
 | -------- | -------- | -------- |
 | North West | Bukit Panjang Public Library<br>embawang Public Library <br>Yishun Public Library | Woodlands Swimming Complex
 | Central Singapore  | Central Public Library<br>Library@Esplanade | Ang Mo Kio Swimming Complex
-
-Jalan Besar Swimming Complex
-
-South West
-
-Choa Chu Kang Public Library
-
-Jurong Regional Library
-
-Jurong West Public Library
-
-Clementi Swimming Complex
+<br>Jalan Besar Swimming Complex
+| South West | Choa Chu Kang Public Library<br>Jurong Regional Library <br>Jurong West Public Library | Clementi Swimming Complex
 
  
 
