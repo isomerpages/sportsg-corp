@@ -121,3 +121,4 @@ As the only Southeast Asia focused expert network, Sealed connects the region's 
 **[HYDRAGUN](https://hydragun.com/careers)**
 
 HYDRAGUN is a direct-to-consumer performance tech brand. Founded in Singapore, the brand is now available on three continents and expanding fast. Its ultra-quiet premium massage guns are used and loved by Olympians, world champions, and other peak performers worldwide.
+
