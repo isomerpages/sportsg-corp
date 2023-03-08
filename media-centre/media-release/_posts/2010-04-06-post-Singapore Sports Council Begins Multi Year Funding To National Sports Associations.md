@@ -21,7 +21,7 @@ image: ""
 
 6. "The NSAs need to meet basic criteria such as corporate governance and pre-agreed Key Performance Indicators (KPIs) to enjoy these grants," said Mr Bob Gambardella, Chief of Sports Development Group and Singapore Sports Institute, SSC. "Key expectations from the NSAs for FY 2010 include achieving continued success at major international games and competitions. In addition, they must improve the quality of high participation programmes, and continue to have emphasis on youth participation for the majority of their programmes and events, as well as attain a greater level of organisational excellence."
 
-**Funding Schemes for NSAs to Tap On**
+##### **Funding Schemes for NSAs to Tap On**
 
 7. The NSAs will also be able to tap on other funding schemes under the SSC throughout the year, to help them in the implementation of their programmes.
 
@@ -39,42 +39,33 @@ Focus on Team Sports - Netball and Football to be supported for World Netball Ch
 
 13. The support will include but not be limited to spexTEAM carding for the members of the respective teams, assistance in priority booking and subsidies for facilities, as well as liaison with other relevant authorities for leave and other related matters which could help in their preparations for the major events.
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
+###### For media enquiries, please contact:
+
+Tanty Nazlianah Rosli<br>
+Manager<br>
+Media & Public Relations<br>
+Singapore Sports Council<br>
+DID: 6500 5241<br>
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
+
+Jose Raymond<br>
+Deputy Director<br>
+Media Relations and Social Media<br>
+Singapore Sports Council<br>
+DID: 6500 5289<br>
+Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
+
 Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-
-**For media enquiries, please contact:**
-<br>
-Tanty Nazlianah Rosli
-<br>
-Manager
-<br>
-Media & Public Relations
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5241
-<br>
-Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
-Jose Raymond
-<br>
-Deputy Director
-<br>
-Media Relations and Social Media
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5289
-<br>
-Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
