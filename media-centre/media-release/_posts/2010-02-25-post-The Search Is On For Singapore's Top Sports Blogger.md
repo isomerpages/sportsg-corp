@@ -8,9 +8,9 @@ image: ""
 ---
 ### **The Search Is On For Singapore's Top Sports Blogger**
 
-SSC ramps up its online engagement through social media
+_SSC ramps up its online engagement through social media_
 
-Singapore, 25 February 2010 - The Singapore Sports Council (SSC) has accelerated its social media efforts with more interactive elements and tactics that will engage netizens to use their website and keep them logging back for more.
+**Singapore, 25 February 2010** - The Singapore Sports Council (SSC) has accelerated its social media efforts with more interactive elements and tactics that will engage netizens to use their website and keep them logging back for more.
 
 2. The efforts integrate Singaporesports.sg, the first stop local sports portal with Facebook, Twitter, Flickr, and more to provide seamless information which all local sports enthusiasts desire.
 
@@ -28,20 +28,10 @@ Singapore, 25 February 2010 - The Singapore Sports Council (SSC) has accelerated
 
 9. The Star Sports Blogger contest ends on 16 March 2010 and the results will be announced on 30 March 2010.
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+###### For media enquiries, please contact:
 
-To find out more, visit our websites Singapore Sports Council
-
-Join Singaporesports.sg on Facebook at: https://www.facebook.com/myActiveSG
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-
-**For media enquiries, please contact:**
-<br>
 Wesley Lewis
 <br>
 Manager, Digital Media
@@ -61,3 +51,14 @@ Singapore Sports Council
 Office: 6500 5240
 <br>
 Email: [carol_wee@ssc.gov.sg](mailto:carol_wee@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites Singapore Sports Council
+
+Join Singaporesports.sg on Facebook at: https://www.facebook.com/myActiveSG
+
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
