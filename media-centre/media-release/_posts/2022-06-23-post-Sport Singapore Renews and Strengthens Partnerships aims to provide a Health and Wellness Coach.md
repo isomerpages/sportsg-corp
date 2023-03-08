@@ -68,7 +68,7 @@ SportSG and **HPB**, jointly developed and launched the refreshed Singapore Phys
 
 Mr Koh Peng Keng, Interim Chief Executive Officer, Health Promotion Board said, “Participation in physical activity brings about many health benefits. Helping Singaporeans adopt an active lifestyle is a mainstay of the Health Promotion Board’s overall national preventive health efforts. The renewed MOU between HPB and SportSG further strengthens our partnership in enabling Singaporeans to keep active and take steps towards better health, in line with Healthier SG. We look forward to our continued collaboration with SportSG to contribute to the Healthier SG ecosystem that makes attaining good health easier for our residents.” 
 
-##### **Paving the Way Forward with Active Health**
+**Paving the Way Forward with Active Health**
 
 Within the next six months, Active Health will be initiating new programmes with the following partners:
 
