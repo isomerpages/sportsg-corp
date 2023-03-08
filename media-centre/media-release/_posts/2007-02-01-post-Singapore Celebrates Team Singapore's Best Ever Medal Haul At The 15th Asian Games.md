@@ -50,7 +50,7 @@ Enclosures:
 [Annex 6: Factsheet on Photography Exhibition - 'The Moment'](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex7.pdf)
 
 **For media enquiries, please contact:**
-<br>
+
 Ms Suhana Kharudin
 <br>
 Manager (Marketing Communications)
