@@ -8,7 +8,7 @@ image: ""
 ---
 ### **The Heartbeat Of A Sporting Singapore**
 
-Impacting Lives; Bonding The Community; Winners Of The POSB Everyday Champions For Sports Award 2010 Unveiled
+_Impacting Lives; Bonding The Community; Winners Of The POSB Everyday Champions For Sports Award 2010 Unveiled_
 
 **Singapore, 31 May 2010** - Sports as a means to help the marginalised; to spur delinquent boys to channel their energies positively; to make friends and to bridge ethnic and cultural divides. The true value of sports in impacting lives and in bonding the community is apparent from the outstanding and heart-warming achievements notched by the winners of this year's POSB Everyday Champions for Sports Award.
 
@@ -34,38 +34,34 @@ Impacting Lives; Bonding The Community; Winners Of The POSB Everyday Champions F
 
 12. One such institution is Compassvale Primary School, which not only targets pupils and teachers for a sporting journey, but also parents. From carnival workouts to hour-long walks on the beach, the school tailors different types of sporting activities all-year round for the pupils and their teachers and parents. Other innovative activities include Recess Play Programmes and carnivals with a Youth Olympic Games theme. The school even works around the curriculum by organising June Holidays Sports Clinics and Post-PSLE Sports Competitions, so that sports can co-exist with studies.
 
--End-
+---
 
-[**About the Singapore Sports Council**](www.sportsingapore.gov.sg)
-<br>
+###### For media enquiries, please contact:
+
+Connie Ong<br>
+The Advocate Group<br>
+Office: 6278 7022<br>
+Email: [connie@theadvocategroup.com.sg](mailto:connie@theadvocategroup.com.sg)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
+
 Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-[**About Let's Play**](https://www.myactivesg.com/)
-<br>
+###### About Let's Play
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.sportsingapore.gov.sg
 
-[**About POSB**](https://www.posb.com.sg/personal/default.page)
-<br>
+###### About POSB
 A part of the DBS Group, POSB is the people's bank in Singapore with 4 million customers. Having served generations of Singaporeans for the past 132 years, it prides itself in being "neighbours first, bankers second".
 
 With a good understanding of Singaporeans through the years, POSB offers products and services that are relevant to the savings, borrowing, investment and insurance needs of all Singaporeans. With 52 branches conveniently located islandwide, and more than 1,000 ATMs and Cash Acceptance Machines across the island, POSB?s distribution network is the largest in Singapore.
 
 POSB acknowledges the passion, commitment and can-do spirit in each of its staff. For more information, please visit www.posb.com.sg.
-
-**For media enquiries, please contact:**
-<br>
-Connie Ong
-<br>
-The Advocate Group
-<br>
-Office: 6278 7022
-<br>
-Email: [connie@theadvocategroup.com.sg](mailto:connie@theadvocategroup.com.sg)
