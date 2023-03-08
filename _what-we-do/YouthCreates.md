@@ -9,4 +9,4 @@ For youth, by youth – make a difference through sport!
 
 The movement is supported by YouthCreators – aspiring youth keen to step up and contribute to society through sport and other means. Embodying YouthCreates’ core values of Passion, Innovativeness and Courage, YouthCreators work to create original content, be it fitness workout sessions, opinion pieces or social media content, to share their passion and inspire their peers to join the movement. 
 
-Meet other like-minded youth today and create positive change via the [YouthCreates website] (https://youthcreates.myactivesg.com/).
+Meet other like-minded youth today and create positive change via the [YouthCreates website](https://youthcreates.myactivesg.com/).
