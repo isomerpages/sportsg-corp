@@ -19,11 +19,16 @@ Tel: 6500 5000 (main)
 Fax: 6440 9205
 
 **Local Partners**
-* ![CYGO](/images/Sport%20Education/Sports%20Leadership/Partnership/CYGO_Logo.png)
-* [NGEE ANN POLYTECHNIC](https://www.np.edu.sg/Pages/default.aspx) ![NP](/images/Sport%20Education/Sports%20Leadership/Partnership/NP_logo.jpeg)
-* [Evergreen Secondary School](https://evergreensec.moe.edu.sg/departments/physical-education/) ![Evergreen Secondary School](/images/Sport%20Education/Sports%20Leadership/Partnership/evgss_logo.jpeg)
-* [ST. HILDA'S SCHOOL](https://www.sthildassec.moe.edu.sg/)![Hilda school](/images/Sport%20Education/Sports%20Leadership/Partnership/st_hilda_logo.jpeg)
-* [ADMIRALTY PRIMARY SCHOOL](https://www.admiraltypri.moe.edu.sg/)![ADPS](/images/Sport%20Education/Sports%20Leadership/Partnership/adps_logo.jpeg)
+
+| -------- | -------- | 
+| ![CYGO](/images/Sport%20Education/Sports%20Leadership/Partnership/CYGO_Logo.png)   | Text     | 
+|  ![NP](/images/Sport%20Education/Sports%20Leadership/Partnership/NP_logo.jpeg)| [NGEE ANN POLYTECHNIC](https://www.np.edu.sg/Pages/default.aspx)|
+|  ![Evergreen Secondary School](/images/Sport%20Education/Sports%20Leadership/Partnership/evgss_logo.jpeg)| [Evergreen Secondary School](https://evergreensec.moe.edu.sg/departments/physical-education/)|
+|  ![Hilda school](/images/Sport%20Education/Sports%20Leadership/Partnership/st_hilda_logo.jpeg) | [ST. HILDA'S SCHOOL](https://www.sthildassec.moe.edu.sg/)|
+|  ![ADPS](/images/Sport%20Education/Sports%20Leadership/Partnership/adps_logo.jpeg) | [ADMIRALTY PRIMARY SCHOOL](https://www.admiraltypri.moe.edu.sg/)|
+
 
 **Oversea Partners**
-* [University of Alicante](https://web.ua.es/en/actualidad-universitaria/2014/junio2014/junio2014-23-30/ua-collaborates-for-the-first-time-on-a-project-for-positive-development-in-young-people-with-sport-singapore.html)![university of alicante](/images/Sport%20Education/Sports%20Leadership/Partnership/university_of_alicante.jpeg)
+
+| -------- | -------- | 
+| ![university of alicante](/images/Sport%20Education/Sports%20Leadership/Partnership/university_of_alicante.jpeg) | [University of Alicante](https://web.ua.es/en/actualidad-universitaria/2014/junio2014/junio2014-23-30/ua-collaborates-for-the-first-time-on-a-project-for-positive-development-in-young-people-with-sport-singapore.html)   | 
