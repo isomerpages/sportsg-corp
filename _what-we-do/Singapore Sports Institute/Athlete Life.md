@@ -16,5 +16,3 @@ ALM has three main components: Athlete Life Coaching, *spex_Education* and *sp
 | ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/spexed.jpg)   | The spexEducation scheme is an effective education support system to help our athletes pursue high performance sports without compromising their academic aspirations.<br>[Read more](/singapore-sports-institute/athlete-life/spexeducation/) |
 | ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Derek%20Wong%20at%20SEA%20Games.jpg)   | The spexBusiness scheme provides an effective career support system to help our athletes pursue high performance sports without compromising their career aspirations.<br>[Read more](/singapore-sports-institute/athlete-life/spexbusiness/) | 
 | ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/teamsingaporecard.jpg)  | An exclusive and privileged membership brought together by our corporate Singapore partners for Team Singapore Athletes.<br>[Read more](/singapore-sports-institute/athlete-life/team-singapore-card/) | 
-
-[Team Singapore Card](/singapore-sports-institute/athlete-life/team-singapore-card/)
