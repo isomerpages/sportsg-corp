@@ -159,11 +159,9 @@ The copy of the Doping Control Form that the laboratory receives does not contai
 
 ##### **MODIFICATIONS FOR MINORS AND ATHLETES WITH A DISABILITY**
 **Minors**
-
 Minors must be notified of their selection for doping control in the presence of an adult representative (eg, coach, team manager, team doctor, guardian, etc). Under the ADS Anti-Doping Rules, a Minor is any individual below 18 years old. You may be accompanied by your representative at all times during the sample collection procedure, including in the washroom area during sample provision. However, the representative will not witness the passing of the sample. If you decide not to have a representative, the DCO may ask a third party to be present.
 
 **Athletes with Impairment**
-
 Athletes with a physical disability may ask an adult athlete representative or the DCO to assist when handling the sample collection equipment, splitting the sample, or completing the doping control form. The representative may complete the required sections of the doping control form and sign the form on your behalf if you are unable to do so.
 
 Athletes with a visual impairment must be accompanied by an adult representative at all times during notification and the sample collection procedure, including in the washroom area during sample provision. However, the representative will not witness the passing of the sample. The representative must read the contents of the doping control form to you, and you may ask your representative to make any comments on the doping control form on your behalf if necessary.
