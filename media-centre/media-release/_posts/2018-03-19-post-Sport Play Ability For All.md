@@ -40,4 +40,4 @@ _Pilot programme by Temasek Foundation Cares and SportCares enables persons with
 
 11. Interested parties can log on to [www.sportcares.sg](http://www.sportcares.sg/) or email [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg) for more details.
 
-[1] Dual-Use Scheme (DUS) is a collaboration between Ministry of Education and Sport Singapore where school fields, indoor sports halls and running tracks are open for booking on the weekends for members of public to use.
+*[1] Dual-Use Scheme (DUS) is a collaboration between Ministry of Education and Sport Singapore where school fields, indoor sports halls and running tracks are open for booking on the weekends for members of public to use.*
