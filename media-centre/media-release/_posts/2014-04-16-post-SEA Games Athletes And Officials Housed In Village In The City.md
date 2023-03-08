@@ -23,26 +23,26 @@ END
 
 S/No     
  Hotels List
- 1\. Amara Singapore 
- 2\. Copthorne King’s Hotel 
- 3\. Days Hotel Singapore At Zhongshan Park 
- 4\. Fairmont Singapore 
- 5\. Furama City Centre Singapore 
- 6\. Furama Riverfront Singapore 
- 7\. Grand Copthorne Waterfront Hotel 
- 8\. Grand Mercure Roxy Hotel 
- 9\. Village Hotel Bugis 
- 10\. M Hotel Singapore 
- 11\. Marina Bay Sands 
- 12\. Marina Mandarin Singapore 
- 13\. Novotel Singapore Clarke Quay 
- 14\. PARKROYAL on Beach Road 
- 15\. PARKROYAL on Kitchener Road 
- 16\. Peninsula.Excelsior Hotel 
- 17\. Ramada Singapore At Zhongshan Park 
- 18\. Resorts World Sentosa – Hard Rock Hotel and Festive Hotel
- 19\. Swissôtel The Stamford Singapore 
- 20\. Pan Pacific Hotel Singapore 
+ 1\. Amara Singapore <br>
+ 2\. Copthorne King’s Hotel <br>
+ 3\. Days Hotel Singapore At Zhongshan Park <br>
+ 4\. Fairmont Singapore <br>
+ 5\. Furama City Centre Singapore <br>
+ 6\. Furama Riverfront Singapore <br>
+ 7\. Grand Copthorne Waterfront Hotel <br>
+ 8\. Grand Mercure Roxy Hotel <br>
+ 9\. Village Hotel Bugis <br>
+ 10\. M Hotel Singapore <br>
+ 11\. Marina Bay Sands <br>
+ 12\. Marina Mandarin Singapore <br>
+ 13\. Novotel Singapore Clarke Quay <br>
+ 14\. PARKROYAL on Beach Road <br>
+ 15\. PARKROYAL on Kitchener Road <br>
+ 16\. Peninsula.Excelsior Hotel <br>
+ 17\. Ramada Singapore At Zhongshan Park <br>
+ 18\. Resorts World Sentosa – Hard Rock Hotel and Festive Hotel <br>
+ 19\. Swissôtel The Stamford Singapore <br>
+ 20\. Pan Pacific Hotel Singapore <br>
 
 **For media enquiries, please contact:**  
   
