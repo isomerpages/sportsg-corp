@@ -135,10 +135,13 @@ Please ensure that all revised/new documents are submitted to SSI-IRB with the c
 Study pre-approval
 
 
+**Study pre-approval**
 
 | Document Name | Version | Link |
 | -------- | -------- | -------- |
 | SSI-IRB Application Form | 28 July 2021 | [Download ](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_application_form.pdf)  |
+| Specific Research  | | |
+| Participant Information Sheet | 05 August 2021 | [Download ](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_application_form.pdf)  |
 
 
 
