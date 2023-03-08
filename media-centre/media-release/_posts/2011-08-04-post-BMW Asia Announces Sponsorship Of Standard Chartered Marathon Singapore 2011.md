@@ -8,9 +8,9 @@ image: ""
 ---
 ### **BMW Asia Announces Sponsorship Of Standard Chartered Marathon Singapore 2011**
 
-Full and Half Marathon Runners Stand a Chance to Win a Brand New BMW X1 sDrive18i
+_Full and Half Marathon Runners Stand a Chance to Win a Brand New BMW X1 sDrive18i_
 
-Singapore, 4 August 2011 - BMW Asia today announced its inaugural co-sponsorship of the Standard Chartered Marathon Singapore 2011 (SCMS). BMW Asia along with the race organiser, Singapore Sports Council (SSC), unveiled a series of initiatives aimed at further engaging participants and improving the race experience for SCMS 2011 runners, in the lead up to and during the race on 4 December 2011.
+**Singapore, 4 August 2011** - BMW Asia today announced its inaugural co-sponsorship of the Standard Chartered Marathon Singapore 2011 (SCMS). BMW Asia along with the race organiser, Singapore Sports Council (SSC), unveiled a series of initiatives aimed at further engaging participants and improving the race experience for SCMS 2011 runners, in the lead up to and during the race on 4 December 2011.
 
 2. One key highlight of the partnership is a chance for Full and Half Marathon runners to win a brand new BMW X1 sDrive18i simply by joining Team BMW. This will be complemented with a series of activities including running clinics where runners will be given expert coaching to hone their technique and performance ahead of SCMS 2011.
 
@@ -32,7 +32,7 @@ Singapore, 4 August 2011 - BMW Asia today announced its inaugural co-sponsorship
 
 ---
 
-Annex A - Details of BMW's Sponsorship of Standard Chartered Marathon Singapore 2011
+###### Annex A - Details of BMW's Sponsorship of Standard Chartered Marathon Singapore 2011
 
 1. Official Pacers Programme
 
