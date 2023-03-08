@@ -35,21 +35,20 @@ Guests also toured the photography exhibition, 'The Moment' presented by Team Si
 
 For more information on Team Singapore athletes' performance at the 15th Asian Games, please refer to [www.teamsingapore.sg](https://www.teamsingapore.sg/home).
 
-Enclosures:
-<br>
-[Annex 1: Programme](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex1.pdf)
-<br>
-[Annex 2: Speech by Mr Teo Chee Hean, Minister for Defence & President of SNOC](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex2.pdf)
-<br>
-[Annex 3: List of MAP Award Recipients](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex3.pdf)
-<br>
-[Annex 4: Factsheet on Singapore Pools (Private) Limited](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex5.pdf)
-<br>
-[Annex 5: Factsheet on Tiger Beer](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex6.pdf)
-<br>
+---
+
+###### Enclosures
+
+[Annex 1: Programme](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex1.pdf)<br>
+[Annex 2: Speech by Mr Teo Chee Hean, Minister for Defence & President of SNOC](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex2.pdf)<br>
+[Annex 3: List of MAP Award Recipients](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex3.pdf)<br>
+[Annex 4: Factsheet on Singapore Pools (Private) Limited](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex5.pdf)<br>
+[Annex 5: Factsheet on Tiger Beer](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex6.pdf)<br>
 [Annex 6: Factsheet on Photography Exhibition - 'The Moment'](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex7.pdf)
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Ms Suhana Kharudin
 <br>
