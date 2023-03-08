@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Get To Know Their Hopes, Dreams And Aspirations**
+### **Get To Know Their Hopes, Dreams And Aspirations**
 
-GET TO KNOW THEIR HOPES, DREAMS AND ASPIRATIONS
-"Team Singapore @ YOG" Photography Showcase To Be Featured At 20 Locations Nationwide Beginning Today
+_"Team Singapore @ YOG" Photography Showcase To Be Featured At 20 Locations Nationwide Beginning Today_
 
 **Singapore, 6 August 2010** - To commemorate Team Singapore athletes' participation at the inaugural Singapore 2010 Youth Olympic Games, the Singapore Sports Council (SSC) is pleased to present a sports photography exhibition entitled "TEAM SINGAPORE @ YOG", an inspiring showcase of momentous chapters in their pursuit for sporting excellence.
 
@@ -25,53 +24,55 @@ GET TO KNOW THEIR HOPES, DREAMS AND ASPIRATIONS
 
 7. The Inspiring Sporting Singapore Photography Exhibition is part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it playing, watch, cheering or volunteering for sports.
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+###### Annex A
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-**About Let's Play**
-<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.singaporesports.sg](www.singaporesports.sg)
-
-**About StarHub**
-<br>
-StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services.
-
-Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MCSI Singapore Free Index.
-
-
-ANNEX A
 Inspiring Sporting Singapore Photography Exhibition Venues from 6 to 31 August 2010
 
 | CDC DISTRICT | Public Libraries | SSC Locations |
 | -------- | -------- | -------- |
-| North West | Bukit Panjang Public Library<br>embawang Public Library <br>Yishun Public Library | Woodlands Swimming Complex
-| Central Singapore  | Central Public Library<br>Library@Esplanade | Ang Mo Kio Swimming Complex<br>Jalan Besar Swimming Complex
-| South West | Choa Chu Kang Public Library<br>Jurong Regional Library <br>Jurong West Public Library | Clementi Swimming Complex
-| North East | Cheng San Public Library <br>Pasir Ris Public Library <br>Sengkang Public Library | Tampines Swimming Complex
-| South East | Bedok Public Library <br>Marine Parade Public Library | Bedok Swimming Complex <br>Geylang East Swimming Complex         
+| North West | Bukit Panjang Public Libraryembawang Public Library Yishun Public Library | Woodlands Swimming Complex
+| Central Singapore  | Central Public LibraryLibrary@Esplanade | Ang Mo Kio Swimming ComplexJalan Besar Swimming Complex
+| South West | Choa Chu Kang Public LibraryJurong Regional Library Jurong West Public Library | Clementi Swimming Complex
+| North East | Cheng San Public Library Pasir Ris Public Library Sengkang Public Library | Tampines Swimming Complex
+| South East | Bedok Public Library Marine Parade Public Library | Bedok Swimming Complex Geylang East Swimming Complex         
 
-**For media enquiries, please contact:**
-<br>Rhoda Dinesen
-<br>Director
-<br>Communications and Events
-<br>STC Associates
-<br>Phone: 6222 5700
-<br>Email: [rdinesen@stcassociates.com](rdinesen@stcassociates.com)
+---
 
-Patricia Yee
-<br>Executive
-<br>Media and Public Relations
-<br>Singapore Sports Council
-<br>Office: 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+###### For media enquiries, please contact:
+
+Rhoda Dinesen<br>
+Director<br>
+Communications and Events<br>
+STC Associates<br>
+Phone: 6222 5700<br>
+Email: [rdinesen@stcassociates.com](rdinesen@stcassociates.com)
+
+Patricia Yee<br>
+Executive<br>
+Media and Public Relations<br>
+Singapore Sports Council<br>
+Office: 6500 5246<br>
+Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+
+###### About Let's Play
+Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.singaporesports.sg](www.singaporesports.sg)
+
+###### About StarHub
+StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services.
+
+Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MCSI Singapore Free Index.
