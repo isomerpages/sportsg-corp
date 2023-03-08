@@ -58,11 +58,11 @@ WEBSITE:                                                      [ www.cwg2010delhi
 
 NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 
-| Column 1 | Column 2 | Column 3 |
+| Event | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
-Sports
+
 
 Event
 
