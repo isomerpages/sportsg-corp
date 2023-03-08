@@ -8,6 +8,15 @@ spex_Business is the customised scheme that develops a more integrated and robus
 Through forming a network of companies from diverse industries, spex_Business collaborates with its partners to offer various career development supports (such as employment opportunities and workplace flexibilities) to Team Singapore athletes.
 
 #### **spexBusiness Partners**
+
+| Logo | Name |
+| -------- | -------- |
+| ![Adecco](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness%20Partners/Adecco.jpg)     | **[Adecco Personnel](http://www.adecco.com.sg/jobseekers/careers-adecco)**<br>The Adecco Group is the world's leading provider of HR solutions. The services they offer fall into the broad categories of temporary staffing, permanent placement, career transition and talent development, as well as outsourcing and consulting. They offer life skills, career development and specialized expertise. The Adecco mission is to provide superior service to associates and clients through best-in-class matching of associates to client positions.     | 
+| ![adidas](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness%20Partners/adidas.jpg)     | **[adidas](https://careers.adidas-group.com/locations/hubs/singapore)**<br>adidas is a German multinational corporation that designs and manufactures sports shoes, clothing and accessories. In Singapore, adidas operates a retail business with their concept stores featuring the brand's signature athletic footwear, clothes & accessories. | 
+
+
+
+
 **[Adecco Personnel](http://www.adecco.com.sg/jobseekers/careers-adecco)**
 
 The Adecco Group is the world's leading provider of HR solutions. The services they offer fall into the broad categories of temporary staffing, permanent placement, career transition and talent development, as well as outsourcing and consulting. They offer life skills, career development and specialized expertise. The Adecco mission is to provide superior service to associates and clients through best-in-class matching of associates to client positions.
