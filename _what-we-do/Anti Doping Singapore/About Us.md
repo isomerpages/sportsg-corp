@@ -21,6 +21,7 @@ ADS' mission is to ensure sport in Singapore is free of doping through the imple
 
 #### **VISION**
 Every Singaporean athlete is a True Winner.
+![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/Education/Winner.png)
 
 #### **GOVERNANCE**
 
