@@ -52,7 +52,7 @@ DATE:                                                              3-14 October 
 
 VENUE:                                                            Delhi, India
 
-WEBSITE:                                                       www.cwg2010delhi.org
+WEBSITE:                                                      [ www.cwg2010delhi.org]( www.cwg2010delhi.org)
 
  
 
