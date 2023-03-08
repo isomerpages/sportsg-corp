@@ -6,11 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-### **Singapore High Performance Sports Steering Committee**
+### **Singapore High-Performance Sports Steering Committee**
 
-**Singapore, 26 February 2013** - The Ministry of Culture, Community and Youth announced the formation of a Singapore High Performance Sports Steering Committee today. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, will chair the Committee, which will be appointed for two years, starting 2013, and include key stakeholders from the Singapore National Olympic Council, Singapore National Paralympic Council, National Sports Associations (NSA), and members of the sporting fraternity. See Annex for the composition of the Steering Committee.
+**Singapore, 26 February 2013** - The Ministry of Culture, Community and Youth announced the formation of a Singapore High-Performance Sports Steering Committee today. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, will chair the Committee, which will be appointed for two years, starting 2013, and include key stakeholders from the Singapore National Olympic Council, Singapore National Paralympic Council, National Sports Associations (NSA), and members of the sporting fraternity. See Annex for the composition of the Steering Committee.
 
-2\. The Steering Committee will be providing strategic guidance on the national High Performance System (HPS). It is part of the Government's continued support for our Singapore athletes to pursue their sporting aspirations towards excellence. Specifically, the **Terms of Reference of the Committee are**:
+2\. The Steering Committee will be providing strategic guidance on the national High-Performance System (HPS). It is part of the Government's continued support for our Singapore athletes to pursue their sporting aspirations towards excellence. Specifically, the **Terms of Reference of the Committee are**:
 * To provide strategic guidance on the HPS.
 * To approve the award the Sports Excellence (SpEx) Scholarship. (The Sports Excellence Scholarship will provide selected athletes with support to train full-time.)
 * To approve the annual HPS plans for supported sports. (These refer to sports in which there are supported athletes.)
