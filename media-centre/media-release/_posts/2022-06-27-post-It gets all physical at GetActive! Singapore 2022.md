@@ -18,7 +18,7 @@ It’s time for everyone to get active, let’s Play On, Play Together in celebr
 
 “Not only will GASG 2022 have its traditional favourites, like Pesta Sukan and Sport Festivals, but it will also feature new activities such as the **YouthCreates Urban Fiesta** for our youths, a first ever **Seniors Obstacle Course** at OCBC Square, and **Active Health Make Every Move Count Workshops** in support of the recently launched Singapore Physical Activity Guidelines. And those who want to clock their steps can do so with the **special NDP 2022 Adventure edition** on GameOn Nila!” said Dr Chiang Hock Woon, Deputy Chief Executive Officer, SportSG.  
   
-##### **What’s on offer at GetActive! Singapore 2022**  
+**What’s on offer at GetActive! Singapore 2022**  
   
 4. This year, family friendly **GetActive! Sport Festivals** organised by Team Nila volunteers will take place at 10 selected ActiveSG facilities and at Chinatown. Our budding community athletes can look forward to **Pesta Sukan** which will be back with **24 sports, 13 para sports and 5 signature events**, the largest multi-sports competition for Singaporeans coming out of the pandemic.  
   
