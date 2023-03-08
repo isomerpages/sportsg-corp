@@ -43,7 +43,7 @@ The ADS DTP will comprise mostly athletes who are in national squads and who are
 ##### **RETIREMENT AND REINSTATEMENT**
 **Retirement**
 
-Athletes in the ADS RTP or ADS DTP who wish to retire from competition, should notify both their NSA and ADS by completing the [ADS Athlete Retirement Notification Form](/anti-doping-singapore/resources/polices-and-forms) and submitting it to their NSA and ADS.
+Athletes in the ADS RTP or ADS DTP who wish to retire from competition, should notify both their NSA and ADS by completing the [ADS Athlete Retirement Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf) and submitting it to their NSA and ADS.
 
 Athletes are required to complete the sample collection process if ADS has not received the ADS Athlete Retirement Notification Form. Failure to comply with the request to provide a sample could result in an Anti-Doping Rule Violation (ADRV).
 
@@ -51,9 +51,9 @@ Any athlete on their International Federation's RTP will also be subject to the 
 
 **Reinstatement**
 
-Athletes must ensure they follow the reinstatement procedures as set out in the [ADS Anti-Doping Rules](/anti-doping-singapore/resources/polices-and-forms) and their International Federation's Anti-Doping Policy, if applicable.
+Athletes must ensure they follow the reinstatement procedures as set out in the [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) and their International Federation's Anti-Doping Policy, if applicable.
 
-Athletes who have given notice of retirement to ADS and their NSA may only resume competition unless they notify ADS and their NSA at least 6 months before returning to competition and avail themselves to unannounced out-of-competition testing at any time during the period before actual return to competition. Notification of their return to competition should be given to ADS and their NSA using the [ADS Athlete Return to Competition Notification Form](/anti-doping-singapore/resources/polices-and-forms).
+Athletes who have given notice of retirement to ADS and their NSA may only resume competition unless they notify ADS and their NSA at least 6 months before returning to competition and avail themselves to unannounced out-of-competition testing at any time during the period before actual return to competition. Notification of their return to competition should be given to ADS and their NSA using the [ADS Athlete Return to Competition Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Return_to_Competition_Notification_Form_20210611.pdf).
 
 Any athlete in an International Federation's RTP will also be subject to their International Federation's reinstatement requirements.
 
