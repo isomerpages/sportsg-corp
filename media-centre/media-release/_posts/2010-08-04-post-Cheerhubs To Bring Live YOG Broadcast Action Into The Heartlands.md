@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-"Cheerhubs" To Bring 'Live' YOG Broadcast Action Into The Heartlands
-Singapore , 04 Aug 2010
+## **"Cheerhubs" To Bring 'Live' YOG Broadcast Action Into The Heartlands**
 
 "CHEERHUBS" TO BRING 'LIVE' YOG BROADCAST ACTION INTO THE HEARTLANDS
 YOG Events To Be Broadcast At Five SSC Sports And Recreation Centres To Foster Greater Community Spirit Among Singaporeans
