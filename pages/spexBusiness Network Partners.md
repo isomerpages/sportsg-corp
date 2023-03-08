@@ -213,3 +213,35 @@ Quest Ventures is a leading venture fund for companies that have scalability and
   
 [Quest Ventures Careers](http://www.questventures.com/careers)  
 [Quest Ventures Internships](http://www.questventures.com/internships)
+
+**[Royal Sporting House](https://career012.successfactors.eu/career?company=C0001144036P&site=VjItR2U0ZmpQVjVzUDcwUnBWUG54ZmgyZz09)**  
+
+As an Asian-based retailer, we aim to provide accessible and contemporary products through an enjoyable shopping experience. The Group’s core values of 1) Respect, 2) Integrity, 3) Collaboration and 4) Excellence are integral to the manner in which the business conducts itself with its business partners, customers and employees.
+
+Royal Sporting House Established in 1977 as an independent retail store, RSH Limited has since grown into a multinational conglomerate known for the distribution and retailing of more than 70 renowned international consumer brands. Our extensive multi-brand, multi-store network brings together a comprehensive collection of the world’s most renowned labels, brands and franchises including Zara, Reebok, Mango, Lacoste, bebe among others.
+
+Our strong track record is a result of our commitment to building trust and long-term relationships. Almost half of our portfolio of brands have stayed with us for a decade or longer. Lacoste – our first international brand, has been with us since our inception. Today, our portfolio has expanded to cover four main categories: Sports, Golf, Active Lifestyle and Fashion, with exclusive retail rights to operate stores for top fashion and active lifestyle brand names such as Massimo Dutti, Zara, Ted Baker and Quiksilver.
+
+**[Resorts World Sentosa](https://www.rwsentosa.com/en/careers)**
+
+Resorts World Sentosa (RWS), Asia’s ultimate destination resort, is home to two mega attractions - the region’s first-and-only Universal Studios theme park and the Marine Life Park. The resort also offers world-class entertainment, from original resident productions to concerts and public shows. RWS offers a diverse range opportunities in attractions, rooms, food & beverage, casino and corporate functions.
+
+**[Sakae Holdings](https://www.sakaeholdings.com/career)**
+
+Since inception in 1996, Sakae Holdings Ltd. has developed an outstanding portfolio of popular brands – Sakae Sushi, Sakae Teppanyaki, Sakae Delivery, Hei Sushi, Senjyu, Crepes & Cream, Sakae Express, Sachi , Kyo by Sakae and Nouvelle Events – all synonymous with quality dining.
+
+**[SAS Institute](https://www.sas.com/en_id/careers.html)**
+
+SAS is the leader in business analytics software and services, and the largest independent vendor in the business intelligence market. Through innovative solutions, SAS helps customers at more than 75,000 sites improve performance and deliver value by making better decisions faster.
+
+**[SMRT](https://careers.smrt.com.sg/?utm_source=careersite)**  
+
+SMRT Corporation Ltd (SMRT Corp) is Singapore’s premier multi-modal land transport provider. Our core businesses are in rail operations, maintenance and engineering as well as in bus, taxi and automotive services. Complementing these are our integrated businesses in retail, media and marketing, as well as properties and retail management. We are committed to sustainable development and corporate social responsibility.
+
+**[StarHub](https://www.starhub.com/about-us/careers/careers-at-starhub.html)**
+
+StarHub is Singapore's fully-integrated info-communications company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub offers careers in Products & Solutions, Customer Service, Content Services, Sales, Marketing, Corporate Services (Legal & Secretariat, Human Resource, Corporate Communications & Investor Relations, Government & Strategic Affairs), Information Services & Business Excellence, Network Engineering, and Finance.
+
+**[Singapore Sports Hub](https://www.sportshub.com.sg/who-we-are/careers)**
+
+The Singapore Sports Hub (SSH) is one of the world’s first fully integrated sports, entertainment and lifestyle destination. Its 35 hectare of world-class facilities include the National Stadium, Singapore Indoor Stadium, OCBC Arena, OCBC Aquatic Centre, Water Sports Centre, Kallang Wave Mall, Sports Hub Library, Singapore Sports Museum and Shimano Cycling World. Incorporating award-winning design and environmentally conscious construction, SSH offers different multi-purpose venues with varying seating capacities to host events ranging from sports, entertainment and lifestyle to community events.
