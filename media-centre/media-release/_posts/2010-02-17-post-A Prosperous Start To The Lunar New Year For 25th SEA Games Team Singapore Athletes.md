@@ -157,7 +157,9 @@ MAP AWARDS RECIPIENTS
 ||| Total Gold Medals / MAP Awards | | 33 | $455,000 |
 
 LIST OF APPRECIATION PLAQUE RECIPIENTS
+
 <br>
+
 | S/NO | Appreciation Plaque Recipients |
 | -------- | -------- |
 | 1 | NTUC Fairprice Foundation Ltd
