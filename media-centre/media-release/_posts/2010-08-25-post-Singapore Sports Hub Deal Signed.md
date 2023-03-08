@@ -48,13 +48,13 @@ About the Singapore Sports Council
 statics0
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
-
-Join SSC on Twitter at: www.twitter.com/singaporesports
-
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **For media enquiries, please contact:**
 <br>S. Parameswaran (Parames)
@@ -62,13 +62,13 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5236
-<br>Email: parames_seenivasagam@ssc.gov.sg
+<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 Eugene De Rozario
 <br>Senior Commercial Manager
 <br>SportsHub Pte Ltd
 <br>Tel: (65) 6595 5622
-<br>Email: e.derozario@bouygues-construction.com
+<br>Email: [e.derozario@bouygues-construction.com](e.derozario@bouygues-construction.com)
 
 Alvin Hang
 <br>Director
