@@ -32,14 +32,14 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
 <br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Team Singapore**
-www.snoc.org.sg
+<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
