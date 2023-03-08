@@ -95,7 +95,7 @@ Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5014
-<br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
+<br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
 
 
 ##### **About Singapore Sports Council**
