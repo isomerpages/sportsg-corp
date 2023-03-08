@@ -10,7 +10,7 @@ image: ""
 
 Singaporeans with a penchant for speed, height and adventure will get their fix and adrenaline rush with a series of exciting extreme and adventure sporting activities this year. The Singapore Sports Council (SSC) officially announced today, the return of Xtreme Singapore and Adventure Singapore, with many highlights at these two events this year.
 
-##### **Xtreme Singapore 2007**
+##### **Xtreme Singapore 2007
 
 Starting tomorrow, April 28, 2007 the Xtreme Singapore circuit will kick off in Jurong East Central. From a one-day event at Downtown East last year to five different island-wide circuits this year, Xtreme Singapore will give young Singaporeans the chance to participate in a series of park-based extreme sports competitions which include skateboarding, BMX biking and aggressive inline skating. Co-organised by NTUC Club, Xtreme Singapore will be making circuit stops in other areas such as Ngee Ann City, Somerset and Tampines before culminating in the grand finale at Downtown East in December 2007.
 
@@ -34,8 +34,8 @@ Dr. Bervyn Lee, Director, Youth Sport Development division, Singapore Sports Cou
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Calvin Koh
 <br>
 Fulford Public Relations
@@ -62,10 +62,12 @@ E-mail: [ndaeng@fulfordpr.com](mailto:ndaeng@fulfordpr.com)
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
 
-###### About Xtreme Singapore
+**About Xtreme Singapore**
+<br>
 Xtreme Singapore is an annual extreme sports competition organised by the Singapore Sports Council to provide youths with more opportunities for sustained sports participation through alternative sports. This year, Xtreme Singapore returns with a series of extreme sports competition held in five zonal areas island-wide, participants will compete in a series of extreme sports categories such as skateboarding, aggressive inline skating and BMX biking. Participants and the public can also engage in various extreme sports such as motocross, inline skating and skateboarding. Participants will gain points from their performance and participation in the series. The 40 participants with the most points in the series will compete in the grand finale in December 2007 where the Xtreme Singapore champion will be crowned.
 
 ###### About Adventure Singapore
