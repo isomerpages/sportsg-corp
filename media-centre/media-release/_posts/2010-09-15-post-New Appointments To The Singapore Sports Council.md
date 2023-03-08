@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **New Appointments To The Singapore Sports Council**
+### **New Appointments To The Singapore Sports Council**
 
-NEW APPOINTMENTS TO THE SINGAPORE SPORTS COUNCIL
-Singapore, 15 September 2010 - Mr Richard Seow Yung Liang will assume the post of Chairman of the Singapore Sports Council with effect from 1 October 2010 .
+**Singapore, 15 September 2010** - Mr Richard Seow Yung Liang will assume the post of Chairman of the Singapore Sports Council with effect from 1 October 2010 .
 
 2. Mr Seow, 48, is currently the Chairman of Republic Polytechnic and Chairman of the Anglo-Chinese School Board of Governors. A former investment banker, Mr Seow was previously also Chairman of the Board of Parkway Holdings Limited.
 
@@ -26,10 +25,10 @@ Singapore, 15 September 2010 - Mr Richard Seow Yung Liang will assume the post o
 * (iii) Mr Chew Hock Yong, Chief Executive, Land Transport Authority
 
 6. MCYS and SSC welcome the new Council members and also express their appreciation to the outgoing members for their invaluable service. The composition of the new Council is at Annex.
-statics0
--End-
 
-Annex - Composition of Singapore Sports Council (1 October 2010 to 30 September 2012)
+---
+
+###### Annex - Composition of Singapore Sports Council (1 October 2010 to 30 September 2012)
 
 CHAIRMAN
 <br>Mr Richard Seow
@@ -53,7 +52,7 @@ Mr Low Teo Ping
 Mr Lee Hong Chuang
 <br>Business Recovery Operations Manager, Hewlett Packard Singapore and 1st Vice-President of Singapore Gymnastics
 
-Dr Janice Khoo               
+Dr Janice Khoo
 <br>General Practitioner, The Rafflesian Clinic & Surgery
 
 Dr Saiful Nizam
@@ -68,7 +67,7 @@ Mr Yam Ah Mee
 COL Chia Choon Hong
 <br>Assistant Chief of General Staff (Plans), Ministry of Defence
 
-Ms Ong Toon Hui         
+Ms Ong Toon Hui
 <br>Deputy Secretary, Ministry of Community Development, Youth and Sports
 
 Dr Teo-Koh Sock Miang
@@ -76,19 +75,23 @@ Dr Teo-Koh Sock Miang
 <br>Mr Andreas Sohmen-Pao
 <br>Group CEO, BW Maritime and BW Gas
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### For media enquiries, please contact:e
+
+Jackson Tan
+<br>Office: (65) 63548147
+<br>Email: jackson_tan@mcys.gov.sg
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**For media enquiries, please contact:**
-<br>Jackson Tan
-<br>Office: (65) 63548147
-<br>Email: jackson_tan@mcys.gov.sg
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
