@@ -37,11 +37,11 @@ For the convenience of elite athletes with a hectic schedule, state-of-the-art t
 9 Under the Private-Public-Partnership (PPP) arrangement, the government will pay the consortium an annual payment (covers construction, operating and financing costs) over 25 years. The construction cost is SGD$1.33 billion, which the government does not pay upfront. The government's payment will be through annual payments.
 
 10 The Singapore Sports Hub is the largest sports infrastructure Public-Private-Partnership (PPP) project in the world and Singapore's largest and flagship PPP project. Under the PPP model, the Consortium brings in their expertise in various aspects of the project, such as construction, financing and programming, while the government makes monthly payments to the Consortium when the facilities and services become operational and meet the contractual obligations.
-statics0
+
 -End-
 
 Enclosures
-Annex A - Singapore Sports Hub Fact Sheet [75 Kb]
+Annex A - [Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2010/Sept/Annex%20Apdf.pdf) [75 Kb]
 Annex B - Key Features in Sports Hub [1064 Kb]
 Annex C - SSHC Profile [88 Kb]
 About the Singapore Sports Council
