@@ -20,21 +20,21 @@ From 3-5 August 2007, shoppers at Plaza Singapura can experience sailing on a sa
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Gayle Wong<br>
 Assistant Director<br>
 Group Communications, Singapore Sports Council<br>
 DID: 6340 9820<br>
 Mobile: 9753 3273<br>
-E-mail: gayle_wong@ssc.gov.sg
+E-mail: [gayle_wong@ssc.gov.sg](gayle_wong@ssc.gov.sg)
 
 Bobby Chan<br>
 Manager<br>
 Branding & Public Relations, PSB Academy<br>
 DID: 6517 2606<br>
 Mobile: 9691 8660<br>
-E-mail: bobby.chan@psb-academy.edu.sg
+E-mail: [bobby.chan@psb-academy.edu.sg](bobby.chan@psb-academy.edu.sg)
 
 ---
 
