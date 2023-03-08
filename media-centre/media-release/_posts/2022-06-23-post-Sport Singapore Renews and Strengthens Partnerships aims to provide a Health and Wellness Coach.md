@@ -78,6 +78,6 @@ Within the next six months, Active Health will be initiating new programmes with
 
 3. “LITE Programme” and “Kick Start Move Smart Programme” co-designed with SingHealth to support families with overweight children to implement positive changes in diet, physical activity and lifestyle habits
 
-4. First ever Active Health Fitness Trail to be featured in the Health District @ Queenstown
+4. First ever Active Health Fitness Trail to be featured in the Health District @ Queenstown pilot
 
 Beyond the above partnerships, public and stakeholders within the health and wellness ecosystem can look forward to new Active Health Labs in upcoming sport centres in Canberra, Delta and Punggol. Existing Active Health initiatives such as ‘Stronger at 40’ and ‘Combat Age-Related Loss of Muscle (CALM)’ for individuals aged 60 and above will also feature enhanced programming to better engage and empower participants.
