@@ -9,7 +9,7 @@ image: ""
 ---
 ### **Best Prepared Team Singapore Contingent At The Beijing 2008 Olympic And Paralympic Games**
 
-Singapore, 10 July 2008 - Singapore will be fielding its best-prepared athletes at the upcoming Beijing 2008 Olympic and Paralympic Games with contingents of 25 and six athletes respectively. Both the Games will be held in Beijing, China.
+**Singapore, 10 July 2008** - Singapore will be fielding its best-prepared athletes at the upcoming Beijing 2008 Olympic and Paralympic Games with contingents of 25 and six athletes respectively. Both the Games will be held in Beijing, China.
 
 At the joint flag presentation ceremony held at Plaza Singapure this evening, Guest-of-Honour, Mr Teo Chee Hean, Minister for Defence and President of the Singapore National Olympic Council (SNOC), presented the flags officially to the Beijing 2008 Olympic and Paralympic Games contingents. Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports (MCYS) and Ministry of Transport (MOT) was also at the event.
 
@@ -45,9 +45,9 @@ Those who are interested in keeping abreast of Team Singapore's performance at t
 
 The official send-off for Team Singapore contingent is on 2 August 2008. For more details on Team Singapore at the Beijing 2008 Olympic & Paralympic Games, please visit www.teamsingapore.com.sg.
 
+---
 
-
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Darrelle Eng
 <br>
@@ -91,16 +91,13 @@ Mobile: 9007 8669
 <br>
 Email: [kelly.fan@sdsc.org.sg](mailto:kelly.fan@sdsc.org.sg)
 
+---
 
-
-**About the Singapore National Olympic Council**
-<br>
+###### About the Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-**About Singapore Disability Sports Council**
-<br>
+###### About Singapore Disability Sports Council
 SDSC is the national sports body for the disabled in Singapore. It is the only local organization that caters sports for persons across all kinds of disabilities. It aims to help the disabled lead full and independent lives through sports. Besides providing sporting opportunities for them to realize their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. For more information, please visit http://www.sdsc.org.sg.
