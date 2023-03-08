@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Team Singapore To Head To Dehli 2010 As Scheduled
-Singapore , 24 Sep 2010
+## **Team Singapore To Head To Dehli 2010 As Scheduled**
 
 TEAM SINGAPORE TO HEAD TO DELHI 2010 AS SCHEDULED
 Singapore, 24 September 2010 - Team Singapore will be heading to the 19th Commonwealth Games Delhi 2010 as planned. The contingent will be made up of 68 athletes and 34 officials.
@@ -62,4 +61,4 @@ Team Singapore
 Office: 65005289
 Email: jose_raymond@ssc.gov.sg
 statics0
-statics0	
+statics0
