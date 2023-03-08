@@ -6,18 +6,17 @@ layout: post
 description: ""
 image: ""
 ---
-The Dream Lives On
-Singapore , 29 Sep 2010
+## **The Dream Lives On**
 
 THE DREAM LIVES ON
 The National Stadium Commemorative Book
 Singapore, September 29, 2010 - One of Singapore's iconic landmarks - the old National Stadium is making way for the construction of the new Sports Hub. Given its illustrious past, as well as its place in the hearts of many Singaporeans, the Singapore Sports Council (SSC) commissioned a book and a video to document the heritage of the Stadium.
 
-2 Since its official opening on 21 July 1973, the Stadium has seen many sports and non-sports events, and distinguished visitors, such as Pope John Paul II, Michael Jackson and the Boxing Great, Muhammad Ali. It carries with it a rich history and has played an important role in nation-building, hosting 18 National Day Parades since 1976.
+2. Since its official opening on 21 July 1973, the Stadium has seen many sports and non-sports events, and distinguished visitors, such as Pope John Paul II, Michael Jackson and the Boxing Great, Muhammad Ali. It carries with it a rich history and has played an important role in nation-building, hosting 18 National Day Parades since 1976.
 
-3 The National Stadium has become part of Singaporeans' lives. It always gives a majestic feel to Singaporeans. It is a national icon filled with a strong sense of national spirit and national pride. It is a standing testament to how sports and sports venues play a crucial role in bonding our people.
+3. The National Stadium has become part of Singaporeans' lives. It always gives a majestic feel to Singaporeans. It is a national icon filled with a strong sense of national spirit and national pride. It is a standing testament to how sports and sports venues play a crucial role in bonding our people.
 
-4 After over 30 years of service to the nation, the National Stadium will be torn down to be redeveloped into the new Sports Hub. And it is an appropriate time for Singaporeans to own a piece of history - the commemorative book and video on the Grand Old Dame!
+4. After over 30 years of service to the nation, the National Stadium will be torn down to be redeveloped into the new Sports Hub. And it is an appropriate time for Singaporeans to own a piece of history - the commemorative book and video on the Grand Old Dame!
 statics0
 Priced at an affordable S$20, the book will be available at selected SSC Sports & Recreation Centres:
 S/N
@@ -88,14 +87,14 @@ Clementi Swimming Complex
 
 Bedok Swimming Complex
 
-<br>901 New Upper Changi Road (467355)
-<br>6443 5511
-<br>9 Jalan Besar Swimming Complex
-<br>100 Tyrwhitt Road #01-03 (207542)
-<br>6293 9058
-<br>10 Delta Swimming Complex
-<br>900 Tiong Bahru Road (158790)
-<br>6474 7573
+901 New Upper Changi Road (467355)
+6443 5511
+9 Jalan Besar Swimming Complex
+100 Tyrwhitt Road #01-03 (207542)
+6293 9058
+10 Delta Swimming Complex
+900 Tiong Bahru Road (158790)
+6474 7573
 
 -End-
 
