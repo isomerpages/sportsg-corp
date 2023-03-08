@@ -3,8 +3,6 @@ title: Our Logo
 permalink: /about-us/our-logo/
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ygL1oOI2Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ![Sport Singapore](/images/sportsg%20logo.png)
 
 The Sport Singapore brand is about empowering people to live better through sport and helping to bring sport into the lives of all Singaporeans. This is the inspiration behind the brand design.
