@@ -107,5 +107,29 @@ Singapore Sport Institute
 Please contact us for any queries:
 [SPORT_SSI_Research@sport.gov.sg](mailto:SPORT_SSI_Research@sport.gov.sg)
 
+#### **Review Process and Timeline**
+The flowchart below shows the typical process and timeline involved for each application submitted to SSI-IRB. Do note that delays to approval can occur. Some of the common examples causing delay include:
+
+**Application Process**
+*   Incomplete submissions (Missing necessary documents, forms etc.)
+*   Clarifications and queries from the IRB to be addressed
+![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Amendment_Process.png)
+
+**Amendment Process**
+
+Researcher should be requesting for amendment when there is a change in:
+
+*   Protocol (design, methodology, procedures, etc.)\*
+*   Number of participants and/or selection criteria
+*   Recruitment materials (flyers, emails, compensation, etc.)\*
+*   Study materials (surveys, questionnaires, etc.)\*
+*   Consent form\*
+*   Research personnel
+*   Timeline\*
+
+Please ensure that all revised/new documents are submitted to SSI-IRB with the changes highlighted.
+
+![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Review_Process.png)
+
 #### **Research Monitoring**
 The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf)
