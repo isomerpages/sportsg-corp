@@ -53,12 +53,16 @@ Launched in 2000, StarHub has become one of Singapore's most innovative info-com
 ANNEX A
 Inspiring Sporting Singapore Photography Exhibition Venues from 6 to 31 August 2010
 
+| CDC DISTRICT | Public Libraries | SSC Locations |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 
 CDC DISTRICT
 
-Public Libraries
 
-SSC Locations
+
+
 
 North West
 
