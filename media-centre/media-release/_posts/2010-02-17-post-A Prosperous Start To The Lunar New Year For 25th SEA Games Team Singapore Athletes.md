@@ -158,8 +158,6 @@ MAP AWARDS RECIPIENTS
 
 LIST OF APPRECIATION PLAQUE RECIPIENTS
 
-<br>
-
 | S/NO | Appreciation Plaque Recipients |
 | -------- | -------- |
 | 1 | NTUC Fairprice Foundation Ltd
