@@ -15,6 +15,16 @@ sections:
       background: /images/IMG_95502.jpg
       button: Contact Us
       url: /contact-us/
+      key_highlights:
+        - title: LIVE SPORT
+          description: SportSG initiatives
+          url: /what-we-do/academy-and-clubs/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Serving Through Sport With Passion And Pride
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
