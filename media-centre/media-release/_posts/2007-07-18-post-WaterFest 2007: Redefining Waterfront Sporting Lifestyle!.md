@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **WaterFest 2007 - Redefining Waterfront Sporting Lifestyle!**
+### **WaterFest 2007: Redefining Waterfront Sporting Lifestyle!**
 
 Ask any Singaporean and more likely than not, they will tell you that water is something precious for drinking. Yet the Singapore Sports Council hopes to promote through WaterFest Singapore 2007, the idea that beyond drinking, the waters in and around Singapore can also be integral to Singaporeans' urban and sporting lifestyles, and become a major source of fun, entertainment and family bonding.
 
