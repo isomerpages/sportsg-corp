@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Target: 30 To 33 Medals For Team Singapore At The 16th ASIAD In Guangzhou**
+### **Target: 30 To 33 Medals For Team Singapore At The 16th ASIAD In Guangzhou**
 
-TARGET: 30 TO 33 MEDALS FOR TEAM SINGAPORE AT THE 16TH ASIAD IN GUANGZHOU
-Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Sports Events
+_Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Sports Events_
 
 **Singapore, 3 November 2010** - Team Singapore is looking to better its performance by bringing home a total of between 30 to 33 medals at the 16th Asian Games in Guangzhou. This, if achieved, will be Team Singapore's most successful outing at the Asian Games to-date. The contingent's feature at the previous Games in 2006 saw a haul of 27 medals, coming from nine sports.
 
@@ -23,7 +22,7 @@ Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spor
 
 6. Deputy Prime Minister and Defence Minister, Mr Teo Chee Hean, who is also the President of the Singapore National Olympic Council, was the Guest-of-Honour at the Flag Presentation Ceremony. DPM Teo said, "I am proud to note that more team sports have qualified on merit for the Asian Games, and this year we will be sending teams to represent Singapore in five team sports events, namely in Water-Polo, Football, Rugby (Women's), Hockey and Dragon Boat where both the men's and women's teams have made the cut."
 
-**Promising Performances**
+##### **Promising Performances**
 
 7. Following Team Singapore's stellar performance at the recently concluded Commonwealth Games (where 31 medals were clinched in total), public expectations on the team's showing at the 16th Asiad are high. But the athletes are all fully prepared and raring to take on Asia's best to show that Singapore is a sporting force to be reckoned with.
 
@@ -41,7 +40,7 @@ Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spor
 
 14. "To our athletes - do your best to win but do not do it at all costs. It is always important to uphold the values of sportsmanship whenever Team Singapore athletes participate in any events, and when we wear the national flag across our chests."
 
-Following Team Singapore's Action on New Media
+##### **Following Team Singapore's Action on New Media**
 
 15. For the first time in history, fans can now keep up with Team Singapore in action through SingaporeSports.tv, a free to access online portal launched by the Singapore Sports Council that will provide 'live' feeds of the sports events that feature Team Singapore athletes as they take place in Guangzhou.
 
@@ -51,110 +50,110 @@ Following Team Singapore's Action on New Media
 
 18. Members of the public can also follow Team Singapore's recently launched Facebook page (www.facebook.com/TeamSG) which provides fans with minute by minute updates during key events at the Games, quotes, results and photographs of Team Singapore?s athletes in action. For mobile-friendly fans, the Team Singapore iPhone application is available for free, to provide event schedules, news, updates and results on the move. The free SMS alert service that provides updates will still be available through the Team Singapore website at www.teamsingapore.com.sg.
 
--End-
+---
 
-Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010
-DATE: 12-27 November 2010
-VENUE:Guangzhou, China
-WEBSITE:www.gz2010.cn/en
+###### Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010
+
+DATE: 12-27 November 2010<br>
+VENUE: Guangzhou, China<br>
+WEBSITE: www.gz2010.cn/en
 
 NO. OF SPORTS COMPETED AT AG 2010:42 Sports
 
+| Event                            | Name                  |
+| -------------------------------- | --------------------- |
+| Opening Ceremony                 | 12 November 2010      |
+| Closing Ceremony                 | 27 November 2010      |
+| Aquatics - Diving                | 22 - 26 November 2010 |
+| Aquatics - Swimming              | 13 - 18 November 2010 |
+| Aquatics - Synchronised Swimming | 19 - 21 November 2010 |
+| Aquatics - Water-polo            | 13 - 25 November 2010 |
+| Archery                          | 19 - 24 November 2010 |
+| Athletics                        | 1 - 27 November 2010  |
+| Badminton                        | 13 - 21 November 2010 |
+| Baseball                         | 13 - 19 November 2010 |
+| Basketball                       | 13 - 26 November 2010 |
+| Billiard Sports                  | 13 - 20 November 2010 |
+| Bowling                          | 15 - 24 November 2010 |
+| Boxing                           | 16 - 26 November 2010 |
+| Canoeing - Slalom                | 13 - 16 November 2010 |
+| Canoeing - Sprint                | 22 - 26 November 2010 |
+| Chess - Weiqi                    | 20 - 26 November 2010 |
+| Chess - Xiangqi                  | 13 - 19 November 2010 |
+| Cricket                          | 13 - 26 November 2010 |
+| Cycling - BMX                    | 9 November 2010       |
+| Cycling - Mountain Bike          | 18 November 2010      |
+| Cycling - Road                   | 20 - 23 November 2010 |
+| Cycling - Track                  | 13 - 17 November 2010 |
+| Dancesport                       | 13 - 14 November 2010 |
+| Dragonboat                       | 18 - 20 November 2010 |
+| Equestrian                       | 14 - 24 November 2010 |
+| Fencing                          | 18 - 23 November 2010 |
+| Football                         | 7 - 25 November 2010  |
+| Golf                             | 7 - 20 November 2010  |
+| Gymnastics - Artistic            | 13 - 17 November 2010 |
+| Gymnastics - Rhythmic            | 25 - 26 November 2010 |
+| Gymnastics - Trampoline          | 21 - 22 November 2010 |
+| Handball                         | 13 - 26 November 2010 |
+| Hockey                           | 13 - 25 November 2010 |
+| Judo                             | 13 - 16 November 2010 |
+| Kabaddi                          | 22 - 26 November 2010 |
+| Karate                           | 24 - 26 November 2010 |
+| Modern Pentathlon                | 23 - 24 November 2010 |
+| Roller Sports                    | 23 - 26 November 2010 |
+| Rowing                           | 14 - 19 November 2010 |
+| Rugby                            | 21 - 23 November 2010 |
+| Sailing                          | 14 - 21 November 2010 |
+| Sepaktakraw                      | 16 - 27 November 2010 |
+| Shooting                         | 13 - 24 November 2010 |
+| Softball                         | 19 - 26 November 2010 |
+| Soft Tennis                      | 13 - 19 November 2010 |
+| Squash                           | 18 - 25 November 2010 |
+| Table Tennis                     | 13 - 20 November 2010 |
+| Taekwondo                        | 17 - 20 November 2010 |
+| Tennis                           | 13 - 23 November 2010 |
+| Triathlon                        | 13 - 14 November 2010 |
+| Volleyball - Beach               | 5 - 24 November 2010  |
+| Volleyball - Indoor              | 13 - 27 November 2010 |
+| Weightlifting                    | 13 - 19 November 2010 |
+| Wrestling                        | 21 - 26 November 2010 |
+| Wushu                            | 3 - 17 November 2010  |
 
-| Event | Name 
-| -------- | -------- 
-| Opening Ceremony | 12 November 2010
-| Closing Ceremony | 27 November 2010
-| Aquatics - Diving | 22 - 26 November 2010
-| Aquatics - Swimming | 13 - 18 November 2010
-| Aquatics - Synchronised Swimming | 19 - 21 November 2010
-| Aquatics - Water-polo | 13 - 25 November 2010
-| Archery | 19 - 24 November 2010
-| Athletics | 1 - 27 November 2010
-| Badminton | 13 - 21 November 2010
-| Baseball | 13 - 19 November 2010
-| Basketball | 13 - 26 November 2010
-| Billiard Sports | 13 - 20 November 2010
-| Bowling | 15 - 24 November 2010
-| Boxing | 16 - 26 November 2010
-| Canoeing - Slalom | 13 - 16 November 2010
-| Canoeing - Sprint | 22 - 26 November 2010
-| Chess - Weiqi | 20 - 26 November 2010
-| Chess - Xiangqi | 13 - 19 November 2010
-| Cricket | 13 - 26 November 2010
-| Cycling - BMX | 9 November 2010
-| Cycling - Mountain Bike | 18 November 2010
-| Cycling - Road | 20 - 23 November 2010
-| Cycling - Track | 13 - 17 November 2010
-| Dancesport | 13 - 14 November 2010
-| Dragonboat | 18 - 20 November 2010
-| Equestrian | 14 - 24 November 2010
-| Fencing | 18 - 23 November 2010
-| Football | 7 - 25 November 2010
-| Golf | 7 - 20 November 2010
-| Gymnastics - Artistic | 13 - 17 November 2010
-| Gymnastics - Rhythmic | 25 - 26 November 2010
-| Gymnastics - Trampoline | 21 - 22 November 2010
-| Handball | 13 - 26 November 2010
-| Hockey | 13 - 25 November 2010
-| Judo | 13 - 16 November 2010
-| Kabaddi | 22 - 26 November 2010
-| Karate | 24 - 26 November 2010
-| Modern Pentathlon | 23 - 24 November 2010
-| Roller Sports | 23 - 26 November 2010
-| Rowing | 14 - 19 November 2010
-| Rugby | 21 - 23 November 2010
-| Sailing | 14 - 21 November 2010
-| Sepaktakraw | 16 - 27 November 2010
-| Shooting | 13 - 24 November 2010
-| Softball | 19 - 26 November 2010
-| Soft Tennis | 13 - 19 November 2010
-| Squash | 18 - 25 November 2010
-| Table Tennis | 13 - 20 November 2010
-| Taekwondo | 17 - 20 November 2010
-| Tennis | 13 - 23 November 2010
-| Triathlon | 13 - 14 November 2010
-| Volleyball - Beach | 5 - 24 November 2010
-| Volleyball - Indoor | 13 - 27 November 2010
-| Weightlifting | 13 - 19 November 2010
-| Wrestling | 21 - 26 November 2010
-| Wushu | 3 - 17 November 2010
-
-TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS: 241 athletes & 120 officials
-<br>
-CHEF DE MISSION FOR TEAM SINGAPORE: Low Teo Ping
-<br>
-TEAM SINGAPORE FLAG BEARER: Jasmine Yeong-Nathan
-<br>
+TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS: 241 athletes & 120 officials<br>
+CHEF DE MISSION FOR TEAM SINGAPORE: Low Teo Ping<br>
+TEAM SINGAPORE FLAG BEARER: Jasmine Yeong-Nathan<br>
 TEAM SINGAPORE'S PARTICIPATION: 22 sports
 
- | Sport | Date
-| -------- | -------- 
-| DateAquatics - Swimming | 13 - 18 November 2010
-| Aquatics - Water-polo | 13 - 25 November 2010
-| Athletics | 21 - 27 November 2010
-| Badminton | 13 - 21 November 2010
-| Billiard Sports | 13 - 20 November 2010
-| Bowling | 15 - 24 November 2010
-| Canoeing | 13 - 26 November 2010
-| Chess - Xiangqi | 13 - 19 November 2010
-| Cycling - Road | 20 - 23 November 2010
-| Dragonboat | 18 - 20 November 2010
-| Equestrian | 14 - 24 November 2010
-| Fencing | 18 - 23 November 2010
-| Football | 7 - 25 November 2010
-| Golf | 7 - 20 November 2010
-| Gymnastics | 13 - 26 November 2010
-| Hockey | 13 - 25 November 2010
-| Rugby | 21 - 23 November 2010
-| Rowing | 14 - 19 November 2010
-| Sailing | 14 - 21 November 2010
-| Shooting | 13 - 24 November 2010
-| Table Tennis | 13 - 20 November 2010
-| Taekwondo | 17 - 20 November 2010
-| Wushu | 3 - 17 November 2010
+| Sport                   | Date                  |
+| ----------------------- | --------------------- |
+| DateAquatics - Swimming | 13 - 18 November 2010 |
+| Aquatics - Water-polo   | 13 - 25 November 2010 |
+| Athletics               | 21 - 27 November 2010 |
+| Badminton               | 13 - 21 November 2010 |
+| Billiard Sports         | 13 - 20 November 2010 |
+| Bowling                 | 15 - 24 November 2010 |
+| Canoeing                | 13 - 26 November 2010 |
+| Chess - Xiangqi         | 13 - 19 November 2010 |
+| Cycling - Road          | 20 - 23 November 2010 |
+| Dragonboat              | 18 - 20 November 2010 |
+| Equestrian              | 14 - 24 November 2010 |
+| Fencing                 | 18 - 23 November 2010 |
+| Football                | 7 - 25 November 2010  |
+| Golf                    | 7 - 20 November 2010  |
+| Gymnastics              | 13 - 26 November 2010 |
+| Hockey                  | 13 - 25 November 2010 |
+| Rugby                   | 21 - 23 November 2010 |
+| Rowing                  | 14 - 19 November 2010 |
+| Sailing                 | 14 - 21 November 2010 |
+| Shooting                | 13 - 24 November 2010 |
+| Table Tennis            | 13 - 20 November 2010 |
+| Taekwondo               | 17 - 20 November 2010 |
+| Wushu                   | 3 - 17 November 2010  |
 
-Annex B: Team Singapore Contingent List at the 16th Asian Games Guangzhou 2010
+---
+
+###### Annex B: Team Singapore Contingent List at the 16th Asian Games Guangzhou 2010
+
 Athletes
 
 | No | Sport | Name | Chinese Name | Age | M/F |Debutant | Event Discipline
@@ -408,96 +407,99 @@ Largest squad (Team): Dragon Boat - 48 Athletes
 
 Team Officials
  
-| No. | Sport | Name |Role |
-| -------- | -------- | -------- |-------- |
-| 1. | Aquatics - Swimming | Ang Peng Siong | Team Manager
-| 2.| Aquatics - Swimming | Fang Hai Jiao| Coach
-| 3.  | Aquatics - Swimming | Roger Fitzerald| Coach
-| 4.  | Aquatics - Swimming | Taisuke Kinugasa | Coach
-| 5. | Aquatics - Swimming | Jin Xiao Li| Coach
-| 6.  | Aquatics - Swimming | David Lim Fong Jock| Coach
-| 7. | Aquatics - Swimming | Barry Prime| Coach
-| 8. | Aquatics - Swimming | See Puey Kheng| Coach
-| 9. | Aquatics - Waterpolo| Samuel Wong Kok Piew| Team Manager
-| 10. | Aquatics - Waterpolo| Lee Sai Meng| Coach
-| 11. | Aquatics - Waterpolo| Marcus Ng Eu Liem | Coach
-| 12. | Athletics| Melvin Tan Kim Boon | Team Manager
-| 13. | Athletics|James Wong Tuck Yim| Coach
-| 14. | Athletics|David Yeo Chee Ping| Coach
-| 15.  | Badminton| Eng Hian| Team Manager/ Coach
-| 16. | Bowling| Melvin Lim| Team Manager
-| 17. | Bowling| Mervyn Foo Chee Leong | Coach
-| 18. | Bowling| Henry Tan Yoke See| Coach
-| 19.  | Bowling| William Woo Nam Fatt| Coach
-| 20.  | Bowling| Francis Yeo Lau Seng| Coach
-| 21.  | Canoe-Kayak| Zason Chian Lit Khoon| Team Manager
-| 22.| Canoe-Kayak| Balazs Babella| Coach
-| 23. | Chess - Xiangqi| Lee Sit Seng| Team Manager
-| 24.| Cue Sports| Sebastian Tan| Team Manager
-| 25. | Cue Sports|Paul Pang Yue Min| Asst. Team Manager
-| 26.  | Cue Sports|Chen Wei Chih| Coach
-| 27.  | Cycling| Danial Loy Wen Jun| Team Manager
-| 28.| Dragon Boat| Florence Yong| Team Manager
-| 29.  | Dragon Boat| Raizol A Jalil| Team Manager
-| 30. | Dragon Boat| teve Chan Lih Long| Coach
-| 31.  | Dragon Boat| Goh Poh Soon| Coach
-| 32.  | Dragon Boat|Frederick Hartmut Heese| Coach
-| 33.  | Equestrian| Monique Heah Cheng Siew| Team Manager
-| 34.| Equestrian| Juan-Miguel Febrerer Riu| Coach
-| 35.| Fencing| Ryan Quek Wee Lun| Team Manager
-| 36. | Fencing| Khorvat Oleg| Coach
-| 37. | Fencing| Bobok Viacheslav| Coach
-| 38.| Football | Eugene Loo Kai York | Team Manager
-| 39.| Football | V Sundram Moorthy| Coach
-| 40. | Football | Pavkovic Slobodan| Coach
-| 42.| Football | Yeo Hwee Koon| Physiotherapist
-| 41.  | Football | Pathmanathan Thambiayah| Coach
-| 43. | Football | Omar Mohamed| Team official
-| 44.   | Golf| Roko Kho Kim Tat| Team Manager
-| 45.| Golf| Kim Walter Raymond Baldwin| Coach
-| 46.| Gymnastics| Yuan Kexia| Team Manager/Coach
-| 47. | Gymnastics| Lin Zhen Qiu| Coach
-| 48. | Gymnastics| Zhao Qun| Coach
-| 49.  | Hockey| How Eng Choon| Team Manager
-| 50.  | Hockey| Andrew Meredith| Coach
-| 51.| Hockey| Juanma Mas Ortiz| Coach
-| 52. | Hockey| Mohd Ali Abdul Rahman| Coach
-| 53.   | Hockey| Ronald Stein| Video Analyst
-| 54. | Rowing| Alastair Isherwood| Coach
-| 55.| Rugby| Kristy Teh Chia Hwee| Team Manager
-| 56. | Rugby| Etheredge Simon Peter| Coach
-| 57. | Rugby| Gene Tong Tzee Meng| Coach
-| 58.  | Sailing | Mark Robinson| Team Manager
-| 59.  | Sailing |Serena Wong| Asst. Team Manager
-| 60. | Sailing |Fernando Javier Alegre Arbulu| Coach (Optimist)
-| 61. | Sailing |Thierry Bernard Jean Barot | Coach (Keelboat)
-| 62. | Sailing | Brett Justin Beyer| Coach (Laser, Laser Radial)
-| 63. | Sailing | Susan Lesley Ferris | Coach (Hobie 16, RS:X, Mistral)
-| 64.| Sailing | Daniel John Smith| Coach (470)
-| 65. | Sailing | Zhang Yong Qiang | Coach (420)
-| 66.  | Sailing | Peter Anthony Logan| Team Official
-| 67.  | Sailing | Chung Pei Ming | Team Captain
-| 68. | Shooting| Ho Tsu Cher| Team Manager
-| 69.  |Shooting|  Lim Meng Kiaw| Team Manager
-| 70.  | Shooting| Deng Pei Ming | Head Coach
-| 71.  | Shooting| Gu Yong Qin | Coach (Rifle)
-| 72. | Shooting| Yue Ming | Coach (Shotgun)
-| 73. | Shooting| Zhang Man Zhen | Coach (Rifle)
-| 74.  | Shooting| Zhu Chang Fu | Coach (Shotgun)
-| 75.  | Shooting| Zhao Jin Hong | Team Official
-| 76. | Table Tennis  | Loy Soo Han  | Team Manager
-| 77. | Table Tennis   | Jing Junhong | Coach
-| 78.  | Table Tennis   | Yang Chuanning | Coach
-| 79.  | Table Tennis   | Zhou Shusen | Coach
-| 80. | Table Tennis   | Eddy Tay Han Chong  | Team Official
-| 81.  | Table Tennis   | Hao Anlin  | Sparring Partner
-| 82.  | Taekwondo | Wong Liang Ming | Team Manager/ Coach
-| 83. | Wushu | Ng Kim Foo | Team Manager
-| 84.  | Wushu | Sheng Shi Jie | Coach
+| No. | Sport                | Name                          | Role                            |
+| --- | -------------------- | ----------------------------- | ------------------------------- |
+| 1.  | Aquatics - Swimming  | Ang Peng Siong                | Team Manager                    |
+| 2.  | Aquatics - Swimming  | Fang Hai Jiao                 | Coach                           |
+| 3.  | Aquatics - Swimming  | Roger Fitzerald               | Coach                           |
+| 4.  | Aquatics - Swimming  | Taisuke Kinugasa              | Coach                           |
+| 5.  | Aquatics - Swimming  | Jin Xiao Li                   | Coach                           |
+| 6.  | Aquatics - Swimming  | David Lim Fong Jock           | Coach                           |
+| 7.  | Aquatics - Swimming  | Barry Prime                   | Coach                           |
+| 8.  | Aquatics - Swimming  | See Puey Kheng                | Coach                           |
+| 9.  | Aquatics - Waterpolo | Samuel Wong Kok Piew          | Team Manager                    |
+| 10. | Aquatics - Waterpolo | Lee Sai Meng                  | Coach                           |
+| 11. | Aquatics - Waterpolo | Marcus Ng Eu Liem             | Coach                           |
+| 12. | Athletics            | Melvin Tan Kim Boon           | Team Manager                    |
+| 13. | Athletics            | James Wong Tuck Yim           | Coach                           |
+| 14. | Athletics            | David Yeo Chee Ping           | Coach                           |
+| 15. | Badminton            | Eng Hian                      | Team Manager/ Coach             |
+| 16. | Bowling              | Melvin Lim                    | Team Manager                    |
+| 17. | Bowling              | Mervyn Foo Chee Leong         | Coach                           |
+| 18. | Bowling              | Henry Tan Yoke See            | Coach                           |
+| 19. | Bowling              | William Woo Nam Fatt          | Coach                           |
+| 20. | Bowling              | Francis Yeo Lau Seng          | Coach                           |
+| 21. | Canoe-Kayak          | Zason Chian Lit Khoon         | Team Manager                    |
+| 22. | Canoe-Kayak          | Balazs Babella                | Coach                           |
+| 23. | Chess - Xiangqi      | Lee Sit Seng                  | Team Manager                    |
+| 24. | Cue Sports           | Sebastian Tan                 | Team Manager                    |
+| 25. | Cue Sports           | Paul Pang Yue Min             | Asst. Team Manager              |
+| 26. | Cue Sports           | Chen Wei Chih                 | Coach                           |
+| 27. | Cycling              | Danial Loy Wen Jun            | Team Manager                    |
+| 28. | Dragon Boat          | Florence Yong                 | Team Manager                    |
+| 29. | Dragon Boat          | Raizol A Jalil                | Team Manager                    |
+| 30. | Dragon Boat          | teve Chan Lih Long            | Coach                           |
+| 31. | Dragon Boat          | Goh Poh Soon                  | Coach                           |
+| 32. | Dragon Boat          | Frederick Hartmut Heese       | Coach                           |
+| 33. | Equestrian           | Monique Heah Cheng Siew       | Team Manager                    |
+| 34. | Equestrian           | Juan-Miguel Febrerer Riu      | Coach                           |
+| 35. | Fencing              | Ryan Quek Wee Lun             | Team Manager                    |
+| 36. | Fencing              | Khorvat Oleg                  | Coach                           |
+| 37. | Fencing              | Bobok Viacheslav              | Coach                           |
+| 38. | Football             | Eugene Loo Kai York           | Team Manager                    |
+| 39. | Football             | V Sundram Moorthy             | Coach                           |
+| 40. | Football             | Pavkovic Slobodan             | Coach                           |
+| 42. | Football             | Yeo Hwee Koon                 | Physiotherapist                 |
+| 41. | Football             | Pathmanathan Thambiayah       | Coach                           |
+| 43. | Football             | Omar Mohamed                  | Team official                   |
+| 44. | Golf                 | Roko Kho Kim Tat              | Team Manager                    |
+| 45. | Golf                 | Kim Walter Raymond Baldwin    | Coach                           |
+| 46. | Gymnastics           | Yuan Kexia                    | Team Manager/Coach              |
+| 47. | Gymnastics           | Lin Zhen Qiu                  | Coach                           |
+| 48. | Gymnastics           | Zhao Qun                      | Coach                           |
+| 49. | Hockey               | How Eng Choon                 | Team Manager                    |
+| 50. | Hockey               | Andrew Meredith               | Coach                           |
+| 51. | Hockey               | Juanma Mas Ortiz              | Coach                           |
+| 52. | Hockey               | Mohd Ali Abdul Rahman         | Coach                           |
+| 53. | Hockey               | Ronald Stein                  | Video Analyst                   |
+| 54. | Rowing               | Alastair Isherwood            | Coach                           |
+| 55. | Rugby                | Kristy Teh Chia Hwee          | Team Manager                    |
+| 56. | Rugby                | Etheredge Simon Peter         | Coach                           |
+| 57. | Rugby                | Gene Tong Tzee Meng           | Coach                           |
+| 58. | Sailing              | Mark Robinson                 | Team Manager                    |
+| 59. | Sailing              | Serena Wong                   | Asst. Team Manager              |
+| 60. | Sailing              | Fernando Javier Alegre Arbulu | Coach (Optimist)                |
+| 61. | Sailing              | Thierry Bernard Jean Barot    | Coach (Keelboat)                |
+| 62. | Sailing              | Brett Justin Beyer            | Coach (Laser, Laser Radial)     |
+| 63. | Sailing              | Susan Lesley Ferris           | Coach (Hobie 16, RS:X, Mistral) |
+| 64. | Sailing              | Daniel John Smith             | Coach (470)                     |
+| 65. | Sailing              | Zhang Yong Qiang              | Coach (420)                     |
+| 66. | Sailing              | Peter Anthony Logan           | Team Official                   |
+| 67. | Sailing              | Chung Pei Ming                | Team Captain                    |
+| 68. | Shooting             | Ho Tsu Cher                   | Team Manager                    |
+| 69. | Shooting             | Lim Meng Kiaw                 | Team Manager                    |
+| 70. | Shooting             | Deng Pei Ming                 | Head Coach                      |
+| 71. | Shooting             | Gu Yong Qin                   | Coach (Rifle)                   |
+| 72. | Shooting             | Yue Ming                      | Coach (Shotgun)                 |
+| 73. | Shooting             | Zhang Man Zhen                | Coach (Rifle)                   |
+| 74. | Shooting             | Zhu Chang Fu                  | Coach (Shotgun)                 |
+| 75. | Shooting             | Zhao Jin Hong                 | Team Official                   |
+| 76. | Table Tennis         | Loy Soo Han                   | Team Manager                    |
+| 77. | Table Tennis         | Jing Junhong                  | Coach                           |
+| 78. | Table Tennis         | Yang Chuanning                | Coach                           |
+| 79. | Table Tennis         | Zhou Shusen                   | Coach                           |
+| 80. | Table Tennis         | Eddy Tay Han Chong            | Team Official                   |
+| 81. | Table Tennis         | Hao Anlin                     | Sparring Partner                |
+| 82. | Taekwondo            | Wong Liang Ming               | Team Manager/ Coach             |
+| 83. | Wushu                | Ng Kim Foo                    | Team Manager                    |
+| 84. | Wushu                | Sheng Shi Jie                 | Coach                           |
 
-Annex C: Profile of Chef-de-Mission
-<br>Low Teo Ping
-<br>Chef-de-Mission, Team Singapore
+---
+
+###### Annex C: Profile of Chef-de-Mission
+
+Low Teo Ping<br>
+Chef-de-Mission, Team Singapore
 
 Currently the Vice President of the Singapore National Olympic Council (SNOC) and President of the Singapore Rugby Union, Mr Low Teo Ping was awarded the Pingat Bakti Masyarakat (Public Service Medal) by the President of Singapore in 2006 for his outstanding contribution to sports. He is also a member of the Singapore Sports Council, Vice President of the International Sailing Federation and Advisor to the Singapore Athletic Association.
 
@@ -512,36 +514,11 @@ He believes in this saying:
 <br>You do them right all the time.
 <br>WINNING IS A HABIT."
 
-About the Singapore Sports Council
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+---
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+###### For media enquiries, please contact:
 
-**About the Singapore National Olympic Council**
-<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
-
-**About Team Singapore**
-<br>
-Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
-
-The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit www.teamsingapore.com.sg.
-<br>
-Follow Team Singapore's action at the 16th Asian Games on Facebook at: www.facebook.com/TeamSG
-
-**For media enquiries, please contact:**
-<br>Lin Kuek
+Lin Kuek
 <br>Caelan & Sage Pte Ltd
 <br>Email:[ lin@caelansage.com]( lin@caelansage.com)
 
@@ -550,3 +527,30 @@ Tanty Nazlianah Rosli
 <br>Public Relations & Social Media
 <br>Singapore Sports Council
 <br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+
+###### About the Singapore National Olympic Council
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+
+###### About Team Singapore
+Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
+
+The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
+
+Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
+
+For further information, please visit www.teamsingapore.com.sg.
+
+Follow Team Singapore's action at the 16th Asian Games on Facebook at: www.facebook.com/TeamSG
