@@ -62,11 +62,11 @@ Huang Shu-Yin
 <br>Assistant Manager
 <br>Corporate Communications
 <br>Office: 6825 5117
-<br>Email: syhuang@starhub.com
+<br>Email: [syhuang@starhub.com](syhuang@starhub.com)
 
 Jose Raymond
 <br>Deputy Director
 <br>Media Relations and Social Media
 <br>Singapore Sports Council
 <br>Office: 65005289
-<br>Email: jose_raymond@ssc.gov.sg
+<br>Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
