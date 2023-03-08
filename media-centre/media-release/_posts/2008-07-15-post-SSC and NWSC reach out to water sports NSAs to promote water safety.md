@@ -8,7 +8,7 @@ image: ""
 ---
 ### **SSC and NWSC reach out to water sports NSAs to promote water safety**
 
-Singapore, 15 July 2008 - The Singapore Sports Council (SSC) and the National Water Safety Council (NWSC) today engaged all National Sports Associations (NSA) involved in water sports in a dialogue session to see how the different parties can come together and raise the overall water safety standards and awareness in Singapore.
+**Singapore, 15 July 2008** - The Singapore Sports Council (SSC) and the National Water Safety Council (NWSC) today engaged all National Sports Associations (NSA) involved in water sports in a dialogue session to see how the different parties can come together and raise the overall water safety standards and awareness in Singapore.
 
 2. Chaired by Ministry of Community Development, Youth and Sports Senior Parliamentary Secretary Teo Ser Luck, the panel of the Water Sports Safety Presentation cum dialogue session also included Northwest CDC Mayor Dr Teo Ho Pin, who is also Chairman of NWSC and Mr Oon Jin Teik, CEO of SSC.
 
@@ -46,7 +46,9 @@ Singapore Waterski & Wakeboard Federation
 <br>
 Triathlon Association of Singapore
 
-**For media inquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 S. Parameswaran
 <br>
