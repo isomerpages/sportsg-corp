@@ -37,9 +37,9 @@ Join SSC on Twitter at: www.twitter.com/singaporesports
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-About Team Singapore
 
+**About Team Singapore**
+www.snoc.org.sg
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -47,7 +47,7 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
 For further information, please visit www.teamsingapore.com.sg.
-<br>
+
 **About Commonwealth Games Singapore**
 <br>
 Singapore participates in the Commonwealth Games as Commonwealth Games Singapore. This is the same organisation as the Singapore National Olympic Council. Singapore's involvement in the Commonwealth Games started in 1958 where the Games were held in Cardiff, Wales.
