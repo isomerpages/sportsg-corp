@@ -36,20 +36,18 @@ e) Growth in other supporting services such as sports law
 
 7. It is compulsory for all NSAs to adopt the ADR Sports. A workshop will be organised in the near future to assist the NSAs who require assistance on implementation.
 
+---
 
-
-**Enclosures:**
-<br>
-[Annex A - Profiles of ADR Sports Partners](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20A20Profiles.pdf)
-<br>
-[Annex B - Presentation Slides on ADR Sports](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20B2020Presentation20by20Mr20Ho20Mun20Wai20DPPM20SSCpptv2.pdf)
-<br>
-[Annex C - Address by Mr Teo Ser Luck, Parliamentary Secretary, MCYS](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20C2020Speech20by20Mr20Teo20Ser20LuckParl20Sec20MCYS.pdf)
-<br>
+###### Enclosures
+[Annex A - Profiles of ADR Sports Partners](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20A20Profiles.pdf)<br>
+[Annex B - Presentation Slides on ADR Sports](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20B2020Presentation20by20Mr20Ho20Mun20Wai20DPPM20SSCpptv2.pdf)<br>
+[Annex C - Address by Mr Teo Ser Luck, Parliamentary Secretary, MCYS](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20C2020Speech20by20Mr20Teo20Ser20LuckParl20Sec20MCYS.pdf)<br>
 [Annex D - Address by Mr Oon Jin Teik, CEO, SSC](/files/Media%20Centre/Media%20Release/2008/January/07/Annex20D2020CEOs20Opening20Remarks.pdf)
 
-**For media enquiries, please contact:**
-<br>
+---
+
+###### For media enquiries, please contact:
+
 Ms Hazwani Hasni
 <br>
 Executive, Group Communications
@@ -61,8 +59,6 @@ DID: 6500 5246
 HP: 9272 0112
 <br>
 E-mail: [haswani_hasni@ssc.gov.sg](mailto:haswani_hasni@ssc.gov.sg)
-
-
 
 Ms Gayle Wong
 <br>
@@ -76,7 +72,7 @@ HP: 9753 3273
 <br>
 E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
 
+---
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
