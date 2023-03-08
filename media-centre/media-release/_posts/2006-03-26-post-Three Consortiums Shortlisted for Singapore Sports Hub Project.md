@@ -18,17 +18,19 @@ As a prelude to the ITT stage, the SSC will begin seeking feedback from the mark
 
 The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship and largest PPP project of this nature. The 35-hectare development is conveniently located next to the city and is easily accessible to the rest of Singapore. It will be connected to the Mass Rapid Transit (MRT) network and major expressways.
 
-Enclosures
-<br>
-[Annex A: Names of companies that participated in the pre-qualification stage](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexA1.pdf)
-<br>
-[Annex B: Project timeline](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexB.pdf)
-<br>
+---
+
+###### Enclosures
+
+[Annex A: Names of companies that participated in the pre-qualification stage](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexA1.pdf)<br>
+[Annex B: Project timeline](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexB.pdf)<br>
 [Annex C: Sports Hub fact sheet](/files/Media%20Centre/Media%20Release/2006/March/26AprMRAnnexC.pdf)
 
 For more on the Sports Hub, please log on to [https://www.sportshub.com.sg](https://www.sportshub.com.sg)
 
-**For media inquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Alvin Hang
 <br>
@@ -44,10 +46,10 @@ Mobile: 9222-1010
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
-**About SSC**
-<br>
+---
+
+###### About SSC
 *The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.*
 
-**About Sports Hub**
-<br>
+###### About Sports Hub
 *The Sports Hub will be a fully integrated sports, entertainment and lifestyle hub for everyone in Singapore. A unique cluster development of world-class sports facilities next to the city, it is the first and largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world and is also Singapore's flagship and largest PPP project of this nature. The 35-hectare development is conveniently located next to the city and is easily accessible to the rest of Singapore. It will be connected to the Mass Rapid Transit (MRT) network and major expressways.*
