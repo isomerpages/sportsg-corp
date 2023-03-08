@@ -18,13 +18,15 @@ Singapore, 4 December 2007 - The Singapore Sports Council (SSC) announced today 
 
 5. The panel is expected to release its preliminary investigation findings within a couple of months.
 
-Enclosures
-<br>
+---
+
+###### Enclosures
 [ANNEX A - List of POI members](/files/Media%20Centre/Media%20Release/2007/December/ANNEX20A20DRAGON20BOATdoc.pdf)
 
+---
 
-**For media inquiries, please contact:**
-<br>
+###### For media enquiries, please contact:
+
 Alvin Hang
 <br>
 Deputy Director (Group Communications)
@@ -37,6 +39,7 @@ Mobile: 9222 1010
 <br>
 Email: alvin_hang@ssc.gov.sg
 
-**About SSC**
-<br>
+---
+
+###### About SSC
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the World Wide Web: www.ssc.gov.sg
