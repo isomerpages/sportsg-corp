@@ -9,7 +9,7 @@ image: ""
 ---
 ### **SSC To Offer Wider Range Of Sports Medicine And Sports Science Support For Team Singapore At London 2012**
 
-Singapore, 4 August 2011 - The Singapore Sports Council (SSC) has started to ramp up preparations as the clock counts down to the London 2012 Olympics in less than a year. Kicking off the preparations, the SSC has signed an agreement with the University of East London (UEL) to base the Team Singapore recovery centre at its Stratford Campus - where SSC will offer a wider range of sports medicine and sports science support for Team Singapore athletes compared to any other Olympic Games in the past.
+**Singapore, 4 August 2011** - The Singapore Sports Council (SSC) has started to ramp up preparations as the clock counts down to the London 2012 Olympics in less than a year. Kicking off the preparations, the SSC has signed an agreement with the University of East London (UEL) to base the Team Singapore recovery centre at its Stratford Campus - where SSC will offer a wider range of sports medicine and sports science support for Team Singapore athletes compared to any other Olympic Games in the past.
 
 2. Occupying a space of about 270 square metres on the premises of the temporary teaching building, a short five minute drive away from the Athlete's Village, this Team Singapore recovery centre is about three times bigger than that of the Beijing Olympics. The additional space allows for a wider range of recovery services to be available to the athletes, to include nutrition and physiology, which were not offered at the last Olympics.
 
@@ -28,8 +28,10 @@ Singapore, 4 August 2011 - The Singapore Sports Council (SSC) has started to ram
 8. Commenting on the athletes' July/August 2011 acclimatisation training camp, Bob said, "Apart from training, the athletes will also be touring London to take in tourist sights such as Buckingham Palace, the Big Ben and the London Eye. We are doing this so that the athletes are able to fully concentrate on the competition when they arrive in London next year."
 
 9. This year's camp is one part of a two acclimatisation training stints at the Surrey Sports Park that our athletes will be taking part in. They will be there again next year just before the Olympic Games for 10 days, from 14 to 24 July 2012.
- 
-**For media enquiries, please contact:**
+
+---
+
+###### For media enquiries, please contact:
 
 Patricia Yee<br>
 Executive, Media Relations<br>
@@ -42,8 +44,9 @@ Singapore Sports Council<br>
 Office: 6500 5241<br>
 Email: tanty_nazlianah@ssc.gov.sg
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
