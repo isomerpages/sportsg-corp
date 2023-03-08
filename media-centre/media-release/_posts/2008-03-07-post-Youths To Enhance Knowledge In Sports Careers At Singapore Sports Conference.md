@@ -28,19 +28,19 @@ Some 600 youths from various tertiary institutions in Singapore will get the opp
 
 9. For more information on Singapore Sports Conference, please visit http://www.rp.sg/sporesportsconference.
 
-**Enclosures:**
-<br>
-[Annex A - Programme and event information](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexAProgramme.pdf)
-<br>
-Annex B - Synopsis of Keynote Addresses
-<br>
-[Annex C - List of Workshops](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexCWorkshops.pdf)
-<br>
-[Annex D - List of Dialogue Sessions](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexDDialogueSessions.pdf)
-<br>
+---
+
+###### Enclosures
+
+[Annex A - Programme and event information](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexAProgramme.pdf)<br>
+[Annex B - Synopsis of Keynote Addresses]()<br>
+[Annex C - List of Workshops](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexCWorkshops.pdf)<br>
+[Annex D - List of Dialogue Sessions](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexDDialogueSessions.pdf)<br>
 [Annex E - List of Practical Sessions](/files/Media%20Centre/Media%20Release/2008/March/07/AnnexEPracticalSessions.pdf)
 
-**For media queries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Ms Hazwani Hasni
 <br>
@@ -92,10 +92,10 @@ HP: (65) 9423 4423
 <br>
 Email: [benjamin_chow@rp.sg](mailto:benjamin_chow@rp.sg)
 
-**About Singapore Sports Council**
-<br>
+---
+
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-**About Republic Polytechnic**
-<br>
+###### About Republic Polytechnic
 The first educational institution in Singapore to adopt the Problem-Based Learning approach for all its diploma programmes, Republic Polytechnic has five schools and two centres offering twenty-nine diploma courses in Information & Communications Technology, Engineering, Applied Science, Technology for the Arts, Sports, Health & Leisure, Innovation and Enterprise, and Culture and Communication. Republic Polytechnic is committed to nurturing innovation and entrepreneurial learning in an environment that develops problem-solving process skills and a life-long learning attitude. Its holistic, broad-based curriculum, covering culture, enterprise development, and cognitive processes, prepares students for an active and meaningful role in society. Republic Polytechnic strives for excellence by achieving various national and international accreditations, including People Developer Standards, ISO9001, ISO14001, OHSAS 18001, Singapore Quality Class, Singapore Innovation Class, and the Singapore Health Awards (Gold). For more information, visit http://www.rp.sg
