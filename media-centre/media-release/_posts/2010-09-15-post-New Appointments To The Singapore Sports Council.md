@@ -15,7 +15,7 @@ Singapore, 15 September 2010 - Mr Richard Seow Yung Liang will assume the post o
 
 3. MCYS expresses its appreciation to the outgoing Chairman, Mr Alexander Chan Meng Wah, for his contributions to sports for over 19 years, including the past 8 years as SSC Chairman. Said Minister (CYS), Dr Vivian Balakrishnan, "I am very grateful to Mr Alex Chan for playing such a major role in remaking the sporting landscape. During his term as Chairman, SSC implemented most of the groundbreaking recommendations of the Committee on Sporting Singapore. Under his leadership, SSC successfully organised the Asian Youth Games in 2009 and was a key partner in the Youth Olympic Games in 2010. SSC awarded the tender for the Changi Motorsports Hub earlier this year. In addition, SSC signed the contract with the Singapore Sports Hub Consortium to design, build, finance and operate the new Sports Hub last month. He has devoted invaluable time, effort and ideas in his quiet tireless and effective way."
 
-4 Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd, will be appointed as SSC Deputy Chairman with effect from 1 October 2010. The other new members who will be appointed to the Council are:
+4. Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd, will be appointed as SSC Deputy Chairman with effect from 1 October 2010. The other new members who will be appointed to the Council are:
 (i) Ms Ong Toon Hui, Deputy Secretary, MCYS
 (ii) Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
 (iii) Mr Andreas Sohmen-Pao, Group CEO, BW Maritime and BW Gas
@@ -30,57 +30,37 @@ statics0
 -End-
 
 Annex - Composition of Singapore Sports Council (1 October 2010 to 30 September 2012)
+
 CHAIRMAN
-
- 
-
-Mr Richard Seow
-
-Chairman, Republic Polytechnic Board of Governors
-
- 
+<br>Mr Richard Seow
+<br>Chairman, Republic Polytechnic Board of Governors
 
 DEPUTY CHAIRMAN
-
- 
-
-Mr Cheah Kim Teck
-
-Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd
-
- 
+<br>Mr Cheah Kim Teck
+<br>Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd
 
 MEMBERS
 
- 
-
 Ms Sum Chee Wah
-
-Director, Education Programmes, Ministry of Education
+<br>Director, Education Programmes, Ministry of Education
 
 Dr Benedict Tan
-
-Sports Physician & Senior Consultant Changi Sports Medicine Centre, Changi General Hospital
+<br>Sports Physician & Senior Consultant Changi Sports Medicine Centre, Changi General Hospital
 
 Mr Low Teo Ping
-
-President, Singapore Rugby Union and Vice-President, Singapore National Olympic Council
+<br>President, Singapore Rugby Union and Vice-President, Singapore National Olympic Council
 
 Mr Lee Hong Chuang
-
-Business Recovery Operations Manager, Hewlett Packard Singapore and 1st Vice-President of Singapore Gymnastics
+<br>Business Recovery Operations Manager, Hewlett Packard Singapore and 1st Vice-President of Singapore Gymnastics
 
 Dr Janice Khoo               
-
-General Practitioner, The Rafflesian Clinic & Surgery
+<br>General Practitioner, The Rafflesian Clinic & Surgery
 
 Dr Saiful Nizam
-
-Family Physician, National Healthcare Group General Practitioners
+<br>Family Physician, National Healthcare Group General Practitioners
 
 Mr Bernard Tan
-
-Commissioner, PT Bank, DBS Indonesia
+<br>Commissioner, PT Bank, DBS Indonesia
 
 Mr Yam Ah Mee
 
