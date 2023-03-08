@@ -118,3 +118,17 @@ With effect from 1 April 2018:
         </tr>
     </tbody>
 </table>
+
+Additional Assessment Criteria for Large CDG Investments
+
+(Original Calculated CDG Approval Amount ≥ S$5,000)
+
+This section only applies to applications with original calculated CDG approval amount equal or greater than (≥) S$5,000.
+
+An original calculated CDG approval amount ≥ S$5,000 represents a significant investment from CoachSG. Hence, the applicant has to demonstrate, with appropriate supporting evidence (e.g. e-mails, letters, Certificates of Appreciation, photos, press articles), that he / she has been regularly contributing to all of the following categories within the past 3 years, in order to justify why he / she should receive the full amount entitled for his / her NROC Coach / Coach Developer level:
+
+1.  Coaching / mentoring coaches and / or athletes
+2.  Coach development (through (a) courses and (b) workshops)
+3.  General contribution to sports (e.g., competition management, technical officiating, volunteering)
+
+Weightage for each category is shown below. Applicants who do not meet a particular criterion will be awarded 0% for that criterion.
