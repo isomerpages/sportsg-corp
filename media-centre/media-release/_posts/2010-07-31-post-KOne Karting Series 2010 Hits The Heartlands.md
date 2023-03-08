@@ -31,13 +31,13 @@ Organisers Bring High Octane Action To Over 10,000 People As Singapore Gears Up 
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
 <br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
 **About Let's Play**
 <br>
@@ -53,7 +53,7 @@ With the years of industry experience behind us and a network of professional ag
 
 **About Drakar Racing**
 <br>
-Founded by entrepreneurs Jonathan Tay, Raymond Low and Edwin Seah, Drakar Racing Team was set up with the purpose of providing Singaporeans a chance to race in go-karts and grooming potential local talents. Started by Singaporeans for Singaporeans, Drakar Racing was set up last year and has 12 drivers on the team now - the youngest being nine-year-old Jordan Tay and the oldest driver being Rick Chiam who is in his 50s. Serving as a platform for drivers to race, they will be managed properly, including sourcing of sponsorships and data analysis to improve racing techniques. For more information, please visit www.drakarracing.com
+Founded by entrepreneurs Jonathan Tay, Raymond Low and Edwin Seah, Drakar Racing Team was set up with the purpose of providing Singaporeans a chance to race in go-karts and grooming potential local talents. Started by Singaporeans for Singaporeans, Drakar Racing was set up last year and has 12 drivers on the team now - the youngest being nine-year-old Jordan Tay and the oldest driver being Rick Chiam who is in his 50s. Serving as a platform for drivers to race, they will be managed properly, including sourcing of sponsorships and data analysis to improve racing techniques. For more information, please visit [www.drakarracing.com](www.drakarracing.com)
 
 **For media enquiries, please contact:**
 <br>Jemuel Fu
@@ -61,10 +61,10 @@ Founded by entrepreneurs Jonathan Tay, Raymond Low and Edwin Seah, Drakar Racing
 <br>Public & Media Relations
 <br>Singapore Sports Council
 <br>Office: 6500 5245
-<br>Email: jemuel_fu@ssc.gov.sg
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
 
 Vetri Mayandi
 <br>Regional Director, Asia-Pacific
 <br>STC Associates
 <br>Office: 6222 5700
-<br>Email: vetriveal@stcassociates.com
+<br>Email: [vetriveal@stcassociates.com](vetriveal@stcassociates.com)
