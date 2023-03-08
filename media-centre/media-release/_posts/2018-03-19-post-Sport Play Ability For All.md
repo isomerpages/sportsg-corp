@@ -30,7 +30,7 @@ _Pilot programme by Temasek Foundation Cares and SportCares enables persons with
 
 8. As a start, PWDs can look forward to participating in Badminton, Aqua Activities such as Flippa Ball, Basketball, Wheelchair Rugby and Futsal. These sports were chosen based on popularity in the community as well as being able to cater to people with different degrees of disabilities. Each of these programmes will run on an 8-12 week cycles to allow participants to experience the benefit of regular sport participation, and to build a lasting relationship between participants and volunteers.
 
-##### **Volunteers lead the way**
+**Volunteers lead the way**
 
 9. So far, four experienced coaches have been working closely with 30 volunteers from Team Nila and ITE College West in weekly sessions. Play-Ability provides volunteers who show potential and interest in coaching with opportunities to further their skills through courses such as the International Paralympic Committee (IPC) Introduction to Para Sports Coaching course. Provision of free or subsidised training under the Play-Ability programme and serves to equip volunteers with the skills necessary to lead and coach sessions in the future. Building a base of trained volunteer coaches is key to the sustainability of this programme.
 
