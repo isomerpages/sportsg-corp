@@ -27,7 +27,7 @@ SportSG maintains that the athletes must be held accountable for their lapses of
 
 ---
 
-**Annex - Period of ineligibility[1]**  for presence, use or attempted use, or possession of a prohibited substance or method, under the World Anti-Doping Agency (WADA) Code**
+**Annex - Period of ineligibility[1]  for presence, use or attempted use, or possession of a prohibited substance or method, under the World Anti-Doping Agency (WADA) Code**
 
 | Type of Prohibited Substance or Method | Positive In-Competition Test | Positive Out-of-Competition Test |
 | --------- | ------ | --------- |
