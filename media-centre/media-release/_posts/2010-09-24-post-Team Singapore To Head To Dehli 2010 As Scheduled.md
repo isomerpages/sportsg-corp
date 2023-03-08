@@ -60,4 +60,4 @@ The Singapore National Olympic Council (SNOC) / Commonwealth Games Singapore (CG
 <br>Team Singapore
 <br>19th Commonwealth Games Delhi 2010
 <br>Office: 65005289
-<br>Email: jose_raymond@ssc.gov.sg
+<br>Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
