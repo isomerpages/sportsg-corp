@@ -60,37 +60,12 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 
 | Event | Name | 
 | -------- | -------- | 
-| Text     | Text     | Text     |
-
-
-
-Event
-
-Name
-
-Opening Ceremony
-
-3 October 2010
-
-Closing Ceremony
-
-14 October 2010
-
-Aquatics - Diving
-
-10-13 October 2010
-
-Aquatics - Swimming
-
-4-9 October 2010
-
-Aquatics - Synchronised Swimming
-
-6-7 October 2010
-
-Archery
-
-4-10 October 2010
+| Opening Ceremony | 3 October 2010
+| Closing Ceremony | 14 October 2010
+| Aquatics - Diving | 10-13 October 2010
+| Aquatics - Swimming | 4-9 October 2010
+| Aquatics - Synchronised Swimming | 6-7 October 2010
+| Archery | 4-10 October 2010
 
 Athletics - Track & Field
 
