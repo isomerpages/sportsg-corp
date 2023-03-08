@@ -93,6 +93,7 @@ Athletes should always check with their International Federation or Anti-Doping 
 
 **MEDICAL CONDITIONS**
 
+![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Substances/Prohibited%20List/check-drugs-banner.jpeg)
 Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine!
 
 Athletes who need to apply for a TUE should request more information about the TUE application process from their International Federation (for international-level athletes) or ADS (for national-level athletes).
@@ -105,7 +106,7 @@ Athletes who need to apply for a TUE should request more information about the T
 
 Athletes can check if the medication is a Prohibited Substance, or the method of treatment is a Prohibited Method under the List by one of the following ways:
 
-1.  Anti-Doping Singapore's (ADS) Check Medications Database
+1. Anti-Doping Singapore's (ADS) Check Medications Database 
 For list of medications registered in Singapore
 
 2. [Global Drug Reference Online](http://www.globaldro.com/)  
