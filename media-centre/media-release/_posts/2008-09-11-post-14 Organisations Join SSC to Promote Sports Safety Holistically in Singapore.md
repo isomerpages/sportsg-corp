@@ -42,7 +42,7 @@ Singapore, 11 September 2008 - The Singapore Sports Council (SSC) announced toda
 
 15. SSC has also set up a Safety Excellence Centre at Jalan Besar Sports & Recreation Centre (SRC), mainly to allow for a dedicated training location to practice Cardio-Pulmonary Resuscitation (CPR) and AED skills as 96% of SSC staff are CPR & AED certified to date. In future, the centre may be made accessible to the NSAs, schools and members of the public to learn about safety and have hands-on CPR and AED training.
 
-**PLAY SAFE**
+##### **PLAY SAFE**
 
 16. The second phase, PLAY SAFE, is to encourage NSAs, private sports clubs and event organisers to have safety guidelines and management system that is similar to the Safety Management System formulated by SSC. The components in the system can be broadly classified into 3 categories, namely,
 
@@ -62,13 +62,15 @@ A guidebook will be developed to assist the NSAs and event organisers to plan th
 
 21. Said Mr Goh Ek Piang, Deputy Director, Co-Curricular Activities, Education Programmes Division, Ministry of Education, "MOE supports the Sports Safety Plan and is committed to ensure that activities and events in our schools are safe for all students and staff. Adequate measures have been put in place in our schools to ensure that safety guidelines are adhered to at all times. We welcome NSAs to join in our efforts to reinforce safety and make it an important part of their overall sporting experience."
 
-**STAY SAFE**
+##### **STAY SAFE**
 
 22. The third phase, STAY SAFE, encourages individuals, sports associations and event organisers to continue observing safe practices. During this phase, a central repository, as well as an on-line reporting system, has been proposed to be set up to capture incident and injury data for trend analysis. With all this information and data gathered, better analysis could be done with a broader sample size (with inputs on injury data etc from NSAs, other sports organisations and sports events organizers) and thus, allowing us to better formulate strategies and campaign to target these areas.
 
 23. There will also be a safety portal featuring a one-stop centre for any sports safety information, reports, advisories, case studies and lessons learnt. Inspectorates will be established to conduct safety audits in the future. This stage may take some time to materialise due to several considerations, reviews and training required to equip these inspectors with the necessary skills and competencies. Incentives and awards will be introduced to individuals and sports-related organisations for championing best safe practices.
 
-**For media inquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 S. Parameswaran
 <br>
@@ -98,12 +100,12 @@ Mobile: 9222-1010
 <br>
 Email: alvin_hang@ssc.gov.sg
 
-**About SSC**
-<br>
+---
+
+###### About SSC
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: www.ssc.gov.sg
 
-**About the Sports Safety Working Committee**
-<br>
+###### About the Sports Safety Working Committee
 The Sports Safety Working Committee was formed to work on the implementation of the recommendations put forth by the Sports Safety Committee. The members of the working committee include the following:
 
 1. Singapore Sports Council (SSC) - Chair Organisation
@@ -121,4 +123,4 @@ The Sports Safety Working Committee was formed to work on the implementation of 
 13. Singapore Police Force (SPF)
 14. Triathlon Association of Singapore (TAS)
 
-*Institute of Technical Education (ITE) has joined in our efforts, but ITE is not part of the Working Committee.
+&ast;Institute of Technical Education (ITE) has joined in our efforts, but ITE is not part of the Working Committee.
