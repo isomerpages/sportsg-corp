@@ -7,12 +7,12 @@ layout: post
 description: ""
 image: ""
 ---
-Target 2016: NSAs To Focus On Creating A Pipeline For High Performance Excellence
-Singapore , 22 Sep 2010
+## **Target 2016: NSAs To Focus On Creating A Pipeline For High Performance Excellence**
 
 TARGET 2016: NSAS TO FOCUS ON CREATING A PIPELINE FOR HIGH PERFORMANCE EXCELLENCE
-NSAs To Review And Update Multi-Year Sports Plans To Supply & Sustain Local Sports Ecosystem
-Singapore, 22 September 2010 - Slightly more than a week after the Singapore Sports Council (SSC) announced its target of garnering at least six medals at the 2016 Olympic Games in Rio de Janeiro, the National Sports Associations (NSAs) were today told of the key role they will play in helping Singapore achieve its targets which have been set for Singapore in 2016.
+NSAs To Review And Update Multi-Year Sports Plans To Supply & Sustain Local Sports 
+
+**Singapore, 22 September 2010** - Slightly more than a week after the Singapore Sports Council (SSC) announced its target of garnering at least six medals at the 2016 Olympic Games in Rio de Janeiro, the National Sports Associations (NSAs) were today told of the key role they will play in helping Singapore achieve its targets which have been set for Singapore in 2016.
 
 2. This was shared today by SSC Chief Executive Officer Oon Jin Teik at a dialogue with NSAs to kick-off the Annual National Sports Association Grant Exercise (ANGE) for Financial Year 2011.
 
