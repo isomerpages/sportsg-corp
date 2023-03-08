@@ -57,18 +57,20 @@ Singapore Sports Council
 <br>
 Tel: 6340 9886
 <br>
-E-mail: michelle_liew@ssc.gov.sg
+E-mail: [michelle_liew@ssc.gov.sg](michelle_liew@ssc.gov.sg)
 
 ---
 
-###### About the Sport A New You Campaign
+**About the Sport A New You Campaign**
+<br>
 The Sport A New You campaign aims to encourage women, especially those aged 35 and above who have to juggle career and family, to lead a more active and sporting lifestyle. The campaign runs from 1 July to 31 October 2007. Throughout the four months, the SSC will organise key events and activities to encourage the targeted women segments in sports participation.
 
 Other key events under the campaign include the Great Singapore Shopathon, Heartland Flashes, Ladies Escapade, 101 Active Women Tips and an all-female Bowling carnival coming up in October.
 
-For more information about the Sport A New You campaign and its activities, please visit http://www.womenandsports.sg.
+For more information about the Sport A New You campaign and its activities, please visit [http://www.womenandsports.sg](http://www.womenandsports.sg).
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
 
-Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
+Please visit the SSC website at [www.ssc.gov.sg](www.ssc.gov.sg) for more information on SSC.
