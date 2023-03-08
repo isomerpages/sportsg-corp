@@ -207,3 +207,9 @@ We provide consulting and training services in: human capital development, busin
 **[PSB Academy](http://www.psb-academy.edu.sg/)**
 
 PSB Academy is one of the largest private education institutions in Singapore. It was formerly part of the Productivity and Standards Board of Singapore (PSB). The academy has a suite of internationally recognised tertiary-level programmes for a population of almost 10,000 local and international students in Singapore.
+
+**[Quest Ventures](http://www.questventures.com/careers)**  
+Quest Ventures is a leading venture fund for companies that have scalability and replicability in large internet communities. Its portfolio of 30+ venture-backed companies operate in more than 150 cities across Asia, creating employment and advancement opportunities for more than 4,400 employees, while its Enterprise and ESG efforts directly impact thousands more.  
+  
+[Quest Ventures Careers](http://www.questventures.com/careers)  
+[Quest Ventures Internships](http://www.questventures.com/internships)
