@@ -76,9 +76,9 @@ Athletes must continue to file whereabouts information until:
 
 ADS gives written notice to athletes of their removal from its RTP or DTP; or
 
-Athletes give written notice to ADS and their NSA of their retirement from sport using [ADS Return to Competition Notification Form](/anti-doping-singapore/resources/policies-and-forms)
+Athletes give written notice to ADS and their NSA of their retirement from sport using [ADS Athlete Retirement Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf).
 
-International Federations also have their own RTP for international-level athletes. Athletes who have been included in their International Federation and ADS RTP, have to be aware of the [ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and-forms/) (link to PDF Anti-Doping Rules) and those of their International Federation's.
+International Federations also have their own RTP for international-level athletes. Athletes who have been included in their International Federation and ADS RTP, have to be aware of the [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) (link to PDF Anti-Doping Rules) and those of their International Federation's.
 
 **ATHLETE WHEREABOUTS OBLIGATION**
 
@@ -202,12 +202,12 @@ Updates to whereabouts filing can be made:
 
 Athletes may delegate filing responsibilities for some or all required whereabouts filing to a third party, such as a coach, team manager or a NSA staff. Athletes remain ultimately responsible for making sure their whereabouts information is accurate, whether or not their whereabouts information are filed by the authorised representative or by the athlete.
 
-A written authorisation on the [ADS Whereabouts Authorised Representative form](/what-we-do/anti-doping-singapore/policies-and-forms/), signed by both the athlete and the authorised representative, should be submitted to ADS before access to ADAMS is made available to the authorised representative to file whereabouts information on the athlete's behalf.
+A written authorisation on the [ADS Whereabouts Authorised Representative form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Whereabouts_Authorised_Representative_Form_20190415.pdf) , signed by both the athlete and the authorised representative, should be submitted to ADS before access to ADAMS is made available to the authorised representative to file whereabouts information on the athlete's behalf.
 
 #### **RETIREMENT AND REINSTATEMENT**
 
-Athletes in the RTP or DTP who intend to retire from active competition must submit a written notice using the [ADS Athlete Retirement Notification Form](/what-we-do/anti-doping-singapore/policies-and-forms/) to inform ADS and their NSA of their retirement.
+Athletes in the RTP or DTP who intend to retire from active competition must submit a written notice using the [ADS Athlete Retirement Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf) to inform ADS and their NSA of their retirement.
 
-Athletes, who had previously retired whilst in the RTP or DTP and intend to return to active competition, must provide written notification to ADS and their NSA using the [ADS Return to Competition Notification Form](/what-we-do/anti-doping-singapore/policies-and-forms/) **at least 6 months** before returning to competition. Athletes who violate this requirement will have their competition results disqualified.
+Athletes, who had previously retired whilst in the RTP or DTP and intend to return to active competition, must provide written notification to ADS and their NSA using the [ADS Return to Competition Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Return_to_Competition_Notification_Form_20210611.pdf) **at least 6 months** before returning to competition. Athletes who violate this requirement will have their competition results disqualified.
 
 To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
