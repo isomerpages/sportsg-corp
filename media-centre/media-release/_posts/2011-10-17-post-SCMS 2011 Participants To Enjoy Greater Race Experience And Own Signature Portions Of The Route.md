@@ -9,7 +9,7 @@ image: ""
 ---
 ### **SCMS 2011 Participants To Enjoy Greater Race Experience And 'Own' Signature Portions Of The Route**
 
-Singapore, 17 October 2011 - Come 4 December, runners at the Standard Chartered Marathon Singapore (SCMS) 2011 can expect a more positive race experience as a result of a number of key improvements made to the Marathon based on the feedback received from participants last year.
+**Singapore, 17 October 2011** - Come 4 December, runners at the Standard Chartered Marathon Singapore (SCMS) 2011 can expect a more positive race experience as a result of a number of key improvements made to the Marathon based on the feedback received from participants last year.
 
 2. Committed to better the race experience, SCMS Organiser, Singapore Sports Council (SSC), took extra efforts to improve the race routes and baggage collection point. "At the top of our list of priorities is creating an exciting and safe race experience for everyone. As we strive to further develop the Standard Chartered Marathon Singapore as the People's Race, these operational improvements goes towards providing a more positive race experience for all our participants," explained Mr David Voth, Senior Director, Sports Business, Singapore Sports Council, and Vice-chairman of the Standard Chartered Marathon Singapore 2011 Organising Committee.
 
