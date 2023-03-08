@@ -22,9 +22,9 @@ As part of the finale for GetActive! Singapore, more than 3,000 pre-schoolers fr
 
 ##### **Enabling a more caring Singapore**
 
-In collaboration with SG Cares, this year’s Active Enabler Programme saw close to than 90% of its activities organised to inspire Singaporeans to care for their fellow people.
+In collaboration with SG Cares, this year’s Active Enabler Programme saw close to more than 90% of its activities organised to inspire Singaporeans to care for their fellow people.
   
-One such activity is the OneRun 2018 community event organised by the Taman Jurong Zone B Resident’s Committee Youth Chapter. As part of the event, participants had to run 700m-long laps around the perimeter of the Chinese Garden to raise household products for under-privileged families residing in rental housing at Taman Jurong. The event saw more than 6,500 participants raising close to 8,000 household products such as food provisions and toiletries provided by corporate partners.
+One such activity is the OneRun 2018 community event organised by the Taman Jurong Zone B Resident’s Committee Youth Chapter. As part of the event, participants had to run 700m-long laps around the perimeter of the Chinese Garden to raise household products for underprivileged families residing in rental housing at Taman Jurong. The event saw more than 6,500 participants raising close to 8,000 household products such as food provisions and toiletries provided by corporate partners.
 
 Mr Caleb Lee Jia Le, Chairman of the Youth Chapter said, “This is our first major sports event and i’m proud to see so many people turning up to help our fellow residents. We wanted to create an event where everyone in the community can put a foot forward to contribute and give back. In the end, the participants were able to raise a good number of products while having fun and getting some exercise. We definitely look forward to making this an annual event with GetActive! Singapore.”
 
