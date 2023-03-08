@@ -134,19 +134,97 @@ Event: Badminton<br>
 | 4 | 15/04/12 (Sun) | C4    | 10:00 AM | B   | Pasir Ris West CSC       | vs      | PE Badminton Team                  |
 
 ##### **Bowling**
-**Category: Mixed Team**
-![](/images/Media%20Centre/Media%20Release/2012/May/bowling1.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/bowling2.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/bowling3.png)
+
+Category: Mixed Team
+
+| S/NO | Central          | Date / Time             | Venue                                                       |
+| ---- | ---------------- | ----------------------- | ----------------------------------------------------------- |
+| M1   | Bishan-Toa Payoh | 15 April 2012 3pm - 6pm | Superbowl Mount Faber, 2 Telok Blangah Way (Tel: 6276 5225) |
+| M2   | Tanjong Pagar    | 15 April 2012 3pm - 6pm | 
+| M3   | Ang Mo Kio       | 15 April 2012 3pm - 6pm | Planet Bowl - CSC 60 Tessensohn Road (Tel: 6391 5695)       |
+
+| S/NO | South East       | Date / Time             | Venue                               |
+| ---- | ---------------- | ----------------------- | ----------------------------------- |
+| M7   | Moulmein-Kallang | 15 April 2012 1pm - 4pm | Kallang Bowl - Kallang Leisure Park |
+| M8   | East Coast       | 15 April 2012 5pm - 8pm | 5 Stadium Walk                      |
+| M9   | Marine Parade    | 15 April 2012 5pm - 8pm | (Tel: 6345 0545)                    |
+
+| S/NO | South West    | Date / Time             | Venue                     |
+| ---- | ------------- | ----------------------- | ------------------------- |
+| M13  | West Coast    | 15 April 201210am - 1pm | Orchid Bowl @The Chevrons |
+| M14  | Chua Chu Kang | 15 April 2012 1pm - 4pm | 48 Boon Lay Way           |
+| M15  | Jurong        | 15 April 2012 5pm - 8pm | (Tel: 6795 5900)          |
+
 
 ##### **Basketball**
-![](/images/Media%20Centre/Media%20Release/2012/May/basketball_aljunied.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/basketball_bishan.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/basketball_choachukang.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/basketball_holland.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/basketball_eastcoast.png)
+
+**Aljunied Cluster - Basketball**<br>
+Address: Paya Lebar- Kovan CC: 207 Hougang St 21 (530207)
+
+| M | DATE/DAY       | VENUE                | TIME    | GRP | (FIRST-NAMED TEAM) | FIXTURE | (SECOND-NAMED TEAM) |
+| - | -------------- | -------------------- | ------- | --- | ------------------ | ------- | ------------------- |
+| 1 | 15/04/12 (Sun) | Paya Lebar- Kovan CC | 10am    | A   | Hougang CSC Team 2 | vs      | Eunos CSC           |
+| 2 | 15/04/12 (Sun) | Paya Lebar- Kovan CC | 11.15am | B   | Kaki Bukit CSC     | vs      | BRP CSC             |
+| 3 | 15/04/12 (Sun) | Paya Lebar- Kovan CC | 12.15pm | B   | Paya Lebar CSC     | vs      | Hougang CSC Team 1  |
+
+**Bishan-Toa Payoh Cluster- Basketball**<br>
+Address: Peirce Secondary School, 10 SIN MING WALK S (575566)
+
+| M | DATE/DAY       | VENUE                   | TIME    | GRP | (FIRST-NAMED TEAM)    | FIXTURE | (SECOND-NAMED TEAM)           |
+| - | -------------- | ----------------------- | ------- | --- | --------------------- | ------- | ----------------------------- |
+| 1 | 15/04/12 (Sun) | Peirce Secondary School | 10am    | A   | Toa Payoh East CSC    | vs      | Bishan East CSC 3             |
+| 2 | 15/04/12 (Sun) | Peirce Secondary School | 11.15am | B   | Toa Payoh Central CSC | vs      | Thomson-Toa Payoh CSC         |
+| 3 | 15/04/12 (Sun) | Peirce Secondary School | 12.15pm | B   | Bishan North          | vs      | Toa Payoh West Basketball CSC |
+
+**Chua Chu Kang Cluster - Basketball**<br>
+Address: Unity Secondary School, 20 CHOA CHU KANG STREET 62 S (689143)
+
+| M | DATE/DAY       | VENUE                  | TIME    | GRP | (FIRST-NAMED TEAM)       | FIXTURE | (SECOND-NAMED TEAM) |
+| - | -------------- | ---------------------- | ------- | --- | ------------------------ | ------- | ------------------- |
+| 1 | 15/04/12 (Sun) | Unity Secondary School | 10am    | A   | Keat Hong CSC            | vs      | Yew Tee CSC         |
+| 2 | 15/04/12 (Sun) | Unity Secondary School | 11.15am | B   | Hong Kah North Zone 5 RC | vs      | Bukit Gombak CSC    |
+
+**Holland-Bukit Timah Cluster - Basketball**<br>
+Address: Senja-Cashew Community Club, 101 Bukit Panjang Road (Opposite Bukit Panjang Plaza) (679910)
+
+| M | DATE/DAY       | VENUE                       | TIME   | (FIRST-NAMED TEAM)  | FIXTURE | (SECOND-NAMED TEAM) |
+| - | -------------- | --------------------------- | ------ | ------------------- | ------- | ------------------- |
+| 1 | 15/04/12 (Sun) | Senja-Cashew Community Club | 3.30pm | Phantom Bukit Timah | vs      | Zhenghua CSC        |
+| 2 | 15/04/12 (Sun) | Senja-Cashew Community Club | 4.45pm | Cashew CSC          | vs      | Ulu Pandan          |
+
+**East Coast Cluster - Basketball**<br>
+Address: Bedok South Secondary  School, 1 JALAN LANGGAR BEDOK S (468585)
+
+| M | DATE/DAY       | VENUE                        | TIME    | GRP | (FIRST-NAMED TEAM)       | FIXTURE | (SECOND-NAMED TEAM)     |
+| - | -------------- | ---------------------------- | ------- | --- | ------------------------ | ------- | ----------------------- |
+| 1 | 15/04/12 (Sun) | Bedok South Secondary School | 10am    | A   | KCC                      | vs      | Jeremy Lin's Dream Team |
+| 2 | 15/04/12 (Sun) | Bedok South Secondary School | 11.15am | A   | Siglap CSC               | vs      | Bedok CSC               |
+| 3 | 15/04/12 (Sun) | Bedok South Secondary School | 12.15am | B   | Changi Simei CSC         | vs      | Fengshan Red CSC        |
+| 4 | 15/04/12 (Sun) | Bedok South Secondary School | 1.15pm  | B   | Joo Chiat @ Siglap South | vs      | Fengshan Black CSC      |
 
 ##### **Football**
-![](/images/Media%20Centre/Media%20Release/2012/May/football_amk.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/football_kallang.png)
-![](/images/Media%20Centre/Media%20Release/2012/May/football_tampines.png)
+
+**Ang Mo Kio Cluster**<br>
+AMKSS: Ang Mo Kio Secondary School (6 Ang Mo Kio Street 22, Singapore 569362)
+
+| M | DATE/DAY       | VENUE | TIME    | GRP | (FIRST-NAMED TEAM) | FIXTURE | (SECOND-NAMED TEAM)   |
+| - | -------------- | ----- | ------- | --- | ------------------ | ------- | --------------------- |
+| 1 | 15/04/12 (Sun) | AMKSS | 2.00 pm | A   | Teck Ghee CSC      | vs      | Kebun Baru CSC Team 2 |
+| 2 | 15/04/12 (Sun) | AMKSS | 3.30 pm | B   | Kebun Baru CSC     | vs      | Cheng San-Seletar CSC |
+| 3 | 15/04/12 (Sun) | AMKSS | 5.00 pm | C   | Jalan Kayu CSC     | vs      | Sengkang West CSC     |
+
+**Moulmein-Kallang**<br>
+BenSS: Bendemeer Secondary School (1 St Wilfred Road, Singapore 327919)
+
+| M | DATE/DAY       | VENUE | TIME    | GRP | (FIRST-NAMED TEAM)   | FIXTURE | (SECOND-NAMED TEAM)  |
+| - | -------------- | ----- | ------- | --- | -------------------- | ------- | -------------------- |
+| 1 | 15/04/12 (Sun) | BenSS | 2.00 pm | A   | Kampong Glam CSC 'B' | vs      | Moulmein CSC Team 2  |
+| 2 | 15/04/12 (Sun) | BenSS | 3.30 pm | B   | Whampoa CSC Team B   | vs      | Kampong Glam CSC 'A' |
+| 3 | 15/04/12 (Sun) | BenSS | 5.00 pm | B   | Moulmein CSC         | vs      | Whampoa CSC Team A   |
+
+**Tampines**<br>
+Springf: Springfield Secondary School (30 Tampines Avenue 8, Singapore 529593)
+
+| M | DATE/DAY       | VENUE   | TIME    | (FIRST-NAMED TEAM) | FIXTURE | (SECOND-NAMED TEAM) |
+| - | -------------- | ------- | ------- | ------------------ | ------- | ------------------- |
+| 1 | 15/04/12 (Sun) | Springf | 3.30 pm | Tampines East CSC  | vs      | Tampines West CSC   |
