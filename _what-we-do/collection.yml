@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academy and Clubs.md
-      - Anti Doping Singapore/Policies and Forms.md
       - Anti Doping Singapore/.keep
       - Anti Doping Singapore/About Us.md
       - Anti Doping Singapore/Education.md
@@ -16,6 +15,7 @@ collections:
       - Anti Doping Singapore/Report Doping.md
       - Anti Doping Singapore/Contact Us.md
       - Anti Doping Singapore/Resources.md
+      - Anti Doping Singapore/Policies and Forms.md
       - ActiveSG.md
       - Active Health.md
       - Active Parents.md
