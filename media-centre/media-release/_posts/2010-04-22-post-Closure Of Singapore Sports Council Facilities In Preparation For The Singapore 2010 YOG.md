@@ -23,10 +23,8 @@ image: ""
 <br>
 **Schedule of Closures of SSC Facilities for the YOG**
 
-
-
 | Name of Facility | Expected Date of Closure | Expected Date of Reopening |
-|--|--|--|
+| ------ | ------ | ------ |
 | Bishan Sports Hall | 19 November 2009 | 11 October 2010 |
 | Bishan Stadium | 3 May 2010 | 11 September 2010 |
 | Bishan Swimming Pool | 2 August 2010 | 1 September 2010 |
@@ -49,8 +47,9 @@ image: ""
 | Jurong East Sports Hall | 1 July 2010 | 11 September 2010 |
 | Jurong West Stadium | 1 June 2010 | 3 September 2010 |
 | Jurong West Swimming Complex | 2 August 2010 | 1 September 2010 |
-| Jurong West Sports Hall | 19 July 2010 | 1 September 2010 |
+| Jurong West Sports Hall | 19 July 2010 | 1 September 2010 | 
 <hr>
+<br>
 Schedule accurate as at 22 April 2010
 
 -End-
@@ -92,5 +91,3 @@ Singapore Sports Council
 DID: 6500 5289
 <br>
 Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
-
-
