@@ -11,7 +11,7 @@ image: ""
 
 All Systems Go as Organisers and 40000 Runners Make Final Preparations for Standard Chartered Singapore Marathon 2007
 
-Singapore, 30 November 2007 - Some of the world's renowned marathoners have descended on Singapore for the sixth edition of the Standard Chartered Singapore Marathon taking place this Sunday. Representing 18 countries, 60 elite male and female runners will hit the road on a 42km route stretching from the heart of the Central Business District to the scenic coastline of the East Coast Park. The Standard Chartered Singapore Marathon 2007 also forms the second leg of the Greatest Race on Earth (GROE) series that includes marathons in Nairobi, Mumbai and Hong Kong. For the first time in the event's history, elite athletes will also be able to use their timing set at the Standard Chartered Singapore Marathon 2007 for their entry to the 2008 Beijing Olympics.
+**Singapore, 30 November 2007** - Some of the world's renowned marathoners have descended on Singapore for the sixth edition of the Standard Chartered Singapore Marathon taking place this Sunday. Representing 18 countries, 60 elite male and female runners will hit the road on a 42km route stretching from the heart of the Central Business District to the scenic coastline of the East Coast Park. The Standard Chartered Singapore Marathon 2007 also forms the second leg of the Greatest Race on Earth (GROE) series that includes marathons in Nairobi, Mumbai and Hong Kong. For the first time in the event's history, elite athletes will also be able to use their timing set at the Standard Chartered Singapore Marathon 2007 for their entry to the 2008 Beijing Olympics.
 
 The top 3 finishers from last year's men's category - Amos Tirop Matui from Kenya, Ashebir Jote Demissu from Ethiopia and Abel Kurui from Kenya have all returned this year to conquer the route. Matui in particular will be keen to defend the title he has held for two consecutive years and fend off Demissu who has been his closest rival. The latter finished mere seconds behind Matui in previous years' races and in the women's race, Madina Biktagirova from Russia will be chasing for the title in Singapore for the first time in her career. Her personal best of 2hr 28:12 is 3 minutes under the winning time set by Kenyan, Salina Kosgei last year. Spectators can look forward to yet another tight finish and new course records with the earlier start time of 5.30am, which will be conducive for performance and a welcome relief for the runners.
 
@@ -31,7 +31,7 @@ Fulford Public Relations
 <br>
 Tel: +65 6324 5289
 <br>
-Email: sthomas@fulfordpr.com
+Email: [sthomas@fulfordpr.com](sthomas@fulfordpr.com)
 
 Ronda Ng Doswell
 <br>
@@ -39,7 +39,7 @@ Fulford Public Relations
 <br>
 Tel: +65 6324 5293
 <br>
-Email: rng@fulfordpr.com
+Email: [rng@fulfordpr.com](rng@fulfordpr.com)
 
 
 Evelyn Liu
@@ -54,12 +54,13 @@ Singapore Sports Council
 <br>
 Tel: +65 6500 5238
 <br>
-Email: evelyn_liu@ssc.gov.sg
+Email: [evelyn_liu@ssc.gov.sg](evelyn_liu@ssc.gov.sg)
 
 
 ---
 
 ###### About Singapore Sports Council
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
 ###### About Standard Chartered Bank
