@@ -74,58 +74,19 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Cycling - Road Mass Start | 10 October 2010
 | Cycling - Road Time Trials | 13 October 2010
 | Gymnastics - Artistic | 4-8 October 2010
-
-Gymnastics - Artistic
-
-12-14 October 201
-
-Hockey
-
-4-14 October 2010
-
-Lawn Bowls
-
-4-13 October 2010
-
-Netball
-
-4-12, 14 October 2010
-
-Rugby Sevens
-
-11-12 October 2010
-
-Shooting - Clay Target
-
-6-13 October 2010
-
-Shooting - Full Bore
-
-9-13 October 2010
-
-Shooting - Pistol & Small Bore
-
-5-13 October 2010
-
-Shooting - Clay Target
-
-6-13 October 2010
-
-Squash
-
-4-13 October 2010
-
-Table Tennis
-
-4-114 October 2010
-
-Weightlifting
-
-4-12 October 2010
-
-Wrestling
-
-5-10 October 2010
+| Gymnastics - Artistic | 12-14 October 201
+| Hockey | 4-14 October 2010
+| Lawn Bowls | 4-13 October 2010
+| Netball | 4-12, 14 October 2010
+| Rugby Sevens | 11-12 October 2010
+| Shooting - Clay Target | 6-13 October 2010
+| Shooting - Full Bore | 9-13 October 2010
+| Shooting - Pistol & Small Bore | 5-13 October 2010
+| Shooting - Clay Target | 6-13 October 2010
+| Squash | 4-13 October 2010
+| Table Tennis | 4-114 October 2010
+| Weightlifting | 4-12 October 2010
+| Wrestling | 5-10 October 2010
 
  
 
