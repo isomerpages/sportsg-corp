@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Singapore Sports Awards Honour Top-performing Athletes**
 
 Singapore's most prestigious sports recognition event, the Singapore Sports Awards, themed "Soar with our Stars", paid tribute to more than 80 Team Singapore athletes, coaches and individuals who have contributed significantly to Singapore's exceptional sporting performances in 2006 at an awards ceremony held at Swissotel the Stamford.
@@ -29,7 +28,9 @@ The International Olympic Committee (IOC) aims to reward individuals who have pr
 
 The Singapore Sports Awards 2007 has rounded up a fantastic 2006 for sports in Singapore, and signalled the beginning of another journey for Team Singapore towards this year's Southeast Asian Games at Thailand and the next pinnacle ? Beijing Olympics 2008.
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Charlotte Ong
 <br>
