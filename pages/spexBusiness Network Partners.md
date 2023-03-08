@@ -245,3 +245,44 @@ StarHub is Singapore's fully-integrated info-communications company, offering a 
 **[Singapore Sports Hub](https://www.sportshub.com.sg/who-we-are/careers)**
 
 The Singapore Sports Hub (SSH) is one of the world’s first fully integrated sports, entertainment and lifestyle destination. Its 35 hectare of world-class facilities include the National Stadium, Singapore Indoor Stadium, OCBC Arena, OCBC Aquatic Centre, Water Sports Centre, Kallang Wave Mall, Sports Hub Library, Singapore Sports Museum and Shimano Cycling World. Incorporating award-winning design and environmentally conscious construction, SSH offers different multi-purpose venues with varying seating capacities to host events ranging from sports, entertainment and lifestyle to community events.
+
+**[The Majurity Trust](https://majurity.sg/)**
+
+The Majurity Trust is a philanthropic organisation in Singapore with social impact programmes and platforms to create and advance collaborative causes and activities that build a thriving and sustainable community for all in Singapore. Through conversations, collaborations and connecting with people who believe in thriving together, we hope to be a catalyst to help make things happen.
+
+**[Octagon](https://www.octagon.com/careers)**
+
+OCTAGON is a creative marketing agency specializing in sports, entertainment, culture and cause. We are part of the larger Octagon Sports and Entertainment Network (OSEN), a group of award-winning strategic and creative marketing agencies. We help our clients make their next right move – to create, innovate and plan, and constantly measure, evaluate and improve – but most importantly to meet consumers where they are on the cusp of what’s next. We are a full-service agency capable of delivering award winning campaigns, experiences and content.
+
+**[Intertek](https://www.jobstreet.com.sg/en/job-search/jobs-at-intertek-testing-services-s-pte-ltd/)**
+
+Intertek is a leading Total Quality Assurance provider to industries worldwide. Our network of more than 1,000 laboratories and offices and over 44,000 people in more than 100 countries, delivers innovative and bespoke Assurance, Testing, Inspection and Certification solutions for our customers’ operations and supply chains. Intertek Total Quality Assurance expertise, delivered consistently with precision, pace and passion, enabling our customers to power ahead safely.
+
+**[Watsons Singapore](https://www.watsons.com.sg/Careers)**  
+Watsons is Singapore’s leading beauty and health retailer with more than 100 stores located islandwide. Aligned with its philosophy of bringing ‘more’ to customers’ lives, Watsons inspires and enables every one of our customers to look good and feel great so they can enjoy life to the fullest. A strong advocate of preventive care, Watsons has also enhanced its health platform with 39 pharmacies located within its key stores, offering services such as medication dispensing and review, health screening packages and counselling on smoking cessation and minor ailments.  
+  
+Watsons clinched the top spot for ‘Personal Care Store’, ‘Best Retail Loyalty Card’ and ‘No.1 Multi-Brand Beauty Store’ for Asia’s Top Influential Brands 2016 by Brand Alliance, based on Singapore consumers’ choices.  
+  
+Watsons is the flagship health and beauty brand of A.S. Watson Group.
+
+**[Hewlett Packard Enterprise](https://www.hpe.com/sg/en/about/jobs.html)**
+
+Hewlett Packard Enterprise is the global edge-to-cloud Platform-as-a-Service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. We’re built on decades of reimagining the future through innovation.  
+  
+Our purpose is to advance the way people live and work, by engineering experiences that unlock your full potential.
+
+**[The Fullerton Hotel](https://www.fullertonhotels.com/careers)**
+
+Gazetted as Singapore’s 71st National Monument, The Fullerton Hotel Singapore was once home to the General Post Office, The Singapore Club and the Chamber of Commerce. The 400-room luxury hotel is dynamically located in the heart of the financial and arts districts, and carefully designed to provide both business and leisure travellers with a sanctuary of serenity and comfort in which to retreat and rejuvenate.
+
+**[Toyota Motor Asia Pacific (TMAP)](https://www.toyota.com.sg/)**
+
+Toyota Motor Asia Pacific is incorporated in Singapore and is the regional headquarters of its sole shareholder, Toyota Motor Corporation, in respect of distribution in the Asia Pacific region and regional trasury activities. The principal activities of TMAP are marketing and sales of motor vehicles, components parts, service parts and accessories as well as mobility services and after sales customer service.
+
+**[Under Armour](https://careers.underarmour.com/)**
+
+Founded in 1996, Under Armour is an American company that manufactures athletic clothing and footwear targeted at focused performers. As a teammate, we collaborate as a group. You'll be a part of bringing our products to life, working alongside the finest of the best, and driving the breakthroughs that improve the lives of athletes all over the world. That's how we consistently push boundaries and make the things that make athletes legendary-all while bringing our shared mission of helping everyone in their pursuit of better.
+
+**[Volkswagen](https://www.volkswagen.com.sg/need-help/careers)**
+
+Volkswagen is the only car brand in Singapore to manage its retail business directly. The two dealerships – Volkswagen Centre Singapore (Alexandra) and Volkswagen Exclusive – offer full sales and service facilities.
