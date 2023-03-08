@@ -103,60 +103,19 @@ CHEF DE MISSION FOR TEAM SINGAPORE: Ms Annabel Pennefather
 <br>
 TEAM SINGAPORE FLAG BEARER: Feng Tian Wei (Table Tennis)
 
- 
-
- 
-
 TEAM SINGAPORE'S PARTICIPATION: 8 Sports & 3 Parasports
 
-Sport
-
-Date
-
-Archery
-
-4-10 October 2010
-
-Athletics
-
-6-12 October 2010
-
-Athletics - Parasports
-
-6-12 October 2010
-
-Aquatics - Swimming
-
-4-9 October 2010
-
-Aquatics - Synchronised Swimming
-
-6-7 October 2010
-
-Aquatics - Para-Swimming
-
-5-9 October 2010
-
-Badminton
-
-4-14 October 2010
-
-Gymnastics
-
-4-8 October 2010
-
-Powerlifting (Parasports)
-
-12 October 2010
-
-Shooting
-
-5-13 October 2010
-
-Table Tennis
-
-4-14 October 2010
-
-Weightlifting
-
-4-12 October 2010
+| Sport | Date | 
+| -------- | -------- | 
+| Archery | 4-10 October 2010
+| Athletics | 6-12 October 2010
+| Athletics - Parasports | 6-12 October 2010
+| Aquatics - Swimming | 4-9 October 2010
+| Aquatics - Synchronised Swimming | 6-7 October 2010
+| Aquatics - Para-Swimming | 5-9 October 2010
+| Badminton | 4-14 October 2010
+| Gymnastics | 4-8 October 2010
+| Powerlifting (Parasports) | 12 October 2010
+| Shooting | 5-13 October 2010
+| Table Tennis | 4-14 October 2010
+| Weightlifting | 4-12 October 2010
