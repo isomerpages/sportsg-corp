@@ -8,9 +8,9 @@ image: ""
 ---
 ### **$58.8 Million To Be Channeled To National Sports Association Under Singapore Sports Council's Funding Scheme**
 
-Singapore Sports Council to Assist National Sports Associations in Strengthening Their Capabilities
+_Singapore Sports Council to Assist National Sports Associations in Strengthening Their Capabilities_
 
-Singapore, 8 April 2009 - The Singapore Sports Council (SSC) announced today that it will be channelling $58.8 million to the National Sports Associations (NSAs) under its Annual NSA Grant Exercise for Financial Year (FY) 2009. The amount includes direct and indirect grants of $34.1 million and $24.7 million, respectively, to the NSAs. Funding to NSAs have gone up, but it has done so during the economic downturn, hence, the SSC needs to be more prudent and ensure that the NSA grant proposals are cost-effective.
+**Singapore, 8 April 2009** - The Singapore Sports Council (SSC) announced today that it will be channelling $58.8 million to the National Sports Associations (NSAs) under its Annual NSA Grant Exercise for Financial Year (FY) 2009. The amount includes direct and indirect grants of $34.1 million and $24.7 million, respectively, to the NSAs. Funding to NSAs have gone up, but it has done so during the economic downturn, hence, the SSC needs to be more prudent and ensure that the NSA grant proposals are cost-effective.
 
 2. The SSC also shared that its funding strategy for the NSAs for FY2009 is aimed at building their capabilities. SSC will enable NSAs to raise their organisational excellence in areas of governance, compliance, sports planning and strategic development. This is aligned with the national programmes that SSC unveiled on 6 April 2009, which are focused on building capabilities across the sports sector to develop the next generation of athletes, coaches, officials and sports journalists and photographers.
 
@@ -43,10 +43,9 @@ to NSAs that present credible multi-year plans, starting from the FY2010 plannin
 
 12. Hence, for the current fiscal year, the SSC will be doubling the amount to $400,000. More NSAs will also be able to qualify for the Matching Grant as those that receive an annual grant allocation of S$500,000 and below (compared to $300,000 and below for FY2008) will be able to apply. Based on the funding allocation in FY2009, 46 NSAs qualify for this Grant. This matching grant is over and above the FY2009 annual grant that the NSAs will receive.
 
-13. Key outcomes expected from the NSAs for FY2009 include achieving continued success at major international games and competitions such as the Asian Youth Games Singapore 2009 and 2009 Laos SEA Games; improving the quality of high participation
-programmes; continued emphasis on youth participation for the majority of NSAs' programmes and events; as well as a greater level of organisational excellence.
+13. Key outcomes expected from the NSAs for FY2009 include achieving continued success at major international games and competitions such as the Asian Youth Games Singapore 2009 and 2009 Laos SEA Games; improving the quality of high participation programmes; continued emphasis on youth participation for the majority of NSAs' programmes and events; as well as a greater level of organisational excellence.
 
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Tanty Nazlianah Rosli
 <br>
