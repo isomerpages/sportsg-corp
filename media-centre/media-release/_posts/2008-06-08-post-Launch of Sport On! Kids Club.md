@@ -24,9 +24,11 @@ A website - www.sportonkids.com.sg has also been developed, to offer an integrat
 
 Sport On! Kids Club was officially launched today, 8 June Sunday, at IMM, Level 3, Garden Plaza.
 
-**For media enquiries, please contact:**
+---
 
-Singapore Sports Council
+###### For media enquiries, please contact:
+
+**Singapore Sports Council**
 <br>
 Ms Alexis Cai
 <br>
@@ -36,7 +38,7 @@ Tel:(65) 6500 5247
 <br>
 Email: [alexis_cai@ssc.gov.sg](mailto:alexis_cai@ssc.gov.sg)
 
-Asia PR Werkz
+**Asia PR Werkz**
 <br>
 Ms Imin Teo
 <br>
