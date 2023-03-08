@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-## **The Search Begins For The Best Music Video For "Go! Go! Singapore!!"**
-
-THE SEARCH BEGINS FOR THE BEST MUSIC VIDEO FOR "GO! GO! SINGAPORE!!"
+### **The Search Begins For The Best Music Video For "Go! Go! Singapore!!"**
 
 **Singapore 23 September 2010** - Two days after the launch of "Go! Go! Singapore!!", the new cheer song released by the Singapore Sports Council (SSC) aimed at getting Singaporeans to use their voices to rally behind Team Singapore, the SSC is now inviting members of the public to exercise their creativity by creating a music video to accompany the cheer song. The contest begins today and ends on 16 October 2010.
 
@@ -25,10 +22,26 @@ THE SEARCH BEGINS FOR THE BEST MUSIC VIDEO FOR "GO! GO! SINGAPORE!!"
 
 7. Each successful entry will receive a $20 shopping voucher. The grand prize winner will be announced on 31 October 2010, and the winning entry will walk away with an Apple iPad and $200 worth of shopping vouchers.
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
+###### For media enquiries, please contact:
+
+Patricia Yee<br>
+Executive<br>
+Public & Media Relations<br>
+Singapore Sports Council<br>
+Office: 6500 5245<br>
+Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+
+Luke Netto<br>
+Media Relations<br>
+STC Associates<br>
+Office: 6222 5700<br>
+Email: [Lnetto@stcassociates.com](Lnetto@stcassociates.com)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
@@ -39,20 +52,5 @@ Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref
 
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About Let's Play**
-<br>
+###### About Let's Play
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [SingaporeSports.sg.](SingaporeSports.sg)
-
-**For media enquiries, please contact:**
-<br>Patricia Yee
-<br>Executive
-<br>Public & Media Relations
-<br>Singapore Sports Council
-<br>Office: 6500 5245
-<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
-
-Luke Netto
-<br>Media Relations
-<br>STC Associates
-<br>Office: 6222 5700
-<br>Email: [Lnetto@stcassociates.com](Lnetto@stcassociates.com)
