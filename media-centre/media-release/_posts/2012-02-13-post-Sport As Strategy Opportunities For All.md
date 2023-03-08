@@ -8,8 +8,8 @@ image: ""
 ---
 ### **Sport As Strategy, Opportunities For All**
 
-*Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace & Competitive Sport*
-	
+_Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace & Competitive Sport_
+
 **Singapore, 13 February 2012** - After seven months of consultation with some 2500 people from the public, private and people sectors, the Vision 2030 Committee released its preliminary recommendations on how sport can be a key strategy to serve Singapore. The recommendations call for more opportunities and access for Singaporeans to play more sports in school, the community and the workplace. Sports capabilities will also be enhanced to support the anticipated growth in quantity and quality of sports programmes.
 
 2. The Vision 2030 Committee is now seeking further input from the Public-Private-People sectors to review the 19 preliminary recommendations resulting from more than 300 ideas generated through the engagement process. Over the next three months, the committee will continue to engage all segments of society to finalise the recommendations on how sport can be used as a national strategy.
@@ -88,7 +88,7 @@ Enhance SSC sports facilities through the use of universal design principles to 
 
 ---
 
-**Annex A - About Vision 2030**
+###### Annex A - About Vision 2030
 
 Vision 2030 is a joint project led by the Singapore Sports Council and the Ministry of Community Development, Youth and Sports with active participation from the public, people and private sectors. From July 2011, the Vision 2030 Team engaged in discussions with people from all walks of life, from executives to parents to youth to civil servants. We met with sports leaders, urban planners, teachers, volunteers, doctors, retirees and stay-at-home mums. We began every conversation with a basic question: How could sport best serve Singapore in the coming decades?
 
@@ -98,7 +98,7 @@ By its very nature, sport develops the attributes that we want and need to compe
 
 This is the spirit of Vision 2030. Live better through sports.
 
-**Annex C - Vision 2030 Engagements**
+###### Annex C - Vision 2030 Engagements
 
 1. 3 & 6 August 2011
 Dialogue session with active senior citizens (aged 45 and above)
@@ -148,79 +148,53 @@ Breakfast dialogue session hosted by Acting Minister, MCYS, with news editors
 16. 12 February 2012
 Engagement session with corporate organisations, Voluntary Welfare Organisations and NSAs
 
-**Annex D - Vision 2030 Steering Committee Members**
+###### Annex D - Vision 2030 Steering Committee Members
 
-**For media enquiries, please contact:**
+| No | Name and Designation                                                                                  |
+| -- | ----------------------------------------------------------------------------------------------------- |
+| 1  | Mr Chan Chun Sing (Chairman)<br >Acting Minister, Ministry of Community Development, Youth and Sports |
+| 2  | Mr Teo Ser Luck (Deputy Chairman)<br>Minister of State, Ministry of Trade & Industry                  |
+| 3  | Ms Yeoh Chee Yan<br>Second Permanent Secretary, Ministry of Education                                 |
+| 4  | Mr Ng Wai Choong<br>Deputy Secretary (Policy), Ministry of Finance                                    |
+| 5  | Mr Yam Ah Mee<br>Chief Executive Director, People's Association                                       |
+| 6  | Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board                                    |
+| 7  | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority                                  |
+| 8  | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board                           |
+| 9  | Mr Richard Seow<br>Chairman, Singapore Sports Council                                                 |
+| 10 | Mr Tan Soo Nan<br>Chief Executive of Singapore Totalisator Board                                      |
+| 11 | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank     |
+| 12 | Mr Tan Tong Hai<br>Chief Operating Officer, Starhub                                                   |
+| 13 | Mr Antonio Del Rosario<br>General Manager, Coca-Cola Singapore                                        |
+| 14 | Dr Aymeric Lim<br>Chairman, Medical Board, National University Hospital                               |
+| 15 | Mr Andre Ahchak<br>Senior Director, VOX Group Pte Ltd                                                 |
+| 16 | Ms Saw Phaik Hwa<br>Ex-CEO, SMRT                                                                      |
+| 17 | Ms Jessie Phua<br>Council Member, Singapore National Olympic Council                                  |
+| 18 | Dr Teo-Koh Sock Miang<br>President, Special Olympics Singapore                                        |
+| 19 | Dr Teo Ho Pin<br>Mayor, North-West District                                                           |
+| 20 | Mr Zainudin Nordin<br>President, Football Association of Singapore                                    |
+| 21 | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation                             |
+| 22 | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer & Philanthropy Centre                 |
+| 23 | Mr Leslie Tan<br>Founder and Editor, Red Sports                                                       |
+| 24 | Ms Asmah Hanim binte Mohamad<br>Honorary Assistant Secretary, Singapore Athletic Association          |
 
-| No | Name and Designation | 
-| -------- | -------- | 
-| 1  | Mr Chan Chun Sing (Chairman)<br >Acting Minister, Ministry of Community Development, Youth and Sports     | 
-| 2  | Mr Teo Ser Luck (Deputy Chairman)<br>Minister of State, Ministry of Trade & Industry   | 
-| 3  | Ms Yeoh Chee Yan<br>Second Permanent Secretary, Ministry of Education   | 
-| 4  | Mr Ng Wai Choong<br>Deputy Secretary (Policy), Ministry of Finance  |
-| 5  | Mr Yam Ah Mee<br>Chief Executive Director, People's Association  |
-| 6  | Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board  |
-| 7  | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority  |
-| 8  | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board  |
-| 9  | Mr Richard Seow<br>Chairman, Singapore Sports Council  |
-| 10  | Mr Tan Soo Nan<br>Chief Executive of Singapore Totalisator Board  |
-| 11  | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank |
-| 12  | Mr Tan Tong Hai<br>Chief Operating Officer, Starhub |
-| 13  | Mr Antonio Del Rosario<br>General Manager, Coca-Cola Singapore |
-| 14  | Dr Aymeric Lim<br>Chairman, Medical Board, National University Hospital |
-| 15  | Mr Andre Ahchak<br>Senior Director, VOX Group Pte Ltd |
-| 16  | Ms Saw Phaik Hwa<br>Ex-CEO, SMRT |
-| 17  | Ms Jessie Phua<br>Council Member, Singapore National Olympic Council |
-| 18  | Dr Teo-Koh Sock Miang<br>President, Special Olympics Singapore |
-| 19  | Dr Teo Ho Pin<br>Mayor, North-West District |
-| 20  | Mr Zainudin Nordin<br>President, Football Association of Singapore |
-| 21  | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation |
-| 22  | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer & Philanthropy Centre |
-| 23  | Mr Leslie Tan<br>Founder and Editor, Red Sports |
-| 24  | Ms Asmah Hanim binte Mohamad<br>Honorary Assistant Secretary, Singapore Athletic Association |For media enquiries, please contact:
+---
 
-S. Parameswaran (Parames)
-<br>
-Assistant Director, Corporate Communications & Relations
-<br>
-Singapore Sports Council
-<br>
+###### For media enquiries, please contact:
+
+S. Parameswaran (Parames)<br>
+Assistant Director, Corporate Communications & Relations<br>
+Singapore Sports Council<br>
 Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
-Alvin Hang
-<br>
-Director, Corporate Communications & Relations
-<br>
-Singapore Sports Council
-<br>
+Alvin Hang<br>
+Director, Corporate Communications & Relations<br>
+Singapore Sports Council<br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
-**About the Singapore Sports Council**
+---
 
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+###### About the Singapore Sports Council
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
-
-
-
-**S. Parameswaran (Parames)**
-<br>
-Assistant Director, Corporate Communications & Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
-**Alvin Hang**
-<br>
-Director, Corporate Communications & Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
-**About the Singapore Sports Council**
-<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
