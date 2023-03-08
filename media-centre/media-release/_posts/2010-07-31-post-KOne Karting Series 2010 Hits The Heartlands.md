@@ -6,14 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-K1 Karting Series 2010 Hits The Heartlands
-Singapore , 31 Jul 2010
+## **K1 Karting Series 2010 Hits The Heartlands**
 
 K1 KARTING SERIES 2010 HITS THE HEARTLANDS
 Organisers Bring High Octane Action To Over 10,000 People As Singapore Gears Up For The 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX
 Singapore, 31 July 2010 - The K1 Karting Series (K1) promises to bring onboard new exciting programmes to the heartlands from today to 12 September 2010, providing entertainment and exhilaration to various corners of Singapore, in the lead-up to the 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX.
 
-2 Through the inception of K1 in 2007, Singapore Sports Council (SSC) has lent its support to the series, which reached out to close to 20 locations across Singapore and to more than 100,000 residents. This year, apart from the general public, K1 aims to reach out to school students through dedicated karting hours for the latter, beginning with its first pit-stop today at the Jalan Besar Sports Fest.
+2. Through the inception of K1 in 2007, Singapore Sports Council (SSC) has lent its support to the series, which reached out to close to 20 locations across Singapore and to more than 100,000 residents. This year, apart from the general public, K1 aims to reach out to school students through dedicated karting hours for the latter, beginning with its first pit-stop today at the Jalan Besar Sports Fest.
 
 3 Students, alongside 18 and 36 junior participants from private sports clubs and Asian Women's Welfare Association (AWWA) EXCELerate Services respectively, were invited to join the first go-karting session from 9am to 12pm, while the second session was opened to the public from 1pm to 5pm. The Sports Fest was hosted by the Kallang Community Club as part of the celebration for the Singapore 2010 Youth Olympic Games, and witnessed a healthy turnout comprising youths and their family members. The event was graced by Dr Lee Boon Yang, Member of Parliament for Jalan Besar GRC and Adviser for Jalan Besar GROs.
 
