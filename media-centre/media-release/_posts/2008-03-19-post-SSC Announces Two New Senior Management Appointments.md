@@ -42,7 +42,9 @@ Singapore, 19 March 2008 - The Singapore Sports Council (SSC) announced today th
 
 13. In line with SSC's strong emphasis on sports safety, Ms Delphine Fong, SSC's Deputy Director for Sports Safety will now report directly to SSC CEO Oon Jin Teik. The Sports Safety division will play a dual role of sports safety strategy development and safety audit for the sports sector.
 
-**For media queries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Mr Alvin Hang
 <br>
