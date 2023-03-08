@@ -80,4 +80,3 @@ Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singap
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
 
 For a range of photographs, search for "Singapore Sports Council" on [[www.flickr.com](www.flickr.com)](www.flickr.com](www.flickr.com)
-**For media enquiries, please contact:**
