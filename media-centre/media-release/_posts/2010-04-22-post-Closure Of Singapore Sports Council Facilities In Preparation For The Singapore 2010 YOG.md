@@ -19,12 +19,13 @@ image: ""
 
 5. For details of other facilities which continue to remain open to the public, please visit the SSC website at www.ssc.gov.sg.
 
-**Annex 1**
-<br>
+---
+
+###### Annex 1
 **Schedule of Closures of SSC Facilities for the YOG**
 
 | Name of Facility | Expected Date of Closure | Expected Date of Reopening |
-| ------ | ------ | ------ |
+| --- | --- |--- |
 | Bishan Sports Hall | 19 November 2009 | 11 October 2010 |
 | Bishan Stadium | 3 May 2010 | 11 September 2010 |
 | Bishan Swimming Pool | 2 August 2010 | 1 September 2010 |
@@ -48,26 +49,14 @@ image: ""
 | Jurong West Stadium | 1 June 2010 | 3 September 2010 |
 | Jurong West Swimming Complex | 2 August 2010 | 1 September 2010 |
 | Jurong West Sports Hall | 19 July 2010 | 1 September 2010 | 
-<hr>
-<br>
+
+
 Schedule accurate as at 22 April 2010
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+###### For media enquiries, please contact:
 
-To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-
-**For media enquiries, please contact:**
-<br>
 Dominic Tay
 <br>
 Assistant Director
@@ -91,3 +80,16 @@ Singapore Sports Council
 DID: 6500 5289
 <br>
 Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.sportsingapore.gov.sg
+<br>
+Join SSC on Twitter at: www.twitter.com/singaporesports
+<br>
+Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+<br>
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
