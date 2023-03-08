@@ -142,3 +142,7 @@ MSIG Singapore is a leading provider of large industrial, commercial and persona
 
 The Majlis Ugama Islam Singapura (MUIS), also known as the Islamic Religious Council of Singapore, was established as a statutory body in 1968 when the Administration of Muslim Law Act (AMLA) came into effect. Under AMLA, MUIS is to advise the President of Singapore on all matters relating to Islam in Singapore.  
 The role of MUIS is to see that the many and varied interests of Singapore's Muslim community are looked after. In this regard MUIS is responsible for the promotion of religious, social, educational, economic and cultural activities in accordance with the principles and traditions of Islam as enshrined in the Holy Quran and Sunnah.
+
+**[National Arts Council (NAC)](https://www.nac.gov.sg/about-us/careers)**
+
+The National Arts Council champions the arts in Singapore. By nurturing creative excellence and supporting broad audience engagement, we want to develop Singapore as a distinctive global city where the arts inspire our people and connect our communities. We preserve our rich, cultural traditions while we cultivate accomplished artists and vibrant companies for the future. Our support for the arts is comprehensive – from grants and partnerships to industry facilitation and arts housing. The Council welcomes greater private and corporate giving to and through the arts so that together we can make the arts an integral part of everyone’s lives.
