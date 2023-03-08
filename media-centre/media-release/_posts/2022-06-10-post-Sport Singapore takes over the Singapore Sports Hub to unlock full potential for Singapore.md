@@ -11,19 +11,19 @@ image: ""
 
 Sport Singapore (SportSG) has initiated the termination of the Sports Hub Public-Private Partnership (“PPP”) project agreement and will take over the ownership and management of the Singapore Sports Hub. It has reached a mutual agreement with SportsHub Pte Ltd (SHPL) over the termination and the process of handover, and will officially take over the Sports Hub on 9 December 2022.
 
-##### **New structure to support Singapore’s aspirations**
+**New structure to support Singapore’s aspirations**
 
 2. SHPL was engaged under the PPP in 2010 to design, build, finance and operate the Sports Hub. The PPP expires in 2035. The cost of this project was borne by SHPL, and SportSG has paid an annual fee from 2014, to finance and operate the Sports Hub. The terms of the project agreement allowed for SportSG to decide if and when the project should be terminated, and thereafter, for SportSG to take over the ownership and management of the Sports Hub.
 
 3. The Sports Hub has been operating for eight years since its completion in 2014. The aspirations and needs of Singapore, as well as the wider operating environment for sports and entertainment, have changed considerably since then. Ownership and direct management of the Sports Hub will thus enable SportSG to have greater control and flexibility over the Sports Hub. With this move, SportSG will drive stronger social, sporting and economic outcomes through the Sports Hub, maximise its potential, and also take advantage of the synergies with the Kallang Alive precinct development.
 
-##### **Greater access and activities for the community**
+**Greater access and activities for the community**
 
 4. SportSG intends to make the Sports Hub more accessible to the broader community in Singapore, in terms of sports, lifestyle, entertainment and social uses, whilst maintaining its commercial sustainability. The Sports Hub should be a community icon for all to enjoy – from children and youth taking part in the National School Games, community competitions and grassroots events, junior and elite athletes training and competing, to everyday Singaporeans exercising and enjoying the facilities in and around the Sports Hub.
 
 5. We will strengthen Singapore’s affinity with the Sports Hub through programmes, participation, and accessibility.
 
-##### **Stronger integration with Kallang Alive**
+**Stronger integration with Kallang Alive**
 
 6. In addition, with increasing regional competition from other world class venues on the horizon, there is a need to strengthen the Sports Hub’s position and coherence in the context of the larger Kallang Alive precinct. Taking ownership of the Sports Hub will enable closer integration of the Sports Hub with upcoming Kallang Alive facilities such as the Kallang Football Hub, Kallang Tennis Centre, and Youth Hub to deliver a more cohesive sporting and lifestyle precinct experience and more seamless event and programming offerings.
 
