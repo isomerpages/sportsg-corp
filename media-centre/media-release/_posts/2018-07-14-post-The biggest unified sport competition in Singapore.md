@@ -10,7 +10,7 @@ image: ""
 
 ##### **The biggest unified sport competition in Singapore**
 
-_Special Olympics Singapore and SportCares team up to co-organise Singapore’s biggest unified competition for athletes with intellectual disabilities and students from mainstream schools_
+_Special Olympics Singapore and SportCares team up to co-organise Singapore’s biggest unified competition for athletes with intellectual disabilities and students from mainstream schools._
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Min%20Ong%20Ye%20Kung%20mingling%20with%20participants.jpeg)
 
