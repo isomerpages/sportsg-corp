@@ -16,11 +16,11 @@ Launched in 2016, GetActive! Singapore, which takes place in the week leading up
 
 Guest-of-Honour, Ms Grace Fu, Minister for Culture, Community and Youth said, “GetActive! Singapore has brought thousands of Singaporeans, of all ages and backgrounds, together to celebrate National Day through sports. This year, we have extended the activities to the children. It is important for us to give our children opportunities to experience sports together, and socialise with each other from diverse backgrounds. It was also special as we helped raise funds for vulnerable communities. I hope this spirit of care and contribution will continue to be part of our national identity.”
 
-##### **Finale with 3,000 pre-schoolers**
+**Finale with 3,000 pre-schoolers**
 
 As part of the finale for GetActive! Singapore, more than 3,000 pre-schoolers from 50 pre-schools came down with their parents and teachers to the Singapore Sports Hub where they took part in a fun-sized sports day at the National Stadium. Decked in red and white, the children took part in sports try-outs, sang National Day songs and also danced to the GetActive! Singapore workout choreographed to this year’s National Day theme song.
 
-##### **Enabling a more caring Singapore**
+**Enabling a more caring Singapore**
 
 In collaboration with SG Cares, this year’s Active Enabler Programme saw close to more than 90% of its activities organised to inspire Singaporeans to care for their fellow people.
   
@@ -32,9 +32,9 @@ The Singapore Cancer Society was also a beneficiary of donations from two sports
 
 “Mr Albert Ching, CEO of the Singapore Cancer Society said, “We are glad to have a platform like GetActive! Singapore that helps raise cancer awareness through adoption of a healthy and active lifestyle with so many fun activities. I would also like to thank Abvolution Wellness for organising such a wonderful event that brings people together and helped raise funds for the Singapore Cancer Society. I hope to rally more Singaporeans and organisations to join us at the next GetActive! Singapore.”
 
-##### **Partnering to bring sports to the people**
+**Partnering to bring sports to the people**
 
-This year also saw Sport Singapore engaged more than 150 partners and sponsors for GetActive! Singapore. One key partner is the Singapore Sports Hub, which was the anchor site for this year’s Sport Festivals.
+This year also saw Sport Singapore engage more than 150 partners and sponsors for GetActive! Singapore. One key partner is the Singapore Sports Hub, which was the anchor site for this year’s Sport Festivals.
 
 Mr Oon Jin Teik, CEO of Singapore Sports Hub, said, “We are delighted to be the anchor venue for GetActive! Singapore this year. This great collaboration has united Singaporeans and visitors to participate in a full array of sports, entertainment and lifestyle activities, thereby strengthening the bond of friendships and families. Come and celebrate the nation’s 53rd birthday at Singapore Sports Hub on 9 August. We have lined up yet more fun and entertaining activities for all to enliven the spirit “We are Singapore @ the Hub!”".
 
