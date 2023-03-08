@@ -211,3 +211,5 @@ Athletes in the RTP or DTP who intend to retire from active competition must sub
 Athletes, who had previously retired whilst in the RTP or DTP and intend to return to active competition, must provide written notification to ADS and their NSA using the [ADS Return to Competition Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Return_to_Competition_Notification_Form_20210611.pdf) **at least 6 months** before returning to competition. Athletes who violate this requirement will have their competition results disqualified.
 
 To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
+
+*The ADAMS application for smartphones can be downloaded from iTunes or the Google Play Store.*
