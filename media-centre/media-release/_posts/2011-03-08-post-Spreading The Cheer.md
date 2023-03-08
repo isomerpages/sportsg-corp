@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Spreading The Cheer**
+### **Spreading The Cheer**
 
-The National Cheerleading Championships Returns for a Second Edition
+_The National Cheerleading Championships Returns for a Second Edition_
 
 **Singapore 8 March 2011** - The National Cheerleading Championships is back! Following a successful first edition in 2010, the best cheer squads in Singapore will once again battle it out at the National Cheerleading Championships 2011 on 19 and 20 March at the Jurong East Sports Hall.
 
@@ -32,13 +32,12 @@ The National Cheerleading Championships Returns for a Second Edition
 
 ---
 
-Annex A - National Cheerleading Championships 2011 Fact Sheet<br>
+###### Annex A - National Cheerleading Championships 2011 Fact Sheet
+
 DATE: Saturday, 19 and Sunday, 20 March 2011<br>
 VENUE: Jurong East Sports Hall (21 Jurong East Street 31 Singapore 609517)<br>
 ORGANISERS: Singapore Sports Council and the Federation of Cheerleading Singapore<br>
 GUEST-OF-HONOUR: Ms Grace Fu, Senior Minister of State, Ministry of National Development and Ministry of Education
-
- 
 
 COMPETITION COMPONENTS<br>
 Total no. of teams: 27 teams, 40 entries
@@ -90,8 +89,20 @@ Judges representing International Federation of Cheerleading:
 
 Celebrity judges: Muttons of 987FM - Justin Ang and Vernon A
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### For media enquiries, please contact:
+
+Patricia Yee
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5246
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
@@ -102,15 +113,5 @@ Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref
 
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About Let's Play**
-<br>
+###### About Let's Play
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [SingaporeSports.sg](SingaporeSports.sg).
-
-**For media enquiries, please contact:**
-
-Patricia Yee
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
