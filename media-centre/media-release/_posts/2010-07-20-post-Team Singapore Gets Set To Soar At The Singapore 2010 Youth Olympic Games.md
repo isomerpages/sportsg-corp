@@ -30,178 +30,148 @@ image: ""
 
 11. Singaporeans and members of the public who wish to keep abreast of Team Singapore's performance at the YOG can sign up for a free SMS alert service through the Team Singapore website at www.teamsingapore.com.sg.
 
--End-
+---
 
-**About the Singapore National Olympic Council**
-<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+###### Annex A - Team Singapore Athletes At The 2010 Youth Olympic Games
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-
-**About Team Singapore**
-<br>
-Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
-
-The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit www.teamsingapore.com.sg.
-
-**About NTUC FairPrice Foundation**
-<br>
-NTUC FairPrice cares about our customers and the community. It is committed to donate $50 million by 2018 to NTUC FairPrice Foundation to help achieve its goal. NTUC FairPrice Foundation, a registered charity completely funded by NTUC FairPrice, upholds its mission to "Provide a Better Life for the Community". NTUC FairPrice Foundation focuses its giving on three strategic thrusts - the poor and needy, nation building and community bonding, and advancing workers' welfare. Since inception in March 2008, the Foundation has donated over $17 million in cash and gifts-in-kind to various causes. For more information on NTUC FairPrice Foundation, please visit www.fairpricefoundation.org.
-
-**Annex A - Team Singapore Athletes At The 2010 Youth Olympic Games**
 | S/N | Sport | Name | Event |
-| -------- | -------- | -------- | -------- |
-| 01 |Archery |Vanessa Loh<br>罗梓榕 |Recurve Ind. (W) |
+| --- | --- | --- | --- |
+| 01 | Archery | Vanessa Lo<br>罗梓榕 | Recurve Ind. (W) |
 | 02 | | Abdul Dayyan Jaffar | Recurve Ind. (M) |
 | 03 | Athletics | Devaraj Zachary Ryan | 1,000m (M) |
-| 04 | | Sean Toh<br>卓稔傑 | 100m Hurdles (M) |
-| 05 | | Goh Wei Ning<br>吴玮宁 | 100m Hurdles (W) |
-| 06 | | Wendy Enn<br>余敏敏 | 400m (W) |
-| 07 | | Ranjitha Raja  | 1,000m (W) |
-|08 || Liang Wei<br>梁微 | 100m (W) |
-| 09 |Badminton | Huang Chao<br>黄超 | Singles (M) |
-| 10 | Basketball | Ng Hannah Jia Hui<br>黄嘉慧 | Team (W)
-| 11  || Tok Huimin<br>卓慧敏
-| 12 || Eng Zoe<br>翁如仪
-| 13 || Lim Rui Jia Alanna<br>林芮嘉
-| 14 || Su Mingrong Jabez<br>苏铭荣 | Team (M)
-| 15 || Low Wenqiang Russell<br>刘文强
-| 16 || Tan Jun Wei<br>陈俊伟
-| 17 || Liew Larry Hua Sen<br>刘华森
-| 18 | Boxing | Mohd Hanurdeen Hamid | Lt Fly Wt 48 kg (M)
-| 19 | Canoeing | Brandon Ooi Wei Cheng<br>黄伟成 | K1 (M)
-| 20 || Wang Nan Feng<br>袁南凤 | K1 (W)
-| 21 | Cycling | Alvin Poon<br>潘 辉 智 | Mass start, Race (M)
-| 22 || Koh Jun Jie Daniel | Mass start, X-country (M)
-|23 || Travis Woodford | Mass start, Time Trial (M)
-| 24|| Nur Nasthasia Nadiah |Road, MB, BMX (W)
-| 25| Diving | Timothy Lee<br>李含光 | Ind. (M)
-26 || Chloe Chan<br>陈淑琳 | Ind. (W)
-27 || Myra Lee<br>李佳纹 | Ind. (W)
-28 | Equestrian | Caroline Chew<br>朱佩嘉 | FEI Challenge (W)
-29 | Fencing | Rania Herlina Rahardja<br>陈玥桦 | Epee Ind. (W)
-30 || Liane Wong Ye Ying<br>王业盈 | Foil Ind. (W)
-31 || Justin Ong Xian Shi<br>王贤士 | Foil Ind. (M)
-32 || Lim Wei Hao<br>林伟豪 | Epee Ind. (M)
-33 | Football | Amirul Iskandar K Anuar | Team (M)
-34 || Syazwan Radhi Kasim
-35 || Hazim Faiz Hassan
-36 || Hamzah Fazil
-37 || Muhaimin Suhaimi
-38 || Dhukhilan Jeevamani
-39 || Bryan Neubronner
-40 || Lee Si Qin Illyas<br>李思勤
-41 || Sunny Ng Qiu Yang<br>黄秋阳
-42 || Tan Zen Yang Jonathan<br>陈俊荣
-43 || Muhd Syazwan Muhd Zin
-44 || Hanafi Mohd Akbar
-45 || Brandon Koh Kim Leng<br>许金良
-46 || Ammirul Emmran
-47 || Jeffrey Adam Lightfoot
-48 || Firdaus Mohd Sham
-49 || Fashah Iskandar
-50 || Irfan Asyraf Mohd Aziz
-51 |Gymnastics | Miki Erica Nomura<br>野村 美喜 | Rhythmic Team (W)
-52 || Phaan Yi Lin<br>潘毓苓
-53 || Chia Shing Eng Cecilia<br>谢欣恩
-54 || Sim Kwee Peng Ann<br>沈桂萍
-55 || Vivien Ho<br>何炜燕
-56 || Timothy Tay Kai Cheng<br>郑凯骋 / 鄭凱騁 | Artistic Ind. (M)
-57 || Rachel Giam Pei Shi<br>严佩诗 | Artistic Ind. (W)
-58 | Handball | Izzat Hashim | Team (M)
-59 || Clement Choong<br>钟镇安
-60 || Oscar Ooi<br>黄军豪
-61 || Pritpal Singh
-62 || Ryan Goh<br>许竖贤
-63 || Jason Tan<br>陈俊杰
-64 || Wilmer Tay<br>郑泽峻
-65 || Tow Wen Wei<br>苏文伟
-66 ||  Vinoth Pillay
-67 || Ervin Seth<br>施迪文
-68 || Eugene Foo<br>胡职骏
-69 || Muhd Zahin Mazali
-70 || Koh Jing Li<br>许敬立
-71 || Alvin Low<br>刘俊霆
-72 | Hockey | Ong Pang Chian Samudra<br>王邦权 | Team (M)
-73 || Ng Rui Ming Kevin<br>黄睿明
-74 || Abdul Rahim A Rashid
-75 || Haseef Salim
-76 || Fadzly Adam
-77 || Shahid Manap
-78 || Amirul Asyraf
-79 || Zulfadhli Jasni Ismail
-80 || Al‛fien Mohd Amir
-81 || Nur Ashriq Ferdaus Zulkepi
-82 || Muhd Hidayat Mat Rahim
-83 || Muhd Fadhil Muhd Rizaini
-84 || Karleef Sasi Abdullah
-85 || Silas A Razak
-86 || Rahmat A Jalil 
-87 ||  Shafiq A Rashid
-88 | Judo | Lim Chin Jie<br>林俊杰 | 52-63 kg (M)
-89 || Tang Jing Fang<br>邓静芳 | 66-81 kg (W)
-90 | Modern Pentathlon | Valerie Lim<br>林芷嫣
-91 | Rowing | Joanna Chan Lai Cheng<br>陈丽晶 | JW1X (W)
-92 || Nadzrie Hyckell Hamzah | JM1X (M)
-93 | Sailing | Darren Choy Wong Leong<br>蔡旺龙 | 1 person Dinghy (M)
-94 || Natasha Yokoyama | 1 person Dinghy (W)
-95 || Audrey Yong<br>杨培琳 | Windsurfing (W)
-96 | Shooting | Wu Wenyi<br>吴文义 | 10m Air Pistol (M)
-97 || Lee Shang Hui Carol<br>李赏慧 | 10m Air Rifle (W)
-98 | Swimming | Adeline Winata
-99 || Lim Xiang Qi<br>林香杞
-100 || Chriselle Koh<br>许楹佳
-101 || Cheryl Lim<br>林欣静
-102 || Clement Lim Yong‛en<br>林雍恩 
-103 || Arren Quek Xin Hui<br>郭信辉
-104 || Rainer Ng<br>黄凯伟
-105 || Pang Sheng Jun<br>冯盛均
-106 | Table Tennis | Isabelle Li<br>李思韵 | Singles (W)
-107 || Clarence Chew<br>周哲宇 | Singles (M)
-108 | Taekwondo | Daryl Tan Jia Jun<br>陈佳俊 | Under 55 kg (M)
-109 || Lee Jia Zhe Christopher<br>李佳哲 | Under 73 kg (M)
-110 || Nurul Shafinas Rahman | Under 55 kg (W)
-111 || Nur Zakirah Zakaria | Under 49 kg (W)
-112 | Tennis | Stefanie Tan<br>陈丽云 | Singles (W)
-113 |Triathlon | Scott Ang<br>洪毅强 | Ind. (M)
-114 || Clara Wong<br>黄琬琪 | Ind. (W)
-115 | Volleyball | Peng Yet Ting Dorita<br>彭业婷 |Team (W)
-116 || Chiang Ying Chen Jacqueline<br>蒋縕蓁
-117 || Lim Shu Yu Joelle<br>林姝余
-118 || Chia Kah An Michelle<br>谢佳恩
-119 || Ang Qi Hui<br>洪琪惠
-120 || Seah Siew Hoon<br>谢秀云
-121 || Ng Wei Ting Stephanie<br>黄炜婷
-122 || Tay Hwee Min Cassandra<br>郑惠敏
-123 || Yeo Qian Lin Marylyn<br>杨笺霖
-124 || Cheryl Chan Cai Ting<br>陈彩婷
-125 || Tan Yi Ting<br>陈纡婷
-| 126 | | Loh Ling Ying<br>卢玲颍
-| 127 | | Weightlifting | Law Wei Joel<br>刘伟 | 62 kg (M)
-| 128 | | Jamie Emma Wee<br>黄嘉敏 | 58 kg (W)
-| 129 | Wrestling | Kester Leung<br>梁俊裕 | Freestyle 54 kg (M)
-| 130 | |Puteri Natasha | Freestyle 60 kg (W) |
+| 04 | | Sean To<br>卓稔傑 | 100m Hurdles (M) |
+| 05 | | Goh Wei Nin<br>吴玮宁 | 100m Hurdles (W) |
+| 06 | | Wendy En<br>余敏敏 | 400m (W) |
+| 07 | | Ranjitha Raja | 1,000m (W) |
+| 08 | | Liang We<br>梁微 | 100m (W) |
+| 09 | Badminton | Huang Cha<br>黄超 | Singles (M) |
+| 10 | Basketball | Ng Hannah Jia Hu<br>黄嘉慧 | Team (W) |
+| 11 | | Tok Huimi<br>卓慧敏 |
+| 12 | | Eng Zo<br>翁如仪 |
+| 13 | | Lim Rui Jia Alann<br>林芮嘉 |
+| 14 | | Su Mingrong Jabe<br>苏铭荣 | Team (M) |
+| 15 | | Low Wenqiang Russel<br>刘文强 |
+| 16 | | Tan Jun We<br>陈俊伟 |
+| 17 | | Liew Larry Hua Se<br>刘华森 |
+| 18 | Boxing | Mohd Hanurdeen Hamid | Lt Fly Wt 48 kg (M) |
+| 19 | Canoeing | Brandon Ooi Wei Chen<br>黄伟成 | K1 (M) |
+| 20 | | Wang Nan Fen<br>袁南凤 | K1 (W) |
+| 21 | Cycling | Alvin Poo<br>潘 辉 智 | Mass start, Race (M) |
+| 22 | | Koh Jun Jie Daniel | Mass start, X-country (M) |
+| 23 | | Travis Woodford | Mass start, Time Trial (M) |
+| 24 | | Nur Nasthasia Nadiah | Road, MB, BMX (W) |
+| 25 | Diving | Timothy Le<br>李含光 | Ind. (M) |
+| 26 | | Chloe Cha<br>陈淑琳 | Ind. (W) |
+| 27 | | Myra Le<br>李佳纹 | Ind. (W) |
+| 28 | Equestrian | Caroline Che<br>朱佩嘉 | FEI Challenge (W) |
+| 29 | Fencing | Rania Herlina Rahardj<br>陈玥桦 | Epee Ind. (W) |
+| 30 | | Liane Wong Ye Yin<br>王业盈 | Foil Ind. (W) |
+| 31 | | Justin Ong Xian Sh<br>王贤士 | Foil Ind. (M) |
+| 32 | | Lim Wei Ha<br>林伟豪 | Epee Ind. (M) |
+| 33 | Football | Amirul Iskandar K Anuar | Team (M) |
+| 34 | | Syazwan Radhi Kasim |
+| 35 | | Hazim Faiz Hassan |
+| 36 | | Hamzah Fazil |
+| 37 | | Muhaimin Suhaimi |
+| 38 | | Dhukhilan Jeevamani |
+| 39 | | Bryan Neubronner |
+| 40 | | Lee Si Qin Illya<br>李思勤 |
+| 41 | | Sunny Ng Qiu Yan<br>黄秋阳 |
+| 42 | | Tan Zen Yang Jonatha<br>陈俊荣 |
+| 43 | | Muhd Syazwan Muhd Zin |
+| 44 | | Hanafi Mohd Akbar |
+| 45 | | Brandon Koh Kim Len<br>许金良 |
+| 46 | | Ammirul Emmran |
+| 47 | | Jeffrey Adam Lightfoot |
+| 48 | | Firdaus Mohd Sham |
+| 49 | | Fashah Iskandar |
+| 50 | | Irfan Asyraf Mohd Aziz |
+| 51 | Gymnastics | Miki Erica Nomur<br>野村 美喜 | Rhythmic Team (W) |
+| 52 | | Phaan Yi Li<br>潘毓苓 |
+| 53 | | Chia Shing Eng Cecili<br>谢欣恩 |
+| 54 | | Sim Kwee Peng An<br>沈桂萍 |
+| 55 | | Vivien H<br>何炜燕 |
+| 56 | | Timothy Tay Kai Chen<br>郑凯骋 / 鄭凱騁 | Artistic Ind. (M) |
+| 57 | | Rachel Giam Pei Sh<br>严佩诗 | Artistic Ind. (W) |
+| 58 | Handball | Izzat Hashim | Team (M) |
+| 59 | | Clement Choon<br>钟镇安 |
+| 60 | | Oscar Oo<br>黄军豪 |
+| 61 | | Pritpal Singh |
+| 62 | | Ryan Go<br>许竖贤 |
+| 63 | | Jason Ta<br>陈俊杰 |
+| 64 | | Wilmer Ta<br>郑泽峻 |
+| 65 | | Tow Wen We<br>苏文伟 |
+| 66 | | Vinoth Pillay |
+| 67 | | Ervin Set<br>施迪文 |
+| 68 | | Eugene Fo<br>胡职骏 |
+| 69 | | Muhd Zahin Mazali |
+| 70 | | Koh Jing L<br>许敬立 |
+| 71 | | Alvin Lo<br>刘俊霆 |
+| 72 | Hockey | Ong Pang Chian Samudr<br>王邦权 | Team (M) |
+| 73 | | Ng Rui Ming Kevi<br>黄睿明 |
+| 74 | | Abdul Rahim A Rashid |
+| 75 | | Haseef Salim |
+| 76 | | Fadzly Adam |
+| 77 | | Shahid Manap |
+| 78 | | Amirul Asyraf |
+| 79 | | Zulfadhli Jasni Ismail |
+| 80 | | Al‛fien Mohd Amir |
+| 81 | | Nur Ashriq Ferdaus Zulkepi |
+| 82 | | Muhd Hidayat Mat Rahim |
+| 83 | | Muhd Fadhil Muhd Rizaini |
+| 84 | | Karleef Sasi Abdullah |
+| 85 | | Silas A Razak |
+| 86 | | Rahmat A Jalil |
+| 87 | | Shafiq A Rashid |
+| 88 | Judo | Lim Chin Ji<br>林俊杰 | 52-63 kg (M) |
+| 89 | | Tang Jing Fan<br>邓静芳 | 66-81 kg (W) |
+| 90 | Modern Pentathlon | Valerie Li<br>林芷嫣 |
+| 91 | Rowing | Joanna Chan Lai Chen<br>陈丽晶 | JW1X (W) |
+| 92 | | Nadzrie Hyckell Hamzah | JM1X (M) |
+| 93 | Sailing | Darren Choy Wong Leon<br>蔡旺龙 | 1 person Dinghy (M) |
+| 94 | | Natasha Yokoyama | 1 person Dinghy (W) |
+| 95 | | Audrey Yon<br>杨培琳 | Windsurfing (W) |
+| 96 | Shooting | Wu Weny<br>吴文义 | 10m Air Pistol (M) |
+| 97 | | Lee Shang Hui Caro<br>李赏慧 | 10m Air Rifle (W) |
+| 98 | Swimming | Adeline Winata |
+| 99 | | Lim Xiang Q<br>林香杞 |
+| 100 | | Chriselle Ko<br>许楹佳 |
+| 101 | | Cheryl Li<br>林欣静 |
+| 102 | | Clement Lim Yong‛e<br>林雍恩 |
+| 103 | | Arren Quek Xin Hu<br>郭信辉 |
+| 104 | | Rainer N<br>黄凯伟 |
+| 105 | | Pang Sheng Ju<br>冯盛均 |
+| 106 | Table Tennis | Isabelle L<br>李思韵 | Singles (W) |
+| 107 | | Clarence Che<br>周哲宇 | Singles (M) |
+| 108 | Taekwondo | Daryl Tan Jia Ju<br>陈佳俊 | Under 55 kg (M) |
+| 109 | | Lee Jia Zhe Christophe<br>李佳哲 | Under 73 kg (M) |
+| 110 | | Nurul Shafinas Rahman | Under 55 kg (W) |
+| 111 | | Nur Zakirah Zakaria | Under 49 kg (W) |
+| 112 | Tennis | Stefanie Ta<br>陈丽云 | Singles (W) |
+| 113 | Triathlon | Scott An<br>洪毅强 | Ind. (M) |
+| 114 | | Clara Won<br>黄琬琪 | Ind. (W) |
+| 115 | Volleyball | Peng Yet Ting Dorit<br>彭业婷 | Team (W) |
+| 116 | | Chiang Ying Chen Jacquelin<br>蒋縕蓁 |
+| 117 | | Lim Shu Yu Joell<br>林姝余 |
+| 118 | | Chia Kah An Michell<br>谢佳恩 |
+| 119 | | Ang Qi Hu<br>洪琪惠 |
+| 120 | | Seah Siew Hoo<br>谢秀云 |
+| 121 | | Ng Wei Ting Stephani<br>黄炜婷 |
+| 122 | | Tay Hwee Min Cassandr<br>郑惠敏 |
+| 123 | | Yeo Qian Lin Maryly<br>杨笺霖 |
+| 124 | | Cheryl Chan Cai Tin<br>陈彩婷 |
+| 125 | | Tan Yi Tin<br>陈纡婷 |
+| 126 | | Loh Ling Yin<br>卢玲颍 |
+| 127 | | Weightlifting | Law Wei Joe<br>刘伟 | 62 kg (M) |
+| 128 | | Jamie Emma We<br>黄嘉敏 | 58 kg (W) |
+| 129 | Wrestling | Kester Leun<br>梁俊裕 | Freestyle 54 kg (M) |
+| 130 | | Puteri Natasha | Freestyle 60 kg (W) |
 
+---
 
+###### Annex B - Profile Of Chef De Mission
 
-Annex B - Profile Of Chef De Mission
-
-**James Wong
-<br>
+**James Wong<br>
 Chef de Mission, Singapore**
 
 James Wong is one of Team Singapore's most prolific athletes in our nation's short sporting history. Having won nine Gold Medals in total at the SEA Games, the discus thrower also holds the national record for discus throwing.
@@ -212,37 +182,54 @@ James is a great source of inspiration and motivation to the young Team Singapor
 
 Hailed as one of the top 50 athletes in Singapore, James is glad that our young Team Singapore athletes get to compete against the best of youth as it will strengthen their belief that Singapore can compete at an international level. He also has faith that our athletes can put on an impressive display of excellence, friendship and respect, making our national a household name in the sports world.
 
-**For media enquiries on Team Singapore, please contact:**
-<br>
-Lin Kuek
-<br>
-Caelan & Sage Pte Ltd
-<br>
-Office: 6297 0636
-<br>
+---
+
+###### For media enquiries, please contact:
+
+Lin Kuek<br>
+Caelan & Sage Pte Ltd<br>
+Office: 6297 0636<br>
 Email: [lin@caelansage.com](mailto:lin@caelansage.com)
 
-Tanty Nazlianah Rosli
-<br>
-Manager
-<br>
-Public & Media Relations
-<br>
-Singapore Sports Council
-<br>
-Office: 6500 5241
-<br>
+Tanty Nazlianah Rosli<br>
+Manager<br>
+Public & Media Relations<br>
+Singapore Sports Council<br>
+Office: 6500 5241<br>
 Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
-For media queries on NTUC FairPrice Foundation Sports <br>
-Scholarship, please contact:
-<br>
-Winston Ng
-<br>
-Corporate Communications
-<br>
-NTUC FairPrice
-<br>
-DID: 6424 7895
-<br>
+For media queries on NTUC FairPrice Foundation Sports<br>
+Scholarship, please contact:<br>
+Winston Ng<br>
+Corporate Communications<br>
+NTUC FairPrice<br>
+DID: 6424 7895<br>
 Email: [Winston.ng@fairprice.com.sg](mailto:Winston.ng@fairprice.com.sg)
+
+---
+
+###### About the Singapore National Olympic Council
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.sportsingapore.gov.sg
+
+Join SSC on Twitter at: www.twitter.com/singaporesports
+
+Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+
+###### About Team Singapore
+Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
+
+The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
+
+Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
+
+For further information, please visit www.teamsingapore.com.sg.
+
+###### About NTUC FairPrice Foundation
+NTUC FairPrice cares about our customers and the community. It is committed to donate $50 million by 2018 to NTUC FairPrice Foundation to help achieve its goal. NTUC FairPrice Foundation, a registered charity completely funded by NTUC FairPrice, upholds its mission to "Provide a Better Life for the Community". NTUC FairPrice Foundation focuses its giving on three strategic thrusts - the poor and needy, nation building and community bonding, and advancing workers' welfare. Since inception in March 2008, the Foundation has donated over $17 million in cash and gifts-in-kind to various causes. For more information on NTUC FairPrice Foundation, please visit www.fairpricefoundation.org.
