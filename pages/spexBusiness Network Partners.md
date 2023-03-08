@@ -122,3 +122,10 @@ As the only Southeast Asia focused expert network, Sealed connects the region's 
 
 HYDRAGUN is a direct-to-consumer performance tech brand. Founded in Singapore, the brand is now available on three continents and expanding fast. Its ultra-quiet premium massage guns are used and loved by Olympians, world champions, and other peak performers worldwide.
 
+**[KPMG](http://www.kpmg.com/sg/en/careers/experiencedprofessionals/current-opportunities/pages/default.aspx)**
+
+KPMG operates as an international network of member firms offering audit, tax and advisory services. It works closely with clients to mitigate risks and grasp opportunities. The firms' clients include business corporations, governments and public sector agencies and not-for-profit organisations.
+
+**[Ministry of Culture, Community and Youth (MCCY)](https://www.mccy.gov.sg/careers.aspx)**
+
+The Ministry of Culture, Community and Youth (MCCY) seeks to inspire Singaporeans through the arts and sports, deepen a sense of identity and belonging to the nation, strengthen community bonds, engage youths and promote volunteerism and philanthropy, to build a gracious and caring society we are proud to call home.
