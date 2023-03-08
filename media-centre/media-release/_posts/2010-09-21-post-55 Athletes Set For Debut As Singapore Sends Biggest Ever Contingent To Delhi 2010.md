@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-55 Athletes Set For Debut As Singapore Sends Biggest Ever Contingent To Delhi 2010
+## **55 Athletes Set For Debut As Singapore Sends Biggest Ever Contingent To Delhi 2010**
 Singapore , 21 Sep 2010
 
 55 ATHLETES SET FOR DEBUT AS SINGAPORE SENDS BIGGEST EVER CONTINGENT TO DELHI 2010
@@ -337,33 +337,3 @@ Table Tennis
 Weightlifting
 
 4-12 October 2010
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
