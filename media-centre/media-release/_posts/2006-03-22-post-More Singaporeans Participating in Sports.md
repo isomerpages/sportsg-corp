@@ -23,7 +23,7 @@ Overall, the top three most popular sports in Singapore are jogging, swimming an
 The NSPS is nationwide research conducted by the SSC once every five years. Its primary objective is to gauge the level of sports participation and recreational physical activity in Singapore.
 
 **For media enquiries, please contact:**
-<br>
+
 Ms Daphne Chiang
 <br>
 Senior Executive
