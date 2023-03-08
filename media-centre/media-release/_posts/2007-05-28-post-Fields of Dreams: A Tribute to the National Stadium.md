@@ -29,8 +29,8 @@ After the last ball has been kicked, the closing ceremony will commence, hosted 
 Concludes Mr Oon Jin Teik, CEO of co-organiser Singapore Sports Council, "It's going to be a night to remember. And we invite the public to come together, relive memories, and bid a final goodbye to the stadium. She has served us well for 34 years, and the entire event is a fitting tribute to close one chapter and open the next."
 
 
-##### **Ticketing Information**
-
+**Ticketing Information**
+<br>
 "Field of Dreams - A Tribute to the National Stadium"<br>
 Tickets sold through SISTIC website (www.sistic.com.sg), authorized agents and telephone hotline (Tel: 6348 5555).
 
@@ -43,8 +43,8 @@ $20 Adult (excl. $2 SISTIC fee) / $12 Child/Student (excl. $1 SISTIC fee)
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Susmita Dayanandan
 <br>
 Senior Executive, (Corporate & Marketing Communications)
