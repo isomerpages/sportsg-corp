@@ -25,25 +25,25 @@ image: ""
 
 8. The contingent and guests were treated to a special photo exhibition presented by CANON, featuring the works of winners of the Canon SEA Games Photo Contest, jointly organised with The Straits Times. Photographers, Mr Wee Keng Hor and Mr Suhaimi Bin Abdullah, bagged the top prize of the competition and were in Vientiane, Laos, to capture key moments of Team Singapore competing at the Games. A selected collection of the photographs depicting highlights of the 25th SEA Games were on display at the MAP Awards tonight.
 
-9. For more information on Team Singapore at the 25th SEA Games, please visit www.teamsingapore.com.sg
+9. For more information on Team Singapore at the 25th SEA Games, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg)
 
----
+<hr>
 
 **For media enquiries, please contact:**
 
-Sheila Rasu/Lorna Campbell
+**Sheila Rasu/Lorna Campbel**l
 <br>
 Fulford Public Relations
 <br>
-Email: srasu@fulfordpr.com / lcampbell@fulfordpr.com
+Email: [srasu@fulfordpr.com](mailto:srasu@fulfordpr.com) / [lcampbell@fulfordpr.com](mailto:lcampbell@fulfordpr.com)
 
-Hazwani Hasni
+**Hazwani Hasni**
 <br>
 Singapore Sports Council
 <br>
 Office: 6500 5246
 <br>
-Email: hazwani_hasni@ssc.gov.sg
+Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
 **About Team Singapore**
 <br>
@@ -52,15 +52,15 @@ Originally mooted by the then-Ministry of Community Development and Sports, Team
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-For further information, please visit www.teamsingapore.com.sg
+For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg)
 
 **About the Singapore National Olympic Council**
 <br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
 **About the Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
+
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at [www.ssc.gov.sg](www.ssc.gov.sg) for more information.
 
 About the Multi-Million Dollar Award Programme (MAP) Awards
 
@@ -158,16 +158,16 @@ MAP AWARDS RECIPIENTS
 
 LIST OF APPRECIATION PLAQUE RECIPIENTS
 
-| S/NO | Appreciation Plaque Recipients ||
-| -------- | -------- | -------- |
-| 1 | NTUC Fairprice Foundation Ltd ||
-| 2 | Nestle (Singapore) Pte Ltd ||
-| 3 | CapitaMalls Asia Ltd ||
-| 4 | National Library Board ||
-| 5 | Clear Channel Singapore Pte Ltd ||
-| 6 | Singapore Press Holdings Ltd ||
-| 7 | MediaCorp Pte Ltd ||
-| 8 | Canon Singapoe Lte Ltd ||
-| 9 | Diners World Travel Pte Ltd ||
-| 10 | Sunrise & Co. (Pte) Ltd ||
-| 11 | Singapore Totalisator Board & Singapore Pools ||
+| S/NO | Appreciation Plaque Recipients |
+| -------- | -------- |
+| 1 | NTUC Fairprice Foundation Ltd
+| 2 | Nestle (Singapore) Pte Ltd
+| 3 | CapitaMalls Asia Ltd
+| 4 | National Library Board
+| 5 | Clear Channel Singapore Pte Ltd
+| 6 | Singapore Press Holdings Ltd
+| 7 | MediaCorp Pte Ltd
+| 8 | Canon Singapoe Lte Ltd
+| 9 | Diners World Travel Pte Ltd
+| 10 | Sunrise & Co. (Pte) Ltd
+| 11 | Singapore Totalisator Board & Singapore Pools
