@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Singapore Named World's Best Sport City**
 
-Singapore Beats Strong European Contenders To Clinch Award
+_Singapore Beats Strong European Contenders To Clinch Award_
 
 **Singapore, 4 November 2010** - Singapore has added another jewel to its crown of international sports accolades by being named the Gold winner for the Sport City Award at the International Sports Event Management (ISEM) Awards 2010 Gala Dinner held at 3am this morning (3 November 2010, 8pm, UK time) at the Twickenham Stadium in London. Other contenders for this prestigious international award this year included Liverpool and London. Previous year's winners included top sports cities such as Manchester and Melbourne.
 
@@ -30,12 +30,12 @@ Singapore Beats Strong European Contenders To Clinch Award
 
 ---
 
-Annex A - [MEDIA RELEASE ISSUED BY INFORMA SPORTS GROUP](/files/Media%20Centre/Media%20Release/2010/Nov/Singapore%20named%20Worlds%20Best%20Sport%20City%20%20Annex%201pdf.pdf) [390 Kb]
-
+Annex A - [MEDIA RELEASE ISSUED BY INFORMA SPORTS GROUP](/files/Media%20Centre/Media%20Release/2010/Nov/Singapore%20named%20Worlds%20Best%20Sport%20City%20%20Annex%201pdf.pdf) [390 Kb]<br>
 Annex B - [ABOUT THE INTERNATIONAL SPORTS EVENT MANAGEMENT (ISEM) AWARDS](/files/Media%20Centre/Media%20Release/2010/Nov/Singapore%20named%20Worlds%20Best%20Sport%20City%20%20Annex%202pdf.pdf) [54 Kb]
 
+---
 
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Dominic Tay
 <br>Senior Manager
@@ -49,14 +49,15 @@ Jose Raymond
 <br>Singapore Sports Council
 <br>Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on[ www.flickr.com]( www.flickr.com)
