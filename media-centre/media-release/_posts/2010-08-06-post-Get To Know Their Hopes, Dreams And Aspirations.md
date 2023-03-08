@@ -32,15 +32,15 @@ statics0
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
-
+<br>
 Join SSC on Twitter at: www.twitter.com/singaporesports
-
+<br>
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-About Let's Play
-statics0
+
+**About Let's Play**
+<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg
 statics0
 About StarHub
@@ -48,10 +48,12 @@ statics0
 StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services.
 
 Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MCSI Singapore Free Index.
-statics0
+
+
 ANNEX A
 Inspiring Sporting Singapore Photography Exhibition Venues from 6 to 31 August 2010
-statics0
+
+
 CDC DISTRICT
 
 Public Libraries
@@ -125,4 +127,3 @@ Patricia Yee
 <br>Singapore Sports Council
 <br>Office: 6500 5246
 <br>Email: patricia_yee@ssc.gov.sg
-
