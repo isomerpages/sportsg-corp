@@ -8,9 +8,9 @@ image: ""
 ---
 ### **Preparation For The First-Ever Asian Youth Games Shifts Into High Gear**
 
-Confirmed sports programme and appointment of competition managers unveiled at the Sports Networking Session 2009
+_Confirmed sports programme and appointment of competition managers unveiled at the Sports Networking Session 2009_
 
-Singapore, 13 February 2009 - The Singapore Asian Youth Games Organising Committee (SAYGOC) announced the details of the sports programme for the world's first Asian Youth Games (AYG) at Singapore Sports Council's (SSC) Sports Networking Session this evening.
+**Singapore, 13 February 2009** - The Singapore Asian Youth Games Organising Committee (SAYGOC) announced the details of the sports programme for the world's first Asian Youth Games (AYG) at Singapore Sports Council's (SSC) Sports Networking Session this evening.
 
 2. The AYG, which will be held from 29 June to 7 July 2009, will feature a total of 90 events across 9 sports - aquatics (swimming and diving), athletics, basketball FIBA 33 (3-on-3), beach volleyball, bowling, football, sailing, shooting and table tennis. Football will be kicking off two weeks prior to the official opening of the game, beginning 17 June 2009 onwards to accommodate the qualifying rounds prior to the start of the main rounds.
 
@@ -24,14 +24,14 @@ Singapore, 13 February 2009 - The Singapore Asian Youth Games Organising Committ
 
 7. The Sports Networking Session is one of many platforms the SSC has introduced to facilitate open communication with stakeholders and partners in the sporting fraternity.
 
-**Enclosures:**
-<br>
-[Annex A - AYG Singapore 2009 Fact Sheet](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20A%20%2020Fact%20Sheet%20on%20AYG%20Singapore%202009pdf.pdf)
-<br>
-[Annex B - AYG Singapore 2009 Sports Events & Sports Venues]([](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20B%20%20List%20of%20Sports%20Events.pdf))
-<br>
+---
+
+###### Enclosures
+[Annex A - AYG Singapore 2009 Fact Sheet](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20A%20%2020Fact%20Sheet%20on%20AYG%20Singapore%202009pdf.pdf)<br>
+[Annex B - AYG Singapore 2009 Sports Events & Sports Venues]([](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20B%20%20List%20of%20Sports%20Events.pdf))<br>
 [Annex C - AYG Singapore 2009 Competition Managers](/files/Media%20Centre/Media%20Release/2009/February/AYG%20Annex%20C%20%20List%20of%20Competition%20Managerspdf.pdf)
 
-**About the 1st Asian Youth Games Singapore 2009**
-<br>
+---
+
+###### About the 1st Asian Youth Games Singapore 2009
 The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore's Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia's (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG which will be co-organised by the Singapore Sports Council and the Ministry of Education aims to gather the youth from around Asia in a celebration of youth, sports and learning where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 180 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.sg for more information.
