@@ -10,7 +10,8 @@ image: ""
 
 K1 KARTING SERIES 2010 HITS THE HEARTLANDS
 Organisers Bring High Octane Action To Over 10,000 People As Singapore Gears Up For The 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX
-Singapore, 31 July 2010 - The K1 Karting Series (K1) promises to bring onboard new exciting programmes to the heartlands from today to 12 September 2010, providing entertainment and exhilaration to various corners of Singapore, in the lead-up to the 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX.
+
+**Singapore, 31 July 2010** - The K1 Karting Series (K1) promises to bring onboard new exciting programmes to the heartlands from today to 12 September 2010, providing entertainment and exhilaration to various corners of Singapore, in the lead-up to the 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX.
 
 2. Through the inception of K1 in 2007, Singapore Sports Council (SSC) has lent its support to the series, which reached out to close to 20 locations across Singapore and to more than 100,000 residents. This year, apart from the general public, K1 aims to reach out to school students through dedicated karting hours for the latter, beginning with its first pit-stop today at the Jalan Besar Sports Fest.
 
