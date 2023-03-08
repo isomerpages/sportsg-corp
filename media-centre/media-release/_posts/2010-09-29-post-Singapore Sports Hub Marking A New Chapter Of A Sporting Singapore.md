@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore Sports Hub - Marking A New Chapter Of A Sporting Singapore**
-
-SINGAPORE SPORTS HUB - MARKING A NEW CHAPTER OF A SPORTING SINGAPORE
+### **Singapore Sports Hub - Marking A New Chapter Of A Sporting Singapore**
 
 **Singapore, September 29, 2010** - Singapore's sporting landscape marks a new and very significant milestone today with the official groundbreaking ceremony of the new Singapore Sports Hub.
 
@@ -30,10 +28,29 @@ SINGAPORE SPORTS HUB - MARKING A NEW CHAPTER OF A SPORTING SINGAPORE
 
 10. "The old National Stadium was an icon in its own right - where many of Singapore?s best memories were made. We can only aim to better this with the completion of what will be another national - and hopefully international - landmark, a place Singaporeans can look on with pride, and where everyone can do their part to create more lasting memories for Singapore."
 
--End-
+---
 
-**About Singapore Sports Hub**
-<br>
+Annex A - [Partner Profiles](/files/Media%20Centre/Media%20Release/2010/Sept/Partner%20Profilespdf.pdf) [214 Kb]<br>
+Annex B - [Sports Hub Fact Sheet ](/files/Media%20Centre/Media%20Release/2010/Sept/SportsHubFact%20Sheetpdf.pdf)[121 Kb]<br>
+Annex C - [Stadium Roads Closure Media Advisory](/files/Media%20Centre/Media%20Release/2010/Sept/Media%20AdvisoryStadium%20Roads%20Closurepdf.pdf) [125 Kb]
+
+---
+
+###### For media enquiries, please contact:
+
+Linda Fulford<br>
+Fulford Public Relations<br>
+DID: 6324 2268<br>
+Email: [lfulford@fulfordpr.com](lfulford@fulfordpr.com)
+
+Samantha See<br>
+Fulford Public Relations<br>
+DID: 6324 5293<br>
+Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
+
+---
+
+###### About Singapore Sports Hub
 The Sports Hub will be Singapore's premier land and water sports, entertainment and lifestyle hub with integrated programming.
 
 A unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation and take sports to the next level in Singapore.
@@ -50,18 +67,3 @@ Located on a 35ha site in Kallang, the Singapore Sports Hub will include the fol
 The Sports Hub, which is currently under construction, is the largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world. It is also Singapore's largest and flagship PPP project of this nature.
 
 For more information, please visit the Singapore Sports Hub website: [http://www.sportshub.com.sg](http://www.sportshub.com.sg)
-
-Annex A- [Partner Profiles](/files/Media%20Centre/Media%20Release/2010/Sept/Partner%20Profilespdf.pdf) [214 Kb]
-Annex B - [Sports Hub Fact Sheet ](/files/Media%20Centre/Media%20Release/2010/Sept/SportsHubFact%20Sheetpdf.pdf)[121 Kb]
-Annex C - [Stadium Roads Closure Media Advisory](/files/Media%20Centre/Media%20Release/2010/Sept/Media%20AdvisoryStadium%20Roads%20Closurepdf.pdf) [125 Kb]
-
-For media enquiries, please contact:
-<br>Linda Fulford
-<br>Fulford Public Relations
-<br>DID: 6324 2268
-<br>Email: [lfulford@fulfordpr.com](lfulford@fulfordpr.com)
-
-Samantha See
-<br>Fulford Public Relations
-<br>DID: 6324 5293
-<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
