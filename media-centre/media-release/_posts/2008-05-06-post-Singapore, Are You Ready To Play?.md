@@ -36,6 +36,7 @@ Singapore, 6 May 2008 - Singapore, are you ready to play? This is the Singapore 
 
 9. In order to communicate the 'Let's Play' movement to everyone in Singapore, the SSC will be embarking on a publicity initiative starting with a television commercial and advertisements in newspapers from 7 May 2008 onwards. There will be even a contest at Orchard MRT where the public has to guess the sports featured. In addition, roadshows will be held at different venues around Singapore to entice the public to participate in sports. More details on this will be available on Singapore Sports.
 
-**About 'Let's Play'**
-<br>
+---
+
+###### About 'Let's Play'
 'Let's Play' is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to involved in sports, in all ways, at all times, simply because they enjoy it. Be it playing, watching, cheering, spectating, volunteering, the 'Let's Play' movement seeks to "Energise life through sports' diverse offer of enjoyable moments and shared experiences." For more information on 'Let's Play', please visit Singapore Sports.
