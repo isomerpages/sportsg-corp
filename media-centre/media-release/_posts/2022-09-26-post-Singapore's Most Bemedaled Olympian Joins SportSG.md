@@ -11,7 +11,7 @@ image: ""
 * Feng Tianwei will work on the development of sport pathways for children and youth
 * She will pursue a 2-year Master's degree in sports industry management overseas concurrently
 
-![](/images/Media%20Centre/Media%20Release/2022/Sep/TeamSG%20athletes%20welcome%20Feng%20Tianwei.jpeg)
+![TeamSG athletes welcome Feng Tianwei to SportSG.](/images/Media%20Centre/Media%20Release/2022/Sep/TeamSG%20athletes%20welcome%20Feng%20Tianwei.jpeg)
 *TeamSG athletes welcome Feng Tianwei to SportSG. (Photo Credit: SportSG)*
   
 *(From top left in clockwise direction) Fariza Begum (Floorball athlete), Lim Teck Yin (SportSG CEO), Feng Tianwei (Table Tennis athlete), Shakir Juanda (Former Silat athlete), Vanessa Neo (Former badminton athlete), Su Chun Wei (Chief of Singapore Sport Institute, SportSG), Aleksandar Duric (Former football athlete), Lim Tong Hai (Former football athlete), Razali Saad (Former football athlete)*
@@ -29,3 +29,5 @@ Under the Sport Excellence (or spex) framework, there are different schemes to s
 Several former national athletes have joined SportSG, for example ex-footballers Lim Tong Hai, Aleksandar Duric and Razali Saad, ex-pencak silat athlete and two-times world champion Muhammad Shakir Juanda and ex-shuttler Vanessa Neo. There are also current athletes within the organisation, such as pentathlete Shermaine Tung and floorball athlete Fariza Begum.
 
 Other initiatives under the spex framework include spexEducation, which enables student-athletes to balance demands of sports and education by providing support to them in areas such as educational counselling, school admissions and alternative academic arrangements; spexBusiness, which assists active or retiring athletes connect with spexBusiness network partners companies to offer employment, internships, apprenticeships, and extend flexible working arrangements to accommodate sporting commitments; and Athlete Life, which looks at integrating sports performance with the social, personal and professional development of the athlete.
+
+END
