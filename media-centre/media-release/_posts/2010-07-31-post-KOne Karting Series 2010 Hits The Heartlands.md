@@ -42,9 +42,9 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 **About Let's Play**
 <br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg
-statics0
-About CS Racing Pte Ltd
-statics0
+
+**About CS Racing Pte Ltd**
+<br>
 CSR was established in 2005 with the vision to develop the motorsport industries in Singapore and regionally. CSR provides professional motorsport related consultancy and delivers effective race management services. CSR was done as CS Autolab prior to 2005. First established in 1996, the company provided race engineering expertise and motorsport consultancy to regional clients as far as China. With more than 15 years of experience in motorsport, the CSR team has conducted defensive, advance, and performance driving courses as well as managed race teams at international level.
 
 CS Racing is the trademark owner of K1 Motorsports Series. K1 was an initiative started in 2007 to promote motorsports to the community through go karting at an affordable level. Since its inception, it has reached out to more than 100,000 residents and covered close to 20 locations all over Singapore.
