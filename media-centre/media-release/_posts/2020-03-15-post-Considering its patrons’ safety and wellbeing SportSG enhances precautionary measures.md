@@ -18,7 +18,7 @@ image: ""
 
 From 16 March, all ActiveSG sport centres will implement regulated access to ensure adequate physical distancing among users. This applies to all stadiums, sport halls, gyms, swimming complexes and studios. ActiveSG facilities, where possible, will implement a single point of entry to facilitate temperature taking and recording of visitor details.
 
-Mr Lim Teck Yin, CEO, SportSG, said: “We have come up with these measures to enable socially responsible behaviour. Regulating the number of people at our facilities helps to increase personal space and allows one to adopt physical distancing. I would like Singaporeans to continue to stay fit and healthy. Physical distancing, wiping down the equipment after use and refraining from visiting our premises if you are sick, are ways in which we can do our part as SG United.”
+Mr Lim Teck Yin, CEO, SportSG, said: “We have come up with these measures to enable socially responsible behaviour. Regulating the number of people at our facilities helps to increase personal space and allows one to adopt physical distancing. I would like Singaporeans to continue to stay fit and healthy. Physical distancing, wiping down the equipment after use and refraining from visiting our premises if you are sick, are ways in which we can do our part as SGUnited.”
 
 ##### **Gyms and studios**
 
