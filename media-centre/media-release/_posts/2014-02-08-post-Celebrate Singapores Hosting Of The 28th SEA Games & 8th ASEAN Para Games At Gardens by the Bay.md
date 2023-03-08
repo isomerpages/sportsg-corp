@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 ### **Celebrate Singapore's Hosting Of The 28th SEA Games & 8th ASEAN Para Games At Gardens by the Bay**
-**_Ngee Ann Polytechnic celebrate everyday extraordinary efforts_**
+_Ngee Ann Polytechnic celebrate everyday extraordinary efforts_
 
 Come 15 February, Singapore will celebrate the start of the 28th SEA Games and 8th ASEAN Para Games journeys in a sports carnival-cum-concert showcasing the launch of original SEA Games compositions by local bands and artistes and the official logos, mascot and theme of the Games.
 
@@ -47,7 +47,7 @@ Recognising the daily challenges everyone faces such as the daily challenges of 
 
 **EXTRAORDINARY ART**
 ![2 EXTRAORDINARY ART](/images/Media%20Centre/Media%20Release/2014/February/2%20EXTRAORDINARY%20ART.jpeg)
-**Ordinary Colors Paint An Extraordinary Picture**
+*Ordinary Colors Paint An Extraordinary Picture*
 
 Hosted by student radio deejays from Ngee Ann Polytechnic, spectators to the LionsXII match against Terengganu Football Association will be treated to a side-event and create art using paint, darts and footballs.
 
@@ -72,31 +72,28 @@ HP: (65) 9796 2911
 
 Rachel Ang  
 Media Relations, Singapore Sports Council  
-[rachel\_ang@ssc.gov.sg](mailto:rachel\_ang@ssc.gov.sg)  
+[rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)  
 Tel: (65) 6500 5246  
 HP: (65) 9729 3700
 
-**About Voice**  
+##### **About Voice**  
 Voice is a student-led, student-supported agency birthed by students from the Diploma of Advertising and Public Relations course in Ngee Ann Polytechnic’s School of Film and Media Studies (FMS). Voice’s efforts focus on developing their final year project, ‘Something Worth Celebrating’ for the publicity of the 28th SEA Games Launch Event. Liaising and working with industry professionals, Voice uses the various skills taught in the preliminary years of the diploma, to handle the Public Relations and Events Planning, Digital and Social Media, Production and Logistics, Research and Development, Media Planning, Creatives and Account Servicing aspects of the campaign.
 
-**About Singapore Sports Council**  
+##### **About Singapore Sports Council**  
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.  
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [[www.Vision2030.sg](www.Vision2030.sg)] and [SingaporeSports.sg](SingaporeSports.sg) 
-Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)  
-For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-  
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [[www.Vision2030.sg](www.Vision2030.sg)] and [SingaporeSports.sg](SingaporeSports.sg). 
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports).  
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography).
 
-**About Singapore National Olympic Council (SNOC)** 
+ 
+##### **About Singapore National Olympic Council (SNOC)** 
 
 The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
   
 
-**Follow us on:** 
-
-28th SEA Games Website: [[www.seagames2015.com](www.seagames2015.com)]
-
-28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)
-
-8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)
+**Follow us on:**<br>
+28th SEA Games Website: [[www.seagames2015.com](www.seagames2015.com)]<br>
+28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)<br>
+8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)<br>
