@@ -30,7 +30,9 @@ Minister Teo also presented the 2008 International Olympic Committee (IOC) "Spor
 
 The Singapore Sports Awards 2008 captured the pinnacle of Singapore's sports in 2007, and signalled the beginning of another great journey for Team Singapore towards this year's Beijing Olympics in August.
 
-**For media inquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Ms Hazwani Hasni
 <br>
@@ -56,10 +58,10 @@ Office: 65385132
 <br>
 Mobile: 9841 9354
 
-**About Singapore National Olympic Council**
-<br>
+---
+
+###### About Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
