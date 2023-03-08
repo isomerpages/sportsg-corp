@@ -8,9 +8,8 @@ image: ""
 ---
 ### **SCC Press Release**
 
-#### **'LIVE LIFE, BREATHE SPORTS'**
-
-**SPORTING CULTURE COMMITTEE RELEASES ITS RECOMMENDATIONS**
+**'LIVE LIFE, BREATHE SPORTS'**
+_Sporting Culture Committee Releases Its Recommendations_
 
 The Sporting Culture Committee (SCC) released its report today, detailing 23 recommendations to catalyse the growth of an inclusive sporting community, groom our own sporting heroes to bring home international glory, and develop a dynamic sports industry that generates economic opportunities.
 
@@ -24,13 +23,16 @@ The Sporting Culture Committee (SCC) released its report today, detailing 23 rec
 
 6. The Sporting Culture Committee has submitted its report to MCYS. The Ministry will study the recommendations and give its response during the Committee of Supply sessions in March.
 
-ISSUED BY THE MINISTRY OF COMMUNITY DEVELOPMENT, YOUTH AND SPORTS.
+Issued by The Ministry Of Community Development, Youth and Sports.
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Yvonne Lum
 <br>
-Assistant Manager, Communications and International Relations <br>
+Assistant Manager, Communications and International Relations
+<br>
 Division (CIRD), MCYS
 <br>
 DID : 6354 8174
