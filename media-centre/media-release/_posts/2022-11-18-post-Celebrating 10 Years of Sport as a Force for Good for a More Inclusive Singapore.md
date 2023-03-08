@@ -33,7 +33,7 @@ In 2016, SportCares expanded its target segments beyond at-risk and low-income c
 
 “As part of our Vision 2030 masterplan, Sport Singapore committed to working with communities to reach out and impact lives through positive role modelling and experiences through sport.  We have learned much about how genuine care and relationships forged on the field provide hope and fuel belief in oneself, creating the impetus to emerge stronger and more determined to live better,” said Mr Lim Teck Yin, CEO, Sport Singapore. “These 10 years have shown that sport is a powerful platform to bring positive change in the lives of those in need of a caring heart and hand.  We look forward to building our network of partners to broaden outreach and sensibilities on how we can all pitch in to positively impact lives.”
 
----
+**-End-**
 
 **Annexes**
 
