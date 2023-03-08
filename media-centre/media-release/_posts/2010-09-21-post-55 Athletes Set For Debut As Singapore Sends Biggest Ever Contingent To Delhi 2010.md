@@ -8,10 +8,10 @@ description: ""
 image: ""
 ---
 ## **55 Athletes Set For Debut As Singapore Sends Biggest Ever Contingent To Delhi 2010**
-Singapore , 21 Sep 2010
 
 55 ATHLETES SET FOR DEBUT AS SINGAPORE SENDS BIGGEST EVER CONTINGENT TO DELHI 2010
-Singapore, 21 September 2010 - The 19th Commonwealth Games Delhi 2010 will see Singapore not only sending its largest-ever contingent comprising 68 athletes and 34 officials, but also a relatively young contingent with 55 debutants and 29 athletes who are aged 21 years and below.
+
+**Singapore, 21 September 2010** - The 19th Commonwealth Games Delhi 2010 will see Singapore not only sending its largest-ever contingent comprising 68 athletes and 34 officials, but also a relatively young contingent with 55 debutants and 29 athletes who are aged 21 years and below.
 
 2 Team Singapore will be represented in 8 out of the 17 sporting events featured at this year's Games, as well as in three Para-Sports events - Para-Swimming, Para-Athletics and Para-Powerlifting.
 
