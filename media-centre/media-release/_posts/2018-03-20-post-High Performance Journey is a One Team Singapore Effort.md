@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **High Performance Journey is a One Team Singapore Effort**
+### **High-Performance Journey is a One Team Singapore Effort**
 
 * Athletes, Parents, Coaches, Officials, Sport Specialists, NSAs, Corporates, Institutions come together to celebrate as One
 * 5th year of spexScholarship programme boasts biggest cohort of 78 scholars across 24 sports with 17 new scholars
@@ -15,7 +15,7 @@ image: ""
 
 **Singapore 20 March 2018** – It can be one person’s dream to be the best; but the journey to inspire the nation through sporting excellence involves many. The gathering at the ‘Celebrate What’s Right’ event saw members of this sporting ecosystem come together to reaffirm their support for the journey, as well as, welcome new athletes to the spexScholarship programme this year.
 
-Honouring the occasion, Minister for Culture, Community and Youth Ms Grace Fu said, “It’s heartening to see the stakeholders of our High Performance Sports system come together to celebrate our continued partnership. It takes a community, including the national sports associations (NSAs), corporations and schools, working together to support our national athletes as One Team Singapore.”
+Honouring the occasion, Minister for Culture, Community and Youth Ms Grace Fu said, “It’s heartening to see the stakeholders of our High-Performance Sports system come together to celebrate our continued partnership. It takes a community, including the national sports associations (NSAs), corporations and schools, working together to support our national athletes as One Team Singapore.”
 
 Ms Fu also encouraged the NSAs to strengthen their support for athletes. She added, “In this long journey of athlete development, NSAs play a crucial role. I would like to urge NSAs to develop a comprehensive and sustained long-term plan, with clarity of purpose, and put in place a strong professional team to implement the plan.”
 
