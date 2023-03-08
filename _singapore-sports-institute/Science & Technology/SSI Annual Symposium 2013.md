@@ -25,3 +25,12 @@ Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20a
 Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Speakers20Profile.pdf) to download the pdf version of the SSI Annual Symposium 2013 Speakers' Profile and Synopsis (correct as of 10 July 2013)
 
 #### **SSI Annual Symposium Presentations**
+* [Click here to download the pdf version Keynote Presentation 1 - Dr Ken van Someren](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Keynote2012020Dr20Ken20van20Someren.pdf)
+* [Click here to download the pdf version Keynote Presentation 2 - Dr Takashi Katsuta](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Keynote2022020Katsuta.pdf)
+* [Click here to download the pdf version of Presentation - Dr Marcus Lee](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Dr20Marcus20Lee2020Web20Version.pdf)
+* [Click here to download the pdf version of Presentation - Dr Ong Wee Sian](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Dr20Ong20Wee20Sian2020Health20Issues20of20Female20Athletes.pdf)
+* [Click here to download the pdf version of Presentation - Dr Raymond So](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Dr20Raymond20So2020H.pdf)
+* [Click here to download the pdf version of Presentation - Ms Maki Shibasaki](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Ms20Maki20Shibasaki2020Nutrition20.pdf)
+* Click here to download the pdf version of Presentation - Dr Peter Usher
+* [Click here to download the pdf version of Presentation - Prof Hong Ping](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Prof20Hongping.pdf)
+* Click here to download the pdf version of Presentation - Mr Shaunak Ahuja
