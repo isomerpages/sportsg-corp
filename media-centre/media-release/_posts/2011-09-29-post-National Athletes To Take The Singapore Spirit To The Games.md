@@ -8,9 +8,9 @@ image: ""
 ---
 ### **National Athletes To Take The Singapore Spirit To The Games**
 
-The SSC Partners NTUC FairPrice to Launch Nationwide Well-Wishing Campaign for Team Singapore
+_The SSC Partners NTUC FairPrice to Launch Nationwide Well-Wishing Campaign for Team Singapore_
 
-Singapore, 29 September 2011 - The Singapore Sports Council (SSC), in partnership with NTUC FairPrice (FairPrice), has launched a drive to gather well-wishes for Team Singapore by getting the public to share their everyday stories of determination, perseverance and grit. Singaporeans can dedicate the values they feel best represent the Singapore Spirit for the athletes to take to the 26th Southeast Asian Games and the 6th ASEAN Para Games happening in Indonesia this November and December respectively.
+**Singapore, 29 September 2011** - The Singapore Sports Council (SSC), in partnership with NTUC FairPrice (FairPrice), has launched a drive to gather well-wishes for Team Singapore by getting the public to share their everyday stories of determination, perseverance and grit. Singaporeans can dedicate the values they feel best represent the Singapore Spirit for the athletes to take to the 26th Southeast Asian Games and the 6th ASEAN Para Games happening in Indonesia this November and December respectively.
 
 2. Madam Halimah Yacob, Minister of State for Community Development, Youth and Sports who graced the event at FairPrice Xtra @ nex was the first to pen her well-wish, by pledging the value of "Dedication" for Team Singapore to take to the Games. She was joined by Mr Lim Teck Yin, Chief Executive Officer, SSC; Mr Gerry Lee, Managing Director (Business Groups), NTUC FairPrice; Mr Ee Tiang Hwee, Chef-de-Mission for the 6th ASEAN Para Games and Mr Antony Lee, Assistant Chef-de-Mission for Team Singapore at the 26th SEA Games. Team Singapore athletes - New Hui Fen (Bowling), Mohammad Afiq Yunos (Football), Lim Heem Wei (Gymnastics), Mohammad Shakir Juanda (Silat) and Mohammad Firdaus Nordin (Wheelchair Racing), were also present at the event.
 
@@ -34,7 +34,9 @@ Singapore, 29 September 2011 - The Singapore Sports Council (SSC), in partnershi
 
 11. Team Singapore is sending a contingent of more than 400 athletes competing in 37 sports at the 26th SEA Games, held from 11 to 22 November 2011 in Jakarta and Palembang, Indonesia. The 6th ASEAN Para Games held in Solo, Indonesia from 12 to 22 December 2011 will see 36 Team Singapore athletes competing in four sports.
  
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Lin Kuek<br>
 Hill & Knowlton (SEA) Pte Ltd<br>
@@ -45,8 +47,9 @@ Executive, Media Relations<br>
 Singapore Sports Council<br>
 Email: patricia_yee@ssc.gov.sg
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
@@ -57,12 +60,10 @@ For a range of photographs, search for "Singapore Sports Council" on www.flickr.
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
 
-**About the Singapore National Olympic Council**
-<br>
+###### About the Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-**About Team Singapore**
-<br>
+###### About Team Singapore
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -71,12 +72,10 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 
 For further information, please visit www.teamsingapore.com.sg and www.facebook.com/TeamSG.
 
-**About NTUC FairPrice**
-<br>
+###### About NTUC FairPrice
 NTUC FairPrice Co-operative Ltd was founded by the labour movement in 1973, with a social mission to moderate the cost of living in Singapore. From one supermarket, it has grown to become Singapore's largest retailer serving over 350,000 shoppers daily, with a network of more than 250 outlets, comprising FairPrice supermarkets, FairPrice Finest, FairPrice Xtra, FairPrice Xpress and Cheers convenience stores. NTUC FairPrice also owns a Fresh Food Distribution Centre and a centralised warehousing and distribution company.
 
 Today, with its multiple retail formats serving the varied needs and interests of people from all walks of life, NTUC FairPrice has kept pace with the changing needs of its customers while remaining committed to its social mission and its aspiration to be Singapore's leading world-class retailer with a heart. For more information on NTUC FairPrice, visit http://www.fairprice.com.sg.
 
-**About NTUC FairPrice Foundation**
-<br>
+###### About NTUC FairPrice Foundation
 NTUC FairPrice cares about our customers and the community. It is committed to donate $50 million by 2018 to NTUC FairPrice Foundation to help achieve its goal. NTUC FairPrice Foundation, a registered charity completely funded by NTUC FairPrice, upholds its mission to "Provide a Better Life for the Community". NTUC FairPrice Foundation focuses its giving on three strategic thrusts - the poor and needy, nation building and community bonding, and advancing workers' welfare. Since inception in March 2008, the Foundation has donated over $28 million in cash and gifts-in-kind to various causes. For more information on NTUC FairPrice Foundation, please visit www.fairpricefoundation.org.
