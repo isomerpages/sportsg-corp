@@ -28,15 +28,15 @@ Bids will be evaluated on four criteria:
 
 ---
 
-###### Enclosures
+** Enclosures**
 [Annex A: Singapore Sports Hub Consortium Team List]([](/files/Media%20Centre/Media%20Release/2007/February/ANNEXA280207.pdf))<br>
 [Annex B: Singapore Sports Hub Project Timeline](/files/Media%20Centre/Media%20Release/2007/February/ANNEXB280207pdf.pdf)<br>
 [Annex C: Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2007/February/ANNEXC280207pdf.pdf)
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Alvin Hang
 <br>
 Assistant Director (Group Communications)
