@@ -27,13 +27,10 @@ The top two teams in Groups A and B, as well as the top team from Groups C and D
 
 The eight teams in the final round will be divided into two groups (Groups A and B). A round robin will be conducted within each group to decide the semi-finalists. During the semi-finals, the top team from Group A will face-off against the runner-up from Group B while the runner-up from Group A will play against the winner from Group B. The winners will play for the gold medal while the losing semi-finalists will play for bronze.
 
-
 #### **TEAM DRAW RESULTS**
-
-
 ##### **FIBA 33 (BASKETBALL) - BOYS**
 
-GROUP A
+**GROUP A**
 <br>
 A1 Malaysia
 <br>
@@ -45,7 +42,7 @@ A4 United Arab Emirates
 <br>
 A5 Bangladesh
 
-GROUP B
+**GROUP B**
 <br>
 B1 Sri Lanka
 <br>
@@ -57,7 +54,7 @@ B4 Republic of Korea
 <br>
 B5 Qatar
 
-GROUP C
+**GROUP C**
 <br>
 C1 Philippines
 <br>
@@ -69,7 +66,7 @@ C4 Jordan
 <br>
 C5 Mongolia
 
-GROUP D
+**GROUP D**
 <br>
 D1 Singapore
 <br>
@@ -81,7 +78,7 @@ D4 India
 
 ##### **FIBA 33 (BASKETBALL) - GIRLS**
 
-GROUP A
+**GROUP A**
 <br>
 A1 Malaysia
 <br>
@@ -91,7 +88,7 @@ A3 Thailand
 <br>
 A4 Indonesia
 
-GROUP B
+**GROUP B**
 <br>
 B1 Republic of Korea
 <br>
@@ -101,7 +98,7 @@ B3 Japan
 <br>
 B4 Kuwait
 
-GROUP C
+**GROUP C**
 <br>
 C1 People's Republic of China
 <br>
@@ -111,7 +108,7 @@ C3 India
 <br>
 C4 Bahrain
 
-GROUP D
+**GROUP D**
 <br>
 D1 Philippines
 <br>
@@ -124,7 +121,7 @@ D4 Uzbekistan
 
 ##### **FOOTBALL**
 
-GROUP A
+**GROUP A**
 <br>
 A1 Islamic Republic of Iran
 <br>
@@ -134,7 +131,7 @@ A3 Chinese Taipei
 <br>
 A4 Kuwait
 
-GROUP B
+**GROUP B**
 <br>
 B1 Republic of Korea
 <br>
@@ -144,7 +141,7 @@ B3 Myanmar
 <br>
 B4 Pakistan
 
-GROUP C
+**GROUP C**
 <br>
 C1 Malaysia
 <br>
@@ -152,7 +149,7 @@ C2 D.P.R of Korea
 <br>
 C3 Thailand
 
-GROUP D
+**GROUP D**
 <br>
 D1 Hong Kong, China
 <br>
@@ -161,21 +158,11 @@ D2 Saudi Arabia
 D3 Lao P.D.R
 
 
-Issued by the Singapore Asian Youth Games Organising Committee
+_Issued by the Singapore Asian Youth Games Organising Committee_
 
 ---
 
-**About the 1st Asian Youth Games Singapore 2009**
-<br>
-The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore?s Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia?s (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG, which is co-organised by the Singapore Sports Council and the Ministry of Education, aims to gather the youth from around Asia in a celebration of youth, sports and learning, where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 90 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.sg for more information.
-
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
-
-
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Tanty Nazlianah Rosli
 <br>
@@ -204,3 +191,11 @@ Fulford PR
 Mobile: 9116 4804
 <br>
 Email: [lcampbell@fulfordpr.com](mailto:lcampbell@fulfordpr.com)
+
+---
+
+###### About the 1st Asian Youth Games Singapore 2009
+The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore?s Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia?s (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG, which is co-organised by the Singapore Sports Council and the Ministry of Education, aims to gather the youth from around Asia in a celebration of youth, sports and learning, where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 90 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.sg for more information.
+
+###### About Singapore Sports Council
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
