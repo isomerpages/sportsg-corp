@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Standard Chartered Marathon Singapore Receives S$9.75 Million In Funding Over Three Years**
 
-Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Local Running Event**
+_Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Local Running Event_
 
 **Singapore, 2 June 2011** - The sports community in Singapore will have more reasons to run, as Standard Chartered Bank (SCB) announced their continued support of the Standard Chartered Marathon Singapore (SCMS) with a S$9.75 million injection to the event and a three-year partnership with event organiser Singapore Sports Council (SSC) till 2013.
 
@@ -28,8 +28,23 @@ Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Loc
 
 ---
 
-**About the Singapore Sports Council**
-<br>
+###### For media enquiries, please contact:
+
+Samantha See<br>
+Fulford Public Relations<br>
+DID: (65) 6324 9316<br>
+Email: ssee@fulfordpr.com
+
+Tanty Nazlianah Rosli<br>
+Senior Manager<br>
+Media Relations<br>
+Singapore Sports Council<br>
+Office: (65) 6500 5241<br>
+Email: tanty_nazlianah@ssc.gov.sg
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg
@@ -38,9 +53,7 @@ Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/sin
 
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-
-**About Standard Chartered Bank in Singapore**
-<br>
+###### About Standard Chartered Bank in Singapore
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
@@ -50,18 +63,3 @@ Standard Chartered has a history of more than 150 years in Singapore, opening it
 It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
 
 The Bank employs over 7,000 people in Singapore and has a network of 19 branches, 30 ATMs, and 7 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
-
-
-**For media enquiries, please contact:**
-
-Samantha See<br>
-Fulford Public Relations<br>
-DID: (65) 6324 9316<br>
-Email: ssee@fulfordpr.com
-    
-Tanty Nazlianah Rosli<br>
-Senior Manager<br>
-Media Relations<br>
-Singapore Sports Council<br>
-Office: (65) 6500 5241<br>
-Email: tanty_nazlianah@ssc.gov.sg
