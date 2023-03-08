@@ -25,3 +25,12 @@ This year’s symposium is titled “New Frontiers in Elite Sport Performance”
 * [Presentation by Ms Saeko Takahashi - Injury prevention method](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202014/Injury_Prevention_Method_in_HPG_of_JISS_by_Ms_Saeko_Takahashi.pdf)
 * [Presentation by Ms Yeo Hwee Koon - Enhancing Clinical Assessment Sport Specific Functional Screening](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202014/Enhancing_Clinical_Assessment_with_Sport_Specific_Functional_Screening.pdf)
 * [Presentation by Mr Amman Benoit - Video technologies within Elite Sport](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202014/Video_technologies_within_Elite_Sport_Benoit_Ammann_SSI.pdf)
+* [Presentation by Ms Eesha Shah - Use of Social Network Analysis](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202014/Use_of_Social_Network_Analysis_SNA_to_Drive_Interventions_in_Team_Sports_by_Ms_Eesha_Shah.pdf)
+
+**Disclaimer**
+
+Please note that the presentation slides are for your personal reference only. The presenters named above own the rights to the slides and have requested that no part of these slides may be reproduced or copied for any commercial purposes.
+
+**More Information**
+
+For more information, or to register your interest for next year's Symposium, please email [SSC_SSI_Research@ssc.gov.sg](mailto:SSC_SSI_Research@ssc.gov.sg)
