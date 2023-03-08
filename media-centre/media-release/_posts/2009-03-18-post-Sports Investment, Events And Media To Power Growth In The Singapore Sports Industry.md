@@ -9,7 +9,7 @@ image: ""
 ---
 ### **Sports Investment, Events And Media To Power Growth In The Singapore Sports Industry**
 
-Singapore, 18 March 2009 - Against the backdrop of the current economic downturn, encouraging developments from sports investments, events and media continue to power the growth of the Singapore sports industry.
+**Singapore, 18 March 2009** - Against the backdrop of the current economic downturn, encouraging developments from sports investments, events and media continue to power the growth of the Singapore sports industry.
 
 2. "Despite the economic clouds, we remain optimistic about the development of sports in Singapore," said Dr. Vivian Balakrishnan, Minister for Community Development, Youth and Sports at the 4th Annual CEO Networking Session, hosted by the Singapore Sports Council (SSC). "We can find examples of new deals that confirm the long-term strength of the global sports market." Dr. Balakrishnan pointed out the economic benefits Singapore will reap from significant sports events such as the Asian Youth Games and the Youth Olympic Games, and major infrastructural projects such as the Singapore Sports Hub and upcoming Changi Motorsports.
 
@@ -30,7 +30,9 @@ Singapore, 18 March 2009 - Against the backdrop of the current economic downturn
 
 10. This year's CEO Networking Session was held at the F1 Pit Building @ Marina Bay and was attended by more than 100 corporate leaders.
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
  
 S. Parameswaran
 <br>
