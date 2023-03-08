@@ -8,7 +8,7 @@ image: ""
 ---
 ### **SwimSafer Programme Further Enhanced with Re-Certification Courses and Water Safety Workshops for Instructors**
 
-Singapore, 25 July 2011 - Parents now have the opportunity to ensure their children gain the necessary water safety knowledge and survival skills in open water through a new module, SwimSafer Open Water, launched by the National Water Safety Council (NWSC) and the Singapore Sports Council (SSC) today.
+**Singapore, 25 July 2011** - Parents now have the opportunity to ensure their children gain the necessary water safety knowledge and survival skills in open water through a new module, SwimSafer Open Water, launched by the National Water Safety Council (NWSC) and the Singapore Sports Council (SSC) today.
 
 2. The SwimSafer Open Water, which is a complementary module under the national water safety programme SwimSafer, equips not only children, but also adults, with skills in open water safety, including proper swimming techniques in open water and the correct fitting of a lifejacket.
 
@@ -34,7 +34,9 @@ Singapore, 25 July 2011 - Parents now have the opportunity to ensure their child
 
 [1] Based on statistics from the Singapore Life Saving Society's Annual Reports (from 2006 to 2010) for cases heard in the Coroner's Court
 
-##### **Annex A - Six Progressive Stages of the SwimSafer Programme**
+---
+
+###### Annex A - Six Progressive Stages of the SwimSafer Programme
 
 **Stage 1: Introduction to Water Skills**<br>
 The objective is for your child to gain confidence and develop independence in the water, as well as learn general and deep-end water safety. Techniques taught include forward and backward movement, entering and exiting the pool safely, and introduction to personal water survival skills.
@@ -54,7 +56,7 @@ Fundamental of diving will be introduced. Development of rescue skills and perso
 **Gold: Advanced Personal Water Survival and Swimming Skills Proficiency**<br>
 Your child will be required to perform strokes with greater ease, efficiency, power and smoothness over 400 metres. Rescue skills and water safety knowledge will focus on lifesaving readiness. Standing dive and advanced personal water survival skills will continue to be taught.
 
-##### **Annex B - Curriculum Outline of SwimSafer Open Water Module**
+###### Annex B - Curriculum Outline of SwimSafer Open Water Module
 
 **Entry and Exit**<br>
 Performing wade-in entry
@@ -79,7 +81,9 @@ Performing an accompanied rescue of a person in distress 20m from safety by usin
 **Water Safety Knowledge**<br>
 Answering theoretical questions on the open water environment, marine animals, and safety concerns and issue
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Derrick Chee<br>
 Secretariat, National Water Safety Council<br>
@@ -93,18 +97,17 @@ Singapore Sports Council<br>
 DID: 6500 5245<br>
 Email: jemuel_fu@ssc.gov.sg
 
-**About SwimSafer**
-<br>
+---
+
+###### About SwimSafer
 SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit www.singaporesports.sg/SwimSafer.
 
 Have Fun, Swim Safe.
 
-**About the National Water Safety Council, Singapore**
-<br>
+###### About the National Water Safety Council, Singapore
 The National Water Safety Council, Singapore (NWSC) was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council recently launched the Code of Practice for the Design and Management of Aquatic Facilities with the Building and Construction Authority (BCA) to promote safe water facilities for the public.
 
-**About the Singapore Sports Council**
-<br>
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
