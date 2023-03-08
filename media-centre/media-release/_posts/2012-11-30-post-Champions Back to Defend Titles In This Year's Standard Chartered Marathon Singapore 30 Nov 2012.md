@@ -97,10 +97,10 @@ Kenneth Mburu Mungara was the champion of the Standard Chartered Marathon Singap
 The current course record holder (2:11:25) and two-time SCMS champion, Luke Kibet is also the champion at the 2007 World Championships 2007 in a time of 2:15:59 hours, making it the first Kenyan marathon victory at the World Championships since Douglas Wakiihuri in 1987. His personal best time is 2:08:52 hours, achieved in October 2005 in Eindhoven where he finished third. In 2008, he won the Standard Chartered Marathon Singapore with a course record of 2:13:01. Kibet successfully defended his title in 2009, breaking his own course record at 2:11:25.
 
 **Career Highlights:**
-<br>* 2007 Vienna Marathon, Champion (2:10:07)
-<br>* 2007 Osaka World Championships, Champion (2:15:59)
-<br>* 2008 Singapore Marathon, Champion (2:13:01) – Course Record
-<br>* 2009 Singapore Marathon, Champion (2:11:25) – Course Record
+<br>2007 Vienna Marathon, Champion (2:10:07)
+<br>2007 Osaka World Championships, Champion (2:15:59)
+<br>2008 Singapore Marathon, Champion (2:13:01) – Course Record
+<br>2009 Singapore Marathon, Champion (2:11:25) – Course Record
 
 **4. Irene Jerotich Kosgei**
 <br>Gender: Female
