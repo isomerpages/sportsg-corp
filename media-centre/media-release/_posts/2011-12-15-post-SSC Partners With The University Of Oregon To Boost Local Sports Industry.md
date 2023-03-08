@@ -8,11 +8,11 @@ image: ""
 ---
 ### **SSC Partners With The University Of Oregon To Boost Local Sports Industry**
 
-*SSC Embarks on Five-Year Collaboration with University Of Oregon on Capability Development and Strategic Partnerships*
+_SSC Embarks on Five-Year Collaboration with University Of Oregon on Capability Development and Strategic Partnerships_
 
 ![](/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0048Imagegif.gif)
 
-Singapore, 15 December 2011 - From Olympic medalists to founders of one of the world's most popular sports brand, the University of Oregon (UO) has them all. With a rich history in sports excellence and a leading role in the discipline of sports business, it is befitting that the Singapore Sports Council (SSC) has embarked on a five-year partnership with the University to further boost Singapore's local sports industry.
+**Singapore, 15 December 2011** - From Olympic medalists to founders of one of the world's most popular sports brand, the University of Oregon (UO) has them all. With a rich history in sports excellence and a leading role in the discipline of sports business, it is befitting that the Singapore Sports Council (SSC) has embarked on a five-year partnership with the University to further boost Singapore's local sports industry.
 
 2. The partnership with UO will aid in strengthening the skill set of Singapore's present and future sports leaders. It will also enable a more vibrant sports industry that in turn will contribute to the economy and sustain the sports delivery system. Championing this collaboration, Mr Richard Seow, Chairman of the SSC, and UO alumni said, "Through the MOU with the University of Oregon, Singapore has a great opportunity to improve the capabilities of our sports professionals working within the sporting industry. This MOU is very timely as Singapore embarks on a new phase for growth in the sporting sector."
 
@@ -47,8 +47,10 @@ Singapore, 15 December 2011 - From Olympic medalists to founders of one of the w
 12. From as early as June 2012, this collaboration expects to see a group of three to four students from UO's graduate programme arrive in Singapore for a 10-week internship, where they will collaborate with the SSC in areas such as athlete marketing, spectatorship, and other areas relevant to Singapore's sports development.
 
 13. On his hopes for the benefits this MOU will bring to Singapore, Mr Seow said, "Building and strengthening the skills in the sports sector will enable a more sustainable and vibrant sports eco-system. We expect that this collaboration with UO will yield results that pave the way for better careers and higher standards of professionalism in Singapore sports."
- 
-**Annex A: University of Oregon Fact Sheet**
+
+---
+
+###### Annex A: University of Oregon Fact Sheet
 
 Celebrating its 128th anniversary, the University of Oregon has welcomed six generations of outstanding leaders since opening in 1876. Today's students, like the nearly 200,000 alumni before them, have access to the most current knowledge in classes, as well as laboratories and seminars conducted by leading researchers.
 
@@ -130,10 +132,10 @@ Proportion of UO graduates employed or continuing their education within six mon
 
 Division 1 Athletics PAC-12 Conference
 
-Men's Sports
+Men's Sports<br>
 Baseball, Basketball, Cross country, Football, Golf, Tennis, Track and field
 
-Women's Sports
+Women's Sports<br>
 Acrobatics & Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softball, Tennis, Track and field, Volleyball
 
 **Club Sports**
@@ -180,17 +182,23 @@ Acrobatics & Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softba
 * Waterski-Wakeboard
 * Wushu
 
-**Annex B: Profile of Paul Swangard**
+###### Annex B: Profile of Paul Swangard
+
 ![](/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0042Imagegif.gif)
+
+<img src="/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0042Imagegif.gif" style="width:150px;">
+
 Paul Swangard is the Woodard Family Foundation Sports Business Fellow and the Managing Director of the James H. Warsaw Sports Marketing Centre. Since 2001, he has led the day-to-day operations of the internationally recognised center. He teaches both at the undergraduate and graduate level and serves as one of the centre's primary industry analysts on sports business issues.
 
 His comments on the industry have appeared in numerous publications including the Wall Street Journal, New York Times and USA Today along with appearances on ABC's Nightline, ESPN's Outside the Lines, CNBC's Power Lunch and NBC's Olympic Games coverage. In addition to numerous consulting projects with leading sports firms including EA Sports and Bandon Dunes Golf Resort, Swangard is a frequent guest speaker and lecturer who has taught courses in both Europe and Asia including Executive Education programs for the Chinese Olympic Committee.
 
 Prior to the Warsaw Centre, Swangard was an award-winning sports journalist and freelance broadcaster. He is also considered as one of the United State's top track and field public address announcers having called dozens of major meets including the US Track and Field Indoor and Outdoor Championships, the Millrose games, Prefontaine Classic (IAAF Samsung Diamond League), adidas Grand Prix (IAAF Samsung Diamond League) and the USA Olympic Track and Field trials. A Eugene native, Swangard received his bachelors in Broadcast Journalism from the University of Oregon in 1990 and his MBA with a concentration in Sports Business from the University of Oregon in 1999.
 
-**For media enquiries, please contact:**
+---
 
-**Patricia Yee**
+###### For media enquiries, please contact:
+
+Patricia Yee
 <br>
 Executive, Media Relations
 <br>
@@ -198,7 +206,7 @@ Singapore Sports Council
 <br>
 Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
-**S. Parameswaran (Parames)**
+S. Parameswaran (Parames)
 <br>
 Assistant Director, Media Relations
 <br>
@@ -207,8 +215,7 @@ Singapore Sports Council
 Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 
-**About the Singapore Sports Council**
-<br>
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
