@@ -19,31 +19,13 @@ Singapore, September 29, 2010 - One of Singapore's iconic landmarks - the old Na
 4. After over 30 years of service to the nation, the National Stadium will be torn down to be redeveloped into the new Sports Hub. And it is an appropriate time for Singaporeans to own a piece of history - the commemorative book and video on the Grand Old Dame!
 statics0
 Priced at an affordable S$20, the book will be available at selected SSC Sports & Recreation Centres:
-S/N
 
-Location
 
-Address
 
-Telephone
-
-1
-
-Tampines Swimming Complex
-
-505 Tampines Ave 5 (529652)
-
-6786 1151
-
-2
-
-Sengkang Booking Office
-
-57 Anchorvale Road (544964)
-
-6315 3574
-
-3
+| S/N | Location | Address | Telephone
+| -------- | -------- | -------- |-------- |
+| 1     | Tampines Swimming Complex     | 505 Tampines Ave 5 (529652)     | 6786 1151
+| 2 | Sengkang Booking Office | 57 Anchorvale Road (544964) | 6315 3574 | 3
 
 Jurong West Booking Office
 
