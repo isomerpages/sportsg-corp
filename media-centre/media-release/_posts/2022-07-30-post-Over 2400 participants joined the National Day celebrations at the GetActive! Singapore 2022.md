@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Over 2,400 participants joined the National Day celebrations at the GetActive! Singapore 2022 and Olympic Day Walk**
 
 Let’s Play On, Play Together to celebrate our nation’s 57th birthday at the Sports Hub, ActiveSG Sport Centres and selected heartland spaces  
