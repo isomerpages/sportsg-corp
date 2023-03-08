@@ -63,16 +63,13 @@ Mr Bernard Tan
 <br>Commissioner, PT Bank, DBS Indonesia
 
 Mr Yam Ah Mee
-
-Chief Executive Director, People's Association
+<br>Chief Executive Director, People's Association
 
 COL Chia Choon Hong
-
-Assistant Chief of General Staff (Plans), Ministry of Defence
+<br>Assistant Chief of General Staff (Plans), Ministry of Defence
 
 Ms Ong Toon Hui         
-
-Deputy Secretary, Ministry of Community Development, Youth and Sports
+<br>Deputy Secretary, Ministry of Community Development, Youth and Sports
 
 Dr Teo-Koh Sock Miang
 
