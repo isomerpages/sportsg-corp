@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore Sports Hub Deal Signed**
+### **Singapore Sports Hub Deal Signed**
 
-SINGAPORE SPORTS HUB DEAL SIGNED
-Singapore, 25 August 2010 - The Singapore Sports Council (SSC) and the Singapore Sports Hub Consortium (SSHC) signed the contract today for the consortium to design, build, finance and operate the Singapore Sports Hub for the next 25 years. The consortium will begin demolition of the National Stadium by October 2010, and the new Sports Hub will open its doors by April 2014.
+**Singapore, 25 August 2010** - The Singapore Sports Council (SSC) and the Singapore Sports Hub Consortium (SSHC) signed the contract today for the consortium to design, build, finance and operate the Singapore Sports Hub for the next 25 years. The consortium will begin demolition of the National Stadium by October 2010, and the new Sports Hub will open its doors by April 2014.
 
 2. Said Dr Vivian Balakrishnan, Minister for Community Development, Youth & Sports: "I am glad that we are ready to start construction of the Singapore Sports Hub. It will be a fully integrated sports, leisure, entertainment and lifestyle hub for world class events and community activities. The facilities will be accessible to both the general public and top athletes to train and compete in."
 
@@ -38,42 +37,47 @@ For the convenience of elite athletes with a hectic schedule, state-of-the-art t
 
 10. The Singapore Sports Hub is the largest sports infrastructure Public-Private-Partnership (PPP) project in the world and Singapore's largest and flagship PPP project. Under the PPP model, the Consortium brings in their expertise in various aspects of the project, such as construction, financing and programming, while the government makes monthly payments to the Consortium when the facilities and services become operational and meet the contractual obligations.
 
--End-
+---
 
-**Enclosures**
-Annex A - [Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2010/Sept/Annex%20Apdf.pdf) [75 Kb]
-Annex B - [Key Features in Sports Hub ](/files/Media%20Centre/Media%20Release/2010/Sept/Annex%20Bpdf.pdf)[1064 Kb]
+###### Enclosures
+
+Annex A - [Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2010/Sept/Annex%20Apdf.pdf) [75 Kb]<br>
+Annex B - [Key Features in Sports Hub ](/files/Media%20Centre/Media%20Release/2010/Sept/Annex%20Bpdf.pdf)[1064 Kb]<br>
 Annex C - [SSHC Profile](/files/Media%20Centre/Media%20Release/2010/Sept/Annex%20Cpdf.pdf) [88 Kb]
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### For media enquiries, please contact:
+
+S. Parameswaran (Parames)<br>
+Senior Manager<br>
+Corporate Communications & Relations<br>
+Singapore Sports Council<br>
+Office: (65) 6500 5236<br>
+Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
+
+Eugene De Rozario<br>
+Senior Commercial Manager<br>
+SportsHub Pte Ltd<br>
+Tel: (65) 6595 5622<br>
+Email: [e.derozario@bouygues-construction.com](e.derozario@bouygues-construction.com)
+
+Alvin Hang<br>
+Director<br>
+Corporate Communications & Relations<br>
+Singapore Sports Council<br>
+Office: (65) 6500 5164<br>
+Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
+
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-**For media enquiries, please contact:**
-<br>S. Parameswaran (Parames)
-<br>Senior Manager
-<br>Corporate Communications & Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5236
-<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
-
-Eugene De Rozario
-<br>Senior Commercial Manager
-<br>SportsHub Pte Ltd
-<br>Tel: (65) 6595 5622
-<br>Email: [e.derozario@bouygues-construction.com](e.derozario@bouygues-construction.com)
-
-Alvin Hang
-<br>Director
-<br>Corporate Communications & Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5164
-<br>Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
