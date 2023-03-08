@@ -25,58 +25,15 @@ Priced at an affordable S$20, the book will be available at selected SSC Sports 
 | S/N | Location | Address | Telephone
 | -------- | -------- | -------- |-------- |
 | 1     | Tampines Swimming Complex     | 505 Tampines Ave 5 (529652)     | 6786 1151
-| 2 | Sengkang Booking Office | 57 Anchorvale Road (544964) | 6315 3574 | 3
-
-Jurong West Booking Office
-
-20 Jurong West St 93 (648965)
-
-6515 5332
-
-4
-
-Hougang Swimming Complex
-
-95 Hougang Ave 4 (538830)
-
-6386 5010
-
-5
-
-Choa Chu Kang Booking Office
-
-1 Choa Chu Kang St 53 (689236)
-
-6767 8606
-
-6
-
-Yio Chu Kang Booking Office
-
-214 Ang Mo Kio Ave 9 (569780)
-
-6482 4980
-
-7
-
-Clementi Swimming Complex
-
-520 Clementi Ave 3 (129908)
-
-6779 0577
-
-8
-
-Bedok Swimming Complex
-
-901 New Upper Changi Road (467355)
-6443 5511
-9 Jalan Besar Swimming Complex
-100 Tyrwhitt Road #01-03 (207542)
-6293 9058
-10 Delta Swimming Complex
-900 Tiong Bahru Road (158790)
-6474 7573
+| 2 | Sengkang Booking Office | 57 Anchorvale Road (544964) | 6315 3574 
+| 3 | Jurong West Booking Office | 20 Jurong West St 93 (648965) | 6515 5332
+| 4 | Hougang Swimming Complex | 95 Hougang Ave 4 (538830) | 6386 5010
+| 5 | Choa Chu Kang Booking Office | 1 Choa Chu Kang St 53 (689236) | 6767 8606
+| 6 | Yio Chu Kang Booking Office | 214 Ang Mo Kio Ave 9 (569780) | 6482 4980
+| 7 | Clementi Swimming Complex | 520 Clementi Ave 3 (129908) | 6779 0577
+| 8 | Bedok Swimming Complex | 901 New Upper Changi Road (467355) | 6443 5511
+| 9 | Jalan Besar Swimming Complex | 100 Tyrwhitt Road #01-03 (207542) | 6293 9058 
+| 10 | Delta Swimming Complex | 900 Tiong Bahru Road (158790) | 6474 7573
 
 -End-
 
