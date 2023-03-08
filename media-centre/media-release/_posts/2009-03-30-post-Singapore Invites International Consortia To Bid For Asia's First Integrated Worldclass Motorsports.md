@@ -9,7 +9,7 @@ image: ""
 ---
 ### **Singapore Invites International Consortia to Bid for Asia's First Integrated World-class Motorsports and Leisure Hub Initiative**
 
-Singapore, 30 March 2009 - The Singapore Sports Council (SSC) today released a Request For Proposal (RFP) offering local and international consortia a unique opportunity to build and manage the Changi Motorsports Hub (CMH). Set to become Asia's first premier motorsports and entertainment centre, the CMH will feature top-notch motorsports facilities and amenities for motorsports enthusiasts, businesses, consumers and tourists alike.
+**Singapore, 30 March 2009** - The Singapore Sports Council (SSC) today released a Request For Proposal (RFP) offering local and international consortia a unique opportunity to build and manage the Changi Motorsports Hub (CMH). Set to become Asia's first premier motorsports and entertainment centre, the CMH will feature top-notch motorsports facilities and amenities for motorsports enthusiasts, businesses, consumers and tourists alike.
 
 A world-class motorsports destination, CMH will sit on a 41-hectare sea-facing site near Changi Airport and will be conveniently connected to the City's key tourist attractions and landmarks as well as the Central business district. Expected to be ready by the end of 2011, the Hub will feature a permanent racetrack of at least 3.5 kilometres along the coastline, complemented with a permanent sheltered grandstand for at least 8,000 spectators who will have unblocked views of the entire racetrack.
 
