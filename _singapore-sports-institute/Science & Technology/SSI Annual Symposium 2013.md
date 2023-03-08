@@ -23,3 +23,5 @@ Other invited speakers included academics, scientists and coaches from sport org
 Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/SSI20Symposium20Programme.pdf) to download the pdf version of the SSI Annual Symposium 2013 Programme (correct as of 10 Jul 2013).
 
 Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Speakers20Profile.pdf) to download the pdf version of the SSI Annual Symposium 2013 Speakers' Profile and Synopsis (correct as of 10 July 2013)
+
+#### **SSI Annual Symposium Presentations**
