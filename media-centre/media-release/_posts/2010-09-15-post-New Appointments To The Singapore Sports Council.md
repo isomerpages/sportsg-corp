@@ -16,9 +16,9 @@ Singapore, 15 September 2010 - Mr Richard Seow Yung Liang will assume the post o
 3. MCYS expresses its appreciation to the outgoing Chairman, Mr Alexander Chan Meng Wah, for his contributions to sports for over 19 years, including the past 8 years as SSC Chairman. Said Minister (CYS), Dr Vivian Balakrishnan, "I am very grateful to Mr Alex Chan for playing such a major role in remaking the sporting landscape. During his term as Chairman, SSC implemented most of the groundbreaking recommendations of the Committee on Sporting Singapore. Under his leadership, SSC successfully organised the Asian Youth Games in 2009 and was a key partner in the Youth Olympic Games in 2010. SSC awarded the tender for the Changi Motorsports Hub earlier this year. In addition, SSC signed the contract with the Singapore Sports Hub Consortium to design, build, finance and operate the new Sports Hub last month. He has devoted invaluable time, effort and ideas in his quiet tireless and effective way."
 
 4. Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd, will be appointed as SSC Deputy Chairman with effect from 1 October 2010. The other new members who will be appointed to the Council are:
-(i) Ms Ong Toon Hui, Deputy Secretary, MCYS
-(ii) Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
-(iii) Mr Andreas Sohmen-Pao, Group CEO, BW Maritime and BW Gas
+*  (i) Ms Ong Toon Hui, Deputy Secretary, MCYS
+*  (ii) Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
+*  (iii) Mr Andreas Sohmen-Pao, Group CEO, BW Maritime and BW Gas
 
 5. The following Council members will be stepping down from 30 September 2010:
 * (i) Mr Edmund Koh, President, Ta Chong Bank Co. Ltd., Taiwan
