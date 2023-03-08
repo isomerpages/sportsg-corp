@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Singapore and Lao PDR ink MOU to collaborate in Sports Development**
 
-Singapore, 29 August 2008 - Singapore and Lao People's Democratic Republic (Lao PDR) signed a Memorandum of Understanding (MOU) on Friday, 29 August 2008 at the Orchard Hotel. Mr Oon Jin Teik, CEO, Singapore Sports Council (SSC) and Dr Soulasith Oupravanh, Director-General for International Relations, Lao National Sports Committee (LNSC), signed the MOU in the presence of Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports of Singapore and His Excellency Phouthong Seng Akhom, Minister to the Prime Minister's Office of Lao PDR and President of the LNSC & National Olympic Council of Lao.
+**Singapore, 29 August 2008** - Singapore and Lao People's Democratic Republic (Lao PDR) signed a Memorandum of Understanding (MOU) on Friday, 29 August 2008 at the Orchard Hotel. Mr Oon Jin Teik, CEO, Singapore Sports Council (SSC) and Dr Soulasith Oupravanh, Director-General for International Relations, Lao National Sports Committee (LNSC), signed the MOU in the presence of Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports of Singapore and His Excellency Phouthong Seng Akhom, Minister to the Prime Minister's Office of Lao PDR and President of the LNSC & National Olympic Council of Lao.
 
 2. The MOU will lay the platform for both countries to promote exchanges in sports administration and technical developments. Under the MOU, both countries will also work together to improve the skills and competence of sports practitioners.
 
@@ -18,7 +18,9 @@ Singapore, 29 August 2008 - Singapore and Lao People's Democratic Republic (Lao 
 
 5. Concluded Mr Oon, "Both countries will be actively involved in organising regional and international sporting events for the next few years. While Lao PDR will be hosting the SEA Games in 2009, we will be organising the Youth Olympic Games in 2010. We will share our strategies, experiences and approaches in developing sports and preparing ourselves as host nations. Thus, the MOU would help both countries to exchange and share mutually beneficial insights."
 
-**For media inquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 S. Parameswaran
 <br>
