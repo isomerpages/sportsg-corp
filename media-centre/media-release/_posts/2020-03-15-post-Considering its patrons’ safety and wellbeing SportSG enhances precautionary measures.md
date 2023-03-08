@@ -14,7 +14,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2020/March/heartbeatsportshall02.jpeg)
 
-**Singapore, 15 March 2020 –** Sport Singapore (SportSG) will implement enhanced precautionary measures in line with the latest advisory issued by the Ministry of Health (MOH) on 13 Mar 2020. SportSG aims to provide avenues where Singaporeans can continue to stay fit and healthy, amid the evolving Covid-19 situation.
+**Singapore, 15 March 2020 –** Sport Singapore (SportSG) will implement enhanced precautionary measures in line with the latest advisory issued by the Ministry of Health (MOH) on 13 March 2020. SportSG aims to provide avenues where Singaporeans can continue to stay fit and healthy, amid the evolving COVID-19 situation.
 
 From 16 March, all ActiveSG sport centres will implement regulated access to ensure adequate physical distancing among users. This applies to all stadiums, sport halls, gyms, swimming complexes and studios. ActiveSG facilities, where possible, will implement a single point of entry to facilitate temperature taking and recording of visitor details.
 
