@@ -19,10 +19,9 @@ The List classifies the programmes into two categories:
 (b) Category B: Pay-TV retailers can acquire exclusive "live" rights, but not exclusive "delayed" rights to broadcast all or part of the programme.
 
 Introduced in 2003, the List helps to increase the opportunity for local viewers to watch programmes of public interest and national significance on free-to-air TV. The new List, which comes into effect from 12 Jan 2013, now comprises both Category A and B programmes as follows:
+
 ![](/images/Media%20Centre/Media%20Release/2013/Jan/UPDATEONMDASSCJOINTPUBLICCONSULTATIONFORANTISIPHONINGLISTMainPar0047Imagegif.gif)
 
 As this is the first time Category B programmes are introduced into the List, to provide clarity to the public and industry, MDA has defined "delayed broadcast" as a broadcast that occurs after the relevant 48-hour period from the scheduled conclusion of the event.
 
 This means that pay TV operators will not be allowed to acquire exclusive rights to the programme for more than 48 hours after the scheduled end of the event.
-
-For more details on the List and definition of delayed broadcast, please click here.
