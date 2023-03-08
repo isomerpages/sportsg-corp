@@ -162,3 +162,14 @@ National Heritage Board (NHB) is a statutory board under the Ministry of Culture
 **[NTUC FairPrice Co-operative Limited](https://www.fairprice.com.sg/wps/portal/careers/main/careeratfp)**
 
 NTUC FairPrice Co-Operative is a supermarket chain based in Singapore and the largest in the country. The company is a co-operative of the National Trades Union Congress or NTUC. The group has 100 supermarkets across the island, with over 50 outlets of Cheers convenience stores island-wide.
+
+**[Nestlé Singapore (Pte) Ltd](http://www.nestle.com.sg/jobs/career_at_nestle)**
+
+As the world’s largest Food and Beverage Company, Nestlé enhances lives by offering tasty, healthy and safe nourishment to everyone.
+
+We have evolved to become a global leader in nutrition, health and wellness since being established in 1867. Today, we employ over 330,000 people in more than 190 countries. Our passion to produce the highest quality products is backed by cutting-edge innovation, our intimate understanding of consumers’ needs and the ability to meet those needs by leveraging on our expansive range of global resources and wide network of talent.
+
+As a Fortune Top 100 company, we provide staff with an amazing workplace. Think - exciting career pathways, fulfilling work and meaningful international opportunities. If this sounds like what you’re after, come join us and embark on a rewarding learning journey and a fulfilling career of lifetime at Nestlé!
+
+[**OCBC Bank**](https://www.ocbc.com/group/careers/)  
+OCBC Bank is the longest established Singapore bank, formed in 1932 from the merger of three local banks, the oldest of which was founded in 1912. It is now the second largest financial services group in Southeast Asia by assets and one of the world’s most highly-rated banks, with an Aa1 rating from Moody’s. Recognised for its financial strength and stability, OCBC Bank is consistently ranked among the World’s Top 50 Safest Banks by Global Finance and has been named Best Managed Bank in Singapore and the Asia Pacific by The Asian Banker.
