@@ -13,11 +13,11 @@ Singapore is set to host the inaugural Olympic Esports Week (OEW), following the
 
 The announcement underscores Singapore’s strategy to encourage the development of sports in both physical and virtual forms to broaden participation by showcasing ground-breaking innovations and introducing new avenues for Singaporeans to engage in sports.
 
-##### **Showcasing the best of virtual sports**
+**Showcasing the best of virtual sports**
 
 The OEW will feature the best of virtual sports – both hybrid physical and sports simulations. Those attending can look forward to experiencing a variety of virtual sports, including exhibitions of the latest technologies, panel discussions, education sessions and show matches. A highlight of the OEW will be the first in-person live finals of the Olympic Esports Series (OES), a unique virtual and simulated sports competition which may include Taekwondo and Archery.
 
-##### **Unlocking innovation and opportunities for virtual sports**
+**Unlocking innovation and opportunities for virtual sports**
 
 With the accelerated interest and growth of the esports community, hosting the inaugural OEW will further strengthen Singapore’s line-up of major sporting and virtual sports events. OEW provides a platform to foster innovation, collaborate with International Federations (IFs) and unlock opportunities for local and regional businesses to develop capabilities in the realm of virtual sports.
 
