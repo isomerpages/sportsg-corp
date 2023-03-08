@@ -7,10 +7,10 @@ layout: post
 description: ""
 image: ""
 ---
-## **Fundamental Movement Skills Development Plan To Lay Foundation For Physical Literacy In Children**
+### **Fundamental Movement Skills Development Plan To Lay Foundation For Physical Literacy In Children**
 
 ![](/images/Media%20Centre/Media%20Release/2011/Jun/Fundamentals%20Movement%20Skills%20Launch_2011_06_28_IMG_0071.jpeg)
-'FUN Start MOVE Smart!' - The First in a Series of Resources by the SSC to Set Children on the Road Towards Life-Long Active Living
+_'FUN Start MOVE Smart!' - The First in a Series of Resources by the SSC to Set Children on the Road Towards Life-Long Active Living_
 
 **Singapore 28 June 2011** - The Singapore Sports Council (SSC) is laying the tracks that will take Singapore's sporting journey into a new era. The SSC's new Fundamental Movement Skills development programme will ensure that children in Singapore acquire the motor skills necessary to achieve physical literacy - the starting point towards the development of more specialised sports skills and the first step on the road to life-long active living.
 
@@ -34,29 +34,29 @@ image: ""
 
 11. The 'FUN Start MOVE Smart!' is developed as part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
 
--End-
+---
 
-**For media enquiries, please contact:**
-<br>
+###### For media enquiries, please contact:
+
 Patricia Yee
 <br>Executive, Media Relations
 <br>Singapore Sports Council
 <br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
+
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About Let's Play**
-<br>
+###### About Let's Play
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
 
 Let's Play is on Facebook: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
