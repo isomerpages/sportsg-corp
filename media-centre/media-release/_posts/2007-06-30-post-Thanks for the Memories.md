@@ -24,15 +24,15 @@ Shortly thereafter, the cauldron lighting ceremony took place. A select group of
 
 C Kunalan holds the distinction as the first person to light the stadium's cauldron when Singapore hosted the 1973 South East Asia Peninsular Games, and yesterday he once again raced up the gallery steps to light the cauldron for the last time.
 
-Once the cauldron was lit, the attention turned to the field again, where the national teams of Singapore and Australia took centrestage for one of the evening's main highlights. Performing the national anthem for Australia was professional singer and emcee Donna Daniels, while over in the red corner, the legendary Rahimah Rahim sang 'Majulah Singapura'.
+Once the cauldron was lit, the attention turned to the field again, where the national teams of Singapore and Australia took centre stage for one of the evening's main highlights. Performing the national anthem for Australia was professional singer and emcee Donna Daniels, while over in the red corner, the legendary Rahimah Rahim sang 'Majulah Singapura'.
 
-After the anthems, Guest of Honour for the evening, His Excellency President S R Nathan entered the pitch to meet the teams. Representing the Singapore Lions were captain Aide Iskandar, goalkeeper Lionel Lewis, forwards Indra Sahdan and Khairul Amry as well as Singapore's youngest player to receive a call-up, sixteen-year old midfielder Hariss Harun.
+After the anthems, Guest of Honour for the evening, His Excellency President S R Nathan entered the pitch to meet the teams. Representing the Singapore Lions were captain Aide Iskandar, goalkeeper Lionel Lewis, forwards Indra Sahdan and Khairul Amry as well as Singapore's youngest player to receive a call-up, sixteen-year-old midfielder Hariss Harun.
 
 Meanwhile, the Qantas Socceroos team featured many of their European-based soccer stars including Liverpool's Harry Kewell, Newcastle's Mark Viduka, Everton's Tim Cahill, Middlesbrough's Mark Schwarzer and West Ham's Lucas Neill.
 
 After the game, President S R Nathan presented the teams with tokens of appreciation before a lap of honour by the players, marking the end of the stadium's long-standing friendship with football and the start of the closing ceremony.
 
-Hosted by Brian and Mark Richmond - whom many remember for their 'live' football commentary - the father and son team took the audience down memory lane with a video presentation capturing memorable stadium moments. Kit Chan also performed 'Live Your Dreams' during a march-past by Team Singapore athletes, followed by the official dousing of the flame by President Nathan through a launch pad, which also signaled the start of the fireworks and light show.
+Hosted by Brian and Mark Richmond - whom many remember for their 'live' football commentary - the father and son team took the audience down memory lane with a video presentation capturing memorable stadium moments. Kit Chan also performed 'Live Your Dreams' during a march-past by Team Singapore athletes, followed by the official dousing of the flame by President Nathan through a launch pad, which also signalled the start of the fireworks and light show.
 
 And once the lights were out, revellers took to the pitch for LightsOut - The National Stadium Closing Party. Krueger, featuring John Molina performed 'live' for a 30-min set. Following that were sets by Phuture's Flava with Andrew Chow and Zouk's resident Mambo Jambo DJs who spun into the night, right up till 3.00 am.
 
@@ -56,5 +56,5 @@ Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 ---
 
-###### About SSC
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: www.ssc.gov.sg
+###### *About SSC*
+*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: www.ssc.gov.sg*
