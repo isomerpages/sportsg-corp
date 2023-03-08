@@ -76,3 +76,8 @@ by Joel Pang, Associate Sport Physiologist
 
 [Overviews of Hong Kong Team Support in Asian Games](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-6_Overviews_of_Hong_Kong_Team_Support_in_AG.pdf)    
 by Frankie Siu, Senior Sport Dietitian (Hong Kong Sports Institute)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_zEazYbaDjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Asian Games sharing - Learnings from Asian Games 2018 Taiwan](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-7_AG_sharing_-_Kang-Hao_Lu_-_Learnings_from_Asian_Games_2018_Taiwan.pdf)
+by Lu Kang-Hao
