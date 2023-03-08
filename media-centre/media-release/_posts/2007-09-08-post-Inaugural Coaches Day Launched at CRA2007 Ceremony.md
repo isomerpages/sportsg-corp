@@ -24,8 +24,9 @@ Beyond the CRA, the SSC had also earlier begun its 'My Coach. My Hero' campaign 
 
 SSC's Chief Executive Officer, Mr Oon Jin Teik commented: "The CRA has indeed been successful in helping to educate the public on the importance of coaches in the development of our athletes. For Coaches' Day, we want to encourage the public to take an extra step forward in doing something special for their coaches."
 
+---
 
-**Enclosures**
+###### Enclosures
 
 Welcome Address by Mr Alex Chan, Chairman of Singapore Sports Council<br>
 Speech by Mr Teo Ser Luck, Parliamentary Secretary, Ministry of Community Development, Youth and Sports<br>
@@ -33,14 +34,9 @@ Speech by Mr Teo Ser Luck, Parliamentary Secretary, Ministry of Community Develo
 [Annex 2: Factsheet on CRA](/files/Media%20Centre/Media%20Release/2007/September/Annex2022020CRA200720Factsheet.pdf)<br>
 [Annex 3: 'My Coach. My Hero' campaign](/files/Media%20Centre/Media%20Release/2007/September/Annex2032020My20Coach20My20Hero20Campiagn.pdf)
 
+---
 
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
-
-Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
-
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Roger Ng
 <br>
@@ -67,3 +63,11 @@ Tel: 62221678
 H/P: 97853573
 <br>
 Email: [Kenny@mileage.com.sg](mailto:Kenny@mileage.com.sg)
+
+---
+
+###### About Singapore Sports Council
+The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
+
+Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
+
