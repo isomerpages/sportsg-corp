@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore Sports Hub Deal Signed
-Singapore , 25 Aug 2010
+## **Singapore Sports Hub Deal Signed**
 
 SINGAPORE SPORTS HUB DEAL SIGNED
 Singapore, 25 August 2010 - The Singapore Sports Council (SSC) and the Singapore Sports Hub Consortium (SSHC) signed the contract today for the consortium to design, build, finance and operate the Singapore Sports Hub for the next 25 years. The consortium will begin demolition of the National Stadium by October 2010, and the new Sports Hub will open its doors by April 2014.
@@ -79,4 +78,4 @@ Singapore Sports Council
 Office: (65) 6500 5164
 Email: alvin_hang@ssc.gov.sg
 statics0
-statics0	
+statics0
