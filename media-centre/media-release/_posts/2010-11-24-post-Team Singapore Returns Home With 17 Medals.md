@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Team Singapore Returns Home With 17 Medals**
+### **Team Singapore Returns Home With 17 Medals**
 
-CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite High Level Of Competition In Guangzhou
+_CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite High Level Of Competition In Guangzhou_
 
 **Guangzhou, 27 November 2010** - With 17 medals in the bag as the 16th Asian Games Guangzhou 2010 comes to a close, Chef-de-Mission Low Teo Ping today congratulated Team Singapore for a respectable showing at the quadrennial event, despite the extremely high standards showed by the competing nations, especially host nation China, which amassed a total of 383 medals, 185 of them gold [1].
 
@@ -42,31 +42,30 @@ CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite High
 
 ---
 
-Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
+###### Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
 
+| No. | Medal  | Sport               | Event                            | Name of Athlete(s)                                         | Total |
+| --- | ------ | ------------------- | -------------------------------- | ---------------------------------------------------------- | ----- |
+| 1.  | Gold   | Aquatics - Swimming | Women's 50m Butterfly            | TAO Li                                                     | 4     |
+| 2.  | Gold   | Bowling             | Women's Trios                    | Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi  |
+| 3.  | Gold   | Sailing             | Women's Double Handed Dinghy 420 | Rachel LEE Qing & Cecilia LOW Rui Qi                       |
+| 4.  | Gold   | Sailing             | Men's Double Handed Dinghy 420   | Sherman CHENG Feng Yuan & Justin LIU Xiaman                |
+| 5.  | Silver | Aquatics - Swimming | Women's 100m Butterfly           | TAO Li                                                     | 7     |
+| 6.  | Silver | Bowling             | Women's Singles                  | Shayna NG Lin Zhi                                          |
+| 7.  | Silver | Bowling             | Men's Doubles                    | Remy ONG & Jason YEONG-NATHAN                              |
+| 8.  | Silver | Bowling             | Women's Masters                  | Cherie TAN Shi Hua                                         |
+| 9.  | Silver | Sailing             | Men's Laser                      | Colin CHENG Xinru                                          |
+| 10. | Silver | Sailing             | Women's Dinghy Optimist          | Kimberly LIM Min                                           |
+| 11. | Silver | Table Tennis        | Women's Team                     | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu |
+| 12. | Bronze | Cuesports           | English Billiards Singles        | Peter Edward GILCHRIST                                     | 6     |
+| 13. | Bronze | Bowling             | Women's Singles                  | NEW Hui Fen                                                |
+| 14. | Bronze | Sailing             | Open Laser Radial                | Scott Glen Sydney                                          |
+| 15. | Bronze | Sailing             | Men's Dinghy Optimist            | yan LO Jun Han                                             |
+| 16. | Bronze | Sailing             | Open Hobie-16                    | TEO Wee Chin & Justin WONG Ming Ho                         |
+| 17. | Bronze | Sailing             | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun                    |
+|     |        |                     |                                  |                                                            | 17    |
 
-| No. | Medal | Sport | Event | Name of Athlete(s) | Total |
-| -------- | -------- | -------- | -------- | -------- | -------- |
-| 1.     | Gold | Aquatics - Swimming | Women's 50m Butterfly | TAO Li  | 4 
-| 2.  | Gold | Bowling | Women's Trios | Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi
-| 3. | Gold | Sailing | Women's Double Handed Dinghy 420 | Rachel LEE Qing & Cecilia LOW Rui Qi
-| 4.   | Gold | Sailing | Men's Double Handed Dinghy 420 | Sherman CHENG Feng Yuan & Justin LIU Xiaman
-| 5.  | Silver | Aquatics - Swimming | Women's 100m Butterfly | TAO Li | 7
-| 6.   | Silver | Bowling | Women's Singles | Shayna NG Lin Zhi
-| 7.   | Silver | Bowling | Men's Doubles | Remy ONG & Jason YEONG-NATHAN
-| 8.    | Silver | Bowling | Women's Masters | Cherie TAN Shi Hua
-| 9.   | Silver | Sailing | Men's Laser | Colin CHENG Xinru
-| 10. | Silver | Sailing | Women's Dinghy Optimist | Kimberly LIM Min
-| 11.  | Silver | Table Tennis | Women's Team | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu
-| 12.  | Bronze  | Cuesports | English Billiards Singles | Peter Edward GILCHRIST | 6
-| 13.  | Bronze | Bowling | Women's Singles | NEW Hui Fen
-| 14.  | Bronze| Sailing | Open Laser Radial | Scott Glen Sydney
-| 15. | Bronze| Sailing | Men's Dinghy Optimist | yan LO Jun Han
-| 16.  | Bronze | Sailing | Open Hobie-16 | TEO Wee Chin & Justin WONG Ming Ho
-| 17.   | Bronze | Sailing | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun
-| | | | | | 17
-
-Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010
+###### Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010
 
 | Name of Athlete(s) | Event | Remarks |
 | -------- | -------- | -------- |
@@ -95,8 +94,24 @@ Andrea CHEN Jiewen <br>Annabelle NG Xiang Ru | Women's Kayak Four 500m | PB 1:40
 | YEONG Wai Mun | Men's Lightweight Single Sculls, Heats | PB 7:30.47 (Previous PB 7:54.58)
 | YEONG Wai Mun | Men's Lightweight Single Sculls, Final B | PB 7:29.12 (Previous PB 7:30.47, set during the heats)
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### For media enquiries, please contact:
+
+Tanty Nazlianah Rosli
+<br>Senior Manager
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
+
+Jose Raymond
+<br>Head of PR
+<br>Team Singapore
+<br>Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
@@ -107,31 +122,16 @@ Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref
 
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About the Singapore National Olympic Council**
-<br>
+###### About the Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-**About Team Singapore**
-<br>
+###### About Team Singapore
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-**For further information, please visit** [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
+For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
 
 Follow Team Singapore's action at the 16th Asian Games on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
-
-**For media enquiries, please contact:**
-
-Tanty Nazlianah Rosli
-<br>Senior Manager
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
-    
-Jose Raymond
-<br>Head of PR
-<br>Team Singapore
-<br>Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
