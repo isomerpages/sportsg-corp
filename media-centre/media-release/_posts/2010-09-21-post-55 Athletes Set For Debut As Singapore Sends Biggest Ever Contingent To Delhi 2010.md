@@ -88,34 +88,12 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Weightlifting | 4-12 October 2010
 | Wrestling | 5-10 October 2010
 
- 
-
-
-Sport
-
-Date
-
-Swimming
-
-5-9 October 2010
-
-Athletics
-
-6-12 October 2010
-
-Table Tennis
-
-10-14 October 2010
-
-Powerlifting
-
-12 October 2010
-
- 
-
- 
-
- 
+| Sport | Date | 
+| -------- | -------- | 
+| Swimming | 5-9 October 2010
+| Athletics | 6-12 October 2010
+| Table Tennis | 10-14 October 2010
+| Powerlifting | 12 October 2010
 
  
 
