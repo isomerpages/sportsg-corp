@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Search Begins For The Best Music Video For "Go! Go! Singapore!!"
-Singapore , 23 Sep 2010
+## **The Search Begins For The Best Music Video For "Go! Go! Singapore!!"**
 
 THE SEARCH BEGINS FOR THE BEST MUSIC VIDEO FOR "GO! GO! SINGAPORE!!"
 Singapore 23 September 2010 - Two days after the launch of "Go! Go! Singapore!!", the new cheer song released by the Singapore Sports Council (SSC) aimed at getting Singaporeans to use their voices to rally behind Team Singapore, the SSC is now inviting members of the public to exercise their creativity by creating a music video to accompany the cheer song. The contest begins today and ends on 16 October 2010.
@@ -56,5 +55,3 @@ Luke Netto
 <br>STC Associates
 <br>Office: 6222 5700
 <br>Email: Lnetto@stcassociates.com
-
- 
