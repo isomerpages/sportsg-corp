@@ -129,3 +129,16 @@ KPMG operates as an international network of member firms offering audit, tax an
 **[Ministry of Culture, Community and Youth (MCCY)](https://www.mccy.gov.sg/careers.aspx)**
 
 The Ministry of Culture, Community and Youth (MCCY) seeks to inspire Singaporeans through the arts and sports, deepen a sense of identity and belonging to the nation, strengthen community bonds, engage youths and promote volunteerism and philanthropy, to build a gracious and caring society we are proud to call home.
+
+**[MOH Holdings](https://www.mohh.com.sg/careers/jobs@mohh)**
+
+MOH Holdings is the holding company of Singapore’s public healthcare clusters: Alexandra Health System, Eastern Health Alliance, Jurong Health Services, National Healthcare Group, National University Health System and Singapore Health Services. Its role is to enhance public healthcare sector performance by unlocking synergies and economies of scale. MOH Holdings’ strategies aim to drive optimal performance through sector level initiatives and addressing system level gaps. It is putting in place a national healthcare IT infrastructure that facilitates seamless delivery of care to patients.
+
+**[MSIG Insurance](http://www.msig.com.sg/nurturing-talents-msig)**
+
+MSIG Singapore is a leading provider of large industrial, commercial and personal general insurance solutions through an extensive sales and service network of agents, brokers, direct, strategic partnerships and bancassurance alliances.
+
+**[MUIS](https://www.muis.gov.sg/Careers)**
+
+The Majlis Ugama Islam Singapura (MUIS), also known as the Islamic Religious Council of Singapore, was established as a statutory body in 1968 when the Administration of Muslim Law Act (AMLA) came into effect. Under AMLA, MUIS is to advise the President of Singapore on all matters relating to Islam in Singapore.  
+The role of MUIS is to see that the many and varied interests of Singapore's Muslim community are looked after. In this regard MUIS is responsible for the promotion of religious, social, educational, economic and cultural activities in accordance with the principles and traditions of Islam as enshrined in the Holy Quran and Sunnah.
