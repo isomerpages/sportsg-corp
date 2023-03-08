@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Singapore Sports Council's Oon Steps Down**
+### **Singapore Sports Council's Oon Steps Down**
 
-SINGAPORE SPORTS COUNCIL'S OON STEPS DOWN
-Singapore, 8 October 2010 - The Singapore Sports Council announced today that Chief Executive Officer Oon Jin Teik will be leaving the organisation to return to the private sector. His last day at SSC will 31 December 2010.
+**Singapore, 8 October 2010** - The Singapore Sports Council announced today that Chief Executive Officer Oon Jin Teik will be leaving the organisation to return to the private sector. His last day at SSC will 31 December 2010.
 
 2. Oon will be joining the senior management team of Hyflux Ltd as Group Executive Vice President (Business Development) and will report to Founder / Group Chief Executive Officer Olivia Lum.
 
@@ -23,24 +22,26 @@ Singapore, 8 October 2010 - The Singapore Sports Council announced today that Ch
 
 7. An international and local search has been commissioned to find a replacement for Oon.
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
+###### For media enquiries, please contact:
+
+Alvin Hang<br>
+Director<br>
+Corporate Communications & Relations<br>
+Singapore Sports Council<br>
+DID: 6500 5164<br>
+Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**For media enquiries, please contact:**
-<br>Alvin Hang
-<br>Director
-<br>Corporate Communications & Relations
-<br>Singapore Sports Council
-<br>DID: 6500 5164
-<br>Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+
+Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
