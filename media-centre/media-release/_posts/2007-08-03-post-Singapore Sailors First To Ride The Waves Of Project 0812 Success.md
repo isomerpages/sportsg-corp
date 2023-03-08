@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-### **Singapore Sailors First To Ride The Waves Of Project 0812 Success<br>Singapore , 03 Aug 2007**
+### **Singapore Sailors First To Ride The Waves Of Project 0812 Success**
 
-Team Singapore sailors today received a heart-warming gesture from PSB Academy at a well-wishing event held at Plaza Singapura. Titled "Bon Voyage! Team Singapore Sailors", this is the first of well-wishing activities for Project 0812 (P0812) athletes bound for the Olympics in 2008 or 2012. Jointly organised by the Singapore Sports Council, the Singapore Sailing Federation and the PSB Academy, more than 50 students and teachers came to spur Team Singapore sailors to greater heights at Olympic glory. Among the athletes present today were 14 sailors from the Laser Men class, the Laser Radial class, the Laser Women class, the International 470 Men class and the International 470 Women class.
+**Singapore , 03 Aug 2007** - Team Singapore sailors today received a heart-warming gesture from PSB Academy at a well-wishing event held at Plaza Singapura. Titled "Bon Voyage! Team Singapore Sailors", this is the first of well-wishing activities for Project 0812 (P0812) athletes bound for the Olympics in 2008 or 2012. Jointly organised by the Singapore Sports Council, the Singapore Sailing Federation and the PSB Academy, more than 50 students and teachers came to spur Team Singapore sailors to greater heights at Olympic glory. Among the athletes present today were 14 sailors from the Laser Men class, the Laser Radial class, the Laser Women class, the International 470 Men class and the International 470 Women class.
 
 "We are heartened by the success of the 470 Men class sailors, who have qualified for the Olympics under P0812. We are confident that with strong support from the public and corporations like the PSB Academy, our top athletes will be inspired further in their quest for Olympic glory for Singapore." said Mr Ng Ser Miang, International Olympic Committee (IOC) Executive Board Member and Chairman of P0812 and the Guest-of-Honour for this event.
 
