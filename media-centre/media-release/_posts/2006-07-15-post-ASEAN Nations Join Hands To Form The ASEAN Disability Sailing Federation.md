@@ -26,7 +26,7 @@ The establishment of the ADSF builds upon the first International Foundation of 
 
 
 **For more information, please contact:**
-<br>
+
 Singapore Disability Sports Council
 <br>
 Daphne Lim
