@@ -81,3 +81,8 @@ by Frankie Siu, Senior Sport Dietitian (Hong Kong Sports Institute)
 
 [Asian Games sharing - Learnings from Asian Games 2018 Taiwan](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-7_AG_sharing_-_Kang-Hao_Lu_-_Learnings_from_Asian_Games_2018_Taiwan.pdf)
 by Lu Kang-Hao
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7wu5yW09_Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Priming for Performance - what how and when](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-8_Andrew_Kilding_-_Priming_for_Performance_-_what_how_and_when.pdf)   
+by Professor Andrew Kilding, AUT University, New Zealand
