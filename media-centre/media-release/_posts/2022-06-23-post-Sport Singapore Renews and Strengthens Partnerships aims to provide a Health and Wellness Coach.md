@@ -16,7 +16,7 @@ EVERY SINGAPORE RESIDENT
 Collaborations to strengthen the suite of offerings, with target to engage   
 about 500,000 residents by 2027.
 
-Singapore, 22 June 2022 – By 2027, about 500,000 Singapore residents can have access to a health and wellness coach under Active Health, a nation-wide initiative by Sport Singapore (SportSG).
+**Singapore, 22 June 2022** – By 2027, about 500,000 Singapore residents can have access to a health and wellness coach under Active Health, a nation-wide initiative by Sport Singapore (SportSG).
 
 Today, SportSG affirms its partnerships with key healthcare partners – Health Promotion Board (HPB), MOH Office for Healthcare Transformation (MOHT), National Healthcare Group (NHG), National Healthcare Group Polyclinics (NHGP), National University Health System (NUHS), SingHealth, and Exercise is Medicine Singapore (EIMS) and to provide support and access to health and wellness programmes and services to Singapore residents.
 
