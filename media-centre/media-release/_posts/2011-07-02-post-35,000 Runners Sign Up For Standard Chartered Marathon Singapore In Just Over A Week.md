@@ -7,11 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
+### **35,000 Runners Sign Up For Standard Chartered Marathon Singapore In Just Over A Week**
 
-## **35,000 Runners Sign Up For Standard Chartered Marathon Singapore In Just Over A Week**
-
-
-*Most Categories are at Least 50% Filled Up; More Reasons to 'Run For Good' with Introduction of New Charity Platform*
+_Most Categories are at Least 50% Filled Up; More Reasons to 'Run For Good' with Introduction of New Charity Platform_
 ![](/images/Media%20Centre/Media%20Release/2011/Jul/Standardcharteredrun2011.jpeg)
 
 **Singapore, 2 July 2011** - History has been made again for the Standard Chartered Marathon Singapore (SCMS) 2011, as registration hit the halfway mark with 35,000 runners signed up as of 3pm today - a mere nine days since registration opened on 23 June at 11am. This meant that the Marathon saw an average of three sign-ups every minute over this period.
@@ -26,7 +24,7 @@ image: ""
 
 6. Online registration for the SCMS 2011 is ongoing with the Early Bird period ending on 20 July. Walk-in registration is also available at selected SSC Sports & Recreation Centres (SRCs).
 
-**'Run for good' introduces new platform**
+##### **'Run for good' introduces new platform**
 
 7. Along with creating an event that involves the community on a whole, the SSC is looking to translate the growing involvement to having participants taking part in the race with an additional purpose. Charity has always been part of the event, but to encourage more runners to be involved with its 'Run for good' programme, the SSC has introduced a brand new concept hosted on the online platform GIVE.sg, the Official Charity Fundraising Platform for 2011.
 
@@ -34,13 +32,12 @@ image: ""
 
 9. For further details of the SCMS 2011, please visit the Marathon's official website and Facebook page at [www.marathonsingapore.com](www.marathonsingapore.com) and [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG).
 
+[1] More charities will be added to the list for the 'Run for good' programme*
 
-*[1]*More charities will be added to the list for the 'Run for good' programme*
+---
 
--End-
+###### For media enquiries, please contact:
 
-**For media enquiries, please contact:**
-<br>
 Samantha See
 <br>Fulford Public Relations
 <br>DID: 6324 9316
@@ -52,18 +49,18 @@ Jemuel Fu
 <br>DID: 6500 5245
 <br>Email: jemuel_fu@ssc.gov.sg
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg)and SingaporeSports.sg
-<br>
+
 Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/singaporesports)and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About Standard Chartered Bank in Singapore**
-<br>
+###### About Standard Chartered Bank in Singapore
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
