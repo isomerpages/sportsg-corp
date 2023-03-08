@@ -67,11 +67,11 @@ Inspiring Sporting Singapore Photography Exhibition Venues from 6 to 31 August 2
 <br>Communications and Events
 <br>STC Associates
 <br>Phone: 6222 5700
-<br>Email: rdinesen@stcassociates.com
+<br>Email: [rdinesen@stcassociates.com](rdinesen@stcassociates.com)
 
 Patricia Yee
 <br>Executive
 <br>Media and Public Relations
 <br>Singapore Sports Council
 <br>Office: 6500 5246
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
