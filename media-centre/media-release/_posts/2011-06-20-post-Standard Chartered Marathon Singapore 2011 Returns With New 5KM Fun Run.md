@@ -9,7 +9,7 @@ image: ""
 ### **Standard Chartered Marathon Singapore 2011 Returns With New 5KM Fun Run**
 
 ![](/images/Media%20Centre/Media%20Release/2011/Jun/Standardcharteredrun2011.jpeg)
-*Singapore's Marquee Running Event Opens for Registration on 23 June 2011*
+_Singapore's Marquee Running Event Opens for Registration on 23 June 2011_
 
 **Singapore, 21 June 2011** - The Singapore Sports Council (SSC) announced today a brand new non-competitive race category, the 5km Fun Run, for the Standard Chartered Marathon Singapore (SCMS) 2011, to further cater to runners of all ages and levels, enhancing the Marathon's reputation as an all-inclusive race.
 
@@ -23,7 +23,7 @@ image: ""
 
 ---
 
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Samantha See
 <br>Fulford Public Relations
@@ -36,9 +36,9 @@ Jemuel Fu
 <br>DID: 6500 5245
 <br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
 
+---
 
-**About the Singapore Sports Council**
-<br>
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and SingaporeSports.sg
@@ -47,8 +47,7 @@ Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/sin
 
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About Standard Chartered Bank in Singapore**
-<br>
+###### About Standard Chartered Bank in Singapore
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
