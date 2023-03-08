@@ -28,7 +28,9 @@ Singapore, 16 April 2008 - In a bid to showcase the strong growth opportunities 
 
 8. While the government continues to seed the growth of the industry, corporate sector participation is also key. During the bid for the Youth Olympic Games, over 700 companies pledged their support. Said Minister Vivian at the CEO Gala Dinner, "While the government will seed the growth of the industry, ultimately, this has to be driven by the private sector. I am optimistic that the sports industry is primed for good growth from now till 2015 as we are beginning to see growing corporate sector participation and involvement in sports. For example, over 700 companies pledged their support for the Youth Olympic Games, through the Business Times. The sports industry is on an exponential growth path that will benefit the business community and I strongly urge all of you here this evening to ride this wave of opportunity."
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Gayle Wong
 <br>
