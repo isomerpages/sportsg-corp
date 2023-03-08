@@ -29,15 +29,11 @@ Exploratory use of energy recycling such as through the use of photo-voltic ligh
 
 8. Once completed, the Pasir Ris Sports Complex will be the SSC's 22nd Sports and Recreation Centre - all providing affordable and accessible facilities for Singaporeans to play as well as bond through sports with their friends and families.
 
--End-
+_Issued by the Integrated Marketing Communications Division, Singapore Sports Council on 20 December 2009_
 
-Issued by the Integrated Marketing Communications Division, Singapore Sports Council on 20 December 2009
+---
 
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
-
-**For more information, please contact:**
+###### For media enquiries, please contact:
 
 Tanty Nazlianah Rosli
 <br>
@@ -46,3 +42,8 @@ Manager, Integrated Marketing Communications
 Singapore Sports Council
 <br>
 Email : [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council*
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
