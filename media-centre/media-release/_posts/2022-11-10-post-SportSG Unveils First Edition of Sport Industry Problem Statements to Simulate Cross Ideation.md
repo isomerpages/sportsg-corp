@@ -16,7 +16,7 @@ image: ""
   
 Apart from providing a comprehensive overview of the challenges in the sport industry, the statements are also a call for innovative solutions from the larger market to encourage cross-pollination of ideas and expertise sharing. With this vision to drive inter-industry collaboration, SportSG and GSIC also launched the inaugural International Sports Groundbreakers Challenge. Open for application from today till 21 January 2023, this challenge is a public call for local and international companies to develop innovations in response to the identified problem statements.   
   
-Identifying the Industry’s Needs and Challenges  
+**Identifying the Industry’s Needs and Challenges**  
 Spearheaded by SportSG, the exercise of engaging partners to identify the respective problem statements helped to provide a thorough overview of the current challenges that businesses face. GSIC also played a key role in the process by reaching out to their extensive members network to aggregate relevant problem statements. Following inputs from more than 50 partners including private businesses, sport academies, and National Sport Associations both in Singapore and overseas, SportSG has identified more than 30 statements that are underpinned by the key pillars:   
   
 1. Fan Engagement – driving meaningful interaction and community activation with fans and participants that transcends geographical limits  
@@ -29,8 +29,8 @@ Spearheaded by SportSG, the exercise of engaging partners to identify the respec
   
 With the fast-moving pace and dynamic nature of the industry, SportSG aims to refresh the problem statements on a regular basis to give companies an accurate and relevant reflection of the scenario in the local and global sporting industry.  
   
-##### **Pushing the Boundaries with Technological Developments**
-
+**Pushing the Boundaries with Technological Developments**
+<br>
 In the same vein of driving transformation and enabling capabilities development, the International Sports Groundbreakers Challenge jointly organised by SportSG and GSIC seeks to inspire companies to push the envelope to ideate innovative solutions. Taking reference from the problem statements, participating teams will be required to propose a technological solution to resolve the identified issue. Participation is open to all to encourage cross-industry and cross-border collaboration while enabling start-ups to work alongside tech giants of the industry.   
   
 “In GSIC APAC’s first year of operations, we’ve increased our Asian-based members by 33% and today have more than 60 members on board. One of GSIC’s main goals has always been to provide access to innovative digital solutions for the region’s sports entities through a robust partner ecosystem. That’s why we are proud to be launching International Sports Groundbreakers Challenge in collaboration with Sport Singapore. This will be an invaluable opportunity for our members to showcase their technological solutions and expand the organisation’s footprint beyond their home base,” said Mr. Sebastian Lancestremere, GSIC President and Sports Managing Director at Microsoft.   
