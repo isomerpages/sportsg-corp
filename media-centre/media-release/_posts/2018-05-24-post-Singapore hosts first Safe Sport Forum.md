@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### **SINGAPORE HOSTS FIRST SAFE SPORT FORUM**
+### **Singapore Hosts First Safe Sport Forum**
 
 _Various stakeholders gathered to share insights and commit to take concrete actions against sexual misconduct in the sporting fraternity_
 
