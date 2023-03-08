@@ -20,6 +20,6 @@ Singapore25 will showcase Singapore’s trademark of innovation, sustainability,
   
 “We hope to welcome the world’s best athletes and their fans to Singapore in 2025. We have a proven track record of hosting world-class sports events successfully, and Singapore25 would be a strong addition that boosts our vibrancy and attractiveness as a lifestyle destination” said Mr Keith Tan, Chief Executive, Singapore Tourism Board.  
   
-The Singapore team will partner with Mr Ong Beng Seng, the man behind the success of the Singapore Grand Prix and its transformation into Formula 1’s first ever night race and one of the key highlights of the F1 calendar. Singapore will draw on the same innovation and expertise to reimagine the World Athletics Championships and deliver an event that aims to set a new bar for the future.  
+The Singapore team will partner with Mr Ong Beng Seng, the man behind the success of the Singapore Grand Prix and its transformation into Formula 1’s first-ever night race and one of the key highlights of the F1 calendar. Singapore will draw on the same innovation and expertise to reimagine the World Athletics Championships and deliver an event that aims to set a new bar for the future.  
   
 The results of the award are expected to be announced in July, during the World Athletics Championships in Oregon. The World Athletics Championships 2023 are due to take place in Budapest, Hungary.
