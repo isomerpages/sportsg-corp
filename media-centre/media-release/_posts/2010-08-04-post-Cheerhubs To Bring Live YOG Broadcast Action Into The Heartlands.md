@@ -56,7 +56,7 @@ Launched in 2000, StarHub has become one of Singapore's most innovative info-com
 <br>Media and Public Relations
 <br>Singapore Sports Council
 <br>Office: 6500 5246
-<br>Email: patricia_yee@ssc.gov.sg
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
 
 Huang Shu-Yin
 <br>Assistant Manager
