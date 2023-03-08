@@ -52,3 +52,7 @@ by Joyce Koh, Associate Sport Psychologist, SSI Sport Psychology
 by Danny Lum
 
 ##### **Day 2**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QQAFq7M7jZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Singapore Behaviour Change](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-1_Singapore_Behaviour_Change.pdf)
+by Shona Halson, PhD Associate Professor School of Behavioural and Health Sciences, Australian Catholic University
