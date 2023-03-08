@@ -95,22 +95,12 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Table Tennis | 10-14 October 2010
 | Powerlifting | 12 October 2010
 
- 
-
- 
-
- 
-
- 
-
- 
-
 TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS:
-
+<br>
 68 Athletes & 34 Officials
-
+<br>
 CHEF DE MISSION FOR TEAM SINGAPORE: Ms Annabel Pennefather
-
+<br>
 TEAM SINGAPORE FLAG BEARER: Feng Tian Wei (Table Tennis)
 
  
