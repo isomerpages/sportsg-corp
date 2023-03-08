@@ -27,7 +27,7 @@ Sport Singapore (SportSG) has initiated the termination of the Sports Hub Public
 
 6. In addition, with increasing regional competition from other world class venues on the horizon, there is a need to strengthen the Sports Hub’s position and coherence in the context of the larger Kallang Alive precinct. Taking ownership of the Sports Hub will enable closer integration of the Sports Hub with upcoming Kallang Alive facilities such as the Kallang Football Hub, Kallang Tennis Centre, and Youth Hub to deliver a more cohesive sporting and lifestyle precinct experience and more seamless event and programming offerings.
 
-##### **Termination of Project Agreement**
+**Termination of Project Agreement**
 
 7. The terms of the project agreement give SportSG the right to conclude the partnership and take ownership of the Sports Hub, at such time it sees fit. SportSG has decided for the termination to be effective on 9 December 2022.
 
@@ -39,7 +39,7 @@ Sport Singapore (SportSG) has initiated the termination of the Sports Hub Public
 
 10. The cost of terminating the PPP arrangement and taking over the operations of the Sports Hub is estimated to be comparable to the cost of continuing with the PPP arrangement until 2035.
 
-##### **Next steps**
+**Next steps**
 
 11. Both SportSG and SHPL are committed to working closely together to ensure that the handover will be smooth and will not affect the day-to-day operations and programming of the Sports Hub.
 
