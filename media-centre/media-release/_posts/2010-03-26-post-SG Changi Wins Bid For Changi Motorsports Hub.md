@@ -25,6 +25,7 @@ image: ""
 8. SG Changi is expected to release more details and the construction timeline at a later date.
 
 **Changi Motorsports Hub Project Milestones**
+
 | 30 March 2009 | Opened Request for Proposal (RFP) |
 |--|--|
 | 27 August 2009 | Closed Request for Proposal (RFP) |
