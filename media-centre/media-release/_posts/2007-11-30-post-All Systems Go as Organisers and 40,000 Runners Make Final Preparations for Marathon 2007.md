@@ -21,8 +21,9 @@ Mr Yazed Osman, Event Director for the Standard Chartered Singapore Marathon 200
 
 One thing that is familiar and has remained unchanged is the charity element of the event. In keeping with a tradition first started in 2003, runners are encouraged to "run for a cause" for the marathon's official charity and this year, organisers have adopted the Autism Association (Singapore) as the official beneficiary of the event. S$200,000 has been raised so far and the funds will go towards the building of a new school for the Association.
 
+---
 
-**For additional enquires, please contact:**
+###### For media enquiries, please contact:
 
 Sheila Thomas
 <br>
@@ -56,14 +57,13 @@ Tel: +65 6500 5238
 Email: evelyn_liu@ssc.gov.sg
 
 
-**About Singapore Sports Council**
-<br>
+---
+
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
-
-**About Standard Chartered Bank**
-<br>
-*Standard Chartered - leading the way in Asia, Africa and the Middle East*
+###### About Standard Chartered Bank
+_Standard Chartered - leading the way in Asia, Africa and the Middle East_
 
 Standard Chartered employs 38,000 people in 950 locations in more than 50 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas. Standard Chartered is one of the world's most international banks, with employees representing 80 nationalities.
 
