@@ -144,10 +144,25 @@ Study pre-approval
 | Participant Information Sheet | 05 August 2021 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/2_SSI-IRB_Specific_Participant_Information_Sheet_Template_August2021.pdf) |
 |Informed Consent| 12 August 2021| [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/3a_SSI-IRB_Specific_Informed_Consent_Template_August2021.pdf)|
 |Informed Consent [For Participant Under 21]| 12 August 2021| [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/3b_SSI-IRB_Specific_U21_Informed_Consent_Template_August2021.pdf)|
-| 3.General Research|||
+| 3. General Research|||
 |Participant Information sheet, Informed consent, Informed consent [For Participant Under 21]|12 August 2021|[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/4_SSI-IRB_General_Information_Sheet_Consent_Template_August2021.pdf)
 |4. Withdrawal / Dismissal Form|12 August 2021|[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/5_SSI-IRB_Withdrawal_Dismissal_Form_Template_August2021.pdf)
+|5. ResearchCollaboration Agreement (RCA)|August 2020|[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/Research_Collaboration_Agreement_template_v3.pdf)
+|6. Checklist|||
+|Checklist HRBA (non-tissue)|January 2021|Download
+**Study post-approval**
+| 6. Amendment Form | January 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Amendment_Form_v1.pdf)  |
+| 7. Incident Reporting |||
+| SOC Reporting Form | 24 March 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SOC_Reporting_Form.pdf)|
+| SAE Reporting Form | 24 March 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SAE_Reporting_Form.pdf) |
 
+**Guidelines**
+| Document Name | Version | Link |
+| -------- | -------- | -------- |
+| 1. IRB Guidelines 01 - Expedited Review | 1 January 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_01_Expedited_Review_as_of_1_Jan2020.pdf)|
+| 2. IRB Guidelines 02 - Exemption from Review | 1 January 2020 |[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_02_Exemption_from_Review_as_of_1_Jan2020.pdf)|
+| 3. IRB Guidelines 03 - Human Subjects | 28 April 2021 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_03_Human_Subjects_as_of_April2021.pdf)|
+| 4. IRB Guidelines 03 - Human Biological Research and Sample | 28 April 2021 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_04_Human_Biological_Research_and_Sample_as_of_April2021.pdf)|
 
 #### **Research Monitoring**
 The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf).
