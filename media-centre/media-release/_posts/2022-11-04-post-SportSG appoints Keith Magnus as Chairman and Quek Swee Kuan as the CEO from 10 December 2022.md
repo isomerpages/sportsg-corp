@@ -7,10 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Sport Singapore appoints Keith Magnus as the Chairman and Quek Swee Kuan as the Chief Executive Officer of the new entity that will manage the Singapore Sports Hub from 10 December 2022**
 
-Sport Singapore appoints **Keith Magnus** as the Chairman and **Quek Swee Kuan** as the Chief Executive Officer of the new entity that will manage the Singapore Sports Hub from 10 December 2022 , 04 Nov 2022
+Sport Singapore appoints Keith Magnus as the Chairman and Quek Swee Kuan as the Chief Executive Officer of the new entity that will manage the Singapore Sports Hub from 10 December 2022 , 04 Nov 2022
 
 A series of community activities at the national icon will be launched to mark the handover from the month of December
 
@@ -44,7 +43,7 @@ Mr Magnus has been a Sport Singapore board member since 2020 and has recently be
 
 [More info on Mr Keith Magnus](/files/Media%20Centre/Media%20Release/2022/November/Bio%20of%20Keith%20Magnus.pdf)
 
-**Mr **Quek Swee Kuan****
+**Mr Quek Swee Kuan****
 <br>CEO
 
 ![Quek Swee Kuan](/images/Media%20Centre/Media%20Release/2022/Nov/Quek%20Swee%20Kuan.jpeg)
