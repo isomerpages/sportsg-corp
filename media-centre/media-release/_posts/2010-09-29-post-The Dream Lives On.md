@@ -20,7 +20,7 @@ _The National Stadium Commemorative Book_
 
 Priced at an affordable S$20, the book will be available at selected SSC Sports & Recreation Centres:
 
-| S/N | Location | Address | Telephone
+| S/N | Location | Address | Telephone &nbsp; &nbsp;
 | --- | --- | --- | --- |
 | 1 | Tampines Swimming Complex | 505 Tampines Ave 5 (529652) | 6786 1151
 | 2 | Sengkang Booking Office | 57 Anchorvale Road (544964) | 6315 3574 
