@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Singapore Set To Welcome Asia's Top Youth Basketballers**
 
-NBA Players and Coaches to train and mentor 51 youth campers in Basketball without Borders Asia
+_NBA Players and Coaches to train and mentor 51 youth campers in Basketball without Borders Asia_
 
 **Singapore, 24 June 2010** - More than 50 top young and aspiring basketball players* from across Asia have been selected to participate in Basketball without Borders (BWB) Asia. This exciting announcement was revealed by the Singapore Sports Council (SSC), the National Basketball Association (NBA) and the International Basketball Federation (FIBA) today. This will be the first time BWB is being held in Singapore and Southeast Asia.
 
@@ -22,9 +22,9 @@ NBA Players and Coaches to train and mentor 51 youth campers in Basketball witho
 
 6. BWB Asia will feature Nike, The Fullerton Hotel Singapore, 100PLUS and StarHub as marketing partners, and Spalding as the official supplier. BWB marketing partners since 2002, Nike will again outfit all the camp participants and coaches with Nike footwear and apparel and Spalding will supply all basketball equipment for the camp.
 
--End-
+---
 
-*List of players participating in 2010 Basketball without Borders Asia
+List of players participating in 2010 Basketball without Borders Asia
 
 | Country | First name | Last name | Country | First name | Last name |
 | -------- | -------- | -------- |-------- | -------- | -------- |
@@ -54,95 +54,66 @@ NBA Players and Coaches to train and mentor 51 youth campers in Basketball witho
 | Jordan | Ahmad | Dwairi | Uzbekistan | Denis | Timofeev |
 | Jordan | Ahmed | Nofal | Vietnam |Le | Dat |
 | Kazakhstan | Dmitriy | Tsoy |
-<br>
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### For media enquiries, please contact:
+
+Singapore Sports Council<br>
+Jose Raymond<br>
+Deputy Director<br>
+Media Relations and Social Media<br>
+Singapore Sports Council<br>
+Office: (65) 6500 5289<br>Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
+
+Dominic Tay<br>
+Assistant Director<br>
+Media and Public Relations<br>
+Singapore Sports Council<br>
+Office: (65) 6500 5247<br>
+Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
+
+National Basketball Association<br>
+Rachel Walsh<br>
+Coordinator<br>
+International Communications<br>
+NBA New York<br>
+DID: (212) 407 8058<br>
+Email: [rwalsh@nba.com](mailto:rwalsh@nba.com)
+
+Kam Hung Ip<br>
+Senior Manager<br>
+International Communications<br>
+NBA Hong Kong<br>
+DID: (852) 2843 9628<br>
+Email: [khip@nba.com](mailto:khip@nba.com)
+
+FIBA<br>
+Simon Wilkinson<br>
+Tel.: (41) 22 545 00 00<br>
+Email: [communications@fiba.com](mailto:communications@fiba.com)
+
+Fulford PR<br>
+Ronda Ng<br>
+DID: (65) 6324 5293<br>
+Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
+
+Shane Neubronner<br>
+DID: (65) 6324 1378<br>
+Email: [sneubronner@fulfordpr.com](mailto:sneubronner@fulfordpr.com)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
+
 Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
+
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
+
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-**About the NBA**
-<br>
+###### About the NBA
 The NBA, founded in 1946, is a professional sports league and global business that features 30 teams in the United States and Canada. During the 2009-10 season, NBA games will reach 215 countries and territories in 41 languages. The league's worldwide reach is also displayed in the 80 international players from 35 countries and territories on NBA rosters. NBA merchandise is sold in more than 100,000 stores in 100 countries on six continents. NBA.com averages more than 26 million page views per day, with more than 50 percent of the site's visitors coming from outside of North America. Through NBA Cares, the league, its teams and players have donated more than $115 million to charity, provided more than one million hours of hands-on service to communities around the world, and created more than 450 places where kids and families can live, learn, or play.
-
-**For media enquiries, please contact:**
-<br>
-Singapore Sports Council
-<br>
-Jose Raymond
-<br>
-Deputy Director
-<br>
-Media Relations and Social Media
-<br>
-Singapore Sports Council
-<br>
-Office: (65) 6500 5289
-<br>Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
-
-Dominic Tay
-<br>
-Assistant Director
-<br>
-Media and Public Relations
-<br>
-Singapore Sports Council
-<br>
-Office: (65) 6500 5247
-<br>
-Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
-
-National Basketball Association
-<br>
-Rachel Walsh
-<br>
-Coordinator
-<br>
-International Communications
-<br>
-NBA New York
-<br>
-DID: (212) 407 8058
-<br>
-Email: [rwalsh@nba.com](mailto:rwalsh@nba.com)
-
-Kam Hung Ip
-<br>
-Senior Manager
-<br>
-International Communications
-<br>
-NBA Hong Kong
-<br>
-DID: (852) 2843 9628
-<br>
-Email: [khip@nba.com](mailto:khip@nba.com)
-
-FIBA
-<br>
-Simon Wilkinson
-<br>
-Tel.: (41) 22 545 00 00
-<br>
-Email: [communications@fiba.com](mailto:communications@fiba.com)
-
-Fulford PR
-<br>
-Ronda Ng
-<br>
-DID: (65) 6324 5293
-<br>
-Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
-
-Shane Neubronner
-<br>
-DID: (65) 6324 1378
-<br>
-Email: [sneubronner@fulfordpr.com](mailto:sneubronner@fulfordpr.com)
