@@ -18,8 +18,9 @@ The SISTIC board announced today that its shareholders would be divesting their 
 
 5. Said Mr Kenneth Tan, Deputy Chief Executive Officer of SISTIC, "Over the years, SISTIC has grown to become a household name in Singapore. More recently, our name, our expertise and our technology have expanded to many entertainment operations across the Asia Pacific region. Clearly, SISTIC is now ready to move on to the next level of expansion. We look forward to working with new partners who share common strategic synergies to further accelerate SISTIC's growth well beyond its pace. We are excited by this development and are geared up to take on the new challenges and opportunities that are waiting for us."
 
+---
 
-**For media inquiries, please contact:**
+###### For media enquiries, please contact:
 
 Gayle Wong (Ms)
 <br>
@@ -41,13 +42,12 @@ Singapore Sports Council
 <br>
 Email: [marilyn_ho@ssc.gov.sg](mailto:marilyn_ho@ssc.gov.sg)
 
+---
 
-**About SSC**
-<br>
+###### About SSC
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the World Wide Web: www.ssc.gov.sg
 
-**About Esplanade - Theatres On The Bay**
-<br>
+###### About Esplanade - Theatres On The Bay
 Esplanade - Theatres on the Bay is one of the world's busiest arts centres, officially opened on 12 October 2002. This architectural icon with its distinctive twin shells is sited within Singapore's civic district, just by Marina Bay at the mouth of the Singapore River.
 Esplanade aims to be a performing arts centre for everyone, and its programmes cater to its diverse audiences. Its programme line-up spans all genres to encompass music, dance, theatre and visual arts, with a special focus on Asian culture.
 
