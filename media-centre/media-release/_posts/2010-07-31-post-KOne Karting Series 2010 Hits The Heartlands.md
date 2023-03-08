@@ -17,18 +17,18 @@ Organisers Bring High Octane Action To Over 10,000 People As Singapore Gears Up 
 
 3 Students, alongside 18 and 36 junior participants from private sports clubs and Asian Women's Welfare Association (AWWA) EXCELerate Services respectively, were invited to join the first go-karting session from 9am to 12pm, while the second session was opened to the public from 1pm to 5pm. The Sports Fest was hosted by the Kallang Community Club as part of the celebration for the Singapore 2010 Youth Olympic Games, and witnessed a healthy turnout comprising youths and their family members. The event was graced by Dr Lee Boon Yang, Member of Parliament for Jalan Besar GRC and Adviser for Jalan Besar GROs.
 
-4 "To grow a strong motorsports culture in Singapore, we need to bring the sport to the people. The K1 Karting Series does that in bringing go-karting to the community and thereby allowing the community at large to participate and feel the dynamics of racing. Events like K1 also help people to appreciate motorsports related events, such as the Formula 1 Singapore Grand Prix and gear up our people for other racing events in the upcoming Changi Motorsports Hub in 2012," said Mr Fan Chian Jen, Director, Facilities and F1 Team, SSC.
+4. "To grow a strong motorsports culture in Singapore, we need to bring the sport to the people. The K1 Karting Series does that in bringing go-karting to the community and thereby allowing the community at large to participate and feel the dynamics of racing. Events like K1 also help people to appreciate motorsports related events, such as the Formula 1 Singapore Grand Prix and gear up our people for other racing events in the upcoming Changi Motorsports Hub in 2012," said Mr Fan Chian Jen, Director, Facilities and F1 Team, SSC.
 
-5 On top of K1, participants were also treated to a slew of activities such as archery, Fuzion Ball, street soccer, drumming and wine appreciation workshops, balloon sculpting and face painting. Go-karting participants dressed in their favourite Formula 1 attire (t-shirt, cap, etc) also received Let's Play souvenirs.
+5. On top of K1, participants were also treated to a slew of activities such as archery, Fuzion Ball, street soccer, drumming and wine appreciation workshops, balloon sculpting and face painting. Go-karting participants dressed in their favourite Formula 1 attire (t-shirt, cap, etc) also received Let's Play souvenirs.
 
-6 Star cadet karters from local racing outfit Drakar Racing also donned their red and black team colours at the event. Drakar's star cadet karters Jon Lee, Glenn Chiam, Jordan Tay and star junior karter Amin Noorzilan have been on the podium for every round of the Singapore National Karting Championship to-date. Along with the rest of the team like senior karters Mohammad Nasri Naufal and Sean Hudspeth, karters from Drakar Racing shared their experiences with the community and how motorsports is fun and beneficial for youth development.
+6. Star cadet karters from local racing outfit Drakar Racing also donned their red and black team colours at the event. Drakar's star cadet karters Jon Lee, Glenn Chiam, Jordan Tay and star junior karter Amin Noorzilan have been on the podium for every round of the Singapore National Karting Championship to-date. Along with the rest of the team like senior karters Mohammad Nasri Naufal and Sean Hudspeth, karters from Drakar Racing shared their experiences with the community and how motorsports is fun and beneficial for youth development.
 
-7 The organising committee is currently finalising the details of the remaining three pit-stops and will release information as soon as they are confirmed. Activities in the pipeline include a go-karting challenge, dance party, two-day carnival and the first K1 night go-karting session. Latest updates on the K1 Karting Series 2010 can be found on www.k1.sg
-statics0
+7. The organising committee is currently finalising the details of the remaining three pit-stops and will release information as soon as they are confirmed. Activities in the pipeline include a go-karting challenge, dance party, two-day carnival and the first K1 night go-karting session. Latest updates on the K1 Karting Series 2010 can be found on [www.k1.sg](www.k1.sg)
+
 -End-
 
-About the Singapore Sports Council
-statics0
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
