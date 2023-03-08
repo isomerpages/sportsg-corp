@@ -11,9 +11,9 @@ image: ""
 SINGAPORE SPORTS HUB DEAL SIGNED
 Singapore, 25 August 2010 - The Singapore Sports Council (SSC) and the Singapore Sports Hub Consortium (SSHC) signed the contract today for the consortium to design, build, finance and operate the Singapore Sports Hub for the next 25 years. The consortium will begin demolition of the National Stadium by October 2010, and the new Sports Hub will open its doors by April 2014.
 
-2 Said Dr Vivian Balakrishnan, Minister for Community Development, Youth & Sports: "I am glad that we are ready to start construction of the Singapore Sports Hub. It will be a fully integrated sports, leisure, entertainment and lifestyle hub for world class events and community activities. The facilities will be accessible to both the general public and top athletes to train and compete in."
+2. Said Dr Vivian Balakrishnan, Minister for Community Development, Youth & Sports: "I am glad that we are ready to start construction of the Singapore Sports Hub. It will be a fully integrated sports, leisure, entertainment and lifestyle hub for world class events and community activities. The facilities will be accessible to both the general public and top athletes to train and compete in."
 
-3 "As part of the Greater Marina Bay masterplan, the Singapore Sports Hub will also contribute to the larger government objective of repositioning Singapore as a great place to work, live and play," added Dr Balakrishnan.
+3. "As part of the Greater Marina Bay masterplan, the Singapore Sports Hub will also contribute to the larger government objective of repositioning Singapore as a great place to work, live and play," added Dr Balakrishnan.
 
 4 Mr Oon Jin Teik, Chief Executive Officer of the Singapore Sports Council said: "Based on international feedback and comparison of the Singapore Sports Hub with other major sports facilities around the world, I am confident to say that our Sports Hub is highly unique as it is conceived as part of the larger Sporting Singapore 2001 blueprint which looks at sports development holistically. It is guided by the project objectives and desired outcomes which have a clear focus on target audiences. A programming-led strategy will keep the Sports Hub abuzz with activities on a daily basis and we have the world's first integrated land and water sports facility with extensive retail space and a sea front location within the city."
 
@@ -55,27 +55,24 @@ Join SSC on Twitter at: www.twitter.com/singaporesports
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-statics0
-For media enquiries, please contact:
-S. Parameswaran (Parames)
-Senior Manager
-Corporate Communications & Relations
-Singapore Sports Council
-Office: (65) 6500 5236
-Email: parames_seenivasagam@ssc.gov.sg
-statics0
-statics0	
+
+**For media enquiries, please contact:**
+<br>S. Parameswaran (Parames)
+<br>Senior Manager
+<br>Corporate Communications & Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5236
+<br>Email: parames_seenivasagam@ssc.gov.sg
+
 Eugene De Rozario
-Senior Commercial Manager
-SportsHub Pte Ltd
-Tel: (65) 6595 5622
-Email: e.derozario@bouygues-construction.com
-statics0
+<br>Senior Commercial Manager
+<br>SportsHub Pte Ltd
+<br>Tel: (65) 6595 5622
+<br>Email: e.derozario@bouygues-construction.com
+
 Alvin Hang
-Director
-Corporate Communications & Relations
-Singapore Sports Council
-Office: (65) 6500 5164
-Email: alvin_hang@ssc.gov.sg
-statics0
-statics0
+<br>Director
+<br>Corporate Communications & Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5164
+<br>Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
