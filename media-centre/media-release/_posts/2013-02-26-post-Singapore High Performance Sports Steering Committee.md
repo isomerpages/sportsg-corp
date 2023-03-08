@@ -28,21 +28,21 @@ image: ""
 **Composition of Committee:**
 
 **Chairman**
-* Mr Lawrence Wong
+* **Mr Lawrence Wong**
 <br>Ag Minister for Culture, Community and Youth
 
 **Members**
-* Mr Teo Ser Luck
+* **Mr Teo Ser Luck**
 <br>Minister of State
 <br>Ministry of Trade and Industry
 
-* Dr Ben Tan
+* **Dr Ben Tan**
 <br>President, Singapore Sailing Federation
 
-Mrs Deborah Tan
+* **Mrs Deborah Tan**
 <br>Principal, Singapore Sports School
 
-Mr Edmond Pereira
+* **Mr Edmond Pereira**
 <br>Executive Director
 <br>Edmond Pereira Law Corporation
 
