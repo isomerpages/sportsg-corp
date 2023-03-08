@@ -34,3 +34,12 @@ Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20a
 * Click here to download the pdf version of Presentation - Dr Peter Usher
 * [Click here to download the pdf version of Presentation - Prof Hong Ping](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Prof20Hongping.pdf)
 * Click here to download the pdf version of Presentation - Mr Shaunak Ahuja
+
+Disclaimer
+----------
+
+Please note that the presentation slides are for your personal reference only. The presenters named above own the rights to the slides and have requested that no part of these slides may be reproduced or copied for any commercial purposes.
+
+**More Information**
+
+For more information, or to register your interest for next year's Symposium, please email [SSC_SSI_Research@ssc.gov.sg](mailto:SSC_SSI_Research@ssc.gov.sg)
