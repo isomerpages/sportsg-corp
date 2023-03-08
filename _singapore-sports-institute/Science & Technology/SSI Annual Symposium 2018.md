@@ -38,3 +38,15 @@ by Dr John Sullivan
 
 [Biomechanics](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Biomechanics_Final_Symp18_071118.pdf)
 by Sport Biomechanics Team
+
+**[Nutrition](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/SS-Symposium-2018-Nutrition-Breakout.ashx?la=en&hash=EF507E7552715CBFA1F7CF0F109FCC40606AC3A7)**  
+by Sport Nutrition Team
+
+**[Physiology](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/Practical-Approach-to-Assessing-Prescribing-and-Monitoring-Aerobic-Fitness-and-Training-in-Intermittent-Sports.ashx?la=en&hash=68C7834FB2AEDA8438B17BE0A30EE3D1D9C7B415)**  
+by Joel Pang & Abdul Rashid Aziz, Sports Physiology Team
+
+**[Psychology](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/Joyce-Koh---Mind-Matters_Breakout.ashx?la=en&hash=836AC9AEAC9BE254AD9DB4A220DDEE42209A7BA4)**  
+by Joyce Koh, Associate Sport Psychologist, SSI Sport Psychology
+
+**[Strength and Conditioning](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/Danny-Lum---Singapore-Sport-Science-Symposium_Isometric-Core-Exercise.ashx?la=en&hash=3546471B6A6A4A9B1D5CF7579616A3C8630CD2C4)**  
+by Danny Lum
