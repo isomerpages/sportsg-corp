@@ -44,7 +44,7 @@ Supporters are also invited to join in the official send-off for the Team Singap
 
 ---
 
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Sheila Thomas(Ms)
 <br>
@@ -104,19 +104,15 @@ Email: [kelly.fan@sdsc.org.sg](mailto:kelly.fan@sdsc.org.sg)
 
 ---
 
-**About Singapore National Olympic Council**
-<br>
+###### About Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
 
-**About Singapore Disability Sports Council**
-<br>
+###### About Singapore Disability Sports Council
 SDSC is the national sports body for the disabled in Singapore. It is the only local organization that caters sports for persons across all kinds of disabilities. It aims to help the disabled lead full and independent lives through sports. Besides providing sporting opportunities for them to realize their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. For more information, please visit http://www.sdsc.org.sg.
 
-**About Team Singapore**
-<br>
+###### About Team Singapore
 On 20 April 2001, Team Singapore was launched by Deputy Prime Minister Dr Tony Tan. Team Singapore is the approach through which the Singapore sporting fraternity works together to realise our vision of a sporting Singapore. Team Singapore is about putting aside personal or organisational interests and working together as a team. It is about Singaporeans striving together for sporting excellence for the nation. At the heart of Team Singapore lies three core values - Fighting Spirit, National Pride and Teamwork - stressing the notion that by working together, the whole can be greater than the sum of its parts. Team Singapore is the means through which Singaporeans can foster closer relations when rallying support for our athletes when they compete for top sporting accolades. Through sports, Team Singapore helps to build a cohesive and resilient society. Visit www.teamsingapore.com.sg for more information.
