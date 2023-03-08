@@ -9,7 +9,7 @@ image: ""
 ---
 ### **Final Preparations For The Inaugural Asian Youth Games On Track, As Shared With Sports Fraternity**
 
-Singapore, 12 May 2009 - With less than 50 days to the 1st Asian Youth Games (AYG) Singapore 2009, the Singapore Asian Youth Games Organising Committee (SAYGOC) shared its final preparations for the Games with the local sports fraternity at the Singapore Sports Council's (SSC) 2nd Singapore Sports Networking Session 2009 this evening.
+**Singapore, 12 May 2009** - With less than 50 days to the 1st Asian Youth Games (AYG) Singapore 2009, the Singapore Asian Youth Games Organising Committee (SAYGOC) shared its final preparations for the Games with the local sports fraternity at the Singapore Sports Council's (SSC) 2nd Singapore Sports Networking Session 2009 this evening.
 
 2. Details shared at the Session include the unveiling of the medal design for the 455 AYG medals. The medal epitomises the spirit of the Games with the AYG logo as its centrepiece, underscoring the Olympic values of 'Excellence, Respect and Friendship', embossed down the side of the champion's ribbon. The reverse side of the medal has the AYG mascot, FRASIA, to symbolise the friendships forged through the Games, as well as an orchid - our national symbol to represent Singapore as the host nation.
 
@@ -25,17 +25,15 @@ Singapore, 12 May 2009 - With less than 50 days to the 1st Asian Youth Games (AY
 
 8. The 2nd Singapore Sports Networking Session is one of many platforms the SSC has introduced to facilitate open communication with stakeholders and partners within the sporting fraternity. The SSC sees these dialogue sessions as an important networking tool to assist in their vision of developing sports in Singapore and making sports a way of life for all for the larger community
 
-Issued by the Singapore Asian Youth Games Organising Committee
+_Issued by the Singapore Asian Youth Games Organising Committee_
 
+---
 
-**About the 1st Asian Youth Games Singapore 2009**
-<br>
+###### About the 1st Asian Youth Games Singapore 2009
 The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore's Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia?s (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG, which is co-organised by the Singapore Sports Council and the Ministry of Education, aims to gather the youth from around Asia in a celebration of youth, sports and learning, where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 90 events across nine sports from 29 June to 7 July 2009.
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
 
-**About Ministry of Education**
-<br>
+###### About Ministry of Education
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
