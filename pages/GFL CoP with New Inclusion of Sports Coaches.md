@@ -38,3 +38,5 @@ Shane Hong from Character & Leadership Development Team hosting the GFL CoP sess
 The CoP participants also self-organized themselves in an open space discussion on CLDS topics and challenges that concerned them. Participants were provided the mobility to move around to conversations that resonated with them and which they felt deserve more discussions.
 
 Coaches or sports educators who are interested to contribute and be part of the CLDS conversations in consecutive CoP sessions can [email us](mailto:hong_xue_en@sport.gov.sg) and share with us your experiences implementing CLDS in your sphere of influence.
+
+[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
