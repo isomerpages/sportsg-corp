@@ -8,7 +8,7 @@ image: ""
 ---
 ### **1st Asian Youth Games Singapore 2009 Mascot And Theme Song Unveiled**
 
-Singapore, 19 March 2009 - The official mascot and theme song for the first Asian Youth Games Singapore has been officially unveiled today by Guest-of-Honour Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports & Ministry of Transport at a ceremony witnessed by hundreds of Singaporeans at Velocity.
+**Singapore, 19 March 2009** - The official mascot and theme song for the first Asian Youth Games Singapore has been officially unveiled today by Guest-of-Honour Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports & Ministry of Transport at a ceremony witnessed by hundreds of Singaporeans at Velocity.
 
 ##### **Official Mascot**
  
@@ -26,8 +26,9 @@ Singapore, 19 March 2009 - The official mascot and theme song for the first Asia
 
 7. The theme song can be downloaded from the AYG website at ayg2009.sg
 
+---
 
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Ion Danker
 <br>
@@ -77,17 +78,15 @@ Mobile: 9634 7199
 <br>
 Email: [jeanne_tan@moe.gov.sg](mailto:jeanne_tan@moe.gov.sg)
 
-**About the 1st Asian Youth Games Singapore 2009**
-<br>
+---
+
+###### About the 1st Asian Youth Games Singapore 2009
 The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore's Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia's (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008.
 
 The inaugural AYG, which will be co-organised by the Singapore Sports Council and the Ministry of Education aims to gather the youth from around Asia in a celebration of youth, sports and learning where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 90 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.sg for more information.
 
-
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-**About Ministry of Education**
-<br>
+###### About Ministry of Education
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
