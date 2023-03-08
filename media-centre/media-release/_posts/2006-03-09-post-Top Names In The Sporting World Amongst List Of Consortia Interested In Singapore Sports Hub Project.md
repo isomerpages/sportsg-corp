@@ -19,13 +19,12 @@ The Sports Hub will be a fully integrated sports, entertainment and lifestyle hu
 
 ---
 
-**Issued by**
-<br>
+###### Issued by
 Ministry Of Community Development, Youth And Sports &<br>
 Singapore Sports Council
 
-**For media enquiries, please contact:**
-<br>
+###### For media enquiries, please contact:
+
 Name: Mr Harold Lim
 <br>
 DID: 6354 8174
