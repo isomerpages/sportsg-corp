@@ -4,7 +4,7 @@ permalink: /what-we-do/anti-doping-singapore/education/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-To achieve its vision that "Every Singaporean Athlete is a True Winner", one of the key strategies of Anti-Doping Singapore (ADS) is through anti-doping education.
+To achieve its vision that *"Every Singaporean Athlete is a True Winner"*, one of the key strategies of Anti-Doping Singapore (ADS) is through anti-doping education.
 
 It is through our education programmes that ADS aims to:
 * promote doping-free behaviour that positively influence athletes' beliefs, attitudes and behaviour toward doping in sport; and
