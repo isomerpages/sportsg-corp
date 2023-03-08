@@ -26,8 +26,8 @@ Singapore, 28 October 2007 - Singapore Sports Council (SSC) officially opens Jur
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 S. Parameswaran
 <br>
 Manager, (Corporate & Marketing Communications)
