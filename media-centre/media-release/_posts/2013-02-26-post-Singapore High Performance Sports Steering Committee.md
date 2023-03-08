@@ -46,25 +46,25 @@ image: ""
 <br>Executive Director
 <br>Edmond Pereira Law Corporation
 
-Mr Hugh Lim
+* **Mr Hugh Lim**
 <br>Deputy Secretary
 <br>Ministry of Culture, Community and Youth
 
-Dr Lam Pin Min
+* **Dr Lam Pin Min**
 <br>President, Singapore Dragon Boat Association
 
-Mr Ng Ser Miang
+* **Mr Ng Ser Miang**
 <br>Vice President
 <br>Singapore National Olympic Council
 
-Mr Richard Seow
+* **Mr Richard Seow**
 <br>Chairman
 <br>Singapore Sports Council
 
-Mr Tan Ju Seng
+* **Mr Tan Ju Seng**
 <br>President
 <br>Singapore National Paralympic Council
 
-Mr Tan Soo Nan
+* **Mr Tan Soo Nan**
 <br>Chief Executive Officer
 <br>Tote Board
