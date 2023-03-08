@@ -4,6 +4,7 @@ permalink: /what-we-do/anti-doping-singapore/anti-doping-rule-violation/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
+#### **RESULTS MANAGEMENT PROCESS**
 ![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Fair_Hearing.png)
 
 The laboratory that has analysed your A Sample will report the results simultaneously to the Anti-Doping Organisation, such as Anti-Doping Singapore (ADS), and the World Anti-Doping Agency (WADA). Your B Sample is frozen and analysed if there is an Adverse Analytical Finding on your A Sample. Note that the samples analysed are identified by code numbers and not athlete names.
@@ -35,6 +36,7 @@ ADS will report the outcome of the review to the Athlete if the review reveals t
 The detection of a prohibited substance in a sample is only one of many ways that can result in an anti-doping rule violation. Doping is defined as the occurrence of one or more of the following anti-doping rule violations that can result in a sanction.
 
 An athlete may be deemed to have committed an anti-doping rule violation if they:
+
 1.	Have a prohibited substance or its metabolites in their urine or blood sample;
 2.	Use, or attempt to use, a prohibited substance and/or prohibited method;
 3.	Evade, refuse or fail to submit to sample collection after notification of testing without compelling reason;
