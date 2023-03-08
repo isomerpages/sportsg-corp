@@ -21,22 +21,21 @@ Proposals were delivered to the Singapore Sports Council (SSC) by the following 
 The evaluation of the proposals will begin in March, with the successful consortium expected to be announced by the middle of this year.
 
 Bids will be evaluated on four criteria:
-<br>
 *  Appeal of sports, leisure and entertainment programming (40%)
 *  Functionality and quality design (25%)
 *  Financial and legal appeal (25%)
 *  Facilities management (10%)
 
-**Enclosures**
-<br>
-[Annex A: Singapore Sports Hub Consortium Team List]([](/files/Media%20Centre/Media%20Release/2007/February/ANNEXA280207.pdf))
-<br>
-[Annex B: Singapore Sports Hub Project Timeline](/files/Media%20Centre/Media%20Release/2007/February/ANNEXB280207pdf.pdf)
-<br>
+---
+
+###### Enclosures
+[Annex A: Singapore Sports Hub Consortium Team List]([](/files/Media%20Centre/Media%20Release/2007/February/ANNEXA280207.pdf))<br>
+[Annex B: Singapore Sports Hub Project Timeline](/files/Media%20Centre/Media%20Release/2007/February/ANNEXB280207pdf.pdf)<br>
 [Annex C: Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2007/February/ANNEXC280207pdf.pdf)
 
+---
 
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Alvin Hang
 <br>
