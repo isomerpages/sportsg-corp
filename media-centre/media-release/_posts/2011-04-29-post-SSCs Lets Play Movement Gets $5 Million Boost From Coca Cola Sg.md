@@ -8,8 +8,8 @@ image: ""
 ---
 ### **Singapore Sports Council's Let's Play Movement Gets S$5 Million Boost From Coca-Cola Singapore**
 
-SINGAPORE SPORTS COUNCIL'S LET'S PLAY MOVEMENT GETS S$5 MILLION BOOST FROM COCA-COLA SINGAPORE
-SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Communities
+_SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Communities_
+
 **Singapore, 29 April 2011** - The Let's Play movement is receiving a S$5 million boost as the Singapore Sports Council (SSC) and Coca-Cola team up to bring more sporting fun to the local communities in Singapore.
 
 2. The five-year partnership (from 2011 to 2015) will see the SSC and Coca-Cola working together to increase participation in sporting activities at the grassroots level in Singapore. The aim is to invite all Singaporeans to embrace the Let's Play values and make sports a lifestyle choice be it through playing, watching, cheering or volunteering for sports.
@@ -32,24 +32,48 @@ SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commun
 
 ---
 
-**Annex A - Schedule of Let's Play Non-Stop!**
+###### Annex A - Schedule of Let's Play Non-Stop!
 
-| Month| Sport | Mall | Sports and Recreation Centre | Mall <br>(12- 8pm)  | SRC <br>(12- 4pm)
-| -------- | -------- | -------- | -------- |-------- |-------- |
-| April    | Netball     | IMM     | Sengkang SRC    | April 29 & 30   | May 1
-| May | Bowling | Junction 8 | Tampines SRC | May 14 & 15 | May 21
-| June | Badminton | Bukit Panjang Plaza | Yio Chu Kang SRC | June 4 & 5 | June 11
-| July | Athletics | Lot 1 | Hougang SRC | July 9 & 10 | July 16
-| August | Motorsports | Clarke Quay | Jurong West SRC | August 27 & 28 | September 10
-| September | Golf | Funan | Jurong East SRC | September 3 & 4 | September 24
-| October | Table Tennis | Tampines Mall | Toa Payoh SRC | October 8 & 9 | October 22
-| November | Multi - Sports | IMM | Pasir Ris SRC | October 29 & 30 | November 5
+| Month     | Sport          | Mall                | Sports and Recreation Centre | Mall (12- 8pm)     | SRC (12- 4pm)     |
+| --------- | -------------- | ------------------- | ---------------------------- | ------------------ | ----------------- |
+| April     | Netball        | IMM                 | Sengkang SRC                 | April 29 & 30      | May 1             |
+| May       | Bowling        | Junction 8          | Tampines SRC                 | May 14 & 15        | May 21            |
+| June      | Badminton      | Bukit Panjang Plaza | Yio Chu Kang SRC             | June 4 & 5         | June 11           |
+| July      | Athletics      | Lot 1               | Hougang SRC                  | July 9 & 10        | July 16           |
+| August    | Motorsports    | Clarke Quay         | Jurong West SRC              | August 27 & 28     | September 10      |
+| September | Golf           | Funan               | Jurong East SRC              | September 3 & 4    | September 24      |
+| October   | Table Tennis   | Tampines Mall       | Toa Payoh SRC                | October 8 & 9      | October 22        |
+| November  | Multi - Sports | IMM                 | Pasir Ris SRC                | October 29 & 30    | November 5        |
 
-Annex B - Fact Sheet on World Netball Championships
-<br>[Fact Sheet on World Netball Championships.pdf ](/files/Media%20Centre/Media%20Release/2011/Apr/Fact%20Sheet%20on%20World%20Netball%20Championshipspdf.pdf)[126 Kb]
 
-**About the Singapore Sports Council**
-<br>
+###### Annex B - Fact Sheet on World Netball Championships
+
+[Fact Sheet on World Netball Championships.pdf ](/files/Media%20Centre/Media%20Release/2011/Apr/Fact%20Sheet%20on%20World%20Netball%20Championshipspdf.pdf)[126 Kb]
+
+---
+
+###### For media enquiries, please contact:
+
+**For media enquiries on the SSC and Let's Play Non-Stop!**
+
+Patricia Yee
+<br>Executive
+<br>Media Relations
+<br>Singapore Sports Council
+<br>Office: (65) 6500 5246
+<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+
+**For media enquiries on Coca-Cola**
+
+June Kong
+<br>Public Affairs and Communications
+<br>Coca-Cola Singapore
+<br>Office: (65) 6860 4067
+<br>Email: [jkong@apac.ko.com](jkong@apac.ko.com)
+
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg ](www.ssc.gov.sg )and [www.singaporesports.sg](www.singaporesports.sg)
@@ -60,12 +84,10 @@ Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref
 
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-**About Let's Play**
-<br>
+###### About Let's Play
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
 
-**About Coca-Cola**
-<br>
+###### About Coca-Cola
 Coca-Cola Singapore is the leader in nonalcoholic beverages in Singapore. In addition to the world's most valuable brand, Coca-Cola, Coca-Cola Singapore also produces, markets and distributes a total beverage portfolio of sparkling beverages, zero-sugar sparkling drinks (Coke light and Coke Zero), juice drinks (Minute Maid), teas (Heaven and Earth) and water (Dasani and vitaminwater).
 
 Coca-Cola Singapore is committed to supporting programs and partnerships that encourage Singaporeans to be more physically active, such as the Youth Olympic Games. Coca-Cola Singapore introduced the Step With It, Singapore! program in 2003 which has benefited over 120 primary schools and 350,000 Singaporeans. The local football team Home United has also been supported by Coca-Cola since 2002, in a commitment that exceeds SGD2.5 million.
@@ -73,20 +95,3 @@ Coca-Cola Singapore is committed to supporting programs and partnerships that en
 The Coca-Cola system in Singapore is a Gold award recipient of the Food Safety Awards for excellence in hygiene and food safety standards and maintaining an 'A' grade rating for 15 consecutive years. Coca-Cola was also awarded the Gold award in the 3R Packaging Awards 2010 for reducing packaging waste.
 
 For more information about The Coca-Cola Company or Coca-Cola Singapore, please visit [www.thecoca-colacompany.com](www.thecoca-colacompany.com) and [www.coca-cola.com.sg](www.coca-cola.com.sg).
-
-**For media enquiries on the SSC and Let's Play Non-Stop!, please contact:**
-
-Patricia Yee
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
-
-**For media enquiries on Coca-Cola, please contact:**
-
-June Kong
-<br>Public Affairs and Communications
-<br>Coca-Cola Singapore
-<br>Office: (65) 6860 4067
-<br>Email: [jkong@apac.ko.com](jkong@apac.ko.com)
