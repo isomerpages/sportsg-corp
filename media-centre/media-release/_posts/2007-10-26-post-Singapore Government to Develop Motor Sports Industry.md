@@ -31,8 +31,8 @@ Singapore has a large following of motor sport enthusiasts with over 100 car clu
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Alvin Hang
 <br>
 Deputy Director (Group Communications)
@@ -59,5 +59,6 @@ Email: [marilyn_ho@ssc.gov.sg](mailto:marilyn_ho@ssc.gov.sg)
 
 ---
 
-###### About SSC
+**About Singapore Sports Council**
+<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the World Wide Web: www.ssc.gov.sg
