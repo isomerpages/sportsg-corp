@@ -6,15 +6,14 @@ layout: post
 description: ""
 image: ""
 ---
-New Appointments To The Singapore Sports Council
-Singapore , 15 Sep 2010
+## **New Appointments To The Singapore Sports Council**
 
 NEW APPOINTMENTS TO THE SINGAPORE SPORTS COUNCIL
 Singapore, 15 September 2010 - Mr Richard Seow Yung Liang will assume the post of Chairman of the Singapore Sports Council with effect from 1 October 2010 .
 
-2 Mr Seow, 48, is currently the Chairman of Republic Polytechnic and Chairman of the Anglo-Chinese School Board of Governors. A former investment banker, Mr Seow was previously also Chairman of the Board of Parkway Holdings Limited.
+2. Mr Seow, 48, is currently the Chairman of Republic Polytechnic and Chairman of the Anglo-Chinese School Board of Governors. A former investment banker, Mr Seow was previously also Chairman of the Board of Parkway Holdings Limited.
 
-3 MCYS expresses its appreciation to the outgoing Chairman, Mr Alexander Chan Meng Wah, for his contributions to sports for over 19 years, including the past 8 years as SSC Chairman. Said Minister (CYS), Dr Vivian Balakrishnan, "I am very grateful to Mr Alex Chan for playing such a major role in remaking the sporting landscape. During his term as Chairman, SSC implemented most of the groundbreaking recommendations of the Committee on Sporting Singapore. Under his leadership, SSC successfully organised the Asian Youth Games in 2009 and was a key partner in the Youth Olympic Games in 2010. SSC awarded the tender for the Changi Motorsports Hub earlier this year. In addition, SSC signed the contract with the Singapore Sports Hub Consortium to design, build, finance and operate the new Sports Hub last month. He has devoted invaluable time, effort and ideas in his quiet tireless and effective way."
+3. MCYS expresses its appreciation to the outgoing Chairman, Mr Alexander Chan Meng Wah, for his contributions to sports for over 19 years, including the past 8 years as SSC Chairman. Said Minister (CYS), Dr Vivian Balakrishnan, "I am very grateful to Mr Alex Chan for playing such a major role in remaking the sporting landscape. During his term as Chairman, SSC implemented most of the groundbreaking recommendations of the Committee on Sporting Singapore. Under his leadership, SSC successfully organised the Asian Youth Games in 2009 and was a key partner in the Youth Olympic Games in 2010. SSC awarded the tender for the Changi Motorsports Hub earlier this year. In addition, SSC signed the contract with the Singapore Sports Hub Consortium to design, build, finance and operate the new Sports Hub last month. He has devoted invaluable time, effort and ideas in his quiet tireless and effective way."
 
 4 Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd, will be appointed as SSC Deputy Chairman with effect from 1 October 2010. The other new members who will be appointed to the Council are:
 (i) Ms Ong Toon Hui, Deputy Secretary, MCYS
