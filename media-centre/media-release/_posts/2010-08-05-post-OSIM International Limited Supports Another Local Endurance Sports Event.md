@@ -43,7 +43,7 @@ For a range of photographs, search for "Singapore Sports Council" on [www.flickr
 <br>
 SGX mainboard-listed OSIM is a global leader in well-being and healthy lifestyle products and is the official co-sponsor of the Standard Chartered Marathon Singapore 2010. Established in 1980, OSIM has over 30 years of experience and uncompromising dedication in developing innovative and quality products. As an IP developer, OSIM controls its brands, designs, technologies and concepts. It's unique and holistic approach to well-being is based on four complementary focuses - Health, Hygiene, Fitness and Nutrition, each carrying the fundamental theme of well-being, lifestyle and positive attitude. Ranked as Number 1 and the most preferred brand in healthy lifestyle products across Asia today, OSIM operates a global point-of-sales network through the 4 major brands of OSIM, Richlife, GNC and Brookstone, with more than 1,000 outlets in 217 cities across 29 countries in Asia, Oceania, Africa, the Middle East, Europe and North America.
 
-**For more information, please visit www.OSIM.com**.
+**For more information, please visit [www.OSIM.com](www.OSIM.com)**.
 <br>For media enquiries, please contact:
 <br>Linda Fulford
 <br>Fulford PR
