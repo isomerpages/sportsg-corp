@@ -15,7 +15,7 @@ Singapore, 8 December 2009 - Aiming to further develop friendly relations and sp
 
 3. Mr Ron Alexander, Director General (WA, DSR) said, "The Western Australian Department of Sport and Recreation believes that sport and recreation has a big role to play in creating stronger, healthier and happier communities, and therefore we are very happy to share our experience and expertise with our Singapore neighbours. We are particularly keen to help develop strategies to increase participation in sport, which in turn will result in success at the elite level."
 
-**Cooperation in Sports Safety**
+##### **Cooperation in Sports Safety**
 
 4. A key area of cooperation under the MOU is Sports Safety. The MOU will enhance cooperation between the parties to promote exchanges in sports safety frameworks, best practices, campaigns, and research developments with the goal of fostering a sports safety culture through accelerated learning and outreach to the public.
 
@@ -25,7 +25,7 @@ Singapore, 8 December 2009 - Aiming to further develop friendly relations and sp
 
 7. Mr Alex McKenzie, Executive Director, RLSS, WA said, "Royal Life Saving is very pleased to be associated with the Singapore Sports Council over the last few years. The MOU further develops this relationship to enable the sharing of ideas and programs that are designed to make sport safer. This ongoing collaboration will ensure that together we can make sport a safer and enjoyable experience for all."
 
-**Cooperation in High Performance**
+##### **Cooperation in High Performance**
 
 8. The MOU caters for high-level sports delegation visits between SSC and WAIS to facilitate exchange of views and sharing of information in the areas of sports science, sports medicine and research and development. This cooperation may extend to athletes to use Singapore and Western Australia as their training hubs to prepare for international competitions.
 
@@ -33,24 +33,9 @@ Singapore, 8 December 2009 - Aiming to further develop friendly relations and sp
 
 10. "We are very pleased to work with WAIS over the years and it is timely to make our relationship official. The MOU will present us more opportunities to share and learn from each other, especially in the areas of Sports Science and Coaching. I am confident that athletes, coaches and officials from Singapore and Western Australia will benefit substantially from our enhanced collaboration efforts," said Mr Bob Gambardella, Chief of Sports Development & Singapore Sports Institute.
 
-**About Singapore Sports Council (SSC)**
+---
 
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
-
-**About Department of Sport and Recreation, Government of Western Australia**
-
-The Department of Sport and Recreation, Government of Western Australia (DSR, WA) is the lead agency responsible for the implementation of government policies and initiatives in sports and recreation in the state of Western Australia. It is committed to developing a comprehensive, strong and diverse sporting and recreational system in Western Australia that is easily accessible, encourages maximum participation and develops talent. DSR, WA's address on the World Wide Web: www.dsr.wa.gov.au.
-
-**About Western Australian Institute of Sport**
-
-The Western Australian Institute of Sport (WAIS) is an elite sports institute set up in 1983 by the Government of Western Australia to support athletes in the state of Western Australia. It provides opportunities for talented Western Australian sportspeople to achieve excellence in high performance sport and to further develop their sporting careers in association with or as a part of their education or work from within their home environment. The address of WAIS on the World Wide Web: www.wais.org.au.
-
-
-**About Royal Life Saving Society, Western Australia**
-
-The Royal Life Saving Society, Western Australia (RLSS, WA) is the Western Australian branch of the Royal Life Saving Society - Australia, the leading water safety, swimming and lifesaving education organisation in Australia. It aims to prevent the loss of life and to promote safe participation in water-related pursuits. It is dedicated to turning everyday people into everyday community lifesavers.
-
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Tan Eng Chiow
 <br>
@@ -63,3 +48,17 @@ Singapore Sports Council
 DID: (65) 65005015
 <br>
 Email: [tan_eng_chiow@ssc.gov.sg](mailto:tan_eng_chiow@ssc.gov.sg)
+
+---
+
+###### About Singapore Sports Council (SSC)
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
+
+###### About Department of Sport and Recreation, Government of Western Australia
+The Department of Sport and Recreation, Government of Western Australia (DSR, WA) is the lead agency responsible for the implementation of government policies and initiatives in sports and recreation in the state of Western Australia. It is committed to developing a comprehensive, strong and diverse sporting and recreational system in Western Australia that is easily accessible, encourages maximum participation and develops talent. DSR, WA's address on the World Wide Web: www.dsr.wa.gov.au.
+
+###### About Western Australian Institute of Sport
+The Western Australian Institute of Sport (WAIS) is an elite sports institute set up in 1983 by the Government of Western Australia to support athletes in the state of Western Australia. It provides opportunities for talented Western Australian sportspeople to achieve excellence in high performance sport and to further develop their sporting careers in association with or as a part of their education or work from within their home environment. The address of WAIS on the World Wide Web: www.wais.org.au.
+
+###### About Royal Life Saving Society, Western Australia
+The Royal Life Saving Society, Western Australia (RLSS, WA) is the Western Australian branch of the Royal Life Saving Society - Australia, the leading water safety, swimming and lifesaving education organisation in Australia. It aims to prevent the loss of life and to promote safe participation in water-related pursuits. It is dedicated to turning everyday people into everyday community lifesavers.
