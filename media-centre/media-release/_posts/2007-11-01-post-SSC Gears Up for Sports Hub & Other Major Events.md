@@ -8,7 +8,7 @@ image: ""
 ---
 ### **SSC Gears Up for Sports Hub & Other Major Events**
 
-Singapore Sports Council Gears Up for Sports Hub & Other Major Sports Programmes & Events
+_Singapore Sports Council Gears Up for Sports Hub & Other Major Sports Programmes & Events_
 
 1. Singapore, 23 October 2007- The Singapore Sports Council announced today a series of initiatives it will undertake to prepare for the Sports Hub and other major sports programmes and events over the next 5 years.
 
@@ -77,12 +77,11 @@ One will start next year for five years, Singapore will host the South East Asia
 
 25. Said Oon: "SSC will be reviewing and enhancing its SMSS capabilities by building a new SMSS facility at our new headquarters and integrating our SMSS work processes surrounding the athletes and coaches. At the end of the day, our elite athletes will benefit from this enhancement. In the immediate term, athletes preparing for upcoming major multi sport games such as the 2008 Beijing Olympics and the 2010 YOG will enjoy the benefits of this integrated approach and the new facility."
 
-Enclosures
-<br>
-[· ANNEX A - List of institutions offering sports courses in Singapore](/files/Media%20Centre/Media%20Release/2007/November/ANNEX%20Adoc.pdf)
+**Enclosures**<br>
+[ANNEX A - List of institutions offering sports courses in Singapore](/files/Media%20Centre/Media%20Release/2007/November/ANNEX%20Adoc.pdf)
 
 **For media inquiries, please contact:**
-<br>
+
 Marilyn Ho
 <br>
 Director (Group Communications)
