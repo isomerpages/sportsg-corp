@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ### **Singapore Sports Council And Singapore Tennis Association Launches The Singapore Ballkids Programme 2014**
-_**Programme will see Singapore youths involved in the Women’s Tennis Association (WTA) Championships**_
+_Programme will see Singapore youths involved in the Women’s Tennis Association (WTA) Championships_
 
 The Singapore Sports Council (SSC) and Singapore Tennis Association (STA) have jointly launched the Singapore Ballkids Programme 2014, to offer young tennis enthusiasts in Singapore, aged 13 to 16 years old, the unique opportunity to be on the same court as the world’s leading tennis players. The Singapore Ballkids Programme, which will be an annual drive from 2014, will prepare a team of ballkids for participation in future local and international tennis events. Through this Programme, youths will have the chance to be ambassadors for the sport and for Singapore at world-class events; with the first opportunity being the Women’s Tennis Association (WTA) Championships from 17 to 26 October this year at the Singapore Sports Hub.
 
