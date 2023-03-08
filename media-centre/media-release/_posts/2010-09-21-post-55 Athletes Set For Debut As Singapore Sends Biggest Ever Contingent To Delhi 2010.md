@@ -23,28 +23,28 @@ image: ""
 
 6. "The Commonwealth Games is an important facet of our sporting history. The story of Singapore's participation in the Commonwealth Games is a story of perseverance through ups and downs, in 14 editions of the Games so far. I am proud to state that over the last few editions, our progress has been on the up," said DPM Teo. "To all Team Singapore athletes going to Delhi, thank you for putting in the hard work. Do your best in the true spirit of sportsmanship, and continue to uphold the Team Singapore's values of pride, performance and perseverance. At all times keep the Singapore flag flying high."
 
-Team Singapore athletes & debutants to show their prowess at the 19th Commonwealth Games Delhi 2010
+**Team Singapore athletes & debutants to show their prowess at the 19th Commonwealth Games Delhi 2010**
 
 7. For the very first time, Team Singapore is sending a representative - Gayle Esther Lee - to compete in the Synchronised Swimming event in the Commonwealth Games. Gayle, who is a student at Stanford University in California, had represented Singapore in the 13th FINA World Championships in July 2010 as well as the Japan and Swiss Open in 2007. "I love both swimming and artistic gymnastics, so I took up synchronised swimming as it's a combination of these two sports. It's a dream come true to represent Singapore for the first time in the Commonwealth Games and I am looking forward to competing against some of the world's finest synchronised swimmers."
 
-8 The Team Singapore contingent includes three young Team Singapore athletes - archers Vanessa Loh and Elizabeth Cheok, as well as swimmer Arren Quek - who just competed at the Singapore 2010 Youth Olympic Games.
+8. The Team Singapore contingent includes three young Team Singapore athletes - archers Vanessa Loh and Elizabeth Cheok, as well as swimmer Arren Quek - who just competed at the Singapore 2010 Youth Olympic Games.
 
-9 Singapore's table tennis team, who accounted for four of the five gold medals achieved by Team Singapore at the last Commonwealth Games in Melbourne, will be looking to continue their golden run in Delhi 2010. Set to make his debut in Delhi 2010 is Singapore Sports School student Pang Xue Jie, who is the youngest on his team at the age of 18. In addition, 20 Team Singapore shooters have qualified for a variety of events, making the shooters the largest group in the Singapore contingent. The team includes 2009 SEA Games Gold medalists Gai Bin and Jasmine Ser; and multiple SEA Games medalist and Olympian Lee Wung Yew.
+9. Singapore's table tennis team, who accounted for four of the five gold medals achieved by Team Singapore at the last Commonwealth Games in Melbourne, will be looking to continue their golden run in Delhi 2010. Set to make his debut in Delhi 2010 is Singapore Sports School student Pang Xue Jie, who is the youngest on his team at the age of 18. In addition, 20 Team Singapore shooters have qualified for a variety of events, making the shooters the largest group in the Singapore contingent. The team includes 2009 SEA Games Gold medalists Gai Bin and Jasmine Ser; and multiple SEA Games medalist and Olympian Lee Wung Yew.
 
-10 Commenting on the contingent, Chef-de-Mission, Ms Pennefather said, "Every athlete in the Singapore contingent should go into the Commonwealth Games wanting to do his or her best. I expect to see performances which demonstrate fighting spirit and are targeted at achieving personal bests. If all our athletes approach their respective competitions with this mindset, for some their very best would translate to personal bests and/or new national records. For others it would mean medals. I also want every Team Singapore athlete to enjoy the Games experience, to learn from it and to be worthy ambassadors of Singapore combining sporting excellence with sportsmanship and discipline."
+10. Commenting on the contingent, Chef-de-Mission, Ms Pennefather said, "Every athlete in the Singapore contingent should go into the Commonwealth Games wanting to do his or her best. I expect to see performances which demonstrate fighting spirit and are targeted at achieving personal bests. If all our athletes approach their respective competitions with this mindset, for some their very best would translate to personal bests and/or new national records. For others it would mean medals. I also want every Team Singapore athlete to enjoy the Games experience, to learn from it and to be worthy ambassadors of Singapore combining sporting excellence with sportsmanship and discipline."
 
-Singapore's para-athletes to give their best at the 19th Commonwealth Games
+**Singapore's para-athletes to give their best at the 19th Commonwealth Games**
 
-11 Three of the Team Singapore athletes, Theresa Goh, Adam Kamis and James Leow, will be representing Singapore in the Elite Athletes with Disability (EAD) events in New Delhi, taking part in Para-Powerlifting, Para-Athletics and Para-Swimming respectively.
+11. Three of the Team Singapore athletes, Theresa Goh, Adam Kamis and James Leow, will be representing Singapore in the Elite Athletes with Disability (EAD) events in New Delhi, taking part in Para-Powerlifting, Para-Athletics and Para-Swimming respectively.
 
-12 Delhi 2010 will be Adam's maiden appearance at the Commonwealth Games. "Running gave me renewed hope after my accident in 2003. In 2008, I started competing professionally and began training with the national team. I am extremely thrilled to have the chance to represent Singapore at this year's Commonwealth Games, and I will certainly try my best to do my country proud."
+12. Delhi 2010 will be Adam's maiden appearance at the Commonwealth Games. "Running gave me renewed hope after my accident in 2003. In 2008, I started competing professionally and began training with the national team. I am extremely thrilled to have the chance to represent Singapore at this year's Commonwealth Games, and I will certainly try my best to do my country proud."
 
-Show of support for Team Singapore
+**Show of support for Team Singapore**
 
-13 To cheer on Team Singapore for the Commonwealth Games and the upcoming Asian Games, the Singapore Sports Council (SSC) has released the second cheer song that represents a unified Singapore voice that will inspire and spur on our national athletes in their quest for medal glory.
+13. To cheer on Team Singapore for the Commonwealth Games and the upcoming Asian Games, the Singapore Sports Council (SSC) has released the second cheer song that represents a unified Singapore voice that will inspire and spur on our national athletes in their quest for medal glory.
 
-14 "Go! Go! Singapore!!" was officially launched at the Flag Presentation ceremony today. The cheer song was performed by Juz-B, a talented young group that has won the hearts of many in China and Taiwan, and recently bagged the top prize at the 2nd Asian A Cappella Festival/Competition. "Go! Go! Singapore!!" was co-written by Ocean Butterflies, Juz-B and the SSC, and has a distinctive drumbeat, gutsy lyrics and a standalone cheer element that will be easy to sing and stomp to.
-statics0
+14. "Go! Go! Singapore!!" was officially launched at the Flag Presentation ceremony today. The cheer song was performed by Juz-B, a talented young group that has won the hearts of many in China and Taiwan, and recently bagged the top prize at the 2nd Asian A Cappella Festival/Competition. "Go! Go! Singapore!!" was co-written by Ocean Butterflies, Juz-B and the SSC, and has a distinctive drumbeat, gutsy lyrics and a standalone cheer element that will be easy to sing and stomp to.
+
 -End-
 
 Annex A - Event Fact Sheet
