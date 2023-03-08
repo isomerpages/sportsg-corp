@@ -44,8 +44,8 @@ Supporters are also invited to join in the official send-off for the Team Singap
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Sheila Thomas(Ms)
 <br>
 Fulford Public Relations
@@ -104,7 +104,8 @@ Email: [kelly.fan@sdsc.org.sg](mailto:kelly.fan@sdsc.org.sg)
 
 ---
 
-###### About Singapore National Olympic Council
+**About Singapore National Olympic Council**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
 **About Singapore Sports Council**
