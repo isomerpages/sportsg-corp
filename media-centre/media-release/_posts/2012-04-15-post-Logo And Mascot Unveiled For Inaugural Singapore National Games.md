@@ -10,7 +10,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2012/Apr/Logo.gif)
 
-*Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents Competing in Badminton, Basketball, Bowling and Football Across the Island*
+_Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents Competing in Badminton, Basketball, Bowling and Football Across the Island_
 
 **Singapore, 15 April 2012** - After more than 4,000 votes cast online over three weeks, the inaugural Singapore National Games (SNG) now has a logo and mascot. Yong Wen Yeu and Beatrice Cho, winners of the logo and mascot designs respectively, were overjoyed as they witnessed the official unveiling of their creations at an event at the Senja-Cashew Community Club (CC) today. The event marks the start of the Community Games (CG) 2012, which serves as the qualifying round for SNG 2012.
 
@@ -42,7 +42,7 @@ Community Games 2012 Kicked Off With Four Sports
 
 ---
 
-**Annex A: Singapore National Games 2012 Fact Sheet**
+###### Annex A: Singapore National Games 2012 Fact Sheet
 
 The Singapore National Games 2012 (SNG) is a new biennial sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore?s exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
 
@@ -59,8 +59,8 @@ Athletics, Dragon Boat and Swimming
 Registration opens on 18 April to 31 May 2012
 Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.sg/)
 
-#### **Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet**
-![](/images/Media%20Centre/Media%20Release/2012/Apr/SinagporeNationalGames.gif)
+###### Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet
+<img src="/images/Media%20Centre/Media%20Release/2012/Apr/SinagporeNationalGames.gif" style="width:200px;">
 
 **Designer**: Yong Wen Yeu<br>
 **School**: Nanyang Academy of Fine Arts<br>
@@ -68,7 +68,7 @@ Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.
 **Rationale**:
 The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
 
-![](/images/Media%20Centre/Media%20Release/2012/Apr/lion_logo.gif)
+<img src="/images/Media%20Centre/Media%20Release/2012/Apr/lion_logo.gif" style="width:200px;">
 
 **Designer**: Beatrice Cho<br>
 **School**: Singapore Polytechnic<br>
@@ -76,18 +76,62 @@ The logo is formed by the characters 'S, N, and G' which stands for Singapore Na
 **Rationale**:
 When we utter the word 'Lion' the first word that comes into our mind is strength. It also upholds many beliefs, such as courage, power, royalty and wisdom. Sang Nila Utama, founder of Singapore and the Merlion is the reason I decided to name my mascot 'Nila'. The SNG will create friendly rivalry and bring friendship to another level. These elements are infused and depicted in my mascot by the fiery mane and the heart shaped face. The fiery mane symbolises the burning passion of the athletes fighting to win. The heart-shaped face displays love which represents how people interact with one another and come together as a community.
 
-#### **Annex C: CG Competition Schedule for 15 April 2012**
+###### Annex C: CG Competition Schedule for 15 April 2012
 
 ##### **Badminton**
-![](/images/Media%20Centre/Media%20Release/2012/May/badminton_west_cost.png?v1)
 
-![](/images/Media%20Centre/Media%20Release/2012/May/badminton_marina_parade.png?v1)
+**Cluster: West Coast**<br>
+Venue: Clementi Town Secondary School<br>
+Event: Badminton<br>
+10 Clementi Ave 3 S(129904)
 
-![](/images/Media%20Centre/Media%20Release/2012/May/badminton_sembawang.png)
+| M | DATE/DAY       | VENUE | TIME     | (FIRST-NAMED TEAM)           | FIXTURE | (SECOND-NAMED TEAM) |
+| - | -------------- | ----- | -------- | ---------------------------- | ------- | ------------------- |
+| 1 | 15/04/12 (Sun) | C1    | 10:00 AM | Telok Blangah Badminton Team | vs      | West Coast CSC      |
+| 2 | 15/04/12 (Sun) | C2    | 10:00 AM | Clementi                     | vs      | Boon Lay            |
 
-![](/images/Media%20Centre/Media%20Release/2012/May/badminton_neesoon.png)
+**Cluster: Marine Parade**<br>
+Venue: Saint Gabriel Secondary School<br>
+Event: Badminton<br>
+24 Serangoon Avenue 1 S(556140)
 
-![](/images/Media%20Centre/Media%20Release/2012/May/badminton_pasirris.png)
+| M | DATE/DAY       | VENUE | TIME    | GRP | (FIRST-NAMED TEAM) | FIXTURE | (SECOND-NAMED TEAM) |
+| - | -------------- | ----- | ------- | --- | ------------------ | ------- | ------------------- |
+| 1 | 15/04/12 (Sun) | C1    | 4:00 PM | A   | MacPherson CSC     | vs      | Mountbatten CSC     |
+| 2 | 15/04/12 (Sun) | C2    | 4:00 PM | B   | Potong Pasir       | vs      | Geylang Serai CSC   |
+
+**Cluster: Sembawang**<br>
+Venue: Innova Primary School<br>
+Event: Badminton<br>
+80 Woodlands Drive 17 S(737888)
+
+| M | DATE/DAY       | VENUE | TIME    | GRP | (FIRST-NAMED TEAM)              | FIXTURE | (SECOND-NAMED TEAM)            |
+| - | -------------- | ----- | ------- | --- | ------------------------------- | ------- | ------------------------------ |
+| 1 | 15/04/12 (Sun) | C1    | 4:00 PM | A   | Hypermaster! @ Galaxy Woodlands | vs      | Smackers Power!                |
+| 2 | 15/04/12 (Sun) | C2    | 4:00 PM | B   | Marsiling CSC                   | vs      | Downtakers! @ Galaxy Woodlands |
+
+**Cluster: Nee Soon**<br>
+Venue: Yishun Secondary School<br>
+Event: Badminton<br>
+4 Yishun Street 71 S(768516 )
+
+| M | DATE/DAY       | VENUE | TIME     | GRP | (FIRST-NAMED TEAM)   | FIXTURE | (SECOND-NAMED TEAM)      |
+| - | -------------- | ----- | -------- | --- | -------------------- | ------- | ------------------------ |
+| 1 | 15/04/12 (Sun) | C1    | 10:00 AM | A   | Chong Pang CSC       | vs      | Nee Soon South           |
+| 2 | 15/04/12 (Sun) | C2    | 10:00 AM | B   | Canberra Shuttlers 1 | vs      | Nee Soon Central CSC     |
+| 3 | 22/04/12 (Sun) | C1    | 10:00 AM | B   | Nee Soon East Team 2 | vs      | Nee Soon East CSC Team 1 |
+
+**Cluster: Pasir Ris-punggol**<br>
+Venue: Pasir Ris Sports Hall<br>
+Event: Badminton<br>
+120 Pasir Ris Central S(519640)
+
+| M | DATE/DAY       | VENUE | TIME     | GRP | (FIRST-NAMED TEAM)       | FIXTURE | (SECOND-NAMED TEAM)                |
+| - | -------------- | ----- | -------- | --- | ------------------------ | ------- | ---------------------------------- |
+| 1 | 15/04/12 (Sun) | C1    | 10:00 AM | A   | Punggol Central CSC      | vs      | Punggol South CSC Badminton Team 1 |
+| 2 | 15/04/12 (Sun) | C2    | 10:00 AM | A   | Pasir Ris East CC Team 2 | vs      | Pasir Ris East CSC Team 1          |
+| 3 | 15/04/12 (Sun) | C3    | 10:00 AM | B   | Punggol North CSC        | vs      | Punggol South CSC Badminton Team 2 |
+| 4 | 15/04/12 (Sun) | C4    | 10:00 AM | B   | Pasir Ris West CSC       | vs      | PE Badminton Team                  |
 
 ##### **Bowling**
 **Category: Mixed Team**
