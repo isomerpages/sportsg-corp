@@ -21,7 +21,7 @@ Active Citizens Worldwide is a global initiative set up to help cities across th
 
 Under the theme of “social resilience”, the Founding Cities of ACW will come together to share the findings from the first year of collaboration, and discuss how sport and physical activity can further contribute to social resilience at the individual, community and city levels.
 
-Building on existing metrics and indicators, the cities identified a need and an opportunity to design and introduce an improved way of measuring sport and physical activity participation that is non-binary, globally consistent, and incorporates measures across the three key dimensions of type of activity, duration, and intensity.
+Building on existing metrics and indicators, the cities identified a need and an opportunity to design and introduce an improved way of measuring sport and physical activity participation that is non-binary, globally consistent, and incorporates measures across the three key dimensions of the type of activity, duration, and intensity.
 
 The Annual Report covers the key insights and findings on the current situation, what is driving physical activity, and what is the estimated value of physical activity across the three cities.
 
