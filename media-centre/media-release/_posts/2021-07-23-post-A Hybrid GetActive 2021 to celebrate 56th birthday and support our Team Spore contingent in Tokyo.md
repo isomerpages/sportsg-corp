@@ -11,11 +11,11 @@ image: ""
 
 **Singapore, 23 July 202**1 – With the return to Phase 2 (Heightened Alert), GetActive! Singapore 2021 (GASG 2021) will now go virtual! Referencing this year’s National Day Parade’s theme - “Together Our Singapore Spirit”, GASG 2021 will feature fitness and dance workshops, live event streaming and online campaigns that will see the community participating together, in true SG United spirit.
 
-GASG 2021 will be launched online by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law later this evening at 6.00pm. This year’s edition includes a “Start With 60” campaign that encourages everyone to keep fit and healthy, with at least 60 seconds of exercise each day. During the launch, Minister Tong will join the online sporting fraternity comprising Team Singapore athletes, ex-Olympians, SportCares beneficiaries, and Team Nila volunteers, to perform the GASG 2021 Workout, demonstrating how keeping fit can be easy and fun. Minister Tong will also be calling on the community to support our Team Singapore contingent in Tokyo. The public may also do so by penning their well wishes for the athletes through a digital well-wishing mechanism found here: https://circle.myactivesg.com/getactive2021/tokyo-2020/pledges.
+GASG 2021 will be launched online by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law later this evening at 6.00pm. This year’s edition includes a “Start With 60” campaign that encourages everyone to keep fit and healthy, with at least 60 seconds of exercise each day. During the launch, Minister Tong will join the online sporting fraternity comprising Team Singapore athletes, ex-Olympians, SportCares beneficiaries, and Team Nila volunteers, to perform the GASG 2021 Workout, demonstrating how keeping fit can be easy and fun. Minister Tong will also be calling on the community to support our Team Singapore contingent in Tokyo. The public may also do so by penning their well wishes for the athletes through a digital well-wishing mechanism found here: [https://circle.myactivesg.com/getactive2021/tokyo-2020/pledges](https://circle.myactivesg.com/getactive2021/tokyo-2020/pledges).
 
 The opening of the GASG 2021 campaign will kick start a series of sporting activities designed for all ages and abilities, till the end of August. “It has been a challenging year, but it has given us the impetus to develop creative and diverse ways for the community to stay active, while conforming to the prevailing Safe Management Measures. More than ever, GetActive! Singapore at this time, provides an all-important platform to uplift communities and inspire the belief and confidence that together, we will emerge stronger,” said Sport Singapore Chief Executive Officer Lim Teck Yin.
 
-##### **COMPONENTS OF GASG 2021 (VIRTUAL)**
+**COMPONENTS OF GASG 2021 (VIRTUAL)**
 
 
 **GASG 2020 Active Enabler Programmes (AEP)**
@@ -24,7 +24,7 @@ One of the key components of GASG is the Active Enabler Programme (AEP) - a comm
 
 **GASG Workout**
 <br>
-The GASG Workout 2021 aims to reach out, engage and uplift the community. This year’s workout will be part of National Day Parade (NDP) 2021’s Dance of the Nation initiative, which invites public to also submit their own dance-workout videos. Schools participating in this competition may also opt-in to be part of the National Day Parade collation, where selected submissions will be shared across NDP's social channels (applicable for entries submitted between 5 - 26 July 2021). The competition is open to all registered schools in Singapore, including Primary Schools, Secondary Schools, Institutes of Higher Learning, Special Education Schools, Madrasahs, and International Schools. Top 3 winners from each category and first 80 participating entries will receive attractive prizes. Submission period begun on 5 July and will close on 15 August 2021.
+The GASG Workout 2021 aims to reach out, engage and uplift the community. This year’s workout will be part of National Day Parade (NDP) 2021’s Dance of the Nation initiative, which invites public to also submit their own dance-workout videos. Schools participating in this competition may also opt-in to be part of the National Day Parade collation, where selected submissions will be shared across NDP's social channels (applicable for entries submitted between 5 - 26 July 2021). The competition is open to all registered schools in Singapore, including Primary Schools, Secondary Schools, Institutes of Higher Learning, Special Education Schools, Madrasahs, and International Schools. Top 3 winners from each category and first 80 participating entries will receive attractive prizes. Submission period began on 5 July and will close on 15 August 2021.
 
 **Nurture Kids Campaign (with elements from the Olympic Motto: “Faster, Higher, Stronger”!)**
 <br>
@@ -32,7 +32,7 @@ Kiddolympics 2021 is a campaign open to all preschools and families to participa
 
 **Seniors’ Sports Day (Inaugural)**
 <br>
-Seniors’ Sports Day, for those aged 40 years and above (for masters and seniors), will see the community coming together to pledge to achieve 56,000 minutes of physical activity. More than 20,000 minutes and counting, let us keep the spirit up and rally on! All masters and seniors are welcome to join the National Day Observance Ceremony and perform the GASG Workout on 7 August 2021 from 9.00am to 10.00am. Online workshops for pickleball, qi gong and table tennis (TTX), will also be available. For more information, please visit: https://circle.myactivesg.com/getactive2021/events/seniors-sport-day.
+Seniors’ Sports Day, for those aged 40 years and above (for masters and seniors), will see the community coming together to pledge to achieve 56,000 minutes of physical activity. More than 20,000 minutes and counting, let us keep the spirit up and rally on! All masters and seniors are welcome to join the National Day Observance Ceremony and perform the GASG Workout on 7 August 2021 from 9.00am to 10.00am. Online workshops for pickleball, qi gong and table tennis (TTX), will also be available. For more information, please visit: [https://circle.myactivesg.com/getactive2021/events/seniors-sport-day](https://circle.myactivesg.com/getactive2021/events/seniors-sport-day).
 
 **GameOn Nila**
 <br>
