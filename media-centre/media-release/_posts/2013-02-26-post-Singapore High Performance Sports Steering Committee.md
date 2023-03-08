@@ -21,7 +21,7 @@ image: ""
 
 5\. The Steering Committee will be evaluating the first batch of athletes for the SpEx Scholarship in the next two months. Selection will be based on the assessed potential and demonstrated performance of the athletes. More details will be announced in due course.
 
-#### **Ministry of Culture, Community and Youth 26 February 2013**
+#### **Ministry of Culture, Community and Youth (26 February 2013)**
 
 ##### **Annex: Singapore High Performance Sports Steering Committee**
 
