@@ -24,11 +24,14 @@ Singapore, 3 March 2008 - The Singapore Sports Council (SSC) has launched a new 
 
 6. To find out more about how to get to the S.P.A.M Bash, visit http://www.ssc.gov.sg/sportsparty.
 
-Enclosures:
-<br>
+---
+
+###### Enclosures
 [Annex A - Fact sheet on S.P.A.M](/files/Media%20Centre/Media%20Release/2008/March/03/AnnexAAboutSPAM.pdf)
 
-**For media queries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Ms Hazwani Hasni
 <br>
@@ -55,6 +58,7 @@ HP: 9753 3273
 E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
 
 
-**About Singapore Sports Council**
-<br>
+---
+
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
