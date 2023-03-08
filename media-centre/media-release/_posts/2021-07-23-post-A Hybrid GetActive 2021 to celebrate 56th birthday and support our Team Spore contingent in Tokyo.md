@@ -41,7 +41,7 @@ Adventure seekers and nature lovers can participate in GASG through GameOn Nila,
 **Pesta Sukan**
 <br>
 Pesta Sukan will continue to promote camaraderie through friendly competitions and encourage future generations to live better through sport, for the month of August. While most of the Pesta Sukan programmes will be cancelled or postponed, six selected Pesta Sukan events will continue in a revised hybrid format with both virtual and physical elements between 1 – 31 Aug, subject to the prevailing Safe Management Measures. There will be a series of “SG56 Celebrations” with a 56KM Run and 5.6KM swim at ActiveSG Stadiums and Swimming Complexes respectively. Public can also look forward to participating in a Round Island Bike Adventure and programmes such as the Nature Discovery Walk & Paddle and Taekwondo (Poomsae), just to name a few.
-All GASG participants are encouraged to share memorable sporting memories on social media with the hash tags #GetActiveSG and #PlayOnPlayTogether. More event details can be found on https://go.gov.sg/getactivesingapore.
+All GASG participants are encouraged to share memorable sporting memories on social media with the hash tags #GetActiveSG and #PlayOnPlayTogether. More event details can be found on [https://go.gov.sg/getactivesingapore](https://go.gov.sg/getactivesingapore).
 
 **Get Behind Our Athletes**
 <br>
@@ -50,17 +50,17 @@ As Singaporeans get up, and get active, and connect with one another, we recogni
 
 **Information on Team Singapore athletes participating:**
 * Singapore National Olympic Council Instagram(@SGOlmypics) and Facebook Singapore National Olympic Council
-* https://www.teamsingapore.sg/major-games/olympics/tokyo-2020/athletes
+* [https://www.teamsingapore.sg/major-games/olympics/tokyo-2020/athletes](https://www.teamsingapore.sg/major-games/olympics/tokyo-2020/athletes)
 
 **Watch Team Singapore in action**
-* https://www.mediacorp.sg/en/tokyo2020/#summary
+* [https://www.mediacorp.sg/en/tokyo2020/#summary](https://www.mediacorp.sg/en/tokyo2020/#summary)
 * Singtel TV or Cast
 
 
 **Schedule of Team Singapore athletes competing**
 * Team Singapore Facebook
 * Team Singapore Instagram (@TeamSingapore)
-* https://www.mediacorp.sg/en/tokyo2020/sg-schedule
+* [https://www.mediacorp.sg/en/tokyo2020/sg-schedule](https://www.mediacorp.sg/en/tokyo2020/sg-schedule)
 
 
 **Daily news and photo coverage of Team Singapore athletes at Tokyo**
