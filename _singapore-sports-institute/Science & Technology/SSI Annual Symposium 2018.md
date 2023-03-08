@@ -61,3 +61,18 @@ by Shona Halson, PhD Associate Professor School of Behavioural and Health Scienc
 
 **[Sleep presentation Sport Science Symposium 2018](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/2-2_Haresh-Suppiah---Sleep-presentation_Sport_Science_Symposium_2018.ashx?la=en&hash=FA6FBF9FA8FB4E46837D4A7568752E9E369A541E)**   
 by Haresh Suppiah, PhD National Youth Sports Institute, Singapore, Ministry of Culture, Community and Youth
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8gLxFpC00rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Sleep & Performance in Swimming - Fatigue Science](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/23Richard_Swinbourne__Sleep__Performance_in_Swimming__Fatigue_Science.pdf) 
+Dr Ricco Swinbourne, Team Lead, Sport Nutrition, SSI. Sleep Scientist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJJUbq_h9h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Learnings from the ASIAN and ASIAN Para Games 2018 Final](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-4_Learnings_from_the_ASIAN_and_ASIAN_Para_Games_2018_Final.pdf)
+by Joel Pang, Associate Sport Physiologist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjSWswrQVKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Overviews of Hong Kong Team Support in Asian Games](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-6_Overviews_of_Hong_Kong_Team_Support_in_AG.pdf)    
+by Frankie Siu, Senior Sport Dietitian (Hong Kong Sports Institute)
