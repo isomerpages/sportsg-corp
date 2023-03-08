@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-OSIM International Limited Supports Another Local Endurance Sports Event
-Singapore , 05 Aug 2010
+## **OSIM International Limited Supports Another Local Endurance Sports Event**
 
 OSIM INTERNATIONAL LIMITED SUPPORTS ANOTHER LOCAL ENDURANCE SPORTS EVENT
 Premier Home-Grown Brand Supports Standard Chartered Marathon Singapore 2010, In Addition To Its Partnership With The Triathlon Association Of Singapore
