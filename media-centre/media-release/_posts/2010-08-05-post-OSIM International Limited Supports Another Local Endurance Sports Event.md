@@ -48,11 +48,11 @@ SGX mainboard-listed OSIM is a global leader in well-being and healthy lifestyle
 <br>Linda Fulford
 <br>Fulford PR
 <br>DID: 6324 2268
-<br>Email: lfulford@fulfordpr.com
+<br>Email: [lfulford@fulfordpr.com](lfulford@fulfordpr.com)
 
 <br>Jemuel Fu
 <br>Executive
 <br>Public & Media Relations
 <br>Singapore Sports Council
 <br>DID: 6500 5245
-<br>Email: jemuel_fu@ssc.gov.sg
+<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
