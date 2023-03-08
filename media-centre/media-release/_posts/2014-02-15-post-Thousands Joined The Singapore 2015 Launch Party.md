@@ -67,14 +67,14 @@ Senior Executive, Media Relations
 Singapore Sports Council  
 Tel: (65) 6500 5246  
 HP: (65) 9729 3700  
-Email: [rachel\_ang@ssc.gov.sg](mailto:rachel\_ang@ssc.gov.sg)
+Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
   
 S. Parameswaran  
 Assistant Director, Media Relations  
 Singapore Sports Council  
 Tel: (65) 6500 5236  
 HP: (65) 9839 1974  
-Email: [parames\_seenivasagam@ssc.gov.sg](mailto:parames\_seenivasagam@ssc.gov.sg)
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
   
   
 ##### **About Singapore Sports Council (SSC)**  
