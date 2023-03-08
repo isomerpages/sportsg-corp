@@ -15,7 +15,7 @@ Leading materials science company Dow and national sports agency Sport Singapore
 
 Drawing on its technological and R&D expertise and track record of collaborative solutions, Dow will work with Sport Singapore to transform shoes contributed by members of the community into jogging tracks, fitness corners and playgrounds.
 
-This project is a 'first of its kind' in Asia Pacific.
+This project is a 'first-of-its-kind' in Asia Pacific.
 
 From 26 September, members of the public can give a second life to their used sports shoes by contributing to building new sports surfaces and infrastructure rather than throwing them away.
 
@@ -27,16 +27,16 @@ SportSG CEO, Mr Lim Teck Yin, said, "This project demonstrates how we can all pl
 
 "As we move away from a make-use-dispose society into one where circularity becomes ever more relevant today, collaborating with partners across the value chain such as Sport Singapore and the community is critical. We all have a role to play if we want a better outcome for the environment,” said Jon Penrice, Dow President for Asia Pacific. “This project aligns well with our recently announced sustainability target to Stop the Waste where we will collaborate with like-minded partners to increase global recycling, enabling 1 million metric tons of plastic to be collected, reused or recycled through partnerships by 2030."
 
-This circular economy project collects used sports shoes (including school shoes and football boots without metal studs) from the general public. The rubberized soles and midsoles are then ground into rubber granules that are used as a material to build the sport infrastructure, partially replacing hazardous recycled tires. A water-based and solvent-free binder technology then binds the granules together. The result is environmentally friendlier and safer sports infrastructure for users delivered through partners collaborating for a more sustainable future.
+This circular economy project collects used sports shoes (including school shoes and football boots without metal studs) from the general public. The rubberised soles and midsoles are then ground into rubber granules that are used as a material to build the sport infrastructure, partially replacing hazardous recycled tires. A water-based and solvent-free binder technology then binds the granules together. The result is environmentally friendlier and safer sports infrastructure for users delivered through partners collaborating for a more sustainable future.
 
-A pilot project to test the feasibility of using recycled sports shoes to partially replace recycled tires was conducted for an initial 200sq meters area (approximately 100 meters 2-lane jogging track) at the yet to be unveiled Kallang Football Hub.
+A pilot project to test the feasibility of using recycled sports shoes to partially replace recycled tires was conducted for an initial 200sq meters area (approximately 100 meters two-lane jogging track) at the yet to be unveiled Kallang Football Hub.
 
 A team of R&D experts from Dow and Dow’s business partner B.T. Sports working in Singapore perfected the process over a period of six months before the pilot project was completed earlier this year.
 
-According to a by market research company Statista, an estimated 22 million pairs of shoes are sold in Singapore yearly. from the National Environment Agency indicate that 161,000 tonnes of textile and leather waste were disposed of in Singapore in 2019, of which, only 4 percent was recycled.
+According to a study by market research company Statista, an estimated 22 million pairs of shoes are sold in Singapore yearly. from the National Environment Agency indicate that 161,000 tonnes of textile and leather waste were disposed of in Singapore in 2019, of which, only 4 percent was recycled.
 
 ![](/images/Media%20Centre/Media%20Release/2020/September/Shoe-collection_FINAL.jpeg)
 
-More information of the project can be found at [http://go.gov.sg/old-shoe-new-future](http://go.gov.sg/old-shoe-new-future)
+More information on the project can be found at [http://go.gov.sg/old-shoe-new-future](http://go.gov.sg/old-shoe-new-future)
 
 [Download Media Release](/files/Media%20Centre/Media%20Release/2020/September/Media%20Release_Dow%20&%20Sport%20Singapore%20partner%20to%20divert%20300,000%20pairs%20of%20shoes_FINAL.pdf)
