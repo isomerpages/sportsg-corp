@@ -9,9 +9,9 @@ image: ""
 ---
 ### **Singapore Sports Council To Empower And Liberate Women With AMORE Women's Day Out 2010**
 
-Singapore, 7 October 2009 - A recent survey commissioned by the Singapore Sports Council (SSC) for 2008 showed that although more females (50%) were participating in sports, they still fall below their active male counterparts (64%). The main reason cited for Singaporean women not exercising is the lack of time due to work and family commitments. Hence, to show, to remind, women just how fun and easy it is to incorporate play and sports into their lifestyle, and to do so while including their daughter, mother and girlfriends, the SSC will be organising the Amore Women's Day Out 2010 (AWDO 2010) on 6 March 2010.
+**Singapore, 7 October 2009** - A recent survey commissioned by the Singapore Sports Council (SSC) for 2008 showed that although more females (50%) were participating in sports, they still fall below their active male counterparts (64%). The main reason cited for Singaporean women not exercising is the lack of time due to work and family commitments. Hence, to show, to remind, women just how fun and easy it is to incorporate play and sports into their lifestyle, and to do so while including their daughter, mother and girlfriends, the SSC will be organising the Amore Women's Day Out 2010 (AWDO 2010) on 6 March 2010.
 
-**Female Sports Participation in Singapore**
+##### **Female Sports Participation in Singapore**
 
 2. According to SSC research study conducted in 2008, more females had participated in sports in 2008 than in 2007 - an increase of 8%. The main reasons given by women for sports participation are to keep fit and to maintain health.
 
@@ -21,7 +21,7 @@ Singapore, 7 October 2009 - A recent survey commissioned by the Singapore Sports
 
 5. The top 10 popular sports activities amongst women include jogging/running, brisk walking, yoga/pilates, tai chi/qi gong, dancing and aerobics.
 
-**A Celebration of Women's Sports @ AWDO 2010**
+##### **A Celebration of Women's Sports @ AWDO 2010**
 
 6. Taking into account the survey findings, the SSC, together with title sponsor Amore, will be incorporating the preferred sports activities such as aerobics, dance, and yoga segments into AWDO 2010.
 
@@ -33,7 +33,7 @@ Singapore, 7 October 2009 - A recent survey commissioned by the Singapore Sports
 
 10. And, especially for the mothers, the "Power of 2" is a workout that combines high-low impact aerobics with the cool moves of kick-boxing. This total body workout is also a great choice for mother and child to spend time together. "Power of 2" had a 100% satisfied participants rating when it was first introduced at the previous AWDO. Thus, for AWDO 2010, the capacity of this segment will be increased to accommodate a total of 300 pairs of participants (the previous AWDO accommodated 100 pairs of participants).
 
-**Get into Women Sporting Action @ AWDO 2010**
+##### **Get into Women Sporting Action @ AWDO 2010**
 
 11. The registration for the AWDO 2010, Singapore's largest aerobics-based women event, will kick-start at Raffles Place on Thursday, 8 October 2009. This will be the first in a series of road shows from October 2009 to January 2010 around Singapore, to encourage women of all ages to sign up for the event.
 
@@ -43,7 +43,37 @@ Singapore, 7 October 2009 - A recent survey commissioned by the Singapore Sports
 
 14. To help those who cannot decide whether they should take part in AWDO 2010, they can experience the fun for themselves at the 30-minute mini mass aerobics trials on 24 October 2009 at Jurong Point, and 31 October 2009 at Toa Payoh HDB Hub. What's more, they will receive a goodie bag worth $100 upon signing up for the mini trials!
 
-*Base: 2008 (n=2,000), 2007 (n=2,010). Female base: 2008 (n=1,012), 2007 (n=1005)
+&ast;Base: 2008 (n=2,000), 2007 (n=2,010). Female base: 2008 (n=1,012), 2007 (n=1005)
+
+---
+
+###### Annex A
+
+###### Event Categories At Amore Women's Day Out 2010
+
+**Power of 2**
+<br>
+Power up your bonding time with your kid! This workout combines high-low impact aerobics with the cool moves of Kick-boxing. This total body workout, comprising jumps, kicks and punches, will tone and improve muscle strength, as well as overall coordination and reflexes. So, sweat it out with your kid in this exhilarating activity that will have mum and child reaping benefits in a fun-filled way.
+
+**Experience Fitness + BellyBlitz Trial**
+<br>
+Experience Fitness introduces various exercise techniques and workout routines through three 20-minute segments consisting of Hi-Lo Impact Aerobics, Kick-boxing and StretchFit, as well as a free BellyBlitz Trial.
+
+**Tri-Power Challenge**
+<br>
+Work out your way to cash and attractive prizes in three 50-minute segments in the Tri-Power Challenge (CardioLatino?, Hi-Lo Impact Aerobics and Kick-boxing). Gear up for the challenge today! If you are one of the top 10 most coordinated participants, you will win for yourself $200 cash, and products worth $500!
+
+**Body.Mind.Soul**
+<br>
+If you are seeking mental and physical stress relief, you will enjoy these two rejuvenating 45-minute sessions of outdoor yoga and StretchFit in the cool evening breeze.
+Do remember to bring along your own yoga mat for this programme.
+
+**Dance Beat**
+<br>
+Want a workout that allows you to groove in style at the same time? Dance Beat offers two 50-minute dance segments consisting of FunkBlitz and BollyBlitz. FunkBlitz incorporates hip hop, street and funk dance, while BollyBlitz infuses bhangra-inspired moves with hip hop. Come learn the hot steps with this programme.
+
+
+###### AWDO 2010 Road Shows
 
 **Amore Fitness Outlets**
 <br>
@@ -101,10 +131,13 @@ Wisma Atria
 <br>
 16 - 17 January 2010, 11am - 9pm
 
-For enquiries on AWDO 2010, the public can call 6296 4079.
+_For enquiries on AWDO 2010, the public can call 6296 4079._
 
-**For media enquiries, please contact:**
-<br>
+
+---
+
+###### For media enquiries, please contact:
+
 **AsiaPRWerkz**
 <br>
 Ms Fiona Koh
@@ -130,32 +163,3 @@ DID: 6500 5241
 H/P: 9237 2020
 <br>
 Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
-Annex A
-
-**EVENT CATEGORIES AT AMORE WOMEN'S DAY OUT 2010**
-
-**Power of 2**
-<br>
-Power up your bonding time with your kid! This workout combines high-low impact aerobics with the cool moves of Kick-boxing. This total body workout, comprising jumps, kicks and punches, will tone and improve muscle strength, as well as overall coordination and reflexes. So, sweat it out with your kid in this exhilarating activity that will have mum and child reaping benefits in a fun-filled way.
-
-**Experience Fitness + BellyBlitz Trial**
-<br>
-Experience Fitness introduces various exercise techniques and workout routines through three 20-minute segments consisting of Hi-Lo Impact Aerobics, Kick-boxing and StretchFit, as well as a free BellyBlitz Trial.
-
-**Tri-Power Challenge**
-<br>
-Work out your way to cash and attractive prizes in three 50-minute segments in the Tri-Power Challenge (CardioLatino?, Hi-Lo Impact Aerobics and Kick-boxing). Gear up for the challenge today! If you are one of the top 10 most coordinated participants, you will win for yourself $200 cash, and products worth $500!
-
-**Body.Mind.Soul**
-<br>
-If you are seeking mental and physical stress relief, you will enjoy these two rejuvenating 45-minute sessions of outdoor yoga and StretchFit in the cool evening breeze.
-Do remember to bring along your own yoga mat for this programme.
-
-**Dance Beat**
-<br>
-Want a workout that allows you to groove in style at the same time? Dance Beat offers two 50-minute dance segments consisting of FunkBlitz and BollyBlitz. FunkBlitz incorporates hip hop, street and funk dance, while BollyBlitz infuses bhangra-inspired moves with hip hop. Come learn the hot steps with this programme.
-
-
-AWDO 2010 Road Shows
-For media enquiries, please contact:
