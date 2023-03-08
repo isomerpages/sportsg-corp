@@ -8,9 +8,9 @@ image: ""
 ---
 ### **Games Village For Inaugural Asian Youth Games Moves To Town**
 
-Swissotel The Stamford Named As The New Games Village
+_Swissotel The Stamford Named As The New Games Village_
 
-Singapore (24 April 2009) - The 1st Asian Youth Games Singapore 2009 Organising Committee (SAYGOC) has announced that Swissotel The Stamford will now serve as the Games Village when Singapore plays host to over 40 countries for the first-ever AYG.
+**Singapore (24 April 2009)** - The 1st Asian Youth Games Singapore 2009 Organising Committee (SAYGOC) has announced that Swissotel The Stamford will now serve as the Games Village when Singapore plays host to over 40 countries for the first-ever AYG.
 
 Swissotel The Stamford will house over 1,100 participants that are expected to take part in the Asian Youth Games (AYG). Centrally located, the hotel will be able to better support SAYGOC by providing value added services such as security support, language services, traffic control within the hotel and providing tour and travel arrangements for all AYG participants.
 
@@ -24,23 +24,12 @@ SAYGOC has been seeking alternative venues to serve as its Games Village followi
 
 The AYG, which will be held from 29 June to 7 July 2009, is set to feature almost 1,100 athletes across nine sports - aquatics (swimming and diving), athletics, FIBA33 (3-on-3 basketball), beach volleyball, bowling, football, sailing, shooting and table tennis.
 
-________________________________________________________
-Issued by the Singapore Asian Youth Games Organising Committee
+_Issued by the Singapore Asian Youth Games Organising Committee_
 
-**About the 1st Asian Youth Games Singapore 2009**
-<br>
-The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore's Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia's (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG, which is co-organised by the Singapore Sports Council and the Ministry of Education, aims to gather the youth from around Asia in a celebration of youth, sports and learning, where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 90 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.com.sg for more information.
+---
 
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
+###### For media enquiries, please contact:
 
-**About Ministry of Education**
-<br>
-The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
-
-**For media enquiries, please contact:**
-<br>
 Hazwani Hasni
 <br>
 Media Relations Officer
@@ -60,3 +49,15 @@ Head, Media Relations
 DID: 6500 5165
 <br>
 Email: [Rhonda_koh@ssc.gov.sg](mailto:Rhonda_koh@ssc.gov.sg)
+
+---
+
+
+###### About the 1st Asian Youth Games Singapore 2009
+The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore's Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia's (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG, which is co-organised by the Singapore Sports Council and the Ministry of Education, aims to gather the youth from around Asia in a celebration of youth, sports and learning, where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 90 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.com.sg for more information.
+
+###### About Singapore Sports Council
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
+
+###### About Ministry of Education
+The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
