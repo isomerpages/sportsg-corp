@@ -23,7 +23,9 @@ At the event, appreciation plaques were also presented to sponsors and supporter
 
 For more information on Team Singapore at the Beijing 2008 Olympic Games, please visit www.teamsingapore.com.sg
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Ronda Ng Doswell
 <br>
