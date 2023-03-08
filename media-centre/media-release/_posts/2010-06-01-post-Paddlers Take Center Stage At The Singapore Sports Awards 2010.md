@@ -26,27 +26,9 @@ image: ""
 
 9. The 2010 International Olympic Committee (IOC) Trophy "Sport - Inspiring Young People" was awarded to Singapore's first Olympic medalist, Mr Tan Howe Liang. His historic performance at the 1960 Summer Olympic, where he clinched a silver medal for Singapore, has served as an inspiration for young athletes in Singapore for over 40 years. His individual Olympic medal has proven to many youth athletes that with dedication and hard work, bringing home an Olympic medal is possible.
 
--End-
+---
 
-[**About Singapore National Olympic Council**](https://www.singaporeolympics.com/)
-<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
-
-[**About the Singapore Sports Council**](www.sportsingapore.gov.sg)
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-
-
-**Annex A - About Singapore Sports Awards**
-<br>
+###### Annex A - About Singapore Sports Awards
 The most prestigious annual recognition for sporting achievements in our city state, the Singapore Sports Awards were first introduced in late 1960's with the initial focus on sportsmen and sportswomen. Swimmers Tan Thuan Heng, and Patricia Chan were the first winners.
 
 Since then, the much coveted Sportsman and Sportswoman of the year titles have gone to some of the finest names in Singapore sport.
@@ -59,35 +41,36 @@ In 1978, the Sportsboy and Sportsgirl of the year awards were added. The focus o
 
 The diversity of sports represented by the winners is a telling comment on how far Singapore sports has come. It not only shows the level of competition among sports but also reflects the fact that athletes and coaches have the opportunity to shine at the highest level whatever the discipline they choose to focus on. As Singapore moves towards excellence at the regional level and beyond, such democracy of sporting choices will serve us well.
 
-**Annex B - List of Singapore Sports Award 2010 Recipients**
-<br>
+###### Annex B - List of Singapore Sports Award 2010 Recipients
+
 **1) Senior Awards**
+
 | Awards| Awardees | Sport |
-|--|--|--|
-|Sportsman of the Year | Nil ||
+|---|---|---|
+|Sportsman of the Year | Nil | |
 |Sportswoman of the Year | Feng Tianwei |Table Tennis |
 | Coach of the Year | Henry Tan Yoke See | Bowling |
-| Team of the Year<br>(Team Sport) | Nil ||
-| Team of the Year<br>(Team Event) | National Women Table Tennis Team<br>Feng Tianwei, Wang Yuegu, Sun Bei Bei, Yu Mengyu, Xin Kai Xin Zena | Table Tennis |
+| Team of the Yea<br>(Team Sport) | Nil ||
+| Team of the Yea<br>(Team Event) | National Women Table Tennis Tea<br>Feng Tianwei, Wang Yuegu, Sun Bei Bei, Yu Mengyu, Xin Kai Xin Zena | Table Tennis |
 | Special Award - Most inspiring Young Athlete | Quah Tingwen | Swimming|
-| Meritorious Award<br>(Team Sport) | National Waterpolo Team<br>Nigel Tay, Lin Diyang, Andy Chin, Lim Yao Xiang, Lin Diyan, Alvin Lee, Kelvin Ong, Eugene Teo, Luo Nan, Samuel Loh, Wee Kenneth, Terence Tan, Yip Ren Kai | Waterpolo |
-|Meritorious Award<br>(Event) | National Women Table Tennis Doubles Team<br>Sun Bei Bei, Yu Mengyu | Table Tennis |
-|| National Women Table Tennis Doubles Team<br>Feng Tianwei, Wang Yuegu | Table Tennis |
-|| National Men Table Tennis Doubles Team<br>Gao Ning, Yang Zi | Table Tennis |
-|| National Men 4x100m Freestyle Swimming Relay Team<br>Danny Yeo, Zach Ong, Joshua Lim, Russell Ong | Swimming |
-|| National Women 4x100m Freestyle Swimming Relay Team<br>Tao Li, Quah Ting Wen,Shana Lim, Roanne Ho | Swimming |
-|| National Table Tennis Mixed Doubles Team<br>Wang Yuegu,Yang Zi | Table Tennis |
-|| National Men Snooker Doubles Team<br>Ang Boon Chin, Lim Chun Kiat | Cuesports |
-|| National Women 10m Air Rifle Shooting Team<br>Jasmine Ser, Aqilah Sudhir, Goh Jia Yi | Shooting |
-|| National Men 10m Air Rifle Shooting Team<br>Ong Jun Hong, Zhang Jin, Jonathan Koh | Shooting |
-|| National Men Table Tennis Team<br>Gao Ning, Yang Zi, Cai Xiaoli, Pang Xuejie | Table Tennis |
-|| National Women Bowling Team<br>Geraldine Ng, Bernice Lim, Cherie Tan, Jasmine Yeong-Nathan, Shayna Ng, Jazreel Tan | Bowling |
-|| National Women Wushu Dual Team<br>Khor Poh Chin, Tay Yu Juan, Tao Yi Jun | Wushu |
-||National Men 4x200m Freestyle Relay Swimming Team<br>Marcus Cheah, Zach Ong, Joshua Lim, Clement Lim | Swimming |
-|| National Women 4x100m Freesytle Relay Swimming Team<br>Quah Ting Wen, Amanda Lim, Lynette Lim, Mylene Ong | Swimming |
-||National Men 10m Air Rifle Shooting Team<br>Poh Lip Meng, Gai Bin, Lim Swee Hon |
-|| National Men 4x100m Relay Athletic Team<br>Yeo Foo Ee, Elfi Mustapha, Lee Cheng Wei, Amiruddin Jamal, Poh Seng Song, Izwan Firdaus Hanif | Athletics |
-| Meritorious Award<br>(Individual) | Wang Yuegu | Table Tennis |
+| Meritorious Awar<br>(Team Sport) | National Waterpolo Tea<br>Nigel Tay, Lin Diyang, Andy Chin, Lim Yao Xiang, Lin Diyan, Alvin Lee, Kelvin Ong, Eugene Teo, Luo Nan, Samuel Loh, Wee Kenneth, Terence Tan, Yip Ren Kai | Waterpolo |
+|Meritorious Awar<br>(Event) | National Women Table Tennis Doubles Tea<br>Sun Bei Bei, Yu Mengyu | Table Tennis |
+|| National Women Table Tennis Doubles Tea<br>Feng Tianwei, Wang Yuegu | Table Tennis |
+|| National Men Table Tennis Doubles Tea<br>Gao Ning, Yang Zi | Table Tennis |
+|| National Men 4x100m Freestyle Swimming Relay Tea<br>Danny Yeo, Zach Ong, Joshua Lim, Russell Ong | Swimming |
+|| National Women 4x100m Freestyle Swimming Relay Tea<br>Tao Li, Quah Ting Wen,Shana Lim, Roanne Ho | Swimming |
+|| National Table Tennis Mixed Doubles Tea<br>Wang Yuegu,Yang Zi | Table Tennis |
+|| National Men Snooker Doubles Tea<br>Ang Boon Chin, Lim Chun Kiat | Cuesports |
+|| National Women 10m Air Rifle Shooting Tea<br>Jasmine Ser, Aqilah Sudhir, Goh Jia Yi | Shooting |
+|| National Men 10m Air Rifle Shooting Tea<br>Ong Jun Hong, Zhang Jin, Jonathan Koh | Shooting |
+|| National Men Table Tennis Tea<br>Gao Ning, Yang Zi, Cai Xiaoli, Pang Xuejie | Table Tennis |
+|| National Women Bowling Tea<br>Geraldine Ng, Bernice Lim, Cherie Tan, Jasmine Yeong-Nathan, Shayna Ng, Jazreel Tan | Bowling |
+|| National Women Wushu Dual Tea<br>Khor Poh Chin, Tay Yu Juan, Tao Yi Jun | Wushu |
+||National Men 4x200m Freestyle Relay Swimming Tea<br>Marcus Cheah, Zach Ong, Joshua Lim, Clement Lim | Swimming |
+|| National Women 4x100m Freesytle Relay Swimming Tea<br>Quah Ting Wen, Amanda Lim, Lynette Lim, Mylene Ong | Swimming |
+||National Men 10m Air Rifle Shooting Tea<br>Poh Lip Meng, Gai Bin, Lim Swee Hon |
+|| National Men 4x100m Relay Athletic Tea<br>Yeo Foo Ee, Elfi Mustapha, Lee Cheng Wei, Amiruddin Jamal, Poh Seng Song, Izwan Firdaus Hanif | Athletics |
+| Meritorious Awar<br>(Individual) | Wang Yuegu | Table Tennis |
 || Yu Mengyu | Table Tennis |
 || Seet Wee Key | Wushu |
 || Khor Poh Chin | Wushu |
@@ -102,20 +85,19 @@ The diversity of sports represented by the winners is a telling comment on how f
 || Tao Li | Swimming |
 || Ser Xiang Wei Jasmine | Shooting |
 || Zhang Guirong | Athletics |
-<br>
 
 **2)   SPORTSBOY/SPORTSGIRL AWARDS**
-<br>
+
 | Awards | Awardees | Sports |
-|--|--|--|
+|---|---|---|
 |Sportsboy of the Year | Darren Choy | Sailing |
 |Sportsgirl of the Year | Elizabeth Yin Yueling | Sailing |
-| Team of the Year<br>(Event) | National Women Youth 10m Air Rifle Shooting Team<br>Carol Lee,Vanessa Ong, Sarena Lin | Shooting |
-| Meritorious Award<br>(Team Sport) | National Men/Women Mixed Junior Dragon Boat Team<br>26 females, 24 males | Dragon Boat |
-| Meritorious Award<br> (Team Event) | National Girls Bowling Doubles Team<br>New Hui Feng/Krishna Darshini | Bowling |
-|| National 420 Girls Optimist Team<br>Griselda Khng, Cecilia Low | Sailing |
-|| National Men Youth 10m Air Rifle Shooting Team<br>Abel Lim, Wan Tian Chong, Cheston Ow | Shooting |
-| Meritorious Award<br>(Individual) | Basil Low Eng Howe | Bowling |
+| Team of the Yea<br>(Event) | National Women Youth 10m Air Rifle Shooting Tea<br>Carol Lee,Vanessa Ong, Sarena Lin | Shooting |
+| Meritorious Awar<br>(Team Sport) | National Men/Women Mixed Junior Dragon Boat Tea<br>26 females, 24 males | Dragon Boat |
+| Meritorious Awar<br> (Team Event) | National Girls Bowling Doubles Tea<br>New Hui Feng/Krishna Darshini | Bowling |
+|| National 420 Girls Optimist Tea<br>Griselda Khng, Cecilia Low | Sailing |
+|| National Men Youth 10m Air Rifle Shooting Tea<br>Abel Lim, Wan Tian Chong, Cheston Ow | Shooting |
+| Meritorious Awar<br>(Individual) | Basil Low Eng Howe | Bowling |
 || New Hui Fen | Bowling |
 || Caroline Chew Pei Jia | Equestrian |
 || Poh Swee Kiat | Golf |
@@ -144,25 +126,37 @@ The diversity of sports represented by the winners is a telling comment on how f
 || Emily Sin Min Li | Wushu |
 || Sim Ren Zoe | Wushu |
 || Tan Xiang Ting | Wushu |
-<br>
 
 **3)   IOC AWARDS**
-<br>
-|Awards | Awardees |
-|--|--|
-| 2010 IOC Trophy "Sport - Inspiring Young People" | Tan Howe Liang |
-<hr>
 
-**For media enquiries, please contact:**
-<br>
-Hazwani Hasni
-<br>
-Executive
-<br>
-Media & Public Relations
-<br>
-Singapore Sports Council
-<br>
-Office: 65005246
-<br>
+|Awards | Awardees |
+|---|---|
+| 2010 IOC Trophy "Sport - Inspiring Young People" | Tan Howe Liang |
+
+
+---
+
+###### For media enquiries, please contact:
+
+Hazwani Hasni<br>
+Executive<br>
+Media & Public Relations<br>
+Singapore Sports Council<br>
+Office: 65005246<br>
 Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
+
+---
+
+###### About Singapore National Olympic Council
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.sportsingapore.gov.sg
+
+Join SSC on Twitter at: www.twitter.com/singaporesports
+
+Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
