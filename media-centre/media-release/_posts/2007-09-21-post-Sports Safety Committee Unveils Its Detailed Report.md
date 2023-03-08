@@ -33,8 +33,8 @@ SSC will be launching a month-long online public consultation on 26 September 20
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Mr Quah Soon Aun
 <br>
 Manager, Group Communications
