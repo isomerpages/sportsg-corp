@@ -151,6 +151,14 @@ The National Arts Council champions the arts in Singapore. By nurturing creative
 
 NHG is a leader in public healthcare in Singapore, recognised at home and abroad for the quality of its medical expertise and facilities. NHG's vision is Adding Years of Healthy Life. This goes beyond merely healing the sick to the more difficult and infinitely more rewarding task of preventing illness, and preserving health and quality of life. As a Regional Health System for Singapore, we provide care through an integrated network and collaborate with Hospitals, Specialty Centres, Polyclinics, Patients, Caregivers, Partners, Volunteers and the Community. Together with our partners, we bring a rich legacy of medical expertise to our philosophy of integrated patient-centred care.
 
-[**National Youth Council (NYC)**](http://www.nyc.gov.sg/)
+**[National Youth Council (NYC)](http://www.nyc.gov.sg/)**
 
 NYC is the national co-ordinating body for youth affairs in Singapore and the focal point for international youth affairs. At NYC, we believe in a world where young people are respected and heard, and have the ability to influence and make a difference to the world. Together with our partners, we develop future-ready youth who are committed to Singapore by instilling in them a heart for service, resilience and an enterprising spirit.
+
+**[National Heritage Board (NHB)](http://www.nhb.gov.sg/who-we-are/join-us)**
+
+National Heritage Board (NHB) is a statutory board under the Ministry of Culture, Community and Youth. NHB champions the development of a vibrant, cultural and heritage sector in Singapore. Its role is to make heritage an enriching, relevant, accessible and above all, enjoyable to Singaporeans and visitors alike. If you share our vision of making heritage an enriching part of everyone's life, join us in our journey to explore and examine our cultural legacy.
+
+**[NTUC FairPrice Co-operative Limited](https://www.fairprice.com.sg/wps/portal/careers/main/careeratfp)**
+
+NTUC FairPrice Co-Operative is a supermarket chain based in Singapore and the largest in the country. The company is a co-operative of the National Trades Union Congress or NTUC. The group has 100 supermarkets across the island, with over 50 outlets of Cheers convenience stores island-wide.
