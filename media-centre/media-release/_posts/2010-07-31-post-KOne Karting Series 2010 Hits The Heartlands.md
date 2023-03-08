@@ -50,9 +50,9 @@ CSR was established in 2005 with the vision to develop the motorsport industries
 CS Racing is the trademark owner of K1 Motorsports Series. K1 was an initiative started in 2007 to promote motorsports to the community through go karting at an affordable level. Since its inception, it has reached out to more than 100,000 residents and covered close to 20 locations all over Singapore.
 
 With the years of industry experience behind us and a network of professional agencies and bodies, CS Racing continues to effectively conceptualise and execute major motorsport events in Singapore and beyond.
-statics0
-About Drakar Racing
-statics0
+
+**About Drakar Racing**
+<br>
 Founded by entrepreneurs Jonathan Tay, Raymond Low and Edwin Seah, Drakar Racing Team was set up with the purpose of providing Singaporeans a chance to race in go-karts and grooming potential local talents. Started by Singaporeans for Singaporeans, Drakar Racing was set up last year and has 12 drivers on the team now - the youngest being nine-year-old Jordan Tay and the oldest driver being Rick Chiam who is in his 50s. Serving as a platform for drivers to race, they will be managed properly, including sourcing of sponsorships and data analysis to improve racing techniques. For more information, please visit www.drakarracing.com
 
 **For media enquiries, please contact:**
