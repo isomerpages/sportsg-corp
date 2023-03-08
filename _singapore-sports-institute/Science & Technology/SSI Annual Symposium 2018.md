@@ -30,3 +30,8 @@ by Toh Boon Yi
 
 [The Performing Brain](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/1-4__The_Performing_Brain.pdf)
 by John P. Sullivan, Psy.D.Clinical Sport Psychologist Sport Scientist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iupE_BPNQ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Wellbeing and Professional Sport](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/1-5_Tracey_Veivers_-_TV_JS_Plennary_2_2018.pdf)
+by Dr John Sullivan
