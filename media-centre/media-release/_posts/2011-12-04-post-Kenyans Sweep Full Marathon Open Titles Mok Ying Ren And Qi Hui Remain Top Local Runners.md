@@ -29,61 +29,72 @@ Local Runners Retained Their Titles
 
 8. For further information on the Standard Chartered Marathon Singapore 2011 please visit [www.marathonsingapore.com](www.marathonsingapore.com).
 
-#### **Annex A: List of SCMS 2011 Winners**
+---
 
-**FULL MARATHON OPEN (MEN)**
+###### Annex A: List of SCMS 2011 Winners
 
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 738864 | Charles Mwai Kanyao | Kenya | 2:14:33.75|
-| 2 | 738860 | Luka Kipkemoi Chelimo | Kenya | 2:14:38.75|
-| 3 | 11 | John Kelai | Kenya | 2:15:45.65 |
+**FULL MARATHON OPEN (MEN)**
 
-**FULL MARATHON OPEN (WOMEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 15 | Irene Jerotich Kosgei | Kenya | 2:36:42.39|
-| 2 | 22 | Roman Gebregessesse | Ethiopia | 2:37:30.74 |
-| 3 | 4 | Magadelene Mukunzi | Kenya | 2:38:06.50 |
+| Rank | Tag No. | Name                  | Nationality | Time       |
+| ---- | ------- | --------------------- | ----------- | ---------- |
+| 1    | 738864  | Charles Mwai Kanyao   | Kenya       | 2:14:33.75 |
+| 2    | 738860  | Luka Kipkemoi Chelimo | Kenya       | 2:14:38.75 |
+| 3    | 11      | John Kelai            | Kenya       | 2:15:45.65 |
 
-**FULL MARATHON SINGAPOREAN (MEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 410143 | Mok Ying Ren | Singapore | 2:46:01.24 |
-| 2 | 410145 | Ang Chee Yong | Singapore | 2:49:06.24 |
-| 3 | 410150 | Soon Suan Boon Paul | Singapore | 2:49:37.32 |
+**FULL MARATHON OPEN (WOMEN)**
 
-**FULL MARATHON SINGAPOREAN (WOMEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 410203 | Qi Hui | Singapore | 3:06:20.89 |
-| 2 | 410811 | Elaine Lim Su Lin | Singapore | 3:20:14.41 |
-| 3 | 410435 | Angie Tan | Singapore | 3:24:44.15 |
+| Rank | Tag No. | Name                  | Nationality | Time       |
+| ---- | ------- | --------------------- | ----------- | ---------- |
+| 1    | 15      | Irene Jerotich Kosgei | Kenya       | 2:36:42.39 |
+| 2    | 22      | Roman Gebregessesse   | Ethiopia    | 2:37:30.74 |
+| 3    | 4       | Magadelene Mukunzi    | Kenya       | 2:38:06.50 |
 
-**HALF MARATHON OPEN (MEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 52459 | Benard Mwendia Muthoni | Kenya | 1:08:33.18 |
-| 2 | 50889 | Soh Rui Yong | Singapore | 1:15:34.29 |
-| 3 | 49812 | William Kimutai Kurgat | Kenya | 1:15:56.53 |
+
+**FULL MARATHON SINGAPOREAN (MEN)**
+
+| Rank | Tag No. | Name                | Nationality | Time       |
+| ---- | ------- | ------------------- | ----------- | ---------- |
+| 1    | 410143  | Mok Ying Ren        | Singapore   | 2:46:01.24 |
+| 2    | 410145  | Ang Chee Yong       | Singapore   | 2:49:06.24 |
+| 3    | 410150  | Soon Suan Boon Paul | Singapore   | 2:49:37.32 |
+
+
+**FULL MARATHON SINGAPOREAN (WOMEN)**
+
+| Rank | Tag No. | Name              | Nationality | Time       |
+| ---- | ------- | ----------------- | ----------- | ---------- |
+| 1    | 410203  | Qi Hui            | Singapore   | 3:06:20.89 |
+| 2    | 410811  | Elaine Lim Su Lin | Singapore   | 3:20:14.41 |
+| 3    | 410435  | Angie Tan         | Singapore   | 3:24:44.15 |
+
+**HALF MARATHON OPEN (MEN)**
+
+| Rank | Tag No. | Name                   | Nationality | Time       |
+| ---- | ------- | ---------------------- | ----------- | ---------- |
+| 1    | 52459   | Benard Mwendia Muthoni | Kenya       | 1:08:33.18 |
+| 2    | 50889   | Soh Rui Yong           | Singapore   | 1:15:34.29 |
+| 3    | 49812   | William Kimutai Kurgat | Kenya       | 1:15:56.53 |
 
 **HALF MARATHON OPEN (WOMEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 49186 | Esther Wambui Karimi | Kenya | 1:22:27.28 |
-| 2 | 54246 | Satoko | Japan | 1:23:02.28 |
-| 3 | 52538 | Yucabeth Chelangat Bore | Kenya | 1:25:29.03 |
+
+| Rank | Tag No. | Name                    | Nationality | Time       |
+| ---- | ------- | ----------------------- | ----------- | ---------- |
+| 1    | 49186   | Esther Wambui Karimi    | Kenya       | 1:22:27.28 |
+| 2    | 54246   | Satoko                  | Japan       | 1:23:02.28 |
+| 3    | 52538   | Yucabeth Chelangat Bore | Kenya       | 1:25:29.03 |
 
 **10KM OPEN (MEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 75469 | Kent Normark | Denmark | 00:35:02.77 |
-| 2 | 75672 | Alfred Chan Hon Man | Hong Kong | 00:35:10.78 |
-| 3 | 75697 | Alfred Chan Hon Man | Hong Kong | 00:35:19.78 |
+
+| Rank | Tag No. | Name                | Nationality | Time        |
+| ---- | ------- | ------------------- | ----------- | ----------- |
+| 1    | 75469   | Kent Normark        | Denmark     | 00:35:02.77 |
+| 2    | 75672   | Alfred Chan Hon Man | Hong Kong   | 00:35:10.78 |
+| 3    | 75697   | Alfred Chan Hon Man | Hong Kong   | 00:35:19.78 |
 
 **10KM OPEN (WOMEN)**
-| Rank | Tag No. | Name | Nationality | Time |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 75487 | Malene Munkholm | Denmark | 00:41:43.34 |
-| 2 | 79435 | Sylvia Md Arwan | Brunei Darusslam | 00:46:25.60 |
-| 3 | 70048 | Kalsang Gyalzur | Switzerland | 00:46:52.02|
+
+| Rank | Tag No. | Name            | Nationality      | Time        |
+| ---- | ------- | --------------- | ---------------- | ----------- |
+| 1    | 75487   | Malene Munkholm | Denmark          | 00:41:43.34 |
+| 2    | 79435   | Sylvia Md Arwan | Brunei Darusslam | 00:46:25.60 |
+| 3    | 70048   | Kalsang Gyalzur | Switzerland      | 00:46:52.02 |
