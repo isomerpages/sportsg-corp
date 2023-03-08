@@ -18,32 +18,9 @@ image: ""
 
 5. The 3rd Asian Indoor Games will see athletes and officials from 45 National Olympic Committees converging in Hanoi to compete for the top honours in 20 sports - Athletics, Aquatics, Dancesport, Indoor Petanque, Women?s Defence, Shuttlecock, Hoop Sepaktakraw, Indoor Kabaddi, Kurash, E-sports, Indoor Archery, Aerobics Gymnastics, Pencak Silat, Chess, Futsal, 3-on-3 Basketball, Martial Arts, Billiard Sports, Dragon & Lion Dance and Bowling. In addition to Hanoi, the sports events will also be taking place in Ho Chi Minh City, Hai Phong City, Back Ninh, Quang Ninh and Hai Duong provinces. For more details on the Asian Indoor Games, please visit http://www.vaigoc2009.com.
 
--End-
-
-**About the Singapore National Olympic Council**
-
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
-
-**About Singapore Sports Council**
-
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
-
-**For media enquiries, please contact:**
-<br>
-Hazwani Hasni Executive, Marketing Communications
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5246
-<br>
-Mobile: 9272 0112
-<br>
-Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
-
-**Annex A**
-<br>
+###### Annex A
 3rd Asian Indoor Games Vietnam 2009 - Contingent List
-<br>
+
 | **S/N** | **Sport** | **Event** | **Name of Athlete** |
 | -------- | -------- | -------- | -------- |
 | 1 | Bowling | Men's Single | Lionel Lim Guo Liang |
@@ -109,4 +86,25 @@ Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
 | 35 | | Men's Seni Regu | Khairul Arifin |
 | 36 | Chess Xiangqi | Rapid Individual Men | Kng Ter Yong |
 | 37 | | Rapid Individual Men | Alvin Woo Tsung Han |
-_________________________________________________________
+
+---
+
+###### For media enquiries, please contact:
+
+Hazwani Hasni Executive, Marketing Communications
+<br>
+Singapore Sports Council
+<br>
+DID: 6500 5246
+<br>
+Mobile: 9272 0112
+<br>
+Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)
+
+---
+
+###### About the Singapore National Olympic Council
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+
+###### About Singapore Sports Council
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
