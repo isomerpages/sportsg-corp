@@ -9,9 +9,10 @@ image: ""
 ## **Team Singapore To Head To Dehli 2010 As Scheduled**
 
 TEAM SINGAPORE TO HEAD TO DELHI 2010 AS SCHEDULED
-Singapore, 24 September 2010 - Team Singapore will be heading to the 19th Commonwealth Games Delhi 2010 as planned. The contingent will be made up of 68 athletes and 34 officials.
 
-2 Said Team Singapore Chef-de-Mission to the 19th Commonwealth Games Delhi 2010 Annabel Pennefather, "We have been given the assurance by the organisers that the residential block where Team Singapore athletes and officials will be staying in will be spruced up and will be given the necessary cleaning it requires. We have informed them of our expectations and we have been assured that our expectations will be met."
+**Singapore, 24 September 2010** - Team Singapore will be heading to the 19th Commonwealth Games Delhi 2010 as planned. The contingent will be made up of 68 athletes and 34 officials.
+
+2. Said Team Singapore Chef-de-Mission to the 19th Commonwealth Games Delhi 2010 Annabel Pennefather, "We have been given the assurance by the organisers that the residential block where Team Singapore athletes and officials will be staying in will be spruced up and will be given the necessary cleaning it requires. We have informed them of our expectations and we have been assured that our expectations will be met."
 
 3 An advance party of up to five personnel, led by assistant Chef-de-Mission Antony Lee will be heading up to New Delhi on 27 September 2010 to ensure that the living areas where Team Singapore athletes and officials will be residing will be ready in time for the contingent's arrival. The bulk of Team Singapore officials and contingents are expected to arrive in New Delhi on 29 and 30 September. Team Singapore athletes and officials will be occupying four floors in Block 26 at the Athletes Village.
 
