@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Singapore's Training Hub Status Gets a Boost, Public Can Get Up Close and Personal With Stars**
 
-Singapore, 5 July 2011 - Some of the world's top swim nations have chosen Singapore as the venue for their final preparations en route to what is the biggest aquatics competition this year - the 14th FINA World Championships, held in Shanghai, China from 16-31 July 2011.
+**Singapore, 5 July 2011** - Some of the world's top swim nations have chosen Singapore as the venue for their final preparations en route to what is the biggest aquatics competition this year - the 14th FINA World Championships, held in Shanghai, China from 16-31 July 2011.
 
 2. World-renowned and Olympic gold medal winning names such as Stephanie Rice and Leisel Jones from Australia, and French Freestyle specialist Alain Bernard will arrive in Singapore this month for their final lap of training prior to the World Championships. They will be joined by more than 300 other swimmers, divers, and water polo players from 24 countries, including powerhouses Canada (swimming), Sweden (diving) and Hungary (water polo).
 
@@ -28,10 +28,14 @@ Singapore, 5 July 2011 - Some of the world's top swim nations have chosen Singap
 
 9. Expressing the value-add visiting teams bring when they come to train in Singapore, Bob Gambardella had this to say, "Singapore also has a lot to gain from hosting these world-class teams. They bring with them experience, and knowledge that we will be able to tap into and share with the local sports fraternity. Local coaches, officials, and athletes will get a chance to learn and share best practices and ideas from the best in their field. In addition, these sporting superstars will also be a source of inspiration and encouragement to aspiring young athletes in Singapore. This certainly contributes to the advancement of Sporting Singapore."
 
-Annex A - Activities Calendar
+---
+
+###### Annex A - Activities Calendar
 Activities Calendar [108 Kb]
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Patricia Yee<br>
 Executive, Media Relations<br>
@@ -44,9 +48,9 @@ Singapore Sports Council<br>
 Office: 6500 5241<br>
 Email: tanty_nazlianah@ssc.gov.sg
 
+---
 
-**About the Singapore Sports Council**
-<br>
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
