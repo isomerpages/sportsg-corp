@@ -13,7 +13,7 @@ Close to 300 Team Singapore athletes and officials gathered at a flag presentati
 
 ##### **2014 Asian Games**
 
-3\. Opening the second lap of the Games season is the 2014 Asian Games, which will take place in Incheon, Korea from 19 September to 04 October. Singapore will be fielding a contingent of 227 athletes to compete in 20 sports, led by Chef De Mission (CDM) Mrs Jessie Phua. 
+3\. Opening the second lap of the Games season is the 2014 Asian Games, which will take place in Incheon, Korea from 19 September to 4 October. Singapore will be fielding a contingent of 227 athletes to compete in 20 sports, led by Chef De Mission (CDM) Mrs Jessie Phua. 
 
 4\. Says Mrs Jessie Phua: “Participating in international competitions can be a very stressful experience. After years of training, and much blood, sweat and tears, this can be said to be the moment of truth for our athletes. We have in our midst, sporting ambassadors who are prepared to do their best and do Singapore proud. In times like these, the strong support of family, friends and fellow Singaporeans can help to share the athlete’s burden, so as to bring out the champion inside of them. I look forward to leading them to deliver inspirational performances that will do the nation proud."
 
