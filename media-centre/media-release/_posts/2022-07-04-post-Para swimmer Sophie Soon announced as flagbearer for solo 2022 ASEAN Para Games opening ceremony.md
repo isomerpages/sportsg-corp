@@ -21,7 +21,7 @@ This is Sophie’s second appearance at the ASEAN Para Games after making her de
 
 “I want to thank my family, teammates and coach for all of their support. I would not be in this position or be the athlete I am without them.”
 
-##### **A mix of youth and experience to lead the way forward**
+**A mix of youth and experience to lead the way forward**
 
 Singapore’s athletes will take part in nine (9) sports at the Games. There will be 16 athletes making their ASEAN Para Games debut.
 
@@ -33,7 +33,7 @@ Dr Teo-Koh Sock Miang, President, SNPC believes that this mix of youth and exper
 
 “The number of young, up-and-coming athletes in this Team is a clear sign that our para sport ecosystem – from talent identification at grassroots level onwards – is on the right path. the Opening Ceremony of the Solo 2022 ASEAN Para Games. I am confident that the contingent will do Singapore proud, inspiring others to pursue sports and follow in their footsteps.”
 
-##### **Renewal of Athletes Achievement Awards**
+**Renewal of Athletes Achievement Awards**
 
 These ASEAN Para Games will be the first major Games that will see a revised Athletes Achievement Awards, with the incentives higher than ever before.
 
@@ -45,7 +45,7 @@ An individual gold medallist at the upcoming ASEAN Para Games will now be awarde
 
 “The resilience that our athletes have shown in preparing for these Games have been nothing short of remarkable.”
 
-##### **Health and safety of athletes of paramount importance** 
+**Health and safety of athletes of paramount importance**
 
 In consideration of the ongoing COVID-19 health pandemic, the Singapore contingent will take additional precautions above what has been outlined by the medical committee.
 
@@ -57,7 +57,7 @@ The contingent will be issued with a travel essentials kit prepared by Sport Sin
 
 I'm really looking forward to contributing to the success of Team Singapore as a whole.”
 
-##### **One Team Singapore**
+ **One Team Singapore**
 
 SNPC has collaborated closely with Sport Singapore, Singapore Disability Sports Council and many other government agencies and corporate organisations such as Tote Board, in the journey to Solo.
 
