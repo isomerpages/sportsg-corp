@@ -11,7 +11,7 @@ image: ""
 
 There has been some public discussion regarding the disciplinary actions SportSG has taken against the three athletes – Joseph Schooling, Amanda Lim and Teong Tzen Wei. SportSG’s decision to suspend support for the athletes for a period of one month was made after an internal review, taking into account the athletes’ breach of the terms of the Agreement signed between the athletes and SportSG, international sporting benchmarks, and Singapore’s stance towards drug abuse.
 
-##### **International sporting benchmarks**
+**International sporting benchmarks**
 
 SportSG took into account the benchmarks of international bodies, such as the World Anti-Doping Agency (WADA)\* and national federations. In particular, WADA does not impose any sanctions for the ingestion or use of the following controlled drugs - cannabis, cocaine, heroin, ecstasy - if it is ingested/used outside of the competition period. If the athlete tests positive for these drugs in-competition but can show that they have no relation to their competition performance, the athlete would face a one- to three-month suspension. A one-month suspension would apply if the athlete completes a drug rehabilitation programme.
 
