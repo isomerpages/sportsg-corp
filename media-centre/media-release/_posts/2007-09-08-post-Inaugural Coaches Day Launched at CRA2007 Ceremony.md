@@ -25,16 +25,12 @@ Beyond the CRA, the SSC had also earlier begun its 'My Coach. My Hero' campaign 
 SSC's Chief Executive Officer, Mr Oon Jin Teik commented: "The CRA has indeed been successful in helping to educate the public on the importance of coaches in the development of our athletes. For Coaches' Day, we want to encourage the public to take an extra step forward in doing something special for their coaches."
 
 
-Enclosures
+**Enclosures**
 
-Welcome Address by Mr Alex Chan, Chairman of Singapore Sports Council
-Speech by Mr Teo Ser Luck, Parliamentary Secretary, Ministry of Community Development, Youth and Sports
-<br>
-[Annex 1: CRA2007 winners](/files/Media%20Centre/Media%20Release/2007/September/Annex2012020CRA200720Awardees.pdf)
-<br>
-[Annex 2: Factsheet on CRA](/files/Media%20Centre/Media%20Release/2007/September/Annex2022020CRA200720Factsheet.pdf)
-<br>
-
+Welcome Address by Mr Alex Chan, Chairman of Singapore Sports Council<br>
+Speech by Mr Teo Ser Luck, Parliamentary Secretary, Ministry of Community Development, Youth and Sports<br>
+[Annex 1: CRA2007 winners](/files/Media%20Centre/Media%20Release/2007/September/Annex2012020CRA200720Awardees.pdf)<br>
+[Annex 2: Factsheet on CRA](/files/Media%20Centre/Media%20Release/2007/September/Annex2022020CRA200720Factsheet.pdf)<br>
 [Annex 3: 'My Coach. My Hero' campaign](/files/Media%20Centre/Media%20Release/2007/September/Annex2032020My20Coach20My20Hero20Campiagn.pdf)
 
 
