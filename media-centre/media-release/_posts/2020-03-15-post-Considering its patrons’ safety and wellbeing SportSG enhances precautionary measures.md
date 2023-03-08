@@ -9,7 +9,7 @@ image: ""
 ---
 ### **Considering its patrons’ safety and wellbeing, SportSG enhances precautionary measures**
 
-* The national sports agency will regulate user access across all facilities, including stadiums, sport halls, gyms, swimming complexes and studios
+* The National Sports Agency will regulate user access across all facilities, including stadiums, sport halls, gyms, swimming complexes and studios
 * NSAs and other partners of SportSG have been advised to strictly follow MOH guidelines
 
 ![](/images/Media%20Centre/Media%20Release/2020/March/heartbeatsportshall02.jpeg)
