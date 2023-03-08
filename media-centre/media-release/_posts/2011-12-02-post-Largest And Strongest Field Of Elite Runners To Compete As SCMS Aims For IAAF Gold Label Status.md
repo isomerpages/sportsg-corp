@@ -52,7 +52,37 @@ image: ""
 ###### Annex A: List of Elite Athletes
 
 **Men**
-![men](/images/Media%20Centre/Media%20Release/2011/Dec/men.png)
+
+| Name                         | DOB        | Country  | Personal Best | Recent Timing | Average Timing | IAAF Ranking |
+| ---------------------------- | ---------- | -------- | ------------- | ------------- | -------------- | ------------ |
+| Yared Dagnaw Sharew          | 15/11/1982 | Eritrea  | 2:08:13       | 2:10:41       | 2:11:04        | Gold         |
+| Gebreselassie Tsegay Reda    | 26/9/1984  | Ethiopia | 2:09:44       | 2:13:39       | 2:11:30        | Gold         |
+| Ben Kipruto Chebet           | 22/2/1982  | Kenya    | 2:09:26       | 2:09:26       | 2:11:54        | Gold         |
+| Benjamin Maiyo               | 6/10/1978  | Kenya    | 2:09:58       | 2:13:25       | 2:15:30        | Gold         |
+| Charles Kibiwott             | 8/8/1974   | Kenya    | 2:09:10       | 2:17:24       | 2:13:02        | Gold         |
+| Daniel Kosgei                | 19/6/1986  | Kenya    | 2:08:45       | 2:15:01       | 2:11:54        | Gold         |
+| Jackson Kipkoech Kotut       | 12/2/1988  | Kenya    | 2:07:30       | 2:11:16       | 2:08:57        | Gold         |
+| Jackson Koech                | 26/12/1978 | Kenya    | 2:09:42       | 2:10:35       | 2:10:14        | Gold         |
+| Kenneth Mburu Mungara        | 7/9/1973   | Kenya    | 2:07:36       | 2:07:36       | 2:08:03        | Gold         |
+| William Kiplagat             | 21/6/1972  | Kenya    | 2:07:50       | 2:13:21       | 2:10:21        | Gold         |
+| John Kelai                   | 29/12/1976 | Kenya    | 2:11:05       | 2:13:25       | 2:11:53        | Silver       |
+| Peter Muriuki Nderitu        | 1/1/1983   | Kenya    | 2:10:52       | 2:10:52       | 2:12:15        | Silver       |
+| Stanley Leleito              | 15/6/1984  | Kenya    | 2:10:17       | 2:11:37       | 2:13:01        | Silver       |
+| Thomson Kibet Cherogony      | 12/11/1978 | Kenya    | 2:10:52       | 2:11:37       | 2:12:15        | Silver       |
+| Vincent Krop                 | 1/1/1983   | Kenya    | 2:11:51       | 2:14:07       | 2:15:25        | Silver       |
+| Francis Muendo Maundu        | 1/1/1977   | Kenya    | 2:12:09       | 2:13:40       | 2:12:47        | Bronze       |
+| Jonathan Kipkosgei Cheruiyot | 1/1/1983   | Kenya    | 2:13:04       | 2:13:06       | 2:15:33        | Bronze       |
 
 **Women**
-![women](/images/Media%20Centre/Media%20Release/2011/Dec/women.png)
+
+| Name                   | DOB        | Country  | Personal Best | Recent Timing | Average Timing | IAAF Ranking |
+|----------------------- |----------- |--------- |-------------- |-------------- |--------------- |------------- |
+| Irene Jerotich Koskei  | 8/9/1974   | Kenya    | 2:28:57       | 2:31:29       | 2:33:03        | Gold         |
+| Silviia Skvortsova     | 16/11/1974 | Russia   | 2:26:24       | 2:27:51       | 2:30:26        | Gold         |
+| Kateryna Stetsenko     | 22/1/1982  | Ukraine  | 2:27:51       | 2:27:51       | 2:31:10        | Gold         |
+| Yuliya Ruban           | 6/10/1983  | Ukraine  | 2:27:10       | 2:27:10       | 2:33:59        | Gold         |
+| Halima Hassen Beriso   | 10/11/1992 | Ethiopia | 2:32:42       | 2:32:42       | 2:32:42        | Bronze       |
+| Roman Gebregessese     | 26/9/1984  | Ethiopia | 2:32:28       | 2:36:21       | 2:36:12        | Bronze       |
+| Jacqueline Nytepi      | 1/1/1984   | Kenya    | 2:34:16       | 2:40:01       | 2:37:32        | Bronze       |
+| Magdalene Mukunzi (HM) | 22/10/1983 | Kenya    | 1:10:05 (HM)  | 1:11:54 (HM)  | 1:11:10 (HM)   | Bronze       |
+| Lyubov Denisova        | 6/10/1971  | Russia   | -             | -             | -              | Bronze       |
