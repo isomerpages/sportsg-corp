@@ -19,3 +19,5 @@ Other invited speakers included academics, scientists and coaches from sport org
 *   Current trends and issues in youth and female athletes in elite sport
 
 #### **SSI Annual Symposium Programme and Speakers**
+
+Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/SSI20Symposium20Programme.pdf) to download the pdf version of the SSI Annual Symposium 2013 Programme (correct as of 10 Jul 2013).
