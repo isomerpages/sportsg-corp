@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Game On For Team Singapore At The 25th SEA Games**
 
-National Well-wishing Campaign Evolved to Lend Heightened Support to Team Singapore
+_National Well-wishing Campaign Evolved to Lend Heightened Support to Team Singapore_
 
 **Singapore, 9 November 2009** - Team Singapore is all set to fly the Singapore flag high at the 25th South-east Asian (SEA) Games, which will be held in Vientiane, Laos, from 9 to 18 December 2009. Singapore will be fielding a contingent of 195 athletes, who will be taking part in 18 sports at the Games.
 
@@ -21,7 +20,7 @@ National Well-wishing Campaign Evolved to Lend Heightened Support to Team Singap
 
 5. Once again, the Team Singapore contingent will feature athletes who will be making their major Games debut. Sports such as Silat, Waterpolo and Wushu are taking the opportunity to inject new blood into their squad for the upcoming Games. Chef de Mission Jessie Phua said, "The SEA Games is a good platform for our young emerging athletes to gain valuable competitive experience and earn their sporting stripes. It is an important first step for them in their development, and we hope they can build on this experience to move ahead and achieve greater success at the Asian and Olympic levels. I am confident that Team Singapore will, once again, give their all and put in their best performance in Laos come December."
 
-An Evolved Campaign for Singapore to Rally In Support of Team Singapore at the 25th SEA Games
+##### **An Evolved Campaign for Singapore to Rally In Support of Team Singapore at the 25th SEA Games**
 
 6. The event also saw the official launch of the Team Singapore 25th SEA Games Well-wishing Campaign. Deputy Prime Minister Teo became the first Singaporean to register his well-wishes for the contingent via SMS. The campaign centers on the abbreviation 'L.I.V.E.', underscoring the meaning and power of cheers for Team Singapore athletes - 'Lift their Spirit', 'Inspire their Dreams', 'Voice your Support' and 'Encourage them Today'.
 
@@ -35,26 +34,21 @@ An Evolved Campaign for Singapore to Rally In Support of Team Singapore at the 2
 
 11. For more information on Team Singapore at the 25th SEA Games and the Team Singapore Well-wishing Campaign, please visit www.teamsingapore.com.sg
 
--End-
+---
 
-**Annex**
-<br>
-[Annex A: Speech by Guest-of-Honour](/files/Media%20Centre/Media%20Release/2009/November/Annex20A2020Speech20by20GOHpdf.pdf), Mr Teo Chee Hean, Deputy Prime Minister and Minister for Defence and President of the Singapore National Olympic Council
-<br>
-[Annex B: Team Singapore Contingent List](/files/Media%20Centre/Media%20Release/2009/November/Annex20B2020Contingent20List20as20of203020Sep2009pdf.pdf)
-<br>
-[Annex C: Flag Bearer and Pledge Taker Profiles](/files/Media%20Centre/Media%20Release/2009/November/Annex%20C.pdf)
-<br>
-[Annex D: Well-Wishing Campaign Fact Sheet](/files/Media%20Centre/Media%20Release/2009/November/Annex20D2020About20Team20Singapore20WellWishing20Campaignpdf.pdf)
-<br>
+###### Annex
+[Annex A: Speech by Guest-of-Honour](/files/Media%20Centre/Media%20Release/2009/November/Annex20A2020Speech20by20GOHpdf.pdf), Mr Teo Chee Hean, Deputy Prime Minister and Minister for Defence and President of the Singapore National Olympic Council<br>
+[Annex B: Team Singapore Contingent List](/files/Media%20Centre/Media%20Release/2009/November/Annex20B2020Contingent20List20as20of203020Sep2009pdf.pdf)<br>
+[Annex C: Flag Bearer and Pledge Taker Profiles](/files/Media%20Centre/Media%20Release/2009/November/Annex%20C.pdf)<br>
+[Annex D: Well-Wishing Campaign Fact Sheet](/files/Media%20Centre/Media%20Release/2009/November/Annex20D2020About20Team20Singapore20WellWishing20Campaignpdf.pdf)<br>
 [Annex E: Schedule of Team Singapore Well Wishing Campaign Roadshows](/files/Media%20Centre/Media%20Release/2009/November/Annex20E2020Team20Singapore20Well20Wishing20Roadshowspdf.pdf)
 
-**About the Singapore National Olympic Council**
-<br>
+---
+
+###### About the Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-**About Team Singapore**
-<br>
+###### About Team Singapore
 Originally mooted by the then-Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -63,6 +57,5 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 
 For further information, please visit www.teamsingapore.com.sg.
 
-**About the Singapore Sports Council**
-<br>
+###### About the Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
