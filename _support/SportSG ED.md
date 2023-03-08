@@ -18,15 +18,6 @@ description: ""
 | ![](/images/Support/Sport%20Ed/img6.png)     |**Industry-recognized Credentials** – Access the range of industry recognized certifications by CoachSG for coaches’ ongoing development, in their path for coaching excellence.| 
 | ![](/images/Support/Sport%20Ed/img7.png)     |**Learning Communities –** More than 4000 sports professionals are members of SportSG-ED. Join them to contribute in the communities of practice and knowledge forum.| 
 
-
-* **Future Ready Learning** – SportSG-ED allows users to select from a developing range of learning content that is pertinent and meets the prevailing learning needs of sports professionals. The digital learning environment prepares sports professionals for all possible modes of learning.
-
-* **Accessibility** – Content can be learnt either through a blended or e-learning method. Users can access e-learning content anytime, anywhere, at their convenience across multiple platforms and devices, including computers, tablets or mobile phones.
-* **Knowledge Retention** – Learn with various engaging and interactive content, with sound, video and knowledge check quizzes that would lead to better knowledge retention.
-* **Personalised Learning** – Learners can choose their learning path at their own pace, and make choices on relevant content to match their continuing education needs.
-* **Industry-recognized Credentials** – Access the range of industry recognized certifications by CoachSG for coaches’ ongoing development, in their path for coaching excellence.
-* **Learning Communities –** More than 4000 sports professionals are members of SportSG-ED. Join them to contribute in the communities of practice and knowledge forum.
-
 **How to access SportSG-ED?**
 <br>Go [to: www.sportsync.sg](https://www.sportsync.sg/App/Login?ReturnUrl=%2fapp)
 
