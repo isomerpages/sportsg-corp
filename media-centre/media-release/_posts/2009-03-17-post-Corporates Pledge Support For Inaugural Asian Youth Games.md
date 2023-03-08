@@ -8,9 +8,9 @@ image: ""
 ---
 ### **Corporates Pledge Support For Inaugural Asian Youth Games**
 
-11 Asian Youth Games' partners and sponsors presented with token of appreciation by Minister Vivian Balakrishnan
+_11 Asian Youth Games' partners and sponsors presented with token of appreciation by Minister Vivian Balakrishnan_
 
-Singapore, 17 March 2009 - The 1st Asian Youth Games (AYG) Singapore 2009 has been receiving rousing support from the private sector, with 11 organisations on board the AYG sponsorship bandwagon. In acknowledgement of their support for the AYG, Guest-of-Honour Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, presented these organisations with tokens of appreciation during a ceremony held at the Chefs de Mission Welcome Dinner at the Grand Copthorne Waterfront earlier today.
+**Singapore, 17 March 2009** - The 1st Asian Youth Games (AYG) Singapore 2009 has been receiving rousing support from the private sector, with 11 organisations on board the AYG sponsorship bandwagon. In acknowledgement of their support for the AYG, Guest-of-Honour Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, presented these organisations with tokens of appreciation during a ceremony held at the Chefs de Mission Welcome Dinner at the Grand Copthorne Waterfront earlier today.
 
 The 11 organisations include Fraser and Neave Ltd - Official Isotonic Drink (100 Plus) and Official Water (Ice Mountain); NTUC Fairprice Co-operative Ltd as Partner; and NETS (Singapore) as the preferred card; among others.
 
