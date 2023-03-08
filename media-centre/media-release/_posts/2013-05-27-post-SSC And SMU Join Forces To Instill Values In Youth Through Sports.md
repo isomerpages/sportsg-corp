@@ -11,46 +11,47 @@ image: ""
 ![](/images/Media%20Centre/Media%20Release/2013/May/GFL3.jpeg)
 
 **Singapore, 27 May 2013** - Using the power of sport to teach youth important life skills and to develop their character and leadership capabilities, the Singapore Sports Council (SSC) and Singapore Management University (SMU) today launched the 'Game For Life' Toolkit and LifeLessons respectively at the inaugural Leadership Symposium 2013.
+
 ![](/images/Media%20Centre/Media%20Release/2013/May/SSCANDSMUJOINFORCESTOINSTILLVALUESINYOUTHTHROUGHSPORTSMainPar0061Imagegif.gif)
 
-2. Based on the 'Future Ready through Sport' strategic thrust of the Vision 2030 recommendation, the Leadership Symposium 2013 serves as a platform to promote the development of character and leadership skills through sport.
+2\. Based on the 'Future Ready through Sport' strategic thrust of the Vision 2030 recommendation, the Leadership Symposium 2013 serves as a platform to promote the development of character and leadership skills through sport.
 
 ##### **'Game For Life' Toolkit**
 
-3. The 'Game For Life' Toolkit comprises the 'character and leadership through sport' Framework and a 'Game For Life: 25 Journeys' book, which chronicles the transformation of 25 ordinary lives made extraordinary through sports.
+3\. The 'Game For Life' Toolkit comprises the 'character and leadership through sport' Framework and a 'Game For Life: 25 Journeys' book, which chronicles the transformation of 25 ordinary lives made extraordinary through sports.
 
-4. The Framework features the use of game activities and specific role-playing actions that are deliberately designed for the learning and development of performance, social and moral values and attributes. This enables training, education and coaching professionals to conveniently create "teachable moments", where learning values can be easily infused into any sporting experience for every individual, without increasing activity time.
+4\. The Framework features the use of game activities and specific role-playing actions that are deliberately designed for the learning and development of performance, social and moral values and attributes. This enables training, education and coaching professionals to conveniently create "teachable moments", where learning values can be easily infused into any sporting experience for every individual, without increasing activity time.
 
-5. Emphasising the conscious creation of opportunities in sport to inculcate positive values and attributes in youth, Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council, said, "We all recognise the power of sport and are mindful that through the intentional and deliberate design of sporting activities to infuse character and leadership values, much more can be achieved. Sport develops the whole person - body, mind and spirit, and we should strive to create opportunities for character growth, both for the individual and the team, rather than leave it to chance. Purposefully designed sport lessons and programmes are able to do this. They provide an optimal social environment for our youth to acquire desirable values and attributes that cultivate good character and good citizenship that will prepare them for a successful future."
+5\. Emphasising the conscious creation of opportunities in sport to inculcate positive values and attributes in youth, Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council, said, "We all recognise the power of sport and are mindful that through the intentional and deliberate design of sporting activities to infuse character and leadership values, much more can be achieved. Sport develops the whole person - body, mind and spirit, and we should strive to create opportunities for character growth, both for the individual and the team, rather than leave it to chance. Purposefully designed sport lessons and programmes are able to do this. They provide an optimal social environment for our youth to acquire desirable values and attributes that cultivate good character and good citizenship that will prepare them for a successful future."
 
-6. Between June 2012 and May 2013, more than 450 individuals have benefitted from the Framework's pilot programme through their Physical Education lessons and sporting activities. They comprise teachers, student leaders and students from Admiralty Primary School, Evergreen Secondary School, Shuqun Secondary School, Tampines Secondary School, Temasek Secondary School and SMU. ITE College East and West will also participate in the pilot programme later this year. The two North Zone Centres of Excellence for National Education - Admiralty Primary School and Evergreen Secondary School - have further pledged to carry the Framework through to 120 schools in the next two years.
+6\. Between June 2012 and May 2013, more than 450 individuals have benefitted from the Framework's pilot programme through their Physical Education lessons and sporting activities. They comprise teachers, student leaders and students from Admiralty Primary School, Evergreen Secondary School, Shuqun Secondary School, Tampines Secondary School, Temasek Secondary School and SMU. ITE College East and West will also participate in the pilot programme later this year. The two North Zone Centres of Excellence for National Education - Admiralty Primary School and Evergreen Secondary School - have further pledged to carry the Framework through to 120 schools in the next two years.
 
-7. "The Framework is easy to adapt, easy to buy-in to and thus sustainable. It is good to know that there is something we can use that is workable and helps the whole school in values education," said Mrs Carol Lim, Principal of Evergreen Secondary School.
+7\. "The Framework is easy to adapt, easy to buy-in to and thus sustainable. It is good to know that there is something we can use that is workable and helps the whole school in values education," said Mrs Carol Lim, Principal of Evergreen Secondary School.
 
-8. Mr Shahril Bin Mohamed Jalani, physical educator at Admiralty Primary School, added, "The Framework helps us formalise the learning of values. We can customise it to our school's needs and infuse character development into our PE lessons. It helps us with our lesson planning and we are more aware of the 'teachable moments' on values and character."
+8\. Mr Shahril Bin Mohamed Jalani, physical educator at Admiralty Primary School, added, "The Framework helps us formalise the learning of values. We can customise it to our school's needs and infuse character development into our PE lessons. It helps us with our lesson planning and we are more aware of the 'teachable moments' on values and character."
 
-9. Going forward, SSC plans to take the 'Game For Life' Toolkit to corporate Singapore. Next month, several organisations will take part in a pilot programme to use sport for workforce integration, teamwork development, productivity, and organisation core values inculcation.
+9\. Going forward, SSC plans to take the 'Game For Life' Toolkit to corporate Singapore. Next month, several organisations will take part in a pilot programme to use sport for workforce integration, teamwork development, productivity, and organisation core values inculcation.
 
-10. This initiative is a follow-up from the Memorandum of Understanding between SSC and SMU in February 2012 to promote sport and explore possibilities of working together in sport-related initiatives.
+10\. This initiative is a follow-up from the Memorandum of Understanding between SSC and SMU in February 2012 to promote sport and explore possibilities of working together in sport-related initiatives.
 LifeLessons to develop life-long skills and attitudes
 
-11. SMU will be launching SMU LifeLessons for students, which is a values-based out-of-classroom programme developed in tandem with the 4-year undergraduate academic programmes in SMU.
+11\. SMU will be launching SMU LifeLessons for students, which is a values-based out-of-classroom programme developed in tandem with the 4-year undergraduate academic programmes in SMU.
 
-12. SMU LifeLessons aims to define, prepare, and inspire the SMU student to be her/his very best for others. SMU will be the first university in Singapore to launch a formal programme that looks at values-education through its many platforms.
+12\. SMU LifeLessons aims to define, prepare, and inspire the SMU student to be her/his very best for others. SMU will be the first university in Singapore to launch a formal programme that looks at values-education through its many platforms.
 
-13. These platforms includes SMU student's participation in the 80-hour community service initiatives, orientation camps, minimum 10 weeks' compulsory internship programme, as well as student exchange opportunities, sports clubs, arts groups, special interest groups, and other student associations and events.
+13\. These platforms includes SMU student's participation in the 80-hour community service initiatives, orientation camps, minimum 10 weeks' compulsory internship programme, as well as student exchange opportunities, sports clubs, arts groups, special interest groups, and other student associations and events.
 
-14. Professor Arnoud De Meyer, SMU President said, "SMU has always provided a plethora of out-of-classroom opportunities that augment the rigorous academic programmes delivered by our six schools. Our students learn many other soft skills through co-curricular activities, events, internships, the compulsory 80-hour community service, as well as the overseas exchanges."
+14\. Professor Arnoud De Meyer, SMU President said, "SMU has always provided a plethora of out-of-classroom opportunities that augment the rigorous academic programmes delivered by our six schools. Our students learn many other soft skills through co-curricular activities, events, internships, the compulsory 80-hour community service, as well as the overseas exchanges."
 
-15. "Today, we take yet another significant step towards making that holistic education more deliberate, more structured. With the launch of the SMU LifeLessons Programme, we signal the importance of a values-based education that must be the glue that binds all other learning. Beginning with the freshmen and selected student groups in the new academic year this August, SMU will systematically develop the programme to be rolled out completely by 2015. Through SMU LifeLessons, we aim to inspire our students to be the best that they can ever be, not just for themselves, but for others," added Professor De Meyer.
+15\. "Today, we take yet another significant step towards making that holistic education more deliberate, more structured. With the launch of the SMU LifeLessons Programme, we signal the importance of a values-based education that must be the glue that binds all other learning. Beginning with the freshmen and selected student groups in the new academic year this August, SMU will systematically develop the programme to be rolled out completely by 2015. Through SMU LifeLessons, we aim to inspire our students to be the best that they can ever be, not just for themselves, but for others," added Professor De Meyer.
 
-16. Mr. Edmund Koh, Country Head, UBS Singapore said, "Increasingly, the world is getting more complex and the challenges to leadership, more daunting. To remain ahead of the game, Singapore is going to require her people to be grounded in values and make decisions out of moral conviction. It is encouraging that SMU is embarking on this journey to prepare the leaders of the future, and this step is a significant milestone in university education."
+16\. Mr. Edmund Koh, Country Head, UBS Singapore said, "Increasingly, the world is getting more complex and the challenges to leadership, more daunting. To remain ahead of the game, Singapore is going to require her people to be grounded in values and make decisions out of moral conviction. It is encouraging that SMU is embarking on this journey to prepare the leaders of the future, and this step is a significant milestone in university education."
 
-17. SMU LifeLessons comprises 3 years of structured education through one's participation in out-of classroom activities in the first three years of university life, focused on the self, self and one's team/group/immediate neighbours, and self and the larger community or society, respectively. An additional year is built in for selected students in the fourth year for the development of facilitation and coaching skills.
+17\. SMU LifeLessons comprises 3 years of structured education through one's participation in out-of classroom activities in the first three years of university life, focused on the self, self and one's team/group/immediate neighbours, and self and the larger community or society, respectively. An additional year is built in for selected students in the fourth year for the development of facilitation and coaching skills.
 
-18. SMU LifeLessons is values-based, and goes beyond sports and values. That is, the programme seeks to develop the sensitivity and sensibility around values being the under-pinning force of our decisions and choices. Soft skills such as people management, motivating teams and managing conflict, event organisation will also be taught against the backdrop of values.
+18\. SMU LifeLessons is values-based, and goes beyond sports and values. That is, the programme seeks to develop the sensitivity and sensibility around values being the under-pinning force of our decisions and choices. Soft skills such as people management, motivating teams and managing conflict, event organisation will also be taught against the backdrop of values.
 
-19. The programme will be opened to the first year students (incoming cohort) in year 2013 (AY2013/2014) and rolled-out in phases.
+19\. The programme will be opened to the first year students (incoming cohort) in year 2013 (AY2013/2014) and rolled-out in phases.
 
 ---
 
@@ -60,18 +61,18 @@ Bridgitte Lee
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
 <br>Tel: +65 6500 5249
-<br>Email: [bridgitte_lee@ssc.gov.sg](bridgitte_lee@ssc.gov.sg)
+<br>Email: [bridgitte_lee@ssc.gov.sg](mailto:bridgitte_lee@ssc.gov.sg)
 
 Kong Hwee Ting
 <br>Senior Manager, Corporate Communications
 <br>Singapore Management University
 <br>Tel: +65 6808 5238
-<br>Email: [htkong@smu.edu.sg](htkong@smu.edu.sg)
+<br>Email: [htkong@smu.edu.sg](mailto:htkong@smu.edu.sg)
 
-**Enclosures**
+##### **Enclosures**
 
 **Annex A: 'Game For Life' Toolkit**
-<br>
+
 Created by the Singapore Sports Council, the 'Game For Life' Toolkit comprises the 'character and leadership through sport' Framework, and the 'Game For Life: 25 Journeys' book.
 
 The Toolkit is an extension of Vision 2030, to discover how sport could best serve the nation in the coming decades and to inspire Singaporeans to live better through sport.
@@ -84,11 +85,11 @@ The Framework has broadly-designed lesson plans for coaches and sport instructor
 
 It constitutes three elements that have to be integrated and implemented for effectiveness:
 
-1. identifying the values and attributes of good character
+1\. identifying the values and attributes of good character
 
-2. establishing the platforms (Game and Sport Activities, and/or Role Learning) through which desirable values can be inculcated and developed; and
+2\. establishing the platforms (Game and Sport Activities, and/or Role Learning) through which desirable values can be inculcated and developed; and
 
-3. executing a purposeful Check-Act-Reinforce With action plan to yield "teachable moments" for intentional teaching and effective values development.
+3\. executing a purposeful Check-Act-Reinforce With action plan to yield "teachable moments" for intentional teaching and effective values development.
 
 **'Game For Life: 25 Journeys':**
 <br>
@@ -170,18 +171,14 @@ Finally, for selected fourth-year students, some hours of community service coul
 A descriptive assessment in the form of active participation, demonstration of reflection and journaling, will provide an indication of learning, after the project is completed.
 
  
-**About the Singapore Sports Council**
-<br>
+##### **About the Singapore Sports Council**
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and SingaporeSports.sg
-
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-
+To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and www.SingaporeSports.sg.<br>
+Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
-**About the Singapore Management University**
-<br>
+##### **About the Singapore Management University**
 A premier university in Asia, the Singapore Management University (SMU) is internationally recognised for its world class research and distinguished teaching. Established in 2000, SMU's mission is to generate leading edge research with global impact and produce broad-based, creative and entrepreneurial leaders for the knowledge-based economy. It is known for its interactive and technologically-enabled pedagogy of seminar-style teaching in small class sizes.
 
 Home to about 8,000 students, SMU comprises six schools: School of Accountancy, Lee Kong Chian School of Business, School of Economics, School of Information Systems, School of Law and School of Social Sciences, offering a wide range of bachelor's, master's and PhD degree programmes in various disciplines.
