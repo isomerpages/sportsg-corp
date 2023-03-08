@@ -19,7 +19,7 @@ Following the launch of Active Citizens Worldwide (ACW) in February 2018, repres
 
 Active Citizens Worldwide is a global initiative set up to help cities across the world achieve a step-change in the physical activity levels of its citizens. ACW uses data and analytics to provide policymakers with better knowledge, insights and ideas, and through multi-city collaboration, best-practice sharing and global benchmarking, help transform the physical activity profiles of their cities.
 
-Under the theme of “social resilience”, the Founding Cities of ACW will come together to share the findings from the first year of collaboration, and discuss how sport and physical activity can further contribute to social resilience at the individual, community and city level.
+Under the theme of “social resilience”, the Founding Cities of ACW will come together to share the findings from the first year of collaboration, and discuss how sport and physical activity can further contribute to social resilience at the individual, community and city levels.
 
 Building on existing metrics and indicators, the cities identified a need and an opportunity to design and introduce an improved way of measuring sport and physical activity participation that is non-binary, globally consistent, and incorporates measures across the three key dimensions of type of activity, duration, and intensity.
 
