@@ -44,8 +44,8 @@ HP: +65 9647 7432<br>
 Email:[siti\_nurhidayati@sport.gov.sg](http:)
 
 
-**About Kingsmen Creatives Ltd.**
-<br>
+**About Kingsmen Creatives Ltd.** <br>
+
 Listed on the Main Board of the Singapore Exchange, Kingsmen is a leading communication design and production group. Established in 1976, the Group has a network of 18 offices and full-service facilities serving global clients in Exhibitions & Museums, Retail & Corporate Interiors, Research & Design, and Alternative Marketing today.
 
 Kingsmen’s “one-stop-shop” solution, through its vertically and horizontally integrated service offerings coupled with its network of offices and partners, provides clients the benefits of flexibility, speed and value. Building on its design-led, quality and service-driven culture, the Group has established a reputation and visible brand that is synonymous with creative and innovative solutions.
@@ -53,11 +53,11 @@ Kingsmen’s “one-stop-shop” solution, through its vertically and horizontal
 The Group serves a long-standing base of clients from diverse industries including well-known names such as BMW, Burberry, DBS Bank, FJ Benjamin Group, Gucci, Hong Kong Disneyland, LVMH, Ralph Lauren, Resorts World Sentosa, Robinsons Group, TAG Heuer, Tiffany & Co., Universal Studios Singapore and Wing Tai Asia.
 
 
-**About the 28th SEA Games**
-<br>
+**About the 28th SEA Games**<br>
+
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
-Follow us on:<br>
+**Follow us on:**<br>
 28th SEA Games Website: www.seagames2015.com<br>
 28th SEA Games Facebook Page: www.facebook.com/SEAGAMES2015<br>
 8th ASEAN Para Games Facebook Page:[www.facebook.com/inclusivesportsg](www.facebook.com/inclusivesportsg)
