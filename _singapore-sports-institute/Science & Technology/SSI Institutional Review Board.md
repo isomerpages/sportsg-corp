@@ -12,11 +12,86 @@ In accordance with the “Research involving Human Subject: Guidelines for IRBs�
 
 The SSI-IRB is comprised of a Chairperson and 9 members from Sport Singapore (SportSG), as well as external agencies/institutions involved in Sport Science, for a 2-year term. The list of the current SSI-IRB members (commencing October 2021 to 30 September 2023) is shown below:
 
-**Chairman**
-Dr Jason Chia
+***Chairman***
+<br>
+**Dr Jason Chia**
 <br>
 Head & Senior Consultant 
 <br>
 Sports Medicine & Surgery Clinic
 <br>
 Tan Tock Seng Hospital
+
+***Members***
+
+**Prof. Michael Chia**
+<br>
+Dean
+<br>
+Faculty Affairs
+<br>
+National Institute of Education
+
+**Dr Ivy Lim**
+<br>
+Director & Consultant
+<br>
+Sport & Exercise Medicine
+<br>
+Changi General Hospital
+
+**A/Prof. Chow Jia Yi**
+<br>
+Associate Dean
+<br>
+Programme & Student Development
+<br>
+National Institute of Education
+
+**Ms Tan Bee Lian**
+<br>
+Director 
+<br>
+Sports
+<br>
+Singapore Sports School
+
+**Mr Matthew James Wylde**
+<br>
+Head
+<br>
+Sport Science
+<br>
+National Youth Sports Institute
+
+**Mr Lau Kok Keng**
+<br>
+Head
+<br>
+Intellectual Property, Sports & Gaming
+<br>
+Rajah & Tann Singapore LLP
+
+**Dr Ong Joo Haw**
+<br>
+Consultant
+<br>
+Sport Medicine Centre
+<br>
+Khoo Tech Puat Hospital
+
+**Dr Alex Ong**
+<br>
+Assistant Director / Principal Lecturer
+<br>
+Capability & Industry / Industry
+<br>
+Republic Polytechnic
+
+**Dr Marcus Lee**
+<br>
+Head
+<br>
+Sport Science and Medicine Centre
+<br>
+Singapore Sport Institute
