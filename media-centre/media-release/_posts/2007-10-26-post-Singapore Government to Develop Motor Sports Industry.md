@@ -22,10 +22,9 @@ Added Dr Balakrishnan: 'After the Sports Hub, this will be Singapore's second in
 
 Singapore has a large following of motor sport enthusiasts with over 100 car clubs, each with memberships ranging from 50 to as many as 2000 members. The Singapore Motor Sports Association (SMSA) and its affiliated motoring clubs have more than 4000 registered members who participate in regular motor sports activities organized by the SMSA.
 
-Enclosures
+**Enclosures**
 
-[ANNEX A - Singapore Motor Sports Fact Sheet](/files/Media%20Centre/Media%20Release/2007/October/ANNEX20A.pdf)
-<br>
+[ANNEX A - Singapore Motor Sports Fact Sheet](/files/Media%20Centre/Media%20Release/2007/October/ANNEX20A.pdf)<br>
 [ANNEX B - Site Plan for Permanent Racetrack in Changi](/images/Media%20Centre/Media%20Release/2007/October/Motorsport20Site20Map.jpeg)
 
 
