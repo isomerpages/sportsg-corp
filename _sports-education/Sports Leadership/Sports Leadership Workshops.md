@@ -11,11 +11,10 @@ This page consists of Sports Leadership Workshops for sports coaches and sports 
 **(For all NROC Coaches)**
 
 ![Coach As Team Builder](/images/Sport%20Education/Sports%20Leadership/Sports%20Leadership%20Workshops/Teambuilder.jpeg)
-
 **Dates**: 12 September 2019
-
+<br>
 **Venue**: Singapore Sports Hub
-
+<br>
 **Description**: Beyond just developing technical expertise in your athletes / players, the role of a coach extends to that of a Team Builder. Success on the field / court is not only a matter of excellent technical skills and tactics but also a result of positive team dynamics within the team. Therefore the role of a coach is critical in building trust and cohesion so as to achieve high performing results. Understanding your team's dynamics will also provide you with a better sense of interventions that are required to build a positive team culture in the long run. 
 
 The **learning outcomes** from this workshop include:
