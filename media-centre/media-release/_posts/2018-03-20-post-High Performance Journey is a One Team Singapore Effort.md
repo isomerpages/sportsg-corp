@@ -8,7 +8,7 @@ image: ""
 ---
 ### **High-Performance Journey is a One Team Singapore Effort**
 
-* Athletes, Parents, Coaches, Officials, Sport Specialists, NSAs, Corporates, Institutions come together to celebrate as One
+* Athletes, parents, coaches, officials, sport specialists, NSAs, corporates, institutions come together to celebrate as One
 * 5th year of spexScholarship programme boasts biggest cohort of 78 scholars across 24 sports with 17 new scholars
 
 ![](/images/Media%20Centre/Media%20Release/2018/March/Minister_Grace_Fu_with_the_new_spexScholars_photo_by_Flona_Hakim_web.jpeg)
