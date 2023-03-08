@@ -4,8 +4,6 @@ permalink: /what-we-do/anti-doping-singapore/testing/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-
-
 #### **RIGHTS AND RESPONSIBILITIES**
 
 ##### **ATHLETE**
@@ -142,10 +140,11 @@ The DCO will record the A Sample and B Sample bottle numbers on the Doping Contr
 
 At this point you will be asked to:
 
-Declare any prescription or non-prescription medication, vitamins, food supplements, herbal products and any other substance you have taken within the past 7 days.
-Declare the use of Beta-2 agonists or non-systemic glucocorticosteroids (intraarticular, periarticular, peritendinous, epidural, intradermal and inhalation) on the Doping Control Form.
-Provide details of any Therapeutic Use Exemptions (TUE)
-Include any comments from the procedure on the Doping Control Form.
+* Declare any prescription or non-prescription medication, vitamins, food supplements, herbal products and any other substance you have taken within the past 7 days.
+* Declare the use of Beta-2 agonists or non-systemic glucocorticosteroids (intraarticular, periarticular, peritendinous, epidural, intradermal and inhalation) on the Doping Control Form.
+* Provide details of any Therapeutic Use Exemptions (TUE)
+* Include any comments from the procedure on the Doping Control Form.
+
 There is no obligation to make a declaration, but it may be helpful in explaining an adverse analytical or atypical finding.
 
 Your representative, if present, and you will be invited to check that the information recorded on the Doping Control Form is correct, and to sign it if satisfied.
