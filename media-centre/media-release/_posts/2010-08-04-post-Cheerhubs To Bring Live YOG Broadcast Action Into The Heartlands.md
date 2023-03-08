@@ -10,6 +10,7 @@ image: ""
 
 "CHEERHUBS" TO BRING 'LIVE' YOG BROADCAST ACTION INTO THE HEARTLANDS
 YOG Events To Be Broadcast At Five SSC Sports And Recreation Centres To Foster Greater Community Spirit Among Singaporeans
+
 Wednesday 4 August 2010 - Singaporeans and members of the public will have a chance to rally behind and cheer on Team Singapore athletes participating in the Singapore 2010 Youth Olympic Games (YOG) at "CheerHubs" which are being set up at five Sports and Recreation Centres (SRCs) all over the island. The "CheerHubs", a partnership between the Singapore Sports Council (SSC) and StarHub, aim to bring the YOG even deeper into the heartlands from 14 to 26 August 2010, the duration of the inaugural YOG.
 
 2. The public will be able to catch the riveting sports action 'live' on jumbo projector screens (7.5ft x 10ft) at each of the five "CheerHubs" located at the following Sports and Recreation Centres (SRCs): Delta, Clementi, Woodlands, Sengkang and Tampines.
