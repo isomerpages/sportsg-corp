@@ -10,7 +10,7 @@ image: ""
 
 Weekly highlights of national school sports competitions to be shown on prime time on Channel 5
 
-Singapore, 21 January 2009 - Singaporeans can expect more updates on the local youth sports scene right from their television screens with the signing of a Memorandum of Understanding (MOU) between the Singapore Sports Council (SSC), the Ministry of Education (MOE) and MediaCorp today at the Convent of the Holy Infant Jesus (CHIJ) Secondary (Toa Payoh). This collaboration between the Singapore Sports Council, Ministry of Education and MediaCorp aims to build a strong sporting culture through wider exposure of youth sports and to give budding athletes support and encouragement.
+**Singapore, 21 January 2009** - Singaporeans can expect more updates on the local youth sports scene right from their television screens with the signing of a Memorandum of Understanding (MOU) between the Singapore Sports Council (SSC), the Ministry of Education (MOE) and MediaCorp today at the Convent of the Holy Infant Jesus (CHIJ) Secondary (Toa Payoh). This collaboration between the Singapore Sports Council, Ministry of Education and MediaCorp aims to build a strong sporting culture through wider exposure of youth sports and to give budding athletes support and encouragement.
 
 The MOU was signed by Mr Oon Jin Teik, Chief Executive Officer for the Singapore Sports Council, Ms Sum Chee Wah, Director (Education Programmes) from the Ministry of Education and Mr Kenneth Liang, Executive Vice President, TV Programming and Production, Channel 5, MediaCorp TV Singapore Pte Ltd. Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth & Sports and Ministry of Transport, Mr Masagos Zulkifli BMM, Senior Parliamentary Secretary, Ministry of Education and Ministry of Home Affairs, and Mr Lucas Chow, Chief Executive Officer of MediaCorp Pte Ltd witnessed the official signing ceremony.
 
@@ -28,9 +28,9 @@ The timing of the project is most opportune as the nation gears up for the hosti
 
 Filming will begin at the end of February 2009, and the sports to be featured include badminton, swimming, basketball and table tennis.
 
+---
 
-**For media enquiries, please contact:**
-
+###### For media enquiries, please contact:
 Sheila Rasu
 <br>
 DID: 6324 2269
@@ -65,13 +65,12 @@ Fax: 6251-5628
 <br>
 Email: [clarencepong@mediacorp.com.sg](mailto:clarencepong@mediacorp.com.sg)
 
+---
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-**About MediaCorp**
-<br>
+###### About MediaCorp
 MediaCorp is Singapore's leading media company with the most complete range of platforms, spanning television, radio, newspapers, magazines, movies and digital media.
 
 It pioneered the development of Singapore's broadcasting industry, with the broadcast of Radio in 1936 and Television in 1963. Today, MediaCorp has over 50 products and brands in four languages (English, Mandarin, Malay and Tamil), reaching out to all adults in Singapore every week.
