@@ -30,7 +30,7 @@ SportSG maintains that the athletes must be held accountable for their lapses of
 **Annex - Period of ineligibility[1]**  for presence, use or attempted use, or possession of a prohibited substance or method, under the World Anti-Doping Agency (WADA) Code**
 
 | Type of Prohibited Substance or Method | Positive In-Competition Test | Positive Out-of-Competition Test |
-| --- | --- | --- |
+| --------- | ------ | --------- |
 | Substances and methods prohibited at all times (_E.g. anabolic agents, peptide hormones)_ | Up to 4 years | Up to 4 years |
 | Substance and methods prohibited in-competition _(E.g. stimulants, narcotics, cannabinoids, glucocorticoids)_ | For Substances of Abuse (i.e. cocaine, diamorphine (Heroin) methylenedioxymethamphetamine (MDMA/”ecstasy”), tetrahydrocannabinol (THC)[2]<br><br>* Ingestion or use occurred out-of-competition and was unrelated to sport performance: 1-3 months<br>* Under other circumstances: Up to 4 years<br>For all other substances: Up to 4 years | These substances and methods are not tested out-of-competition, as WADA does not prohibit their use or ingestion out-of-competition. Some jurisdictions allow the use of these substances, e.g. cannabis. |
 
