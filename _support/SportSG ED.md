@@ -7,7 +7,6 @@ description: ""
 
 #### **Why SportSG-ED?**
 
-| Column 1 | Column 2 | 
 | -------- | -------- | 
 | ![](/images/Support/Sport%20Ed/img1.png)     | **Trusted Content** – Courses, videos, workshops, reading materials and e-learning content are from subject matter experts in various content areas, verified and exclusively curated by SportSG and our training providers. This will be Singapore’s largest online selection of sports-related learning content.     | 
 | ![](/images/Support/Sport%20Ed/img2.png)     |**Future Ready Learning** – SportSG-ED allows users to select from a developing range of learning content that are pertinent and meets the prevailing learning needs of sports professionals. The digital learning environment prepares sports professionals for the various modes of learning possible. | 
