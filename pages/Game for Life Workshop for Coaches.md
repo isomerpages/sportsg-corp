@@ -47,3 +47,5 @@ This was followed by addressing coaches’ challenges on teaching values, and un
 - Angela Lumpkin (2011) Building Character Through Sports_
 
 To find out more about the Game-For-Life Toolkit, please click [here](/sports-education/sports-leadership/game-for-life/).
+
+[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
