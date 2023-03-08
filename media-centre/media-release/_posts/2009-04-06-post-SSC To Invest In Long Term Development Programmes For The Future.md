@@ -8,9 +8,9 @@ image: ""
 ---
 ### **SSC To Invest In Long-Term Development Programmes For The Future**
 
-National programmes to provide foundation to grow Singapore's pool of potential athletes, create more opportunities for athletes
+_National programmes to provide foundation to grow Singapore's pool of potential athletes, create more opportunities for athletes_
 
-Singapore, 6 April 2009 - The Singapore Sports Council announced today that it will be investing in long-term development programmes to provide the foundation to grow Singapore's pool of potential athletes and create more opportunities for athletes beyond their sports careers. The programmes will focus on building capabilities across the sports sector to develop the next generation of athletes, coaches, officials and sports journalists and photographers.
+**Singapore, 6 April 2009** - The Singapore Sports Council announced today that it will be investing in long-term development programmes to provide the foundation to grow Singapore's pool of potential athletes and create more opportunities for athletes beyond their sports careers. The programmes will focus on building capabilities across the sports sector to develop the next generation of athletes, coaches, officials and sports journalists and photographers.
 
 ##### **The Athlete: Back to Basics - Laying the Foundation for the Future**
 
@@ -70,7 +70,10 @@ Singapore, 6 April 2009 - The Singapore Sports Council announced today that it w
 
 24. Concluding, Chan said: "As you can see, we are putting in place long term development programmes in areas which will give us a big impact across the board and will provide an important foundation to help us grow Singapore's pool of potential athletes. We look forward to working with our partners to make these programmes a reality."
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
+
 S. Parameswaran
 <br>
 Manager, Corporate Communications
@@ -91,4 +94,4 @@ DID: 65005164
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
-*Source: Based on Singapore?s resident population, comprising Singapore citizens and permanent residents. Department of Statistics data from June 2008, published March 2009
+&ast;Source: Based on Singapore?s resident population, comprising Singapore citizens and permanent residents. Department of Statistics data from June 2008, published March 2009
