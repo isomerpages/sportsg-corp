@@ -12,7 +12,7 @@ At Sport Singapore, CLD develops organisational capabilities by spearheading lea
 
 CLD works with partners from different sectors to further the development of our work. If you are a local/overseas agency or institution and see that the work we are doing is aligned with you, do [contact us](mailto:hong_xue_en@sport.gov.sg). We will be glad to explore partnership opportunities. 
 
-Character & Leadership Development Department  
+**Character & Leadership Development Department**
 Sport Singapore  
 Address: 3 Stadium Drive, Singapore 397630  
 Tel: 6500 5000 (main)  
@@ -21,7 +21,7 @@ Fax: 6440 9205
 **Local Partners**
 
 | -------- | -------- | 
-| ![CYGO](/images/Sport%20Education/Sports%20Leadership/Partnership/CYGO_Logo.png)   | Text     | 
+| ![CYGO](/images/Sport%20Education/Sports%20Leadership/Partnership/CYGO_Logo.png)   |     | 
 |  ![NP](/images/Sport%20Education/Sports%20Leadership/Partnership/NP_logo.jpeg)| [NGEE ANN POLYTECHNIC](https://www.np.edu.sg/Pages/default.aspx)|
 |  ![Evergreen Secondary School](/images/Sport%20Education/Sports%20Leadership/Partnership/evgss_logo.jpeg)| [Evergreen Secondary School](https://evergreensec.moe.edu.sg/departments/physical-education/)|
 |  ![Hilda school](/images/Sport%20Education/Sports%20Leadership/Partnership/st_hilda_logo.jpeg) | [ST. HILDA'S SCHOOL](https://www.sthildassec.moe.edu.sg/)|
@@ -31,4 +31,4 @@ Fax: 6440 9205
 **Oversea Partners**
 
 | -------- | -------- | 
-| ![university of alicante](/images/Sport%20Education/Sports%20Leadership/Partnership/university_of_alicante.jpeg) | [University of Alicante](https://web.ua.es/en/actualidad-universitaria/2014/junio2014/junio2014-23-30/ua-collaborates-for-the-first-time-on-a-project-for-positive-development-in-young-people-with-sport-singapore.html)   | 
+| ![university of alicante](/images/Sport%20Education/Sports%20Leadership/Partnership/university_of_alicante.jpeg) | [University of Alicante](https://web.ua.es/en/actualidad-universitaria/2014/junio2014/junio2014-23-30/ua-collaborates-for-the-first-time-on-a-project-for-positive-development-in-young-people-with-sport-singapore.html)   |
