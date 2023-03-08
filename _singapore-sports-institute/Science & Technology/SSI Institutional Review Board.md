@@ -132,6 +132,15 @@ Please ensure that all revised/new documents are submitted to SSI-IRB with the c
 ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Review_Process.png)
 
 #### **Forms and Guidelines**
+Study pre-approval
+
+
+
+| Document Name | Version | Link |
+| -------- | -------- | -------- |
+| SSI-IRB Application Form | 28 July 2021 | [Download ](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_application_form.pdf)  |
+
+
 
 #### **Research Monitoring**
 The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf)
