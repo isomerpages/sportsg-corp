@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Three Bidders Submit Their Plans to Develop The Changi Motorsports Hub**
 
-Singapore, 27 August 2009 - The Singapore Sports Council (SSC) announced today that three bidding consortia submitted their tender proposals to design, build, finance and manage the Changi Motorsports Hub (CMH) at 4 pm today.
+**Singapore, 27 August 2009** - The Singapore Sports Council (SSC) announced today that three bidding consortia submitted their tender proposals to design, build, finance and manage the Changi Motorsports Hub (CMH) at 4 pm today.
 
 Tender bid submissions were delivered to the SSC by the following consortia:
 * SG Changi Pte Ltd
@@ -34,9 +34,10 @@ Bids will be evaluated on five criteria:
 4. Contribution towards developing local motorsports ecosystem (10%)
 5. Attractiveness of commercial mix and events (10%)
 
+---
 
-**For media inquiries, please contact:**
-<br>
+###### For media enquiries, please contact:
+
 Cassandra Kong
 <br>
 Manager, Corporate Communications & Relations
@@ -47,6 +48,7 @@ DID: 6500 5350
 <br>
 Email: cassandra_kong@ssc.gov.sg
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
