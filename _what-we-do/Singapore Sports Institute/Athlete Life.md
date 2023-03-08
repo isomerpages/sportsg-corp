@@ -10,12 +10,11 @@ We seek to help our athletes achieve their sporting aspirations together with ot
 
 ALM has three main components: Athlete Life Coaching, *spex_Education* and *spex_Business*
 
-**Related Articles:**
 
-[Athlete Life Coaching](/singapore-sports-institute/athlete-life/athlete-life-coaching/)
-
-[spexEducation](/singapore-sports-institute/athlete-life/spexeducation/)
-
-[spexBusiness](/singapore-sports-institute/athlete-life/spexbusiness/)
+| -------- | -------- | 
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Athlete%20Life%20Coaching01.jpg)     | Athlete Life Coaching facilitates athletes in proactively planning for all other areas of their life while they pursue sports.<br>[Read more](/singapore-sports-institute/athlete-life/athlete-life-coaching/)     | 
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/spexed.jpg)   | The spexEducation scheme is an effective education support system to help our athletes pursue high performance sports without compromising their academic aspirations.<br>[Read more](/singapore-sports-institute/athlete-life/spexeducation/) |
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Derek%20Wong%20at%20SEA%20Games.jpg)   | The spexBusiness scheme provides an effective career support system to help our athletes pursue high performance sports without compromising their career aspirations.<br>[Read more](/singapore-sports-institute/athlete-life/spexbusiness/) | 
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/teamsingaporecard.jpg)  | An exclusive and privileged membership brought together by our corporate Singapore partners for Team Singapore Athletes.<br>[Read more](/singapore-sports-institute/athlete-life/team-singapore-card/) | 
 
 [Team Singapore Card](/singapore-sports-institute/athlete-life/team-singapore-card/)
