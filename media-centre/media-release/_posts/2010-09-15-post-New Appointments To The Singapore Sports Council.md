@@ -20,12 +20,12 @@ Singapore, 15 September 2010 - Mr Richard Seow Yung Liang will assume the post o
 (ii) Dr Teo-Koh Sock Miang, President, Special Olympics Singapore
 (iii) Mr Andreas Sohmen-Pao, Group CEO, BW Maritime and BW Gas
 
-5 The following Council members will be stepping down from 30 September 2010:
-(i) Mr Edmund Koh, President, Ta Chong Bank Co. Ltd., Taiwan
-(ii) Mr Tan Ju Seng, Chairman, Singapore National Paralympic Council
-(iii) Mr Chew Hock Yong, Chief Executive, Land Transport Authority
+5. The following Council members will be stepping down from 30 September 2010:
+* (i) Mr Edmund Koh, President, Ta Chong Bank Co. Ltd., Taiwan
+* (ii) Mr Tan Ju Seng, Chairman, Singapore National Paralympic Council
+* (iii) Mr Chew Hock Yong, Chief Executive, Land Transport Authority
 
-6 MCYS and SSC welcome the new Council members and also express their appreciation to the outgoing members for their invaluable service. The composition of the new Council is at Annex.
+6. MCYS and SSC welcome the new Council members and also express their appreciation to the outgoing members for their invaluable service. The composition of the new Council is at Annex.
 statics0
 -End-
 
