@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Sembawang Residents to Embrace Sport, Health, Food, Greenery and Heritage at Bukit Canberra**
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberrabirds%20eye%20view.jpeg)
@@ -22,7 +21,7 @@ Mr Ong, together with his fellow Advisers to Sembawang GRC Grassroots Organisati
 
 Bukit Canberra will have facilities by Sport Singapore (SportSG), Ministry of Health (MOH), National Healthcare Group Polyclinics (NHGP), National Environment Agency (NEA) and National Parks Board (NParks). With inputs from National Heritage Board (NHB), Bukit Canberra will also highlight the heritage of the area.
 
-##### **Greenery and Heritage**
+**Greenery and Heritage**
 The development and landscaping of Bukit Canberra is shaped around the existing terrain, and retains and highlights the hilly characteristics and lush vegetation. More trees and shrubs will be planted throughout the entire site and be integrated with the various facilities to enhance the existing greenery and biodiversity, thereby allowing users to enjoy the hub’s features in a natural setting while at the same time bringing them closer to flora and fauna.
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Therapeutic%20Gardens.jpeg)
@@ -91,7 +90,7 @@ _Artist impression of the senior care centre_
 
 The Senior Care Centre will provide a range of health and social care services for seniors, including day care and rehabilitation services, so that seniors requiring care can be supported within the community. The centre will also offer home-based care services to frail and elderly residents living in the area.
 
-##### **Food**
+**Food**
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Hawker%20Centre.jpeg)
 _Artist impression of the hawker centre_
 
@@ -103,7 +102,7 @@ _Artist impression of the community plaza_
 
 As the lead agency for Bukit Canberra, SportSG curated inputs to design and build the hub to allow fellow partners to have opportunities for co-programming through shared spaces. The hub is also designed to connect seamlessly with the existing and future cycling networks in Sembawang and the Park Connector Network.The Bukit Canberra is expected to be fully operational by September 2021.
 
-##### **Partners’ Quotes**
+**Partners’ Quotes**
 
 <u>Sport Singapore</u>
 <br>Mr Lim Teck Yin, Chief Executive Officer of Sport Singapore:
