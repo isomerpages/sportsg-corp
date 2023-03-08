@@ -72,7 +72,9 @@ image: ""
 
 **Designer:** Jon Tan and Eng Sui Kee  <br>
 **School:** Singapore Polytechnic  <br>
-**Rationale:**  Unique (to Singapore) yet commonplace (in Singapore), the Singapura cat perfectly represents the nature of the Singaporean spirit. The familiar sight of this adorable feline is a comforting reminder that this is home. Competitor or supporter let Kuching bring the joy and camaraderie of the Singapore National Games into your heart!
+**Rationale:** Unique (to Singapore) yet commonplace (in Singapore), the Singapura cat perfectly represents the nature of the Singaporean spirit. The familiar sight of this adorable feline is a comforting reminder that this is home. Competitor or supporter let Kuching bring the joy and camaraderie of the Singapore National Games into your heart!
+
+---
 
 #### **Annex C: Fact Sheet on Singapore National Games**
 
@@ -101,7 +103,9 @@ The SNG is led by a Steering Committee comprising various stakeholders including
 
 For more information regarding the Games, please visit the [singaporenationalgames.sg](singaporenationalgames.sg).
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Letchumi Jaiganth<br>
 Manager, Media Relations <br>
@@ -118,8 +122,9 @@ Head (Publicity) <br>
 People's Association<br>
 Email: [adlina_jaffar@pa.gov.sg](mailto:adlina_jaffar@pa.gov.sg)
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
@@ -130,14 +135,11 @@ For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [www.Vision2030.sg](www.Vision2030.sg).
 
-**About People's Association**
-<br>
+###### About People's Association
 The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.OurCommunity.sg](www.OurCommunity.sg).
 
-**What's happening in OurCommunity?**
-<br>
+###### What's happening in OurCommunity?
 Find out about PA's new hungrygowhere feature, and the latest courses, activities, interest groups and facilities on your smartphone. Discover your community today at [www.OurCommunity.sg](www.OurCommunity.sg).
 
-**About Community Games**
-<br>
+###### About Community Games
 The Community Games (CG) 2012 is a multi-sports competition to be held across the island, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.facebook.com/CommunityGamesSingapore](www.facebook.com/CommunityGamesSingapore).
