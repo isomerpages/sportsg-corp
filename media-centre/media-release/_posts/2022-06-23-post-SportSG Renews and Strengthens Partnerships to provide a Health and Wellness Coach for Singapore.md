@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Sport Singapore Renews and Strengthens Partnerships, aims to provide a Health and Wellness Coach for every Singapore resident**
 
 SPORT SINGAPORE RENEWS AND STRENGTHENS PARTNERSHIPS,   
@@ -47,9 +46,9 @@ Mr Chua Song Khim, Deputy Chief Executive of NUHS said: “There is a lot of syn
 
 ---
 
-[1] Announced on 20 October 2021, the Health District @ Queenstown is a first-of-its-kind multi-stakeholder collaboration by the Housing and Development Board, National University Health System and National University of Singapore, together with multiple stakeholders from the public, private and people sectors, where the expertise of the various partners are harnessed to pilot integrated solutions to enhance the health and well-being of the residents of Queenstown.
+1 Announced on 20 October 2021, the Health District @ Queenstown is a first-of-its-kind multi-stakeholder collaboration by the Housing and Development Board, National University Health System and National University of Singapore, together with multiple stakeholders from the public, private and people sectors, where the expertise of the various partners are harnessed to pilot integrated solutions to enhance the health and well-being of the residents of Queenstown.
 
-##### **Renewed Partnerships to Extend Reach**
+**Renewed Partnerships to Extend Reach**
 
 **NHG** has been close partners with SportSG, reaching out to the population within and beyond clinic walls. In a shared commitment to keep the population well and stem the metabolic tide, NHG collaborated with SportSG through shared referral programmes and resource sharing to address and combat common health issues within the community such as obesity, diabetes and hypertension.
 
@@ -82,3 +81,5 @@ Within the next six months, Active Health will be initiating new programmes with
 4. First ever Active Health Fitness Trail to be featured in the Health District @ Queenstown pilot
 
 Beyond the above partnerships, public and stakeholders within the health and wellness ecosystem can look forward to new Active Health Labs in upcoming sport centres in Canberra, Delta and Punggol. Existing Active Health initiatives such as ‘Stronger at 40’ and ‘Combat Age-Related Loss of Muscle (CALM)’ for individuals aged 60 and above will also feature enhanced programming to better engage and empower participants.
+
+END
