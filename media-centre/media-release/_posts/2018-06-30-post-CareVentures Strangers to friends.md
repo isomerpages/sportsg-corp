@@ -21,9 +21,9 @@ The 2Day1Night camp that was held from 29 to 30 June 2018, culminated with a gra
 
 ![](/images/Media%20Centre/Media%20Release/2018/June/CareVentures%20Campfire.jpeg)
 
-Under the guidance of Sands Leadership Development Centre (SLDC), an initiative by The Scouts Association, the group learnt tent-pitching, outdoor cooking, orienteering, knots and lashing, and most importantly, the importance of team work.
+Under the guidance of Sands Leadership Development Centre (SLDC), an initiative by The Scouts Association, the group learnt tent-pitching, outdoor cooking, orienteering, knots and lashing, and most importantly, the importance of teamwork.
 
-have shown that Singaporeans are generally apprehensive when interacting with people with special needs, and programmes like CareVentures will provide the platform to allow people from different abilities to meet with sport as the common language.
+Surveys have shown that Singaporeans are generally apprehensive when interacting with people with special needs, and programmes like CareVentures will provide the platform to allow people from different abilities to meet with sport as the common language.
 
 ![](/images/Media%20Centre/Media%20Release/2018/June/CareVentures%20graduation%20ceremony%20group%20photo.jpeg)
 
