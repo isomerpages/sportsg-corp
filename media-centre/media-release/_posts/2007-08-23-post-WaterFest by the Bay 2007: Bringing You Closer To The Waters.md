@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-### **WaterFest by the Bay 2007 - Bringing You Closer To The Waters**
+### **WaterFest by the Bay 2007: Bringing You Closer to the Waters**
 
 This year's WaterFest Singapore kicks off with exhilarating water sports competitions for the first time at the Marina Bay Floating Platform on Saturday and Sunday, 25 and 26 August. For the first time, a professional competitive element is included in this year's WaterFest by the Bay, promising an event that will get your adrenalin pumping with high-speed action.
 
