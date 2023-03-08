@@ -95,3 +95,14 @@ Head
 Sport Science and Medicine Centre
 <br>
 Singapore Sport Institute
+
+**Quorum for IRB Meeting**
+ At least 5 Members present
+
+* 1 Chairman
+* 1 External Layperson
+
+**Contact Us**  
+
+Please contact us for any queries:
+[SPORT_SSI_Research@sport.gov.sg](mailto:SPORT_SSI_Research@sport.gov.sg)
