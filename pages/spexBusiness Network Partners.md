@@ -8,6 +8,116 @@ spex_Business is the customised scheme that develops a more integrated and robus
 Through forming a network of companies from diverse industries, spex_Business collaborates with its partners to offer various career development supports (such as employment opportunities and workplace flexibilities) to Team Singapore athletes.
 
 #### **spexBusiness Partners**
-[Adecco Personnel](http://www.adecco.com.sg/jobseekers/careers-adecco)
+**[Adecco Personnel](http://www.adecco.com.sg/jobseekers/careers-adecco)**
 
 The Adecco Group is the world's leading provider of HR solutions. The services they offer fall into the broad categories of temporary staffing, permanent placement, career transition and talent development, as well as outsourcing and consulting. They offer life skills, career development and specialized expertise. The Adecco mission is to provide superior service to associates and clients through best-in-class matching of associates to client positions.
+
+**[adidas](https://careers.adidas-group.com/locations/hubs/singapore)**
+
+adidas is a German multinational corporation that designs and manufactures sports shoes, clothing and accessories. In Singapore, adidas operates a retail business with their concept stores featuring the brand's signature athletic footwear, clothes & accessories.
+
+**[Amore Fitness](http://www.amorefitness.com/career/)**
+
+Amore Fitness is Singapore’s leading fitness and spa service provider committed to promoting and encouraging members of the public to attain a healthier lifestyle through a holistic approach to fitness and well-being. Today, Amore has 16 fitness and spa clubs strategically located island-wide, with over 500 fitness classes to choose from every week complemented with a wide array of spa, facial and body treatments. The services that Amore Fitness offers which ranges from Fitness membership, to Personal Training services to an entire range of Spa treatments.
+
+**[Banyan Tree](https://careers.banyantree.com/jobs)**
+
+Banyan Tree Holdings Limited is a leading, international hospitality brand that manages and develops premium resorts, hotels and spas. Banyan Tree Hotels & Resorts has grown into one of the world's leading international operators in the hospitality and spa industry that manages more than 30 resorts and hotels, 70 spas, 90 retail galleries and three championship golf courses in 28 countries. Banyan Tree’s businesses include: hotel investment, hotel management, branding, marketing & promotion, spa operations, gallery operations, hotel residences, property sales, design services, golf club operations, and real estate hospitality.
+
+**[The Building and Construction Authority (BCA)](https://www1.bca.gov.sg/about-us/careers)**  
+
+The Building and Construction Authority (BCA) champions the development of a future ready built environment for Singapore. Besides regulating building safety, we lead and transform the built environment sector in delivering a safe, high quality, sustainable and friendly built environment.
+
+We constantly shape the landscape to prepare for the future of Singapore, rally the built environment sector to achieve big goals that reach beyond today and improve the living environment for Singaporeans from all walks of life. Be part of this transformation.
+
+**[Borneo Motors](https://www.inchcape.com.sg/borneo-motors)**
+
+Borneo Motors (Singapore) Pte Ltd is today’s leading car distributor in Singapore. It markets the brands Toyota, Lexus and Hino. It offers opportunities in the following business units: Aftersales Parts & Services, Customer Relations, Facilities, Finance, Human Resources, Information Systems, Marketing, Lexus Sales, Toyota Sales, and Hino Sales.
+
+**[CapitaLand](http://www.capitaland.com/our-people/careers)**
+
+CapitaLand is one of Asia’s largest real estate companies headquartered and listed in Singapore. Its diversified global real estate portfolio includes integrated developments, shopping malls, serviced residences, offices and homes. Its two core markets are Singapore and China, while Indonesia, Malaysia and Vietnam have been identified as new growth markets. The company also has one of the largest real estate fund management businesses with assets located in Asia.
+
+**[Charles & Keith](http://job-search.jobstreet.com.sg/singapore/company/charles-keith-singapore-pte-ltd-jobs/)**
+
+CHARLES & KEITH is a fast fashion brand that designs, manufactures and retails their own brand of ladies footwear and accessories. Located in prominent shopping districts around the world, the brand has grown from a single store to over 350 stores in more than 30 cities. Key departments include Architecture, Human Resources, Inventory control, Information Technology, Learning & Development, Logistics, Marketing, Photography, Design & Development and Supply Chain.
+
+**[DBS](http://www.dbs.com/careers/apply-now/default.page)**
+
+As Asia’s bank of choice, DBS is at the forefront of the banking industry in the fastest-growing region in the world. It has a growing network of banking services in more than 50 cities and offers careers that draw experience and expertise from not only DBS headquarters in Singapore, but also its regional offices.
+
+[Deloitte Singapore](https://jobs2.deloitte.com/sg/en)**
+
+"Deloitte" is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit, consulting, financial advisory, risk management, tax and related services to select clients. Its clients include the following industries: Consumer Business, Energy & Resources, Financial Services, Life Sciences and Health Care, Manufacturing, Public Sector, Real Estate, Technology, Media & Telecommunications.
+
+**[DHL Supply Chain](https://dpdhl.csod.com/ats/careersite/search.aspx?site=4&c=dpdhl)**
+
+DHL Supply Chain is a division of the world's leading postal and logistics Group, Deutsche Post DHL. It develops successful supply chain solutions for customers of all sizes, including many of the world's leading brands and corporations. This includes logistics planning, sourcing, manufacturing, storage and delivery services.
+
+**[Enterprise Sports Group](http://enterprisesg.com/join-esg/)**
+
+ESG is a leading Singapore-based international sports marketing firm. ESG specializes in creating and delivering effective client solutions through sports sponsorship and bespoke sporting activities. In addition, ESG provides sports federations and rights owners strategies to help them realize the commercial potential of their rights. Its key services include sponsorship representation, sponsorship consultancy & activation, and event management.
+
+**[Fairmont and Swissotel](https://careers.accor.com/global/en/swissotel-jobs)**  
+
+Strategically located in the heart of Singapore’s shopping, dining and entertainment districts and with the City Hall Mass Rapid Transit (MRT) train station and other major transportation nodes at its doorstep, Fairmont Singapore and Swissôtel The Stamford are the gateway to explore Singapore’s landscapes at your convenience. With a total of 2,028 well-appointed guestrooms, both hotels offer a distinct collection of 15 lifestyle and dining choices, cutting-edge meeting space at Raffles City Convention Centre and one of Asia’s largest spas, Willow Stream Spa. Whether you’re launching your career or seeking meaningful employment, we invite you to visit our websites to learn more about Fairmont Hotels & Resorts and Swissôtel Hotels & Resorts and the extraordinary opportunities that exist.
+
+[Fairmont Careers](http://www.fairmontcareers.com/)  
+[Swissotel Careers](https://careers.accor.com/global/en/swissotel-jobs?otConsentId=37497e77-d495-4f19-9254-c81418a49bf9&otConsentString=,C0001,&partner_id=swissotel)
+
+**[Fonterra](http://www.fonterra.com/)**
+
+Fonterra is a co-operative owned by 10,500 New Zealand farmers. It is a market leader in dairy nutrition, providing dairy ingredients and consumer branded products to one billion people in over 100 markets. The co-operative is the largest exporter of milk in the world and is one of the world’s largest investors in dairy research and innovation.
+
+**[F&N Foods Pte Ltd](http://www.fnnfoods.com/career/)**
+
+Established in 1883, Fraser and Neave, Limited (F&N) has been quenching the thirst of generations of consumers and is today a leading player in the food and beverage arena in Singapore and Malaysia. Committed to meeting the health and wellness needs of consumers in the region and across the world, F&N is driven by its overarching philosophy of Pure Enjoyment, Pure Goodness. F&N has built a wide and exciting portfolio of beverage and food products with a strong emphasis on healthy enjoyment.
+
+**[Foo Kon Tan LLP](http://www.fookontan.com/careers)**
+
+Foo Kon Tan LLP is one of Singapore’s most established and respected accountancy practices. Established in 1968, the firm has transformed into a holistic one-stop business and advisory solutions to discerning clients. Today, ‘Foo Kon Tan’ (FKT) is the brand name under which Foo Kon Tan LLP, Chartered Accountants of Singapore and its associated companies provide a full range of assurance, tax and advisory services to help clients navigate the ever changing dynamics of the business and regulatory environments in the domestic as well as global markets.
+
+**[Formwerkz](http://formwerkz.com/)**
+
+Formwerkz is an architectural practice that is passionate about seeking solutions that improves our physical world, making it a better place for everyone. Our design approach is centred in human experiences and prioritizes projects that effect the most positive impact. In recent years, we see the urgency for change. In order to meet the increasingly complex and multi-faceted challenges of the future, we gather talents beyond the architectural fraternity, in the field of Branding and Marketing, Hospitality and Retail Experience, Organizational Planning, Business Innovation, Digital Fabrication, Food Innovation, Sociology, Data Analytics, Software Development and Information Science. This New Diversity of expertise and passions will be our new foundation, underpinning our design approach and sensibility.  
+  
+**Interior Design (iF)**  
+Founded in 2015, Studio iF pushes the boundaries of interior design. Its projects span across all genres, giving rise to a team of driven professionals with comprehensive design experience. The studio strives to write a new story for every project, always hungry for new creative solutions.  
+  
+**Bravo**  
+Bravo is a branding and marketing agency that specialises in identity and brand creation, and social media and marketing strategy.  
+  
+**Afternaut**  
+Propelled by the desire to develop in-house research capabilities and assess to knowledge domains outside the field of architecture, Afternaut was established in 2017. It seeks to make sense of current technological advancements and its application to the business environment and the relevance to the human experience.
+
+**[Fullerton Health](http://www.fullertonhealth.com/)**                
+As the leading provider of corporate healthcare solutions across Asia, Fullerton Health has more than 200 self-owned medical facilities, 350 doctors and over 8,000 panel providers in Singapore, Indonesia, Malaysia, Hong Kong, China and Australia. Our facilities offer extensive healthcare services covering primary, secondary and tertiary care, medical diagnostic imaging services, chronic disease management, medical assistance and evacuation services and pharmaceutical services. This integrated healthcare model promotes the provision of healthcare that is both affordable and accessible.
+
+**[Fujifilm Business Innovation Singapore](http://www-fbsg.fujifilm.com/en/Company/Career-with-Us)**  
+
+Fujifilm Business Innovation, previously known as Fuji Xerox, is the world's leading provider of document services, printing technologies and transformational solutions that drive business innovation to advance organisations for the digital future. Having pioneered numerous technologies and accumulated expertise, since it's establishment as Fuji Xerox Singapore in 1965, Fujifilm Business Innovation Singapore provides products and services that support new work styles and optimise business processes through digital transformation. Today, it has more than 600 staff, including an unrivalled team of industry leading professionals who support it's portfolio of document technologies, services, software, supplies and document processing and outsourcing.
+
+**[FutureReady Asia](http://www.futuready.asia/)**
+
+FutureReady Asia (formely Agape Group Holdings founded in 2005) with the mission as a Centre of Excellence for organisation excellence, innovation and leadership-based best practices which focus on improving organisation’s effectiveness and strengthening their competitive edge in (1) Provide training products, tools and services that will enable companies to excel in their respective specialised fields and their individual staff to reach their fullest potential at a market-competitive cost and (2) Equip the next generation of leaders or members of the society with the necessary tools, skills or techniques, as well as to motivate them to achieve greater results for themselves as well as for the society.
+
+**[Grab](https://grab.careers/)**
+
+Grab is more than just the leading ride-hailing and payments app in Southeast Asia. We use data and technology to improve everything from transportation to payments and logistics across Southeast Asia.
+
+Working with governments, drivers, passengers and charities, we aim to unlock the true potential of the region by solving the problems that hinder progress. If you share our vision of Driving Southeast Asia Forward, apply to join our team today.
+
+**[HP Inc.](https://jobs.hp.com/)**
+
+HP Inc. is an American technology company, created on November 1, 2015 as the successor of Hewlett-Packard, along with Hewlett Packard Enterprise. It develops and provides hardware, such as personal computers and printers.
+
+**[SPORTFIVE](http://www.sportfive.com/)**  
+SPORTFIVE utilises the unique emotional power of sports to create and enable pioneering partnerships in sports. By delivering responsible commercialisation, full-service-solutions and long-term value for all stakeholders in sports, SPORTFIVE strategically and creatively connects brands, rightsholders, media platforms and fans by leveraging a global network paired with decades of experience and an innovative spirit. As a market leader and with customer centricity and vast data intelligence at its core, SPORTFIVE often leads the sports business into the future through its innovative digital solutions and thereby always aims to be the most progressive and respected partner in sports. SPORTFIVE operates as an international sports business agency with a global mindset and a network of over 1,200 local experts based in 15 countries around the world, active in Football, Golf, Esports, Motorsport, Handball, Tennis, American Football, Basketball, Ice Hockey, Multi Sport Events and many more. For more information, please [visit our website](https://sportfive.com/) or follow our [LinkedIn channel.](http://www.linkedin.com/company/53444986)
+
+**[Sealed](https://sealed.network/)**
+
+As the only Southeast Asia focused expert network, Sealed connects the region's top minds with organisations across the globe. Our clients include strategy consulting firms, private equity & venture capital funds, sovereign wealth funds, family offices, investment firms, asset managers and large corporations. With our tech-enabled platform, we help our clients access specialised knowledge by connecting them to top level experts (Knowledge Partners), including C-level executives, professionals, academics, public-sector leaders and domain experts. Sealed also runs Sealed for Success, an impact initiative that aims to equip youths with industry knowledge and skills through mentorship, expert coaching and micro-learning.
+
+**[HYDRAGUN](https://hydragun.com/careers)**
+
+HYDRAGUN is a direct-to-consumer performance tech brand. Founded in Singapore, the brand is now available on three continents and expanding fast. Its ultra-quiet premium massage guns are used and loved by Olympians, world champions, and other peak performers worldwide.
