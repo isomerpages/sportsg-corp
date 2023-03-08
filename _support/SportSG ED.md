@@ -19,9 +19,6 @@ description: ""
 | ![](/images/Support/Sport%20Ed/img7.png)     |**Learning Communities –** More than 4000 sports professionals are members of SportSG-ED. Join them to contribute in the communities of practice and knowledge forum.| 
 
 
-
-
-
 * **Future Ready Learning** – SportSG-ED allows users to select from a developing range of learning content that is pertinent and meets the prevailing learning needs of sports professionals. The digital learning environment prepares sports professionals for all possible modes of learning.
 
 * **Accessibility** – Content can be learnt either through a blended or e-learning method. Users can access e-learning content anytime, anywhere, at their convenience across multiple platforms and devices, including computers, tablets or mobile phones.
