@@ -74,367 +74,135 @@ NTUC FairPrice cares about our customers and the community. It is committed to d
 | 07 | | Ranjitha Raja  | 1,000m (W) |
 |08 || Liang Wei<br>梁微 | 100m (W) |
 | 09 |Badminton | Huang Chao<br>黄超 | Singles (M) |
-| 10
-Basketball
-Ng Hannah Jia Hui<br>黄嘉慧
-Team (W)
-11
-Tok Huimin<br>卓慧敏
-12
-Eng Zoe<br>翁如仪
-13
-Lim Rui Jia Alanna<br>林芮嘉
-14
-Su Mingrong Jabez<br>苏铭荣
-Team (M)
-15
-Low Wenqiang Russell<br>刘文强
-16
-Tan Jun Wei<br>陈俊伟
-17
-Liew Larry Hua Sen<br>刘华森
-18
-Boxing
-Mohd Hanurdeen Hamid
-N.A.
-Lt Fly Wt 48 kg (M)
-19
-Canoeing
-Brandon Ooi Wei Cheng<br>黄伟成
-K1 (M)
-20
-Wang Nan Feng<br>袁南凤
-K1 (W)
-21
-Cycling
-Alvin Poon<br>潘 辉 智
-Mass start, Race (M)
-22
-Koh Jun Jie Daniel
-Mass start, X-country (M)
-23
-Travis Woodford
-N.A.
-Mass start, Time Trial (M)
-24
-Nur Nasthasia Nadiah
-N.A.
-Road, MB, BMX (W)
-25
-Diving
-Timothy Lee<br>李含光
-Ind. (M)
-26
-Chloe Chan<br>陈淑琳
-Ind. (W)
-27
-Myra Lee<br>李佳纹
-Ind. (W)
-28
-Equestrian
-Caroline Chew<br>朱佩嘉
-FEI Challenge (W)
-29
-Fencing
-Rania Herlina Rahardja<br>陈玥桦
-Epee Ind. (W)
-30
-Liane Wong Ye Ying<br>王业盈
-Foil Ind. (W)
-31
-Justin Ong Xian Shi<br>王贤士
-Foil Ind. (M)
-32
-Lim Wei Hao<br>林伟豪
-Epee Ind. (M)
-33
-Football
-Amirul Iskandar K Anuar
-N.A.
-Team (M)
-34
-Syazwan Radhi Kasim
-N.A.
-35
-Hazim Faiz Hassan
-N.A.
-36
-Hamzah Fazil
-N.A.
-37
-Muhaimin Suhaimi
-N.A.
-38
-Dhukhilan Jeevamani
-N.A.
-39
-Bryan Neubronner
-N.A.
-40
-Lee Si Qin Illyas<br>李思勤
-41
-Sunny Ng Qiu Yang<br>黄秋阳
-42
-Tan Zen Yang Jonathan<br>陈俊荣
-43
-Muhd Syazwan Muhd Zin
-N.A.
-44
-Hanafi Mohd Akbar
-N.A.
-45
-Brandon Koh Kim Leng<br>
-许金良
-46
-Ammirul Emmran
-N.A.
-47
-Jeffrey Adam Lightfoot
-N.A.
-48
-Firdaus Mohd Sham
-N.A.
-49
-Fashah Iskandar
-N.A.
-50
-Irfan Asyraf Mohd Aziz
-N.A.
-51
-Gymnastics
-Miki Erica Nomura<br>野村 美喜
-Rhythmic Team (W)
-52
-Phaan Yi Lin<br>潘毓苓
-53
-Chia Shing Eng Cecilia<br>谢欣恩
-54
-Sim Kwee Peng Ann<br>沈桂萍
-55
-Vivien Ho<br>何炜燕
-56
-Timothy Tay Kai Cheng<br>郑凯骋 / 鄭凱騁
-Artistic Ind. (M)
-57
-Rachel Giam Pei Shi<br>严佩诗
-Artistic Ind. (W)
-58
-Handball
-Izzat Hashim
-N.A.
-Team (M)
-59
-Clement Choong<br>钟镇安
-60
-Oscar Ooi<br>黄军豪
-61
-Pritpal Singh
-N.A.
-62
-Ryan Goh<br>许竖贤
-63
-Jason Tan<br>陈俊杰
-64
-Wilmer Tay<br>郑泽峻
-65
-Tow Wen Wei<br>苏文伟
-66
-Vinoth Pillay
-N.A.
-67
-Ervin Seth<br>施迪文
-68
-Eugene Foo<br>胡职骏
-69
-Muhd Zahin Mazali
-N.A.
-70
-Koh Jing Li<br>许敬立
-71
-Alvin Low<br>刘俊霆
-72
-Hockey
-Ong Pang Chian Samudra<br>王邦权
-Team (M)
-73
-Ng Rui Ming Kevin<br>黄睿明
-74
-Abdul Rahim A Rashid
-N.A.
-75
-Haseef Salim
-N.A.
-76
-Fadzly Adam
-N.A.
-77
-Shahid Manap
-N.A.
-78
-Amirul Asyraf
-N.A.
-79
-Zulfadhli Jasni Ismail
-N.A.
-80
-Al‛fien Mohd Amir
-N.A.
-81
-Nur Ashriq Ferdaus Zulkepi
-N.A.
-82
-Muhd Hidayat Mat Rahim
-N.A.
-83
-Muhd Fadhil Muhd Rizaini
-N.A.
-84
-Karleef Sasi Abdullah
-N.A.
-85
-Silas A Razak
-N.A.
-86
-Rahmat A Jalil
-N.A.
-87
-Shafiq A Rashid
-N.A.
-88
-Judo
-Lim Chin Jie<br>林俊杰
-52-63 kg (M)
-89
-Tang Jing Fang<br>邓静芳
-66-81 kg (W)
-90
-Modern Pentathlon
-Valerie Lim<br>林芷嫣
-91
-Rowing
-Joanna Chan Lai Cheng<br>陈丽晶
-JW1X (W)
-92
-Nadzrie Hyckell Hamzah
-JM1X (M)
-93
-Sailing
-Darren Choy Wong Leong<br>蔡旺龙
-1 person Dinghy (M)
-94
-Natasha Yokoyama
-N.A.
-1 person Dinghy (W)
-95
-Audrey Yong<br>杨培琳
-Windsurfing (W)
-96
-Shooting
-Wu Wenyi<br>吴文义
-10m Air Pistol (M)
-97
-Lee Shang Hui Carol<br>李赏慧
-10m Air Rifle (W)
-98
-Swimming
-Adeline Winata
-N.A.
-99
-Lim Xiang Qi<br>林香杞
-100
-Chriselle Koh<br>许楹佳
-101
-Cheryl Lim<br>林欣静
-102
-Clement Lim Yong‛en<br>林雍恩 
-103
-Arren Quek Xin Hui<br>郭信辉
-104
-Rainer Ng<br>黄凯伟
-105
-Pang Sheng Jun<br>冯盛均
-106
-Table Tennis
-Isabelle Li<br>李思韵
-Singles (W)
-107
-Clarence Chew<br>周哲宇
-Singles (M)
-108
-Taekwondo
-Daryl Tan Jia Jun<br>陈佳俊
-Under 55 kg (M)
-109
-Lee Jia Zhe Christopher<br>李佳哲
-Under 73 kg (M)
-110
-Nurul Shafinas Rahman
-N.A.
-Under 55 kg (W)
-111
-Nur Zakirah Zakaria
-N.A.
-Under 49 kg (W)
-112
-Tennis
-Stefanie Tan<br>陈丽云
-Singles (W)
-113
-Triathlon
-Scott Ang<br>洪毅强
-Ind. (M)
-114
-Clara Wong<br>黄琬琪
-Ind. (W)
-115
-Volleyball
-Peng Yet Ting Dorita<br>彭业婷
-Team (W)
-116
-Chiang Ying Chen Jacqueline<br>蒋縕蓁
-117
-Lim Shu Yu Joelle<br>林姝余
-118
-Chia Kah An Michelle<br>谢佳恩
-119
-Ang Qi Hui<br>洪琪惠
-120
-Seah Siew Hoon<br>谢秀云
-121
-Ng Wei Ting Stephanie<br>黄炜婷
-122
-Tay Hwee Min Cassandra<br>郑惠敏
-123
-Yeo Qian Lin Marylyn<br>杨笺霖
-124
-Cheryl Chan Cai Ting
-陈彩婷
-125
-Tan Yi Ting<br>陈纡婷
-126
-Loh Ling Ying<br>卢玲颍
-127
-Weightlifting
-Law Wei Joel<br>刘伟
-62 kg (M)
-128
-Jamie Emma Wee<br>黄嘉敏
-58 kg (W)
-129
-Wrestling
-Kester Leung<br>梁俊裕
-Freestyle 54 kg (M)
-130
-Puteri Natasha
-N.A.
-Freestyle 60 kg (W)
+| 10 | Basketball | Ng Hannah Jia Hui<br>黄嘉慧 | Team (W)
+| 11  || Tok Huimin<br>卓慧敏
+| 12 || Eng Zoe<br>翁如仪
+| 13 || Lim Rui Jia Alanna<br>林芮嘉
+| 14 || Su Mingrong Jabez<br>苏铭荣 | Team (M)
+| 15 || Low Wenqiang Russell<br>刘文强
+| 16 || Tan Jun Wei<br>陈俊伟
+| 17 || Liew Larry Hua Sen<br>刘华森
+| 18 | Boxing | Mohd Hanurdeen Hamid | Lt Fly Wt 48 kg (M)
+| 19 | Canoeing | Brandon Ooi Wei Cheng<br>黄伟成 | K1 (M)
+| 20 || Wang Nan Feng<br>袁南凤 | K1 (W)
+| 21 | Cycling | Alvin Poon<br>潘 辉 智 | Mass start, Race (M)
+| 22 || Koh Jun Jie Daniel | Mass start, X-country (M)
+|23 || Travis Woodford | Mass start, Time Trial (M)
+| 24|| Nur Nasthasia Nadiah |Road, MB, BMX (W)
+| 25| Diving | Timothy Lee<br>李含光 | Ind. (M)
+26 || Chloe Chan<br>陈淑琳 | Ind. (W)
+27 || Myra Lee<br>李佳纹 | Ind. (W)
+28 | Equestrian | Caroline Chew<br>朱佩嘉 | FEI Challenge (W)
+29 | Fencing | Rania Herlina Rahardja<br>陈玥桦 | Epee Ind. (W)
+30 || Liane Wong Ye Ying<br>王业盈 | Foil Ind. (W)
+31 || Justin Ong Xian Shi<br>王贤士 | Foil Ind. (M)
+32 || Lim Wei Hao<br>林伟豪 | Epee Ind. (M)
+33 | Football | Amirul Iskandar K Anuar | Team (M)
+34 || Syazwan Radhi Kasim
+35 || Hazim Faiz Hassan
+36 || Hamzah Fazil
+37 || Muhaimin Suhaimi
+38 || Dhukhilan Jeevamani
+39 || Bryan Neubronner
+40 || Lee Si Qin Illyas<br>李思勤
+41 || Sunny Ng Qiu Yang<br>黄秋阳
+42 || Tan Zen Yang Jonathan<br>陈俊荣
+43 || Muhd Syazwan Muhd Zin
+44 || Hanafi Mohd Akbar
+45 || Brandon Koh Kim Leng<br>许金良
+46 || Ammirul Emmran
+47 || Jeffrey Adam Lightfoot
+48 || Firdaus Mohd Sham
+49 || Fashah Iskandar
+50 || Irfan Asyraf Mohd Aziz
+51 |Gymnastics | Miki Erica Nomura<br>野村 美喜 | Rhythmic Team (W)
+52 || Phaan Yi Lin<br>潘毓苓
+53 || Chia Shing Eng Cecilia<br>谢欣恩
+54 || Sim Kwee Peng Ann<br>沈桂萍
+55 || Vivien Ho<br>何炜燕
+56 || Timothy Tay Kai Cheng<br>郑凯骋 / 鄭凱騁 | Artistic Ind. (M)
+57 || Rachel Giam Pei Shi<br>严佩诗 | Artistic Ind. (W)
+58 | Handball | Izzat Hashim | Team (M)
+59 || Clement Choong<br>钟镇安
+60 || Oscar Ooi<br>黄军豪
+61 || Pritpal Singh
+62 || Ryan Goh<br>许竖贤
+63 || Jason Tan<br>陈俊杰
+64 || Wilmer Tay<br>郑泽峻
+65 || Tow Wen Wei<br>苏文伟
+66 ||  Vinoth Pillay
+67 || Ervin Seth<br>施迪文
+68 || Eugene Foo<br>胡职骏
+69 || Muhd Zahin Mazali
+70 || Koh Jing Li<br>许敬立
+71 || Alvin Low<br>刘俊霆
+72 | Hockey | Ong Pang Chian Samudra<br>王邦权 | Team (M)
+73 || Ng Rui Ming Kevin<br>黄睿明
+74 || Abdul Rahim A Rashid
+75 || Haseef Salim
+76 || Fadzly Adam
+77 || Shahid Manap
+78 || Amirul Asyraf
+79 || Zulfadhli Jasni Ismail
+80 || Al‛fien Mohd Amir
+81 || Nur Ashriq Ferdaus Zulkepi
+82 || Muhd Hidayat Mat Rahim
+83 || Muhd Fadhil Muhd Rizaini
+84 || Karleef Sasi Abdullah
+85 || Silas A Razak
+86 || Rahmat A Jalil 
+87 ||  Shafiq A Rashid
+88 | Judo | Lim Chin Jie<br>林俊杰 | 52-63 kg (M)
+89 || Tang Jing Fang<br>邓静芳 | 66-81 kg (W)
+90 | Modern Pentathlon | Valerie Lim<br>林芷嫣
+91 | Rowing | Joanna Chan Lai Cheng<br>陈丽晶 | JW1X (W)
+92 || Nadzrie Hyckell Hamzah | JM1X (M)
+93 | Sailing | Darren Choy Wong Leong<br>蔡旺龙 | 1 person Dinghy (M)
+94 || Natasha Yokoyama | 1 person Dinghy (W)
+95 || Audrey Yong<br>杨培琳 | Windsurfing (W)
+96 | Shooting | Wu Wenyi<br>吴文义 | 10m Air Pistol (M)
+97 || Lee Shang Hui Carol<br>李赏慧 | 10m Air Rifle (W)
+98 | Swimming | Adeline Winata
+99 || Lim Xiang Qi<br>林香杞
+100 || Chriselle Koh<br>许楹佳
+101 || Cheryl Lim<br>林欣静
+102 || Clement Lim Yong‛en<br>林雍恩 
+103 || Arren Quek Xin Hui<br>郭信辉
+104 || Rainer Ng<br>黄凯伟
+105 || Pang Sheng Jun<br>冯盛均
+106 | Table Tennis | Isabelle Li<br>李思韵 | Singles (W)
+107 || Clarence Chew<br>周哲宇 | Singles (M)
+108 | Taekwondo | Daryl Tan Jia Jun<br>陈佳俊 | Under 55 kg (M)
+109 || Lee Jia Zhe Christopher<br>李佳哲 | Under 73 kg (M)
+110 || Nurul Shafinas Rahman | Under 55 kg (W)
+111 || Nur Zakirah Zakaria | Under 49 kg (W)
+112 | Tennis | Stefanie Tan<br>陈丽云 | Singles (W)
+113 |Triathlon | Scott Ang<br>洪毅强 | Ind. (M)
+114 || Clara Wong<br>黄琬琪 | Ind. (W)
+115 | Volleyball | Peng Yet Ting Dorita<br>彭业婷 |Team (W)
+116 || Chiang Ying Chen Jacqueline<br>蒋縕蓁
+117 || Lim Shu Yu Joelle<br>林姝余
+118 || Chia Kah An Michelle<br>谢佳恩
+119 || Ang Qi Hui<br>洪琪惠
+120 || Seah Siew Hoon<br>谢秀云
+121 || Ng Wei Ting Stephanie<br>黄炜婷
+122 || Tay Hwee Min Cassandra<br>郑惠敏
+123 || Yeo Qian Lin Marylyn<br>杨笺霖
+124 || Cheryl Chan Cai Ting<br>陈彩婷
+125 || Tan Yi Ting<br>陈纡婷
+| 126 | | Loh Ling Ying<br>卢玲颍
+| 127 | | Weightlifting | Law Wei Joel<br>刘伟 | 62 kg (M)
+| 128 | | Jamie Emma Wee<br>黄嘉敏 | 58 kg (W)
+| 129 | Wrestling | Kester Leung<br>梁俊裕 | Freestyle 54 kg (M)
+| 130 | |Puteri Natasha | Freestyle 60 kg (W) |
 
 
 
 Annex B - Profile Of Chef De Mission
 
-James Wong
-Chef de Mission, Singapore
+**James Wong
+<br>
+Chef de Mission, Singapore**
 
 James Wong is one of Team Singapore's most prolific athletes in our nation's short sporting history. Having won nine Gold Medals in total at the SEA Games, the discus thrower also holds the national record for discus throwing.
 
@@ -444,23 +212,37 @@ James is a great source of inspiration and motivation to the young Team Singapor
 
 Hailed as one of the top 50 athletes in Singapore, James is glad that our young Team Singapore athletes get to compete against the best of youth as it will strengthen their belief that Singapore can compete at an international level. He also has faith that our athletes can put on an impressive display of excellence, friendship and respect, making our national a household name in the sports world.
 
-For media enquiries on Team Singapore, please contact:
+**For media enquiries on Team Singapore, please contact:**
+<br>
 Lin Kuek
+<br>
 Caelan & Sage Pte Ltd
+<br>
 Office: 6297 0636
-Email: lin@caelansage.com
+<br>
+Email: [lin@caelansage.com](mailto:lin@caelansage.com)
 
 Tanty Nazlianah Rosli
+<br>
 Manager
+<br>
 Public & Media Relations
+<br>
 Singapore Sports Council
+<br>
 Office: 6500 5241
-Email:tanty_nazlianah@ssc.gov.sg
+<br>
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
-For media queries on NTUC FairPrice Foundation Sports Scholarship, please contact:
+For media queries on NTUC FairPrice Foundation Sports <br>
+Scholarship, please contact:
+<br>
 Winston Ng
+<br>
 Corporate Communications
+<br>
 NTUC FairPrice
+<br>
 DID: 6424 7895
-Email: Winston.ng@fairprice.com.sg
- 
+<br>
+Email: [Winston.ng@fairprice.com.sg](mailto:Winston.ng@fairprice.com.sg)
