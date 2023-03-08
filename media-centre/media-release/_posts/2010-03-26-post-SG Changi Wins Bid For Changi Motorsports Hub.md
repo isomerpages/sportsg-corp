@@ -24,34 +24,23 @@ image: ""
 
 8. SG Changi is expected to release more details and the construction timeline at a later date.
 
-**Changi Motorsports Hub Project Milestones**
+###### Changi Motorsports Hub Project Milestones
 
 | 30 March 2009 | Opened Request for Proposal (RFP) |
-|--|--|
+|---|---|
 | 27 August 2009 | Closed Request for Proposal (RFP) |
 | 07 September 2009 | Three bidders shared their proposal with media |
 | 26 March 2010 | Announced winning bid |
 | End of 2011 | Changi Motorsports Hub to be operationally ready |
-<br>
+
+---
 
 [Annex A: Changi Motorsports Hub Factsheet](/files/Media%20Centre/Media%20Release/2010/March/Changi20Motorsports20Hub20Factsheet202620March2010pdf.pdf)
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+###### For media enquiries, please contact:
 
-To find out more, visit our websites www.sportsingapore.gov.sg
-<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-<br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
-
-**For media enquiries, please contact:**
-<br>
 S. Parameswaran (Parames)
 <br>
 Senior Manager
@@ -75,3 +64,16 @@ Singapore Sports Council
 Office: 6500 5164
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites www.sportsingapore.gov.sg
+<br>
+Join SSC on Twitter at: www.twitter.com/singaporesports
+<br>
+Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+<br>
+For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
