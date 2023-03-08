@@ -39,9 +39,9 @@ This latest initiative has also gotten the local basketball community in Singapo
 
 Added Koh Meng Koon, a Singapore National Men Team Player, "This is certainly a good development which will allow our players to gain a exposure to higher level basketball games. If an NBL team takes in one or two players from our National Team, it will definitely encourage more youngsters to fight for a place in the National Team to get that chance to play professionally. This way, the standard of our National Team will definitely improve."
 
----
+<hr>
 
-###### For media enquiries, please contact:
+##### **For media enquiries, please contact:**
 Alvin Hang
 <br>
 Assistant Director
@@ -56,7 +56,7 @@ Mobile: 9222-1010
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
----
+<hr>
 
-###### About SSC
+##### **About SSC**
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the worldwide web: [www.ssc.gov.sg](http://www.ssc.gov.sg/)
