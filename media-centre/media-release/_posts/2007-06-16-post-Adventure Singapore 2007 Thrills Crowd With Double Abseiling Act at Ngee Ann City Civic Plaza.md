@@ -109,8 +109,8 @@ DJ Ritz
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Jenny Kwok
 <br>
 Senior Executive (Group Communications)
