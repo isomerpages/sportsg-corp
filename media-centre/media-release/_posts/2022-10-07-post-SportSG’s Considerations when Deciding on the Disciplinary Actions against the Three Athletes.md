@@ -17,7 +17,7 @@ SportSG took into account the benchmarks of international bodies, such as the Wo
 
 SportSG’s decision considered that the athletes’ urine tests returned negative, and the athletes had on their own admitted to consuming cannabis outside of competition in the past.
 
-##### **Singapore’s approach to rehabilitate drug abusers**
+**Singapore’s approach to rehabilitate drug abusers**
 
 Singapore adopts a zero-tolerance stance towards drugs and takes a tough stand against drug trafficking and those involved in the drug trade. For drug abusers, the focus is on helping them rehabilitate and reintegrate into society.
 
