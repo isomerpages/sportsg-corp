@@ -25,7 +25,7 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2018/May/DecathlonSingaporeLab2_web.jpeg)
 
-##### **SportSG-Decathlon MOU**
+**SportSG-Decathlon MOU**
 
 5. The partnership between SportSG and Decathlon goes beyond the lab. SportSG will also work with Decathlon to help further promote sport, health and wellness to Singaporeans. Mr Lim and Mr Claude signed a Memorandum of Understanding (MOU) today that will cover multiple areas including Active Health, ActiveSG Academies and Clubs, and the ActiveSG Sport Centres.
 
