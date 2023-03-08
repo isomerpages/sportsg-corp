@@ -186,24 +186,25 @@ HP: +65 9736-6639<br>
 Email:[lynette\_lim@sport.gov.sg](http:)
 
 
-**About Team Singapore**
+##### **About Team Singapore**
 <br>
 Team Singapore is a shared identity for all Singaporeans, where sport is the national language. It represents the unique connection between our athletes and every other Singaporean – young or old, as they embark on a sporting journey as one. Team Singapore is one big family inspiring one another through sport. It is a relationship that extends beyond the sporting fraternity, and beyond the major Games. Team Singapore is about living better lives as we embody values inherent in sport: a winning spirit, an appreciation for teamwork, a commitment to purpose, the importance of ethical behaviour and a love for our country.
 
-For further information on Team Singapore, please visit[www.teamsingapore.com.sg](http:)
-
-Follow Team Singapore's action on Facebook at[www.facebook.com/TeamSG](http:)and #ourteamsg on Instagram
-
-**About Singapore National Olympic Council**
+For further information on Team Singapore, please visit [www.teamsingapore.sg/home](https://www.teamsingapore.sg/home)
 <br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympic Games, the Youth Olympic Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894.
+Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG](www.facebook.com/TeamSG) and #ourteamsg on Instagram
 
-For more information, please visit[www.snoc.org.sg](http:)
-
-**About Sport Singapore**
+##### **About Singapore National Olympic Council**
 <br>
-As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport.
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympic Games, the Youth Olympic Games, the Asian Games, the Asian Youth Games, the Commonwealth Games and the Southeast Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894.
 
-To find out more, visit our websites[www.sportsingapore.gov.sg](http:)and[www.myactivesg.com](http:).<br>
-Follow us at[www.facebook.com/myActiveSG](http:)and[www.youtube.com/SingaporeSports](http:).<br>
-For photographs, go to[www.flickr.com/ssc-sportsphotography](http:).
+For more information, please visit [www.singaporeolympics.com](https://www.singaporeolympics.com/)
+
+##### **About Sport Singapore**
+<br>
+As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport. 
+
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [www.myactivesg.com](www.myactivesg.com).
+<br>
+Follow us at [www.facebook.com/activesgcircle](https://www.facebook.com/activesgcircle) and [www.youtube.com/SingaporeSports](www.youtube.com/SingaporeSports).<br>
+For photographs, go to [www.flickr.com/ssc-sportsphotography](www.flickr.com/ssc-sportsphotography).
