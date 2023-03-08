@@ -26,10 +26,14 @@ Mr Oon Jin Teik, CEO, Singapore Sports Council said, "SSC is fully committed to 
 
 SSC will be launching a month-long online public consultation on 26 September 2007 to seek additional inputs and ideas from the wider sports community and members of the public on the Committee's findings and recommendations. The public can give their views by accessing SSC's corporate website www.ssc.gov.sg. Thereafter, SSC will review the comments received and assess the feasibility of the Committee's recommendations before developing an implementation plan by the end of the year.
 
-**Related Links and Downloads**<br>
+---
+
+###### Related Links and Downloads
 [Download Sports Safety Committee Report](/files/Media%20Centre/Media%20Release/2007/September/SportsSafetyCommittee26SEPO7.pdf)
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Mr Quah Soon Aun
 <br>
@@ -53,13 +57,12 @@ HP: 9753 3273
 <br>
 E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
 
+---
 
-**Sports Safety Committee**
-<br>
+###### Sports Safety Committee
 Formed in July 2007, the sports safety committee was appointed by MCYS and SSC to review sports safety practices in Singapore and make recommendations to minimise the incidence and consequences of catastrophic injuries, and sudden unexpected death during sports participation, be it during training or competition.
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
 
 Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
