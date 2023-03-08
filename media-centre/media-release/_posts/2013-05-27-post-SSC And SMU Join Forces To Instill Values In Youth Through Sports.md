@@ -77,19 +77,17 @@ Created by the Singapore Sports Council, the 'Game For Life' Toolkit comprises t
 
 The Toolkit is an extension of Vision 2030, to discover how sport could best serve the nation in the coming decades and to inspire Singaporeans to live better through sport.
 
-'Character and leadership through sport' Framework:
-
+**'Character and leadership through sport' Framework:**
+<br>
 Given the need to be intentional and purposeful in inculcating character values and attributes, the Framework provides a blueprint for developing character in sporting environments. It is a rubric that contains a practical approach to enhancing character development efforts.
 
 The Framework has broadly-designed lesson plans for coaches and sport instructors to customise and devise an approach to performance and character development.
 
 It constitutes three elements that have to be integrated and implemented for effectiveness:
 
-1\. identifying the values and attributes of good character
-
-2\. establishing the platforms (Game and Sport Activities, and/or Role Learning) through which desirable values can be inculcated and developed; and
-
-3\. executing a purposeful Check-Act-Reinforce With action plan to yield "teachable moments" for intentional teaching and effective values development.
+1\. Identifying the values and attributes of good character
+<br>2\. Establishing the platforms (Game and Sport Activities, and/or Role Learning) through which desirable values can be inculcated and developed; and
+<br>3\. Executing a purposeful Check-Act-Reinforce With action plan to yield "teachable moments" for intentional teaching and effective values development.
 
 **'Game For Life: 25 Journeys':**
 <br>
