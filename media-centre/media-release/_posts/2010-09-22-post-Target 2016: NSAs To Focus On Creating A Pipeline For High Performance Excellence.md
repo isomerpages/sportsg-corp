@@ -26,18 +26,18 @@ Developing a High Performance Pipeline
 
 Moving Forward with ANGE FY 2011
 
-6 NSAs were urged to up the ante in their overall performance and organisational excellence, as Singapore geared itself for the next lap, following the successful hosting of the Asian Youth Games in 2009 and the recently concluded Youth Olympic Games. NSAs will have to review and upgrade their existing plans, which were submitted for FY 2010.
+6. NSAs were urged to up the ante in their overall performance and organisational excellence, as Singapore geared itself for the next lap, following the successful hosting of the Asian Youth Games in 2009 and the recently concluded Youth Olympic Games. NSAs will have to review and upgrade their existing plans, which were submitted for FY 2010.
 
-7 The SSC, through its Sports Performance Managers, will be assisting NSAs which do not have multi-year sports plans to start developing multi-year plans for FY 2011. NSAs are to submit their multi-year plans to the SSC by 8 November 2010.
+7. The SSC, through its Sports Performance Managers, will be assisting NSAs which do not have multi-year sports plans to start developing multi-year plans for FY 2011. NSAs are to submit their multi-year plans to the SSC by 8 November 2010.
 
-8 In order to be eligible for ANGE funding from FY 2011 onwards, NSAs have to register for charity status by 31 December 2010. This requirement was announced by the SSC in October 2009 in a bid to elevate NSAs? standards of governance, which will bolster their fund-raising efforts and enhance public and corporate confidence in them. In addition, with charity status, the NSAs will enjoy automatic income and property tax exemptions for premises used exclusively for charitable purposes, as well as gain access to the VWOs-Charities Capability Fund (VCF), which is made available to all charities until 31 March 2012. About one-third of the NSAs are already in the final stage of Charity registration/obtained Charity status.
+8. In order to be eligible for ANGE funding from FY 2011 onwards, NSAs have to register for charity status by 31 December 2010. This requirement was announced by the SSC in October 2009 in a bid to elevate NSAs? standards of governance, which will bolster their fund-raising efforts and enhance public and corporate confidence in them. In addition, with charity status, the NSAs will enjoy automatic income and property tax exemptions for premises used exclusively for charitable purposes, as well as gain access to the VWOs-Charities Capability Fund (VCF), which is made available to all charities until 31 March 2012. About one-third of the NSAs are already in the final stage of Charity registration/obtained Charity status.
 
-9 Concluded Mr Oon, "With the investments by the Government put into the Youth Olympic Games (YOG), the Olympic Pathway Programme, the Singapore Sports School and the mainstream schools, we strongly advocate NSAs to work with the SSC and other sporting partners to come up with a comprehensive multi-year strategy in order to achieve a sustained podium success at Major Games and world championships."
-statics0
+9. Concluded Mr Oon, "With the investments by the Government put into the Youth Olympic Games (YOG), the Olympic Pathway Programme, the Singapore Sports School and the mainstream schools, we strongly advocate NSAs to work with the SSC and other sporting partners to come up with a comprehensive multi-year strategy in order to achieve a sustained podium success at Major Games and world championships."
+
 -End-
 
-About the Singapore Sports Council
-statics0
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and www.singaporesports.sg
