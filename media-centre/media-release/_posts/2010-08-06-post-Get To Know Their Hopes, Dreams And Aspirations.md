@@ -55,26 +55,9 @@ Inspiring Sporting Singapore Photography Exhibition Venues from 6 to 31 August 2
 
 | CDC DISTRICT | Public Libraries | SSC Locations |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| North West | Bukit Panjang Public Library | Sembawang Public Library <br>Yishun Public Library <br>Woodlands Swimming Complex
 
-
-CDC DISTRICT
-
-
-
-
-
-North West
-
-Bukit Panjang Public Library
-
-Sembawang Public Library
-
-Yishun Public Library
-
-Woodlands Swimming Complex
-
-Central Singapore
+| Central Singapore
 
 Central Public Library
 
