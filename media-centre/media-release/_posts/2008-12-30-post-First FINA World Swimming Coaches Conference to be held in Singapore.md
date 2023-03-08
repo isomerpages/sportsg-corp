@@ -8,7 +8,7 @@ image: ""
 ---
 ### **First FINA World Swimming Coaches Conference to be held in Singapore**
 
-Michael Bohl among the list of Beijing Gold Medal winning coaches at inaugural conference
+_Michael Bohl among the list of Beijing Gold Medal winning coaches at inaugural conference_
 
 Singapore will add another first to its list of sporting credentials by hosting the first ever FINA World Swimming Coaches Conference at the Marina Mandarin Hotel from 15 to 17 January next year. The confirmed list of coaches speaking at the conference include Michael Bohl (coach of Stephanie Rice), Rohan Taylor (coach of Leisel Jones), Mark Schubert (Head Coach of Team USA), Alan Thompson (Head Coach of Team Australia), Norimasa Hirai (Coach of Kosuke Kitajima) and other coaches of medal winning swimmers at the Beijing Olympics.
 
@@ -24,7 +24,9 @@ The securing of the rights to host the FINA World Swimming Coaches Conference is
 
 "This conference confirms Singapore's ability to create new sporting events that have great relevance for the international community," said Oon Jin Teik, Chief Executive Officer, Singapore Sports Council. "Not only have we established Singapore as an organised and efficient host city in the past few years, we have proven our capabilities in creating events that are first of a kind. We look forward to welcoming some of the best brains in the international swimming fraternity to Singapore to share their experiences and strategies in grooming medal-winning and record-smashing swimmers."
 
-**For more information, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Sheila Rasu
 <br>
@@ -42,13 +44,12 @@ Mobile: 9152 2842
 <br>
 Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
 
+---
 
-**About Singapore Swimming Association (SSA)**
-<br>
+###### About Singapore Swimming Association (SSA)
 Formed in 1939, the SSA is the national governing body for aquatics (Swimming, Diving, Water Polo, Synchronised Swimming and Open Water Swimming) in Singapore. It is affiliated with the Federation Internationale de Natation (FINA), the international governing body for aquatics.
 
 The SSA recognises the value of developing an international event calendar to allow Singapore's swimming community to experience performing in front of a home crowd, as well as to demonstrate Singapore?s ability to host world class events of the highest calibre. For more information about SSA, please visit www.swimming.org.sg
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
