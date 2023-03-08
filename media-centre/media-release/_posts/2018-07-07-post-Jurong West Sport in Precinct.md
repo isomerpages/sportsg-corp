@@ -24,7 +24,7 @@ _Team Nila volunteers demonstrating how to use the Kompan fitness station_
 
 We also hope that these amenities can foster better interaction among residents of different generations.
 
-The Neighbourhood Park will also be the very first Active Health@SIP1 in Singapore that is specially designed to provide an endearing and creative space for the community. Leveraging on sport and exercise science concepts, this new facility can enhance the effective of park users’ workouts and create a deeper awareness on how people can take ownership of their health through the management of their four domains of physical activity, nutrition, sleep and screen time.
+The Neighbourhood Park will also be the very first Active Health@SIP1 in Singapore that is specially designed to provide an endearing and creative space for the community. Leveraging on sport and exercise science concepts, this new facility can enhance the effectiveness of park users’ workouts and create a deeper awareness on how people can take ownership of their health through the management of their four domains of physical activity, nutrition, sleep and screen time.
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/OfficalLaunchofJurongWestSportinPrecinct7Jul2018PhotobyChin.jpeg)
 
