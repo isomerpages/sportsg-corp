@@ -8,9 +8,9 @@ image: ""
 ---
 ### **Team Singapore Driver Set To Make History At The World Touring Car Championship**
 
-Driver Melvin Choo Becomes The First Singaporean To Participate in WTCC
+_Driver Melvin Choo Becomes The First Singaporean To Participate in WTCC_
 
-Singapore (14 October 2008) - Team Singapore driver, Melvin Choo is ready to battle it out with some of the best touring car drivers at the upcoming World Touring Car Championship (WTCC) this October. He is the first Southeast Asian driver to compete in the annual Championship, organised by the Fédération Internationale de l'Automobile (FIA).
+**Singapore (14 October 2008)** - Team Singapore driver, Melvin Choo is ready to battle it out with some of the best touring car drivers at the upcoming World Touring Car Championship (WTCC) this October. He is the first Southeast Asian driver to compete in the annual Championship, organised by the Fédération Internationale de l'Automobile (FIA).
 
 Choo, who will be competing in the Thunder Asia BMW 320si, has signed up for two rounds of the Championship - the 3.7km Okayama International Circuit in Honshu, Japan on 24-26 October and the 6.12km Guia International Circuit in Macau on 14-16 November 2008. He will be up against the biggest names in tin-top racing including three-time WTCC champion, Andy Priaulx, current WTCC Championship leader Yvan Muller and other big names in the series such as Gabriele Tarquini, Augusto Farfus Jr, Alessandro Zanardi and Alain Menu.
 
@@ -24,9 +24,9 @@ This year has proven to be Choo's busiest and most successful year yet, competin
 
 David Sonenscher, CEO of Motorsport Asia Ltd, the organizer of the Asian Festival Of Speed, the Asian Touring Car Series and Porsche Carrera Cup Asia, commented on Choo's participation in the WTCC, saying, "Having Melvin compete in the World Touring Car Championship is a great indication of his talent and the level of racing in the Asian Touring Car Series. His participation will open up doors for more Asians to try their level best and to rise from the Asian level competition to the World stage. We wish the best for Melvin and will be cheering him on".
 
+---
 
-
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Winson Ow
 <br>
@@ -50,8 +50,7 @@ Mobile: 9272 0112
 <br>
 Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
+---
 
-
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
