@@ -143,4 +143,4 @@ Study pre-approval
 
 
 #### **Research Monitoring**
-The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf)
+The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf).
