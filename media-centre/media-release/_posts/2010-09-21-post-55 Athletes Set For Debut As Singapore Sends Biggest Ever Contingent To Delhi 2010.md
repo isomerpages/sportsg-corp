@@ -49,9 +49,9 @@ image: ""
 
 Annex A - Event Fact Sheet
 DATE:                                                              3-14 October 2010
-<br>
+
 VENUE:                                                            Delhi, India
-<br>
+
 WEBSITE:                                                      [ www.cwg2010delhi.org]( www.cwg2010delhi.org)
 
  
@@ -66,38 +66,14 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Aquatics - Swimming | 4-9 October 2010
 | Aquatics - Synchronised Swimming | 6-7 October 2010
 | Archery | 4-10 October 2010
-
-Athletics - Track & Field
-
-6-12 October 2010
-
-Athletics - Marathon
-
-14 October 2010
-
-Athletics - Walk
-
-9 October 2010
-
-Badminton
-
-4-14 October 2010
-
-Cycling - Track
-
-5-8 October 2010
-
-Cycling - Road Mass Start
-
-10 October 2010
-
-Cycling - Road Time Trials
-
-13 October 2010
-
-Gymnastics - Artistic
-
-4-8 October 2010
+| Athletics - Track & Field | 6-12 October 2010
+| Athletics - Marathon | 14 October 2010
+| Athletics - Walk | 9 October 2010
+| Badminton | 4-14 October 2010
+| Cycling - Track | 5-8 October 2010
+| Cycling - Road Mass Start | 10 October 2010
+| Cycling - Road Time Trials | 13 October 2010
+| Gymnastics - Artistic | 4-8 October 2010
 
 Gymnastics - Artistic
 
