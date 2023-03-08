@@ -18,7 +18,7 @@ THE SEARCH BEGINS FOR THE BEST MUSIC VIDEO FOR "GO! GO! SINGAPORE!!"
 
 4. "The Singapore Sports Council is thrilled that Singaporeans want to take ownership of the cheer, and are excited and happy to be involved in its production," said Ms Sharon Kam, Senior Director of Sports Marketing Group, SSC.
 
-5. To participate in the contest, the public will have to download the song from SingaporeSports.sg/cheerSG, film their moves and grooves in a music video, upload it on Youtube and submit the link to the SSC. More details can be found on SingaporeSports.sg/cheerSG.
+5. To participate in the contest, the public will have to download the song from [SingaporeSports.sg/cheerSG](SingaporeSports.sg/cheerSG), film their moves and grooves in a music video, upload it on Youtube and submit the link to the SSC. More details can be found on [SingaporeSports.sg/cheerSG](SingaporeSports.sg/cheerSG).
 
 6. The contest starts begins on 22 September 2010 and will go on till 2359hrs on 16 October 2010. It is open to all Singapore citizens and Permanent Residents.
 
