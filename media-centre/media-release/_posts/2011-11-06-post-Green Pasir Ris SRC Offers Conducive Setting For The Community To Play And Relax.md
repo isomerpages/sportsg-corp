@@ -33,8 +33,9 @@ Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singa
 
 12.  SSC is also aiming for Pasir Ris SRC to attain the Building and Construction Authority's Green Mark platinum award, the highest accolade given to environmentally friendly buildings in Singapore.
 
+---
 
-**Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre**
+###### Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre
 
 Pasir Ris Sports and Recreation Centre (SRC) spans over 1.4 hectares in size and comprises facilities including a swimming complex with two pools, a multi-purpose indoor sports hall with a viewing gallery for 2,000 spectators, a gymnasium with pool view, two tennis courts, a 5-a-side soccer court, and a dance studio.
 
@@ -42,46 +43,15 @@ It is designed as a place for play and relaxation and is the first SRC in Singap
 
 The SRC is designed with environmentally friendly and energy-saving features such as a rainwater-harvesting system to irrigate surrounding plants, vertical 'green' walls and landscaping to reduce ambient heat gained, and photo-voltaic cells for energy generation.
 
-<table id=table1 >
-<tbody><tr>
-<td><strong>Location</strong></td><td>120 Pasir Ris Central, Singapore 519640 (Junction of Pasir Ris Drive 3 and Pasir Ris Central)<br>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td><strong>Soft Launch Date</strong></td><td>18 July 2011<br>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td><strong>Construction Cost</strong></td><td>S$40 million<br>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td><strong>Land Area</strong></td><td>1.4 hectares (14,000 sqm)<br>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td><strong>Facilities</strong></td><td><strong>Swimming Complex</strong><strong>:</strong><ul><li>A 50m length lap pool</li>
-<li>A learner's pool</li>
-<li>A wading pool with waterplay equipment</li>
-<li>Water jets</li>
-<li>A jacuzzi</li>
-</ul>
-<strong>Sports Hall (2,000 pax capacity)</strong><strong>:</strong><ul><li>2 basketball courts or 8 badminton courts or 1 volleyball court with headroom clearance height of 12.5m to allow for international volleyball play</li>
-<li>An outdoor 5-a-side soccer court</li>
-<li>2 outdoor tennis courts</li>
-</ul>
-<strong>A Gymnasium</strong><br><strong>A Dance Studio</strong><br><strong>Foyer Space for Events</strong><br><strong>950sqm of Retail Space</strong><br><strong>F&B and Retails Outlets</strong><br><strong>Car Park (with Lift to Serve Basement Level - 2<sup>nd</sup>Storey)</strong><strong>:</strong><ul><li>For cars: 120 lots and 2 handicapped lots</li>
-<li>Motorcycle lots</li>
-<li>Bicycle parking stands</li>
-</ul>
-</td>
-</tr>
-</tbody></table>
+| Location            | 120 Pasir Ris Central, Singapore 519640 <br>(Junction of Pasir Ris Drive 3 and Pasir Ris Central)      |
+| ------------------- | ---------------------------------------- |
+| Soft Launch Date    | 18 July 2011                             |
+| Construction Cost   | S$40 million                             |
+| Land Area           | 1.4 hectares (14,000 sqm)                |
+| Facilities          | Swimming Complex: <br> * A 50m length lap pool <br> * A learner's pool <br> * A wading pool with waterplay equipment <br> * Water jets <br> * A jacuzzi |
+|                     | Sports Hall (2,000 pax capacity): <br> * 2 basketball courts <br> * or 8 badminton courts <br> * or 1 volleyball court with headroom clearance height of 12.5m to allow for international volleyball play <br> * An outdoor 5-a-side soccer court <br> * 2 outdoor tennis courts |
+|                     | A Gymnasium                              |
+|                     | A Dance Studio                           |
+|                     | Foyer Space for Events                   |
+|                     | 950sqm of Retail Space <br> F&B and Retails Outlets |
+|                     | Car Park (with Lift to Serve Basement Level - 2nd Storey): <br> * For cars: 120 lots and 2 handicapped lots <br> * Motorcycle lots <br> * Bicycle parking stands |
