@@ -21,11 +21,11 @@ Following the announcement of the S$50 million Sports Resilience Package (SRP) o
 
 4. The **Enterprise Innovation and Capability Development Grant** seeks to support the development and application of technology and/or innovative solutions in the sport industry. This grant is intended to benefit sport and fitness enterprises in developing and/or applying solutions to take their business to the next level, and for enterprises in adjacent industries (e.g. tech) to develop solutions for the sport industry. Application details will be announced in December 2020.
 
-##### **For Individuals**
+**For Individuals**
 
 5. Coaches registered under National Registry of Coaches NROC may apply for the Continuing Coach Education Training Allowance for courses run by CoachSG, and the Structured Mentoring Programme. On top of a monthly allowance, successful programme applicants will be able to enhance their knowledge and skills in coaching and mentorship through professional discourse, practical observations and coaching reports. The Continuing Coach Education Training Allowance is expected to support more than 5,000 coaches while the Structured Mentoring Programme will potentially benefit more than 60 individuals.
 
-##### **For Businesses & Individuals**
+**For Businesses & Individuals**
 
 6. Self-employed professionals, freelance coaches as well as businesses may apply for the **Digital Content Development Grant**, which aims to enhance the quality of digital sport productions and expand their reach through hosting content on the ActiveSG Circle virtual platform. Successful grant applicants will be able to use the Circle as a test bed to enhance their business models and contribute to the sporting ecosystem. The Grant is expected to support up to 30 projects.
 
