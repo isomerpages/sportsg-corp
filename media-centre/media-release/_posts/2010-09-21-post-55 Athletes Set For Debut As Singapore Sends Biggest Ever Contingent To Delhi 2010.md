@@ -81,7 +81,7 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Rugby Sevens | 11-12 October 2010
 | Shooting - Clay Target | 6-13 October 2010
 | Shooting - Full Bore | 9-13 October 2010
-| Shooting - Pistol & Small Bore | 5-13 October 2010
+| Shooting - Pistol & Small Bore | 5-13 October 2010 <br>PARASPORTS
 | Shooting - Clay Target | 6-13 October 2010
 | Squash | 4-13 October 2010
 | Table Tennis | 4-114 October 2010
@@ -90,69 +90,6 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-PARASPORTS
 
 Sport
 
