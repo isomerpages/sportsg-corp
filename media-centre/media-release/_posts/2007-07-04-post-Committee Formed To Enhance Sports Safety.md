@@ -19,7 +19,7 @@ The Sports Safety Committee is chaired by Dr Benedict Tan, Head of Changi Genera
 
 Dr Benedict Tan said, "The Committee aims to bring sports safety standards for local sports in line with international best practice. We will review current practices and recommend how best to plug the gaps. The review will cover all aspects of sports safety, ranging from pre-participation screening to medical support plans. This would ensure safe and enjoyable sports participation for Singaporeans."
 
-SSC's Chief Executive Officer, Mr Oon Jin Teik added, "The Sports Safety Committee is a significant step forward to review the safety system that meets the needs of the sports industry. SSC will continue to encourage NSAs and all sports service providers to abide by these safety guidelines, thereby raising the level of sports safety excellence of the entire sports industry."
+SSC's Chief Executive Officer, Mr Oon Jin Teik, added, "The Sports Safety Committee is a significant step forward to review the safety system that meets the needs of the sports industry. SSC will continue to encourage NSAs and all sports service providers to abide by these safety guidelines, thereby raising the level of sports safety excellence of the entire sports industry."
 
 The Committee will put up its report to SSC in August 2007.
 
