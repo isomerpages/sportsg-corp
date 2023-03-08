@@ -14,17 +14,17 @@ TARGET 2016: NSAS TO FOCUS ON CREATING A PIPELINE FOR HIGH PERFORMANCE EXCELLENC
 NSAs To Review And Update Multi-Year Sports Plans To Supply & Sustain Local Sports Ecosystem
 Singapore, 22 September 2010 - Slightly more than a week after the Singapore Sports Council (SSC) announced its target of garnering at least six medals at the 2016 Olympic Games in Rio de Janeiro, the National Sports Associations (NSAs) were today told of the key role they will play in helping Singapore achieve its targets which have been set for Singapore in 2016.
 
-2 This was shared today by SSC Chief Executive Officer Oon Jin Teik at a dialogue with NSAs to kick-off the Annual National Sports Association Grant Exercise (ANGE) for Financial Year 2011.
+2. This was shared today by SSC Chief Executive Officer Oon Jin Teik at a dialogue with NSAs to kick-off the Annual National Sports Association Grant Exercise (ANGE) for Financial Year 2011.
 
-3 "It is a priority that we have a systemic development for sports to achieve our target. The NSAs need to spend the time and effort to develop a process and pipeline that will create a system that surrounds athletes with world-class resources and expertise, so as to groom them into potential medal winners," said Mr Oon.
+3. "It is a priority that we have a systemic development for sports to achieve our target. The NSAs need to spend the time and effort to develop a process and pipeline that will create a system that surrounds athletes with world-class resources and expertise, so as to groom them into potential medal winners," said Mr Oon.
 
-Developing a High Performance Pipeline
+**Developing a High Performance Pipeline**
 
-4 Getting them to start playing early, identifying sports talents at a young age and ensuring that they are kept within the national elite system, is a role which NSAs have a huge part in playing, alongside other key partners like the Singapore Sports School and mainstream schools. The SSC, through its annual funding to NSAs via ANGE, will continue to work closely with NSAs to develop and further fine-tune the national elite system.
+4. Getting them to start playing early, identifying sports talents at a young age and ensuring that they are kept within the national elite system, is a role which NSAs have a huge part in playing, alongside other key partners like the Singapore Sports School and mainstream schools. The SSC, through its annual funding to NSAs via ANGE, will continue to work closely with NSAs to develop and further fine-tune the national elite system.
 
-5 With a system in place, NSAs were encouraged to develop effective Multi-Year Sports Plans (MYSPs), which encompasses every area of developing their respective sport, from mass participation to talent identification, to high performance. NSAs were encouraged to develop effective MYSPs that builds year upon year, eventually developing an integrated framework and process that would give athletes what they need in order to be podium ready.
+5. With a system in place, NSAs were encouraged to develop effective Multi-Year Sports Plans (MYSPs), which encompasses every area of developing their respective sport, from mass participation to talent identification, to high performance. NSAs were encouraged to develop effective MYSPs that builds year upon year, eventually developing an integrated framework and process that would give athletes what they need in order to be podium ready.
 
-Moving Forward with ANGE FY 2011
+**Moving Forward with ANGE FY 2011**
 
 6. NSAs were urged to up the ante in their overall performance and organisational excellence, as Singapore geared itself for the next lap, following the successful hosting of the Asian Youth Games in 2009 and the recently concluded Youth Olympic Games. NSAs will have to review and upgrade their existing plans, which were submitted for FY 2010.
 
