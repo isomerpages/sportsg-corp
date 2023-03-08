@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Additional support for businesses and SEPs affected by stricter safe management measures for gyms and studios**
 
 [Download Media Release](/files/Media%20Centre/Media%20Release/2021/May/newMedia%20ReleaseAdditional%20support%20for%20businesses%20SEPs%20affected%20by%20stricter%20safe%20management.pdf)
