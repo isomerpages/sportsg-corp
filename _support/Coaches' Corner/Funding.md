@@ -19,7 +19,7 @@ With effect from 1 April 2018:
 
 *   SG-Coach Development Grant will cease to exist as a grant. It will be subsumed under Annual NSA Grant’s ‘Coach Education & Development’ component, and will be ring-fenced for SG-Coach Technical / Integrated curriculum review and development purposes only. This is to encourage NSAs to look into reviewing and developing SG-Coach Technical / Integrated curriculum for their sport. On a yearly basis, CoachSG will prioritise the sports due for SG-Coach Technical / Integrated curriculum review / development, work with identified NSAs to set Key Deliverables and milestones for the project, and follow through with these NSAs on the project. CoachSG may provide a list of qualified curriculum developers to assist NSAs with their SG-Coach Technical / Integrated curriculum development effort.
 
-<table border="1" cellspacing="0" cellpadding="0" width="623" style="border: none;">
+<table border="1" cellspacing="0" cellpadding="0" width="623" style="border: 1px solid #000;">
     <thead>
         <tr>
             <td style="background: #f2f2f2; width: 77.25pt; padding: 0in 5.4pt; border-style: solid; border-width: 1pt; text-align: left;">
