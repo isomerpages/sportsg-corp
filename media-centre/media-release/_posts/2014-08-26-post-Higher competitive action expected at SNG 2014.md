@@ -23,13 +23,12 @@ The Singapore National Games (SNG) 2014 returns with its second edition and will
 
 `*`*Subject to Terms and Conditions. Refer to [Event Fact Sheet](/files/Media%20Centre/Media%20Release/2014/August/SNG%202014%20Fact%20Sheet%20final.pdf) for more details.*
 
-
 ##### **About Singapore National Games**
-
+<br>
 The Singapore National Games (SNG) is a Multi-Sport competition organised by Sport Singapore (SportSG) in collaboration with the National Sports Associations (NSAs) of the various sports. The inaugural edition of the SNG took place in 2012 and will subsequently take place every two years.
-
+<br><br>
 The SNG provides a competitive platform up to National level for sporting talents to step forward to compete as well as creating pathways to nurture our school athletes.
-
+<br><br>
 Singaporeans, Permanent Residents and Foreigners who are residents are eligible to compete in the SNG, representing any of the following five zones of the country – North, East, West, Central and North East.
 
 To find out more, visit our website[www.nsg.moe.edu.sg](https://nsg.moe.edu.sg/).<br>
