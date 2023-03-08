@@ -35,8 +35,8 @@ The sporting spirit of the Amore Women's Day Out continues on 2 September at the
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Soh Li Sar
 <br>
 Associate
