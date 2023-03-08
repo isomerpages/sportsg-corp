@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Safety Inquiry Reveals Factors That Led To Dragon Boat Incident**
 
-Recommendations put forth to avoid similar incidents in future
+_Recommendations put forth to avoid similar incidents in future_
 
 Singapore, 30 May 2008 - The Safety Inquiry (SI) Panel today revealed at a media conference the factors that led to the dragon boat incident. Led by Mr Bernard Tan Kok Kiang, Chairman of the Safety Inquiry (SI) panel, the SI also put forth recommendations for the National Sports Associations (NSA) and the public to undertake to avoid similar incidents from recurring in future.
 
@@ -26,7 +26,9 @@ Singapore, 30 May 2008 - The Safety Inquiry (SI) Panel today revealed at a media
 
 4. Said Bernard Tan: "What happened in Cambodia on 23 November 2007 was a tragedy. It was a tragedy not only for the Team, the SDBA, the dragon boat community, but also the Singapore sports fraternity as a whole. What is important is that we learn from this incident. We believe that the greatest tragedy and greatest injustice to the five lives lost is for us not to learn anything and to allow for another accident to recur."
 
-**For media inquiries, please contact the following on behalf of the SI Inquiry Panel:**
+---
+
+###### For media enquiries, please contact on behalf of the SI Inquiry Panel:
 
 Alvin Hang
 <br>
