@@ -162,8 +162,8 @@ Ho Shu Fen
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites www.ssc.gov.sg, www.vision2030.sg and www.singaporesports.sg.<br>
-Follow us on Facebook at facebook.com/SingaporeSports.<br>
-For a range of photographs, visit flickr.com/ssc-sportsphotography.
+Follow us on Facebook at www.facebook.com/SingaporeSports.<br>
+For a range of photographs, visit www.flickr.com/ssc-sportsphotography.
 
 ##### **About Standard Chartered Bank in Singapore**
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
