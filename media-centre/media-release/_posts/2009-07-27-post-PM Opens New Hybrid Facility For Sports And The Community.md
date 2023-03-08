@@ -8,9 +8,9 @@ image: ""
 ---
 ### **PM Opens New Hybrid Facility For Sports And The Community**
 
-Sengkang SRC Offers Sports and Recreation Centre and a Community Club, All Under One Roof
+_Sengkang SRC Offers Sports and Recreation Centre and a Community Club, All Under One Roof_
 
-Singapore, 26 July 2009 - Joined by Prime Minister Lee Hsien Loong and grassroot leaders, residents from the Sengkang West Constituency gathered this morning to celebrate the official opening of their new 40,282m playground, Sengkang Sports and Recreation Centre (SRC). The first in a new generation of hybrid sports facilities that is co-located with a Community Club, the SRC stands head and shoulders above the rest when it comes to the services and facilities it can offer.
+**Singapore, 26 July 2009** - Joined by Prime Minister Lee Hsien Loong and grassroot leaders, residents from the Sengkang West Constituency gathered this morning to celebrate the official opening of their new 40,282m playground, Sengkang Sports and Recreation Centre (SRC). The first in a new generation of hybrid sports facilities that is co-located with a Community Club, the SRC stands head and shoulders above the rest when it comes to the services and facilities it can offer.
 
 2. The Sengkang SRC boasts an impressive assortment of facilities, such as four swimming pools, of which two are of Olympic-sized, assortment of water slides; an indoor sports hall; a gymnasium; a dance studio; as well as a variety of retail and food outlets. In addition, due to its co-location with the Anchorvale Community Club, it facilitates the organisation of a much greater variety of sports, recreation and community activities-seamlessly catering to the diverse needs and wants of the community-all at one convenient location.
 
@@ -24,12 +24,9 @@ Singapore, 26 July 2009 - Joined by Prime Minister Lee Hsien Loong and grassroot
 
 7. "The SSC has always been seeking new ways to integrate the fun element into sports to get people started on a life-long affair with sports, with a healthy lifestyle in mind. Developing top notch sports facilities like the one here allows residents to try out various sports, find something that they enjoy and hopefully even excel in that discipline. This will, in turn, lead to the birth of the next generation of Singapore athletes and sports enthusiasts," concluded Mr Chan.
 
+---
 
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
-
-**For more information, please contact:**
+###### For media enquiries, please contact:
 
 Tanty Nazlianah Rosli
 <br>
@@ -46,3 +43,8 @@ Director, Marketing Communications
 Singapore Sports Council
 <br>
 Email: [Rhonda_Koh@ssc.gov.sg](mailto:Rhonda_Koh@ssc.gov.sg)
+
+---
+
+###### About Singapore Sports Council
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
