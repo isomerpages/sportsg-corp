@@ -32,13 +32,12 @@ Mr. Oon Jin Teik, Chief Executive Officer, Singapore Sports Council says, " Xtre
 Ix Shen, Goodwill Ambassador for Adventure Singapore 2007 continues, " As a young boy, I used to skateboard and now as an adult, I enjoy a variety of adventure sports. It is heartening to see the growth of extreme and adventure sports, as enthusiasts like me, now have a growing community of like-minded people to share the passion of the sport. Both Adventure and Xtreme Singapore will inspire more people to take up extreme and adventure sports for a more exciting lifestyle. This is really an exciting time not only for me but for all extreme and adventure sports lovers out there! "
 
 
-##### **RESULTS FROM ADVENTURE SINGAPORE 2007**
+##### **Results from Adventure Singapore 2007**
 
-ADVENTURE RACE
-<br>
+###### ADVENTURE RACE
 Open Team
 
-Men
+**Men**
 <br>
 1st Adventure In Motion 4:29:06
 <br>
@@ -46,7 +45,7 @@ Men
 <br>
 3rd Reds Xtreme 4:53:47
 
-Women
+**Women**
 <br>
 1st Bethany 6:08:55
 <br>
@@ -54,7 +53,7 @@ Women
 <br>
 3rd Espacade 7:13:06
 
-Mixed
+**Mixed**
 <br>
 1st Happy 5:42:33
 <br>
@@ -62,11 +61,10 @@ Mixed
 <br>
 3rd Prana 6:18:40
 
-ADVENTURE RACE
-<br>
+###### ADVENTURE RACE
 Sprint Team
 
-Men
+**Men**
 <br>
 1st Kopi Adventure 4:07:28
 <br>
@@ -74,7 +72,7 @@ Men
 <br>
 3rd Jordanash 4:21:14
 
-Women
+**Women**
 <br>
 1st Pac Man 5:09:22
 <br>
@@ -82,7 +80,7 @@ Women
 <br>
 3rd Fungsters 5:42:33
 
-Mixed
+**Mixed**
 <br>
 1st Muddles 4:45:43
 <br>
@@ -91,20 +89,17 @@ Mixed
 3rd Brown Cow 4:50:24
 
 
-DOWNTOWN RAIL JAM
-<br>
+###### DOWNTOWN RAIL JAM
 1st Padiwat Jeamjan Thailand
 <br>
 2nd Matthew Christian Singapore
 <br>
 3rd Chris Yeo Singapore
 
-SKATE JAM CHAMPION
-<br>
+###### SKATE JAM CHAMPION
 DJ Ritz
 
-BMX Park
-<br>
+###### BMX Park
 1st Danny Heng
 <br>
 2nd Chan Sing Kan
@@ -112,7 +107,9 @@ BMX Park
 3rd Fabian Lao
 
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Jenny Kwok
 <br>
@@ -128,14 +125,13 @@ Fax: 6345 2541
 <br>
 Email: [jenny_kwok@ssc.gov.sg](mailto:jenny_kwok@ssc.gov.sg)
 
-***About SSC***
-<br>
+---
+
+###### About SSC
 The Singapore Sports Council (SSC) is Singapore?s lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
 
-***About Xtreme Singapore***
-<br>
+###### About Xtreme Singapore
 Xtreme Singapore is an annual extreme sports competition organised by the Singapore Sports Council to provide youths with more opportunities for sustained sports participation through alternative sports. This year, Xtreme Singapore returns with a series of extreme sports competition held in five zonal areas island-wide, participants will compete in a series of extreme sports categories such as skateboarding, aggressive inline skating and BMX biking. Participants and the public can also engage in various extreme sports such as motocross, inline skating and skateboarding. Participants will gain points from their performance and participation in the series. The 40 participants with the most points in the series will compete in the grand finale in December 2007 where the Xtreme Singapore champion will be crowned.
 
-***About Adventure Singapore***
-<br>
+###### About Adventure Singapore
 Adventure Singapore is an annual adventure race and carnival organised by Singapore Sports Council to provide youths and young adults with a variety of adventure sports for sustained participation in sports. Held on 16 June 2007, Adventure Singapore includes an adventure race around Singapore and a carnival at Takashimaya Civic Plaza where Singaporeans will be treated to a series of spectacular stunts and activities. Activities planned include the first Rail Jam in Asia, music-inspired Skate Jam and even an adventure sports spectacular by avid sportsman and popular MediaCorp artiste, Ix Shen.
