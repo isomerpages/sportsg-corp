@@ -7,13 +7,12 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Sport Singapore Unveils First Edition of Sport Industry Problem Statements to Simulate Cross Ideation and Innovation**
   
 * First edition of problem statements is a result of Sport Singapore’s (SportSG) partnership with Global Sports Innovation Center (GSIC) and aggregates inputs from industry stakeholders.   
 * Together with the problem statements, SportSG and GSIC launch the inaugural International Sports Groundbreakers Challenge – a competition seeking innovative and technological developments to help the industry tackle challenges identified in the problem statements.   
   
-Singapore, 10 November 2022 – The first edition of the local sport industry problem statements was unveiled today by Sport Singapore and the Global Sports Innovation Centre (GSIC) to more than 250 participants at GSIC Summit APAC 2022. This first edition features more than 30 problem statements raised by various stakeholders which address real industry needs in areas such as fan engagement, smart venues, sustainability, sport for good, and optimising player performance.   
+**Singapore, 10 November 2022** – The first edition of the local sport industry problem statements was unveiled today by Sport Singapore and the Global Sports Innovation Centre (GSIC) to more than 250 participants at GSIC Summit APAC 2022. This first edition features more than 30 problem statements raised by various stakeholders which address real industry needs in areas such as fan engagement, smart venues, sustainability, sport for good, and optimising player performance.   
   
 Apart from providing a comprehensive overview of the challenges in the sport industry, the statements are also a call for innovative solutions from the larger market to encourage cross pollination of ideas and expertise sharing. With this vision to drive inter-industry collaboration, SportSG and GSIC also launched the inaugural International Sports Groundbreakers Challenge. Open for application from today till 21 January 2023, this challenge is a public call for local and international companies to develop innovations in response to the identified problem statements.   
   
