@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-##### **Reopening of Dual Use Scheme Facilities During Year End School Holidays**
+## **Reopening of Dual Use Scheme Facilities During Year End School Holidays**
 
 [Download Media Release](/files/Media%20Centre/Media%20Release/2020/November/SportSG-MOE%20Media%20Release%20-%20Reopening%20of%20DUS%20Facilities%20copy.pdf)
 
