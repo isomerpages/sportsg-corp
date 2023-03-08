@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Get To Know Their Hopes, Dreams And Aspirations
-Singapore , 06 Aug 2010
+## **Get To Know Their Hopes, Dreams And Aspirations**
 
 GET TO KNOW THEIR HOPES, DREAMS AND ASPIRATIONS
 "Team Singapore @ YOG" Photography Showcase To Be Featured At 20 Locations Nationwide Beginning Today
