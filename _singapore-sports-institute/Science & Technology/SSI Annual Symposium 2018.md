@@ -13,3 +13,7 @@ This year’s Singapore Sport Science Symposium is held together with the ASIA (
 Organized by the Singapore Sport Institute (SSI), the theme for the first two days of the Singapore Sport Science symposium is ‘From Youth to Elite Sport – Harnessing Potential and the Pursuit of Excellence’. It builds on from 2017’s focus on biomechanics and physiology to mental well-being and recovery this year. The symposium will provide sport administrators, practitioners, educators, coaches and students opportunities to engage in conversations on bio-psychosocial, environmental and contextual factors that contribute to youth athlete development, and the utility of various sport science and medicine disciplines to prepare elite athletes holistically.
 
 **Day 1**
+
+| -------- | -------- | 
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/SmwlEs5l2uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | by Dr Vassil Girginov     | 
+
