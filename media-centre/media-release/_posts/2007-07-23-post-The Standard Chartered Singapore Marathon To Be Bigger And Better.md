@@ -28,7 +28,9 @@ Lim Cheng Teck, Chief Executive, Standard Chartered Bank Singapore, said, "We're
 
 The Standard Chartered Singapore Marathon is the second leg of The Greatest Race on Earth (GROE) marathon series where elite marathon runners compete in marathons in Nairobi, Singapore, Mumbai and Hong Kong. This first-of-its-kind marathon race circuit features one of the biggest prize purses in the professional athletics scene - US$1.5 million.
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Ronda Ng
 <br>
@@ -60,13 +62,14 @@ DID: 6340 9669
 <br>
 Email: [evelyn_liu@ssc.gov.sg](mailto:evelyn_liu@ssc.gov.sg)
 
-**About Singapore Sports Council**
-<br>
+---
+
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
 
-**About Standard Chartered Bank**<br>
-*Standard Chartered - leading the way in Asia, Africa and the Middle East*
+###### About Standard Chartered Bank
+_Standard Chartered - leading the way in Asia, Africa and the Middle East_
 
 Standard Chartered PLC is listed on both the London Stock Exchange and the Hong Kong Stock Exchange and is consistently ranked in the top 25 among FTSE-100 companies by market capitalisation.
 
