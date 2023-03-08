@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Long Term Athlete Development Plans Set To Produce More Sporting Heroes**
 
-*Singapore Sports Institute to Undertake Holistic National Athlete Development, Working Closely with Private Sector; Asia's First Sports Medicine Network is 1st Partnership to be Announced*
+_Singapore Sports Institute to Undertake Holistic National Athlete Development, Working Closely with Private Sector; Asia's First Sports Medicine Network is 1st Partnership to be Announced_
 
 ![](/images/Media%20Centre/Media%20Release/2012/Feb/LONGTERMATHLETEDEVELOPMENTPLANSSETTOPRODUCEMORESPORTINGHEROESMainPar0028Imagegif.gif)
 
@@ -51,15 +51,15 @@ Harnessing science & technology.
 
 ##### **Harnessing Science and Technology**
 
-12.     With SSI's core capabilities and delivery system in place, the Institute?s winning edge for the athletes will be its ability to intelligently exploit and apply science and technology (S&T) to its systems and processes. Although the SSI currently has S&T initiatives in place, it could benefit from a dedicated programme that will seed and drive sports S&T initiatives.
+12. With SSI's core capabilities and delivery system in place, the Institute?s winning edge for the athletes will be its ability to intelligently exploit and apply science and technology (S&T) to its systems and processes. Although the SSI currently has S&T initiatives in place, it could benefit from a dedicated programme that will seed and drive sports S&T initiatives.
 
-13.        One of the strategies is to promote sports related research not only in SSI, but also in institutions of higher learning and research institutions in Singapore. This will be done through a dedicated research grant to promote SSM research to support our athletes and the local sports industry.
+13. One of the strategies is to promote sports related research not only in SSI, but also in institutions of higher learning and research institutions in Singapore. This will be done through a dedicated research grant to promote SSM research to support our athletes and the local sports industry.
 
 14. Overall, the SSI's efforts in the next five years will lay the foundation for the institute's long term development. It is during this critical period that the SSI will develop the fundamental frameworks and culture that will support the growth of not just SSM in Singapore, but also sporting excellence and Singapore's sports culture as a whole. The SSI aims to give every sports talent in Singapore a chance to realise their potential through its programmes.
 
 ---
 
-**Annex A - Fact Sheet on SSMN**
+###### Annex A - Fact Sheet on SSMN
 
 The Singapore Sports Institute (SSI) has collaborated with three public hospitals, Changi General Hospital (CGH), Khoo Teck Puat Hospital (KTPH) and Tan Tock Seng Hospital (TTSH), to establish Asia's first sports medicine network - the Singapore Sports Medicine Network (SSMN).
 
@@ -88,7 +88,9 @@ Fast Fact on SSI's Sports Medicine:
 * Provides approximately 5,800 physiotherapy sessions a year
 * Provides approximately 1,200 rehabilitation session a year
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Patricia Yee<br>
 Executive, Media Relations<br>
@@ -101,8 +103,9 @@ Singapore Sports Council<br>
 Email: tanty_nazlianah@ssc.gov.sg
 
 
-**About the Singapore Sports Council**
-<br>
+---
+
+###### About the Singapore Sports Council
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
