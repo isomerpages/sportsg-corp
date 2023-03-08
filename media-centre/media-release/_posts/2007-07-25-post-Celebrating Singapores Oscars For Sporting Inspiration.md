@@ -23,7 +23,9 @@ Another winner from the organisation category is Sports Advocate, Singapore Powe
 
 One outstanding organisation that has garnered two awards in the organisation category is RHB Bank. The bank aims to bring standards of Singapore football to greater heights as it believes that sports is the ideal way to build bonds with customers and the community. The bank has also made a strong name for itself as the title sponsor of RHB SINGAPORE CUP. This year, RHB Bank is awarded in the categories of Sports Partners and Sports Business.
 
-**For media enquiries, please contact:**
+---
+
+###### For media enquiries, please contact:
 
 Fiona Foo
 <br>
@@ -49,10 +51,10 @@ E-mail: [michelle_liew@ssc.gov.sg](mailto:michelle_liew@ssc.gov.sg)
 <br>
 Phone: 6340 9886
 
-**About the Sporting Singapore Inspiration Awards**
-<br>
+---
+
+###### About the Sporting Singapore Inspiration Awards
 The Sporting Singapore Inspiration Awards (SSIA) aims to give much deserved recognition to individuals and organisations for significant contribution towards sports promotion. The SSIA represents the only award in Singapore focused on honouring individuals and organisations for exemplary passion and commitment in promoting sports as a way of life. Award winners are seen as community role models who inspire and motivate others to greater heights in sports. They typically help create opportunities and platforms for sporting activities, connect with the community through sports, or celebrate the triumph of the human spirit through sports. For more information, kindly visit http://ssia.ssc.gov.sg.
 
-**About Singapore Sports Council**
-<br>
+###### About Singapore Sports Council
 The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
