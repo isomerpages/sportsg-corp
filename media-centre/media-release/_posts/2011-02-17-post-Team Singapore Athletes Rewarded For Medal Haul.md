@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-## **Team Singapore Athletes Rewarded For Medal Haul**
+### **Team Singapore Athletes Rewarded For Medal Haul**
 
-DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore Athletes in Preparation for SEA Games 2011 and London 2012
+_DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore Athletes in Preparation for SEA Games 2011 and London 2012_
 
 **Singapore, 17 February 2011** - In a joint ceremony for both the Commonwealth Games 2010 and Asian Games 2010 contingents, 43 Team Singapore medallists were presented with cash awards totalling S$4.22 million at the Multi-Million Dollar Award Programme (MAP) dinner at the Grand Copthorne Waterfront Hotel this evening.
 
@@ -28,7 +28,7 @@ DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore A
 
 ---
 
-Annex A: About the Multi-Million Dollar Award Programme (MAP)
+###### Annex A: About the Multi-Million Dollar Award Programme (MAP)
 
 In the 1990s, under the direction of then President Dr. Yeo Ning Hong, the Singapore National Olympic Council devised an incentive scheme to reward medal-winning athletes. The Multi-Million Dollar Awards Programme (MAP) provides a cash payout to athletes who win gold medals at the Olympic, Asian, Commonwealth and South East Asian (SEA) Games.
 
@@ -42,127 +42,103 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 
 It is mandatory for all athletes to plough back 20% of the MAP awards to their National Sports Association for future training and development.
 
-Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients<br>
+###### Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
+
 **Individual Events**
 
-| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
-| -------- | -------- | -------- | -------- | -------- |
-| Gymnastics     | Women's Balance Beam    | LIM Heem Wei     | Silver   | $40,000.00  |
-| Gymnastics     | Men's Pommel Horse   | CHAN Thuang Tong David-Jonathan     | Bronze   | $20,000.00  |
-| Shooting | Women's 50m Rifle 3-Positions (Individual) | Aqilah Binte SUDHIR | Bronze | $20,000.00
-| Shooting | Men's 25m Standard Pistol (Individual) | GAI Bin | Gold | $80,000.00 | Shooting
-| Men's 10m Air Pistol (Individual) | GAI Bin | Silver | nil | Shooting
-| Men's 50m Pistol (Individual) | GAI Bin | Silver | $40,000.00 | Shooting
-| Women's 10m Air Rifle (Individual) | Jasmine SER Xiang Wei | Gold | $80,000.00
-| Shooting | Women's 50m Rifle 3-Positions (Individual) | Jasmine SER Xiang Wei | Silver | $40,000.00 | Shooting
-| Men's 50m Pistol (Individual) | LIM Swee Hon | Bronze | $20,000.00 | Shooting
-| Men's 25m Centre Fire Pistol | POH Lip Meng | Bronze | $20,000.00
-| Table Tennis  | Women's Singles | FENG Tianwe | Gold | $80,000.00
-| Table Tennis | Men's Singles | YANG Zi | Gold | $80,000.00
-| Table Tennis | Men's Singles | GAO Ning | Silver | $40,000.00
-| Table Tennis | Women's Singles | YU Mengyu | Silver | $40,000.00
-| Table Tennis | Women's Singles | WANG Yuegu | Bronze | $20,000.00
+| SPORT                              | EVENT                                      | NAME(S)                         | MEDAL      | AMOUNT (SGD) |
+| ---------------------------------- | ------------------------------------------ | ------------------------------- | ---------- | ------------ |
+| Gymnastics                         | Women's Balance Beam                       | LIM Heem Wei                    | Silver     | $40,000.00   |
+| Gymnastics                         | Men's Pommel Horse                         | CHAN Thuang Tong David-Jonathan | Bronze     | $20,000.00   |
+| Shooting                           | Women's 50m Rifle 3-Positions (Individual) | Aqilah Binte SUDHIR             | Bronze     | $20,000.00   |
+| Shooting                           | Men's 25m Standard Pistol (Individual)     | GAI Bin                         | Gold       | $80,000.00   | 
+| Shooting                           | Men's 10m Air Pistol (Individual)          | GAI Bin                         | Silver     | nil          |
+| Shooting                           | Men's 50m Pistol (Individual)              | GAI Bin                         | Silver     | $40,000.00   |
+| Shooting                           | Women's 10m Air Rifle (Individual)         | Jasmine SER Xiang Wei           | Gold       | $80,000.00   |
+| Shooting                           | Women's 50m Rifle 3-Positions (Individual) | Jasmine SER Xiang Wei           | Silver     | $40,000.00   |
+| Shooting                           | Men's 50m Pistol (Individual)              | LIM Swee Hon                    | Bronze     | $20,000.00   | 
+| Shooting                           | Men's 25m Centre Fire Pistol               | POH Lip Meng                    | Bronze     | $20,000.00   |
+| Table Tennis                       | Women's Singles                            | FENG Tianwe                     | Gold       | $80,000.00   |
+| Table Tennis                       | Men's Singles                              | YANG Zi                         | Gold       | $80,000.00   |
+| Table Tennis                       | Men's Singles                              | GAO Ning                        | Silver     | $40,000.00   |
+| Table Tennis                       | Women's Singles                            | YU Mengyu                       | Silver     | $40,000.00   |
+| Table Tennis                       | Women's Singles                            | WANG Yuegu                      | Bronze     | $20,000.00   |
  
 
 **Team Events**
 
-| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
-| -------- | -------- | -------- | -------- | -------- |
-| Badminton     | Women's Doubles    | Shinta Mulia Sari <br>YAO Lei   | Silver   | $60,000.00  |
-| Badminton     | Men's Doubles    | Hendra Wijaya<br>Hendri Kurniawan Saputra | Bronze   | $30,000.00  |
-| Badminton     | Mixed Doubles    | Chayut TRIYACHART<br>YAO Lei | Bronze   | $30,000.00  |
-| Shooting | Men's 25m Standard Pistol (Pairs) | GAI Bin <br>POH Lip Meng | Gold | $120,000.00
-| Shooting | Men's 50m Pistol (Pairs) | GAI Bin <br>LIM Swee Hon | Gold | $120,000.00
-| Shooting | Women's 50m Rifle 3-Positions (Pairs) | Aqilah Binte SUDHIR <br>Jasmine SER <br> Xiang Wei | Gold | $120,000.00
-| Shooting | Women's 10m Air Rifle (Pairs) | CHENG Jian Huan <br> Jasmine SER <br>Xiang Wei | Silver | $60,000.00
-| Shooting | Men's 10m Air Pistol (Pairs) | GAI Bin <br> LIM Swee Hon  | Bronze  | $30,000.00
-| Shooting | Men's 25m Centre Fire Pistol (Pairs) | GAI Bin <br>POH Lip Meng | Bronze   | $30,000.00
-| Table Tennis | Men's Team | CAI Xiaoli  <br>GAO Ning <br>MA Liang <br>PANG Xue Jie <br>YANG Zi | Gold | $120,000.00
-| Table Tennis | Women's Team | FENG Tianwei <br>LI Jiawei <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu| Gold | $120,000.00
-| Table Tennis | Mixed Doubles | WANG Yuegu <br>YANG Zi | Gold | $120,000.00
-| Table Tennis | Women's Doubles | LI Jiawei <br>SUN Beibei | Gold | $120,000.00
-| Table Tennis | Men's Doubles | GAO Ning <br>YANG Zi | Silver | $60,000.00
-| Table Tennis | Women's Doubles |  FENG Tianwei <br>WANG Yuegu | Silver | $60,000.00
-| Table Tennis | Mixed Doubles | FENG Tianwei <br>GAO Ning | Silver | $60,000.00
+| SPORT        | EVENT                                 | NAME(S)                                                                | MEDAL  | AMOUNT (SGD) |
+| ------------ | ------------------------------------- | ---------------------------------------------------------------------- | ------ | ------------ |
+| Badminton    | Women's Doubles                       | Shinta Mulia Sari <br>YAO Lei                                          | Silver | $60,000.00   |
+| Badminton    | Men's Doubles                         | Hendra Wijaya<br>Hendri Kurniawan Saputra                              | Bronze | $30,000.00   |
+| Badminton    | Mixed Doubles                         | Chayut TRIYACHART<br>YAO Lei                                           | Bronze | $30,000.00   |
+| Shooting     | Men's 25m Standard Pistol (Pairs)     | GAI Bin <br>POH Lip Meng                                               | Gold   | $120,000.00  |
+| Shooting     | Men's 50m Pistol (Pairs)              | GAI Bin <br>LIM Swee Hon                                               | Gold   | $120,000.00  |
+| Shooting     | Women's 50m Rifle 3-Positions (Pairs) | Aqilah Binte SUDHIR <br>Jasmine SER <br> Xiang Wei                     | Gold   | $120,000.00  |
+| Shooting     | Women's 10m Air Rifle (Pairs)         | CHENG Jian Huan <br> Jasmine SER <br>Xiang Wei                         | Silver | $60,000.00   |
+| Shooting     | Men's 10m Air Pistol (Pairs)          | GAI Bin <br> LIM Swee Hon                                              | Bronze | $30,000.00   |
+| Shooting     | Men's 25m Centre Fire Pistol (Pairs)  | GAI Bin <br>POH Lip Meng                                               | Bronze | $30,000.00   |
+| Table Tennis | Men's Team                            | CAI Xiaoli  <br>GAO Ning <br>MA Liang <br>PANG Xue Jie <br>YANG Zi     | Gold   | $120,000.00  |
+| Table Tennis | Women's Team                          | FENG Tianwei <br>LI Jiawei <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu | Gold   | $120,000.00  |
+| Table Tennis | Mixed Doubles                         | WANG Yuegu <br>YANG Zi                                                 | Gold   | $120,000.00  |
+| Table Tennis | Women's Doubles                       | LI Jiawei <br>SUN Beibei                                               | Gold   | $120,000.00  |
+| Table Tennis | Men's Doubles                         | GAO Ning <br>YANG Zi                                                   | Silver | $60,000.00   |
+| Table Tennis | Women's Doubles                       | FENG Tianwei <br>WANG Yuegu                                            | Silver | $60,000.00   |
+| Table Tennis | Mixed Doubles                         | FENG Tianwei <br>GAO Ning                                              | Silver | $60,000.00   |
 
 Total MAP Award: $1,880,000.00
 
-Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients<br>
+###### Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
+
 **Individual Events**
 
-| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
-| -------- | -------- | -------- | -------- | -------- |
-| Bowling     | Women's Masters    | Cherie TAN Shi Hua    | Silver   | $100,000.00
-| Bowling     | Women's Singles  | Shayna NG Lin Zhi  | Silver  | $100,000.00
-| Bowling     | Women's Singles  | NEW Hui Fen  | Bronze  | $50,000.00
-| Cuesports | English Billiards Singles | Peter Edward GILCHRIST | Bronze | $50,000.00
-| Sailing | Men's Laser | Colin CHENG Xinru | Silver | $100,000.00
-| Sailing | Women's Dinghy Optimist | Kimberly LIM Min | Silver | $100,000.00
-| Sailing | Open Laser Radial | Scott Glen SYDNEY | Bronze | $50,000.00
-| Sailing |Men's Dinghy Optimist | Ryan LO Jun Han | Bronze| $50,000.00
-| Swimming | Women's 50m Butterfly | TAO Li | Gold | $200,000.00
-| Swimming | Women's 100m Butterfly | TAO Li | Silver | $100,000.00
+| SPORT     | EVENT                     | NAME(S)                | MEDAL  | AMOUNT (SGD) |
+| --------- | ------------------------- | ---------------------- | ------ | ------------ |
+| Bowling   | Women's Masters           | Cherie TAN Shi Hua     | Silver | $100,000.00  |
+| Bowling   | Women's Singles           | Shayna NG Lin Zhi      | Silver | $100,000.00  |
+| Bowling   | Women's Singles           | NEW Hui Fen            | Bronze | $50,000.00   |
+| Cuesports | English Billiards Singles | Peter Edward GILCHRIST | Bronze | $50,000.00   |
+| Sailing   | Men's Laser               | Colin CHENG Xinru      | Silver | $100,000.00  |
+| Sailing   | Women's Dinghy Optimist   | Kimberly LIM Min       | Silver | $100,000.00  |
+| Sailing   | Open Laser Radial         | Scott Glen SYDNEY      | Bronze | $50,000.00   |
+| Sailing   | Men's Dinghy Optimist     | Ryan LO Jun Han        | Bronze | $50,000.00   |
+| Swimming  | Women's 50m Butterfly     | TAO Li                 | Gold   | $200,000.00  |
+| Swimming  | Women's 100m Butterfly    | TAO Li                 | Silver | $100,000.00  |
 
 **Team Events**
 
-| SPORT | EVENT | NAME(S) | MEDAL | AMOUNT (SGD) |
-| -------- | -------- | -------- | -------- | -------- |
-| Bowling   | Women's Trios  | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi | Gold  | $320,000.00
-| Bowling   | Men's Doubles  | Jason YEONG-NATHAN <br>Remy ONG  | Silver | $160,000.00
-| Sailing | Men's Double Handed Dinghy 420 | Justin LIU Xiaman <br>Sherman CHENG Feng Yuan | Gold | $320,000.00
-| Sailing | Women's Double Handed Dinghy 42 | Cecilia LOW Rui Qi <br>Rachel LEE Qing | Gold | $320,000.00
-| Sailing | Open Hobie-16 | Justin WONG Ming Ho <br>TEO Wee Chin | Bronze | $80,000.00
-| Sailing | Women's Double Handed Dinghy 470  | Dawn LIU Xiaodan <br>Siobhan TAM Shui Wun | Bronze  | $80,000.00
-| Table Tennis | Women's Team | FENG Tianwei <br>LI Jiawei  <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu| Silver | $160,000.00
+| SPORT        | EVENT                            | NAME(S)                                                                 | MEDAL  | AMOUNT (SGD) |
+| ------------ | -------------------------------- | ----------------------------------------------------------------------- | ------ | ------------ |
+| Bowling      | Women's Trios                    | Cherie TAN Shi Hua <br>Geraldine NG Su Yi  <br>Shayna NG Lin Zhi        | Gold   | $320,000.00  |
+| Bowling      | Men's Doubles                    | Jason YEONG-NATHAN <br>Remy ONG                                         | Silver | $160,000.00  |
+| Sailing      | Men's Double Handed Dinghy 420   | Justin LIU Xiaman <br>Sherman CHENG Feng Yuan                           | Gold   | $320,000.00  |
+| Sailing      | Women's Double Handed Dinghy 42  | Cecilia LOW Rui Qi <br>Rachel LEE Qing                                  | Gold   | $320,000.00  |
+| Sailing      | Open Hobie-16                    | Justin WONG Ming Ho <br>TEO Wee Chin                                    | Bronze | $80,000.00   |
+| Sailing      | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan <br>Siobhan TAM Shui Wun                               | Bronze | $80,000.00   |
+| Table Tennis | Women's Team                     | FENG Tianwei <br>LI Jiawei  <br>SUN Beibei <br>WANG Yuegu <br>YU Mengyu | Silver | $160,000.00  |
 
 Total MAP Award: $2,340,000.00
 
 Annex D: Singapore National Olympic Council and Team Singapore Appreciation <br>
 **Plaque Recipients**
 
-| SN | Name of Recipient |
-| -------- | -------- |
-| 1.    | Adecco Personnel Private Limited
-| 2.   | Canon Singapore Private Limited
-| 3.  | Changi Airport Group (Singapore) Private Limited
-| 4. | MediaCorp Private Limited
-| 5.  | National Library Board
-| 6. | Nestle (Singapore) Private Limited
-| 7.  | NTUC FairPrice Foundation Limited
-| 8.   | Singapore Press Holdings Limited
-| 9.  | Singapore Totalisator Board & Singapore Pools (Private) Limited
-| 10.  | Sunrise & Company (Private) Limited
-| 11.  | StarHub Limited
+| SN  | Name of Recipient                                               |
+| --- | --------------------------------------------------------------- |
+| 1.  | Adecco Personnel Private Limited                                |
+| 2.  | Canon Singapore Private Limited                                 |
+| 3.  | Changi Airport Group (Singapore) Private Limited                |
+| 4.  | MediaCorp Private Limited                                       |
+| 5.  | National Library Board                                          |
+| 6.  | Nestle (Singapore) Private Limited                              |
+| 7.  | NTUC FairPrice Foundation Limited                               |
+| 8.  | Singapore Press Holdings Limited                                |
+| 9.  | Singapore Totalisator Board & Singapore Pools (Private) Limited |
+| 10. | Sunrise & Company (Private) Limited                             |
+| 11. | StarHub Limited                                                 |
 
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+---
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and www.singaporesports.sg
-
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-**About the Singapore National Olympic Council**
-<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
-
-**About Team Singapore**
-<br>
-Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
-
-The three core Team Singapore attributes are Pride, Performance and Perseverance. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
-
-Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
-
-**For media enquiries, please contact:**
+###### For media enquiries, please contact:
 
 Tanty Nazlianah Rosli
 <br>Senior Manager
@@ -177,3 +153,30 @@ Patricia Yee
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
 <br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and www.singaporesports.sg
+
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+
+Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
+
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+
+###### About the Singapore National Olympic Council
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+
+###### About Team Singapore
+Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
+
+The three core Team Singapore attributes are Pride, Performance and Perseverance. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
+
+Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
+
+For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
+
+Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
