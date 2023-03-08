@@ -18,14 +18,10 @@ image: ""
 
 5. "With the recent establishment of the National Brisk Walking Clubs, we felt that it was apt that this year's edition of the Singapore-Johor Second Link Bridge Walk event features this increasingly popular activity. Brisk-walking is a low-barrier sporting activity - everyone can be a part of it and it can be done almost anywhere. In addition to promoting active lifestyle through sports, brisk-walking is also a form of social activity as it allows for mass participation and community-bonding," added Dr Lee.
 
--End-
+---
 
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
+###### For media enquiries, please contact:
 
-**For media enquiries, please contact:**
-<br>
 Hazwani Hasni
 <br>
 Executive, Marketing Communications
@@ -37,3 +33,8 @@ DID: 6500 5246
 Mobile: 9272 0112
 <br>
 Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
+
+---
+
+###### About the Singapore Sports Council
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
