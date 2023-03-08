@@ -127,7 +127,7 @@ RTP and DTP athletes must provide details of their training schedule, including
 
 On days where there are no training or competition, RTP and DTP athletes are required to provide details of other regular activities, such as work or school, rehab or physio session, including the dates, times and the name and address of each location of such activities. Updates are to be made immediately when details of such regular activities change.
 
-**_Requirements Applicable ONLY to RTP Athletes:_**
+**Requirements Applicable ONLY to RTP Athletes:**
 
 **Whereabouts Information 5: Daily Overnight Residence**
 
@@ -202,12 +202,12 @@ Updates to whereabouts filing can be made:
 
 Athletes may delegate filing responsibilities for some or all required whereabouts filing to a third party, such as a coach, team manager or a NSA staff. Athletes remain ultimately responsible for making sure their whereabouts information is accurate, whether or not their whereabouts information are filed by the authorised representative or by the athlete.
 
-A written authorisation on the [ADS Whereabouts Authorised Representative form](/anti-doping-singapore/resources/policies-and-forms), signed by both the athlete and the authorised representative, should be submitted to ADS before access to ADAMS is made available to the authorised representative to file whereabouts information on the athlete's behalf.
+A written authorisation on the [ADS Whereabouts Authorised Representative form](/what-we-do/anti-doping-singapore/policies-and-forms/), signed by both the athlete and the authorised representative, should be submitted to ADS before access to ADAMS is made available to the authorised representative to file whereabouts information on the athlete's behalf.
 
 #### **RETIREMENT AND REINSTATEMENT**
 
-Athletes in the RTP or DTP who intend to retire from active competition must submit a written notice using the [ADS Athlete Retirement Notification Form](/anti-doping-singapore/resources/policies-and-forms) to inform ADS and their NSA of their retirement.
+Athletes in the RTP or DTP who intend to retire from active competition must submit a written notice using the [ADS Athlete Retirement Notification Form](/what-we-do/anti-doping-singapore/policies-and-forms/) to inform ADS and their NSA of their retirement.
 
-Athletes, who had previously retired whilst in the RTP or DTP and intend to return to active competition, must provide written notification to ADS and their NSA using the [ADS Return to Competition Notification Form](/anti-doping-singapore/resources/policies-and-forms) **at least 6 months** before returning to competition. Athletes who violate this requirement will have their competition results disqualified.
+Athletes, who had previously retired whilst in the RTP or DTP and intend to return to active competition, must provide written notification to ADS and their NSA using the [ADS Return to Competition Notification Form](/what-we-do/anti-doping-singapore/policies-and-forms/) **at least 6 months** before returning to competition. Athletes who violate this requirement will have their competition results disqualified.
 
 To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
