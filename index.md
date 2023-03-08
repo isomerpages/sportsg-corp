@@ -17,14 +17,14 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: LIVE SPORT
-          description: SportSG initiatives
+          description: Spearheading a sport lifestyle
           url: /what-we-do/academy-and-clubs/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: LEARN SPORT
+          description: Building up coaches & athletes
+          url: /support-resources/activesg-programme-partnership/nroc-sports/
+        - title: LOVE SPORT
+          description: Developing interests in sport
+          url: /sports-education/history-of-sportsg/introduction/
   - infobar:
       title: Serving Through Sport With Passion And Pride
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
