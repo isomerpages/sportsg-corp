@@ -212,4 +212,6 @@ Athletes, who had previously retired whilst in the RTP or DTP and intend to retu
 
 To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
 
+![](/images/What%20We%20Do/Anti%20Doping%20Singapore/ADAMS.png)
+
 *The ADAMS application for smartphones can be downloaded from iTunes or the Google Play Store.*
