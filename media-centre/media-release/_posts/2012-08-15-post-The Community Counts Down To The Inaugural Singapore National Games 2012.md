@@ -10,37 +10,38 @@ image: ""
 
 
 *Close To 5,000 People Are Expected To Play in 10 Sports Across The Island To Ignite Passion, Bond and Build Friendship in the Games!*
+
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0061Imagegif.gif)
 
 **Singapore, 15 August 2012** - With 16 days to go to the start of the inaugural Singapore National Games (SNG), Steering Committee chairmen, Mr Lim Teck Yin, Chief Executive Officer (CEO) of Singapore Sports Council (SSC) and Mr Yam Ah Mee, Chief Executive Director (CED) of People's Association (PA), rallied the community to support and cheer on their neighbours of all ages, races and estates at the Games, from 1 to 9 September 2012. More details of this milestone community sporting event were also shared by the SNG Organising Committee today.
 
-2. Commenting on the Games as the start draws closer, Mr Lim Teck Yin, CEO of SSC said, "The first-ever opening ceremony of the Singapore National Games represents a significant milestone in the history of Sporting Singapore and it is a reflection of the growing popularity of community sports in Singapore and the way it bonds people and brings the community together. We look forward to watching Singapore's sporting spirit in action and wish our community athletes all the best at the Games!"
+2\. Commenting on the Games as the start draws closer, Mr Lim Teck Yin, CEO of SSC said, "The first-ever opening ceremony of the Singapore National Games represents a significant milestone in the history of Sporting Singapore and it is a reflection of the growing popularity of community sports in Singapore and the way it bonds people and brings the community together. We look forward to watching Singapore's sporting spirit in action and wish our community athletes all the best at the Games!"
 
-3. Sharing his thoughts on the Community Games 2012 held from 15 April to 15 July 2012 that led to the first edition of the SNG, Chief Executive Director of PA, Mr Yam Ah Mee said, "The Community Games has successfully seen over 1,000 teams comprising residents from both public and private estates of all ages, races and backgrounds enjoying and competing in the seven sports as a community while forming relationships. I am sure the strong community spirit will continue throughout the SNG as we see more sporting heroes from the different communities coming together to participate in the friendly games."
+3\. Sharing his thoughts on the Community Games 2012 held from 15 April to 15 July 2012 that led to the first edition of the SNG, Chief Executive Director of PA, Mr Yam Ah Mee said, "The Community Games has successfully seen over 1,000 teams comprising residents from both public and private estates of all ages, races and backgrounds enjoying and competing in the seven sports as a community while forming relationships. I am sure the strong community spirit will continue throughout the SNG as we see more sporting heroes from the different communities coming together to participate in the friendly games."
 
 ##### **SNG Opening and Closing Ceremonies**
 
-4. The SNG opening ceremony will be held for the first time at Punggol Waterway on Saturday, 1 September 2012. Prime Minister Lee Hsien Loong will join an estimated 6,000 community athletes, officials and Singapore residents, to officially declare the opening of the first-ever national level multi-sport Games. The opening ceremony presents an opportunity for all participants, volunteers and supporters from 15 clusters across Singapore to come together to welcome the Games.
+4\. The SNG opening ceremony will be held for the first time at Punggol Waterway on Saturday, 1 September 2012. Prime Minister Lee Hsien Loong will join an estimated 6,000 community athletes, officials and Singapore residents, to officially declare the opening of the first-ever national level multi-sport Games. The opening ceremony presents an opportunity for all participants, volunteers and supporters from 15 clusters across Singapore to come together to welcome the Games.
 
-5. The SNG 2012 will come to a close on Sunday, 9 September 2012 at Bishan Stadium. President Tony Tan will grace the closing ceremony with interactive and fun games to engage the athletes, supporters and residents who have been connected through the Games.
+5\. The SNG 2012 will come to a close on Sunday, 9 September 2012 at Bishan Stadium. President Tony Tan will grace the closing ceremony with interactive and fun games to engage the athletes, supporters and residents who have been connected through the Games.
 
 ##### **Pre-SNG Engagements**
 
-6. Leading up to the Games, an island-wide Baton Relay will be held in conjunction with the One Community Walk (OCW), organised by the PA, the Community Sports Club Council and the Community Sports Clubs (CSCs), on Sunday, 26 August 2012. The OCW aims to foster community bonding by bringing residents of different ages, races and living in all estates together. A baton relay team, comprising 20 baton bearers will be walking a distance of about two to three kilometers in each constituency. In total, 1,740 baton bearers from 87 constituencies will kick off at the same time at the OCW. This signifies the community's involvement for the Games and encourages all community athletes and officials to bond and build friendships through sports.
+6\. Leading up to the Games, an island-wide Baton Relay will be held in conjunction with the One Community Walk (OCW), organised by the PA, the Community Sports Club Council and the Community Sports Clubs (CSCs), on Sunday, 26 August 2012. The OCW aims to foster community bonding by bringing residents of different ages, races and living in all estates together. A baton relay team, comprising 20 baton bearers will be walking a distance of about two to three kilometers in each constituency. In total, 1,740 baton bearers from 87 constituencies will kick off at the same time at the OCW. This signifies the community's involvement for the Games and encourages all community athletes and officials to bond and build friendships through sports.
 
-7. To heighten the mood and celebrate a special five-day countdown to the start of the SNG, a 'Spot-the-Nila' contest will be held via SNG Facebook from 27 to 31 August 2012, where the public is invited to spot Nila or any of the 15 cluster mascots around Singapore and get a chance to win an exclusive SNG souvenir. Details of the contest are available at the SNG Facebook page at www.facebook.com/singaporenationalgames.
+7\. To heighten the mood and celebrate a special five-day countdown to the start of the SNG, a 'Spot-the-Nila' contest will be held via SNG Facebook from 27 to 31 August 2012, where the public is invited to spot Nila or any of the 15 cluster mascots around Singapore and get a chance to win an exclusive SNG souvenir. Details of the contest are available at the SNG Facebook page at www.facebook.com/singaporenationalgames.
 
 ##### **Strong Support for SNG from Community**
 
-8. Since the announcement of the SNG 2012 in November 2011, close to 10,000 Singapore residents participated in the seven sports in the CG, which serve as the qualifying round for the SNG in the years it is held. Of these, more than 300 teams have qualified for the SNG. In total, the SNG will see close to 5,000 participants competing across 10 sports, as well as 3,000 volunteers in various capacities to ensure the smooth-running of the event.
+8\. Since the announcement of the SNG 2012 in November 2011, close to 10,000 Singapore residents participated in the seven sports in the CG, which serve as the qualifying round for the SNG in the years it is held. Of these, more than 300 teams have qualified for the SNG. In total, the SNG will see close to 5,000 participants competing across 10 sports, as well as 3,000 volunteers in various capacities to ensure the smooth-running of the event.
 
-9. Republic Polytechnic is one of the strong supporters of the SNG, with more than 1,000 students being deployed as volunteers for the Games. Said Mr Ganesh Kalyanam, Director, Office of Student and Graduate Affairs, Republic Polytechnic, "Republic Polytechnic (RP) believes in the holistic education of our students. To participate in sports or to volunteer in a national sporting event, whether it is logistics support, event management, reporting, or even through dance celebrations, the Singapore National Games provide an opportunity for RP students to engage with the dreams and goals of Singaporeans."
+9\. Republic Polytechnic is one of the strong supporters of the SNG, with more than 1,000 students being deployed as volunteers for the Games. Said Mr Ganesh Kalyanam, Director, Office of Student and Graduate Affairs, Republic Polytechnic, "Republic Polytechnic (RP) believes in the holistic education of our students. To participate in sports or to volunteer in a national sporting event, whether it is logistics support, event management, reporting, or even through dance celebrations, the Singapore National Games provide an opportunity for RP students to engage with the dreams and goals of Singaporeans."
 
-10. The Games has also seen strong support from Sunrise & Company Pte Ltd, a local distributor for popular sports brands Yonex and Mikasa, who have committed to being the Main Sponsor and Official Partner for the 2012, 2014 and 2016 editions of the Games. In addition, Fraser & Neave (F&N) Foods, manufacturer of isotonic drink 100Plus, has also agreed to be the Official Beverage sponsor. In addition, Fraser & Neave (F&N) Foods, manufacturer of isotonic drink 100Plus, is on board as the Official Isotonic Drinks sponsor.
+10\. The Games has also seen strong support from Sunrise & Company Pte Ltd, a local distributor for popular sports brands Yonex and Mikasa, who have committed to being the Main Sponsor and Official Partner for the 2012, 2014 and 2016 editions of the Games. In addition, Fraser & Neave (F&N) Foods, manufacturer of isotonic drink 100Plus, has also agreed to be the Official Beverage sponsor. In addition, Fraser & Neave (F&N) Foods, manufacturer of isotonic drink 100Plus, is on board as the Official Isotonic Drinks sponsor.
 
-11. The event today also presented the official 15 customised cluster mascots designs, based on Nila, the Games' official mascot. An Inter-Cluster Mascot Customisation Contest held from April to May this year where each of the 15 clusters submitted their entries adapted from the original Nila design by adding on accessories and graphics that showcase the unique identity of each cluster. After a round of public voting, the designer from Pasir Ris-Punggol GRC won the first prize of S$1,500, followed by Aljunied GRC in second place (S$1,000) and Chua Chu Kang GRC in third place (S$500).
+11\. The event today also presented the official 15 customised cluster mascots designs, based on Nila, the Games' official mascot. An Inter-Cluster Mascot Customisation Contest held from April to May this year where each of the 15 clusters submitted their entries adapted from the original Nila design by adding on accessories and graphics that showcase the unique identity of each cluster. After a round of public voting, the designer from Pasir Ris-Punggol GRC won the first prize of S$1,500, followed by Aljunied GRC in second place (S$1,000) and Chua Chu Kang GRC in third place (S$500).
 
-12. The Singapore National Games is jointly organised by the Singapore Sports Council, the People's Association and its grassroots organisations, the CSCs, as well as the National Sports Associations of the 10 participating sports namely, Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. It aims to bridge our communities where people of all ages, races and estates can participate and bond through competitive sports. For more information, please visit www.singaporenationalgames.sg.
+12\. The Singapore National Games is jointly organised by the Singapore Sports Council, the People's Association and its grassroots organisations, the CSCs, as well as the National Sports Associations of the 10 participating sports namely, Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. It aims to bridge our communities where people of all ages, races and estates can participate and bond through competitive sports. For more information, please visit www.singaporenationalgames.sg.
 
 ---
 
@@ -100,7 +101,7 @@ For photographs of Nila and the other 15 cluster mascots, please go to: [www.fli
 
 U-Lynn LEE
 <br>Fulford Public Relations 
-<br>Email: [ullee@fulfordpr.com](ullee@fulfordpr.com)
+<br>Email: [ullee@fulfordpr.com](mailto:ullee@fulfordpr.com)
 
 Tanty Nazlianah ROSLI 
 <br>Singapore Sports Council 
@@ -108,18 +109,16 @@ Tanty Nazlianah ROSLI
 
 Adlina JAFFAR
 <br>People's Association
-<br>Email: [adlina_jaffar@pa.gov.sg](adlina_jaffar@pa.gov.sg)
+<br>Email: [adlina_jaffar@pa.gov.sg](mailto:adlina_jaffar@pa.gov.sg)
 
 
 **About the Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and SingaporeSports.sg
-
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg.<br>
+Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg<br>
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography).
 
 **About People's Association**
 <br>
