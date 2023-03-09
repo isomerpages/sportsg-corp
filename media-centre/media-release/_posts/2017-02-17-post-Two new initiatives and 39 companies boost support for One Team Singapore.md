@@ -15,7 +15,7 @@ Three new Institutes of Higher Learning have also signed up to be part of the Sp
 
 Since the launch of both initiatives in November 2013, almost 500 Team Singapore athletes have directly benefited, including 92 athletes who had found employment opportunities with our partner companies.
 
-##### **Launch of the spexBusiness Application**
+**Launch of the spexBusiness Application**
 
 Local business start-up Jobook Singapore is one of the nine new corporate partners and they will be collaborating with the Singapore Sports Institute (SSI) to develop the spexBusiness Application which will help to streamline and automate the start-to-end process of job application and matching of athletes with all spexBusiness partners.
 
@@ -23,7 +23,7 @@ Founder & CEO of Jobook Singapore, Mr Raniel Lee said: “Team Singapore athlete
 
 ![](/images/Media%20Centre/Media%20Release/2017/February/Minister%20Grace%20Fu%20interacting%20with%20TeamSG%20Softballer%20Cerigwen%20Ng%20at%20the%20Celebrate%20Whats%20Right.jpeg)
 
-##### **Launch of SSI-e2i Career Coaching Network**
+**Launch of SSI-e2i Career Coaching Network**
 
 The SSI-e2i Career Coaching Network was also launched, with the aim of providing quality career services to Team Singapore athletes in the areas of career coaching and providing key insights of specific sectors which will enable our athletes to make better career choices.
 
