@@ -26,7 +26,7 @@ Says Principal of the ActiveSG Basketball Academy Neo Beng Siang, “The ActiveS
   
 Commencing in September 2016, the ActiveSG Basketball Academy will have sessions conducted in five centres islandwide – Choa Chu Kang Sports Centre, Clementi Sports Centre, Delta Sports Centre, Hougang Sports Centre and Pasir Ris Sports Centre.  
   
-Interested participants can register their interest online at [https://www.myactivesg.com/academy/basketball](https://www.myactivesg.com/academy/basketball)  
+Interested participants can register their interest online at [ActiveSG Basketball Academy](https://www.myactivesg.com/academy/basketball)  
   
 ---
 
