@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **MAKE-A-NILA for the 28th SEA Games Medallists**
+
 _A first of its kind initiative presented by SINGSOC and FairPrice to foster ownership of the Games among the community_
 
 Giving a twist to the mascot that accompanies the coveted SEA Games medals, the Singapore Southeast Asian Games Organising Committee (SINGSOC) has launched a programme to showcase the creative and softer side of Singaporeans.
@@ -29,21 +30,24 @@ Giving a twist to the mascot that accompanies the coveted SEA Games medals, the 
 
 **Related Link**: [Opening Remarks By Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOCat Make-A-Nila Launch Event](/media-centre/speeches/make-a-nila-launch-event/)
 
+---
+
 **For media enquiries, please contact:**
+<br>
 
 Rachel Ang<br>
 Senior Executive, Public Relations & Strategic Communications<br>
 Community & Corporate Outreach, SINGSOC<br>
 Tel: +65 6500 5245<br>
 HP: +65 9729 3700<br>
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
 S. Parameswaran<br>
 Assistant Director, Public Relations & Strategic Communications<br>
 Community & Corporate Outreach, SINGSOC<br>
 Tel: +65 6500 5236<br>
 HP: +65 9839 1974<br>
-Email: [parames\_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
+Email: [parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
 
 Winston Ng<br>
 Manager, Corporate Communications<br>
