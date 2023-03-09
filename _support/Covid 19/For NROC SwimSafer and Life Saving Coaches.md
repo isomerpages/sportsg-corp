@@ -125,4 +125,28 @@ No additional action required on the renewal.
 
 **3. **Who should I write to if I have enquiries on renewal of Life Saving usage permit?****
 
-Please write in to [sport\_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg) for any queries on renewal of life saving usage permit.
+Please write in to [sport_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg) for any queries on renewal of life saving usage permit.
+
+##### **SwimSafer Usage Permit Holders**
+
+**1.** **What is the extension period of the SwimSafer Usage Permit?**
+
+The extension period would be one year from your usage permit date of expiry. All eligible usage permit holders with valid usage permit as of 28 May 2021 will receive a 1-year extension automatically. For example, if your membership expires on 30 June 2021, the new expiry date would be 30 June 2022. Any purchase of usage permit after this date is not eligible for the extension.
+
+**2. **Who will be eligible for the extension of SwimSafer Usage Permit?****
+
+Existing instructors with valid full NROC membership and attended/pass the SwimSafer Certification with valid Pool usage permit as of 28 May 2021 would be eligible for the extension of SwimSafer usage permit.
+
+**3. **What are the eligibility criteria for this extension?****
+
+The eligibility criteria for the extension is
+
+a. Valid NROC membership;
+
+b. Valid First Aid Certification; and
+
+c. Valid CPR & AED Certification
+
+**4.** **Who do I approach if I have enquiries on SwimSafer Usage Permit?**
+
+Please write in to [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg) for any queries on extension of SwimSafer Usage Permit.
