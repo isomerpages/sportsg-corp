@@ -138,8 +138,8 @@ Annex D: Singapore National Olympic Council and Team Singapore Appreciation <br>
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Media Relations
@@ -179,6 +179,6 @@ The three core Team Singapore attributes are Pride, Performance and Perseverance
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
+For further information, please visit [[www.teamsingapore.sg](www.teamsingapore.sg)].
 <br>
 Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
