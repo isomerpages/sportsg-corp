@@ -88,3 +88,17 @@ Other Resources for Continuing Coach Education (Learning & Development)
 We're also coming up an online learning platform, slated to launch later this year. [Let us know](http://go.gov.sg/learnsurvey) the kind of features and content you hope to see more of in the platform.
 
 If you are exploring to conduct online coaching services with the general public, please register your interest with our newly launched [ActiveSG Circle](https://circle.myactivesg.com/) platform via this [link](https://circle.myactivesg.com/coaches/join-us). SportSG would get in touch with you if we are interested to have you onboard!
+
+**8. I’ve encountered technical issues (my data is incorrect, system encounters errors, my profile doesn’t seem to be available). How do I edit them?** 
+
+Please do make sure you’ve checked out our FAQs [here](https://www.sportsync.sg/App/System/FAQ) to see if your questions are already answered. If you are still encountering errors, please file the issue you encountered via [https://www.sportsync.sg/App/Login/Contact](https://www.sportsync.sg/App/Login/Contact) (Technical Issue) for further assistance.
+
+**9\. The FAQs did not manage to clear my queries, how do I contact the relevant parties?**
+
+For NROC: please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg)
+
+For Swimsafer: please email [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg)
+
+For Usage Permit: please email [sport_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg)
+
+To help us serve you better, please do write in stating your Full Name, Date of Birth, and last 4 digits of your NRIC (e.g., 123Z), along with the details of your request.
