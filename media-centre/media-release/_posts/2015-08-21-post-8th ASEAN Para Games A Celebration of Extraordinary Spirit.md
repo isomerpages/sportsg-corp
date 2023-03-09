@@ -7,11 +7,12 @@ description: ""
 image: ""
 ---
 ### **8th ASEAN Para Games: A Celebration of Extraordinary Spirit**
+
 With just over 100 days to go, the Singapore ASEAN Para Games Organising Committee (SAPGOC) today assured that the 8th ASEAN Para Games will be an inspiring festival of sport; showcasing the courage and skill of Southeast Asia's best para athletes.
 
 2\. Mr Lim Teck Yin, Chairman, SAPGOC EXCO, urged the community to get behind the Games: “This is the first time that Singapore will be hosting the ASEAN Para Games and it is a key milestone event in Singapore's sporting history. This is a special year for all Singaporeans and we encourage everyone to come together to cheer these inspiring athletes and embrace an event that is all about inclusiveness and courage to rise above life's challenges.”
 
-##### **Celebrating the spirit of our para athletes**
+**Celebrating the spirit of our para athletes**
 
 3\. Beyond just sporting excellence, SAPGOC also hopes to use the 8th ASEAN Para Games as a platform to garner more support, understanding and appreciation for para sport and for persons with disabilities (PWD).
 
@@ -19,7 +20,7 @@ With just over 100 days to go, the Singapore ASEAN Para Games Organising Committ
 
 5\. “I am confident that our Team Singapore athletes will put in a performance of their lifetime come December,” Mr Lim added. "They are all already winners for stepping up to the plate in wanting to represent our country. The best recognition we can give them is to come to the Games as One Team Singapore."  
   
-##### **Celebrating the Singapore spirit**
+**Celebrating the Singapore spirit**
 
 6\. Preparations for the Games in December are in full force with 10 venues around Singapore confirmed as locales for competition during the Games. A primary consideration for the selection of the venues is the need to provide ease of accessibility for the PWD community, not just for the athletes, but for spectators as well.
 
@@ -36,7 +37,7 @@ With just over 100 days to go, the Singapore ASEAN Para Games Organising Committ
 * During Games time, there will be a Carnival held at the Sports Hub where participants will be able to try out the different para sports, learn how to play the sports and of course watch the APG live. There will be something for everyone in the family to have an enjoyable and meaningful time. Concurrently, there will also be a “Breaking Boundaries Tour” that corporates, VWOs and schools can sign up for.
 * The familiar Songs of the Games that were released for the SEA Games will be returning for listening and watching enjoyment. Unbreakable and Ordinary will have two new music videos released starring out own Team Singapore para-athletes.
 
-##### **Accessible and affordable events for the community**
+**Accessible and affordable events for the community**
 
 9\. As the final iconic celebration to SG50, the Games is set to be one of the most accessible games with tickets available to members of the public free of charge.
 
