@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Duric heads new ActiveSG Football Academy To Develop Young Players and Promote Football**
+
 Sport Singapore (SportSG) announced today the appointment of Aleksandar Duric as Head of a new [[ActiveSG Football Academy](https://www.myactivesg.com/programmes/academy/football)](https://) that would be launched in the coming months. The Academy would be designed to provide greater access and opportunities for Singaporean boys and girls to enrol in an affordable and good quality football programme. The programme would not only develop fundamental football knowledge and skills, but would be age appropriate and designed to nurture valuable life skills.  
   
 Welcoming Duric on-board, Mr Lim Teck Yin, Chief Executive Officer of SportSG said, “Duric epitomises the ethos of the ActiveSG Football Academy. He is a living testament and role model for the values and belief in the purposefulness of sport for the development of our youth.  His long term involvement in elite sport testifies to the indomitable spirit that has enabled him to sustain himself and succeed, and he is the best person to share and pass down his experience and commitment to Singapore through the “beautiful game.”  He has joined us because he wants to give back to this country and Singapore football.”  
