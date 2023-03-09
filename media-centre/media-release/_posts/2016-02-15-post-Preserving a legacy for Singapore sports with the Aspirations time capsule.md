@@ -7,13 +7,14 @@ description: ""
 image: ""
 ---
 ### **Preserving a legacy for Singapore sports with the Aspirations time capsule**
+
 A time capsule containing 50 items that are symbolic of our nation’s sporting aspirations will be officially sealed and laid to rest; thereby preserving a legacy for Singapore sports. Named “Aspirations” time capsule, the 1.4m by 1.4m by 1.4m steel capsule will be located at the Waterfront of the Singapore Sports Hub and will be reopened after 25 years.  
   
 Says Mr Richard Seow, Chairman, Sport Singapore, “The time capsule reflects our belief in Singapore’s youth. As we look towards the next 25 years with a view towards SG Future, it is how we strive to live better through sport that will take us forward with each new generation. And it is with grit, strength and determination that each generation will quietly keep the Singapore spirit burning bright.”
 
 ![](/images/Media%20Centre/Media%20Release/2016/February/Donors%20and%20sports%20pioneers%20at%20time%20capsule%20unveiling%20event%20800x600.jpeg)
 
-##### **Items that tell the story of our hopes and dreams**
+**Items that tell the story of our hopes and dreams**
 
 Previously symbolically sealed by Prime Minister Lee Hsien Loong to commemorate the official opening of the Singapore Sports Hub at "Youth Celebrate!" in July 2015, the selected items are specially chosen to reflect the aspirations of Youth and sport in Singapore – Sports excellence to inspire the next generation, providing opportunities through sport that will bond the community while encouraging them to stay active, and a caring and cohesive society where everyone will have the opportunity to participate in the sport of their choice.  
   
