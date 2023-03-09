@@ -32,7 +32,8 @@ will further enhance our efforts to create a safe sporting environment in Singap
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 S. Parameswaran
 <br>
@@ -56,10 +57,10 @@ Email: [tienyin@nus.edu.sg](mailto:tienyin@nus.edu.sg)
 
 ---
 
-###### About Singapore Sports Council (SSC)
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit www.ssc.gov.sg for more information.
 
-###### About National University of Singapore (NUS)
+**About National University of Singapore (NUS)**<br>
 A leading global university centred in Asia, the National University of Singapore (NUS) is Singapore's flagship university which offers a global approach to education and research, with a focus on Asian perspectives and expertise. NUS has 14 faculties and schools across three campuses. Its transformative education includes
 a broad-based curriculum underscored by multi-disciplinary courses and cross-faculty enrichment. Over 30,000 students from 100 countries enrich the community with their diverse social and cultural perspectives. Well-known for its research strengths in engineering, life sciences and biomedicine, social sciences and natural sciences, NUS shares a close affiliation with three Research Centres of Excellence, 21 university-level, 16 national-level and more than 80 faculty-based research institutes and centres. The University also strives to create a supportive and innovative environment to promote creative enterprise within its community.
 For more information, please visit www.nus.edu.sg
