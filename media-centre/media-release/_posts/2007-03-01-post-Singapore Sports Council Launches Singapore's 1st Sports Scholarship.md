@@ -26,6 +26,7 @@ Successful applicants can look forward to exciting careers in SSC and the sports
 
 Added Chan: "We're looking for people who are passionate about sports, people who possess the X-factor and believe in the vision of a very bright and exciting future for sports industry development in Singapore."
 
+---
 
 **For media enquiries, please contact:**
 <br>
@@ -41,6 +42,7 @@ Mobile: 9222 1010
 <br>
 Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
+---
 
 **About Singapore Sports Council**
 <br>
