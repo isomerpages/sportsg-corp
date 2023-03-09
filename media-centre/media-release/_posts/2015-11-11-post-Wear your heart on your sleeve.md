@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Wear your heart on your sleeve**
+
 The countdown to the 8th ASEAN Para Games has begun, and with less than a month to go, the Singapore ASEAN Para Games Organising Committee (SAPGOC) took one big step to ignite the APG fever, opened the “Official APG Merchandise store” in the heart of Orchard Road, this morning.
 
 Located along the Orchard Pedestrian walkway, the pop-up store will feature a variety of limited edition APG merchandise including jerseys, dresses, hats, towels, gel bracelets, sports and country pins, as well as the Nila plush toy, a fan favourite during the 28th SEA Games which Singapore hosted earlier this year.
