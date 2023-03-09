@@ -28,7 +28,7 @@ Find out more about GetActive! Singapore 2017 at [www.myactivesg.com/getactivesi
 
 ---
 
-##### **Media Factsheet on the Sports Facilities at Our Tampines Hub (OTH)**
+**Media Factsheet on the Sports Facilities at Our Tampines Hub (OTH)**<br>
 
 1\. To enhance sporting access, a network of community nodes and innovative sporting spaces are being developed under the Sports Facilities Master Plan (SFMP) to cater to sporting needs at national, regional, town and neighbourhood levels. The majority of Singaporeans will have access to sports and recreational facilities within a 10-minute walk from their homes.
 
@@ -49,10 +49,8 @@ The following facilities are scheduled to be ready in Q3 of 2017:
 * Futsal Courts (2 courts)
 * Hockey Court (1 court)
 
-##### **Media Fact Sheet of Inclusive Sports Festival at Our Tampines Hub**
-
-**About the Inclusive Sports Festival**
-<br>
+**Media Fact Sheet of Inclusive Sports Festival at Our Tampines Hub**<br>
+**About the Inclusive Sports Festival**<br>
 There will be over 10 sports try-outs to reach out to the community of persons with disabilities (PwDs) and members of the public, to educate them about para sports options available. These activities serve a targeted audience and do not expose participants to the full range of para sports that are available in Singapore.
 
 Since the ASEAN Para Games (APG) 2015, there has yet to be a large scale para sports event in Singapore. The Festival will serve as a continuation of the APG 2015 legacy, as well as drum up support for the Team Singapore training squad for the 29th SEA Games and 9th ASEAN Para Games in Malaysia in 2017.
