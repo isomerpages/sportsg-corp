@@ -24,8 +24,8 @@ The NSPS is nationwide research conducted by the SSC once every five years. Its 
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Ms Daphne Chiang
 <br>
 Senior Executive
