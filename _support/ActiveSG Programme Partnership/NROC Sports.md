@@ -4,8 +4,8 @@ permalink: /support-resources/activesg-programme-partnership/nroc-sports/
 description: ""
 third_nav_title: ActiveSG Programme Partnership
 ---
-
-#### **What is NROC?**
+![Nila](/images/Nila-Boxing%20copy%204.jpg)
+### **What is NROC?**
 
 The **National Registry of Coaches (NROC)** was launched in 2003 to raise the standard and professionalism of sports coaching in Singapore. It aims to ensure that coaches meet baseline qualifications, that coaches continue to practise and improve, and that coaches provide a safe environment for their athletes. Today, there are over 6,000 coaches listed across 74 sports in the NROC and coaches can choose to publish their profile via an online public database called "[Find a Coach](https://www.myactivesg.com/Sports/Find-a-Coach)".
 
