@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Full Suite of Activities instore at the 28th SEA Games Nila Suite for Athletes**
+
 During the 28th Southeast Asian Games, athletes from all 11 member federations will be able to rest and unwind in privacy at a first-class facility – the NILA Suite for Athletes, situated at the Kallang Theatre.
 
 The 600-square metre NILA Suite will be managed by staff from members of the SportCares Foundation and the Foundation’s partners. The SportsCares Foundation is a social development initiative which supports children and youth from all segments of the community to use sport as a social tool.
