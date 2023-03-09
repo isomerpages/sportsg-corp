@@ -22,7 +22,7 @@ The Singapore Southeast Asian Games Organising Committee (SINGSOC) announced tod
 
 **Annex A:**
  
- Hotels List
+ Hotels List<br>
  1\. Amara Singapore <br>
  2\. Copthorne King’s Hotel <br>
  3\. Days Hotel Singapore At Zhongshan Park <br>
