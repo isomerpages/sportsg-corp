@@ -63,13 +63,13 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 | 15. | Bronze | Sailing             | Men's Dinghy Optimist            | yan LO Jun Han                                             |
 | 16. | Bronze | Sailing             | Open Hobie-16                    | TEO Wee Chin & Justin WONG Ming Ho                         |
 | 17. | Bronze | Sailing             | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun                    |
-|     |        |                     |                                  |                                                            | 17    |
+|     |        |                     |                                  |                                     
 
 **Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010**
 
 | Name of Athlete(s) | Event | Remarks |
 | -------- | -------- | -------- |
-| AQUATICS - SWIMMING: 14 PBs, Broke National Record in 2 events
+| **AQUATICS - SWIMMING: 14 PBs, Broke National Record in 2 events**
 | Andrew LIM Xin En | Men's 50m Breaststroke, Heats | PB 0:28.93 (Previous PB 0:29.09) 
 | Andrew LIM Xin En | Men's 100m Breaststroke, Heats | PB 1:05.19 (Previous PB 1:05.22) 
 | Clement LIM Yong En | Men's 200m Freestyle, Heats | PB 1:51.91 (Previous PB 1:52.17) 
@@ -84,13 +84,14 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 | TAO Li | Women's 50m Backstroke, Heats | PB 0:28.91 (Previous PB 0:29.02)
 | TAO Li | Women's 50m Butterfly, Heats | PB 0:26.52 (Previous PB 0:26.64) <br>NR 0:26.52 (Previous NR 0:26.64, set during the Singapore National Swimming Championships, June 10)
 | TAO Li | Women's 50m Butterfly, Final | PB 0:26.10 (Previous PB 0:26.52, set during the heats) <br>NR 0:26.10 (Previous NR 0:26.52, set during the heats)
-| CANOE/KAYAK: 1 PB | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Heats <br>PB 2:02.124 (Previous PB 2:02.399)
+| **CANOE/KAYAK: 1 PB**
+Geraldine LEE Wei Ling | Women's Kayak Single 500m, Heats | PB 2:02.124 (Previous PB 2:02.399)
 | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Semi-Final | PB 2:01.351 (Previous PB 2:02.124, set during the heats)
 | Geraldine LEE Wei Ling | Women's Kayak Single 500m, Final | PB 2:00.421 (Previous PB 2:01.351, set during the semi-final)
-| Irene CHUA Pei Xuan <br>Geraldine LEE Wei Ling
-Andrea CHEN Jiewen <br>Annabelle NG Xiang Ru | Women's Kayak Four 500m | PB 1:40.483 (Previous PB 1:42.183)
+| Irene CHUA Pei Xuan <br>Geraldine LEE Wei Ling <br>Andrea CHEN Jiewen <br>Annabelle NG Xiang Ru | Women's Kayak Four 500m | PB 1:40.483 (Previous PB 1:42.183)
 | Stephenie CHEN Jiexian <br>Suzanne SEAH | Women's Kayak Double 500m, Heats | PB 1:54.214 (Previous PB 1:56.000)
-| Stephenie CHEN Jiexian <br>Suzanne SEAH Women's Kayak Double 500m, Final | PB 1:53.470  (Previous PB 1:54.214, set during the heats) | ROWING: 2 PBs
+| Stephenie CHEN Jiexian <br>Suzanne SEAH | Women's Kayak Double 500m, Final | PB 1:53.470  (Previous PB 1:54.214, set during the heats) 
+| **ROWING: 2 PBs**
 | YEONG Wai Mun | Men's Lightweight Single Sculls, Heats | PB 7:30.47 (Previous PB 7:54.58)
 | YEONG Wai Mun | Men's Lightweight Single Sculls, Final B | PB 7:29.12 (Previous PB 7:30.47, set during the heats)
 
