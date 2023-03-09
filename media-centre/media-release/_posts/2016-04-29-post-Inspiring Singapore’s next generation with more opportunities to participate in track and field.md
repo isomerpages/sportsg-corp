@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Inspiring Singapore’s next generation with more opportunities to participate in track and field**
+
 Singapore’s national movement for sport – ActiveSG – continues to deliver its promise to offer meaningful opportunities for all to live better through sport with the launch of its Athletics Club today. Targeted at youths aged 6 to 24 years, the club is designed for participants to learn, enjoy, participate and compete, with programmes catered from the entry to competitive level.  
   
 The club is part of Sport Singapore (SportSG)’s ongoing effort to introduce a series of academies and clubs aimed at creating accessible options for youths to play and realise their fullest potential in a sport. The first to kick off this series was the ActiveSG Football Academy, launched just earlier this month.  
@@ -33,17 +34,18 @@ Said Tan: "The idea of having an athletics club for the public is awesome. The o
 **Team Singapore Sport Ambassadors to inspire the next generation of athletes**  
   
 Participants of the ActiveSG Athletics Club will also be able to rub shoulders with and be inspired by some of Singapore’s home-grown track and field stars across generations. Coming onboard as Team Singapore Sport Ambassadors are Calvin Kang, C Kunalan, Dipna Lim-Prasad, Glory Barnabas, Kenneth Khoo, Lieu Teck Hua, Shanti Pereira, and U K Shyam, who will make their appearances at some training sessions to share their experiences, lend advice and motivate the youths.  
-  
 
-#### **Annex A: ActiveSG Athletics Club Factsheet**  
+---
 
-**Overview**
+**Annex A: ActiveSG Athletics Club Factsheet**  
 
+**Overview**<br>
 At the ActiveSG Athletics Club, children and youth may sign up for training programmes in track and field disciplines to learn specific athletic skills through a series of well-designed lessons, games, exercises and mini competitions that are led by professional coaches and movement skills experts.
 
 Beyond acquiring an athletics skill set, the programmes will also help to develop important life skills and values such as team spirit, discipline, determination, respect and integrity.
 
 **Programmes for 2016**
+
 | Athletics for Kids | Athletics for Youth |
 | -------- | -------- |
 | Age: 6 to 12 years | Age: 13 to 24 years |
@@ -57,12 +59,10 @@ Beyond acquiring an athletics skill set, the programmes will also help to develo
 | Mini-competitions within training sessions | *   Time-trials within training sessions |
 | $130* per season <br>3 times per week <br>Training sessions will be held on:<br>Weekday: 6:30pm – 8:00pm <br>Weekend: 4:30pm – 6:00pm<br>10 weeks (1.5 hours/session) | $180* per season <br>3 times per week <br>Training sessions will be held on:<br>Weekday: 6:30pm – 8:00pm <br>Weekend: 4:30pm – 6:00pm<br>10 weeks (1.5 hours/session) |
 
-**_ActiveSG members can offset 30% of the fee with ActiveSG dollars._**
-  
+_ActiveSG members can offset 30% of the fee with ActiveSG dollars._
 
-**Training Venues**
-
-Training sessions are held at five venues across the island: 
+**Training Venues**<br>
+Training sessions are held at five venues across the island:
 
 *   Bedok Stadium
 *   Bishan Stadium
