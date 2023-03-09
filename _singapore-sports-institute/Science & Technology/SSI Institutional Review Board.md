@@ -186,7 +186,7 @@ For more information on MOH Guidelines on HBRA, please click [here](https://www
 | -------- | -------- | -------- |
 | 1. SSI-IRB Sharing #1 | 24 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_24_April_2020.pdf)|
 | 2. SSI-IRB Sharing #2 | 14 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_14_Aug_2020.pdf)|
-| 3. SSI-IRB Sharing #3 | 18 June 2020 |cv[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
+| 3. SSI-IRB Sharing #3 | 18 June 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
 
 ---
 
