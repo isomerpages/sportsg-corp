@@ -59,5 +59,4 @@ We believe that sport is not just about technical ability and skill, but rather,
 
 | Humility | Leadership | Loyalty |
 | -------- | -------- | -------- |
-| Canagasabai Kunalan (Athletics)<br>Dr Benedict Tan (Sailing)<br>Lim Heem Wei (Gymnastics)<Br>Shamsul Maidin (Football)<br>Tan Wearn Haw (Sailing)   | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Jane Lee (Mountaineering)<br>Melanie Ann Martens (Hockey)<br>Richard Tan (Motor Sports)<br>Shamsul Maidin (Football) | Adrian Mok (Triathlon)<br>Glory Barnabas (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Richard Tan (Motor Sports) | 
-
+| Canagasabai Kunalan (Athletics)<br>Dr Benedict Tan (Sailing)<br>Lim Heem Wei (Gymnastics)<Br>Shamsul Maidin (Football)<br>Tan Wearn Haw (Sailing)   | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Jane Lee (Mountaineering)<br>Melanie Ann Martens (Hockey)<br>Richard Tan (Motor Sports)<br>Shamsul Maidin (Football) | Kadir Yahaya (Football)<br>Subhas Anandan (Cuesports) |
