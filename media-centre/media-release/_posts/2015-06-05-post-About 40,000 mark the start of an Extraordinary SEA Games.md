@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **About 40,000 mark the start of an Extraordinary SEA Games**
+
 About 40,000 people came together in a spectacular Opening Ceremony for the 28th SEA Games, marking the start of an Extraordinary Games.
 
 Some 5,000 performers and volunteers participated in the breathtaking show at Singapore’s National Stadium, featuring 2,000 props. The sold-out Opening Ceremony was a three-hour spectacle, where the audience got to enjoy extensive multimedia projections, light and sound displays, colorful costumes and dazzling aerial props. Some of Singapore’s most well-known arts, music and sports personalities were also featured.
