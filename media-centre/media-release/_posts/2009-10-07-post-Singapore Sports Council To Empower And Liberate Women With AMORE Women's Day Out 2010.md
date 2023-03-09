@@ -11,7 +11,7 @@ image: ""
 
 **Singapore, 7 October 2009** - A recent survey commissioned by the Singapore Sports Council (SSC) for 2008 showed that although more females (50%) were participating in sports, they still fall below their active male counterparts (64%). The main reason cited for Singaporean women not exercising is the lack of time due to work and family commitments. Hence, to show, to remind, women just how fun and easy it is to incorporate play and sports into their lifestyle, and to do so while including their daughter, mother and girlfriends, the SSC will be organising the Amore Women's Day Out 2010 (AWDO 2010) on 6 March 2010.
 
-##### **Female Sports Participation in Singapore**
+**Female Sports Participation in Singapore**<br>
 
 2. According to SSC research study conducted in 2008, more females had participated in sports in 2008 than in 2007 - an increase of 8%. The main reasons given by women for sports participation are to keep fit and to maintain health.
 
@@ -21,7 +21,7 @@ image: ""
 
 5. The top 10 popular sports activities amongst women include jogging/running, brisk walking, yoga/pilates, tai chi/qi gong, dancing and aerobics.
 
-##### **A Celebration of Women's Sports @ AWDO 2010**
+**A Celebration of Women's Sports @ AWDO 2010**<br>
 
 6. Taking into account the survey findings, the SSC, together with title sponsor Amore, will be incorporating the preferred sports activities such as aerobics, dance, and yoga segments into AWDO 2010.
 
@@ -33,7 +33,7 @@ image: ""
 
 10. And, especially for the mothers, the "Power of 2" is a workout that combines high-low impact aerobics with the cool moves of kick-boxing. This total body workout is also a great choice for mother and child to spend time together. "Power of 2" had a 100% satisfied participants rating when it was first introduced at the previous AWDO. Thus, for AWDO 2010, the capacity of this segment will be increased to accommodate a total of 300 pairs of participants (the previous AWDO accommodated 100 pairs of participants).
 
-##### **Get into Women Sporting Action @ AWDO 2010**
+**Get into Women Sporting Action @ AWDO 2010**<br>
 
 11. The registration for the AWDO 2010, Singapore's largest aerobics-based women event, will kick-start at Raffles Place on Thursday, 8 October 2009. This will be the first in a series of road shows from October 2009 to January 2010 around Singapore, to encourage women of all ages to sign up for the event.
 
@@ -47,9 +47,9 @@ image: ""
 
 ---
 
-###### Annex A
+**Annex A**<br>
 
-###### Event Categories At Amore Women's Day Out 2010
+**Event Categories At Amore Women's Day Out 2010**<br>
 
 **Power of 2**
 <br>
@@ -73,7 +73,7 @@ Do remember to bring along your own yoga mat for this programme.
 Want a workout that allows you to groove in style at the same time? Dance Beat offers two 50-minute dance segments consisting of FunkBlitz and BollyBlitz. FunkBlitz incorporates hip hop, street and funk dance, while BollyBlitz infuses bhangra-inspired moves with hip hop. Come learn the hot steps with this programme.
 
 
-###### AWDO 2010 Road Shows
+**AWDO 2010 Road Shows**<br>
 
 **Amore Fitness Outlets**
 <br>
@@ -136,7 +136,8 @@ _For enquiries on AWDO 2010, the public can call 6296 4079._
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 **AsiaPRWerkz**
 <br>
