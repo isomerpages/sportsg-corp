@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **The Curtain Closes on the Best ASEAN Para Games Ever!**
+
 Following seven days of intense competition involving more than 2,500 athletes and officials from around the region, Singapore officially signed off on the 8th ASEAN Para Games 2015 with a rousing celebration for invited guests, athletes and officials.
 
 In its 8th edition, the ASEAN Para Games was hosted by Singapore for the very first time, and followed the successful conclusion of the 28th Southeast Asian Games in June 2015. Over the past week, spectators, athletes and officials all over the region witnessed an extraordinary competition, with inspiring displays of grit, determination and tenacity.
@@ -27,10 +28,10 @@ As we head towards 2020, lets us all work hard to empower our sports. Already, w
 
 Ms Grace Fu handed the flag to Dato’ M. Saravanan, Deputy Youth and Sports Minister of the next host nation Malaysia. The Games was declared closed by Singapore’s Prime Minister Lee Hsien Loong.
 
-**About the 8th ASEAN Para Games**
-<br>
-The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
+---
 
+**About the 8th ASEAN Para Games**<br>
+The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
 
 Facebook: ASEANParaGames2015<br>
 Twitter & Instagram: @APG_2015<br>
