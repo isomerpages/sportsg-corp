@@ -31,12 +31,11 @@ Click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20a
 * [Click here to download the pdf version of Presentation - Dr Ong Wee Sian](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Dr20Ong20Wee20Sian2020Health20Issues20of20Female20Athletes.pdf)
 * [Click here to download the pdf version of Presentation - Dr Raymond So](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Dr20Raymond20So2020H.pdf)
 * [Click here to download the pdf version of Presentation - Ms Maki Shibasaki](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Ms20Maki20Shibasaki2020Nutrition20.pdf)
-* Click here to download the pdf version of Presentation - Dr Peter Usher
+* [Click here to download the pdf version of Presentation - Dr Peter Usher](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Dr20Peter20Usher.pdf)
 * [Click here to download the pdf version of Presentation - Prof Hong Ping](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Prof20Hongping.pdf)
-* Click here to download the pdf version of Presentation - Mr Shaunak Ahuja
+* [Click here to download the pdf version of Presentation - Mr Shaunak Ahuja](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202013/Shaunak20Ahuja.pdf)
 
-Disclaimer
-----------
+**Disclaimer**
 
 Please note that the presentation slides are for your personal reference only. The presenters named above own the rights to the slides and have requested that no part of these slides may be reproduced or copied for any commercial purposes.
 
