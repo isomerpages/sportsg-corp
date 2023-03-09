@@ -6,8 +6,6 @@ third_nav_title: Covid 19
 ---
 Sport Singapore is delighted to announce that we will extend ONE (1) year membership for all members with the National Registry of Coaches, as well as waive off the following fees for eligible# SwimSafer / Life Saving coaches/ instructors.
 
-
-
 | S/N | Description | Cost per person (S$) |
 | -------- | -------- | -------- |
 | 1 | One year swimming pool usage permit fee waiver to SwimSafer coaches / instructors (valid from date of renewal)  | 125     |
@@ -36,3 +34,12 @@ Since SportSync’s launch in 2018, it includes features such as e-card and upda
 Singapore Resuscitation First Aid Council (SRFAC) have announced resumption of training for learners while abiding by the nation-wide general guidelines by for workplaces by Ministry of Manpower. For the latest update, please visit [www.srfac.sg/news/](https://srfac.sg/news/)
 
 In view of safety considerations, coaches who did not renew their Standard First Aid within the acceptable time period are not allowed to renew their membership with the NROC. For enquiries on first aid training, you may also contact SRFAC directly at [www.srfac.sg](http://www.srfac.sg/).
+
+**4. Are there any changes to the Continuing Coaching Education (CCE) requirements for renewal?**
+
+The Continuing Coach Education requirements for renewal of membership would remain unchanged for now. We are working on designing and developing the necessary online (Internet-based) infrastructure and programmes that you may utilise to deliver your coaching practice virtually. You may now also use coaching education hours in place of coaching practice (up to 50% of the required hours). E.g., if you only manage to perform coaching practice for 10 hours as a Coach and foresee you have difficulty completing another 5 hours, you may seek relevant online learning to use as coaching education to fulfil the remaining 5 hours. Please ensure that you can obtain endorsement for completion of the online learning, or please pen down a Reflection (download example templates [here](http://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/Coaching-Learning-Resources/Reflection-Template-1.docx?la=en&hash=CA5D0CB4598D7346171171EA9136258DF40B976F&hash=CA5D0CB4598D7346171171EA9136258DF40B976F) and [here](http://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/Coaching-Learning-Resources/Reflection-Template-2.docx?la=en&hash=838FB2CC2570F211D9847CB3739B2D714936DDA4&hash=838FB2CC2570F211D9847CB3739B2D714936DDA4)) to record your learning. You can also refer to the list of resources at Q8 for other options on learning and development.
+
+Please obtain email endorsements from your CCE training coordinators or providers (for coaching education hours) and employers (for coaching practice hours) and attach them online as evidence of completion.  
+  
+For guidance on accessing e-card on [SportSync](http://www.sportsync.sg/), please click [here](/files/Support/Coaches'%20Corner/Covid%2019/SwimSafer%20%20%20Life%20Saving/How_to_access_e-card_1.pdf)
+For guidance on updating of Continuing Coach Education records on [SportSync](http://www.sportsync.sg/), please click [here](/files/Support/Coaches'%20Corner/Covid%2019/SwimSafer%20%20%20Life%20Saving/How_to_access_e-Logbook_1.pdf)
