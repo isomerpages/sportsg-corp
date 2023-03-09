@@ -64,3 +64,7 @@ We believe that sport is not just about technical ability and skill, but rather,
 | Perseverance | Resilience | Respect |
 | -------- | -------- | -------- |
 | Alan Koh Swee Wan (Athletics) <br>Associate Prof. Aymeric Lim (Tennis)<br> Canagasabai Kunalan (Athletics) Gary Yeo (Athletics) <br>Grace Young-Diao (Bowling) Jane Lee (Mountaineering) <br>Jing Junhong (Table Tennis) Jovin Tan (Para Sailing) <br>Khatijah Surattee (Shooting) <br>Kristen Tan (Triathlon) <br>Laurentia Tan (Para Equestrian)<br> Lim Heem Wei (Gymnastics) <br>Richard Tan (Motor Sports) Shamsul Maidin (Football)  | Adrian Mok (Triathlon)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Kristen Tan (Triathlon)<br>Melanie Ann Martens (Hockey)<br>Yip Pin Xiu (Para Swimming) | Kadir Yahaya (Football)<br>Melanie Ann Martens (Hockey)<br>Tao Yi Jun (Wushu)<br>Yip Pin Xiu (Para Swimming)|
+
+| Responsibility | Sportmanship | Teamwork |
+| -------- | -------- | -------- |
+|  Canagasabai Kunalan (Athletics)<br>Jing Junhong (Table Tennis)<br>Jovin Tan (Para Sailing)  | DP Tharman Shanmurgaratnam (Hockey)<br>Shamsul Maidin (Football)<br>Tao Yi Jun (Wushu) | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Jane Lee (Mountaineering)<br>Laurentia Tan (Para Equestrian)<br>Mathavan Devadas (Hockey)<br>Melanie Ann Martens (Hockey)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing)<br>Tao Yi Jun (Wushu) |
