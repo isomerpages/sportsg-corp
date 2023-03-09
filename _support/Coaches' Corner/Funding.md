@@ -4,7 +4,6 @@ permalink: /support-resources/coaches-corner/funding/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-![](/images/Support/Coache's%20Corner/Lai%20Han%20Seng%20Actionsmall.jpeg)
 We provide funding opportunities for the development of coach education programmes by the National Sports Associations (NSAs) and continuing coach education pursuits by individual coaches.
 
 #### **[Coach Development Grant](/coaches-corner/funding/coach-development-grant/)**
