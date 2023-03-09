@@ -38,5 +38,7 @@ The tennis clinic gave these SportCares youth an opportunity to learn from some 
 
 Commenting on the tennis clinic, Bethanie Mattek-Sands said: “It was such a pleasure meeting the girls from SportCares. I was impressed by their willingness to learn and improve as well as by their undeniable love for the game. I believe that if they work hard and continue training, they will definitely excel. I look forward to their success.”
 
-#### **About SportCares**
+---
+
+**About SportCares**<br>
 The SportCares Foundation and Movement was set up in late 2012 to help people live better lives through sport. From underprivileged children to people of all ages with disabilities to enthusiastic volunteers to needy seniors to generous donors, sport can be a channel to empower people to live better. Designed to use sport as a force for social good, SportCares works with other concerned agencies to develop and support sustainable, scalable programming to engage the vulnerable segments of our society. SportCares is a key recommendation of Sport Singapore’s (SportSG) Vision 2030: Live Better through Sport master plan.
