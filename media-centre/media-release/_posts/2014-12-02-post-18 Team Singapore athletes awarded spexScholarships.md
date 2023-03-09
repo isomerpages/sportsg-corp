@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **18 Team Singapore athletes awarded spexScholarships**
+
 18 Team Singapore athletes were unveiled today as new Sports Excellence Scholars (spexScholars) at the spexScholarship Awards Presentation Ceremony graced by Minister for Culture, Community and Youth, Mr Lawrence Wong.
 
 2\. The spexScholarship was launched in 2013 offering enhanced support to highly talented Singaporean athletes with the potential to medal at Asian, World and / or Olympic levels with 61 scholars coming on board the programme last year.
@@ -26,12 +27,17 @@ image: ""
 ----
 
 **Annexes:**
-<br>Annex A: [spexScholars 2014](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20spexScholars%202014.pdf)
-<br>Annex B: [Update on spexScholars 2013](/files/Media%20Centre/Media%20Release/2014/December/Annex%20B%20%20Updated%20List%20of%20spexScholars%202013.pdf)
 
-**For media enquiries, please contact:**  
+Annex A: [spexScholars 2014](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20spexScholars%202014.pdf)
+
+Annex B: [Update on spexScholars 2013](/files/Media%20Centre/Media%20Release/2014/December/Annex%20B%20%20Updated%20List%20of%20spexScholars%202013.pdf)
+
+---
+
+**For media enquiries, please contact:**
+<br>
 Eric Ong<br>
 Public Relations, Sport Singapore<br>
 Tel: +65 6500 5014<br>
 HP: +65 9764 4964<br>
-Email:[eric\_ong@sport.gov.sg](mailto:eric_ong@sport.gov.sg)
+Email: [eric_ong@sport.gov.sg](mailto:eric_ong@sport.gov.sg)
