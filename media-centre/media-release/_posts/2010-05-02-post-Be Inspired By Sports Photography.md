@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Be Inspired By Sports Photography**
 
-Four-month Long Exhibition Across Singapore Aims To Bring The Drama Of Sports Photography To The Heartlands
+_Four-month Long Exhibition Across Singapore Aims To Bring The Drama Of Sports Photography To The Heartlands_
 
 **Sunday 2 May 2010** - The Singapore Sports Council (SSC) has launched the Inspiring Sporting Singapore Photography Exhibition in support of the Singapore 2010 Youth Olympic Games (YOG). Declared open at the Sengkang Sports and Recreation Centre, one of the venues of the exhibition this morning by Mr Charles Chong, Chairman, Government Parliamentary Committee for National Development and Environment and Member of Parliament for Pasir Ris-Punggol GRC, the exhibition aims to reach out to members of the public who visit the SSC's Sports and Recreation Centres (SRCs) and the NLB's Public Libraries, and will culminate in a showcase of Singapore's young athletes who will be participating in the YOG.
 
@@ -22,7 +22,9 @@ Four-month Long Exhibition Across Singapore Aims To Bring The Drama Of Sports Ph
 
 6. "It allows me to capture the indomitable human spirit as they aim for triumph, but more importantly, it gives me a chance to be able to share it with others in the hope that they in turn would be similarly inspired," added Mr Heng.
 
-Annex 1 - List of SSC SRCs and NLB's Public Libraries where the Inspiring Sporting Singapore Photography Exhibition will be held in Phase 1
+---
+
+**Annex 1 - List of SSC SRCs and NLB's Public Libraries where the Inspiring Sporting Singapore Photography Exhibition will be held in Phase 1**<br>
 
 | SRCs | NLB Public Libraries |
 | --- | --- |
