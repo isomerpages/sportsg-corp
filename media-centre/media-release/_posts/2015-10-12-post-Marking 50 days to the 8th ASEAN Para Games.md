@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Community Engagement Initiatives Intensify Marking 50 days to the 8th ASEAN Para Games**
+
 _Opportunities available for the community to come together as One Team Singapore_  
   
 **Singapore, 12 October 2015** – The Singapore ASEAN Para Games Organising Committee (SAPGOC) today revealed the different community initiatives to involve and excite Singaporeans in the lead up to the Games, build affinity for our Team Singapore athletes, while at the same time, gain insights into this specialised domain of sport.  
@@ -15,7 +16,7 @@ Marking the 50-day countdown to the Games, the community can expect to see a ram
 
 Minister for Culture, Community and Youth Grace Fu said, “In about 50 days, Singapore will host the ASEAN Para Games for the first time. This is an extraordinary opportunity for all of us to experience the power of disability sport. Our athletes are training hard and ready to fly the Singapore flag high. Let’s all come together to support and celebrate our athletes as One Team Singapore!”
 
-##### **"Unbreakable"music video**  
+**"Unbreakable"music video**  
   
 The “Unbreakable” music video aims to highlight the intensive trainings that our Team Singapore athletes have to go through as well as the mental and physical rigours required of their respective sports. The video also serves to tell the story that our athletes are “unbreakable” with our support and can overcome the odds in their pursuit of glory for the nation.  
   
@@ -23,7 +24,7 @@ The video features Team Singapore athletes who have displayed the unbreakable sp
   
 The music video will premiere on 13 October 2015 and will be available on SAPGOC social media platforms.  
   
-##### **“Get RED-Y!”**  
+**“Get RED-Y!”**  
   
 To drum up excitement around the nation, SAPGOC will be embarking on a “Get RED-Y!” movement to build affinity and garner support for our athletes. 
 
@@ -35,7 +36,7 @@ Mr Toh Boon Yi, Chief, Corporate and Community Outreach, SAPGOC, added, “Our T
   
 Says Team Singapore swimmer Yip Pin Xiu, “It is a great feeling, knowing that we have the community cheering us on come December. An enthusiastic home crowd will definitely spur us to push our limits and to do Singapore proud.”  
   
-##### **Gift-a-NILA**
+**Gift-a-NILA**
 
 The Gift-A-NILA initiative provides the community with an opportunity to contribute to the Games in a meaningful way by sewing and decorating heart-shaped mini cushions which will then be eventually stitched on to NILA plush toys.
 
