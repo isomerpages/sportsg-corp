@@ -26,8 +26,7 @@ SSC's Chief Executive Officer, Mr Oon Jin Teik commented: "The CRA has indeed be
 
 ---
 
-###### Enclosures
-
+**Enclosures**<br>
 Welcome Address by Mr Alex Chan, Chairman of Singapore Sports Council<br>
 Speech by Mr Teo Ser Luck, Parliamentary Secretary, Ministry of Community Development, Youth and Sports<br>
 [Annex 1: CRA2007 winners](/files/Media%20Centre/Media%20Release/2007/September/Annex2012020CRA200720Awardees.pdf)<br>
