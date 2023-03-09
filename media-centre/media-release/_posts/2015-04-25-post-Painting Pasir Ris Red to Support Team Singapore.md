@@ -9,7 +9,7 @@ image: ""
 ### **Painting Pasir Ris Red to Support Team Singapore**
 _Pasir Ris is first heartland estate to get dressed, as Singapore Gets Ready to welcome the 28th Southeast Asian Games_
 
-**Singapore, 25 April 2015**– In support of Singapore athletes' quest for success at the 28th Southeast Asian (SEA) Games, our housing estates will be decked up in red – the traditional colour that befittingly expresses every Singaporean’s national pride.
+**Singapore, 25 April 2015** – In support of Singapore athletes' quest for success at the 28th Southeast Asian (SEA) Games, our housing estates will be decked up in red – the traditional colour that befittingly expresses every Singaporean’s national pride.
 
 2\. Entitled “Paint the Town Red”, this movement will see housing estates and nearby community spaces dressed in the red of Team Singapore – from the blocks of flats, to the lamp posts to even the public transport vehicles that traverse the area. It will also include banners and posters of athletes who are living in the respective neighbourhoods and well-wishing boards. The movement calls for every Singaporean to adopt the colour red as part of One Team Singapore.
 
@@ -21,7 +21,7 @@ _Pasir Ris is first heartland estate to get dressed, as Singapore Gets Ready to 
 
 6\. Calvin Kang said, “It is an amazing feeling to see the neighbourhood that I have grown up in decked out in support of Team Singapore athletes and the 28th SEA Games. The country is rallying together for the Games of a lifetime, and I’m thankful to be a part of it, both as an athlete and a fan.”
 
-##### **City dress up from mid-May**
+**City dress up from mid-May**
 
 7\. Moving beyond the housing estates and into the city districts, members of the public will witness Singapore’s transformation as it brings to life the excitement and celebration of the 28th SEA Games with a dash of colour.
 
