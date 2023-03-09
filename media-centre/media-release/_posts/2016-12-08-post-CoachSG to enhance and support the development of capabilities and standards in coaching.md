@@ -31,7 +31,8 @@ Said Justin Teh, President of the Sports Coaches Association of Singapore, “Th
 
 ---
 
-**Annex A**: About CoachSG<br>
+**Annex A**: About CoachSG
+
 CoachSG will provide all coaches in Singapore with programmes through which they can support their professional development throughout every stage of their coaching career. It will also strive to raise the profile of coaching as a profession and to guide the development of the coaching industry in Singapore, working with various stakeholders to ensure quality assurance and consistent employment policies and standards across the industry.  
 
 CoachSG efforts will focus on three main areas:  
@@ -40,9 +41,10 @@ CoachSG efforts will focus on three main areas:
 2\. Character & Leadership Development for sport coaches - to foster character development, values education and leadership development through sport; and<br>
 3\. Coach Industry Development - to guide the quality assurance and competency standards, oversee employment policies and identify industry needs.  
   
-For more information on CoachSG, please go to www.sportsingapore.gov.sg/CoachSG  
+For more information on CoachSG, please go to [CoachSG](http://www.sportsingapore.gov.sg/CoachSG).
   
-**Annex B**: About National Registry of Coaches (NROC)<br>
+**Annex B**: About National Registry of Coaches (NROC)
+
 The National Registry of Coaches (NROC) was created in 2004 to raise the standard and professionalism of sports coaching in Singapore. It serves to ensure minimum technical qualification of sport coaches, to ensure that practicing coaches continue to improve and that coaches provide a safe environment for their athletes. Today, there are over 2,000 coaches listed in 37 sports in the NROC and their profiles are made available in an online public database. 
 
 Coaches in the NROC are duly certified under the Singapore Coach Excellence (SG-Coach) Programme (formerly known as the National Coaching Accreditation Programme or NCAP) in their respective sports and must hold Standard First Aid certification (including AED). They are committed to abide by the Coach’s Code of Ethics and meet the requirements for Continuing Coach Education Programme.
@@ -53,4 +55,4 @@ Over a 3-year provisional membership period, they will be given priority enrolme
   
 The second enhancement of the NROC is in the review of the sequence of courses within the SG-Coach Framework. Coaches will now be able to enroll in required certification courses based on course availability and their interests rather than a prescribed, sequential order.  
   
-For more information on NROC, please go to [https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches)
+For more information on NROC, please go to [National Registry of Coaches](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches)
