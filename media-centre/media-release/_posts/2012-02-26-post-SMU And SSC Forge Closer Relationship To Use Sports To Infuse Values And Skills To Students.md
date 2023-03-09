@@ -15,19 +15,19 @@ _MOU Paves Way for First Sports Elective by SMU and a Lifeskills Centre_
 	
 **Singapore, 26 Feb 2012** - Singapore Management University (SMU) and Singapore Sports Council (SSC) have inked a Memorandum of Understanding (MOU) to create a framework for collaboration to promote sport and explore possibilities of working together in sport-related initiatives.
 
-2. An exciting new development in the pipeline as part of the MOU will be the launch of new sports electives, such as Sports Coaching, to provide SMU students the relevant knowledge and skills to prepare them for the sports industry in the future. The first SMU sports elective, titled "Principles of Coaching in Sports" will commence classes in August 2012. The content of this elective is jointly developed by SSC and SMU.
+2\. An exciting new development in the pipeline as part of the MOU will be the launch of new sports electives, such as Sports Coaching, to provide SMU students the relevant knowledge and skills to prepare them for the sports industry in the future. The first SMU sports elective, titled "Principles of Coaching in Sports" will commence classes in August 2012. The content of this elective is jointly developed by SSC and SMU.
 
-3. SMU President, Professor Arnoud De Meyer said, "We are delighted to cement what has been, to-date, an informal and ad hoc relationship with SSC. It is therefore fitting that our first sports elective is co-developed with SSC. We see a lot of synergy between Vision 2030 and SMU's holistic model of education. Our goals go beyond winning medals and scoring high grades. We both aim to nurture values and address the larger community's genuine concern, which is to be ready with skills and knowledge to face future challenges."
+3\. SMU President, Professor Arnoud De Meyer said, "We are delighted to cement what has been, to-date, an informal and ad hoc relationship with SSC. It is therefore fitting that our first sports elective is co-developed with SSC. We see a lot of synergy between Vision 2030 and SMU's holistic model of education. Our goals go beyond winning medals and scoring high grades. We both aim to nurture values and address the larger community's genuine concern, which is to be ready with skills and knowledge to face future challenges."
 
-4. Under this partnership, a new Lifeskills Centre will also be established. It will develop courses that will provide practical lessons in not just sports-related skills, but also in character-building and community spirit development.
+4\. Under this partnership, a new Lifeskills Centre will also be established. It will develop courses that will provide practical lessons in not just sports-related skills, but also in character-building and community spirit development.
 
-5. Commenting on the partnership, Mr Lim Teck Yin, Chief Executive Officer, SSC said, "The Singapore Sports Council is delighted to collaborate with the Singapore Management University. Sport instills a winning spirit; it encourages team work, it builds character and leadership. With Vision 2030, we want to create more opportunities and access for our youth to harness the value of sport. Through the Lifeskills Centre and sports electives, we can give our youth a competitive edge as they enter the workforce and better prepare them for the future."
+5\. Commenting on the partnership, Mr Lim Teck Yin, Chief Executive Officer, SSC said, "The Singapore Sports Council is delighted to collaborate with the Singapore Management University. Sport instills a winning spirit; it encourages team work, it builds character and leadership. With Vision 2030, we want to create more opportunities and access for our youth to harness the value of sport. Through the Lifeskills Centre and sports electives, we can give our youth a competitive edge as they enter the workforce and better prepare them for the future."
 
-6. Professor Arnoud De Meyer added, "Currently, SMU's broad-based education already provides SMU students with electives that emphasize SMU?s core values, such as ethics and social responsibility, leadership and team building. SMU Office of Student Life also provides experiential training in skills such as facilitation, conflict resolution, and safety management. This MOU provides the opportunity to develop joint offerings to a higher level to benefit a wider audience."
+6\. Professor Arnoud De Meyer added, "Currently, SMU's broad-based education already provides SMU students with electives that emphasise SMU's core values, such as ethics and social responsibility, leadership and team building. SMU Office of Student Life also provides experiential training in skills such as facilitation, conflict resolution, and safety management. This MOU provides the opportunity to develop joint offerings to a higher level to benefit a wider audience."
 
-7. Other possible areas of collaboration include the co-sharing of facilities and co-organisation of conferences and seminars. In addition, SMU students will have a chance to engage in industrial attachments at SSC and National Sports Associations.
+7\. Other possible areas of collaboration include the co-sharing of facilities and co-organisation of conferences and seminars. In addition, SMU students will have a chance to engage in industrial attachments at SSC and National Sports Associations.
 
-8. Currently, SMU has 40 Sports Clubs, run by its students. To encourage greater participation from the public, SMU has, over the years, made available seven signature sports events in which members of the public can join as participants. These events include SMU Adventure Race, SMU annual soccer competition for girls (Diva La Futbol), SMU-SAVA Dragon Boat Race and Western Circuit Sailing Regatta.
+8\. Currently, SMU has 40 Sports Clubs, run by its students. To encourage greater participation from the public, SMU has, over the years, made available seven signature sports events in which members of the public can join as participants. These events include SMU Adventure Race, SMU annual soccer competition for girls (Diva La Futbol), SMU-SAVA Dragon Boat Race and Western Circuit Sailing Regatta.
 
 ---
 
@@ -59,7 +59,7 @@ Students who have successfully completed the Course will be provided with fundam
 - Functional Anatomy for Coaches
 - Flexibility Training
 <br><br>
-- Training for Endurance / Speed / Strength / Power
+- Training for Endurance/ Speed/ Strength/ Power
 - Athlete Assessment
 - Advanced Recovery
 - Mentor Coaching
