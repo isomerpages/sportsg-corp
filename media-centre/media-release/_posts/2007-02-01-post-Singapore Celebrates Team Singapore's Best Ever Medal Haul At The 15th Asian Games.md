@@ -37,8 +37,7 @@ For more information on Team Singapore athletes' performance at the 15th Asian G
 
 ---
 
-###### Enclosures
-
+**Enclosures**<br>
 [Annex 1: Programme](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex1.pdf)<br>
 [Annex 2: Speech by Mr Teo Chee Hean, Minister for Defence & President of SNOC](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex2.pdf)<br>
 [Annex 3: List of MAP Award Recipients](/files/Media%20Centre/Media%20Release/2007/February/MAPAnnex3.pdf)<br>
