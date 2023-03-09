@@ -60,7 +60,7 @@ Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singap
 <br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Standard Chartered Bank**<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
