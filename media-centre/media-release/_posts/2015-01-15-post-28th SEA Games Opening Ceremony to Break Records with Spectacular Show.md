@@ -56,7 +56,7 @@ _SAF leads the organisation of the ceremonies with support from prominent creati
 
 ---
 
-**Please click [here](/files/Media%20Centre/Media%20Release/2015/January/OCC%20Media%20Briefing%201%20%20Media%20Release%20%20Appendices.pdf) to view the following Appendices:**
+Please click [here](/files/Media%20Centre/Media%20Release/2015/January/OCC%20Media%20Briefing%201%20%20Media%20Release%20%20Appendices.pdf) to view the following Appendices:
 
 1\. Curricula Vitae of Creative team  
 2\. Information on volunteer groups  
