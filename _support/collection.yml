@@ -2,10 +2,6 @@ collections:
   support:
     output: true
     order:
-      - Covid 19/.keep
-      - Covid 19/Covid19 Support.md
-      - Covid 19/For NROC SwimSafer and Life Saving Coaches.md
-      - Covid 19/Home based Learning Toolkit for Coaches.md
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/NROC Sports.md
       - ActiveSG Programme Partnership/Other Sports.md
@@ -25,3 +21,7 @@ collections:
       - Support for Sport Businesses (Grants).md
       - Sports Participation in Singapore.md
       - SportSG ED.md
+      - Covid 19/.keep
+      - Covid 19/Covid19 Support.md
+      - Covid 19/For NROC SwimSafer and Life Saving Coaches.md
+      - Covid 19/Home based Learning Toolkit for Coaches.md
