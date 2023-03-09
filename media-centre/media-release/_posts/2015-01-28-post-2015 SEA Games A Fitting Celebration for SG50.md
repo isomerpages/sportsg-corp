@@ -11,7 +11,7 @@ The 2015 Southeast Asian (SEA) Games will be back in Singapore after 22 years as
 
 2\. “It is our turn to host the SEA Games after 22 years and it will be a key milestone in Singapore’s 50th Anniversary celebrations. This is a special year for all Singaporeans, and SINGSOC will strive to deliver a Games that will bring people together in a fitting and memorable celebration,” said Mr Lim Teck Yin, Chairman of the Singapore SEA Games Organising Committee Executive Committee (SINGSOC EXCO).
 
-##### **Efforts to engage the community to ramp up from March**
+**Efforts to engage the community to ramp up from March**
 
 3\. With the multisport event being a key part of the SG50 celebrations, organisers are making every effort to involve and excite Singaporeans in the lead up to the Games.
 
@@ -25,13 +25,13 @@ The 2015 Southeast Asian (SEA) Games will be back in Singapore after 22 years as
 
 6\. “Engaging everyone and getting them onboard the SEA Games journey is critical to the success of the Games. We will reach out to different segments of the community whether it is through activities organised by us or leveraging on existing community programme. We will offer opportunities for people to feel and be involved in the Games,” added Mr Lim.
 
-##### **Sponsorship target of S$50 million surpassed with 15 new sponsors coming onboard**
+**Sponsorship target of S$50 million surpassed with 15 new sponsors coming onboard**
 
 7\. SINGSOC also announced today that it has surpassed its sponsorship target of S$50 million, with 15 new sponsors coming on board. The new sponsors, spread across various tiers, will bring the total sponsorship secured for the 2015 SEA Games to over S$60 million.
 
 8\. On achieving the sponsorship target set in October 2013, Mr Lim said, “We are happy that the sponsors have stepped up to contribute generously to the Games. This speaks of the value of the Games in reaching out to Singaporeans and the region.”
 
-##### **Accessible events, affordable ticket prices**
+**Accessible events, affordable ticket prices**
 
 9\. As part of a concerted effort to make the Games accessible to all, tickets to the sports competitions have been kept affordable. Fans will enjoy free admission to 18 of the 36 sports. Tickets to the remaining sports competitions are priced from as low as $5, with concession prices made available to students, senior citizens and full-time National Servicemen. There is also a 20% discount off every purchase of four or more tickets, to encourage family and friends to catch the Games in action.
 
@@ -42,6 +42,7 @@ The 2015 Southeast Asian (SEA) Games will be back in Singapore after 22 years as
 ---
 
 **Please click on the link below to view the following Appendices:**
-<br>[1. Appendix A: SEA Games competition schedule](/files/Media%20Centre/Media%20Release/2015/January/Appendix%20A%20SEA%20Games%20competition%20schedule.pdf)
-<br>[2. Appendix B: Information on ticketing](/files/Media%20Centre/Media%20Release/2015/January/Appendix%20B%20%20Information%20on%20ticketing.pdf)
-<br>[3. Appendix C: About the new sponsors](/files/Media%20Centre/Media%20Release/2015/January/Appendix%20C%20%20Information%20on%20new%20sponsors.pdf)
+
+* [Appendix A: SEA Games competition schedule](/files/Media%20Centre/Media%20Release/2015/January/Appendix%20A%20SEA%20Games%20competition%20schedule.pdf)
+* [Appendix B: Information on ticketing](/files/Media%20Centre/Media%20Release/2015/January/Appendix%20B%20%20Information%20on%20ticketing.pdf)
+* [Appendix C: About the new sponsors](/files/Media%20Centre/Media%20Release/2015/January/Appendix%20C%20%20Information%20on%20new%20sponsors.pdf)
