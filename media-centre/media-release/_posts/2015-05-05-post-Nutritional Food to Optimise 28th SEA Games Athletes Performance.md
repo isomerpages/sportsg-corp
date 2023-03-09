@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Nutritional Food to Optimise 28th SEA Games Athletes' Performance**
+
 The 28th Southeast Asian (SEA) Games has finalised the menu of all the dishes that will be given to athletes during their stay in Singapore at the Games Village. The ultimate aim is to ensure that each athlete is able to maximise their potential during trainings and competition during the games.
 
 For two years, the Singapore Southeast Asian Games Organising Committee (SINGSOC), together with the Singapore Sports Institute and a team of industry experts, have worked together to develop a standardised menu. It was designed through extensive discussions between Chefs, Food and Beverage and hospitality personnel from the hotels that will be hosting the athletes during the games. Over 120 recipes were developed for the games and these dishes will be rotated daily at three meal times daily from 24 May to 18 June.
@@ -20,5 +21,3 @@ As a way for the athletes to experience more of Singapore, the menus will also h
 Extreme care was taken to ensure that athletes and volunteers are fed properly both at the respective hotels and at the venues with a high level of service and quality demanded from all involved.  
 
 The standardised menu will be rolled out to all 20 hotels hosting the athletes.
-
-END
