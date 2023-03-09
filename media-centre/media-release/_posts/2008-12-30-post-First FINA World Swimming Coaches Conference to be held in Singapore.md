@@ -26,7 +26,8 @@ The securing of the rights to host the FINA World Swimming Coaches Conference is
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Sheila Rasu
 <br>
@@ -46,10 +47,10 @@ Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
 
 ---
 
-###### About Singapore Swimming Association (SSA)
+**About Singapore Swimming Association (SSA)**<br>
 Formed in 1939, the SSA is the national governing body for aquatics (Swimming, Diving, Water Polo, Synchronised Swimming and Open Water Swimming) in Singapore. It is affiliated with the Federation Internationale de Natation (FINA), the international governing body for aquatics.
 
 The SSA recognises the value of developing an international event calendar to allow Singapore's swimming community to experience performing in front of a home crowd, as well as to demonstrate Singapore?s ability to host world class events of the highest calibre. For more information about SSA, please visit www.swimming.org.sg
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
