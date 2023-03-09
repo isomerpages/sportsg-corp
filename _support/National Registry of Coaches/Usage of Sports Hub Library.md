@@ -4,8 +4,6 @@ permalink: /support-resources/national-registry-of-coaches/usage-of-sports-hub-l
 description: ""
 third_nav_title: National Registry of Coaches
 ---
-
-
 CoachSG has worked with Sports Hub Library to offer NROC coaches facilities for discussions or to work on coaching plans and etc. in their developmental activities.
 
 **About Sports Hub Library**
@@ -47,4 +45,3 @@ For cancellation, please notify Ms Nurashikin – [NurAshikin.Nasir@civica.com.s
 *If multiple booking for a space create a scheduling conflict, priority of use will be to Sports Hub Library partners then, of first come, first serve and space available basis.*
 
 By submitting each booking request, all coaches are in agreement to the **Terms of Use.**
-
