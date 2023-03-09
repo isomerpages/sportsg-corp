@@ -42,6 +42,6 @@ The Sports Festivals in 2016 reached out to over 350,000 people through fun acti
 
 In summary, Mr Lim Teck Yin, Chief Executive Officer, Sport Singapore said, “We want everyone to enjoy an active lifestyle and build shared memories through sport. As GetActive! Singapore becomes an integral part of our National Day celebrations, our natural instincts to play and make friends will enrich the shared experiences that strengthen our sense of togetherness and community in Singapore. We encourage all to be part of GetActive! Singapore, have fun and be proud of our community and country.”
 
-Interested parties can find out more about GetActive! Singapore 2017 in the coming weeks at www.myactivesg.com/getactivesingapore.
+Interested parties can find out more about GetActive! Singapore 2017 in the coming weeks at [GetActive! Singapore](http://www.myactivesg.com/getactivesingapore).
 
 ![](/images/Media%20Centre/Media%20Release/2017/March/Minister%20Grace%20Fu%20trying%20out%20slacklining.jpeg)
