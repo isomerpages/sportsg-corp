@@ -37,7 +37,8 @@ More details of the Standard Chartered Marathon Singapore 2010 will be released 
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Tanty Nazlianah Rosli
 <br>
@@ -61,10 +62,10 @@ Email: [Joanne.Sim@sc.com](mailto:Joanne.Sim@sc.com)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at Singapore Sports Council for more information.
 
-###### About Standard Chartered Bank in Singapore
+**About Standard Chartered Bank**<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,600 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 Standard Chartered has a history of 150 years in Singapore, opening its first branch here in 1859 and in October 1999 was among the first international banks to receive a Qualifying Full Bank (QFB) licence, an endorsement of the Group's long-standing commitment to its businesses in the country.
