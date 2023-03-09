@@ -2,14 +2,14 @@ collections:
   coaches-corner:
     output: true
     order:
+      - Singapore Coach Excellence/.keep
+      - Singapore Coach Excellence/Singapore Coach Excellence (SG Coach)
+        Programme Introduction.md
+      - Singapore Coach Excellence/Foundational and Intermediate Sports Science
+        Courses.md
       - Singapore Coach Excellence/SG Coach Level 1 Theory Programme.md
       - Singapore Coach Excellence/Foundational Intermediate Sports Science
         Course Waivers.md
-      - Singapore Coach Excellence/Foundational and Intermediate Sports Science
-        Courses.md
-      - Singapore Coach Excellence/Singapore Coach Excellence (SG Coach)
-        Programme Introduction.md
-      - Singapore Coach Excellence/.keep
       - Continuing Coach Development/Coaching Learning Resources.md
       - Continuing Coach Development/Continuing Coach Education (CCE).md
       - Continuing Coach Development/.keep
