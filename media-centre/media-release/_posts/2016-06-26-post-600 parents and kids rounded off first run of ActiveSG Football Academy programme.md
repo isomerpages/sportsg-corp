@@ -13,7 +13,7 @@ Since its kick-off on 28 May, a total of 312 children aged six to twelve years o
 
 The next run of the junior programme will begin on 2 July and will span across 10 weeks during the national school term. Training sessions will be held on Saturday and Sunday mornings while an additional session on Wednesday afternoon is an option for participants. Participants are encouraged to attend training sessions at least once a week.
 
-##### **Sessions for new age group**  
+**Sessions for new age group**  
 
 Following the success of the academy’s junior programme, the academy is planning to extend their programme to youths aged 13 to 16 years old. Free trials will be conducted in July and August across the 5 venues for interested participants before the youth programme officially begins in September.  
   
