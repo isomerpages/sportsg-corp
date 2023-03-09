@@ -26,13 +26,17 @@ The 27th SEA Games Myanmar 2013 will be remembered as one of many historic first
 
 ---
 
-**Annexes**
+**Annexes:**
 
-*  [Annex A - About the Multi-Million Dollar Award Programme (MAP)](/files/Media%20Centre/Media%20Release/2014/February/Annex%20A%20%20About%20the%20SNOC%20MAP.pdf)
-*  [Annex B - 27th SEA Games MAP Awards Recipients and Fact Sheet](/files/Media%20Centre/Media%20Release/2014/February/Annex%20B%20%2027th%20SEA%20Games%20MAP%20Awards%20Recipients_Fact%20Sheet.pdf)
-*  [Annex C - Speech by Deputy Prime Minister and President of the Singapore National Olympic Council, Mr Teo Chee Hean]()
+[Annex A - About the Multi-Million Dollar Award Programme (MAP)](/files/Media%20Centre/Media%20Release/2014/February/Annex%20A%20%20About%20the%20SNOC%20MAP.pdf)
 
-**Related Link:** [Speech By Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister For National Security, Minister For Home Affairs And President Of The Singapore National Olympic Council, At The Multi-Million Dollar Award Programme Presentation Ceremony](http://corp-authoring.ssc.gov.sg/?sc_itemid=%7B47DE521D-AE4B-4244-A098-85D3CB57D83B%7D&sc_mode=preview&sc_lang=en)
+[Annex B - 27th SEA Games MAP Awards Recipients and Fact Sheet](/files/Media%20Centre/Media%20Release/2014/February/Annex%20B%20%2027th%20SEA%20Games%20MAP%20Awards%20Recipients_Fact%20Sheet.pdf)
+
+[Annex C - Speech by Deputy Prime Minister and President of the Singapore National Olympic Council, Mr Teo Chee Hean]()
+
+**Related Link:** 
+
+[Speech By Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister For National Security, Minister For Home Affairs And President Of The Singapore National Olympic Council, At The Multi-Million Dollar Award Programme Presentation Ceremony](http://corp-authoring.ssc.gov.sg/?sc_itemid=%7B47DE521D-AE4B-4244-A098-85D3CB57D83B%7D&sc_mode=preview&sc_lang=en)
 
 ---
 
