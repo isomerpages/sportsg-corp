@@ -25,7 +25,7 @@ Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 will enjoy
 
 7\. “The new Ekiden fundraising format and the introduction of the registration roadshows are both key elements of SCMS’ enhanced community engagement in 2014,” said Robb. “Increasing the amount of funds raised for charity has long been a focus for SCMS and we are determined to make significant strides this year. We trust that the Ekiden teams, as well as all other participants, will go the extra mile for charity and use their fundraising as added motivation on race day. We’re also thrilled to be taking our registration roadshows across the island, further reaching out to the running communities to be part of SCMS 2014. This community engagement will also extend beyond registration and we look forward to announcing those exciting details at our official launch on 16 July.”
 
-8\. For all SCMS 2014 registration details please visitwww.marathonsingapore.com.
+8\. For all SCMS 2014 registration details please visit [Standard Chartered Marathon Singapore (SCMS)](http://www.marathonsingapore.com).
 
 **Event Launch Details**
 
