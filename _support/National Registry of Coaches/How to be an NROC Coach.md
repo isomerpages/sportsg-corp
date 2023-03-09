@@ -34,7 +34,7 @@ Over a 3-year provisional membership period, they could be given priority enrolm
 
 Please apply for NROC membership online through [SportSync](https://www.sportsync.sg/) which features coach's profile management, application tracking and online payment services. For answers to Frequently-Asked-Questions, please click [here](https://www.sportsync.sg/App/System/FAQ).
 
-For assistance on how to submit an application, please click [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/How-to-Guides/New-Application.ashx?la=en&hash=8966BE7D25D848236BA7A7524F7B55E484E6AAD9)
+For assistance on how to submit an application, please click [here](/files/What%20We%20%20Do/Coaches’%20Corner/New%20Application.pdf)
 
 For technical assistance, please visit [this page](https://www.sportsync.sg/App/Login/Contact).
 
@@ -42,7 +42,7 @@ All applicants will be notified of the results of applications via email.
 
 Please note that due to a high volume of applications, it may take between 3 to 4 weeks for your application to be processed (this may take longer if your application was found to be incomplete).
 
-For general NROC enquiries, you may email us at [sport\_coaching@sport.gov.sg](mailto:).
+For general NROC enquiries, you may email us at [sport\_coaching@sport.gov.sg](mailto:sport\_coaching@sport.gov.sg).
 
 **Foreign Coaches**
 
