@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **28th SEA Games Cauldron unveiled, marking the one-month Countdown to the Games**
+
 The Singapore Southeast Asian Games Organising Committee (SINGSOC) today provided insights into the 28th SEA Games cauldron, marking the one-month countdown to the Opening Ceremony of the Games.
 
 Designed by a renowned team of Singapore architects, the cauldron is situated at the Waterfront Plaza which will see it close and accessible to the public. As one of the most recognisable and iconic structures of any major sporting event, this also makes it a fitting addition to the scenic Kallang Basin.
@@ -53,5 +54,3 @@ The Torch Relay to lighting the cauldron will involve athletes who have either c
 Says COL Lim, “As one of the highlights of the Opening Ceremony, the 28th SEA Games flame will be transported across the Kallang Basin to the National Stadium. The Games Torch will be brought into the National Stadium by a number of torchbearers, and all spectators will be able to see and cheer on our torchbearers as it makes its way around the stadium.”
 
 “The torchbearers have been selected from a variety of sports to symbolize how sports have grown in both breadth and depth in Singapore. The idea behind the inter-generational pair of athletes is to connote the nurturing and passing down of sporting values from one generation to another,” he added.
-
-END
