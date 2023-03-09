@@ -8,7 +8,7 @@ image: ""
 ---
 ### **SSC's Largest Sports & Recreation Centre Officially Opens in Jurong West**
 
-Singapore, 28 October 2007 - Singapore Sports Council (SSC) officially opens Jurong West Sports & Recreational Centre (JWSRC) today. Providing top-notch facilities, it promotes sports participation and healthy lifestyle. Located at 20 Jurong West Street 93, it also sets a stage for family and community bonding among Jurong residents.
+**Singapore, 28 October 2007** - Singapore Sports Council (SSC) officially opens Jurong West Sports & Recreational Centre (JWSRC) today. Providing top-notch facilities, it promotes sports participation and healthy lifestyle. Located at 20 Jurong West Street 93, it also sets a stage for family and community bonding among Jurong residents.
 
 2. Mr S Iswaran, Minister of State for Trade & Industry and Member of Parliament (MP) for West Coast GRC officially opened the $60 million Jurong West SRC with fellow West Coast GRC MPs, Mr Cedric Foo and Mr Arthur Fong. Occupying 23,759 sqm of build-up space, JWSRC is the largest and latest SSC SRC.
 
