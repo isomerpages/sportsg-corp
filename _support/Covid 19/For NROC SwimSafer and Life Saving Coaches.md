@@ -57,4 +57,6 @@ For guidance on updating of Continuing Coach Education records on [SportSync](h
 
 For the latest updates on the Covid 2019 support, please refer to our [website](/support-resources/covid-19/covid-19-support/) for more information. Should you have any other queries and feedback, please contact us at [SPORT_QSM@sport.gov.sg](mailto:SPORT_QSM@sport.gov.sg) or 1800-344-1177 during office hours (Mon to Fri, 9.00am – 6.00pm).
 
+**6. I need technical assistance on SportSync, what should I do?**
 
+Please check if the Frequently Asked Questions [here](https://www.sportsync.sg/App/System/FAQ) already answers your questions. If not, please get in touch via the [Contact page](https://www.sportsync.sg/App/Login/Contact).
