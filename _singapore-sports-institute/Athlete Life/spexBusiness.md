@@ -35,10 +35,8 @@ Keep up with the latest happenings with our emPower newsletter. Download the PDF
 [Issue 16](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_16.pdf)
 [Issue 17](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexBusiness_eNewsletter_emPOWER_issue_17.pdf)
 
-**Related Articles:**
 
-[spexEntrepreneurship](/spexentrepreneurship/)
-
-[spexBusiness Network Partners](/spexbusiness-network-partners/)
-
-[Athletes Stories](/spexbusiness-athlete-stories/)
+| -------- | -------- | 
+| ![SPEXENTREPRENEURSHIP](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexEntreprenuershipnetwork.jpeg)     | **SPEXENTREPRENEURSHIP**<br>A specialised programme that seeks to nurture Team Singapore Athletes’ entrepreneurial spirit and assist them to start their own business.<br>[Read more](/spexentrepreneurship/)     | 
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SPEXBusiness.jpeg)     | **SPEXBUSINESS NETWORK PARTNERS**<br>An exclusive network of companies committed to providing career opportunities to support Team Singapore Athletes. View opportunities available with our corporate partners.<br>[Read more](/spexbusiness-network-partners/)     | 
+|![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/Khairul_Anwar.jpeg)|**ATHLETE STORIES**<br>Success stories of our athletes emplaced with our spexBusiness Network Partners.[Read more](/spexbusiness-athlete-stories/)
