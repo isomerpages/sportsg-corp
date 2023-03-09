@@ -37,4 +37,4 @@ Cunha said, “It is important for the fraternity to work together to help push 
   
 The ActiveSG Athletics Club is the second of four ActiveSG academies/clubs that were launched in 2016 under the Vision 2030 master plan to encourage more Singaporeans to get active and live better through sport. There are currently a total of more than 120 children enrolled with the club, which runs its programmes at four centres around the island. The club offers an all-rounded kids programmes for children aged 6-12 and a more competitive youth programme for those above the age of 13.  
 
-For more information or/and to join the Athletics Club, please visit [www.myactivesg.com/academy/athletics](https://www.myactivesg.com/academy/athletics).
+For more information or/and to join the Athletics Club, please visit [ActiveSG Athletics Club](https://www.myactivesg.com/academy/athletics).
