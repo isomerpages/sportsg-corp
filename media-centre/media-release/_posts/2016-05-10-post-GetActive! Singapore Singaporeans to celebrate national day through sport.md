@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **GetActive! Singapore: Singaporeans to celebrate national day through sport**
+
 Singaporeans can look forward to a series of sport festivals, community initiatives and competitions under the umbrella of “GetActive! Singapore” in the week leading up to National Day 2016 from 30 July to 7 August. The inaugural national event aims to provide a platform to inspire the Singapore spirit and celebrate our national identity through sport. The activities are designed to promote an active lifestyle through fun, exciting and inclusive sporting activities islandwide.
 
 Explaining the idea of the new annual sporting event leading up to National Day, Mr Lim Teck Yin, Chief Executive Officer, Sport Singapore says, “The 28th SEA Games and the 8th ASEAN Para Games amply demonstrated the power of sport in bringing people together and inspiring pride and celebration as a “tribe” of Singaporeans. We would like to continue to celebrate every year as One Team Singapore. In line with this year’s National Day theme of “Building Our Singapore of Tomorrow”, GetActive! Singapore will provide opportunities for all to have fun, play and compete, and forge shared memories together through sports and physical activities.”
@@ -24,7 +25,7 @@ Says Mr Henry Tan, Executive Director, Singapore Disability Sports Council, “A
 
 Interested participants can register from 3 June 2016.
 
-##### **Sporting fun for children and families: Children and Families Sports Festival**
+**Sporting fun for children and families: Children and Families Sports Festival**
 
 GetActive! Singapore will offer opportunities for children and families including people with disabilities to have fun together at the sport festivals held across the ActiveSG centres island-wide over two weekends.
 
@@ -33,7 +34,7 @@ Held on the weekends of 30-31 July and 6-7 August 2016, the sport festivals will
 Beyond reaching out to families, Sport Singapore will also be working with schools to include elements of sports and games during their National Day celebrations, either at the different ActiveSG centres or within the school premises.
  
 
-##### **Co-creating play: Active Enabler programme**
+**Co-creating play: Active Enabler programme**
 
 Unique to GetActive! Singapore will be a call for creative, sport-focused and lifestyle driven proposals that are co-organised and co-created by the community and corporate partners that will encourage everyone, even those who do not exercise regularly, to develop a sporting habit.
 
@@ -45,7 +46,7 @@ Beyond providing cash outlay, the Active Enabler grant has in-kind components in
 
 Interested applicants can start submitting their proposals from 10 May 2016 till 30 June 2016.
 
-##### **Enabling the community to play through partnerships**
+**Enabling the community to play through partnerships**
 
 GetActive! Singapore has already received valuable support from fellow public agencies. For instance, recognising that public spaces are important in realising the aim of this national initiative, Sport Singapore will be working with the Urban Redevelopment Authority (URA) to ensure that common spaces under the civic district and/or the central business district will be made available for approved activities organised by Corporate Singapore under Active Enabler programme.
 
