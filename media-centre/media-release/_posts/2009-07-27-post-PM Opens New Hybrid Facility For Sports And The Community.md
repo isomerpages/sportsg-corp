@@ -26,7 +26,8 @@ _Sengkang SRC Offers Sports and Recreation Centre and a Community Club, All Unde
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Tanty Nazlianah Rosli
 <br>
@@ -46,5 +47,5 @@ Email: [Rhonda_Koh@ssc.gov.sg](mailto:Rhonda_Koh@ssc.gov.sg)
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
