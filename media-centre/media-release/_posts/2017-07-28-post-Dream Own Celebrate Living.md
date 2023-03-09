@@ -55,4 +55,4 @@ You may be a parent who wants to see your children grow and succeed in life; you
 
 For more information, log on to[www.activehealth.sg](http://www.activehealth.sg/)
 
-\[1\]National University Health System (NUHS) takes over Alexandra Hospital from Sengkang Health from middle of 2018.
+[1]National University Health System (NUHS) takes over Alexandra Hospital from Sengkang Health from middle of 2018.
