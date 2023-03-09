@@ -17,7 +17,7 @@ You may be a parent who wants to see your children grow and succeed in life; you
 
 4\. Harnessing the strengths and expertise of SportSG and key partners, Active Health is designed to educate, motivate and activate individuals to take ownership of their journey to wellbeing by focusing on inculcating positive habits in these four key domains namely, Nutrition, Physical Activity, Screen Time and Sleep.
 
-##### **Strategic Partnerships**
+**Strategic Partnerships**
 
 5\. SportSG is already in conversations with several public, private and people sector organisations to embrace Active Health and the framework for the benefit of the community. In signing the five separate Memorandums of Understanding with Sport Singapore, the following institutions are the first to pen their support for Active Health.
 
@@ -39,7 +39,7 @@ You may be a parent who wants to see your children grow and succeed in life; you
 
 14\. “The MOU affirms NUHS’ commitment to promoting physical activity and exercise as essential components of health and wellness. This is a strategy that is assuming increasing national importance, particularly given our underlying demographic trends and chronic disease burden. The Active Centre promotes exercise as an effective treatment modality for patients to better manage their chronic medical conditions. By establishing exercise as an integral part of standard medical management, we hope to encourage patients to take ownership of their health and wellness - to keep active, stay healthy and lead enriched lives despite their co-morbidities.”, said Associate Professor Khoo See Meng, Clinical Lead of Alexandra Campus Development Team.
 
-##### **Active Health Framework – the ecosystem**
+**Active Health Framework – the ecosystem**
 
 15\. The Active Health framework comprises three critical components, namely Active Health Playbook, Infrastructure and Technology. Active Health playbook is the strategy underpinning the design of Active Health ecosystems and its nationwide implementation with all Active Health partners. 
 
@@ -49,12 +49,10 @@ You may be a parent who wants to see your children grow and succeed in life; you
 
 18\. “The Active Health framework provides us with knowledge, ideas, tools and programmes to celebrate living at every life stage. It is a long-term goal to encourage greater personal ownership of health. However, the strength of this framework lies in the hands of multi agencies coming together to cross share information, ideas and platforms. The big idea is to make it easy for everyone to embark on this fulfilling journey,” added Mr Lim.
 
-##### **Active Health Capsule at Padang**
+**Active Health Capsule at Padang**
 
 19\. To give Singaporeans an idea of how Active Health can benefit them, the Active Health Capsule will be open to public at the Padang as one of the key fixtures of the GetActive! Singapore - a week-long national day celebrations through sport. The capsule will be at the Padang from 29 July to 8 August 2017. The Active Health Capsule will feature activities for individual’s self-awareness and deeper engagement, as well as, tips on how to adopt good health habits in everyday life.
 
 For more information, log on to[www.activehealth.sg](http://www.activehealth.sg/)
-
----
 
 \[1\]National University Health System (NUHS) takes over Alexandra Hospital from Sengkang Health from middle of 2018.
