@@ -17,13 +17,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: LIVE SPORT
-          description: Spearheading a sport lifestyle
+          description: Promoting a sporting lifestyle
           url: /what-we-do/academy-and-clubs/
         - title: LEARN SPORT
           description: Building up coaches & athletes
           url: /support-resources/activesg-programme-partnership/nroc-sports/
         - title: LOVE SPORT
-          description: Developing interests in sport
+          description: Driving interest in sport
           url: /sports-education/history-of-sportsg/introduction/
   - infobar:
       title: Serving Through Sport With Passion And Pride
