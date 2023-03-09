@@ -22,7 +22,7 @@ adidas, in partnership with the Standard Chartered Marathon Singapore (SCMS), to
 
 7\. The SCMS 2014 race pack collection will take place from Thursday, 4th of December to Friday, 5 December between 10am – 9pm and on Saturday, 6 December from 10am – 7pm at the Singapore Expo, Hall 5.
  
-[Please refer to the appendix for a detailed schedule of the SCMS race pack collection.](/files/Media%20Centre/Media%20Release/2014/December/MEDIA%20RELEASE%20adidas%20Gives%20a%20Fresh%20Boost%20to%20Standard%20Chartered%20Marathon.pdf)
+Please refer to the [appendix](/files/Media%20Centre/Media%20Release/2014/December/MEDIA%20RELEASE%20adidas%20Gives%20a%20Fresh%20Boost%20to%20Standard%20Chartered%20Marathon.pdf) for a detailed schedule of the SCMS race pack collection.
 
 ---
 
