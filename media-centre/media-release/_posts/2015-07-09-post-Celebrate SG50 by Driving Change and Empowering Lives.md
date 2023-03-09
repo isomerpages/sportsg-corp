@@ -7,11 +7,15 @@ description: ""
 image: ""
 ---
 ### **Celebrate SG50 by Driving Change and Empowering Lives**
-**_Porsche raises more than SGD140,000 for SportCares through the online auction of the limited edition Porsche 919 Hybrid 1:1 model car._**
+
+**Porsche raises more than SGD140,000 for SportCares through the online auction of the limited edition Porsche 919 Hybrid 1:1 model car.**
+
 ![](/images/Media%20Centre/Media%20Release/2015/July/Full%20sized%20replica.jpeg)
 _Full-sized replica of the Porsche 919 hybrid car auctioned online for more than SGD140,000 (Photo credit: Porsche Asia Pacific)_
+
 ![](/images/Media%20Centre/Media%20Release/2015/July/Lego%20mural%20building%20project.jpeg)
 _SportCares and Porsche celebrate SG50 with the LEGO mural building project (Photo credit: Nora / Sport Singapore, SportCares)_
+
 ![](/images/Media%20Centre/Media%20Release/2015/July/Finishing%20touches.jpeg)
 _SportCares participants put the finishing touches on the LEGO mural of Porsche’s exclusive car for SG50 (Photo credit: Nora / Sport Singapore, SportCares)_
 
@@ -31,25 +35,26 @@ Porsche has partnered with the SportCares Foundation to celebrate SG50 by giving
 
 8\. In addition, courtesy of the Porsche Club Singapore members, 50 volunteers from SportCares will also get the chance to be driven around in the members’ Porsche cars, starting from Suntec City to various locations in central Singapore.
 
-For more information on SportCares, visit: [https://www.sportsingapore.gov.sg/what-we-do/sportcares/](/what-we-do/sportcares/).  
-SportCares Facebook: [https://www.facebook.com/SportCaresSG](https://www.facebook.com/SportCaresSG)  
-SportCares Instagram: [https://instagram.com/sportcares/](https://instagram.com/sportcares/)
+For more information on SportCares, visit: [https://www.sportsingapore.gov.sg/what-we-do/sportcares/](/what-we-do/sportcares/).<br>
+SportCares Facebook: [https://www.facebook.com/SportCaresSG](https://www.facebook.com/SportCaresSG)<br>
+SportCares Instagram: [https://instagram.com/sportcares/](https://instagram.com/sportcares/)
 
-END
+---
 
-**For media queries, please contact:**
-
-Sport Singapore  
-Jonathan Leow  
-Manager, Public Relations  
-[Jonathan\_leow@sport.gov.sg](mailto:Jonathan_leow@sport.gov.sg)  
+**For media enquiries, please contact:**
+<br>
+**Sport Singapore**<br>
+Jonathan Leow<br>
+Manager, Public Relations<br>
+[Jonathan\_leow@sport.gov.sg](mailto:Jonathan_leow@sport.gov.sg)<br>
 Tel: +65 9753 8065
 
-Hill+Knowlton Strategies  
-Lin Kuek  
-[lin.kuek@hkstrategies.com](mailto:lin.kuek@hkstrategies.com)   
+**Hill+Knowlton Strategies**<br>
+Lin Kuek<br>
+[lin.kuek@hkstrategies.com](mailto:lin.kuek@hkstrategies.com)<br>
 Tel: +65 6390 3363 | +65 9336 5080
 
-#### **About SportCares**
+---
 
+**About SportCares**<br>
 The SportCares Foundation and Movement was set up in late 2012 to help people live better lives through sport. From underprivileged children to people of all ages with disabilities to enthusiastic volunteers to needy seniors to generous donors, sport can be a channel to empower people to live better. Designed to use sport as a force for social good, SportCares will work with other concerned agencies to develop and support sustainable, scalable programming to engage the vulnerable segments of our society. SportCares is a key recommendation of Sport Singapore’s (SportSG) Vision 2030: Live Better through Sport master plan.
