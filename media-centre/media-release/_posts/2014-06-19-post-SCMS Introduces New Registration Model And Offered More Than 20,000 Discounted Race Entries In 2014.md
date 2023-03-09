@@ -34,7 +34,10 @@ Date: Wednesday, 16 July 2014
 Time: 11am
 Venue: ION Orchard (main entrance along Orchard Road)
 
-**Annex A**
+---
+
+**Annex A:**
+
 ![SCMS 2014_Registration Infographic_30 June](/images/Media%20Centre/Media%20Release/2014/June/SCMS%202014_Registration%20Infographic_30%20June.jpeg)
 
 ---
