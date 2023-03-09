@@ -72,6 +72,6 @@ Please [contact us](mailto:hong_xue_en@sport.gov.sg) if you have any questions
 
 [Workshop and Training](/sports-education/sports-leadership/workshop-and-training/)
 
-[Guide](/sports-education/sports-leadership/guide/)
+[Guide](/sport-leadership/game-for-life/guide/)
 
-[Book](/sports-education/sports-leadership/book/)
+[Book](/sport-leadership/game-for-life/book/)
