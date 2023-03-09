@@ -26,7 +26,8 @@ _Organisers Bring High Octane Action To Over 10,000 People As Singapore Gears Up
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Jemuel Fu<br>
 Executive<br>
@@ -43,7 +44,7 @@ Email: [vetriveal@stcassociates.com](mailto:vetriveal@stcassociates.com)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -54,15 +55,15 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About Let's Play
+**About 'Let's Play'**<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg
 
-###### About CS Racing Pte Ltd
+**About CS Racing Pte Ltd**<br>
 CSR was established in 2005 with the vision to develop the motorsport industries in Singapore and regionally. CSR provides professional motorsport related consultancy and delivers effective race management services. CSR was done as CS Autolab prior to 2005. First established in 1996, the company provided race engineering expertise and motorsport consultancy to regional clients as far as China. With more than 15 years of experience in motorsport, the CSR team has conducted defensive, advance, and performance driving courses as well as managed race teams at international level.
 
 CS Racing is the trademark owner of K1 Motorsports Series. K1 was an initiative started in 2007 to promote motorsports to the community through go karting at an affordable level. Since its inception, it has reached out to more than 100,000 residents and covered close to 20 locations all over Singapore.
 
 With the years of industry experience behind us and a network of professional agencies and bodies, CS Racing continues to effectively conceptualise and execute major motorsport events in Singapore and beyond.
 
-###### About Drakar Racing
+**About Drakar Racing**<br>
 Founded by entrepreneurs Jonathan Tay, Raymond Low and Edwin Seah, Drakar Racing Team was set up with the purpose of providing Singaporeans a chance to race in go-karts and grooming potential local talents. Started by Singaporeans for Singaporeans, Drakar Racing was set up last year and has 12 drivers on the team now - the youngest being nine-year-old Jordan Tay and the oldest driver being Rick Chiam who is in his 50s. Serving as a platform for drivers to race, they will be managed properly, including sourcing of sponsorships and data analysis to improve racing techniques. For more information, please visit www.drakarracing.com
