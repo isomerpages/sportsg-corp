@@ -91,3 +91,13 @@ CDG recipients can choose which coach development activities they want to fulfil
 
 When more than 1 CDG recipient collaborate on the same deliverable, each CDG recipient will have to produce part of the deliverable (i.e., if 2 coaches attended the same funded activity and delivers a workshop together, each coach should preferably lead 1 part of the workshop).
 
+
+| Approval Amount, X | Mandatory | Points to fulfil within 6 months post-activity |
+| -------- | -------- | -------- |
+| X ≤ S$1k     | Report     | 10     |
+| S$1k < X ≤ S$3k  | Report     | 30     |
+| X ≤ S$1k     | Report     | 10     |
+| X ≤ S$1k     | Report     | 10     |
+| X ≤ S$1k     | Report     | 10     |
+| X ≤ S$1k     | Report     | 10     |
+
