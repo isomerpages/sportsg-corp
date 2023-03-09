@@ -26,9 +26,12 @@ Rajah & Tann Singapore LLP is the Official Legal Partner of the 28th Southeast A
 
 [Click here for biographies of athletes](/files/Media%20Centre/Media%20Release/2014/October/Annex_Biographies_of_Athletes.pdf)
 
-**Related Link**: [Speech by Mr Toh Boon Yi, , Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
+**Related Link**: [Speech by Mr Toh Boon Yi, Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
 
-**For media queries, please contact:**
+---
+
+**For media enquiries, please contact:**
+<br>
 
 **Catherine Ong Associates Pte Ltd**
 
@@ -57,14 +60,14 @@ Tel: +65 65005217<br>
 Mobile: +65 97293700<br>
 Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
-**About Rajah & Tann Asia**
-<br>
+---
+
+**About Rajah & Tann Asia**<br>
 Rajah & Tann Asia brings together leading law firms and lawyers in Cambodia, China, Indonesia, Lao PDR, Malaysia, Myanmar, Singapore, Thailand and Vietnam, with each offering the highest standards of service to locally-based clients while collectively having the capacity to handle the most complex regional and cross-border transactions and to provide excellent legal counsel seamlessly across the region. With more than 500 lawyers, all working towards one shared goal, we are lawyers who know Asia and who give our clients home advantage.
 
-##### **About the 28th SEA Games**
-
+**About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
-**Follow us on:**  
+Follow us on:<br>
 28th SEA Games Website: www.seagames2015.com <br>
 28th SEA Games Facebook Page: [https://www.facebook.com/SEAGamesSingapore2015/](https://www.facebook.com/SEAGamesSingapore2015/)
