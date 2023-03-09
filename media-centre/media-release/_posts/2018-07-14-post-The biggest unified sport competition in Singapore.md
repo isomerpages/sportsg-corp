@@ -30,7 +30,7 @@ Identifying that more can be done to increase social interaction amongst these v
 
 Dr Christopher Tay, Chief Executive Officer of Association for Persons with Special Needs also shared “Sport is a universal language that can play a key part in celebrating diversity. Despite their differences, our students/trainees and the unified partners are able to unite together as a team to have fun and play sports. This serves as a good opportunity for meaningful interaction and helps to foster understanding amongst the sportsmen.”
 
-##### **Unified sport competitions**
+**Unified sport competitions**
 
 In unified sport competitions, athletes with intellectual disabilities are teamed up with unified partners (who are persons without special needs). A process called “divisioning”, where athletes are assessed for their playing abilities and then placed in a division where the athletes’ skills are similar. This is used to ensure equal and quality participation for the athletes. The presence of unified partners in each team is to encourage and facilitate meaningful gameplay, and penalties will be imposed if partners dominate the game.
 
