@@ -19,13 +19,13 @@ Honouring the occasion, Minister for Culture, Community and Youth Ms Grace Fu sa
 
 Ms Fu also encouraged the NSAs to strengthen their support for athletes. She added, “In this long journey of athlete development, NSAs play a crucial role. I would like to urge NSAs to develop a comprehensive and sustained long-term plan, with clarity of purpose, and put in place a strong professional team to implement the plan.”
 
-##### **spexBusiness & spexEducation**
+**spexBusiness & spexEducation**
 
 Started off with just eight organisations in 2014, the spexBusiness and spexEducation networks have grown to 57 with 19 joining this year. To date, the network has supported more than 200 Team Singapore athletes and 400 student-athletes through the spexBusiness and spexEducation schemes respectively.
 
 As we welcome new partners, we recognised spexBusiness partners who have gone above and beyond to support Team Singapore initiatives. The five organisations that were awarded the accolade of ‘spexBusiness Champions’ are; adidas, Deloitte, Fullerton Health, OSIM and Swissotel the Stamford.
 
-##### **spexScholarship 2018**
+**spexScholarship 2018**
 
 The fifth cohort of Sport Excellence Scholarship (spexScholarship) programme welcomed 17 new scholars with Minister Fu presenting the awards to them. The programme now has 78 scholars across 24 sports. This consists of the new, existing, and 19 more whose scholarships have been renewed.
 
