@@ -47,7 +47,7 @@ Members of the public can also look out for Sports Festivals in their neighbourh
 * Field next to Jurong East MRT (5 – 6 Aug)
 * Field next to Djitsun mall at Ang Mo Kio (5 – 6 Aug)
 
-For more information on the events, log on to [www.myactivesg.com/getactivesingapore](http://www.myactivesg.com/getactivesingapore)/events.
+For more information on the events, log on to [GetActive! Singapore Events](http://www.myactivesg.com/getactivesingapore/events).
 
 **Sports Competitions – National Youth, Corporate & Masters Games**
 
