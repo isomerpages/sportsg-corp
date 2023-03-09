@@ -26,10 +26,10 @@ According to Manu Sawhney, Chief Executive Officer of SSH: “We are excited to 
 
 **For details, please visit:**
 
-* Singapore Open Track and Field Championships: [http://www.singaporeathletics.org.sg/78th-singapore-open-track-field-championships-2016](http://www.singaporeathletics.org.sg/78th-singapore-open-track-field-championships-2016)
-* National Inter-School Track and Field Championships: [[https://nsg.moe.edu.sg/sssc/track-field/index](https://nsg.moe.edu.sg/sssc/track-field/index)] 
-* ActiveSG Athletics Fiesta: [https://www.myactivesg.com/athletics-fiesta](https://www.myactivesg.com/athletics-fiesta)
-* Asia Masters Athletics Championships: [http://www.singaporeathletics.org.sg/amac2016/ ](http://www.singaporeathletics.org.sg/amac2016/ ) 
+* [78th Singapore Open Track and Field Championships](http://www.singaporeathletics.org.sg/78th-singapore-open-track-field-championships-2016)
+* [National Inter-School Track and Field Championships](https://nsg.moe.edu.sg/sssc/track-field/index)
+* [ActiveSG Athletics Fiesta](https://www.myactivesg.com/athletics-fiesta)
+* [Asia Masters Athletics Championships](http://www.singaporeathletics.org.sg/amac2016/ ) 
 
 ---
 
