@@ -102,3 +102,27 @@ For Swimsafer: please email [sport_swimsafer@sport.gov.sg](mailto:sport_swimsaf
 For Usage Permit: please email [sport_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg)
 
 To help us serve you better, please do write in stating your Full Name, Date of Birth, and last 4 digits of your NRIC (e.g., 123Z), along with the details of your request.
+
+##### **Life Saving Usage Permit Holders**
+
+**1\. Who will be eligible for the extension of usage permit?**
+
+All current Life Saving permit holders and with a valid National Registry of Coaches (NROC) provisional membership as of **28 May 2021** will receive a **1-year extension** to your usage permit automatically. For example, if your membership expires on 30 Jun 2021, the new expiry date would be 30 Jun 2022. Any purchase of usage permit after this date is not eligible for the extension.
+
+**2\. What action is required from me?**
+
+Please ensure that you have the following certificates valid at all times and upload them to your account on [www.sportsync.sg](http://www.sportsync.sg/).
+
+a. Valid Standard First Aid (SFA) with CPR & AED Certificate
+<br>
+b. Valid Singapore Lifesaving Society (SLSS) Instructor / Teacher Award Course Certificate
+<br>
+c. Basic Sports Science Certificate
+<br>
+d. National Coaching Accreditation Programme (NCAP) / SG-Coach Theory 1 Certificate
+
+No additional action required on the renewal.
+
+**3. **Who should I write to if I have enquiries on renewal of Life Saving usage permit?****
+
+Please write in to [sport\_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg) for any queries on renewal of life saving usage permit.
