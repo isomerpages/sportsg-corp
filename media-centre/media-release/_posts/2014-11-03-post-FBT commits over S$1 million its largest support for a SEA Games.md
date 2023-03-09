@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **FBT commits S$1.5million - its largest support for a SEA Games**
+
 _FBT also sponsors local NSA, Pétanque and Sports Boules, for four years_
 
 FBT will be the official games uniform partner for the 28th Southeast Asian (SEA) Games in June next year. The apparel will be worn by volunteers, workforce and officials during Games time.
@@ -28,14 +29,15 @@ FBT will be the official games uniform partner for the 28th Southeast Asian (SEA
 ---
 
 **For media enquiries, please contact:**
+<br>
 
 Rachel Ang<br>
 Senior Executive, Public Relations and Strategic Communications, SINGSOC<br>
 Tel: +65 6500 5246<br>
 HP: +65 9729 3700<br>
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
 Gerald Leong<br>
 Executive, Public Relations and Strategic Communications, SINGSOC<br>
 HP: +65 9298 2670<br>
-Email: [gerald\_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)
+Email: [gerald_leong@sport.gov.sg](mailto:gerald_leong@sport.gov.sg)
