@@ -15,13 +15,13 @@ Guest-of-Honour for the launch of the ActiveSG Masters Club at Heartbeat@Bedok w
 
 Ms Fu said, “I’d like to encourage all Singaporeans aged 40 and above to join the ActiveSG Masters Club. There will be many customised sports and programmes for members of all fitness levels and abilities. This is also an opportunity for us to make new friends and widen our social circles. So take that first step towards a more active lifestyle. We can all live better through sport at any age.”
 
-##### **Programmes for all fitness levels**
+**Programmes for all fitness levels**
 
 There are currently many interest groups and programmes under the ActiveSG Masters Club that are available for Masters above the age of 40. These interest groups and programmes offer modified and tailored programmes so newcomers who have not been exercising regularly or have no knowledge on the sport can join in too.
 
 Mr Mike Yoong, Fitness Instructor who conducts ActiveSG programmes for youths, masters and seniors, said “I have come across middle-aged adults who are reluctant to jump into a programme because they feel that they will not be able to keep up with their younger counterparts but yet do not want to join a programme for seniors for the fear of being perceived as one – and they end up choosing not to exercise. The Masters Club will give more people the flexibility to find a programme or sport that is suited for them.”
 
-##### **Value-adding Partnerships**
+**Value-adding Partnerships**
 
 The ActiveSG Masters Club are collaborating with health and community partners to tap on their knowledge and expertise to enhance the sporting experience of the Masters. The club already has more than 20 partners on board.
 
@@ -29,7 +29,7 @@ ActiveSG has been partnering the Singapore Physiotherapy Association (SPA) to ex
 
 Mr Lee Poh Wah, CEO of Lien Foundation, said, “Frailty need not be inevitable in old age. We believe that strength training holds the greatest promise in helping to stave off or even reverse physical frailty. Gym Tonic, which has been specially devised for Masters, aims to do just that.”
 
-##### **Value-adding Opportunities**
+**Value-adding Opportunities**
 
 The ActiveSG Masters Club enriches the lives of their participants by offering them opportunities to learn new skills and volunteer at sport events. Participants can gain leadership and sport technical skills and will assist in the running of the interest groups in the future. They will also help to curate the club’s programmes so as to create a conducive environment to build a strong social network through sport. Voluntary opportunities are aplenty with the club too. Participants can opt to volunteer under Team Nila, SportCares or even as Technical Officials at sport events.
 
