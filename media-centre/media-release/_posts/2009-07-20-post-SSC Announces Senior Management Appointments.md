@@ -67,7 +67,7 @@ David holds a BS in Marketing and did graduate work (Statistics & Marketing) at 
 
 David will report to Kelven Tan, SSC's Chief, Sports Marketing.
 
-##### **Other Management Changes at SSC**
+**Other Management Changes at SSC**<br>
 
 Wayde Clews, SSC's Chief for High Performance will relinquish his role and take up a new role as Chief for Sports Industry Development (from 1 August 2009). Under this new portfolio, Wayde will oversee the development of the sports industry, working with the Economic Development Board, other Singapore government agencies as well as international sports organisations to grow the Singapore sports industry. Key focus areas will include developing Singapore as a high performance training hub, sports events bidding and international relations.
 
@@ -77,7 +77,8 @@ Ng Eng Soon, SSC's Director for NSA Management will relinquish his role and unde
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Alvin Hang
 <br>
@@ -93,5 +94,5 @@ Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 ---
 
-###### About SSC
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. For more information, please visit www.ssc.gov.sg
