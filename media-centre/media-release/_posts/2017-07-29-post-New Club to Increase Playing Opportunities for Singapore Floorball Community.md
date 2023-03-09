@@ -17,7 +17,7 @@ Mr Masagos said, “Floorball has gained tremendous traction in Singapore as it 
 Floorball is a sport that has skyrocketed in popularity over the past few years - there are currently about 15,000 Floorball players in Singapore coming from more than 100 schools and 100 clubs. The inclusive sport can also be modified for People with Disabilities to play and earlier this year, Singapore sent a team  
 to participate in the Special Olympics World Winter Games.
 
-##### **Opening up more venues for Floorball**  
+**Opening up more venues for Floorball**  
 
 As more people take up Floorball, the demand for venues that offer both space and equipment needed to play a match has also increased. As such, the ActiveSG Floorball Club will be reaching out to local schools to encourage them to open up their Dual-Use Scheme indoor sports hall for Floorball usage after school hours and during the weekend.  
    
@@ -25,7 +25,7 @@ Mr Lim Teck Yin, CEO of Sport Singapore said, “Beyond programming, our ActiveS
    
 “There are currently many schools under the Dual-Use scheme that already have the equipment needed to organise a Floorball match. We will be reaching out to these schools to encourage them to open up their indoor sports halls outside of school hours for Floorball teams to train and play there,” he added.  
    
-##### **More programmes and competitions**  
+**More programmes and competitions**  
 
 Additionally, the ActiveSG Floorball Club will be working closely with the Singapore Floorball Association to organise Learn-To-Play programmes as well as competitions that will provide more opportunities for the local Floorball community to play and retain a life-long interest in the sport.   
    
