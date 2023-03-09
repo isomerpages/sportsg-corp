@@ -37,33 +37,33 @@ The affected venues and dates are:
 
 1. Please Give Way to SEA Games vehicles
 
-*   Help our athletes get to the Games on time
-*   Check (website/ app/ social media) for latest in road closures/ diversions during Games time
+* Help our athletes get to the Games on time
+* Check (website/ app/ social media) for latest in road closures/ diversions during Games time
 
 2. Expect delays/ congestions near Games venues during competition time
 
 3. Plan your journey ahead
 
-*   Check (website/ app/ social media) for latest in road closures/ diversions during Games time
+* Check (website/ app/ social media) for latest in road closures/ diversions during Games time
 
 **Guide for the Opening & Closing Ceremonies**
 
 1. Ticket holders are encouraged to come early
 
-*   Enjoy the SEA Games Carnival in the vicinity and have an early dinner before entering the Stadium
-*   Gates will now open an hour earlier at 5pm for the Opening Ceremony
+* Enjoy the SEA Games Carnival in the vicinity and have an early dinner before entering the Stadium
+* Gates will now open an hour earlier at 5pm for the Opening Ceremony
 
 2. Tickets are sold out for the Opening Ceremony
 
-*   If you do not have a ticket, please avoid the area around the Singapore Sports Hub from 3pm onwards
+* If you do not have a ticket, please avoid the area around the Singapore Sports Hub from 3pm onwards
 
 3. Ticket holders are encouraged to take public transport
 
-*   Operations for MRT and buses to the Singapore Sports Hub are not affected
-*   Apart from Stadium station, Kallang and Mountbatten stations are also within walking distance to the National Stadium
-*   The following taxi stands will be in place:
-	* Singapore Indoor Stadium Taxi Stand (Location Code: I28) – Stadium Crescent next to the Singapore Indoor Stadium (opened throughout)  
-	* OCBC Arena Taxi Stand (Location Code: I29) – Stadium Boulevard next to OCBC Arena (closed from 9.30pm till 1am the following day)  
-	* Kallang Wave Mall Taxi Stand (Location Code: I30) – Stadium Place next to OCBC Aquatic Centre and Kallang Wave Mall (closed from 3pm till 1am the following day)
+* Operations for MRT and buses to the Singapore Sports Hub are not affected
+* Apart from Stadium station, Kallang and Mountbatten stations are also within walking distance to the National Stadium
+* The following taxi stands will be in place:
+* Singapore Indoor Stadium Taxi Stand (Location Code: I28) – Stadium Crescent next to the Singapore Indoor Stadium (opened throughout)  
+* OCBC Arena Taxi Stand (Location Code: I29) – Stadium Boulevard next to OCBC Arena (closed from 9.30pm till 1am the following day)  
+* Kallang Wave Mall Taxi Stand (Location Code: I30) – Stadium Place next to OCBC Aquatic Centre and Kallang Wave Mall (closed from 3pm till 1am the following day)
 
 4. Ticket holders are encouraged to enter the National Stadium via the gate nearest to their allocated seats.
