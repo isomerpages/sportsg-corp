@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - National Registry of Coaches/How to be an NROC Coach.md
       - National Registry of Coaches/.keep
       - National Registry of Coaches/NROC Handbook.md
       - National Registry of Coaches/Usage of Sports Hub Library.md
