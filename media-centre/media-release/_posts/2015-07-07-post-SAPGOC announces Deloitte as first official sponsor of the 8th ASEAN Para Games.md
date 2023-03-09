@@ -7,9 +7,10 @@ description: ""
 image: ""
 ---
 ### **SAPGOC announces Deloitte as first official sponsor of the 8th ASEAN Para Games**
+
 The Singapore ASEAN Para Games Organising Committee (SAPGOC) announced today at a ceremony that Deloitte has been appointed the first official sponsor in the role of Official Professional Services Partner for the 8th ASEAN Para Games, which will be held in Singapore from 3 to 9 December 2015.
 
-Deloitte has a wealth of experience in supporting major sporting events such as the London Olympics, the Vancouver Winter Olympics and the inaugural Youth Olympic Games, with the latest being the 28th SEA Games that was held in Singapore in June 2015. Extending its support for local sports by partnering with SAPGOC, Deloitte will help raise the awareness and reinforce the commitment towards advancing disability sports in Singapore. Through this sponsorship, Deloitte will also lend its support and encouragement to youths with disabilities. 
+Deloitte has a wealth of experience in supporting major sporting events such as the London Olympics, the Vancouver Winter Olympics and the inaugural Youth Olympic Games, with the latest being the 28th SEA Games that was held in Singapore in June 2015. Extending its support for local sports by partnering with SAPGOC, Deloitte will help raise the awareness and reinforce the commitment towards advancing disability sports in Singapore. Through this sponsorship, Deloitte will also lend its support and encouragement to youths with disabilities.
 
 For the ASEAN Para Games, Deloitte will be contributing cash, professional service delivery, marketing and creative support and Games volunteers, making it a Tier 1 sponsor and the Official Professional Services Partner of the Games.
 
