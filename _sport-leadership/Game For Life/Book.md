@@ -50,3 +50,7 @@ We believe that sport is not just about technical ability and skill, but rather,
 * As an independent team activity to reinforce the team’s culture and values
 * Click on the links below to access individual stories!
 
+| Commitment | Courage | Determination |
+| -------- | -------- | -------- |
+| Glory Barnabas (Athletics)<br>Jane Lee (Mountaineering)<br>Subhas Anandan (Cuesports)     | Kristen Tan (Triathlon)<br>Richard Tan (Motor Sports)     | Adrian Mok (Triathlon)<br>Gary Yeo (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Laurentia Tan (Para Equestrian)<br>Tan Wearn Haw (Sailing)<br>Yip Pin Xiu (Swimming) |
+
