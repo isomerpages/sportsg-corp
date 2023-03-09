@@ -33,8 +33,7 @@ The book is also available for loan at all public libraries islandwide as well a
 
 ![banner](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Book/GFL_Banner4.gif)
 
-Using the 25 Stories
---------------------
+#### **Using the 25 Stories**
 
 Reflection is known and have been commonly used in sporting teams for coaches to go through performance during trainings and competitions, to allow athletes to better understand errors made during trainings and competitions and on how to improve it. Coaches will evaluate, gather and disseminate feedback and get athletes to reflect on their individual development.  
   
@@ -53,4 +52,3 @@ We believe that sport is not just about technical ability and skill, but rather,
 | Commitment | Courage | Determination |
 | -------- | -------- | -------- |
 | Glory Barnabas (Athletics)<br>Jane Lee (Mountaineering)<br>Subhas Anandan (Cuesports)     | Kristen Tan (Triathlon)<br>Richard Tan (Motor Sports)     | Adrian Mok (Triathlon)<br>Gary Yeo (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Laurentia Tan (Para Equestrian)<br>Tan Wearn Haw (Sailing)<br>Yip Pin Xiu (Swimming) |
-
