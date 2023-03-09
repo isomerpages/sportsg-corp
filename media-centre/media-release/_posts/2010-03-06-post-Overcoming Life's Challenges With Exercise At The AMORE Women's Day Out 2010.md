@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Overcoming Life's Challenges With Exercise At The AMORE Women's Day Out 2010**
+### **Overcoming Life's Challenges With Exercise At The AMORE Women's Day Out 2010**
 
 **Singapore, 6 March 2010** - Led by Guest-of-Honour Dr Amy Khor, Mayor, South West District and Senior Parliamentary Secretary, Ministry of Environment and Water Resources, 4,000 women from all walks of life, gathered at Ngee Ann City Civic Plaza today to participate in the Amore Women's Day Out (AWDO) 2010 - the country's largest women-only aerobic-based event. This year sees the largest group of women, from all walks of lives, gathering in any single day, since the event was introduced in 2003.
 
