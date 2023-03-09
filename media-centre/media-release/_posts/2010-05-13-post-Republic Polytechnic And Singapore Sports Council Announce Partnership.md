@@ -22,7 +22,8 @@ The MOU is for a period of five years, with the opportunity for the two parties 
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Pandiyan<br>
 Republic Polytechnic<br>
@@ -43,7 +44,7 @@ Email: [letchumi_jaiganth@ssc.gov.sg](mailto:letchumi_jaiganth@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -54,5 +55,5 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About Republic Polytechnic
+**About Republic Polytechnic**<br>
 The first educational institution in Singapore to adopt the Problem-Based Learning approach for all its diploma programmes, Republic Polytechnic (RP) has six schools and one centre offering thirty four courses in Information and Communications Technology, Engineering, Applied Science, Technology for the Arts, Sports, Health & Leisure, Events and Hospitality, and Culture and Communication. Republic Polytechnic is committed to nurturing innovation and entrepreneurial learning in an environment that develops problem-solving process skills and a life-long learning attitude. Its holistic, broad-based curriculum, covering culture, enterprise development and cognitive processes, prepares students for an active and meaningful role in society. Republic Polytechnic strives for excellence by achieving various international and national accreditations, including ISO9001, ISO14001, OHSAS 18001, TR19, People Developer Standards, Singapore Quality Class and Singapore Innovation Class. For more information, visit https://www.rp.edu.sg/
