@@ -31,10 +31,15 @@ Seven new corporate partners, namely Banyan Tree, CapitaLand, Fuji Xerox Singapo
 ---
 
 **Annexes:**
-<br>Annex A: [ Fact Sheet: spexBusiness Network for Athletes, spexBusiness Career Scheme, spexBusiness Advisory](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20Fact%20Sheet%20spexBusiness%20Network%20for%20Athletes.pdf)
-<br>Annex B: [List of Team Singapore athletes who have benefited from the spexCareer Scheme](/files/Media%20Centre/Media%20Release/2014/December/Annex%20B%20%20List%20of%20TS%20athletes%20who%20have%20benefited%20from%20spexCareer%20Scheme.pdf)
 
-**For media enquiries, please contact:**  
+Annex A: [ Fact Sheet: spexBusiness Network for Athletes, spexBusiness Career Scheme, spexBusiness Advisory](/files/Media%20Centre/Media%20Release/2014/December/Annex%20A%20%20Fact%20Sheet%20spexBusiness%20Network%20for%20Athletes.pdf)
+
+Annex B: [List of Team Singapore athletes who have benefited from the spexCareer Scheme](/files/Media%20Centre/Media%20Release/2014/December/Annex%20B%20%20List%20of%20TS%20athletes%20who%20have%20benefited%20from%20spexCareer%20Scheme.pdf)
+
+---
+
+**For media enquiries, please contact:**
+<br>
 Eric Ong<br>
 Public Relations<br>
 Sport Singapore<br>
