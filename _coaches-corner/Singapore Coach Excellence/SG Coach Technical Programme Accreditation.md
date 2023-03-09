@@ -18,3 +18,28 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 *   Level 1 Full Integration – comprises Foundational Sports Science (FSS), SG-Coach Level 1 Theory and SG-Coach Level 1 Technical components
 *   Level 1 Integrated – comprises SG-Coach L1 Theory and SG-Coach L1 Technical components only
 *   Level 1 Technical – comprises SG-Coach L1 Technical component only
+
+Full Integration (1B)  |  &nbsp;            |  &nbsp;     |
+|  Gymnastics – KinderGym                                       |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Hockey – Indoor and Outdoor                                  |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Ice Hockey                                                   |  √                |  &nbsp;                 |  &nbsp;            |  &nbsp;     |
+|  Ice Skating – Figure Skating                                 |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Ice Skating – Short Track Speed Skating                      |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Judo                                                         |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Jump Rope                                                    |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Lawn Bowls                                                   |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Life Saving                                                  |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Netball                                                      |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Pencak Silat                                                 |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Rugby                                                        |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Sailing                                                      |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Sepaktakraw                                                  |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Shooting – Rifle &amp; Pistol                                |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Squash                                                       |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Table Tennis                                                 |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Taekwondo                                                    |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Tennis                                                       |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Triathlon                                                    |  &nbsp;           |  Integrated             |  &nbsp;            |  &nbsp;     |
+|  Volleyball                                                   |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
+|  Weightlifting                                                |  &nbsp;           |  Technical              |  &nbsp;            |  &nbsp;     |
+|  Wrestling                                                    |  &nbsp;           |  Full Integration       |  &nbsp;            |  &nbsp;     |
