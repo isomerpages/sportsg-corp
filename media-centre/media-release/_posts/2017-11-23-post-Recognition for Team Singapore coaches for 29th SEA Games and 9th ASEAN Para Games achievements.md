@@ -29,4 +29,4 @@ image: ""
    
 9. Coach Yeo also paid tribute to the memory of former national bowler and coach Henry Tan – the 1984 and 2010 Coach of the Year. “The late Mr Henry Tan continues to serve as a role model for all of us as he was one coach that did everything for the players and the sport”.   
    
-Please refer to [https://www.myactivesg.com/teamsingapore/read/2017/11/team-singapore](https://www.myactivesg.com/teamsingapore/read/2017/11/team-singapore) coaches-roll-of-honour-2017 for the full list of coaches recognised this evening.
+Please refer to [Team Singapore](https://www.myactivesg.com/teamsingapore/read/2017/11/team-singapore) coaches-roll-of-honour-2017 for the full list of coaches recognised this evening.
