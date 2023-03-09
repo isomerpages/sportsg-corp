@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Get Active! Singapore 2021 encourages everyone to play on, play together, in a creative, fun and safe way**
 
 GetActive! Singapore Workout collaborates with the NDP’s Dance of the Nation to rally Singaporeans from all over the world to join in the celebrations!
