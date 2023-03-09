@@ -57,7 +57,7 @@ The contingent will be issued with a travel essentials kit prepared by Sport Sin
 
 I'm really looking forward to contributing to the success of Team Singapore as a whole.”
 
- **One Team Singapore**
+**One Team Singapore**
 
 SNPC has collaborated closely with Sport Singapore, Singapore Disability Sports Council and many other government agencies and corporate organisations such as Tote Board, in the journey to Solo.
 
