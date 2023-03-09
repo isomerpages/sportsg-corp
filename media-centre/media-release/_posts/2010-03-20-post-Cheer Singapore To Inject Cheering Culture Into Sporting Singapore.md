@@ -26,7 +26,7 @@ image: ""
 
 9. Singaporeans can keep their eyes peeled for the cheer motivators who will be bringing the cheers to the ground through flash mobs that will be happening across Singapore over from 22 April 2010 onwards. Members of the public can also look forward to learning the cheers through series of roadshows that will take place from late April onwards. The cheers will be making its rounds to the various schools, including schools under the Singapore 2010 Youth Olympic Games twinning programme.
 
-##### **1st National Cheerleading Championships**
+**1st National Cheerleading Championships**<br>
 
 10. To kick off Cheer Singapore, the SSC, with the support of the Federation of Cheerleading (Singapore), held the 1st National Cheerleading Championships 2010, which took place at the Singapore Expo today. The competition, which featured cheering and cheerleading categories, saw over 40 teams competing for the titles of Singapore's top cheerleading and cheering team. The 1st National Cheerleading Championships 2010 is presented by Nestle MILO.
 
@@ -34,10 +34,10 @@ image: ""
 
 ---
 
-##### **1st National Cheerleading Championships 2010 Fact Sheet**
+**1st National Cheerleading Championships 2010 Fact Sheet**<br>
 The 1st National Cheerleading Championships is the first event held as part of the Singapore Sports Council's (SSC) new cheer campaign, Cheer Singapore. The event is organised by the SSC, with the support of the Federation of Cheerleading (Singapore). The championships will showcase two categories - cheering and cheerleading.
 
-###### Categories and Participating Teams
+**Categories and Participating Teams**<br>
 
 **a) Cheering Category:**
 
@@ -108,7 +108,7 @@ The 1st National Cheerleading Championships is the first event held as part of t
 7. KR steppers
 8. SP Gusto
 
-###### Prizes
+**Prizes**<br>
 **Cheering Category**
 Primary School Division - $500 each for the top 3 teams
 Secondary School Division - $500 each for the top 3 teams
@@ -123,7 +123,8 @@ All winning teams for both the cheering and cheerleading categories will have a 
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Hazwani Hasni<br>
 Singapore Sports Council<br>
@@ -132,7 +133,7 @@ Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -143,5 +144,6 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About Let's Play
+**About Let's Play**
+<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
