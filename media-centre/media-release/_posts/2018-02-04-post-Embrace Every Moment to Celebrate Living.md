@@ -28,7 +28,8 @@ During this period, the On-boarding group sessions were conducted for people who
 
 “We learnt much from those we engaged during a pilot last year, and enjoyed the process of co-creating the offerings with those participants. We are delighted with the strong interest in health and wellness amongst Singaporeans and we saw that by encouraging and celebrating the progress of those that came forward, they in turn brought others along.  That is in essence what Active Health is about – friends, families and work colleagues enjoying their Active Health journey together because it is interwoven into their lifestyle”, added Mr Lim.
 
-**Active Health at Heartbeat@Bedok**  
+**Active Health at Heartbeat@Bedok**
+
 Officially opened by Prime Minister Lee Hsien Loong on 4 February 2018, Singaporeans will now have another Lab at Heartbeat@Bedok (HBB) to find out more on how to take ownership of their health through this one-of-its-kind proactive space for providing preventive health and exercise advisory.
 
 Spanning across a total of 572sqm, the lab is located on the fourth and fifth floor of the integrated lifestyle hub, with a discovery zone which is located on the first floor of the hub.
@@ -37,7 +38,8 @@ Spanning across a total of 572sqm, the lab is located on the fourth and fifth fl
 
 The **Active Health Lab** is located on the fourth and fifth level of the integrated hub. The Lab will offer on-boarding sessions, functional fitness assessments, themed classes and workshops to help people have a better understanding of how they can take steps to manage their health and wellness.
 
-**Partnerships and Much More**  
+**Partnerships and Much More**
+
 Since our MOU signing with the healthcare partners in July last year, many from the public and private sectors have shown great interest in Active Health. The Labs at OTH and HBB work with the Health Promotion Board on offering Active Health programmes, Changi General Hospital and Exercise is Medicine Singapore on medical referrals and training of Active Health Experts. At HBB, Watsons has come on-board to be part of the Active Health Discovery space.
 
 “We are encouraging an aspirational mind-set around adopting a healthy and active lifestyle with the Active Health framework, and through ActiveSG and our partners. We will also be rolling out an Active Health app where adopters can follow simple and effective testing protocols, access information on the go about their current health parameters and also to get advice on how to invigorate their personal habits in the four domains of Physical Activity, Sleep, Nutrition and Screen Time. It will be a social app that makes it fun to receive feedback and at the same time help us to progress in our journey”, said Mr Lim.
