@@ -32,8 +32,7 @@ The successful consortium is expected to be appointed by end January 2008. Bids 
 
 ---
 
-###### Enclosures
-
+**Enclosures**<br>
 ANNEX A - Singapore Sports Hub Consortium Team List<br>
 ANNEX B - Singapore Sports Hub Project Timeline<br>
 ANNEX C - Singapore Sports Hub Fact Sheet
