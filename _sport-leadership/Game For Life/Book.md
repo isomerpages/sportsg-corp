@@ -68,3 +68,20 @@ We believe that sport is not just about technical ability and skill, but rather,
 | Responsibility | Sportmanship | Teamwork |
 | -------- | -------- | -------- |
 |  Canagasabai Kunalan (Athletics)<br>Jing Junhong (Table Tennis)<br>Jovin Tan (Para Sailing)  | DP Tharman Shanmurgaratnam (Hockey)<br>Shamsul Maidin (Football)<br>Tao Yi Jun (Wushu) | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Jane Lee (Mountaineering)<br>Laurentia Tan (Para Equestrian)<br>Mathavan Devadas (Hockey)<br>Melanie Ann Martens (Hockey)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing)<br>Tao Yi Jun (Wushu) |
+
+---
+
+**Praise for 'GAME FOR LIFE'**
+
+*"Game for Life: 25 Journeys' provides inspiring real life stories of the power of sport for transforming lives. This alone makes it a wonderful read. Moreover, it goes beyond these stories by posing reflective questions that make the reader think about how sport can shape his or her life.*
+  
+*I believe that 'Game for Life: 25 Journeys' is not only a must read for athletes but also for sport parents and coaches. Teachers will also find the book to be a great starting point for young people to discuss what they are experiencing in sport and how these experiences can result in important life lessons. Young people will reap much more from this book if they reflect on its content and engage in discussions about their sport experiences and how those experiences are best interpreted to maximise psychological growth.*
+
+*So, don't just read this book. Reflect on the questions posed and lessons that sport has taught others. Think about what sport is teaching you and discuss it with fellow participants and your coaches."*
+
+**Daniel Gould, PhD.**  
+Professor and Director  
+Institute for the Study of Youth Sports  
+Michigan State University
+
+---
