@@ -35,10 +35,10 @@ Close to 300 Team Singapore athletes and officials gathered at a flag presentati
 
 Please click [here](/files/Media%20Centre/Media%20Release/2014/September/Annex%20A_Flag%20presentation%20for%20Asian%20Games%20and%20Asian%20Para%20Games.pdf) for the following Annexes.
 
-Annex A: Games fact sheet<br>
-Annex B: 2014 Asian Games Contingent List<br>
-Annex C: 2014 Asian Para Games Contingent List<br>
-Annex D: Profiles of Chefs-de-Mission, flag bearers and pledge takers
+* Annex A: Games fact sheet
+* Annex B: 2014 Asian Games Contingent List
+* Annex C: 2014 Asian Para Games Contingent List
+* Annex D: Profiles of Chefs-de-Mission, flag bearers and pledge takers
 
 ---
 
