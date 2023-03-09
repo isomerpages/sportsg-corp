@@ -10,8 +10,8 @@ image: ""
 
 [Download Media Release](/files/Media%20Centre/Media%20Release/2020/November/Play%20inclusive%202020%20copy.pdf)
 
-*   Introduction of virtual play in Play Inclusive 2020
-*   Building a caring, empathetic and resilient nation together
+* _Introduction of virtual play in Play Inclusive 2020_
+* _Building a caring, empathetic and resilient nation together_
 
 On 7 November 2020, over 100 students from mainstream and special education needs schools came together to play and have fun in the finale event of Play Inclusive 2020. Together with 24 participants onsite, Parliamentary Secretary, Ministry of Culture, Community and Youth, Mr Eric Chua kickstarted the blended event (physical and digital) at Toa Payoh ActiveSG Sport Hall. Other participants joined the event via zoom.
 
