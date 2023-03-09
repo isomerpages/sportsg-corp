@@ -9,9 +9,9 @@ image: ""
 ---
 ### **Celebrating 10 Years of Sport as a Force for Good for a More Inclusive Singapore**
 
-* _Empowering positive social changes for over 40,000 beneficiaries across 20 programmes_
-* _Leveraging networks of more than 100 partners to extend outreach efforts_
-* _Anniversary dinner marked the finale to year-long celebrations; saw the launch of_ _HEARTS book by President Halimah Yacob and SportCares Awards presentation_
+* Empowering positive social changes for over 40,000 beneficiaries across 20 programmes
+* Leveraging networks of more than 100 partners to extend outreach efforts
+* Anniversary dinner marked the finale to year-long celebrations; saw the launch of HEARTS book by President Halimah Yacob and SportCares Awards presentation
 
 Over the past decade, SportCares, Sport Singapore’s philanthropic arm has reached more than 40,000 beneficiaries – children and youth-at-risk, isolated seniors and persons with disabilities (PwDs) – through sport. The key reflections and learnings from delivering over 20 programmes to these segments and insights working with at least 100 partners from social service agencies to corporates, have been encapsulated in the SportCares HEARTS book. The resource guide is available online[1] for organisations, corporations and schools that wish to leverage sport for social good.
 
@@ -33,7 +33,7 @@ In 2016, SportCares expanded its target segments beyond at-risk and low-income c
 
 “As part of our Vision 2030 masterplan, Sport Singapore committed to working with communities to reach out and impact lives through positive role modelling and experiences through sport.  We have learned much about how genuine care and relationships forged on the field provide hope and fuel belief in oneself, creating the impetus to emerge stronger and more determined to live better,” said Mr Lim Teck Yin, CEO, Sport Singapore. “These 10 years have shown that sport is a powerful platform to bring positive change in the lives of those in need of a caring heart and hand.  We look forward to building our network of partners to broaden outreach and sensibilities on how we can all pitch in to positively impact lives.”
 
-**-End-**
+---
 
 **Annexes**
 
