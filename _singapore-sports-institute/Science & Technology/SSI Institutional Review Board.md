@@ -8,6 +8,8 @@ third_nav_title: Science & Technology
 
 In accordance with the “Research involving Human Subject: Guidelines for IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004, SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety of human research subjects involved in SSI’s research programmes.
 
+---
+
 ##### **SSI Institutional Review Board (IRB)**
 
 The SSI-IRB is comprised of a Chairperson and 9 members from Sport Singapore (SportSG), as well as external agencies/institutions involved in Sport Science, for a 2-year term. The list of the current SSI-IRB members (commencing October 2021 to 30 September 2023) is shown below:
@@ -107,6 +109,9 @@ Singapore Sport Institute
 Please contact us for any queries:
 [SPORT_SSI_Research@sport.gov.sg](mailto:SPORT_SSI_Research@sport.gov.sg)
 
+---
+
+
 #### **Review Process and Timeline**
 The flowchart below shows the typical process and timeline involved for each application submitted to SSI-IRB. Do note that delays to approval can occur. Some of the common examples causing delay include:
 
@@ -130,6 +135,8 @@ Researcher should be requesting for amendment when there is a change in:
 Please ensure that all revised/new documents are submitted to SSI-IRB with the changes highlighted.
 
 ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Review_Process.png)
+
+---
 
 #### **Forms and Guidelines**
 
@@ -180,6 +187,8 @@ For more information on MOH Guidelines on HBRA, please click [here](https://www
 | 1. SSI-IRB Sharing #1 | 24 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_24_April_2020.pdf)|
 | 2. SSI-IRB Sharing #2 | 14 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_14_Aug_2020.pdf)|
 | 3. SSI-IRB Sharing #3 | 18 June 2020 |cv[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
+
+---
 
 #### **Research Monitoring**
 The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf).
