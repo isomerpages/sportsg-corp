@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **13 Companies In Business Network To Support Career Scheme For Athletes**
+
 _Advisory Panel formed to drive successful implementation of Network_
 
 Six new corporate partners, namely Amore Fitness, Borneo Motors Singapore, DBS Bank, Deloitte Singapore, DHL Supply Chain and Sakae Holdings have joined the Sports Excellence Business (spexBusiness) Network for Athletes today, raising the number to 13 companies since its launch last year.
@@ -33,15 +34,17 @@ Six new corporate partners, namely Amore Fitness, Borneo Motors Singapore, DBS B
 
 ---
 
-**Please click [here](/files/Media%20Centre/Media%20Release/2014/July/Fact%20Sheets%20and%20Bios%20spexCareer%20spexBusiness%20Network%20and%20Panel.pdf) for the following:**
+Please click [here](/files/Media%20Centre/Media%20Release/2014/July/Fact%20Sheets%20and%20Bios%20spexCareer%20spexBusiness%20Network%20and%20Panel.pdf) for the following:
 
 Annex A: Fact Sheet: spexCareer Scheme, spexBusiness Network for Athletes and spexBusiness Advisory Panel<br>
 Annex B: spexCareer Scheme Athlete stories <br>
 Annex C: spexBusiness Advisory Panel Members’ Bios<br>
 Annex D: spexBusiness Advisory Panel Terms of Reference
 
-**For media enquiries, please contact:**
+---
 
+**For media enquiries, please contact:**
+<br>
 Eric Ong<br>
 Public Relations<br>
 Sport Singapore<br>
