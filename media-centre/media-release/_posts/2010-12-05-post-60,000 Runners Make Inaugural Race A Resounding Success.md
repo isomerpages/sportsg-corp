@@ -98,9 +98,9 @@ To find out more, visit our website [www.sportsingapore.gov.sg/](https://www.spo
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join singaporesports.sg on Facebook at: [www.facebook.com/SingaporeSports](https://www.facebook.com/SingaporeSports)
+Join singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Standard Chartered Bank**
 <br>
