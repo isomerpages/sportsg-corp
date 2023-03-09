@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **SportCares Youth Celebrate Volunteerism on Global Youth Service Day**
+
 In conjunction with Global Youth Service Day 2016, Minister for Culture, Community and Youth, Ms Grace Fu, joined some 20 youth from SportCares Foundation (SportCares) and Youth Corps Singapore this morning to help prepare and pack hot meals at the Willing Hearts Soup Kitchen. These meals will be distributed to beneficiaries of Willing Hearts that include the elderly, the disabled and low-income families.  
   
 At the event, Minister reiterated the importance of volunteerism and how it enables a stronger and cohesive society.  
