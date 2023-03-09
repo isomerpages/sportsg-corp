@@ -40,4 +40,4 @@ In 2016, SportCares expanded its target segments beyond at-risk and low-income c
 * [Annex A: Fact Sheet on SportCares and Its Initiatives for the Past 10 Years](/files/Media%20Centre/Media%20Release/2022/November/Annex%20A%20SportCares.pdf)
 * [Annex B: List of Recipients for SportCares Awards 2022](/files/Media%20Centre/Media%20Release/2022/November/Annex%20B%20SportCares.pdf)
 
-[1] A copy of the HEARTS book can be found at: [https://go.gov.sg/sportcares-heartsbook](https://go.gov.sg/sportcares-heartsbook)
+[1] A copy of the HEARTS book can be found at: [SportCares HEARTS book](https://go.gov.sg/sportcares-heartsbook)
