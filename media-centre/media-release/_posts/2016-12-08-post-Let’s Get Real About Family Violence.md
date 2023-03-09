@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Let’s Get Real About Family Violence**
+
 Through the influence and reach of football, SportCares had an important conversation today about family violence to a group of girls and young women.  
 
 In partnership with the Ministry of Social and Family Development (MSF) and the U.S. Embassy Singapore, SportCares hosted a one-day football camp themed “Play Like a Girl, Break The Silence - Against Family Violence” for some 130 low-income girls and young women from various community groups.  
@@ -25,12 +26,12 @@ National track star Dipna Lim Prasad hopes her journey as a sportswoman can insp
   
 Ong Shixuen, 10-year-old camp participant shared, “I had a lot of fun and made many new friends at the camp. What surprised me was that I learnt so much from the sharing session on family violence. I should not be afraid of speaking out if my friends or I are facing any form of violence. The violence does not define me as a person, and it should not stop me from striving to become better.”  
 
+---
   
-**Annex A: “Break the Silence" Campaign**
-<br>  
+**Annex A: “Break the Silence" Campaign**<br>  
 On 16 November 2016, Minister for Social and Family Development Mr Tan Chuan-Jin launched a three-year “Break the Silence” campaign with a focus on the bystanders of family violence. These bystanders are people (who may be friends, family, neighbours, co-workers or even strangers) who witness family violence, or know about it (e.g. heard from a third party) but may not know how to respond to this situation.  
   
-##### **MSF wants to bring home the message that family violence is not a private matter. To this end, MSF has:**
+**MSF wants to bring home the message that family violence is not a private matter. To this end, MSF has:**
 
 a. Launched “First Steps” video on social media platforms (MSF Youtube and MSF Facebook)
 
@@ -43,7 +44,7 @@ c. Continued to rove community roadshows to educate the public about what family
 
 d. Continued to rove “Breaking my silence” - a roving family-violence themed art exhibition. This exhibition comprises artwork by survivors of family violence, who reside in a crisis shelter. The art work is very telling of their pain, fear, isolation, sadness, struggles, courage, hopes and dreams. After touring the art exhibition, viewers can place a sticker on a pledge board, as their personal pledge that they will proactively act if they witness family violence happening in their midst.  
   
-##### **MSF also wants to equip bystanders with resources on how to safely step in, to help those who may be affected by family violence:**
+**MSF also wants to equip bystanders with resources on how to safely step in, to help those who may be affected by family violence:**
 
 a. MSF has rolled out a new suite of collaterals targeting potential bystanders of family violence, so that bystanders are equipped to become active agents of change in stopping family violence.  
   
@@ -54,8 +55,7 @@ b. MSF also continues to engage multiple touchpoints (e.g. grassroots organisati
 
 It is time to break the silence on family violence. Everyone can play their part to prevent, detect and report abuse.  
   
-**Help Sources**
-<br>
+**Help Sources**<br>
 If you are, or someone you know is experiencing family violence, you can contact/access:
 
 **Family Violence Specialist Centres**
@@ -71,15 +71,13 @@ If you are, or someone you know is experiencing family violence, you can contact
 
 However, in the event that a life is in danger, call the Police immediately.
 
+---
 
-**About SportCares**
-<br>
+**About SportCares**<br>
 SportCares Foundation is the philanthropic arm of Sport Singapore (SportSG) and was officially established in October 2012 as a key recommendation of SportSG’s Vision 2030: Live Better Through Sport master plan. SportCares is at the heart of a growing national movement to use sport for social good. With support from partners in the community and corporate sectors, SportCares has organised programmes and projects that have touched the lives of more than 8,000 underprivileged children and youth. While each programme has its unique characteristics, SportCares’ mission has never varied: to empower people in need, by providing opportunities for social inclusion and community bridging through sport.  
   
-**About Break The Silence - Against Family Violence Campaign**
-<br>
+**About Break The Silence - Against Family Violence Campaign**<br>
 MSF has launched a three-year campaign, called “Break the Silence - Against Family Violence.” This targets all persons who witness or know about accounts of family violence. More details on the campaign can be found in Annex A.  
   
-**About U.S. Embassy Singapore**
-<br>
-The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at [http://singapore.usembassy.gov](http://singapore.usembassy.gov).  
+**About U.S. Embassy Singapore**<br>
+The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at [http://singapore.usembassy.gov](http://singapore.usembassy.gov).
