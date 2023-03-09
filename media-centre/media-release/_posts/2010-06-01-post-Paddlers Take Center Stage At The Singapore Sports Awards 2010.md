@@ -28,7 +28,7 @@ image: ""
 
 ---
 
-###### Annex A - About Singapore Sports Awards
+**Annex A - About Singapore Sports Awards**<br>
 The most prestigious annual recognition for sporting achievements in our city state, the Singapore Sports Awards were first introduced in late 1960's with the initial focus on sportsmen and sportswomen. Swimmers Tan Thuan Heng, and Patricia Chan were the first winners.
 
 Since then, the much coveted Sportsman and Sportswoman of the year titles have gone to some of the finest names in Singapore sport.
@@ -41,7 +41,8 @@ In 1978, the Sportsboy and Sportsgirl of the year awards were added. The focus o
 
 The diversity of sports represented by the winners is a telling comment on how far Singapore sports has come. It not only shows the level of competition among sports but also reflects the fact that athletes and coaches have the opportunity to shine at the highest level whatever the discipline they choose to focus on. As Singapore moves towards excellence at the regional level and beyond, such democracy of sporting choices will serve us well.
 
-###### Annex B - List of Singapore Sports Award 2010 Recipients
+**Annex B - List of Singapore Sports Award 2010 Recipients**
+<br>
 
 **1) Senior Awards**
 
@@ -136,7 +137,8 @@ The diversity of sports represented by the winners is a telling comment on how f
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Hazwani Hasni<br>
 Executive<br>
@@ -147,10 +149,10 @@ Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
 ---
 
-###### About Singapore National Olympic Council
+**About Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
