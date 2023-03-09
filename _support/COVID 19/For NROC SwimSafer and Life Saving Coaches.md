@@ -92,23 +92,23 @@ If you are exploring to conduct online coaching services with the general public
 
 Please do make sure you’ve checked out our FAQs [here](https://www.sportsync.sg/App/System/FAQ) to see if your questions are already answered. If you are still encountering errors, please file the issue you encountered via [https://www.sportsync.sg/App/Login/Contact](https://www.sportsync.sg/App/Login/Contact) (Technical Issue) for further assistance.
 
-**9\. The FAQs did not manage to clear my queries, how do I contact the relevant parties?**
+**9. The FAQs did not manage to clear my queries, how do I contact the relevant parties?**
 
-For NROC: please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg)
+**For NROC**: please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg)
 
-For Swimsafer: please email [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg)
+**For Swimsafer**: please email [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg)
 
-For Usage Permit: please email [sport_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg)
+**For Usage Permit**: please email [sport_bookings@sport.gov.sg](mailto:sport_bookings@sport.gov.sg)
 
 To help us serve you better, please do write in stating your Full Name, Date of Birth, and last 4 digits of your NRIC (e.g., 123Z), along with the details of your request.
 
 ##### **Life Saving Usage Permit Holders**
 
-**1\. Who will be eligible for the extension of usage permit?**
+**1. Who will be eligible for the extension of usage permit?**
 
 All current Life Saving permit holders and with a valid National Registry of Coaches (NROC) provisional membership as of **28 May 2021** will receive a **1-year extension** to your usage permit automatically. For example, if your membership expires on 30 Jun 2021, the new expiry date would be 30 Jun 2022. Any purchase of usage permit after this date is not eligible for the extension.
 
-**2\. What action is required from me?**
+**2. What action is required from me?**
 
 Please ensure that you have the following certificates valid at all times and upload them to your account on [www.sportsync.sg](http://www.sportsync.sg/).
 
@@ -128,38 +128,38 @@ Please write in to [sport_bookings@sport.gov.sg](mailto:sport_bookings@sport.go
 
 ##### **SwimSafer Usage Permit Holders**
 
-**1.** **What is the extension period of the SwimSafer Usage Permit?**
+**1. What is the extension period of the SwimSafer Usage Permit?**
 
 The extension period would be one year from your usage permit date of expiry. All eligible usage permit holders with valid usage permit as of 28 May 2021 will receive a 1-year extension automatically. For example, if your membership expires on 30 June 2021, the new expiry date would be 30 June 2022. Any purchase of usage permit after this date is not eligible for the extension.
 
-**2. **Who will be eligible for the extension of SwimSafer Usage Permit?****
+**2. Who will be eligible for the extension of SwimSafer Usage Permit?**
 
 Existing instructors with valid full NROC membership and attended/pass the SwimSafer Certification with valid Pool usage permit as of 28 May 2021 would be eligible for the extension of SwimSafer usage permit.
 
-**3. **What are the eligibility criteria for this extension?****
+**3.What are the eligibility criteria for this extension?**
 
 The eligibility criteria for the extension is
-
+<br>
 a. Valid NROC membership;
-
+<br>
 b. Valid First Aid Certification; and
-
+<br>
 c. Valid CPR & AED Certification
 
-**4.** **Who do I approach if I have enquiries on SwimSafer Usage Permit?**
+**4.Who do I approach if I have enquiries on SwimSafer Usage Permit?**
 
 Please write in to [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg) for any queries on extension of SwimSafer Usage Permit.
 
 ##### **Complimentary Entry to ActiveSG Swimming Complex for Coaches**
 
-****1. Who is eligible for the complimentary pool entry?****
+**1. Who is eligible for the complimentary pool entry?**
 
 Coaches with valid usage permit as at **28 May 2021** are eligible for the complimentary pool entry.
 
-**2. **What is the period of complimentary pool entry?****
+**2. What is the period of complimentary pool entry?**
 
 The period of complimentary pool entry is from 1 June 2021 – 31 May 2022.
 
-**3. **What action is required of me to qualify for this complimentary pool entry?****
+**3. What action is required of me to qualify for this complimentary pool entry?**
 
 No action is required from you. Swimming coaches with valid usage permit as at 28 May 2021 will receive the QR code for complimentary pool entry in their ActiveSG app automatically. For any queries on the complimentary for pool entrance for coaches, you may write in to [https://members.myactivesg.com/feedback](https://members.myactivesg.com/feedback).
