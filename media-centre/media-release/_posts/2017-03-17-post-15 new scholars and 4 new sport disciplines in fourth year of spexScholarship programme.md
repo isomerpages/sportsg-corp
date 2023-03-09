@@ -24,7 +24,7 @@ Leading up to the 29th SEA Games, Mark and Timothy will be competing in the FINA
 
 Track & Field athlete Suhairi Suhani, another new spexScholar said: “With the spexScholarship, I can take on a full-time training load and do not have to worry about financing my training and competitions.” Suhairi, who qualified for the Rio Paralympic Games in the Long Jump added, “I can concentrate fully towards my goals of qualifying for the next Paralympics, as I aim to improve my performances at IPC (International Paralympic Committee) meets in Dubai and Berlin, at the IPC World Championship in London and ASEAN Para Games in Malaysia.”
 
-##### **spexScholars’ successes**
+**spexScholars’ successes**
 
 By and large, the spexScholars have performed remarkably well. At the Major Games, they contributed to a significant percentage of medals won by Team Singapore.
 
