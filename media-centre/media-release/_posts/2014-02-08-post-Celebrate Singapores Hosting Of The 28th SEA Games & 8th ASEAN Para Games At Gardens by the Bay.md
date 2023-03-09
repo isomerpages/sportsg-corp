@@ -94,8 +94,7 @@ To find out more, visit our websites [www.ssc.gov.sg](https://www.ssc.gov.sg/), 
 **About Singapore National Olympic Council (SNOC)**<br>
 The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-
 Follow us on:<br>
-28th SEA Games Website: [[www.seagames2015.com](www.seagames2015.com)]<br>
-28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)<br>
-8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)<br>
+[28th SEA Games Website](http://www.seagames2015.com)<br>
+[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
+[8th ASEAN Para Games Facebook Page](http://www.facebook.com/ASEANPARAGAMES2015)
