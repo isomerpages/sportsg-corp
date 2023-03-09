@@ -45,9 +45,9 @@ _Comprehensive Pre-Race And Post-Race Transportation Options And Different Bagga
 
 | From                     | To                                                             | Period              |
 | ------------------------ | -------------------------------------------------------------- | ------------------------------- |
-| All 17 Pick-Up Locations | Orchard Boulevard, by Orchard Turn (Full Marathon)             | 3:00 AM <br>3:15 AM <br>3:30 AM |
-| All 17 Pick-Up Locations | Harbourfront Place, by Harbourfront Centre <br>(Half Marathon) | 4:45 AM <br>5:00 AM <br>5:15 AM |
-| All 17 Pick-Up Locations | City Hall Area (10km Run)                                      | 6:00 AM <br>6:30 AM <br>7:00 AM |
+| All 17 Pick-Up Locations | Orchard Boulevard, by Orchard Turn (Full Marathon)             | 3am <br>3.15am <br>3.30am |
+| All 17 Pick-Up Locations | Harbourfront Place, by Harbourfront Centre <br>(Half Marathon) | 4.45am <br>5am <br>5.15am |
+| All 17 Pick-Up Locations | City Hall Area (10km Run)                                      | 6am <br>6.30am <br>7am |
 
 
 **Annex B: Pick-up Locations for Chartered Bus Service**
