@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **DBS Bank Celebrates SG50 With 28th SEA Games**
+
 _SGD3.5 million sponsorship to support a slew of SEA Games community programmes_
 
 DBS Bank celebrates Singapore’s 50th birthday with a SGD3.5 million sponsorship of the 28th Southeast Asian (SEA) Games and its dragon boat and sailing races. As the largest bank in Singapore, DBS will help to further boost community participation in the 28th SEA Games, making it a truly inclusive event for all in Singapore.
@@ -35,13 +36,16 @@ DBS Bank celebrates Singapore’s 50th birthday with a SGD3.5 million sponsorshi
 
 Refer to [Annex](/files/Media%20Centre/Media%20Release/2014/November/Annex%20%20DBS_SEA%20Games.pdf) for details on DBS Marina Regatta 2015 Dragon Boat Races.
 
+---
+
 **For media enquiries, please contact:**
+<br>
 
 Rachel Ang<br>
 Public Relations and Strategic Communications, SINGSOC<br>
 Tel: +65 6500 5217<br>
 HP: +65 9729 3700<br>
-Email: [rachel\_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
+Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
 
 Grace Ngoh<br>
 Group Strategic Marketing & Communications<br>
