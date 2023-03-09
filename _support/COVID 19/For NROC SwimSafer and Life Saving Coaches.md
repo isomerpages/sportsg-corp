@@ -4,7 +4,6 @@ permalink: /support-resources/covid-19/for-nroc-swimsafer-and-life-saving-coache
 description: ""
 third_nav_title: COVID 19
 ---
-
 Sport Singapore is delighted to announce that we will extend ONE (1) year membership for all members with the National Registry of Coaches, as well as waive off the following fees for eligible# SwimSafer / Life Saving coaches/ instructors.
 
 | S/N | Description | Cost per person (S$) |
@@ -44,7 +43,6 @@ Please obtain email endorsements from your CCE training coordinators or provider
   
 For guidance on accessing e-card on [SportSync](http://www.sportsync.sg/), please click [here](/files/Support/Coaches'%20Corner/Covid%2019/SwimSafer%20%20%20Life%20Saving/How_to_access_e-card_1.pdf)
 For guidance on updating of Continuing Coach Education records on [SportSync](http://www.sportsync.sg/), please click [here](/files/Support/Coaches'%20Corner/Covid%2019/SwimSafer%20%20%20Life%20Saving/How_to_access_e-Logbook_1.pdf)
-
 
 
 | NROC Level | Min. Coaching Practice Hours (Up to 50% of these can be Coaching Education hours) | Min. Coaching Education Hours (Learning & Development) | |
