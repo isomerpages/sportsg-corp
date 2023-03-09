@@ -53,6 +53,6 @@ You may be a parent who wants to see your children grow and succeed in life; you
 
 19\. To give Singaporeans an idea of how Active Health can benefit them, the Active Health Capsule will be open to public at the Padang as one of the key fixtures of the GetActive! Singapore - a week-long national day celebrations through sport. The capsule will be at the Padang from 29 July to 8 August 2017. The Active Health Capsule will feature activities for individual’s self-awareness and deeper engagement, as well as, tips on how to adopt good health habits in everyday life.
 
-For more information, log on to[www.activehealth.sg](http://www.activehealth.sg/)
+For more information, log on to [Active Health](http://www.activehealth.sg/).
 
 [1]National University Health System (NUHS) takes over Alexandra Hospital from Sengkang Health from middle of 2018.
