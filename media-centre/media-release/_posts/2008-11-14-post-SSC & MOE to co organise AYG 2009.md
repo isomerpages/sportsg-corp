@@ -28,7 +28,8 @@ Host City Contract and Commercial Rights Release Agreement Signing Ceremony held
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Tanty Nazlianah Rosli
 <br>
