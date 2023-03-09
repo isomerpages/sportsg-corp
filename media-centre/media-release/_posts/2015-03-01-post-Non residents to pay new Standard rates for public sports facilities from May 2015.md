@@ -19,6 +19,6 @@ image: ""
 
 5\. The public sports facilities managed by Sport Singapore are under the ActiveSG umbrella – a national movement for sport launched in April last year. There will be notices at all ActiveSG sports centres islandwide to inform users of the new Standard rates. Users can approach Guest Service Officers at the sports centres if they have questions on the new rates.
 
-6\. Advance online booking for facilities under the new standard rates will start from 17 April 2015 at [www.myactivesg.com](http://www.myactivesg.com/).
+6\. Advance online booking for facilities under the new standard rates will start from 17 April 2015 at [ActiveSG](http://www.myactivesg.com/).
 
 \* The non-resident population comprises foreigners who are working, studying or living in Singapore but not granted permanent residence. Tourists and other short term visitors are also regarded as part of the non-resident population.
