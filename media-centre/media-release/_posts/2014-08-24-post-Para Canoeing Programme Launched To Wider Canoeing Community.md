@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Para-Canoeing Programme Launched To Wider Canoeing Community**
+
 _Initiative launched today with Singapore Canoe Federation partnering SportCares Foundation and Asian Women's Welfare Association in pioneering programme_
 
 Singapore Canoe Federation (SCF) has partnered with the Asian Women's Welfare Association’s (AWWA) TEACH ME Services and the SportCares foundation to pioneer the Para Canoeing development programme. Mr Lawrence Wong, Minister for Culture, Community and Youth, officially launched the programme at MacRitchie Reservoir this morning and spent time on the water with the participants on boats and equipment funded by the SportCares foundation. 
@@ -24,6 +25,7 @@ Singapore Canoe Federation (SCF) has partnered with the Asian Women's Welfare As
 ---
 
 **For media enquiries, please contact:**
+<br>
 
 Jonathan Leow<br>
 Manager, Public Relations <br>
@@ -31,18 +33,15 @@ Sport Singapore <br>
 HP: +65 97538065<br>
 Email: [jonathan_leow@sport.gov.sg](mailto:jonathan_leow@sport.gov.sg)
 
+---
 
-##### **About SportCares**
-<br>
+**About SportCares**<br>
 The SportCares Foundation and Movement was set up in late 2012 to help people live better lives through sport. From underprivileged children to people of all ages with disabilities to enthusiastic volunteers to needy seniors to generous donors, sport can be a channel to empower people to live better. Designed to use sport as a force for social good, SportCares will work with other concerned agencies to develop and support sustainable, scalable programming to engage the vulnerable segments of our society. SportCares is a key recommendation of Sport Singapore’s (SportSG) Vision 2030: Live Better through Sport master plan. 
 
-##### **About Singapore Canoe Federation**
-<br>
+**About Singapore Canoe Federation**<br>
 Singapore Canoe Federation (SCF) is the National Sports Association responsible for the management, coordination, development and promotion of canoeing in Singapore. It represents the interest of its athletes and members to Sport Singapore, Singapore National Olympic Committee, the public and other international canoeing bodies.
 
-##### **About AWWA**
-<br>
+**About AWWA**<br>
 Asian Women's Welfare Association (AWWA), established in 1970, is a Singapore registered voluntary welfare organisation and a full member of the National Council of Social Services. AWWA empowers the disadvantaged to maximise their potential to lead dignified and independent lives in providing Family Services, Elderly Services, Educational Services, Integration Services, and Caregiver Services to their clients.
-<br>
-<br>
+
 AWWA’s TEACH ME Services (TMS) is an integration service that caters to physically challenged children and youth aged 7 to 18 years. It provides educational, rehabilitative and social support to help them integrate into mainstream society. Through the variety of sporting activities offered under TMS, AWWA’s physically challenged school-going clients now have the opportunity to participate in regular sports, something which their mainstream schools may not have the means to provide for them.
