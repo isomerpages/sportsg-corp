@@ -18,7 +18,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 
 4. CDM Low also added that the Asian Games is an important step for many of our athletes, especially the 199 athletes who made their debuts in Guangzhou. "These athletes still have a long way to go and they now know what it will take to compete and win at this level," added CDM Low. "I am sure that the National Sports Associations and coaches will be conducting their respective post mortems as soon as they return to Singapore, as they look forward to the next major competition," he said.
 
-##### **Making Waves in the Land of the Dragon**
+**Making Waves in the Land of the Dragon**<br>
 
 5. Team Singapore's first medal at the Asian Games, a silver, came in the wings of 20-year-old Butterfly specialist Tao Li. Her sterling performance in the Women's 100m Butterfly event on Day One of competition put Singapore on the medal standings on the first day of competition. Tao Li's magnificent swim in the Women's 50m Butterfly event won Singapore its first gold medal and solidified her position as Asia's number one in the category.
 
@@ -32,7 +32,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 
 10. Expressing his pride for the Team Singapore athletes, CDM Low said, "We may not have met our medal projections but we still managed to put up a credible performance in Guangzhou. I am very proud of all our athletes. They have done what I told them to do before we touched down in Guangzhou, and that is to display the principles of sportsmanship and uphold the values of Team Singapore."
 
-##### **Reaching Out to Fans on New Media**
+**Reaching Out to Fans on New Media**<br>
 
 11. Throughout the Games, Team Singapore's Facebook fan page was a great source of information for fans and Singaporeans alike, who could receive minute-by-minute updates of key events during the Games, as well as updated results, photographs and quotes from the athletes and officials during competition.
 
@@ -42,7 +42,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 
 ---
 
-###### Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010
+**Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010**<br>
 
 | No. | Medal  | Sport               | Event                            | Name of Athlete(s)                                         | Total |
 | --- | ------ | ------------------- | -------------------------------- | ---------------------------------------------------------- | ----- |
@@ -65,7 +65,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 | 17. | Bronze | Sailing             | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun                    |
 |     |        |                     |                                  |                                                            | 17    |
 
-###### Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010
+**Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010**<br>
 
 | Name of Athlete(s) | Event | Remarks |
 | -------- | -------- | -------- |
@@ -96,7 +96,8 @@ Andrea CHEN Jiewen <br>Annabelle NG Xiang Ru | Women's Kayak Four 500m | PB 1:40
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Tanty Nazlianah Rosli
 <br>Senior Manager
@@ -111,21 +112,21 @@ Jose Raymond
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-
+<br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-
+<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-###### About the Singapore National Olympic Council
+**About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-###### About Team Singapore
+**About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -133,5 +134,5 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
 For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
-
+<br>
 Follow Team Singapore's action at the 16th Asian Games on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
