@@ -31,4 +31,4 @@ In the event a cardiac arrest victim is reported, Singapore Civil Defence Forceâ
   
 myResponder mobile application is available for download on the [IOS app store](https://apps.apple.com/sg/app/myresponder/id983494391) and [Google Play store](https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp&hl=en_SG&gl=US&pli=1) for free.
 
-\[1\]Singapore Civil Defence Force, https://www.scdf.gov.sg/content/scdf\_internet/en/community-and-volunteers/mobile\_phone\_technology.html
+\[1\]Singapore Civil Defence Force, [myResponder mobile application](https://www.scdf.gov.sg/content/scdf_internet/en/community-and-volunteers/mobile_phone_technology.html).
