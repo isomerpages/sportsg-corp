@@ -17,7 +17,7 @@ Sport Singapore is responsible for: 
     
 Sport Singapore reserves the right to validate the credibility of the CCE activities, either with the respective NSAs or any other respective organisations and appointed agencies.
 
-**[ForCoachesByCoaches Programme]([ForCoachesByCoaches_Programme](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/ForCoachesByCoaches_Programme.pdf))**
+[ForCoachesByCoaches Programme](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/ForCoachesByCoaches_Programme.pdf)
 
 CoachSG cordially invites NROC coaches to conduct CCE workshops as NROC Coach Presenters. Key benefits of participating in this programme include:
 
