@@ -56,6 +56,12 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 | -------- | -------- | 
 | Singapore Sports School	| [https://www.sportsschool.edu.sg/admissions/scholarships](https://www.sportsschool.edu.sg/admissions/scholarships)   |
 |  Institute of Technical Education		| [https://www.ite.edu.sg/admissions/scholarships-award-and-bursaries](https://www.ite.edu.sg/admissions/scholarships-award-and-bursaries)   |
+|Ngee Ann Polytechnic|[https://www.np.edu.sg/admissions/Pages/scholarships.aspx#](https://www.np.edu.sg/admissions/Pages/scholarships.aspx#)|
+| Nanyang Polytechnic| [https://www.nyp.edu.sg/admissions/full-time-diploma/scholarships-study-awards.html](https://www.nyp.edu.sg/admissions/full-time-diploma/scholarships-study-awards.html)|
+|Republic Polytechnic| [https://www.rp.edu.sg/student-support/scholarships-awards](https://www.rp.edu.sg/student-support/scholarships-awards)|
+|Singapore Polytechnic|	 https://www.sp.edu.sg/sp/student-services/ssc-overview/student-support/scholarships/sp-sports-arts-scholarship|
+| \*Temasek Polytechnic| [https://www.tp.edu.sg/fees-and-financial-matters/scholarships](https://www.tp.edu.sg/fees-and-financial-matters/scholarships)|
+| \*International Sports Academy| [https://www.isa.edu.sg](https://www.isa.edu.sg) IMC Sports Diploma Study Award <br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)
 
 
 
