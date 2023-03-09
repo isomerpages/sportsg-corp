@@ -27,8 +27,8 @@ Issued by The Ministry Of Community Development, Youth and Sports.
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Yvonne Lum
 <br>
 Assistant Manager, Communications and International Relations
