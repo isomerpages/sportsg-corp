@@ -25,7 +25,8 @@ For more information on Team Singapore at the Beijing 2008 Olympic Games, please
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Ronda Ng Doswell
 <br>
