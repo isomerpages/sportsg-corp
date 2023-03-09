@@ -48,4 +48,4 @@ _Pasir Ris is first heartland estate to get dressed, as Singapore Gets Ready to 
 
 ---
 
-[Please see Appendix A for the Fact sheet on Paint the Town Red.](/files/Media%20Centre/Media%20Release/2015/April/Appendix%20A_Fact%20sheet%20%20Paint%20The%20Town%20Red_FINAL.pdf)
+Please see [Appendix A](/files/Media%20Centre/Media%20Release/2015/April/Appendix%20A_Fact%20sheet%20%20Paint%20The%20Town%20Red_FINAL.pdf) for the Fact sheet on Paint the Town Red.
