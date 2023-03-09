@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **ActiveSG Joins Hands with UPAS to Grow the Sport of Flying Disc in Singapore**
+
 ![](/images/Media%20Centre/Media%20Release/2017/June/Players%20from%20the%20local%20flying%20disc%20community%20competing%20in%20the%20mixed%20Ultimate%20Nationals_1.jpeg)
 
 The sport of Flying Disc will now be part of ActiveSG’s stable of academies and clubs where people of all ages and abilities will be given opportunities and access to play and enjoy the emerging sport. In collaboration with the Ultimate Players Association (Singapore), a local non-profit organization governing all Flying Disc related activities in Singapore, the ActiveSG Flying Disc Club was launched at the UPA(S) Mixed Nationals, which saw over 500 players from 20 teams competing in the annual event.
