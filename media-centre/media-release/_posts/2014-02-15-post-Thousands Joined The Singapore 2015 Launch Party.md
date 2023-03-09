@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Thousands Joined The Singapore 2015 Launch Party**
+
 ![800_SEA_Games_Launch_Party](/images/Media%20Centre/Media%20Release/2014/February/800_SEA_Games_Launch_Party.jpeg)
 
 Team Singapore athletes, dignitaries from the SEA Games Federation & ASEAN Para Sports Federation, sport volunteers, and members of the public were treated to an evening of sports and musical extravaganza to mark the beginning of the 28th SEA Games and 8th ASEAN Para Games journey.
@@ -35,13 +36,13 @@ _Caption: Nila the official mascot of the 28th SEA Games & 8th ASEAN Para Games 
 
 7\. Original compositions from local artistes under the guidance of Music Director, Dr Sydney Tan to the theme of the Games, were also performed at the event:
 
-*   You’re Almost There – written by Joel Tan (Gentle Bones) and Ruth Ling, performed by Joel Tan; 
-*   Greatest – written and performed by Daphne Khoo
-*   Forever – written by Joshua Wan and performed by The Steve McQueens
-*   Still – written and performed by Charlie Lim
-*   Colours – written and performed by Jean Tan
-*   Ordinary – written by Amir Masoh and performed by John Molina
-*   Unbreakable – written by Amir Masoh, performed by Tabitha Nauser
+* You’re Almost There – written by Joel Tan (Gentle Bones) and Ruth Ling, performed by Joel Tan; 
+* Greatest – written and performed by Daphne Khoo
+* Forever – written by Joshua Wan and performed by The Steve McQueens
+* Still – written and performed by Charlie Lim
+* Colours – written and performed by Jean Tan
+* Ordinary – written by Amir Masoh and performed by John Molina
+* Unbreakable – written by Amir Masoh, performed by Tabitha Nauser
 
 8\. Other acts included Kelvin Tan, also known as Chen Wei Lian who performed “Treasure Every Moment”, a song composed by Dick Lee. The adrenaline-pumping night continued with a party to the tunes spun by DJ Aldrin – one of Singapore’s most renowned disc jockeys.
 
@@ -49,47 +50,49 @@ _Caption: Nila the official mascot of the 28th SEA Games & 8th ASEAN Para Games 
 
 10\. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, who also chairs the Singapore Southeast Asian Games Organising Committee (SINGSOC) Steering Committee, said, “Today, we celebrate Team Singapore’s achievements and also launch our campaign to 2015, which is also the year of our Golden Jubilee. Next year, we will see the return of the SEA Games and the debut of the ASEAN Para Games in Singapore – both held in our brand new National Stadium and Sports Hub. Our athletes will compete with the best in the region, and will strive to improve on their performances in Myanmar. Many have told me that they are making a special effort for the Games, because they are competing here at home, in front of our home crowd.
 
-11\. "More than just about sporting events, the Games are also about the hopes and dreams of individuals and communities. They are about the human spirit and our shared aspirations. The Games will bring together ordinary people with extraordinary dreams. So the theme we have chosen for the Games is to ‘Celebrate the Extraordinary’. Join us a participant, volunteer or spectator, and be part of this historic event. Remember, together we are stronger. Together, let us together celebrate the extraordinary, let’s show our Singapore spirit, and let’s make 2015 a truly extraordinary year for Singapore."
+11\. "More than just about sporting events, the Games are also about the hopes and dreams of individuals and communities. They are about the human spirit and our shared aspirations. The Games will bring together ordinary people with extraordinary dreams. So the theme we have chosen for the Games is to ‘Celebrate the Extraordinary’. Join us a participant, volunteer or spectator, and be part of this historic event. Remember, together we are stronger. Together, let us together celebrate the extraordinary, let’s show our Singapore spirit, and let’s make 2015 a truly extraordinary year for Singapore."
 
 12\. The 28th SEA Games will be held from 5-16 June 2015, and the 8th ASEAN Para Games are to be held in December in the same year.
 
-\-END-
+---
 
-**For High-Resolution Photos:** [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). Please credit photos to Singapore Sports Council.
+**For High-Resolution Photos:** [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). Please credit photos to Singapore Sports Council.
 
 **Related Link:**
-[Speech By Mr Lawrence Wong, Acting Minister For Culture, Community And Youth, And Senior Minister Of State For Communications And Information, At The Singapore 2015 Launch Party](/media-centre/speeches/the-singapore-2015-launch-party/)
+[Speech By Mr Lawrence Wong, Acting Minister For Culture, Community And Youth, And Senior Minister Of State For Communications And Information, At The Singapore 2015 Launch Party](/media-centre/speeches/the-singapore-2015-launch-party/)
 
-**For media enquiries, please contact:**  
-  
-Rachel Ang  
-Senior Executive, Media Relations  
-Singapore Sports Council  
-Tel: (65) 6500 5246  
-HP: (65) 9729 3700  
-Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
-  
-S. Parameswaran  
-Assistant Director, Media Relations  
-Singapore Sports Council  
-Tel: (65) 6500 5236  
-HP: (65) 9839 1974  
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-  
-  
-##### **About Singapore Sports Council (SSC)**  
+---
+
+**For media enquiries, please contact:**
 <br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.  
-  
+
+Rachel Ang<br>
+Senior Executive, Media Relations<br>
+Singapore Sports Council<br>
+Tel: (65) 6500 5246<br>
+HP: (65) 9729 3700<br>
+Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
+
+S. Parameswaran<br>
+Assistant Director, Media Relations<br>
+Singapore Sports Council<br>
+Tel: (65) 6500 5236<br>
+HP: (65) 9839 1974<br>
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
+
+---
+
+**About Singapore Sports Council**<br>
+The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
+
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.sportsingapore.gov.sg. <br> 
-Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)  <br>
-For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)  <br>
-  
-##### **About Singapore National Olympic Council (SNOC)**  
- <br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.  
-  
-**Follow us on:**  
-28th SEA Games Website: [www.seagames2015.com](www.seagames2015.com)  
+Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)<br>
+For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)<br>
+
+**About Singapore National Olympic Council (SNOC)**<br>
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+
+Follow us on:<br>
+28th SEA Games Website: [www.seagames2015.com](www.seagames2015.com)
 28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)
 8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)
