@@ -28,7 +28,9 @@ Giving a twist to the mascot that accompanies the coveted SEA Games medals, the 
 
 ---
 
-**Related Link**: [Opening Remarks By Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOCat Make-A-Nila Launch Event](/media-centre/speeches/make-a-nila-launch-event/)
+**Related Link**:
+
+[Opening Remarks By Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOCat Make-A-Nila Launch Event](/media-centre/speeches/make-a-nila-launch-event/)
 
 ---
 
