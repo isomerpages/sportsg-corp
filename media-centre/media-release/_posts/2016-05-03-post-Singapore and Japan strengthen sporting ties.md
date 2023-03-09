@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Singapore and Japan strengthen sporting ties**
+
 Singapore and Japan affirmed stronger sports bilateral ties with a renewal of a memorandum-of-understanding (MOU) between Sport Singapore and the Japan Sports Council for the next three years. First signed in 2013, the newly signed MOU will provision for yearly reciprocal exchange visits between Singapore and Japan, capability development in sport specific curriculum, and programmes for coaches and players in the ActiveSG academies and SportCares.
 
 ![](/images/Media%20Centre/Media%20Release/2016/May/20160502_SJ50_0500_LR.jpeg)
