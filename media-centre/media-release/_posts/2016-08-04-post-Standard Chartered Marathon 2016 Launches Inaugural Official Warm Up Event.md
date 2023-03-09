@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Standard Chartered Marathon 2016 Launches Inaugural Official Warm Up Event**
+
 Standard Chartered Marathon Singapore (SCMS) will be the world’s first major marathon to introduce a pre-event test run for participants by launching the SCMS Official Warm Up at the Singapore Sports Hub on 24 September.
 
 The inaugural event is part of organiser Ironman Asia’s promise to enhance the SCMS running experience in Singapore. Geoff Meyer, Managing Director of Ironman Asia, said, “We are constantly looking for ways to improve the race experience and engage with runners. By designing a race 10 weeks before the SCMS Race Day, this is a timely opportunity for runners to gauge their preparedness for the race.”
@@ -15,7 +16,7 @@ The inaugural event is part of organiser Ironman Asia’s promise to enhance the
 
 At the SCMS Official Warm Up, runners will experience race day conditions with basic support such as water points, first-aid stations, and split start pens, along with an official timing that will offer a benchmark of their current performance, and what they need to do to achieve their personal bests.
 
-##### **A unique race for every runner**
+**A unique race for every runner**
 
 Depending on their level of comfort, runners can choose a test run of either 5, 10, 15 or 21km, with a final cut-off time of three hours. the SCMS Official Warm Up flags off at the Singapore Sports Hub with staggered starts based on the individual’s race-time.
 
