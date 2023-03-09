@@ -24,6 +24,8 @@ image: ""
 
 Annex: [Profiles of Choreographer, Singers, and Dancers](/files/Media%20Centre/Media%20Release/2014/Jan/Singapore%20to%20host%208th%20Asean%20Para%20Games%20in%20December%202015%20annex.pdf)
 
+---
+
 **For media enquiries, please contact:**
 <br>
 
