@@ -56,9 +56,13 @@ _Caption: Nila the official mascot of the 28th SEA Games & 8th ASEAN Para Games 
 
 ---
 
-**For High-Resolution Photos:** [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). Please credit photos to Singapore Sports Council.
+**For High-Resolution Photos:**
+
+[https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). 
+Please credit photos to Singapore Sports Council.
 
 **Related Link:**
+
 [Speech By Mr Lawrence Wong, Acting Minister For Culture, Community And Youth, And Senior Minister Of State For Communications And Information, At The Singapore 2015 Launch Party](/media-centre/speeches/the-singapore-2015-launch-party/)
 
 ---
