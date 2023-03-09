@@ -28,4 +28,4 @@ At the event, spexBusiness Partner Fullerton Health spoke about how our Team Sin
 
 Sport Singapore CEO, Lim Teck Yin was encouraged to see the OTSF receive the first donations through two corporate partners and a community group.  “The One Team Singapore Fund is about encouraging all who are proud of Team Singapore to join hands to support them through the High Performance Sport System. It will have significant impact on our athletes’ efforts to reach the highest levels of their sport. More importantly, it will be a testament that One Team Singapore can achieve much together."
 
-For more information and to donate to the OTSF, please visit [www.TeamSingapore.sg](http://www.teamsingapore.sg/)
+For more information and to donate to the OTSF, please visit [TeamSingapore](http://www.teamsingapore.sg/)
