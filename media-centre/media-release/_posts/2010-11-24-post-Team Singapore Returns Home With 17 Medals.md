@@ -47,22 +47,22 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 | No. | Medal  | Sport               | Event                            | Name of Athlete(s)                                         | Total |
 | --- | ------ | ------------------- | -------------------------------- | ---------------------------------------------------------- | ----- |
 | 1.  | Gold   | Aquatics - Swimming | Women's 50m Butterfly            | TAO Li                                                     | 4     |
-| 2.  | Gold   | Bowling             | Women's Trios                    | Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi  |
-| 3.  | Gold   | Sailing             | Women's Double Handed Dinghy 420 | Rachel LEE Qing & Cecilia LOW Rui Qi                       |
-| 4.  | Gold   | Sailing             | Men's Double Handed Dinghy 420   | Sherman CHENG Feng Yuan & Justin LIU Xiaman                |
+| 2.  | Gold   | Bowling             | Women's Trios                    | Cherie TAN Shi Hua, Geraldine NG Su Yi, Shayna NG Lin Zhi  | 4     |
+| 3.  | Gold   | Sailing             | Women's Double Handed Dinghy 420 | Rachel LEE Qing & Cecilia LOW Rui Qi                       | 4     |
+| 4.  | Gold   | Sailing             | Men's Double Handed Dinghy 420   | Sherman CHENG Feng Yuan & Justin LIU Xiaman                | 4     |
 | 5.  | Silver | Aquatics - Swimming | Women's 100m Butterfly           | TAO Li                                                     | 7     |
-| 6.  | Silver | Bowling             | Women's Singles                  | Shayna NG Lin Zhi                                          |
-| 7.  | Silver | Bowling             | Men's Doubles                    | Remy ONG & Jason YEONG-NATHAN                              |
-| 8.  | Silver | Bowling             | Women's Masters                  | Cherie TAN Shi Hua                                         |
-| 9.  | Silver | Sailing             | Men's Laser                      | Colin CHENG Xinru                                          |
-| 10. | Silver | Sailing             | Women's Dinghy Optimist          | Kimberly LIM Min                                           |
-| 11. | Silver | Table Tennis        | Women's Team                     | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu |
+| 6.  | Silver | Bowling             | Women's Singles                  | Shayna NG Lin Zhi                                          | 7     |
+| 7.  | Silver | Bowling             | Men's Doubles                    | Remy ONG & Jason YEONG-NATHAN                             | 7     |
+| 8.  | Silver | Bowling             | Women's Masters                  | Cherie TAN Shi Hua                                         | 7     |
+| 9.  | Silver | Sailing             | Men's Laser                      | Colin CHENG Xinru                                         | 7     |
+| 10. | Silver | Sailing             | Women's Dinghy Optimist          | Kimberly LIM Min                                           | 7     |
+| 11. | Silver | Table Tennis        | Women's Team                     | FENG Tianwei, WANG Yuegu, LI Jiawei, SUN Beibei, YU Mengyu | 7     |
 | 12. | Bronze | Cuesports           | English Billiards Singles        | Peter Edward GILCHRIST                                     | 6     |
-| 13. | Bronze | Bowling             | Women's Singles                  | NEW Hui Fen                                                |
-| 14. | Bronze | Sailing             | Open Laser Radial                | Scott Glen Sydney                                          |
-| 15. | Bronze | Sailing             | Men's Dinghy Optimist            | yan LO Jun Han                                             |
-| 16. | Bronze | Sailing             | Open Hobie-16                    | TEO Wee Chin & Justin WONG Ming Ho                         |
-| 17. | Bronze | Sailing             | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun                    |
+| 13. | Bronze | Bowling             | Women's Singles                  | NEW Hui Fen                                               | 6     |
+| 14. | Bronze | Sailing             | Open Laser Radial                | Scott Glen Sydney                                          | 6     |
+| 15. | Bronze | Sailing             | Men's Dinghy Optimist            | yan LO Jun Han                                             | 6     |
+| 16. | Bronze | Sailing             | Open Hobie-16                    | TEO Wee Chin & Justin WONG Ming Ho                         | 6     |
+| 17. | Bronze | Sailing             | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun                    | 6     |
 |     |        |                     |                                  |                                     
 
 **Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010**
