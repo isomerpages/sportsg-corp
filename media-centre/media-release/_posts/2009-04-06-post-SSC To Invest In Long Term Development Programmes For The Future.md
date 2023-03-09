@@ -12,7 +12,7 @@ _National programmes to provide foundation to grow Singapore's pool of potential
 
 **Singapore, 6 April 2009** - The Singapore Sports Council announced today that it will be investing in long-term development programmes to provide the foundation to grow Singapore's pool of potential athletes and create more opportunities for athletes beyond their sports careers. The programmes will focus on building capabilities across the sports sector to develop the next generation of athletes, coaches, officials and sports journalists and photographers.
 
-##### **The Athlete: Back to Basics - Laying the Foundation for the Future**
+**he Athlete: Back to Basics - Laying the Foundation for the Future**<br>
 
 2. The first programme aims to provide every child with the opportunity to acquire physical literacy in order to have confidence to play sports throughout their lives.
 
@@ -22,7 +22,7 @@ _National programmes to provide foundation to grow Singapore's pool of potential
 
 5. The SSC will develop a Fundamental Skills Programme to help preschool teachers, parents, grandparents and domestic helpers, use play and age-appropriate activities to develop the youngsters' motor skills. The programmes will focus on exposing youngsters to the joy of movement while building their self-confidence and capabilities. The SSC will work with private service providers on the development of knowledge resources, and will roll this programme out later this year.
 
-##### **The Athlete: More Opportunities to Play - Growing & Maintaining Interest in Sports**
+**The Athlete: More Opportunities to Play - Growing & Maintaining Interest in Sports**<br>
 
 6. The next programme focuses on growing and maintaining interest in sports amongst school goers by providing more opportunities for them to play more sports and more kinds of sports in an enjoyable environment.
 
@@ -32,7 +32,7 @@ _National programmes to provide foundation to grow Singapore's pool of potential
 
 9. Added Chan: "On the back of the strong success seen in SEP, I'm happy to share that in FY09, the SSC will continue to commit more funds to the SEP and more than 380 schools have registered to take part in the programme."
 
-##### **The Coach: Makes or Breaks an Athlete**
+**The Coach: Makes or Breaks an Athlete**<br>
 
 10. Ensuring a steady stream of quality community to elite coaches is another key long term programme that SSC will be launching. This will ensure that quality standards are maintained at community level coaching to ensure people learn the correct sports skills, and peak performance standards are attained at the elite coaching level to develop the sports champions of tomorrow.
 
@@ -52,7 +52,7 @@ _National programmes to provide foundation to grow Singapore's pool of potential
 
 18. In FY09, the SSC will fund up to $15,000 per coach annually for up to five coaches for two years. Two coaches - Mr Mervyn Foo from Bowling and Mr Loy Soo Han from Table-Tennis - have been approved for the current year.
 
-##### **Technical Officials: Quality Officials Needed to Boost Singapore's Reputation as Top Sports Events Destination**
+**Technical Officials: Quality Officials Needed to Boost Singapore's Reputation as Top Sports Events Destination**<br>
 
 19. Said Oon: "As Singapore positions itself as a destination for world class sports events, it will need to have a pool of competent and world class Technical Officials. Developing capabilities amongst Technical Officials is another long-term priority for SSC this year."
 
@@ -60,19 +60,20 @@ _National programmes to provide foundation to grow Singapore's pool of potential
 
 21. Geared towards youth aged 15-18, the pilot project will have initial enrolment of 200 young teens and will have a strong component of character education in addition to fundamentals on technical officiating in the specific sport. The programme will kick off with seven sports - basketball, badminton, netball, football, hockey, volleyball and table-tennis. These sports were chosen for the pilot programme as a result of their widespread popularity in schools. The plan is to eventually cover all 26 sports administered by CCAB.
 
-##### **Sports Journalists & Photographers: Bringing the Game Alive**
+**Sports Journalists & Photographers: Bringing the Game Alive**<br>
 
 22. "Everything we do is connected. It's impossible to develop a succession of elite athletes without having elite coaches. It's hard to attract international class events without having international-class technical officials who can referee the games. If we're going to accelerate growth in our sports culture, we need people who can report, write and broadcast sports passionately," said Oon.
 
 23. The SSC has been running sports journalism workshops for almost two years with the goal of getting young journalists ready to cover sports events. Some 130 students from secondary schools to polytechnics to universities have taken the SSC-funded sports journalism and photography workshops. Now, with the Asian Youth Games and Youth Olympic Games coming up, these young journalists can put their skills to test in covering international sport stories.
 
-##### **Conclusion**
+**Conclusion**<br>
 
 24. Concluding, Chan said: "As you can see, we are putting in place long term development programmes in areas which will give us a big impact across the board and will provide an important foundation to help us grow Singapore's pool of potential athletes. We look forward to working with our partners to make these programmes a reality."
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 S. Parameswaran
 <br>
