@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Local Youths and International Friends Get their Game ON at Unique Community Bonding Event by SportCares**
+
 Some 500 participants had a morning of fun and games at Game ON today — an inaugural event to promote social integration and bonding between Singaporeans and international friends.
 
 An acronym for “Get Active, Meet Everyone, One Nation”, Game ON was organised by Tuas View Dormitory in partnership with SportCares Foundation, the philanthropic arm of Sport Singapore that taps on sports as an enabler for social good. Game ON is also of GetActive! Singapore, a week-long sporting bash that is designed to have Singaporeans all celebrating National Day together.
@@ -16,7 +17,7 @@ An acronym for “Get Active, Meet Everyone, One Nation”, Game ON was organise
 
 “It is heartening to witness the spectacular display of smiles, laughter and friendships created at this event. As One Team Singapore, I believe our young Singaporeans who joined us today, took away something new about the different cultures and traditions, likewise for our international friends.”
 
-##### **Celebrating Friendships through Sports**
+**Celebrating Friendships through Sports**
 
 Held at Tuas View Dormitory, participants were teamed up in groups of four, comprising of tertiary students and youths from SportCares and migrant workers from across Asia. Team Nila volunteers from community partners and schools supported Game ON by facilitating the activities at the event.
 
@@ -33,6 +34,7 @@ A mini Game ON carnival was also set up within Tuas View Dormitory, where partic
 ---
 
 **For media enquiries, please contact:**
+<br>
 
 Ms Sheryl Koh<br>
 H/P: 9151 5328<br>
