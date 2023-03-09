@@ -71,4 +71,4 @@ The principle of Integrity in Actions requires the coaches to act with uprightne
       
 **Breach of Coach’s Code of Ethics**
 
-Coaches in the National Registry of Coaches pledged to abide by the Coach's Code of Ethics. Details of the disciplinary and appeal guidelines on any breach / violations are found [here](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/nroc-handbook).
+Coaches in the National Registry of Coaches pledged to abide by the Coach's Code of Ethics. Details of the disciplinary and appeal guidelines on any breach / violations are found [here](/support-resources/national-registry-of-coaches/nroc-handbook/).
