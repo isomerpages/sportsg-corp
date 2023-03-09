@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **A Sports and Community Space Embracing the Essence of Sembawang**
+
 With a vision to develop a distinctive and integrated community hub for the residents in Sembawang, several agencies - Sport Singapore, National Parks Board, Ministry of Health, Alexandra Health System, National Environment Agency, People’s Association and National Heritage Board have joined hands to co-develop the some 12-hectare space near Sembawang MRT Station.  
   
 Mr Khaw Boon Wan, Coordinating Minister for Infrastructure and Minister for Transport, together with his fellow advisors for Sembawang GRC Grassroots Organisations, as well as Sembawang residents joined the Sembawang Sports & Community Hub roadshow where they were presented with some overarching themes for the space that focus on enhancing their physical and mental well-being infused with nature and Sembawang’s rich heritage.
@@ -18,6 +19,5 @@ The event was designed to engage the residents too. Acting Minister for Educatio
 Mr Lim Teck Yin, Chief Executive Officer of Sport Singapore shared, “This is a green space that enlivens the other core elements of Water, Sports and Health, and Nourishment. We are engaging residents for their thoughts on growing these ideas into a reality that they will embrace and enjoy.”  
   
 Ideas for the proposed facilities mix, such as a swimming pool with natural settings, multi-play courts, forest trails, primary and senior care centres, and an eco-friendly hawker centre, are being solicited and refined. As such, the projected completion date for the Sembawang Sports & Community Hub will be announced later when the plans are finalised.  
-
 
 Today’s event saw more than 1,000 residents participate in various activities, such as 1.8km Brisk Walk, Functional Fitness, Tai Chi, Zumba, Piloxing, Basketball, Football, Community Gardening and guided tours of the Former Admiralty House, a National Monument. Residents not only gained a deeper understanding of the site’s historical significance as a former British naval base, some also shared their memories of Sembawang, which would go towards the enhancement of National Heritage Board’s Yishun-Sembawang Heritage Trail.
