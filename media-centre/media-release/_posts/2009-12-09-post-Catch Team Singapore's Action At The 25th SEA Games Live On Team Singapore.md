@@ -27,32 +27,34 @@ _Live broadcast will be from 9 to 18 December 2009_
 ###### Annex A
 **25th SEA Games, Laos Vientiane 2009 Webcast Schedule - Team Singapore Website**
 
-| Date | Day | Programme title | Start* | End* |
-| -------- | -------- | -------- | -------- | -------- |
-| 9 Dec | Wednesday | SEA Games 2009 Opening Ceremony | 7pm | 9pm |
-|10 Dec | Thursday | **SEA Games Action** – Football Preliminary Round - Singapore vs Laos Swimming Finals | 6.40pm | 9pm |
-| | | Today At The Games | 10pm | 10.30pm |
-|11 Dec | Friday | **SEA Games Action** – Swimming Finals | 7pm | 9.30pm |
-| | | Today At The Games | 10pm | 10.30pm |
-| 12 Dec | Saturday | **SEA Games Action** – Swimming Finals, Badminton Team Semi-Finals and Table Tennis Mixed Doubles Semi Finals | 7pm | 9.30pm |
-| | | Today At The Games | 10pm | 10.30pm |
-| 13 Dec | Sunday | **SEA Games Action** – Swimming Finals, Athletics Finals and Table Tennis Mixed Doubles Finals | 7pm | 9.30pm |
-| | | Today At The Games | 10pm | 10.30pm |
-|14 Dec | Monday | **SEA Games Action** – Swimming Finals and Table Tennis Doubles Finals | 7pm | 9.30pm |
-| | | Today At The Games | 10pm | 10.30pm |
-|15 Dec | Tuesday | **SEA Games Action** – Table Tennis Singles Finals, Athletics Finals and Badminton Doubles Finals | 7pm | 9pm |
-| | | Today At The Games | 10pm | 10.30pm |
-|16 Dec | Wednesday | **SEA Games Action** – Athletics Finals and Badminton Singles, Doubles & Mixed Finals | 7pm | 9pm |
-| | | Today At The Games | 10pm | 10.30pm |
-|17 Dec | Thursday | **SEA Games Action** – Football Final | 5.55pm | 8pm |
-| | |Today At The Games | 10pm | 10.30pm |
-| 18 Dec | Friday | SEA Games 2009 Closing Ceremony | 7pm | 9pm |
+| Date   | Day       | Programme title                                                                                               | Start\* | End\*   |
+| ------ | --------- | ------------------------------------------------------------------------------------------------------------- | ------- | ------- |
+| 9 Dec  | Wednesday | SEA Games 2009 Opening Ceremony                                                                               | 7pm     | 9pm     |
+| 10 Dec | Thursday  | **SEA Games Action** – Football Preliminary Round - Singapore vs Laos Swimming Finals                         | 6.40pm  | 9pm     |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 11 Dec | Friday    | **SEA Games Action** – Swimming Finals                                                                        | 7pm     | 9.30pm  |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 12 Dec | Saturday  | **SEA Games Action** – Swimming Finals, Badminton Team Semi-Finals and Table Tennis Mixed Doubles Semi Finals | 7pm     | 9.30pm  |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 13 Dec | Sunday    | **SEA Games Action** – Swimming Finals, Athletics Finals and Table Tennis Mixed Doubles Finals                | 7pm     | 9.30pm  |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 14 Dec | Monday    | **SEA Games Action** – Swimming Finals and Table Tennis Doubles Finals                                        | 7pm     | 9.30pm  |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 15 Dec | Tuesday   | **SEA Games Action** – Table Tennis Singles Finals, Athletics Finals and Badminton Doubles Finals             | 7pm     | 9pm     |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 16 Dec | Wednesday | **SEA Games Action** – Athletics Finals and Badminton Singles, Doubles & Mixed Finals                         | 7pm     | 9pm     |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 17 Dec | Thursday  | **SEA Games Action** – Football Final                                                                         | 5.55pm  | 8pm     |
+|        |           | Today At The Games                                                                                            | 10pm    | 10.30pm |
+| 18 Dec | Friday    | SEA Games 2009 Closing Ceremony                                                                               | 7pm     | 9pm     |
+
 
 &ast;Singapore time
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Lorna Campbell
 <br>
@@ -76,7 +78,7 @@ Email: [srasu@fulfordpr.com](mailto:srasu@fulfordpr.com)
 
 ---
 
-###### About Team Singapore
+**About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
@@ -85,5 +87,5 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 
 For further information, please visit www.teamsingapore.com.sg
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
