@@ -26,7 +26,9 @@ Rajah & Tann Singapore LLP is the Official Legal Partner of the 28th Southeast A
 
 [Click here for biographies of athletes](/files/Media%20Centre/Media%20Release/2014/October/Annex_Biographies_of_Athletes.pdf)
 
-**Related Link**: [Speech by Mr Toh Boon Yi, Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
+**Related Link**:
+
+[Speech by Mr Toh Boon Yi, Chief of Corporate & Community Outreach, SINGSOC for Rajah & Tann Singapore Sponsorship Announcement of the 28th SEA Games](/media-centre/speeches/rajah-tann-singapore-sponsorship-announcement-of-the-28th-sea-games/)
 
 ---
 
