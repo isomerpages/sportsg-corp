@@ -42,8 +42,7 @@ There are many different methods to conduct a reflection session. One of which i
   
 We believe that sport is not just about technical ability and skill, but rather, a reflection of more complex attitudes and value systems in our lives.
 
-Why should I use this resource?
--------------------------------
+#### **Why should I use this resource?**
 
 'GAME FOR LIFE: 25 Journeys' aims to inspire readers to play the game of their lives, and in so doing, discover themselves, unleash their true potential and develop their character. The 25 stories have been written and structured in a way to facilitate reflection, focusing on the sporting values (see below) that have shaped them to be the person they are which have helped them to succeed in life. With the values that are highlighted and the guided reflection questions in the stories, coaches can use them during reflection sessions:
 
@@ -51,17 +50,3 @@ Why should I use this resource?
 * As an independent team activity to reinforce the team’s culture and values
 * Click on the links below to access individual stories!
 
-<hr>
-**Praise for 'GAME FOR LIFE'**
-
-*"Game for Life: 25 Journeys' provides inspiring real life stories of the power of sport for transforming lives. This alone makes it a wonderful read. Moreover, it goes beyond these stories by posing reflective questions that make the reader think about how sport can shape his or her life.*
-  
-I believe that 'Game for Life: 25 Journeys' is not only a must read for athletes but also for sport parents and coaches. Teachers will also find the book to be a great starting point for young people to discuss what they are experiencing in sport and how these experiences can result in important life lessons. Young people will reap much more from this book if they reflect on its content and engage in discussions about their sport experiences and how those experiences are best interpreted to maximise psychological growth.  
-  
-So, don't just read this book. Reflect on the questions posed and lessons that sport has taught others. Think about what sport is teaching you and discuss it with fellow participants and your coaches."_
-
-**Daniel Gould, PhD.**  
-Professor and Director  
-Institute for the Study of Youth Sports  
-Michigan State University
-<hr>
