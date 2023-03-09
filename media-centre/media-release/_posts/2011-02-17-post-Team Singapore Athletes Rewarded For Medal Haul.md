@@ -156,7 +156,8 @@ Patricia Yee
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and www.singaporesports.sg
@@ -170,7 +171,8 @@ For a range of photographs, search for "Singapore Sports Council" on [www.flickr
 ###### About the Singapore National Olympic Council
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-###### About Team Singapore
+**About Team Singapore**
+<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core Team Singapore attributes are Pride, Performance and Perseverance. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
@@ -178,5 +180,5 @@ The three core Team Singapore attributes are Pride, Performance and Perseverance
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
 For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
-
+<br>
 Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
