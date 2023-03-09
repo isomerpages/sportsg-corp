@@ -37,7 +37,12 @@ An original calculated CDG approval amount ≥ S$5,000 represents a significant 
 3. General contribution to sports (e.g., competition management, technical officiating, volunteering)
 
 Weightage for each category is shown below. Applicants who do not meet a particular criterion will be awarded 0% for that criterion.
-![](/images/Support/Coache's%20Corner/Funding/Coach%20Development%20Grant/table2.png)
+
+| Category | Criteria | Weightage |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 Hypothetical examples are given below to illustrate how final CDG approved amount is derived based on above assessment criteria:
 
