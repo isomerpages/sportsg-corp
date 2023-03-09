@@ -29,6 +29,6 @@ Mr Nicholas Conceicao, Executive Director at OBS said, “The ActiveSG Outdoor A
 
 Mrs Tan Chen Kee, Divisional Director, Student Development Curriculum Division, Ministry of Education (MOE) said, “In line with our National Outdoor Adventure Education Masterplan, we believe that outdoor education plays an essential part in developing more well-rounded youths. The programmes offered by the ActiveSG Outdoor Adventure Club will enable our students to build on what they have learnt in school through their PE and outdoor experiences, and they are encouraged to continue participating in them with their friends and families beyond school.”
 
-To find out more or register for your interest for the programme, you can visit [https://www.myactivesg.com/academy/outdooradventureclub](https://www.myactivesg.com/academy/outdooradventureclub)
+To find out more or register for your interest for the programme, you can visit [ActiveSG Outdoor Adventure Club](https://www.myactivesg.com/academy/outdooradventureclub).
 
 ![](/images/Media%20Centre/Media%20Release/2017/January/An%20ActiveSG%20Outdoor%20Adventure%20Club%20instructor%20assist%20a%20child%20participant%20to%20pitch%20a%20tent.jpeg)
