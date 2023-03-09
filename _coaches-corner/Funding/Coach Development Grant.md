@@ -54,7 +54,6 @@ Hypothetical examples are given below to illustrate how final CDG approved amoun
 | *   Applied CDG for local coaching seminar<br>estimated cost = S$8,000<br>*   Based on existing guidelines (up to 75% for Singaporeans), award amount = S$5,000 (maximum cap for NROC Master Coach)<br>*   As award amount = S$5,000, After applying above criteria, applicant meets 3 out of 4 criteria (75%)<br>*   Hence, final approved amount = S$5,000 x 75% = S$3,750     | *   Applied CDG for overseas coaching course with coaching attachment<br>*   Total estimated cost = S$50,000<br>*   Based on existing guidelines (up to 75% for PRs), award amount = S$20,000 (maximum cap for NROC Senior Coach)<br>*   As award amount = S$20,000 > S$5,000, After applying above criteria, and applicant meets 2 out of 4 criteria (50%)<br>*   Hence, final approved amount = S$20,000 x 50% = S$10,000     | 
 
 
-
 #### **Section 3: CDG Post-Activity Deliverables**
 
 After the CDG Activity, the CDG recipient is required to complete all of the following:
