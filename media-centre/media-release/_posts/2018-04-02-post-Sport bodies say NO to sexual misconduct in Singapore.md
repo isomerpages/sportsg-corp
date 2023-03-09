@@ -66,7 +66,7 @@ Taking reference from best practices from the global sharing, SportSG will be le
 | 27  | Kendo | Singapore Kendo Club |
 | 28  | Lawn Bowls  | Bowls Singapore |
 | 29  | Netball  | Netball Singapore |
-| 30  | Modern Pentathlon  | Singapore Modern Pentathlon Association            |
+| 30  | Modern Pentathlon  | Singapore Modern Pentathlon Association  |
 | 31  | Motor Sports | Motorsports Singapore |
 | 32  | Mountaineering | Singapore Mountaineering Federation |
 | 33  | Muay Thai | Amateur Muay Thai Association Singapore |
@@ -84,13 +84,14 @@ Taking reference from best practices from the global sharing, SportSG will be le
 | 45  | Swimming | Singapore Swimming Association |
 | 46  | Table Tennis | Singapore Table Tennis Association |
 | 47  | Taekwondo | Singapore Taekwondo Federation |
-| 48  | Tennis | Singapore Tennis Association                       |
+| 48  | Tennis | Singapore Tennis Association  |
 | 49  | Triathlon | Triathlon Association of Singapore |
 | 50  | Underwater Sports | Singapore Underwater Federation |
 | 51  | Volleyball | Volleyball Association of Singapore |
 | 52  | Water Ski | Singapore Water Ski &amp; Wakeboard Federation |
 | 53  | Weightlifting | Singapore Weightlifting Federation |
-| 54  | Weiqi | Singapore Weiqi Association                        |
+| 54  | Weiqi | Singapore Weiqi Association  |
 | 55  | Wrestling | Wrestling Federation of Singapore |
 | 56  | Wushu | Singapore Wushu Dragon &amp; Lion Dance Federation |
 | 57  | Xiangqi | Singapore Xiangqi General Association |
+<br>
