@@ -8,7 +8,7 @@ image: ""
 ---
 ### **SSC Announces Two New Senior Management Appointments**
 
-New appointments will beef up senior management team as SSC gears up for next wave of growth in sports sector
+_New appointments will beef up senior management team as SSC gears up for next wave of growth in sports sector_
 
 Singapore, 19 March 2008 - The Singapore Sports Council (SSC) announced today the appointment of two members to its senior management team as the organisation gears up for the next wave of growth in the sports sector.
 
@@ -44,8 +44,8 @@ Singapore, 19 March 2008 - The Singapore Sports Council (SSC) announced today th
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Mr Alvin Hang
 <br>
 Deputy Director, Group Communications
