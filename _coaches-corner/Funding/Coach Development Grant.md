@@ -96,8 +96,5 @@ When more than 1 CDG recipient collaborate on the same deliverable, each CDG rec
 | -------- | -------- | -------- |
 | X ≤ S$1k     | Report     | 10     |
 | S$1k < X ≤ S$3k  | Report     | 30     |
-| X ≤ S$1k     | Report     | 10     |
-| X ≤ S$1k     | Report     | 10     |
-| X ≤ S$1k     | Report     | 10     |
-| X ≤ S$1k     | Report     | 10     |
-
+| S$3k < X ≤ S$5k     | Report + interview by CoachSG for CDG publicity | 45 |
+| X > S$5k     | Report + interview by CoachSG for CDG publicity     | 60 |
