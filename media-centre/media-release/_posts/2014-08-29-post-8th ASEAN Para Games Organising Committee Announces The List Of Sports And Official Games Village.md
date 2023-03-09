@@ -17,7 +17,7 @@ The Singapore ASEAN Para Games Organising Committee (SAPGOC) has confirmed a tot
 
 4\. The organising committee will be having a series of test events from March 2015 in preparation for the Games. Selected test events will also serve as outreach programmes, by bringing para-sports to the people. The public can look forward to invitational events for para-sports such as table tennis and wheelchair basketball in public spaces next year.
 
-##### **Games Village**
+**Games Village**
 
 5\. The Games Village – Marina Bay Sands will be utilising some 1,500 rooms to host the athletes and officials during their stay. In addition, the integrated resort will provide two conference halls for the athlete’s social activities, meeting rooms as well as spaces for an array of fringe activities to create awareness on para-sports to the members of the public.
 
@@ -31,10 +31,12 @@ The Singapore ASEAN Para Games Organising Committee (SAPGOC) has confirmed a tot
 
 ---
 
-**Please refer to [Annex A](/files/Media%20Centre/Media%20Release/2014/August/8th%20APG%20ANNEX%20A%20%20List%20of%20Sports.pdf) for the full list of sports.**
+Please refer to [Annex A](/files/Media%20Centre/Media%20Release/2014/August/8th%20APG%20ANNEX%20A%20%20List%20of%20Sports.pdf) for the full list of sports.
 
+---
 
 **For media enquiries, please contact:**
+<br>
 
 Rachel Ang<br>
 Senior Executive, Public Relations<br>
@@ -55,15 +57,15 @@ Marina Bay Sands<br>
 Tel” +65 6688 0042<br>
 Email: [dawn.wang@marinabaysands.com](mailto:dawn.wang@marinabaysands.com)
 
-##### **About the 8th ASEAN Para Games**
-<br>
+---
+
+**About the 8th ASEAN Para Games**<br>
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 2,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.
 
 Website: www.aseanparagames2015.com <br>
 Facebook: www.facebook.com/ASEANPARAGAMES2015
 
-##### **About Marina Bay Sands Pte Ltd**
-<br>
+**About Marina Bay Sands Pte Ltd**<br>
 Marina Bay Sands is the leading business, leisure and entertainment destination in Asia. It features large and flexible convention and exhibition facilities, 2,560 hotel rooms and suites, the rooftop Sands SkyPark, the best shopping mall in Asia, world-class celebrity chef restaurants and an outdoor event plaza. Its two theatres showcase a range of leading entertainment performances including world-renowned Broadway shows. Completing the line-up of attractions is ArtScience Museum at Marina Bay Sands, which plays host to permanent and marquee exhibitions.
 
 For more information, please visit [www.marinabaysands.com](www.marinabaysands.com).
