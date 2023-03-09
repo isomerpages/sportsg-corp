@@ -27,9 +27,123 @@ image: ""
 
 9. For more information on Team Singapore at the 25th SEA Games, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg)
 
-<hr>
+---
+
+About the Multi-Million Dollar Award Programme (MAP) Awards
+
+[About MAP Awards](/files/Media%20Centre/Media%20Release/2010/February/Annex%20D%20%20About%20MAP%20Awardspdf.pdf)
+
+**MAP AWARDS RECIPIENTS**<br>
+
+| S/N | Sports       | Name                           | Event                                   | GOLD | MAP      | Category                    | Old SEA Games Record         |
+| --- | ------------ | ------------------------------ | --------------------------------------- | ---- | -------- | --------------------------- | ---------------------------- |
+| 1   | Athletics    | Wong Tuck Yim James            | Men's Discus Throw                      | 1    | $10,000  | Individual                  |
+|     |              | Zhang Guirong                  | Women's Shot Put                        | 1    | $10,000  | Individual                  |                              |
+| 2   | Cuesports    | Ang Boon Chin                  | Men's Snooker Doubles                   | 1    | $15,000  | Team Event                  |                              |
+|     |              | Lim Chun Kiat                  |
+|     |              | Peter Edward Gilchrist         | Men's Billiards Singles                 | 1    | $10,000  | Individual                  |                              |
+| 3   | Shooting     | Goh Jia Yi                     | Women's 10m Air Rifle Individual        | 1    | $10,000  | Individual                  |                              |
+|     |              | Zhang Jin                      | Men's 10m Air Rifle Individual          | 1    | $10,000  | Individual                  |
+|     |              | Zhang Jin                      | Men's 10m Air Rifle Team                | 1    | $15,000  | Team Event                  |
+|     |              | Koh Tien Wei Jonathan          |
+|     |              | Ong Jun Hong                   |
+|     |              | Lim Swee Hon Nigel             | Men's 10m Air Pistol Team               | 1    | $15,000  | Team Event                  |
+|     |              | Poh Lip Meng                   |
+|     |              | Gai Bin                        |
+|     |              | Ser Xiang Wei Jasmine          | Women's 50m Rifle 3 position Individual | 1    | $10,000  | Individual                  |
+|     |              | Gai Bin                        | Men's 50m Pistol Team                   | 1    | $15,000  | Team Event                  |
+|     |              | Poh Lip Meng                   |
+|     |              | Lim Swee Hon Nigel             |
+| 5   | Swimming     | Quah Ting Wen                  | Women's 100m Freestyle                  | 1    | $10,000  | Individual - 1st Gold       |
+|     |              |                                |                                         |      | $5,000   | SEA Games Record - 00:56:03 | Yr '99 - Joscelin - 00:56:05 |
+|     |              |                                | Women's 200m Freestyle                  | 1    | $5,000   | Individual - 2nd Gold       |
+|     |              |                                |                                         |      | $5,000   | SEA Games Record - 02:00:57 | Yr '07 - THA - 02:03:00      |
+|     |              | Ong Wei Shien Zach             | Men's 200m Backstroke                   | 1    | $10,000  | Individual                  |
+|     |              | Tao Li                         | Women's 200m Backstroke                 | 1    | $10,000  | Individual - Ist Gold       |
+|     |              |                                | Women's 100m Backstroke                 | 1    | $5,000   | Individual - 2nd Gold       |
+|     |              |                                |                                         |      | $5,000   | SEA Games Record - 01:02:96 | Yr '05 - Tao Li - 01:03:83   |
+|     |              |                                | Women's 100m Butterfly                  | 1    | $5,000   | Individual - 3rd Gold       |
+|     |              |                                |                                         |      | $5,000   | SEA Games Record - 00:59:24 | Yr '05 - Joscelin - 00:59:91 |
+|     |              |                                | Women's 200m Butterfly                  | 1    | $5,000   | SEA Games Record - 02:13:49 | Yr '05 - Tao Li - 02:14:11   |
+|     |              | Lim Shu-En Lynette             | Women's 800m Freestyle                  | 1    | $10,000  | Individual                  |
+|     |              |                                |                                         |      | $5,000   | SEA Games Record - 08:35:41 | Yr '07 - MAL - 08:47:80      |
+|     |              | Lim Xiang Qi Amanda            | Women's 50m Freestyle                   | 1    | $10,000  | Individual                  |
+|     |              |                                |                                         |      | $5,000   | SEA Games Record - 00:25:82 | Yr '05 - Joscelin - 00:26:13 |
+|     |              | Lim Wen Hao Joshua             | Men's 4x200m Freestyle Relay            | 1    | $15,000  | Team Event                  |
+|     |              | Lim Yong En Clement            |                                         |      | $5,000   | SEA Games Record - 07:30:73 | Yr '05 - SIN - 07:35:85      |
+|     |              | Ong Wei Shien Zach             |
+|     |              | Cheah Mingzhe Marcus           |
+|     |              | Quah Ting Wen                  | Women's 4x200m Freestyle Relay          | 1    | $15,000  | Team Event                  |
+|     |              | Lim Shu-En Lynette             |                                         |      | $5,000   | SEA Games Record - 08:11:75 | Yr '07 - SIN - 08:20:77      |
+|     |              | Lim Xiang Qi Amanda            |
+|     |              | Ong Chui Bin Mylene            |
+|     |              | Ong Chui Bin Mylene            | Women's 4x100m Freestyle Relay          | 1    | $15,000  | Team Event                  |
+|     |              | Lim Xiang Qi Amanda            |                                         |      | $5,000   | SEA Games Record - 03:45:73 | Yr '07 - THA - 03:51:86      |
+|     |              | Lim Shu-En Lynette             |
+|     |              | Quah Ting Wen                  |
+|     |              | Ong Kai Yi Russell             | Men's 4x100m Freestyle Relay            | 1    | $15,000  | Team Event                  |
+|     |              | Lim Wen Hao Joshua             |                                         |      | $5,000   | SEA Games Record - 03:23:22 | Yr '07 - SIN - 03:26:70      |
+|     |              | Yeo Kai Quan Danny             |
+|     |              | Ong Wei Shien Zach             |
+|     |              | Lim Jia Yi Shana               | Women's 4x100m Medley Relay             | 1    | $15,000  | Team Event                  |
+|     |              | Ho Ru'En Roanne                |                                         |      | $5,000   | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18      |
+|     |              | Tao Li                         |
+|     |              | Quah Ting Wen                  |
+| 6   | Table Tennis | Feng Tianwei                   | Women's Team                            | 1    | $15,000  | Team Event                  |
+|     |              | Wang Yuegu                     |
+|     |              | Sun Beibei                     |
+|     |              | Yu Mengyu                      |
+|     |              | Sim Kai Xin Zena               |
+|     |              | Yang Zi                        | Men's Team                              | 1    | $15,000  | Team Event                  |
+|     |              | Gao Ning                       |
+|     |              | Cai Xiaoli                     |
+|     |              | Pang Xue Jie                   |
+|     |              | Lim Jie Yan                    |
+|     |              | Wang Yuegu                     | Mixed Doubles                           | 1    | $15,000  | Team Event                  |
+|     |              | Yang Zi                        |
+|     |              | Sun Beibei                     | Women's Doubles                         | 1    | $15,000  | Team Event                  |
+|     |              | Yu Mengyu                      |
+|     |              | Feng Tianwei                   | Women's Singles                         | 1    | $10,000  | Individual                  |
+|     |              | Gao Ning                       | Men's Singles                           | 1    | $10,000  | Individual                  |
+| 7   | Water Polo   | Luo Nan                        | Men's Team                              | 1    | $30,000  | Team Sport                  |
+|     |              | Yip Ren Kai                    |
+|     |              | Tan Wei Keong Terence          |
+|     |              | Tay Sin Chao Nigel             |
+|     |              | Teo Zhen Wei Eugene            |
+|     |              | Lin Diyan                      |
+|     |              | Lin Diyang                     |
+|     |              | Lee Kok Wang Alvin             |
+|     |              | Wee Kenneth                    |
+|     |              | Ong Wei Sheng Kelvin           |
+|     |              | Loh Lai Hua Samuel             |
+|     |              | Chin Yong Jie Andy             |
+|     |              | Lim Yao Xiang                  |
+| 8   | Wushu        | Khor Poh Chin                  | Women's Duilian with Weapon             | 1    | $15,000  | Team Event                  |
+|     |              | Tao Yijun                      |
+|     |              | Tay Yu Juan                    |
+|     |              | Total Gold Medals / MAP Awards |                                         | 33   | $455,000 |
+
+
+**LIST OF APPRECIATION PLAQUE RECIPIENTS**<br>
+
+| S/NO | Appreciation Plaque Recipients                |
+| ---- | --------------------------------------------- |
+| 1    | NTUC Fairprice Foundation Ltd                 |
+| 2    | Nestle (Singapore) Pte Ltd                    |
+| 3    | CapitaMalls Asia Ltd                          |
+| 4    | National Library Board                        |
+| 5    | Clear Channel Singapore Pte Ltd               |
+| 6    | Singapore Press Holdings Ltd                  |
+| 7    | MediaCorp Pte Ltd                             |
+| 8    | Canon Singapoe Lte Ltd                        |
+| 9    | Diners World Travel Pte Ltd                   |
+| 10   | Sunrise & Co. (Pte) Ltd                       |
+| 11   | Singapore Totalisator Board & Singapore Pools |
+
+---
 
 **For media enquiries, please contact:**
+<br>
 
 **Sheila Rasu/Lorna Campbel**l
 <br>
@@ -44,6 +158,8 @@ Singapore Sports Council
 Office: 6500 5246
 <br>
 Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
+
+---
 
 **About Team Singapore**
 <br>
@@ -62,112 +178,3 @@ The Singapore National Olympic Council (SNOC) is the national nonprofit organisa
 
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at [www.ssc.gov.sg](www.ssc.gov.sg) for more information.
 
-About the Multi-Million Dollar Award Programme (MAP) Awards
-
-[About MAP Awards](/files/Media%20Centre/Media%20Release/2010/February/Annex%20D%20%20About%20MAP%20Awardspdf.pdf)
-
-MAP AWARDS RECIPIENTS
-
-| S/N | Sports | Name | Event | GOLD  | MAP  | Category | Old SEA Games Record |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 1 | Athletics | Wong Tuck Yim James | Men's Discus Throw | 1 | $10,000 | Individual |
-||| Zhang Guirong | Women's Shot Put | 1 | $10,000| Individual ||
-| 2 | Cuesports | Ang Boon Chin | Men's Snooker Doubles | 1 | $15,000 | Team Event ||
-||| Lim Chun Kiat |
-||| Peter Edward Gilchrist | Men's Billiards Singles | 1 | $10,000 | Individual ||
-| 3 | Shooting | Goh Jia Yi | Women's 10m Air Rifle Individual | 1 | $10,000 | Individual ||
-||| Zhang Jin | Men's 10m Air Rifle Individual | 1 | $10,000 | Individual |
-||| Zhang Jin | Men's 10m Air Rifle Team | 1 | $15,000 | Team Event |
-||| Koh Tien Wei Jonathan|
-||| Ong Jun Hong |
-|| | Lim Swee Hon Nigel | Men's 10m Air Pistol Team | 1 | $15,000 | Team Event |
-||| Poh Lip Meng |
-||| Gai Bin |
-||| Ser Xiang Wei Jasmine | Women's 50m Rifle 3 position Individual | 1 | $10,000 | Individual |
-||| Gai Bin | Men's 50m Pistol Team | 1 | $15,000 | Team Event |
-||| Poh Lip Meng |
-||| Lim Swee Hon Nigel |
-| 5 | Swimming | Quah Ting Wen | Women's 100m Freestyle | 1 | $10,000 | Individual - 1st Gold |
-||||||$5,000 | SEA Games Record - 00:56:03 | Yr '99 - Joscelin - 00:56:05 |
-|||| Women's 200m Freestyle | 1 | $5,000 | Individual - 2nd Gold |
-|||||| $5,000 | SEA Games Record - 02:00:57 | Yr '07 - THA - 02:03:00 |
-||| Ong Wei Shien Zach | Men's 200m Backstroke | 1 | $10,000 | Individual |
-||| Tao Li | Women's 200m Backstroke | 1 | $10,000 | Individual - Ist Gold |
-|||| Women's 100m Backstroke |1 | $5,000 | Individual - 2nd Gold |
-|||||| $5,000 | SEA Games Record - 01:02:96 | Yr '05 - Tao Li - 01:03:83 |
-|||| Women's 100m Butterfly | 1 | $5,000 | Individual - 3rd Gold |
-|||||| $5,000 | SEA Games Record - 00:59:24 | Yr '05 - Joscelin - 00:59:91 | 
-|||| Women's 200m Butterfly |1 | $5,000 | SEA Games Record - 02:13:49 | Yr '05 - Tao Li - 02:14:11 |
-||| Lim Shu-En Lynette | Women's 800m Freestyle | 1 | $10,000 | Individual | 
-||||||$5,000 | SEA Games Record - 08:35:41 | Yr '07 - MAL - 08:47:80 |
-||| Lim Xiang Qi Amanda | Women's 50m Freestyle | 1 | $10,000 | Individual | 
-|||||| $5,000 | SEA Games Record - 00:25:82 | Yr '05 - Joscelin - 00:26:13
-||| Lim Wen Hao Joshua | Men's 4x200m Freestyle Relay | 1 | $15,000 | Team Event| 
-||| Lim Yong En Clement | ||$5,000 | SEA Games Record - 07:30:73 | Yr '05 - SIN - 07:35:85 |
-||| Ong Wei Shien Zach |
-||| Cheah Mingzhe Marcus |
-||| Quah Ting Wen | Women's 4x200m Freestyle Relay | 1 | $15,000 | Team Event |
-||| Lim Shu-En Lynette | || $5,000 | SEA Games Record - 08:11:75 | Yr '07 - SIN - 08:20:77 |
-||| Lim Xiang Qi Amanda |
-||| Ong Chui Bin Mylene |
-||| Ong Chui Bin Mylene | Women's 4x100m Freestyle Relay | 1 | $15,000 | Team Event |
-||| Lim Xiang Qi Amanda | | |$5,000 | SEA Games Record - 03:45:73 | Yr '07 - THA - 03:51:86 |
-||| Lim Shu-En Lynette|
-||| Quah Ting Wen |
-||| Ong Kai Yi Russell | Men's 4x100m Freestyle Relay | 1 | $15,000 | Team Event |
-||| Lim Wen Hao Joshua ||| $5,000 | SEA Games Record - 03:23:22 | Yr '07 - SIN - 03:26:70 |
-||| Yeo Kai Quan Danny |
-||| Ong Wei Shien Zach |
-||| Lim Jia Yi Shana | Women's 4x100m Medley Relay | 1 | $15,000 | Team Event |
-||| Ho Ru'En Roanne | ||$5,000 | SEA Games Record - 04:10:38 | Yr '07 - SIN - 04:12:18 |
-||| Tao Li |
-||| Quah Ting Wen |
-| 6 | Table Tennis | Feng Tianwei | Women's Team | 1 | $15,000 | Team Event |
-||| Wang Yuegu |
-||| Sun Beibei |
-||| Yu Mengyu |
-||| Sim Kai Xin Zena |
-||| Yang Zi | Men's Team | 1 | $15,000 | Team Event |
-||| Gao Ning |
-||| Cai Xiaoli |
-||| Pang Xue Jie |
-||| Lim Jie Yan |
-||| Wang Yuegu | Mixed Doubles |1 | $15,000 | Team Event |
-||| Yang Zi |
-||| Sun Beibei | Women's Doubles | 1 | $15,000 | Team Event |
-||| Yu Mengyu | 
-||| Feng Tianwei | Women's Singles | 1 | $10,000 | Individual |
-||| Gao Ning | Men's Singles | 1 | $10,000 | Individual |
-| 7 | Water Polo | Luo Nan | Men's Team | 1 | $30,000 | Team Sport |
-||| Yip Ren Kai |
-||| Tan Wei Keong Terence |
-||| Tay Sin Chao Nigel |
-||| Teo Zhen Wei Eugene |
-||| Lin Diyan |
-||| Lin Diyang |
-||| Lee Kok Wang Alvin |
-||| Wee Kenneth |
-||| Ong Wei Sheng Kelvin |
-||| Loh Lai Hua Samuel |
-||| Chin Yong Jie Andy |
-||| Lim Yao Xiang |
-| 8 | Wushu | Khor Poh Chin |Women's Duilian with Weapon | 1 | $15,000 | Team Event |
-||| Tao Yijun |
-||| Tay Yu Juan |
-||| Total Gold Medals / MAP Awards | | 33 | $455,000 |
-
-LIST OF APPRECIATION PLAQUE RECIPIENTS
-
-| S/NO | Appreciation Plaque Recipients |
-| -------- | -------- |
-| 1 | NTUC Fairprice Foundation Ltd
-| 2 | Nestle (Singapore) Pte Ltd
-| 3 | CapitaMalls Asia Ltd
-| 4 | National Library Board
-| 5 | Clear Channel Singapore Pte Ltd
-| 6 | Singapore Press Holdings Ltd
-| 7 | MediaCorp Pte Ltd
-| 8 | Canon Singapoe Lte Ltd
-| 9 | Diners World Travel Pte Ltd
-| 10 | Sunrise & Co. (Pte) Ltd
-| 11 | Singapore Totalisator Board & Singapore Pools
