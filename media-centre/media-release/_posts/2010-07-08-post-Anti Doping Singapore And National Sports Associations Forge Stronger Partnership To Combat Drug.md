@@ -39,8 +39,8 @@ Rainer Ng, an up and coming swimmer echoed this sentiment, "Athletes and athlete
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Ms Letchumi Jaiganth<br>
 Manager<br>
 Corporate Communications & Relations<br>
@@ -50,16 +50,16 @@ Email: [letchumi_jaiganth@ssc.gov.sg](mailto:letchumi_jaiganth@ssc.gov.sg)
 
 ---
 
-###### About Anti-Doping Singapore
+**About Anti-Doping Singapore**<br>
 As the National Anti-Doping Organisation for Singapore, Anti-Doping Singapore (ADS) was formed on 15 March 2010 to promote a sporting environment in Singapore that is free of doping. ADS is responsible for all anti-doping strategies in Singapore, including planning and conducting doping control tests, accrediting doping control officers, identifying possible anti-doping rule violations and anti-doping education. Integral to this, ADS works closely with relevant Government agencies on various anti-doping initiatives, as well as the Singapore National Olympic Council and the National Sports Associations in Singapore to ensure they comply with the World Anti- Doping Code through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules.
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
-
+<br>
 Join SSC on Twitter at: www.twitter.com/singaporesports
-
+<br>
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
