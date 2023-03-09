@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Celebrating an Extraordinary Feat**
+
 To celebrate the extraordinary feat that ultramarathoners Yong Yuen Cheng, 43 and Lim Nghee Huat, 61 have achieved in their Go50 mission to run 50km consecutively for 50 days, the duo have been accorded the honour of kindling the official Southeast Asian (SEA) Games flame.
 
 Upon completing their last 50km run today at The Promontory @ Marina Bay, the ultramarathoners ignited the official flame using the sun’s rays, reflected on a large parabolic mirror. The flame was kept in a safety lantern for use in tonight’s Torch Parade.
