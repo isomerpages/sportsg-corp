@@ -7,7 +7,9 @@ description: ""
 image: ""
 ---
 ### **Team Singapore Athletes Inspire 41SAR Battalion**
+
 ![1 TEAM SINGAPORE with 41SAR 1350x900](/images/Media%20Centre/Media%20Release/2014/February/1%20TEAM%20SINGAPORE%20with%2041SAR%201350x900.jpeg)
+
 _Team Singapore Basketball Captain, Desmond Oh in a friendly match against soldiers from the 41SAR Battalion_
 
 Team Singapore athletes visited the 41st Battalion, Singapore Armoured Regiment of the Singapore Armed Forces yesterday, as part of the army unit’s soldiers’ development programme and Total Defence commemoration activities.
@@ -20,21 +22,18 @@ Team Singapore athletes visited the 41st Battalion, Singapore Armoured Regiment 
 
 5\. Other activities for the morning included demonstration of Floorball, sports clinics by judo-ka Ho Han Boon, Gary Chow and Timothy Loh, Silat practitioners Muhammadd Iqbal Abdul Rahman and Muhammad Nur Alfian Juma’en, Boccia players, Neo Kah Whye, and paralympian Nurulasyiqah Bte Mohammad Taha.
 
-END
+---
 
-**For media enquiries, please contact:**  
-  
-Rachel Ang  
-Senior Executive, Media Relations  
-Singapore Sports Council  
-Tel: (65) 6500 5246  
-HP: (65) 9729 3700  
-Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
+**For media enquiries, please contact:**
+<br>
+Rachel Ang<br>
+Senior Executive, Media Relations<br>
+Singapore Sports Council<br>
+Tel: (65) 6500 5246<br>
+HP: (65) 9729 3700<br>
+Email:[rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
 
-##### **About Singapore Sports Council (SSC)**  
-  
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.  
-  
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and [www.SingaporeSports.sg](www.SingaporeSports.sg).  
-Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports).  
-For a range of photographs, visit [www.flickr.com/ssc-sportsphotography](www.flickr.com/ssc-sportsphotography).
+**About Singapore Sports Council**<br>
+The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
+
+To find out more, visit our websites [www.ssc.gov.sg](https://www.ssc.gov.sg/), [www.Vision2030.sg](http://www.vision2030.sg/) and [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) <br>Follow us on Facebook and Flickr at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
