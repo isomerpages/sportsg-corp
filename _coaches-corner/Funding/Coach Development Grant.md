@@ -40,7 +40,11 @@ Weightage for each category is shown below. Applicants who do not meet a particu
 
 | Category | Criteria | Weightage |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Coaching     | Regularly conducts coaching-related courses to develop coaches / athletes in the past 3 years<br>(Minimum 1 course per year) | 25%   |
+| Coach Development     | Regularly mentor coaches and / or coach athletes in the past 3 years (minimum once a week) | 25%   |
+|   | Regularly conducts CCE workshops for other coaches in the past 3 years (minimum 1 workshop per year) | 25%  |
+| General Contribution  | General contribution to sports in past 3 years (e.g., competition management, technical officiating, volunteering) (minimum 1 role per year) | 25%  |
+||Total| 100%|
 
 
 
