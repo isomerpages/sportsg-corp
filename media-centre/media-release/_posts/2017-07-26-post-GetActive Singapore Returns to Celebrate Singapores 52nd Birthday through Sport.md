@@ -11,7 +11,7 @@ There’s something for everyone at this year’s GetActive! Singapore (GASG) wh
 
 This year’s **_Active Enabler Programme (AEP)_** has seen even more quality proposals from the community. Registration for the National Youth Games, National Corporate Games and National Masters Games under **_Sport Competitions_** have also seen over 12,000 sign-ups across the 20 sports and 10 para-sports.
 
-##### **Active Enabler Programme**
+**Active Enabler Programme**
 
 The second edition of GASG has seen many exciting event proposals put forth through the AEP, an initiative to support ground-up community projects through grants and endorsements. The quality and uniqueness of the events has gone up as a total of 291 events will be supported under the AEP.
 
@@ -27,7 +27,7 @@ President of Outdoor Learning & Adventure Education Association (OLAE), Mr Lye Y
 
 Outdoor enthusiasts and budding adventurers can participate in the following events: Adventure Life Hacks, Connecting with Nature, Start Right with Camping Outdoors, Archery Combat Challenge & Laser Combat Challenge, Ed-Venture Outdoor Experience Challenge and Augmented Climbing.
 
-##### **Sports Festivals**
+**Sports Festivals**
 
 Across nine key locations, the Sports Festivals will take place over the two weekends from 29 – 30 July and 5 – 6 August. The Sports Festival at the Padang, will be held throughout the duration of GASG, with the GASG launch taking place at Car-Free Sunday SG on 30 July. Many of the events supported under the AEP will be at these Sports Festival locations.
 
@@ -45,7 +45,7 @@ Across nine key locations, the Sports Festivals will take place over the two wee
 
 _(Refer to Annex for more details)_
 
-##### **Sports Competitions – National Youth, Corporate & Masters Games**
+**Sports Competitions – National Youth, Corporate & Masters Games**
 
 As a prelude to the biennial Singapore National Games, this will be the very first National Youth, Corporate & Masters Games to be held during GetActive! Singapore.
 
@@ -64,7 +64,7 @@ The sport of Cycling at the GASG Sport Competition will take on an exploration c
 ![](/images/Media%20Centre/Media%20Release/2017/July/climbing_wall.jpeg)
 Leveraging on the very first of its kind ‘deep-water solo’ bouldering competition in Southeast Asia, Crux, the event takes place at ActiveSG Toa Payoh Swimming Complex from 5 – 8 August, and is organised by Singapore University of Technology and Design’s Climbers. Thrill-seekers can try their hand at the public challenge categories in between the bouldering competition and climb up to heights of 5 metres without any harness or rope. To complete the climb, participants will jump into the diving pool below.
 
-##### **GetActive! Singapore with NS50**
+**GetActive! Singapore with NS50**
 
 GetActive! Singapore will also be celebrating 50 years of National Service (NS50) where we can all come together to play. Back again for the second season, clock at least 50,000 steps with the **_GetActive! Singapore Step Challenge_** from 22 July - 9 August 2017 and redeem a limited edition NS50 jerry can water bottle while stocks last. The person that clocks the most number of steps in their category will each win an Apple Watch.
 
@@ -72,4 +72,6 @@ In celebration of NS50, national servicemen and their family and friends will re
 
 Find out more about GetActive! Singapore 2017 at [www.myactivesg.com/getactivesingapore](https://www.myactivesg.com/getactivesingapore).
 
-[ANNEX A](/files/Media%20Centre/Media%20Release/2017/July/Sports%20Festivals%20and%20Enabler.pdf) - Sports Festivals and Enabler write up
+---
+
+[Annex A](/files/Media%20Centre/Media%20Release/2017/July/Sports%20Festivals%20and%20Enabler.pdf) - Sports Festivals and Enabler write up
