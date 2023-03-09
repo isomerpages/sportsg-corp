@@ -4,7 +4,8 @@ permalink: /support-resources/coaches-corner/introduction/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-Coaching in Singapore is an immensely important part of Sport Singapore’s responsibility to its community. 
+C
+oaching in Singapore is an immensely important part of Sport Singapore’s responsibility to its community. 
 
 CoachSG recognises the importance of coaching as a career to achieve the sporting potential of athletes and participants. Coaches give their time and expertise to nurture our rising stars. In so doing, they add to our community as well as our national profile. 
 
@@ -18,5 +19,6 @@ Besides organising coach development programmes, CoachSG also manages the [Nati
 
 
 | -------- | -------- |
-| ![](/images/Support/Covid%2019/covid19-support.jpeg)     | **COVID-19 SUPPORT**<br>This page is a compilation of COVID-19 support measures that Singapore coaches may find useful in this period.<br>[Read more](/support-resources/covid-19/covid-19-support/)     |
-
+| ![](/images/Support/Covid%2019/covid19-support.jpeg) | **COVID-19 SUPPORT**<br>This page is a compilation of COVID-19 support measures that Singapore coaches may find useful in this period.<br>[Read more](/support-resources/covid-19/covid-19-support/)     |
+| ![](/images/Support/Coache's%20Corner/basketball.jpeg)  | **NATIONAL REGISTRY OF COACHES (NROC)**<br>The National Registry of Coaches is the database of nationally recognised coaches.<br>[Read more](/support-resources/activesg-programme-partnership/nroc-sports/)     |
+| ![](/images/Support/Coache's%20Corner/basketball.jpeg)  | **NATIONAL REGISTRY OF COACHES (NROC)**<br>The National Registry of Coaches is the database of nationally recognised coaches.<br>[Read more](/support-resources/activesg-programme-partnership/nroc-sports/)     |
