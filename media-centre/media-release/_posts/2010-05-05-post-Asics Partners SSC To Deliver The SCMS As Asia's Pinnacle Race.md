@@ -26,7 +26,8 @@ _ASICS to provide support on multiple platforms for the inaugural Marathon_
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Ronda Ng<br>
 Fulford PR<br>
@@ -47,7 +48,7 @@ Email: [rlo@fulfordpr.com](mailto:rlo@fulfordpr.com)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -58,7 +59,7 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About ASICS
+**About ASICS**<br>
 The history of ASICS began with the establishment of Onitsuka Co, Ltd. in 1949. According to a philosophy based on "bringing up sound youth through sports," the company has kept the tradition of specializing in manufacturing sports shoes by having original ideas and applying epoch-making techniques.
 
 In 1977, the Onitsuka Co. Ltd. became ASICS. The name, an acronym, derives from Anima Sana In Corpore Sano, an old Latin phrase expressing the ancient ideal of "A Sound Mind in a Sound Body." It's not a tagline, it's a reason for being. It's a foundation, a goal, an inspiration. It's why we began and when we lose sight of it, is when we'll call it quits.
