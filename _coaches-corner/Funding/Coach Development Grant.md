@@ -47,10 +47,13 @@ Weightage for each category is shown below. Applicants who do not meet a particu
 ||Total| 100%|
 
 
-
 Hypothetical examples are given below to illustrate how final CDG approved amount is derived based on above assessment criteria:
 
-![](/images/Support/Coache's%20Corner/Funding/Coach%20Development%20Grant/table3.png)
+| Applicant #1: NROC Master Coach, Singaporean | Applicant #2: NROC Senior Coach, PR | 
+| -------- | -------- | 
+| *   Applied CDG for local coaching seminar<br>estimated cost = S$8,000<br>*   Based on existing guidelines (up to 75% for Singaporeans), award amount = S$5,000 (maximum cap for NROC Master Coach)<br>*   As award amount = S$5,000, After applying above criteria, applicant meets 3 out of 4 criteria (75%)<br>*   Hence, final approved amount = S$5,000 x 75% = S$3,750     | *   Applied CDG for overseas coaching course with coaching attachment<br>*   Total estimated cost = S$50,000<br>*   Based on existing guidelines (up to 75% for PRs), award amount = S$20,000 (maximum cap for NROC Senior Coach)<br>*   As award amount = S$20,000 > S$5,000, After applying above criteria, and applicant meets 2 out of 4 criteria (50%)<br>*   Hence, final approved amount = S$20,000 x 50% = S$10,000     | 
+
+
 
 #### **Section 3: CDG Post-Activity Deliverables**
 
