@@ -78,17 +78,17 @@ Full Marathon (Singapore) Results - Women's
 <br>
 Samantha See
 <br>Fulford Public Relations
-<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
+<br>Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 
 Katherine Kee
 <br>Fulford Public Relations
-<br>Email: [kkee@fulfordpr.com](kkee@fulfordpr.com)
+<br>Email: [kkee@fulfordpr.com](mailto:kkee@fulfordpr.com)
 
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Media Relations
 <br>Singapore Sports Council
-<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
+<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
@@ -99,11 +99,12 @@ To find out more, visit our websites [www.sportsingapore.gov.sg/](https://www.sp
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join singaporesports.sg on Facebook at: [www.facebook.com/SingaporeSports](https://www.facebook.com/SingaporeSports)
 <br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-**About Standard Chartered Bank**<br>
+**About Standard Chartered Bank**
+<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
