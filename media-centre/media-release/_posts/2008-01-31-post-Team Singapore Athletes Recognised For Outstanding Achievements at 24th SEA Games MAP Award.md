@@ -21,7 +21,7 @@ Singapore, 31 January 2008 - Athletes, coaches, officials, partners and sponsors
 
 6. At the event, appreciation plaques were given out to sponsors and supporters of Team Singapore to thank them for their unstinting support during the 24th SEA Games. They included Singapore Totalisator Board, Singapore Pools Pte Ltd, Yonex-Sunrise, NTUC Fairprice and Nestle Singapore Pte Ltd.
 
-##### **Team Singapore Sports Idols 2007 Unveiled**
+**Team Singapore Sports Idols 2007 Unveiled**<br>
 
 7. The top 21 Team Singapore Sports Idol 2007 were also unveiled this evening as part of the MAP Award Presentation and Team Singapore Appreciation Dinner. The campaign, which started in September 2007 saw some 400 Team Singapore athletes vying for the top honours. During the two-month long campaign, Singaporeans voted for their favourite sports personalities via sms and the website. Over 150,000 votes were received.
 
@@ -31,13 +31,13 @@ Singapore, 31 January 2008 - Athletes, coaches, officials, partners and sponsors
 
 ---
 
-###### Enclosures
+**Enclosures**<br>
 Speech by Mr Teo Chee Hean, Minister for Defence & President of SNOC
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Ms Hazwani Hasni
 <br>
 Executive, Group Communications
@@ -64,11 +64,11 @@ E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
 
 ---
 
-###### About Singapore National Olympic Council
+**About Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-###### About Team Singapore
+**About Team Singapore**<br>
 Team Singapore is a concept mooted by Ministry of Community Development and Sports and launched by Deputy Prime Minister, Dr. Tony Tan on April 20, 2001. At the heart of Team Singapore lies three core values: Fighting Spirit, National Pride and Teamwork. Team Singapore is an approach that is taken to make sports a winner in Singapore. While Sporting Singapore is the vision, Team Singapore is the way to get there. Team Singapore is about Singaporeans striving together for sporting excellence for Singapore. At the core of Team Singapore is the notion that by working together, the whole can be much greater than the sum of its parts. Team Singapore is a collaborative effort of all stakeholders/agencies represented by six key groups of public; namely, the athletes, officials and coaches, families & friends, corporations and members of the media. More information about Team Singapore can be found at www.teamsingapore.com.sg
