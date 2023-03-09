@@ -31,7 +31,7 @@ _SwimSafer to replace Learn-To-Swim Programme and National Survival Swimming Awa
 
 ---
 
-###### Annex A: Six Progressive Stages of the SwimSafer Programme
+**Annex A: Six Progressive Stages of the SwimSafer Programme**<br>
 
 **Stage 1: Introduction to Water Skills**
 <br>
@@ -65,7 +65,8 @@ Have Fun, Swim Safe.
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Derrick Chee
 <br>
@@ -93,10 +94,10 @@ Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
-###### About the National Water Safety Council, Singapore (NWSC)
+**About the National Water Safety Council, Singapore (NWSC)**<br>
 The NWSC was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council is currently working with SPRING Singapore and other agencies to develop a Code of Practice for Aquatic Facilities to promote safe water facilities for the public.
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
