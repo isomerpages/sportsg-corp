@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Standard Chartered Marathon Singapore 2014 Unveils Revisions To Race Routes For A Smoother Running Experience**
+
 _Improvements to reduce congestion points in the final 3km_
 
 Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 can look forward to a smoother and more enjoyable run this year. The event organiser Spectrum Worldwide unveiled a significant amendment to the route which will reduce congestion at the merging point of various categories.
@@ -31,6 +32,7 @@ Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 can look f
 ---
 
 **For media enquiries, please contact:**
+<br>
 
 PeiRu Ng<br>
 Full Circle PR<br>
