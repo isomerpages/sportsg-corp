@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **A Change of Gears for Athletics at the 28th SEA Games**
+
 Fans at the National Stadium coming to watch the SEA Games in June will see the unique sight of a remote controlled (RC) car zipping around on the field during the Athletics events. Singapore Southeast Asian Games Organising Committee (SINGSOC) and the 28th SEA Games Official Car, Volvo today showcased the scaled version of Volvo’s SUV, the All-New Volvo XC90, as the equipment retrieval unit for Athletics events during the 28th SEA Games.
 
 The RC car measuring 90cm by 45cm and weighing at 15kg will be used to collect javelins, hammers and discuses from the field of play and return them back to the start line. The use of the All-New Volvo XC90 RC car speeds up the process of returning equipment, allowing the next athlete to complete their throw right after. The car has special brackets with clips installed to hold javelins in place and a padded holding area with cut outs for the hammer and discus.
@@ -22,5 +23,3 @@ The exterior design of the All-New Volvo XC90 RC car mimics that of its larger b
 For the 28th SEA Games, Volvo Cars Singapore will be contributing a fleet of 125 vehicles, comprising the Volvo S60, S80 and V60 in 1.6L turbodiesel D2 and 2.0L T5 variants, for delegates and officials. It will also run a special promotion whereby VIP and official cars will be open for booking at heavily-subsidised prices with discounts of $20,000.
 
 Volvo Cars Singapore has also been actively involved in other major sporting events in Singapore such as the inaugural 2010 Youth Olympic Games, OCBC Cycle and Standard Chartered Marathon Singapore.
-
-END
