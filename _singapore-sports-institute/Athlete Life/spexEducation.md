@@ -61,7 +61,10 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 |Republic Polytechnic| [https://www.rp.edu.sg/student-support/scholarships-awards](https://www.rp.edu.sg/student-support/scholarships-awards)|
 |Singapore Polytechnic|	 https://www.sp.edu.sg/sp/student-services/ssc-overview/student-support/scholarships/sp-sports-arts-scholarship|
 | \*Temasek Polytechnic| [https://www.tp.edu.sg/fees-and-financial-matters/scholarships](https://www.tp.edu.sg/fees-and-financial-matters/scholarships)|
-| \*International Sports Academy| [https://www.isa.edu.sg](https://www.isa.edu.sg) IMC Sports Diploma Study Award <br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)
+| \*International Sports Academy| [https://www.isa.edu.sg](https://www.isa.edu.sg) IMC Sports Diploma Study Award <br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)|
+| James Cook University| [https://www.jcu.edu.sg](https://www.jcu.edu.sg)|
+|\*National University of Singapore|NUS Sports Scholarship<br>[http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship](http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship)<br>NUS Sports Scholarship (Mid-Term)<br>[http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term)](http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term))|
+| \*Nanyang Technological University	| [http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx](http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx)<br>(for existing students)
 
 
 
