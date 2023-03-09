@@ -34,7 +34,8 @@ _Government Pumps in S$2.5m to Promote Youth Sports Development in Singapore as 
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Hazwani Hasni<br>
 Executive<br>
@@ -59,11 +60,11 @@ Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Youth Sports Development Committee
+**About the Singapore Youth Sports Development Committee**<br>
 Formed in 2008, the Singapore Youth Sports Development Committee (SYSD) comprises members of from the MCYS, MOE, the Singapore National Olympic Council, National Sports Associations (NSAs), Singapore Sports Council (SSC) and the Singapore Sports School. The committee aims to bring together key stakeholders who share a common passion to develop youth sports and raise the overall youth sports participation through strengthening the sports system, catalyse a sporting culture and perform well at the Youth Olympic Games in 2010.
 
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -74,6 +75,6 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About Let's Play
+**About Let's Play**
+<br>
 Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
-
