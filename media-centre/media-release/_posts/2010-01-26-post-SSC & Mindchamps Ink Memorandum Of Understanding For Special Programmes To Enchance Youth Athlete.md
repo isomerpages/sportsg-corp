@@ -25,7 +25,8 @@ _New Programme Specially Developed for Youth Athletes In Training for Singapore 
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Hazwani Hasni
 <br>
@@ -41,10 +42,11 @@ Email: [christopherm@mindchamps.org](mailto:christopherm@mindchamps.org)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at Singapore Sports Council for more information.
 
-###### About MindChamps
+**About MindChamps**
+<br>
 MindChamps is a leading international educational institute dedicated to training students from preschool to university level in the Art of Learning How-To-Learn and the development of their Champion Mindset.
 
 Launched as a research centre in Sydney in 1998, MindChamps established its World Head Institute in Singapore in 2002. Its unique advanced learning programmes are developed through the work of a dedicated team of world-class professionals from 4 different continents (Asia, Australia, Europe and North America) and with years of extensive experience in the 4 domains of Education, Neuroscience, Psychology and Theatre.
