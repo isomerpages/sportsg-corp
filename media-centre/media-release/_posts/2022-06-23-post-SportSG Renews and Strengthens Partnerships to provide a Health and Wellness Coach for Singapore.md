@@ -9,12 +9,7 @@ image: ""
 ---
 ### **Sport Singapore Renews and Strengthens Partnerships, aims to provide a Health and Wellness Coach for every Singapore resident**
 
-SPORT SINGAPORE RENEWS AND STRENGTHENS PARTNERSHIPS,   
-AIMS TO PROVIDE A HEALTH AND WELLNESS COACH FOR   
-EVERY SINGAPORE RESIDENT
-
-Collaborations to strengthen the suite of offerings, with target to engage   
-about 500,000 residents by 2027.
+Collaborations to strengthen the suite of offerings, with target to engage about 500,000 residents by 2027.
 
 **Singapore, 22 June 2022** – By 2027, about 500,000 Singapore residents can have access to a health and wellness coach under Active Health, a nation-wide initiative by Sport Singapore (SportSG).
 
@@ -25,7 +20,7 @@ In support of the Healthier SG vision, the collaborations will harness partners�
 Since the inauguration of Active Health in 2017, this nationwide movement has seen participation numbers of over 320,000 across its various programmes such as:  
 * Fitness and Health Assessments in Active Health Labs, workshops and structured programmes for targeted demographics.  
 * Wellness Wednesdays was incepted during the Covid-19 pandemic to help public officers cope with work and home commitments amidst the work from home setting.  
-* Active Health play mat workshops featuring assessments to test balance, flexibility and muscular endurance and a game of sport and ladder that encourages intergenerational bonding.   
+* Active Health play mat workshops featuring assessments to test balance, flexibility and muscular endurance and a game of sport and ladder that encourages intergenerational bonding.
 * Active Health’s science-backed exercise programmes that provide avenues for education and engagement.
 
 As Singapore emerges from the pandemic, the focus on holistic health and wellbeing is stronger than before. Taking a step further, Active Health aspires to engage about 500,000 Singapore residents by 2027 – a goal achievable through strong strategic partnerships.
@@ -46,7 +41,7 @@ Mr Chua Song Khim, Deputy Chief Executive of NUHS said: “There is a lot of syn
 
 ---
 
-1 Announced on 20 October 2021, the Health District @ Queenstown is a first-of-its-kind multi-stakeholder collaboration by the Housing and Development Board, National University Health System and National University of Singapore, together with multiple stakeholders from the public, private and people sectors, where the expertise of the various partners are harnessed to pilot integrated solutions to enhance the health and well-being of the residents of Queenstown.
+Announced on 20 October 2021, the Health District @ Queenstown is a first-of-its-kind multi-stakeholder collaboration by the Housing and Development Board, National University Health System and National University of Singapore, together with multiple stakeholders from the public, private and people sectors, where the expertise of the various partners are harnessed to pilot integrated solutions to enhance the health and well-being of the residents of Queenstown.
 
 **Renewed Partnerships to Extend Reach**
 
@@ -81,5 +76,3 @@ Within the next six months, Active Health will be initiating new programmes with
 4. First ever Active Health Fitness Trail to be featured in the Health District @ Queenstown pilot
 
 Beyond the above partnerships, public and stakeholders within the health and wellness ecosystem can look forward to new Active Health Labs in upcoming sport centres in Canberra, Delta and Punggol. Existing Active Health initiatives such as ‘Stronger at 40’ and ‘Combat Age-Related Loss of Muscle (CALM)’ for individuals aged 60 and above will also feature enhanced programming to better engage and empower participants.
-
-END
