@@ -32,7 +32,8 @@ image: ""
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
  
 S. Parameswaran
 <br>
