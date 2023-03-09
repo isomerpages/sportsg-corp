@@ -13,13 +13,13 @@ _Team Nila Strengthens and Unites Communities Through Sport_
 
 In his address, Guest of Honour and Minister for Culture, Community and Youth Mr Lawrence Wong paid tribute to the volunteers’ contribution and service to Singapore’s sporting landscape. “I’m very encouraged by the overwhelming response of Singaporeans across all walks of life to volunteer at the SEA Games. Volunteers are crucial to the success of every sporting event. I’ve seen that in all the major Games I’ve been too. Volunteers give their time and expertise to a range of critical tasks, often carried out behind the scenes, so that athletes can focus on their events, and spectators can have a good experience. I hope this spirit of sports volunteerism will energise and inspire more Singaporeans to step forward and volunteer in other areas too.” 
 
-##### **A common identity: Team Nila**
+**A common identity: Team Nila**
 
 Volunteers also witnessed the launch of ‘Team Nila’, the new sports volunteer brand. The brand serves to not only continue the legacy of ‘the Purple Army’ by creating a common identity for sports volunteers, but also forge a sense of belonging and instil a sense of pride among all sports volunteers.
 
 Mr Lim Teck Yin, Chief Executive Officer, Sport Singapore, explained that the Team Nila brand exemplifies the passion and team work that all volunteers bring to the table. “Vision 2030 calls for the development of a national effort to strengthen communities by encouraging volunteerism through sport. Singaporeans from all walks of life have responded to that call and are stepping up to be part of Team Nila. We are thus equally committed to work hard to ensure positive volunteer experiences by co-creating opportunities for learning and growth, and evolving appropriate forms of recognition for their outstanding efforts.”
 
-##### **More than 17,000 volunteers came forward for the 28th Southeast Asian (SEA) Games**
+**More than 17,000 volunteers came forward for the 28th Southeast Asian (SEA) Games**
 
 Stepping forward to the call for volunteers, over 17,000 Singaporeans and residents have signed up to be a part of the 28th Southeast Asian Games. Covering multiple roles during the games, more than half of the volunteers have already started preparations by attending the relevant training sessions.
 
@@ -37,7 +37,7 @@ Says Mr Ng, “Charlotte has always had a passion and a special interest in hors
 
 Other roles that the volunteers will be involved in include providing corporate support services, medical services, workforce management, media relations, sports and venue operations, games services, community engagement, information technology and logistics.  
   
-##### **Corporate Singapore embraces sports volunteerism**
+**Corporate Singapore embraces sports volunteerism**
 
 In addition to members of the community, Corporate Singapore has also stepped forward, in a show of support to the cause of sports volunteerism. In combination they contribute to more than 65 percent of the total number of volunteers.
 
@@ -48,5 +48,6 @@ Mr Lim who is also the Chairman of the Singapore Southeast Asian Games Organisin
 ---
 
 **Enclosure:**
-<br>[Annex A: Factsheet: Nila: The official mascot of the 28th Southeast Asian Games and the 8th ASEAN](/files/Media%20Centre/Media%20Release/2015/February/Team%20Nila%20Factsheet.pdf)
-<br>[Annex B: Fact sheet: Team Nila brand](/files/Media%20Centre/Media%20Release/2015/February/Team%20Nila%20Factsheet%20(1).pdf)
+
+* [Annex A: Factsheet: Nila: The official mascot of the 28th Southeast Asian Games and the 8th ASEAN](/files/Media%20Centre/Media%20Release/2015/February/Team%20Nila%20Factsheet.pdf)
+* [Annex B: Fact sheet: Team Nila brand](/files/Media%20Centre/Media%20Release/2015/February/Team%20Nila%20Factsheet%20(1).pdf)
