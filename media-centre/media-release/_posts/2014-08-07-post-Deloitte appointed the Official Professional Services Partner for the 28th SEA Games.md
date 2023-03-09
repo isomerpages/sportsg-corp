@@ -34,6 +34,7 @@ Deloitte Singapore’s employees include Derek Wong, Singapore’s current top b
 ---
 
 **Related Link:**
+
 [Speech By Mr Richard Seow, Chairman Of Sponsorship And Marketing Advisory Sub-Committee, SINGSOC For Deloitte Singapore’s Support For The 28th SEA Games](/media-centre/speeches/singsoc-for-deloitte-singapore-support-for-the-28th-sea-games/)
 
 ---
