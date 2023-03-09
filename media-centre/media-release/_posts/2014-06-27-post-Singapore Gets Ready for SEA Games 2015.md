@@ -36,7 +36,7 @@ With one year to the 28th SEA Games, organisers are already deep into the prepar
 
 **Getting the interest to experience the Games**
 
-11\. As part of SINGSOC’s effort to involve the community, early birds can register from today their interest for SEA Games tickets through the SEA Games 2015 website at http://www.seagames2015.com/get-involved/ticketing and receive priority to purchase tickets in October before they are released to the public in November. Priced as low as S$10, nearly 50 percent of the events will be free-of-charge.
+11\. As part of SINGSOC’s effort to involve the community, early birds can register from today their interest for SEA Games tickets through the SEA Games 2015 website at [ticketing](http://www.seagames2015.com/get-involved/ticketing) and receive priority to purchase tickets in October before they are released to the public in November. Priced as low as S$10, nearly 50 percent of the events will be free-of-charge.
 
 **Getting Corporate Singapore onboard**
 
@@ -83,8 +83,9 @@ Email:[parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
 Follow us on:<br>
-28th SEA Games Website: www.seagames2015.com <br>
-28th SEA Games Facebook Page: [https://www.facebook.com/SEAGamesSingapore2015/](https://www.facebook.com/SEAGamesSingapore2015/)
+[28th SEA Games Website](http://www.seagames2015.com)<br>
+[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
+[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
 
 **About Singapore50**<br>
-Singapore is celebrating the 50th anniversary of its independence in 2015. To commemorate and celebrate this major milestone in our nation’s history, Singaporeans will not only have a say in how the nation celebrates its Golden Jubilee, they will also be invited to plan and organise activities. To guide and coordinate the plans for the 50th anniversary celebrations, a Steering Committee chaired by Minister for Education Heng Swee Keat has been formed. Named the Singapore50 (SG50) Steering Committee, it comprises representatives from the public, private and people sectors. For more information on SG50, please visitwww.singapore50.sg.
+Singapore is celebrating the 50th anniversary of its independence in 2015. To commemorate and celebrate this major milestone in our nation’s history, Singaporeans will not only have a say in how the nation celebrates its Golden Jubilee, they will also be invited to plan and organise activities. To guide and coordinate the plans for the 50th anniversary celebrations, a Steering Committee chaired by Minister for Education Heng Swee Keat has been formed. Named the Singapore50 (SG50) Steering Committee, it comprises representatives from the public, private and people sectors. For more information on SG50, please visit [Singapore50 (SG50)](http://www.singapore50.sg).
