@@ -9,8 +9,8 @@ image: ""
 ---
 ### **Considering its patrons’ safety and wellbeing, SportSG enhances precautionary measures**
 
-* The National Sports Agency will regulate user access across all facilities, including stadiums, sport halls, gyms, swimming complexes and studios
-* NSAs and other partners of SportSG have been advised to strictly follow MOH guidelines
+* _The National Sports Agency will regulate user access across all facilities, including stadiums, sport halls, gyms, swimming complexes and studios_
+* _NSAs and other partners of SportSG have been advised to strictly follow MOH guidelines_
 
 ![](/images/Media%20Centre/Media%20Release/2020/March/heartbeatsportshall02.jpeg)
 
@@ -48,8 +48,7 @@ SportSG has advised all partners, including National Sport Associations to adher
 
 Members of the public are encouraged to stay healthy while observing good personal hygiene and socially responsible practices. They may take reference from [SG Clean](https://www.gov.sg/article/sg-clean). During this time, Singaporeans must join efforts to overcome the challenges arising from COVID-19 and work together to keep our families and each other safe.
 
-Members of the public may do simple exercises at home to keep themselves in shape, referring to videos developed by SportSG at [http://bit.ly/2wZvDUs](http://bit.ly/2wZvDUs) and [http://bit.ly/2IJXD1c](http://bit.ly/2IJXD1c) .
-
+Members of the public may do simple exercises at home to keep themselves in shape, referring to videos developed by SportSG at [http://bit.ly/2wZvDUs](http://bit.ly/2wZvDUs) and [http://bit.ly/2IJXD1c](http://bit.ly/2IJXD1c)<br>
 https://youtu.be/H_hhpCrDNuc?fbclid=IwAR0CMpSs1Exga2aF-mpn9F2kz5O_iRbh-upQS-khoCcEqZ7vXdK80JifZQg
 
 For more information, please visit SportSG’s website at [https://myactivesg.com/](https://www.myactivesg.com/read/2020/3/covid19-latest-updates-for-all-activesg-sport-facilities).
