@@ -50,7 +50,6 @@ Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
-
 **About Amore Women's Day Out 2010**<br>
 Amore Women's Day Out is the largest women-only aerobic-based sporting event in Singapore. Back for its seventh instalment in 2010, Amore Women's Day Out will be held on 6 March 2010. There are different segments for ladies to choose from - Experience Fitness for fitness newbies, the 3-hour Tri-Power Challenge for exercise pros, and Body-Mind-Soul for yoga enthusiasts. There is also the POWER of 2, which allows mothers to have a fun workout with their children. Other exciting fringe activities include archery, Chanbara Chess, rock climbing and uni-cycling.
 
