@@ -42,8 +42,8 @@ For Water Polo, the draw determined the teams’ order of play in the event’s 
 Fans will enjoy free admission to half of the 36 sports. Tickets to the sports competitions are priced as low as $5, with concession prices made available to students, senior citizens and full-time National Servicemen. There is also a 20% discount off every purchase of four or more tickets, to encourage family and friends to catch the Games in action.
 
 Tickets for most sports competitions are currently available for sale. The period of sales for the remaining team events are as follows:  
-•Netball and Volleyball on 21 April 2015 at 10am  
-•Basketball and Football on 6 May 2015 at 10am
+* Netball and Volleyball on 21 April 2015 at 10am  
+* Basketball and Football on 6 May 2015 at 10am
 
 ---
 
