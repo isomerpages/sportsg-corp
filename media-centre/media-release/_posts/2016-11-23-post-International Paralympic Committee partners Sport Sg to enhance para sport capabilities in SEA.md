@@ -25,7 +25,7 @@ Mr. Troy Engle, Director of Coach Development of the Singapore Sports Institute 
   
 Ryan Montgomery, IPC Summer Sports Director said: “As the global governing body of the Paralympic Movement we are delighted to establish this partnership with Sport Singapore and share our expertise in sports technical, Paralympic awareness and NPC management education. We are convinced that SportSG will be a true leader in developing IPC Sports and NPCs in Asia, with a focus on the Southeast Asian region, and are looking forward to the many successful programmes to come.”  
   
-Coaches interested in Para sport can find out more on upcoming courses in early 2017 by emailing Info\_ParaSports@sport.gov.sg
+Coaches interested in Para sport can find out more on upcoming courses in early 2017 by emailing [Info_ParaSports@sport.gov.sg](mailto:Info_ParaSports@sport.gov.sg).
 
 ---
 
