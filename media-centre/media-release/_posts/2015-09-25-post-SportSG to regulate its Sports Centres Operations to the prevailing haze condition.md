@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **SportSG to regulate its Sports Centres' Operations to the prevailing haze condition**
+
 Sport Singapore will regulate facilities’ operating hours at its ActiveSG Sports Centres according to the haze situation across the island to ensure the wellbeing of our guests.
 
 Based on the 24-hour Pollutants Standards Index (PSI) provided by the National Environment Agency, Sport Singapore will close all its outdoor and non air-conditioned indoor sports facilities when 24-hr PSI level hits above 200.
@@ -20,5 +21,5 @@ The health impact of haze is dependent on one’s health status (e.g. whether on
 
 Reducing outdoor activities and physical exertion can help limit the ill effects from haze exposure. Persons who are not feeling well, especially the elderly and children, and those with chronic heart or lung conditions, should seek medical attention.
 
-For the latest information on Haze, please visit:<br>
+For the latest information on Haze, please visit: 
 [http://www.haze.gov.sg](http://www.haze.gov.sg/)
