@@ -3,6 +3,7 @@ title: Building up Singapore's coaches and athletes
 permalink: /support-resources/learn-sport-building-up-coaches-and-athletes/
 description: ""
 ---
+# **Building up Singapore's coaches and athletes**
 
 Sport Singapore (SportSG) recognises that raising a new generation of sporting stars requires more than raw talent. There is a need for structured athlete development programmes using the latest teaching techniques, led by trained and certified coaches. 
 
