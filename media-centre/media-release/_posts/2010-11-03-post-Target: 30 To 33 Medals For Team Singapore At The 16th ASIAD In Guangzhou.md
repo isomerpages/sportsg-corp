@@ -18,11 +18,11 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 4. Leading the team as Chef-de-Mission is Mr Low Teo Ping, Vice-President of the Singapore National Olympic Committee and the President of the Singapore Rugby Union. Mr Low is also a Vice President of the International Sailing Federation and an advisor of the Singapore Athletic Association and was previously Chef-de-Mission to the Singapore contingent in the 2007 SEA Games in Korat, Thailand.
 
-5. The honour of carrying the Singapore flag this year rests with the celebrated female bowler Jasmine Yeong-Nathan. At the 16th Asian Games Guangzhou 2010 Flag Presentation ceremony held at Dunman High School today, Jasmine received the Singapore flag from CDM Low Teo Ping. The 2006 Asian Games gold medallist sailor Roy Tay then led the Team Singapore contingent in reciting the National Pledge.
+5. The honour of carrying the Singapore flag this year rests with the cel<br>ated female bowler Jasmine Yeong-Nathan. At the 16th Asian Games Guangzhou 2010 Flag Presentation ceremony held at Dunman High School today, Jasmine received the Singapore flag from CDM Low Teo Ping. The 2006 Asian Games gold medallist sailor Roy Tay then led the Team Singapore contingent in reciting the National Pledge.
 
 6. Deputy Prime Minister and Defence Minister, Mr Teo Chee Hean, who is also the President of the Singapore National Olympic Council, was the Guest-of-Honour at the Flag Presentation Ceremony. DPM Teo said, "I am proud to note that more team sports have qualified on merit for the Asian Games, and this year we will be sending teams to represent Singapore in five team sports events, namely in Water-Polo, Football, Rugby (Women's), Hockey and Dragon Boat where both the men's and women's teams have made the cut."
 
-##### **Promising Performances**
+**Promising Performances**<br>
 
 7. Following Team Singapore's stellar performance at the recently concluded Commonwealth Games (where 31 medals were clinched in total), public expectations on the team's showing at the 16th Asiad are high. But the athletes are all fully prepared and raring to take on Asia's best to show that Singapore is a sporting force to be reckoned with.
 
@@ -40,7 +40,7 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 14. "To our athletes - do your best to win but do not do it at all costs. It is always important to uphold the values of sportsmanship whenever Team Singapore athletes participate in any events, and when we wear the national flag across our chests."
 
-##### **Following Team Singapore's Action on New Media**
+**Following Team Singapore's Action on New Media**<br>
 
 15. For the first time in history, fans can now keep up with Team Singapore in action through SingaporeSports.tv, a free to access online portal launched by the Singapore Sports Council that will provide 'live' feeds of the sports events that feature Team Singapore athletes as they take place in Guangzhou.
 
@@ -52,7 +52,7 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 ---
 
-###### Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010
+**Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010**<br>
 
 DATE: 12-27 November 2010<br>
 VENUE: Guangzhou, China<br>
@@ -152,9 +152,9 @@ TEAM SINGAPORE'S PARTICIPATION: 22 sports
 
 ---
 
-###### Annex B: Team Singapore Contingent List at the 16th Asian Games Guangzhou 2010
+**Annex B: Team Singapore Contingent List at the 16th Asian Games Guangzhou 2010**<br>
 
-Athletes
+**Athletes**<br>
 
 | No | Sport | Name | Chinese Name | Age | M/F |Debutant | Event Discipline
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- |
@@ -405,7 +405,7 @@ Largest squad (Team): Dragon Boat - 48 Athletes
 <br>No. athletes of 21 years old and below: 98
 <br>No. of Debutant: 199
 
-Team Officials
+**Team Officials**<br>
  
 | No. | Sport                | Name                          | Role                            |
 | --- | -------------------- | ----------------------------- | ------------------------------- |
@@ -442,7 +442,7 @@ Team Officials
 | 31. | Dragon Boat          | Goh Poh Soon                  | Coach                           |
 | 32. | Dragon Boat          | Frederick Hartmut Heese       | Coach                           |
 | 33. | Equestrian           | Monique Heah Cheng Siew       | Team Manager                    |
-| 34. | Equestrian           | Juan-Miguel Febrerer Riu      | Coach                           |
+| 34. | Equestrian           | Juan-Miguel F<br>erer Riu      | Coach                           |
 | 35. | Fencing              | Ryan Quek Wee Lun             | Team Manager                    |
 | 36. | Fencing              | Khorvat Oleg                  | Coach                           |
 | 37. | Fencing              | Bobok Viacheslav              | Coach                           |
@@ -496,7 +496,7 @@ Team Officials
 
 ---
 
-###### Annex C: Profile of Chef-de-Mission
+**Annex C: Profile of Chef-de-Mission**<br>
 
 Low Teo Ping<br>
 Chef-de-Mission, Team Singapore
@@ -516,7 +516,8 @@ He believes in this saying:
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Lin Kuek
 <br>Caelan & Sage Pte Ltd
@@ -530,21 +531,21 @@ Tanty Nazlianah Rosli
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-
+<br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-
+<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
-###### About the Singapore National Olympic Council
+**About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-###### About Team Singapore
+**About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -552,5 +553,5 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
 For further information, please visit www.teamsingapore.com.sg.
-
+<br>
 Follow Team Singapore's action at the 16th Asian Games on Facebook at: www.facebook.com/TeamSG
