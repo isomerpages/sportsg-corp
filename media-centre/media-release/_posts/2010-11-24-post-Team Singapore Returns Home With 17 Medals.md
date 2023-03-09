@@ -10,7 +10,7 @@ image: ""
 
 _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite High Level Of Competition In Guangzhou_
 
-**Guangzhou, 27 November 2010** - With 17 medals in the bag as the 16th Asian Games Guangzhou 2010 comes to a close, Chef-de-Mission Low Teo Ping today congratulated Team Singapore for a respectable showing at the quadrennial event, despite the extremely high standards showed by the competing nations, especially host nation China, which amassed a total of 383 medals, 185 of them gold [1].
+**Guangzhou, 27 November 2010** - With 17 medals in the bag as the 16th Asian Games Guangzhou 2010 comes to a close, Chef-de-Mission Low Teo Ping today congratulated Team Singapore for a respectable showing at the quadrennial event, despite the extremely high standards showed by the competing nations, especially host nation China, which amassed a total of 383 medals, 185 of them gold[1].
 
 2. Team Singapore returned from the 16th Asian Games Guangzhou 2010 having clinched four gold, seven silver and six bronze medals.
 
@@ -18,7 +18,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 
 4. CDM Low also added that the Asian Games is an important step for many of our athletes, especially the 199 athletes who made their debuts in Guangzhou. "These athletes still have a long way to go and they now know what it will take to compete and win at this level," added CDM Low. "I am sure that the National Sports Associations and coaches will be conducting their respective post mortems as soon as they return to Singapore, as they look forward to the next major competition," he said.
 
-**Making Waves in the Land of the Dragon**<br>
+**Making Waves in the Land of the Dragon**
 
 5. Team Singapore's first medal at the Asian Games, a silver, came in the wings of 20-year-old Butterfly specialist Tao Li. Her sterling performance in the Women's 100m Butterfly event on Day One of competition put Singapore on the medal standings on the first day of competition. Tao Li's magnificent swim in the Women's 50m Butterfly event won Singapore its first gold medal and solidified her position as Asia's number one in the category.
 
@@ -32,7 +32,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 
 10. Expressing his pride for the Team Singapore athletes, CDM Low said, "We may not have met our medal projections but we still managed to put up a credible performance in Guangzhou. I am very proud of all our athletes. They have done what I told them to do before we touched down in Guangzhou, and that is to display the principles of sportsmanship and uphold the values of Team Singapore."
 
-**Reaching Out to Fans on New Media**<br>
+**Reaching Out to Fans on New Media**
 
 11. Throughout the Games, Team Singapore's Facebook fan page was a great source of information for fans and Singaporeans alike, who could receive minute-by-minute updates of key events during the Games, as well as updated results, photographs and quotes from the athletes and officials during competition.
 
@@ -42,7 +42,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 
 ---
 
-**Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010**<br>
+**Annex A: Team Singapore Medal Tally At The 16th Asian Games Guangzhou 2010**
 
 | No. | Medal  | Sport               | Event                            | Name of Athlete(s)                                         | Total |
 | --- | ------ | ------------------- | -------------------------------- | ---------------------------------------------------------- | ----- |
@@ -65,7 +65,7 @@ _CDM Low Teo Ping Congratulates Contingent For A Respectable Showing Despite Hig
 | 17. | Bronze | Sailing             | Women's Double Handed Dinghy 470 | Dawn LIU Xiaodan & Siobhan TAM Shui Wun                    |
 |     |        |                     |                                  |                                                            | 17    |
 
-**Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010**<br>
+**Annex B: Team Singapore Performance Records At The 16th Asian Games Guangzhou 2010**
 
 | Name of Athlete(s) | Event | Remarks |
 | -------- | -------- | -------- |
@@ -115,11 +115,11 @@ Jose Raymond
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our websites [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)[www.facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [www.singaporesports.sg](www.singaporesports.sg)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports)
 <br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
@@ -133,6 +133,6 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
+For further information, please visit [www.teamsingapore.sg/home](http://www.teamsingapore.sg/home).
 <br>
 Follow Team Singapore's action at the 16th Asian Games on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
