@@ -42,13 +42,13 @@ by Sport Biomechanics Team
 [Nutrition](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%201/SS_Symposium_2018_Nutrition_Breakout.pdf)
 by Sport Nutrition Team
 
-Physiology
+[Physiology](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%201/Practical_Approach_to_Assessing_Prescribing_and_Monitoring_Aerobic_Fitness_and_Training.pdf)
 by Joel Pang & Abdul Rashid Aziz, Sports Physiology Team
 
 [Psychology](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%201/Joyce_Koh_-_Mind_Matters_Breakout.pdf)
 by Joyce Koh, Associate Sport Psychologist, SSI Sport Psychology
 
-**[Strength and Conditioning](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/Danny-Lum---Singapore-Sport-Science-Symposium_Isometric-Core-Exercise.ashx?la=en&hash=3546471B6A6A4A9B1D5CF7579616A3C8630CD2C4)**  
+[Strength and Conditioning](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%201/Danny_Lum_-_Singapore_Sport_Science_Symposium_Isometric_Core_Exercise.pdf)
 by Danny Lum
 
 ##### **Day 2**
