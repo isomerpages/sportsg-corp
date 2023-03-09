@@ -4,7 +4,7 @@ permalink: /sport-leadership/game-for-life/book/
 description: ""
 third_nav_title: Game For Life
 ---
-#### **‘Game For Life: 25 Journeys’ Synopsis**
+#### **'Game For Life: 25 Journeys' Synopsis**
 
 ![Book](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Book/books.gif)
 
