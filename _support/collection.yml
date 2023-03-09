@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - National Registry of Coaches/Accredited Standard First Aid with AED
+        Courses.md
       - National Registry of Coaches/How To Guides for SportSync.md
       - National Registry of Coaches/How to Upgrade NROC Membership.md
       - National Registry of Coaches/How to renew NROC Membership.md
