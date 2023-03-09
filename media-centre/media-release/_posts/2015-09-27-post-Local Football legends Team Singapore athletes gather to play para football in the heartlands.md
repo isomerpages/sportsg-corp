@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Local Football legends, Team Singapore athletes gather to play para football in the heartlands**
+
 Team Singapore Cerebral Palsy footballers, local football legends such as Fandi Ahmad and Lim Tong Hai, some secondary school and polytechnic students, and Special Olympic Singapore and SportCares participants took part in a one-of-its-kind Cerebral Palsy Football competition this weekend at the Toa Payoh HDB Hub Mall. Organised by the Singapore ASEAN Para Games Organising Committee (SAPGOC), the Unified Football Tournament aimed to showcase para football and bring awareness to the upcoming 8th ASEAN Para Games which will be held for the first time in Singapore from 3 to 9 December this year, as a befitting finale to Singapore’s golden jubilee celebrations.
 
 Graced by Mr Lawrence Wong, Minister for Culture, Community and Youth, the Unified Football Tournament is a true showcase in teamwork and camaraderie. The event, which garnered a crowd of nearly 5,000 people, brought together sporting talent from three different spectrums and generated eight teams of the following composition:
@@ -32,7 +33,7 @@ The Unified Football Tournament is the second of three community invitationals o
 
 “The Unified Football Tournament is just one of the many activities we have planned in the lead up to the 8th ASEAN Para Games. We are confident that these showcases not only raise excitement but also highlight the true sporting excellence involved in para-sports. I hope Singaporeans will come out to support our Team Singapore para-athletes when they compete in December,” said Mr Kerk Kim Por, Deputy Chairman EXCO, SAPGOC.
 
-##### **‘BackupAPG2015’ movement**
+**‘BackupAPG2015’ movement**
 
 The ‘BackupAPG2015’ movement aims to raise awareness for para-athleticism and is a show of support for the athletes at the ASEAN Para Games and the Persons with Disability (PWD) community. Members of the public are encouraged to take a photo of themselves doing the ‘APG pose’ (putting your right hand on your left shoulder) and post the photo onto their Facebook, Instagram or Twitter accounts with the hashtag #BackupAPG2015. They are also encouraged to nominate their friends to do the same by tagging the names on their posts. The pose indicates that the community has the back of the athletes and the PWD community. The movement has already garnered more than 5,000 photos on social media.
 
