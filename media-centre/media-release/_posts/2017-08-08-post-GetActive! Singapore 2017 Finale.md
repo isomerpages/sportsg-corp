@@ -14,7 +14,7 @@ Many of the ground-up initiatives supported through the Active Enabler Programme
 ![](/images/Media%20Centre/Media%20Release/2017/August/GASG%202017%20Round%20Up%20Infographics.jpeg)
 _GetActive! Singapore 2017 Round-Up infographic_
 
-##### **Finale of GetActive! Singapore 2017**
+**Finale of GetActive! Singapore 2017**
 
 Some 4,800 students, staff and stakeholders from the Victoria-Cedar Alliance (VCA) started the eve of National Day early with an outdoor walk in support of Club Rainbow around the Tanjong Rhu area and played games at the OCBC Arena. Their event, entitled VCActive is one of the GetActive! Singapore Active Enabler Projects this year.
 
@@ -29,7 +29,7 @@ The finale event at the Singapore Sports Hub was held in-conjunction with the Sp
 
 ![](/images/Media%20Centre/Media%20Release/2017/August/VictoriaCedar%20Alliance%20Marchin%20condition%20at%20the%20GetActive%20Singapore%20Finale.jpeg)
 
-##### **Sports Festivals & Active Enabler Programmes**
+**Sports Festivals & Active Enabler Programmes**
 
 Over the past two weekends, the Sports Festivals at the nine locations, the Padang, Singapore Sports Hub, Our Tampines Hub, Toa Payoh Hub, Tampines Central, Ang Mo Kio, Punggol Central, Jurong East and Sentosa attracted over 278,000 people.
 
@@ -42,7 +42,7 @@ Mr Lim Teck Yin, Chief Executive Officer of Sport Singapore shared “This year,
 
 Mr Franky Wong, Director of Yello Marketing Agency whose event was at the inaugural Inclusive Sports Festival at Our Tampines Hub on the first weekend of GetActive! Singapore said, “This year’s Game ON also sought to cater to persons with disabilities, meeting the ISF’s main objective of bringing people from all walks of life together through sport. We designed the games in such a way that even those with special needs can play a part.”
 
-##### **Sport Competitions – National Youth, Corporate Games and Masters Games**
+**Sport Competitions – National Youth, Corporate Games and Masters Games**
 
 This year’s GetActive! Singapore Sport Competitions went above and beyond to attract organisations, working adults and seniors. Of the 13,000 sign-ups, about 4,000 and 2,700 registrants came from the Corporate and Masters Games respectively. The National Masters Games had categories for people aged 35 and above.
 
