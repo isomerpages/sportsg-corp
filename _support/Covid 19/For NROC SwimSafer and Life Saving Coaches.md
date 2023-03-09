@@ -43,3 +43,18 @@ Please obtain email endorsements from your CCE training coordinators or provider
   
 For guidance on accessing e-card on [SportSync](http://www.sportsync.sg/), please click [here](/files/Support/Coaches'%20Corner/Covid%2019/SwimSafer%20%20%20Life%20Saving/How_to_access_e-card_1.pdf)
 For guidance on updating of Continuing Coach Education records on [SportSync](http://www.sportsync.sg/), please click [here](/files/Support/Coaches'%20Corner/Covid%2019/SwimSafer%20%20%20Life%20Saving/How_to_access_e-Logbook_1.pdf)
+
+
+
+| NROC Level | Min. Coaching Practice Hours (Up to 50% of these can be Coaching Education hours) | Min. Coaching Education Hours (Learning & Development) | |
+| -------- | -------- | -------- | -------- |
+|  |   | Attendance CCE Hours (can include online learning)     |Self-Guided CCE Hours  |
+| Level 1 (Coach) |  15 | 12  | Not more than 3 |
+| Level 2 (Senior Coach) |  36 | 12  | Not more than 12 |
+| Level 3 (Master Coach) |  70 | 12  | Not more than 18 |
+
+**5. Where could I find more information related to COVID-19 support or advisory?**
+
+For the latest updates on the Covid 2019 support, please refer to our [website](/support-resources/covid-19/covid-19-support/) for more information. Should you have any other queries and feedback, please contact us at [SPORT_QSM@sport.gov.sg](mailto:SPORT_QSM@sport.gov.sg) or 1800-344-1177 during office hours (Mon to Fri, 9.00am – 6.00pm).
+
+
