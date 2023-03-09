@@ -17,3 +17,11 @@ Sport Singapore is delighted to announce that we will extend ONE (1) year membe
 \* Swim pass @ $10 per month  
 \# Existing coaches with a valid usage permit and maintain a valid NROC membership.
 
+#### **FREQUENTLY ASKED QUESTIONS**
+
+##### **National Registry of Coaches**
+
+**1. Who will be eligible for this extension ?**
+All current members - both Provisional and Full (Coach, Senior Coach and Master Coach) membership, as of **8 June 2021** with a valid (active/inactive) membership will receive an extension of **1 year** to your membership. Other membership status such as expired, suspended would not be eligible. For example. if your membership expires 30 Jun 2020, the new expiry date would be 30 Jun 2021. No action is required on your end. It would take some time to update the membership details in our system and you shall be notified by email once this is done. For those of you who have submitted renewal applications but have not received the official approval, we shall advise you individually if there is any follow-up required.
+
+**2. Will I receive a new membership card with the extended new date?**
