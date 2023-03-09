@@ -2,6 +2,7 @@ collections:
   coaches-corner:
     output: true
     order:
+      - National Registry of Coaches/Usage of Sports Hub Library.md
       - National Registry of Coaches/NROC Handbook.md
       - National Registry of Coaches/.keep
       - Singapore Coach Excellence/SG Coach Level 1 Theory Programme.md
