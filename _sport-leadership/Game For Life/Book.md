@@ -52,3 +52,7 @@ We believe that sport is not just about technical ability and skill, but rather,
 | Commitment | Courage | Determination |
 | -------- | -------- | -------- |
 | Glory Barnabas (Athletics)<br>Jane Lee (Mountaineering)<br>Subhas Anandan (Cuesports)     | Kristen Tan (Triathlon)<br>Richard Tan (Motor Sports)     | Adrian Mok (Triathlon)<br>Gary Yeo (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Laurentia Tan (Para Equestrian)<br>Tan Wearn Haw (Sailing)<br>Yip Pin Xiu (Swimming) |
+
+| Diligence | Discipline | Execellence |
+| -------- | -------- | -------- |
+| Alan Koh Swee Wan (Athletics)<br>Canagasabai Kunalan (Athletics)<br>Dr Benedict Tan (Sailing)<br>Grace Young-Diao (Bowling)<br>Jane Lee (Mountaineering)<br>Jing Junhong (Table Tennis)<br>Kadir Yahaya (Football)<br>Lim Heem Wei (Gymnastics)<br>Melanie Ann Martens (Hockey)    | Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Glory Barnabas (Athletics)<br>Jovin Tan (Para Sailing)<br>Kadir Yahaya (Football)<br>Khatijah Surattee (Shooting)<br>Mathavan Devadas (Hockey)<br>Shamsul Maidin (Football)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing) | Adrian Mok (Triathlon)<br>Glory Barnabas (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Richard Tan (Motor Sports)
