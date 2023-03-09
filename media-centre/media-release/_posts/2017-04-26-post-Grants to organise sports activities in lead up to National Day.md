@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Grants to organise sports activities in lead up to National Day**
+
 ![](/images/Media%20Centre/Media%20Release/2017/April/GASG%20Active%20Enabler%20Infographics01.jpeg)
 
 With more Singaporeans being active and understanding the benefits of sport, GetActive! Singapore’s Active Enabler Programme aims encourage even more people to organise sporting activities for their community of friends, school, or organisation/company.
