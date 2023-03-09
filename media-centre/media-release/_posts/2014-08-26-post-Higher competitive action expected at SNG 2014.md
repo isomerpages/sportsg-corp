@@ -29,8 +29,7 @@ The Singapore National Games (SNG) 2014 returns with its second edition and will
 **For media enquiries, please contact:**
 <br>
 
-**VOXCOMMƵ – VOX Group Pte Ltd**
-
+**VOXCOMMƵ – VOX Group Pte Ltd**<br>
 Lynda Lim<br>
 Mobile: +65 9686 1479<br>
 Email: [lynda@voxgroupglobal.com](mailto:lynda@voxgroupglobal.com)
