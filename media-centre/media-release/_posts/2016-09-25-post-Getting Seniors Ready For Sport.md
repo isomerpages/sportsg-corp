@@ -11,7 +11,7 @@ In a bid to encourage more seniors to take up sport, ActiveSG has partnered the 
 
 In a National Sport Index Survey conducted by Sport Singapore in 2014, 64% of respondents who exercise less than once a month, said that age and health issues were their main reason why they did not exercise regularly. Mr Lai Chin Kwang, Chief, ActiveSG said, “Age should never be a reason for seniors to shun away from sports. Regular exercise is key to ageing well and ensuring a high quality of life, physically and mentally. The introduction of this new fitness test, FIT for FUNction, will help seniors be more aware of their current fitness and give them the ease of mind to start exercising knowing that their risk of injury is minimised.”
 
-##### **FIT for FUNction Fitness Test**
+**FIT for FUNction Fitness Test**
 
 The test requires participants to first answer a Physical Activity Readiness Questionnaire (PAR-Q). After successfully completing the Questionnaire, participants will go through seven fitness stations conducted by physiotherapists, which will evaluate their fitness in the domains of strength, flexibility, balance, agility and aerobic capability. Upon completion of the test, the participant will be given a scorecard informing them how sport-ready they are. There will also be a consultation with a fitness instructor who will advise participants on which sports they should take up or avoid. The test is not limited to seniors and can also be carried out by participants aged 20 and above.
 
@@ -28,10 +28,10 @@ The inaugural event of FIT for FUNction was conducted at a community event organ
 
 To find out more information of the FIT for FUNction Fitness Test or ActiveSG programmes for seniors, visit [myactivesg.com](MyActiveSG.com) or approach the guest officers at ActiveSG sport centres.
 
-**About ActiveSG**
-<br>
+---
+
+**About ActiveSG**<br>
 As a key recommendation of Vision 2030 – Singapore’s master plan for sports, ActiveSG was launched in April 2014 as the national movement for sport and physical activities. ActiveSG aims to create a sporting ecosystem that provides innovative and experiential sport related programmes at sports centres island-wide. This movement will act as an enabler to build a community for individuals, families and organisations from different zones where Singaporeans can come together to learn, train, compete and host a range of sports. Working together with communities, National Sports Associations (NSAs), schools, corporations, public agencies and interest groups, ActiveSG aims to co-create programmes that are affordable and inclusive for all skill levels and age groups.
 
-**Singapore Physiotherapy Association** 
-<br>
+**Singapore Physiotherapy Association**<br>
 Founded in 1964, the Singapore Physiotherapy Association (SPA) is the only professional body to represent and advocate for the profession and practice of physiotherapy in Singapore. As a non-profit organisation, it encourages high standards of physiotherapy practice, education and research, promotes safe, effective and proven clinical standards, as well as support and unite physiotherapists in Singapore and abroad. The SPA is also a member of the World Confederation for Physical Therapy.
