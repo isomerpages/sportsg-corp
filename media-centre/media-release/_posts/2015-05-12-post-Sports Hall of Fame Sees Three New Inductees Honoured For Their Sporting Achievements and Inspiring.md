@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Sports Hall of Fame Sees Three New Inductees Honoured For Their Sporting Achievements and Inspiring the Community**
+
 Three Team Singapore athletes have been inducted into the Sports Hall of Fame for their outstanding performances in the international arena, their service to the community and for being a role model to young upcoming athletes.
 
 The three new hall of fame inductees are Team Singapore paddlers Feng Tianwei and Wang Yuegu; and Team Singapore para-swimmer Yip Pin Xiu who will be the first para-athlete inducted to the Hall of Fame.
@@ -45,5 +46,3 @@ Outside of sport, when Pin Xiu is not competing, she actively engages with para 
 Says Pin Xiu, “Swimming has always been something that I have been passionate about and I know that I can achieve what I want, as long as I put my mind to it. I want to still continue doing my best.”
 
 She adds, “It is humbling to be the first para-athlete to be inducted into the Sports Hall of Fame and it goes to show that there are really no limits to sports. All you need is tenacity of focus and to stay true to what you want to achieve.”
-
-END
