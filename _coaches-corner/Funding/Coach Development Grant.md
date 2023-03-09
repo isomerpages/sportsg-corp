@@ -98,3 +98,89 @@ When more than 1 CDG recipient collaborate on the same deliverable, each CDG rec
 | S$1k < X ≤ S$3k  | Report     | 30     |
 | S$3k < X ≤ S$5k     | Report + interview by CoachSG for CDG publicity | 45 |
 | X > S$5k     | Report + interview by CoachSG for CDG publicity     | 60 |
+
+**Section 4: Scope of Coverage and Exclusions**
+
+**Section 4.1: Scope of Coverage**
+
+Only the following items may be covered by the CDG. SportSG will review the application and deliberate on the actual grant amount:
+
+For local conference, Degree / Diploma or short-term courses / seminars / workshops, only the course or registration fees may be subsidised.
+For overseas conference, Degree / Diploma or short-term courses / seminars / workshops, only the following expenses may be subsidised:
+
+a. Conference, Degree / Diploma or short-term course / seminar / workshop registration or course fees
+<br>
+b. Return Economy Class airfare
+<br>
+c. Airport taxes
+<br>
+d. Land transport
+<br>
+e. Accommodation
+<br>
+f. Travel Insurance
+
+**Section 4.2: Exclusions** 
+
+CDG does not cover:
+
+a. Standard First Aid, Cardio-Pulmonary Resuscitation (CPR) and Automated External Defibrillator (AED) courses as they are deemed to be fundamental skills requirement for coaches;
+<br>
+b. Singapore Coach Excellence (SG-Coach) Programme or equivalent courses organised by SportSG and NSAs (e.g., SG-Coach Theory, Technical and Integrated courses); and
+<br>
+c. Continuing Coach Education (CCE) courses / workshops / seminars conducted by NSAs as these activities are subsidised by SportSG.
+ 
+**Section 5: Application Process**
+
+All applications will be assessed on a case-by-case basis.
+
+Before applying for CDG, please note that the applicant shall not accept any other sponsorship or grant without the prior written consent of SportSG. In the case of other sponsorship or grant already accepted by the applicant prior to this application, the applicant shall have made full disclosure of such sponsorship or grant to SportSG at the time of application for the CDG. In the event of any breach, SportSG shall be entitled to terminate the grant immediately or demand a refund of the full disbursed grant amount.
+
+The CDG application process is described below. Coaches must submit their applications at least 2 months before start of CDG Activity. SportSG will not accept any application once the CDG Activity has started. Applications submitted within 2 months before start of CDG Activity will be closely scrutinised and considered on a case-by-case basis.
+
+**For applications as NROC Coaches / Coach Developers**
+
+Applicant to submit completed application form and supporting documents via OurSG Grant portal for SportSG’s review
+SportSG will consult the relevant NSA on the application. Approval or disapproval of the application will be at the sole discretion of SportSG following consultation with the NSA
+SportSG will communicate application outcome via OurSG Grant portal
+All CDG-related agreement will be between CoachSG and the applicant only. CoachSG may also request the applicant provide up to 3 character references in support of the application.
+
+**List of Required Documents**
+
+a. Completed CDG application form (within the portal)
+<br>
+b. Applicant’s NRIC / FIN card, sports coaching Curriculum Vitae (C.V.) and sports coaching-related certificates
+<br>
+c. Details of CDG Activity (e.g., course brochure / schedule, proof of acceptance / enrolment / registration from relevant institution / organisation)
+<br>
+d. Invoices / quotations / receipts of the cost items (where available) (e.g., return Economy Class air tickets, accommodation, travel insurance, course fees). Reasonable estimation with justification must be provided if no invoices / quotations / receipts are available
+
+**Section 6: Disbursements**
+
+Please note that all disbursements will be made in Singapore Dollars (SGD). If any of the invoices / quotations / receipts of the cost items are purely in foreign currency (i.e., with no transaction record reflecting the corresponding amount in SGD), the corresponding amount of local currency (in SGD) disbursed will be calculated based on the date on which all Post-Activity Deliverables are officially approved by SportSG.
+
+All CDG disbursements will be given to the applicant only. NSAs will not receive any disbursement.
+
+For all CDG Activities, 100% of the approved funds will be disbursed to the applicant upon approval of the application.
+
+**Section 7: Terms and Conditions**
+
+The applicant shall refund SportSG the full disbursed grant amount should the applicant, without valid reasons and where applicable, fails to fulfil all the necessary procedures, requirement and Post-CDG Activity Deliverables.
+
+False declaration in any form may effect immediate disqualification from the grant.
+
+The CDG Terms and Conditions is subjected to periodic review.
+
+With effect from 1 September 2020, individual sport coaches may apply for the Coach Development Grant (CDG) via OurSG Grant portal – a one-stop portal to apply for government grants that support arts, community, heritage, social good, sports and youth. If you have any further queries about CDG, you may contact us at [Sport_Coaching@sport.gov.sg](mailto:Sport_Coaching@sport.gov.sg) or visit:
+
+**Coaching Development**
+
+**CoachSG**
+
+Singapore Sport Institute
+<br>
+Sport Singapore
+<br>
+3 Stadium Drive
+<br>
+Singapore 397630
