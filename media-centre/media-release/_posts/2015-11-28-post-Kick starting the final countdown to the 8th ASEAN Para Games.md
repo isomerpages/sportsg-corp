@@ -7,9 +7,10 @@ description: ""
 image: ""
 ---
 ### **Kick starting the final countdown to the 8th ASEAN Para Games**
+
 The 8th ASEAN Para Games (APG) will officially open in five days and APG fever is at an all-time high.As the finishing touches go up at the Games Village to ensure a pleasant stay for all athletes and officials, visitors to the Singapore Sports Hub will also experience the extraordinary at the APG Carnival.
 
-##### **12 days of fun-filled experiences at the APG Carnival**
+**12 days of fun-filled experiences at the APG Carnival**
 
 Today, the fun-for- the-family APG Carnival kicked off at the Sports Hub. Until 9 December 2015, visitors to the Sports Hub will experience some unique and engaging family fun at the carnival, featuring an eclectic mix of 21 activities for audiences of all ages.
 
@@ -17,7 +18,7 @@ Today, the fun-for- the-family APG Carnival kicked off at the Sports Hub. Until 
 
 Activities at the carnival are divided into four main zones – the Para Experience Zone, Para Sports Tryouts, Kids and Inflatable Zone, and the ActiveSG Experience Zone with something fun for everyone!
 
-##### **Athletes and officials can expect a well-equipped Games Village**
+**Athletes and officials can expect a well-equipped Games Village**
 
 On the other hand, the Games Village, located at the iconic Marina Bay Sands, will house approximately 3,000 athletes and officials, in 1,300 hotel rooms, for the duration of the Games (3 - 9 December 2015).
 
@@ -31,9 +32,9 @@ Ian Wilson, Senior Vice President, Hotel Operations, Marina Bay Sands, echoed th
 
 For the first time, we have transformed a whole level of hotel rooms in Tower 3 into medical suites. With medical facilities under the same roof, it will be more convenient for the athletes to access round-the-clock medical expertise. The athletes’ dining hall, located right beside the competition hall at Sands Expo and Convention Centre, will also see lowered buffet lines for the athletes and some 14,000 meals are expected to be prepared throughout the whole period. We have also designated a special transport hall, adjacent to the competition halls, so that it is easier for the athletes to shuttle between Sports Hub and Marina Bay Sands.” 
 
+---
 
-**About the 8th ASEAN Para Games**
-<br>
+**About the 8th ASEAN Para Games**<br>
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
 
 Facebook:[ASEANParaGames2015](https://www.facebook.com/ASEANPARAGAMES2015)<br>
