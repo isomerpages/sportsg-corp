@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Well-Wishing Campaign for Team Singapore launched**
 
-##### **A passionate show of support for Beijing-bound athletes**
+_A passionate show of support for Beijing-bound athletes_
 
 Team Singapore athletes received a boost of support to their preparations for the Beijing 2008 Olympic and Paralympic Games when Dr Vivian Balakrishnan, Minister for Community Development, Youth & Sports (MCYS) officially launched the first Olympic well-wishing campaign as Guest of Honour at the IMM Mall today. This event is the first of a series of well-wishing activities organised by the Singapore Sports Council (SSC) to rally Singaporeans behind the athletes as they get ready for the world's biggest sporting stage - the Beijing 2008 Olympic and Paralympic Games.
 
@@ -24,8 +24,8 @@ The official send-off for the Team Singapore contingent headed for the Beijing 2
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Lorna Campbell
 <br>
 Fulford Public Relations
@@ -60,5 +60,5 @@ Email: [deng@fulfordpr.com](mailto:deng@fulfordpr.com)
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
