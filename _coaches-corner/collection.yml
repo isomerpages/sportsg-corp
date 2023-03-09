@@ -2,6 +2,7 @@ collections:
   coaches-corner:
     output: true
     order:
+      - Singapore Coach Excellence/SG Coach Technical Programme Accreditation.md
       - Singapore Coach Excellence/Replacement of Lost Certificate.md
       - Singapore Coach Excellence/.keep
       - Singapore Coach Excellence/Singapore Coach Excellence (SG Coach)
