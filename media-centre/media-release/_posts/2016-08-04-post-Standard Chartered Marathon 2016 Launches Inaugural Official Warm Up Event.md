@@ -26,7 +26,7 @@ In addition to this test run, SCMS 2016 will also be hosting a series of worksho
 
 Registration for the SCMS Official Warm Up is now open on the [SCMS website](www.marathonsingapore.com). SCMS 2016 registrants and Standard Chartered Bank cardholders enjoy special discounted rates ranging from S$25 to S$50. They will receive the official race pack consisting of a Brooks running tee, participant medal and race bib which records their official timing for the test run. Other runners can join the test run for a registration fee ranging from S$35 to S$60.
 
-For more information, please visit: [www.marathonsingapore.com ](www.marathonsingapore.com ) 
+For more information, please visit: [Standard Chartered Marathon Singapore (SCMS)](www.marathonsingapore.com ) 
 
 **Follow the race:**<br>
 Facebook: www.facebook.com/MarathonSG<br>
