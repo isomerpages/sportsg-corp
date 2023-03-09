@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Almost 7,000 members of the community took the SEA Games route**
+
 Almost 7,000 members of the community participated in the Nila Swim & Aquathlon and Nila Run and events this weekend.
 
 Held on 6 and 7 June, The Nila Swim & Aquathlon and Nila Run, a 10km run events offered sport enthusiasts with a once-in-a-lifetime opportunity to experience the SEA Games from the athlete’s perspective by swimming and running a modified route of the SEA Games Triathlon Course – a first in SEA Games history.  
