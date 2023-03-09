@@ -64,7 +64,10 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 | \*International Sports Academy| [https://www.isa.edu.sg](https://www.isa.edu.sg) IMC Sports Diploma Study Award <br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)|
 | James Cook University| [https://www.jcu.edu.sg](https://www.jcu.edu.sg)|
 |\*National University of Singapore|NUS Sports Scholarship<br>[http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship](http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship)<br>NUS Sports Scholarship (Mid-Term)<br>[http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term)](http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term))|
-| \*Nanyang Technological University	| [http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx](http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx)<br>(for existing students)
+| \*Nanyang Technological University	| [http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx](http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx)<br>(for existing students)|
+| SIM Global Education| Scholarship application details will be emailed out to all carded athlete in April/May.<br>University of Stirling courses:<br>• Bachelor of Arts (Honours) in Sports Studies and Marketing<br>• Bachelor of Arts (Honours) in Events Management<br>• Bachelor of Arts (Honours) in Marketing<br>• Bachelor of Arts (Honours) in Retail Marketing<br>• Bachelor of Arts (Honours) in Digital Media|
+| \*Singapore Management University|Yip Pin Xiu Scholarship<br>[https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship](https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship)|
+| Singapore Institute of Technology	| [https://www.singaporetech.edu.sg/undergrad/scholarships](https://www.singaporetech.edu.sg/undergrad/scholarships)
 
 
 
