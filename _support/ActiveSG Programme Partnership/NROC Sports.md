@@ -9,7 +9,7 @@ third_nav_title: ActiveSG Programme Partnership
 
 The **National Registry of Coaches (NROC)** was launched in 2003 to raise the standard and professionalism of sports coaching in Singapore. It aims to ensure that coaches meet baseline qualifications, that coaches continue to practise and improve, and that coaches provide a safe environment for their athletes. Today, there are over 6,000 coaches listed across 74 sports in the NROC and coaches can choose to publish their profile via an online public database called "[Find a Coach](https://www.myactivesg.com/Sports/Find-a-Coach)".
 
-Coaches in the NROC are duly certified under the [Singapore Coach Excellence (SG-Coach) Programme](/support/coaches-corner/singapore-coach-excellence-sg-coach-programme/) (formerly known as the National Coaching Accreditation Programme or NCAP) in their respective sports and must hold Standard First Aid certification (including CPR & AED). They are committed to abide by the [Coach’s Code of Ethics](/support/coaches-corner/code-of-ethics) and meet the requirements for the [Continuing Coach Education](/support/coaches-corner/continuing-coach-development) Programme. This is part of the quality assurance to users of the coaching services that the coaches registered under NROC are up-to-date in their coaching knowledge and skills.
+Coaches in the NROC are duly certified under the [Singapore Coach Excellence (SG-Coach) Programme](/support-resources/coaches-corner/singapore-coach-excellence-sg-coach-programme/) (formerly known as the National Coaching Accreditation Programme or NCAP) in their respective sports and must hold Standard First Aid certification (including CPR & AED). They are committed to abide by the [Coach’s Code of Ethics](/support-resources/coaches-corner/coachs-code-of-ethics/) and meet the requirements for the [Continuing Coach Education](/support-resources/coaches-corner/continuing-coach-development/) Programme. This is part of the quality assurance to users of the coaching services that the coaches registered under NROC are up-to-date in their coaching knowledge and skills.
 
 Through NROC, Sport Singapore aims to give recognition to coaches who have been certified and deemed competent by a national body. Doing so also allows the public to have easy access to [qualified coaches](https://www.myactivesg.com/Sports/Find-a-Coach).
 
@@ -17,15 +17,15 @@ Requirements to join the NROC are as follows :
 
 **Provisional Membership**
 
-1.  [Valid Standard First Aid (SFA) Certificate](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/National-Registry-of-Coaches/Accredited-Standard-First-Aid-with-AED-Courses)
+1.  [Valid Standard First Aid (SFA) Certificate](/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/)
 2.  [Values and Principles in Sport (VPS)](/sports-education/value-and-principles-in-sport/) Certificate or its equivalent<sup>1</sup>
 3.  Other supporting documents of playing experience or coaching certification and experience in the sport of choice
 
 **Full Membership**
 
 1.  *Valid SFA Certificate*
-2.  [Foundational Sports Science (FSS) Certificate](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Singapore-Coach-Excellence-Programme-SG-Coach/Foundational-and-Intermediate-Sports-Science-Courses) (exempted for NCAP Theory certificate holder) or its equivalent 
-3.  [SG-Coach Level 1 (Theory)](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-level-1-theory-programme) including Values & Principles in Sports, or National Coaching Accreditation Programme (NCAP) Certificate or its equivalent
+2.  [Foundational Sports Science (FSS) Certificate](/coaches-corner/singapore-coach-excellence/foundational-and-intermediate-sports-science-courses/) (exempted for NCAP Theory certificate holder) or its equivalent 
+3.  [SG-Coach Level 1 (Theory)](/coaches-corner/singapore-coach-excellence/sg-coach-level-1-theory-programme/) including Values & Principles in Sports, or National Coaching Accreditation Programme (NCAP) Certificate or its equivalent
 4. [SG-Coach Level 1 (Technical)](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-technical-programme-accreditation) or NCAP Certificate or its equivalent
 5.  Other supporting documents
 
@@ -39,12 +39,12 @@ Over a three-year provisional membership period, they could be given priority en
 
 More information on NROC new and renewal applications can be found at the following links:
 
-*   [How to apply for a NEW NROC membership](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/how-to-be-an-nroc-coach)
-*  [How to RENEW my NROC Membership](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/how-to-renew-nroc-membership)
+*   [How to apply for a NEW NROC membership](/support-resources/national-registry-of-coaches/how-to-be-an-nroc-coach/)
+*  [How to RENEW my NROC Membership](/support-resources/national-registry-of-coaches/how-to-renew-nroc-membership/)
 
 **NROC Upgrade Applications** 
 
-*  [How to UPGRADE my NROC membership](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/National-Registry-of-Coaches/How-to-Upgrade-NROC-Membership)
+*  [How to UPGRADE my NROC membership](/support-resources/national-registry-of-coaches/how-to-upgrade-nroc-membership/)
 
 **Where to find an NROC coach?** 
 
