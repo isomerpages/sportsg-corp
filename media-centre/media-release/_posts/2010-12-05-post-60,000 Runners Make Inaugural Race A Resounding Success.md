@@ -34,7 +34,6 @@ image: ""
 ---
 
 **Annex A: Results**
-<br>
 
 Full Marathon Results - Men's Individual
 
