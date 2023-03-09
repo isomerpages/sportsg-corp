@@ -29,7 +29,7 @@ For those without experience in tennis, the tour can also be tailored to introdu
 
 Mr Lai Chin Kwang, Chief, ActiveSG said, “There is no better way to find out why Tennis is one of the most popular sports around than to pick up a racquet and experience it first-hand. The Singapore Tennis Festival Experience Tour will give participants the chance to enjoy Tennis and hopefully inspire them to see the sport as one which they will love to play and watch regularly.”
 
-To find out more info about the Singapore Tennis Festival and the Experience Tour, visit [www.tennisfest.sg](http://www.tennisfest.sg/)
+To find out more info about the Singapore Tennis Festival and the Experience Tour, visit [Singapore Tennis Festival](http://www.tennisfest.sg/)
 
 **Augmenting visitor experience at the 2017 WTA Finals Singapore through STB’s Courtside@CHIJMES lifestyle programme**
 
@@ -41,4 +41,4 @@ As part of STB’s efforts to augment the visitor experience while creating vibr
 
 Said Ms Jean Ng, Director, Sports, Singapore Tourism Board: “The Courtside@CHIJMES programme will strengthen the appeal of the WTA Finals Singapore as one of our top sports events amongst sports enthusiasts. Specially designed to complement the WTA Finals, this programme would entertain and inspire visitors to also explore more of what Singapore can offer during this exciting period.”
 
-Full details on Courtside@CHIJMES can be found at [http://www.timeout.com/singapore/things-to-do/courtside-chijmes.](https://www.timeout.com/singapore/things-to-do/courtside-chijmes)
+Full details on Courtside@CHIJMES can be found at [Courtside@CHIJMES](https://www.timeout.com/singapore/things-to-do/courtside-chijmes)
