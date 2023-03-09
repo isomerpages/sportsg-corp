@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### **Dual-Contingent Ceremony Marks The Start Of Team Singapore’s Major Games Journey In 2014**
+
 More than 80 Team Singapore athletes gathered at a flag presentation ceremony today to kick off their journey towards doing Team Singapore proud at the 20th Commonwealth Games in Glasgow and the 2nd Youth Olympic Games in Nanjing taking place in July and August respectively. Amongst the contingent are also four athletes who will be taking part in both Games.
 
 2\. Mr Tan Chuan-Jin, Minister for Manpower and President, Singapore National Olympic Council said, “I would like to congratulate all our athletes who have been selected to compete for our nation, and to fly our flag high overseas. Every major Games is special and each celebrates a common theme. Through sports, we are able to connect to different communities in our society and it is only through one’s endeavours that the nation comes together to stand together as one Team Singapore.”
