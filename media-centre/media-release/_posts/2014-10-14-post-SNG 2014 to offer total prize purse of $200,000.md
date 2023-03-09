@@ -18,4 +18,6 @@ Participants taking part in the second edition of the Singapore National Games (
 
 5\. Besides participating as athletes, Singaporeans are also invited to join as volunteers for an enriching project experience in the biggest local multi-sport event of the year. To find out more and to register as a volunteer, please click here. 
 
+---
+
 Refer to [Annex](/files/Media%20Centre/Media%20Release/2014/October/SNG%202014%20Media%20ReleaseAnnex.pdf) for more details.
