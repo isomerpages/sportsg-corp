@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Sports Sponsorship Master Class to enhance the local sports scene**
+
 Sport Singapore and the Singapore Workforce Development Agency (WDA) have come together to support a series of sport-focused sponsorship master classes for the National Sports Associations (NSAs) and brands who want to tap onto the local sports industry. This is the second series of the sponsorship master classes that the two agencies have supported after the successful pilot run of ‘Seeking Sponsorship’ in November 2014.  
   
 2015 had been an exciting period for the local sports industry with the 28th SEA Games and 8th ASEAN Para Games. Organisers of both Games had been heartened to see corporates come forward to support local sports and athletes. The 28th SEA Games and 8th ASEAN Para Games had surpassed their targets by garnering over S$80 million and S$12 million in cash and value-in-kind, respectively.  
@@ -37,8 +38,9 @@ Since the last series of the Sports Sponsorship Master class, there has been a d
   
 “Previously, we used to work with sponsors on an event to event basis. However, over the last 2 years and based on the learnings from the class, we have managed to develop long term sponsorships, which are beneficial for both SSA and the sponsors. ”  
   
-  
-#### **ANNEX A: Details on the Sports Sponsorship Master Class**  
+---
+
+**ANNEX A: Details on the Sports Sponsorship Master Class**  
   
 **“Seeking Sponsorship” Master Class, 3 November 2014**  
 A pilot run For NSAs and other rights holders to understand the essentials of sport sponsorship, practical selling and building an effective commercial practice.  
