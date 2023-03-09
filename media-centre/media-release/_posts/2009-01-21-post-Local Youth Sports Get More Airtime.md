@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Local Youth Sports Get More Airtime**
 
-Weekly highlights of national school sports competitions to be shown on prime time on Channel 5
+_Weekly highlights of national school sports competitions to be shown on prime time on Channel 5_
 
 **Singapore, 21 January 2009** - Singaporeans can expect more updates on the local youth sports scene right from their television screens with the signing of a Memorandum of Understanding (MOU) between the Singapore Sports Council (SSC), the Ministry of Education (MOE) and MediaCorp today at the Convent of the Holy Infant Jesus (CHIJ) Secondary (Toa Payoh). This collaboration between the Singapore Sports Council, Ministry of Education and MediaCorp aims to build a strong sporting culture through wider exposure of youth sports and to give budding athletes support and encouragement.
 
@@ -30,7 +30,9 @@ Filming will begin at the end of February 2009, and the sports to be featured in
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
+
 Sheila Rasu
 <br>
 DID: 6324 2269
@@ -67,10 +69,10 @@ Email: [clarencepong@mediacorp.com.sg](mailto:clarencepong@mediacorp.com.sg)
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-###### About MediaCorp
+**About MediaCorp**<br>
 MediaCorp is Singapore's leading media company with the most complete range of platforms, spanning television, radio, newspapers, magazines, movies and digital media.
 
 It pioneered the development of Singapore's broadcasting industry, with the broadcast of Radio in 1936 and Television in 1963. Today, MediaCorp has over 50 products and brands in four languages (English, Mandarin, Malay and Tamil), reaching out to all adults in Singapore every week.
