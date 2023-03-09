@@ -32,7 +32,7 @@ image: ""
 
 ---
 
-###### Annex A - Team Singapore Athletes At The 2010 Youth Olympic Games
+**Annex A - Team Singapore Athletes At The 2010 Youth Olympic Games**<br>
 
 | S/N | Sport | Name | Event |
 | --- | --- | --- | --- |
@@ -169,7 +169,8 @@ image: ""
 
 ---
 
-###### Annex B - Profile Of Chef De Mission
+**Annex B - Profile Of Chef De Mission**
+<br>
 
 **James Wong<br>
 Chef de Mission, Singapore**
@@ -184,7 +185,8 @@ Hailed as one of the top 50 athletes in Singapore, James is glad that our young 
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Lin Kuek<br>
 Caelan & Sage Pte Ltd<br>
@@ -208,21 +210,21 @@ Email: [Winston.ng@fairprice.com.sg](mailto:Winston.ng@fairprice.com.sg)
 
 ---
 
-###### About the Singapore National Olympic Council
+**About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
-
+<br>
 Join SSC on Twitter at: www.twitter.com/singaporesports
-
+<br>
 Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
+<br>
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About Team Singapore
+**About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
@@ -231,5 +233,5 @@ Team Singapore inspires our nation's athletic talents to continually evolve the 
 
 For further information, please visit www.teamsingapore.com.sg.
 
-###### About NTUC FairPrice Foundation
+**About NTUC FairPrice Foundation**<br>
 NTUC FairPrice cares about our customers and the community. It is committed to donate $50 million by 2018 to NTUC FairPrice Foundation to help achieve its goal. NTUC FairPrice Foundation, a registered charity completely funded by NTUC FairPrice, upholds its mission to "Provide a Better Life for the Community". NTUC FairPrice Foundation focuses its giving on three strategic thrusts - the poor and needy, nation building and community bonding, and advancing workers' welfare. Since inception in March 2008, the Foundation has donated over $17 million in cash and gifts-in-kind to various causes. For more information on NTUC FairPrice Foundation, please visit www.fairpricefoundation.org.
