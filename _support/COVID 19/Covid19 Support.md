@@ -4,10 +4,6 @@ permalink: /support-resources/covid-19/covid-19-support/
 description: ""
 third_nav_title: COVID 19
 ---
-
-
-
-
 ![](/images/Support/Covid%2019/covid19-support.jpeg)
 CoachSG hopes that all of you are safe and well. We understand that the current COVID-19 situation may have impacted your livelihood. During this lull period where there is a reduction in activities, we would like to encourage you to sign up for training to deepen and/or acquire new competencies in preparation for the pick-up in the economy or when new opportunities arise.
 
@@ -25,7 +21,7 @@ We will continue to monitor the situation and provide updates. Let’s play our 
 3\. New to going digital? Visit IMDA's "We Go Digital" page for the latest resources and guides to kick-start your Digital journey: [https://www.imda.gov.sg/for-community/We-Go-Digital](https://www.imda.gov.sg/for-community/We-Go-Digital) 
 
 #### **Job Opportunities**
-Jobs are available at the following portals. If you are a member of the [NROC](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches), new opportunities may also be progressively shared with you through email (please make sure you login to [myActiveSG portal](http://members.myactivesg.com/) to update your latest email address, then login to [SportSync](https://www.sportsync.sg/) to verify your contact details).
+Jobs are available at the following portals. If you are a member of the [NROC](support-resources/activesg-programme-partnership/nroc-sports/), new opportunities may also be progressively shared with you through email (please make sure you login to [myActiveSG portal](http://members.myactivesg.com/) to update your latest email address, then login to [SportSync](https://www.sportsync.sg/) to verify your contact details).
 
 For SportSG job opportunities, please visit [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Sport%20Singapore).
 <br>
@@ -33,8 +29,8 @@ For other roles, please visit [MyCareersFuture](https://www.mycareersfuture.gov.
 
 You can also subscribe to NTUC Job Security Council [Telegram](http://telegram.org/) for alerts on the latest job vacancies.
 
-1\.  PMET (Professional, Managers, Executives and Technicians), join the Telegram [here](http://bit.ly/jsc-ja-pmet)<br>
-2\.  non-PMET (e.g., Temp jobs, operators, packers, etc), join the Telegram [here](http://bit.ly/jsc-ja-nonpmet)
+1.  PMET (Professional, Managers, Executives and Technicians), join the Telegram [here](http://bit.ly/jsc-ja-pmet)
+2.  non-PMET (e.g., Temp jobs, operators, packers, etc), join the Telegram [here](http://bit.ly/jsc-ja-nonpmet)
 
 #### **Other Funding Support**
 **Support for Singaporeans affected by COVID-19**
