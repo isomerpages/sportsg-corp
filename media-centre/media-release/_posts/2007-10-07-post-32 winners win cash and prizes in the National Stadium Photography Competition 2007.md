@@ -9,7 +9,7 @@ image: ""
 ---
 ### **32 winners win cash and prizes in the National Stadium Photography Competition 2007**
 
-Photo enthusiasts capture memories of National Stadium
+_Photo enthusiasts capture memories of National Stadium_
 
 From the spectacular fireworks to the quiet grand structures of the National Stadium, participants of the National Stadium Photography Competition 2007, left no stone unturned in capturing the colourful and special moments of the stadium.
 
