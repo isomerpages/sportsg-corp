@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Team Singapore is RED-Y to Roar**
+
 With exactly two weeks to go to the official Opening Ceremony of the 28th SEA Games, it is only fitting that Singapore gets RED-Y to roar.
 
 Giordano’s I AM RED merchandise returns its second edition as part of the Team Singapore x Giordano collection. The collaboration between Team Singapore and Giordano encourages Singaporeans to wear their support for Singapore’s sport stars.
@@ -27,5 +27,3 @@ Mr Toh Boon Yi, Chief, Strategic Development and Marketing Group, Sport Singapor
 **Giordano supports SportCares**
 
 Giordano will be donating two percent of all net proceeds from the sale of merchandise from this collection to the SportCares Foundation. This foundation, rolled out in line with Vision 2030: Live Better through Sports, seeks to use sport as a vehicle for social good by linking beneficiaries, volunteers and philanthropic partners through sports programmes to touch lives. One such SportCares initiative includes organising sports clinics for youth-at-risk.
-
-END
