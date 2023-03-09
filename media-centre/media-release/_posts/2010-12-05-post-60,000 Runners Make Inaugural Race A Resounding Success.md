@@ -13,7 +13,7 @@ image: ""
 
 2. Commenting on the success of the inaugural race which was organised by the Singapore Sports Council (SSC), David Voth, Chairman, SCMS 2010 Organising Committee and Senior Director, Sports Marketing Group, SSC, said, "I am extremely pleased with the race today and the success of the inaugural race would not have been possible without the support of all our partners and stakeholders. Our aim has always been to make the Standard Chartered Marathon Singapore an event not just for runners but for the community as well. Looking at the spectacular turnout of runners and supporters today, I'm confident we are on track to fulfil our vision of the Marathon becoming Asia's pinnacle race."
 
-3 Runners and supporters were also impressed by the event this year. Joan Low said "The race this year has been amazing. It was a treat to run past so many of Singapore's key iconic landmarks. It made the run a lot more aesthetically pleasing to the eyes. I really enjoyed myself and the early start at 5am also helped as the weather was cool throughout the run and over the entire course."
+3. Runners and supporters were also impressed by the event this year. Joan Low said "The race this year has been amazing. It was a treat to run past so many of Singapore's key iconic landmarks. It made the run a lot more aesthetically pleasing to the eyes. I really enjoyed myself and the early start at 5am also helped as the weather was cool throughout the run and over the entire course."
 
 4. Supporters at the event were equally drawn to the festivities at the Padang; Anna Poon, who brought her whole family to the event, had this to say, "We are actually here to support my husband but we got distracted by the many activities happening at the Padang. My kids have thoroughly enjoyed themselves through the games and contests held at the Kids' Zone, and as for myself, I had fun taking part in the Trigger-Happy Photography Competition."
 
@@ -68,15 +68,14 @@ Full Marathon (Singapore) Results - Women's
 | 2   | Elaine Lim       | Singapore | 03:23.21       |
 | 3   | Jeradine Collett | Singapore | 03:24.19       |
 
-Annex B: [Photos and Captions [619 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/Photos%20and%20Captionspdf.pdf)
+**Annex B:** [Photos and Captions [619 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/Photos%20and%20Captionspdf.pdf)
 
-Annex C: [SCMS 2010 Event Day Fact Sheet [391 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS%202010%20Event%20Day%20Fact%20Sheetpdf.pdf)
+**Annex C:** [SCMS 2010 Event Day Fact Sheet [391 Kb]](/files/Media%20Centre/Media%20Release/2010/Dec/SCMS%202010%20Event%20Day%20Fact%20Sheetpdf.pdf)
 
 ---
 
 **For media enquiries, please contact:**
 <br>
-
 Samantha See
 <br>Fulford Public Relations
 <br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
@@ -96,7 +95,7 @@ Tanty Nazlianah Rosli
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our websites [www.sportsingapore.gov.sg/](https://www.sportsingapore.gov.sg/) and [www.singaporesports.sg](www.singaporesports.sg)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
