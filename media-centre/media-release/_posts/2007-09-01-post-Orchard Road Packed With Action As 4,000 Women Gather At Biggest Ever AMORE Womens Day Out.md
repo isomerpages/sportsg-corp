@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Orchard Road Packed With Action As 4000 Women Gather At Biggest-ever AMORE Women's Day Out**
 
 The Amore Women's Day Out (AWDO), one of Singapore's largest and most established women-only fitness carnivals, kick-started today with a record number of 4000 women, a heartening 100% increase from last year, sweating it out together in a series of aerobics, yoga and dance challenges at the Ngee Ann City Civic Plaza.
@@ -18,7 +17,7 @@ The National Sports Participation Survey 2005 conducted by the SSC showed that o
 
 Mrs Yu-Foo Yee Shoon, Minister of State for Community Development, Youth and Sports and MP for Holland-Bukit Timah GRC, shared: "Sporting activities are not just a way for our women to keep fit; they are also great for family bonding. The family that plays together can also enjoy quality time together. As modern women in today's hectic society, we need to be equipped with good time management skills to juggle career, family and sports. Such mass fitness carnivals provide the platform for women to step forward and take up sporting pursuits which can be part of their everyday lives."
 
-##### **The Singapore Sports Council is encouraged by the response to this year's AWDO 2007.**
+**The Singapore Sports Council is encouraged by the response to this year's AWDO 2007.**<br>
 
 Mr Kelvin Chua, General Manager of High Participation for SSC, said: "It is heartening to see Singaporean women from all walks of life coming out in droves to take up the challenge of leading a more active lifestyle. We are happy to have the six female DJs from SPH Unionworks to join us in the aerobics marathon. This is the first time that they are joining the aerobics marathon and it is definitely a good example to show that it is never too difficult as long as you take the first step. On our part, the SSC continues to instil the excitement and novelty of our WDO events by making them current to the people. For example, tapping on the fitness dance trends, we included the Dance Beat activity this year. There are also more activity choices for women to participate in, including new categories like the Iron Woman and Her Gym Quest which will be making their debut this year."
 
@@ -30,7 +29,7 @@ The sporting spirit of the Amore Women's Day Out continues on 2 September at the
 
 ---
 
-###### Enclosures
+**Enclosures**<br>
 [Annex 1: Amore Women's Day Out 2007 Fact Sheet](/files/Media%20Centre/Media%20Release/2007/September/Annex1AWDOFactsheet.pdf)<br>
 [Annex 2: Amore Women's Day Out 2007 Sponsors](/files/Media%20Centre/Media%20Release/2007/September/Annex2AWDOsponsors.pdf)
 
