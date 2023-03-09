@@ -19,7 +19,7 @@ Mr Lim Teck Yin, CEO, Sport Singapore, said, “The Singapore Tennis Festival co
 
 “Like the Formula 1 Singapore Grand Prix and 2017 International Champions Cup Singapore, the WTA Finals offers the chance for people to experience and be inspired by world-class sporting action. Through the Singapore Tennis Festival, we want to acquaint more people with Tennis so they are able to better appreciate the tennis action on show during the WTA Finals and build an affinity with the sport,” Mr Lim added.
 
-##### **Learn, Play and Appreciate Tennis at the Singapore Tennis Festival Experience Tour**
+**Learn, Play and Appreciate Tennis at the Singapore Tennis Festival Experience Tour**
 
 As part of the festival, there will also be a **Singapore Tennis Festival Experience Tour** taking place at the Sports Hub from 22-29 October.
 
@@ -31,7 +31,7 @@ Mr Lai Chin Kwang, Chief, ActiveSG said, “There is no better way to find out w
 
 To find out more info about the Singapore Tennis Festival and the Experience Tour, visit [www.tennisfest.sg](http://www.tennisfest.sg/)
 
-##### **Augmenting visitor experience at the 2017 WTA Finals Singapore through STB’s Courtside@CHIJMES lifestyle programme**
+**Augmenting visitor experience at the 2017 WTA Finals Singapore through STB’s Courtside@CHIJMES lifestyle programme**
 
 Attendees at this year’s WTA Finals will also be able to immerse themselves in more than just tennis mania. Working with partners across various industries, the Singapore Tourism Board (STB) is organising Courtside@CHIJMES, a slew of lifestyle activities that will entertain visitors and locals through the duration of the Finals from Oct 20 to Oct 29.
 
