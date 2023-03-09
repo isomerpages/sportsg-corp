@@ -179,13 +179,11 @@ For more information on MOH Guidelines on HBRA, please click [here](https://www
 | -------- | -------- | -------- |
 | 1. SSI-IRB Sharing #1 | 24 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_24_April_2020.pdf)|
 | 2. SSI-IRB Sharing #2 | 14 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_14_Aug_2020.pdf)|
-| 3. SSI-IRB Sharing #3 | 18 June 2020 |[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
+| 3. SSI-IRB Sharing #3 | 18 June 2020 |cv[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
 
 #### **Research Monitoring**
 The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf).
 
 **Contact Us**
 
-Please contact us for any queries:
-
-SPORT\_SSI\_Research@sport.gov.sg
+Please contact us for any queries: [sport_ssi_research@sport.gov.sg](mailto:sport_ssi_research@sport.gov.sg)
