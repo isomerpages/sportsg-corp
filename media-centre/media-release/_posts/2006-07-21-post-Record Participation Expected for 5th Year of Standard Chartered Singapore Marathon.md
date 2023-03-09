@@ -21,8 +21,7 @@ The event started with 6,000 runners in 2002 and grew to 21,000 last year, a mor
 
 Commented Loh Lin Kok, Co-chairman of the SCSM 2006 Organising Committee and President of Singapore Athletic Association (SAA), "Over the years, the Standard Chartered Singapore Marathon has expanded from just four to the existing seven categories, allowing for participation from more segments of the public. To cope with the expected increase in the number of runners this year, we are putting in extra measures, such as an increase in the number of water points and road marshals. All necessary measures are being put in place to cope with the ever-increasing crowd at the Singapore Marathon."
 
-##### **BCF-Standard Chartered Run For A Cause**
-
+**BCF-Standard Chartered Run For A Cause**<br>
 In addition, the organisers have adopted the Breast Cancer Foundation (BCF) as the official charity for the Standard Chartered Singapore Marathon this year. The BCF-Standard Chartered Run For A Cause is an initiative to raise S$150,000 towards promoting breast cancer awareness and providing support for women affected by breast cancer. Each year, about 1,100 women are diagnosed and 270 females die from breast cancer, and organisers hope that the BCF-Standard Chartered Run For A Cause will spur on more people to do their bit for charity. A group of breast cancer survivors will be attempting the 10km run for the first time.
 
 BCF and Standard Chartered are targeting 500 runners who will each raise a minimum of S$300 using a Run For A Cause pledge card. Standard Chartered Bank will waive the registration fee for these runners.
@@ -35,8 +34,8 @@ Issued on behalf of Standard Chartered Singapore Marathon Organising Committee
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Ronda Ng
 <br>
 Fulford Public Relations
@@ -59,10 +58,10 @@ Email: [wlkoh@fulfordpr.com](mailto:wlkoh@fulfordpr.com)
 
 ---
 
-###### About SSC
+**About SSC**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
-###### About Standard Chartered Bank
+**About Standard Chartered Bank**<br>
 _Standard Chartered - leading the way in Asia, Africa and the Middle East_
 
 Standard Chartered PLC is listed on both the London Stock Exchange and the Stock Exchange of Hong Kong and is ranked in the top 25 among FTSE-100 companies, by market capitalisation.
