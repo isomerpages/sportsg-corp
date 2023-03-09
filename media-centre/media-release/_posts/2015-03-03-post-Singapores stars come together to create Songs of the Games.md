@@ -19,7 +19,7 @@ _Home-grown musical talents helmed by Dr Sydney Tan put together official music 
 
 5\. ‘Songs of the Games’ is now available free-of-charge for listening on the official SEA Games website, Spotify, AMPED and Deezer. The songs are also available for purchase on iTunes, prices ranging from S$1.28 to S$1.48 for one song and S$9.98 for the album. Album purchases on iTunes will include an exclusive album e-book containing song lyrics and musician profiles. A portion of the proceeds from iTunes sales will go towards the SportCares Foundation, a movement set up to enable and empower the under-resourced to live better lives through sport.
 
-##### **‘Ordinary’ Short Film and ‘Unbreakable’ Music Video**
+**‘Ordinary’ Short Film and ‘Unbreakable’ Music Video**
 
 6\. Complementing the release of the song album is the unveiling of two videos.
 
@@ -31,6 +31,6 @@ _Home-grown musical talents helmed by Dr Sydney Tan put together official music 
 
 10\. The ‘Ordinary’ short film will be uploaded today on Facebook where fans are invited to submit their questions for Fandi Ahmad in a Q&A session. The music video for ‘Unbreakable’ will be uploaded on 7 March while the third SEA Games theme song ‘Greatest’ will be uploaded at a later date.
 
-##### **‘Songs of the Games’ Contest**
+**‘Songs of the Games’ Contest**
 
 11\. In addition to the album, today also saw the launch of the online ‘Songs of the Games’ contest. Open to the region, budding singers and performers are invited to submit their renditions of any of the 14 songs via YouTube for a chance to win attractive cash prizes.
