@@ -47,4 +47,4 @@ Tickets for most sports competitions are currently available for sale. The perio
 
 ---
 
-[Please click here for Appendix A: Quote sheet and Appendix B: Information on ticketing](/files/Media%20Centre/Media%20Release/2015/April/28th%20SEA%20Games%20Team%20Draw%20appendices.pdf)
+Please click [here](/files/Media%20Centre/Media%20Release/2015/April/28th%20SEA%20Games%20Team%20Draw%20appendices.pdf) for Appendix A: Quote sheet and Appendix B: Information on ticketing.
