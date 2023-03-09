@@ -34,8 +34,9 @@ A series of community activities at the national icon will be launched to mark t
 10. As part of the official handover on 10 December 2022, a series of community activities has been planned from the month of December. This will include a Sports Hub Opening Day on 10 December 2022, where members of the public will be able to enjoy live music, shop at the Bazaar, and try out different sports and fitness programmes such as football, volleyball, yoga, swimming and Zumba across the various Sports Hub venues and facilities. In addition, the Sports Hub will usher in the festive season with a Christmas light up and stunning pyrotechnic displays. Visitors can also expect more exciting activities over the Chinese New Year period. More details will be made available from 1 December 2022.
 
 **Biographies**
-<br>**Mr Keith Magnus**
-<br>Chairman, Board of Directors
+
+**Mr Keith Magnus**<br>
+Chairman, Board of Directors
 
 ![Keith Magnus](/images/Media%20Centre/Media%20Release/2022/Nov/Keith%20Magnus.jpeg)
 
@@ -43,9 +44,8 @@ Mr Magnus has been a Sport Singapore board member since 2020 and has recently be
 
 [More info on Mr Keith Magnus](/files/Media%20Centre/Media%20Release/2022/November/Bio%20of%20Keith%20Magnus.pdf)
 
-**Mr Quek Swee Kuan****
-<br>CEO
-
+**Mr Quek Swee Kuan**<br>
+CEO
 ![Quek Swee Kuan](/images/Media%20Centre/Media%20Release/2022/Nov/Quek%20Swee%20Kuan.jpeg)
 
 Mr Quek is currently the CEO of New Business in Surbana Jurong (SJ), who is instrumental in formulating SJ’s next 5-year transformational growth plan which is being implemented. Prior to SJ, Mr Quek was the CEO of Sentosa Development Corporation (SDC) and led SDC’s efforts in transforming Sentosa into a leading leisure and lifestyle resort destination.
