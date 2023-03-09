@@ -10,19 +10,19 @@ image: ""
 
 **Singapore, 26 March 2012** - The public can now vote for the logo and mascot designs for the inaugural Singapore National Games (SNG)! They can take part in an online public voting at SNG's official website: [singaporenationalgames.sg](singaporenationalgames.sg) from today till 8 April, and choose the SNG logo and mascot designs they like best.
 
-2. The SNG is a community-based multi-sports competition jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, as well as 10 National Sports Associations (NSAs). Held once every two years, the SNG will offer sports enthusiasts of all ages an opportunity to be part of Singapore's exciting sporting landscape. The SNG 2012 will take place from 1 September to 9 September 2012, and community teams from 15 clusters will pit against each other in ten sports.
+2\. The SNG is a community-based multi-sports competition jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, as well as 10 National Sports Associations (NSAs). Held once every two years, the SNG will offer sports enthusiasts of all ages an opportunity to be part of Singapore's exciting sporting landscape. The SNG 2012 will take place from 1 September to 9 September 2012, and community teams from 15 clusters will pit against each other in ten sports.
 
-3. The SNG logo and mascot designs contest held in February 2012 saw some 35 logo and 16 mascot entries submitted from various design schools and tertiary institutions. After the first round of judging held in early March, four designs each for the logo and mascot were shortlisted. Commenting on the contest, Mr Ng Eng Soon, Co-Chair of the SNG 2012 Organising Committee said, "Judging from the number of submissions, the logo and mascot contest has served its purpose of engaging the community at large and getting them involved in SNG right from the start. It has definitely helped to create a sense of ownership among the young for the Games as most of the students didn't think twice about having to spend their school holidays working on the designs. We hope to see such involvement and support from the public throughout the Games."
+3\. The SNG logo and mascot designs contest held in February 2012 saw some 35 logo and 16 mascot entries submitted from various design schools and tertiary institutions. After the first round of judging held in early March, four designs each for the logo and mascot were shortlisted. Commenting on the contest, Mr Ng Eng Soon, Co-Chair of the SNG 2012 Organising Committee said, "Judging from the number of submissions, the logo and mascot contest has served its purpose of engaging the community at large and getting them involved in SNG right from the start. It has definitely helped to create a sense of ownership among the young for the Games as most of the students didn't think twice about having to spend their school holidays working on the designs. We hope to see such involvement and support from the public throughout the Games."
 
-4. Publicis Singapore, a leading advertising and communications company has been working closely with the SNG Organising Committee to manage the contest. The company's Creative Director, Robert Upton, who is also on the judging panel, said shortlisting the entries was no mean feat, "There was a lot of great thinking behind the entries both from art and design colleges. This made the judging process more challenging but the entries that came out on top definitely deserved it. I am eager to see which entry garners the most votes."
+4\. Publicis Singapore, a leading advertising and communications company has been working closely with the SNG Organising Committee to manage the contest. The company's Creative Director, Robert Upton, who is also on the judging panel, said shortlisting the entries was no mean feat, "There was a lot of great thinking behind the entries both from art and design colleges. This made the judging process more challenging but the entries that came out on top definitely deserved it. I am eager to see which entry garners the most votes."
 
-5. Students whose designs were shortlisted got a rare opportunity to be mentored by members of the Publicis Singapore's creative team. Yong Wen Yeu, a second year Graphic Design student at the Nanyang Academy of Fine Arts, whose entry made it to the final round of judging recollects his experience, "I was pleasantly surprised when I got a call from Publicis Singapore and was told that I could attend a coaching session with their Creative Director Robert Upton. Mr Upton shared some insights on typography that helped to ensure the various components of my design complemented one another. It is not every day that design students get an opportunity to be supervised by people with industry knowledge. It was an enriching experience."
+5\. Students whose designs were shortlisted got a rare opportunity to be mentored by members of the Publicis Singapore's creative team. Yong Wen Yeu, a second year Graphic Design student at the Nanyang Academy of Fine Arts, whose entry made it to the final round of judging recollects his experience, "I was pleasantly surprised when I got a call from Publicis Singapore and was told that I could attend a coaching session with their Creative Director Robert Upton. Mr Upton shared some insights on typography that helped to ensure the various components of my design complemented one another. It is not every day that design students get an opportunity to be supervised by people with industry knowledge. It was an enriching experience."
 
-6. The winners of the logo and mascot contest will be announced on 15 April 2012 during the launch of the Community Games 2012 which serves as the qualifying round for SNG 2012. Participants with the winning designs will each receive $1,000 cash and an internship opportunity at Publicis Singapore.
+6\. The winners of the logo and mascot contest will be announced on 15 April 2012 during the launch of the Community Games 2012 which serves as the qualifying round for SNG 2012. Participants with the winning designs will each receive $1,000 cash and an internship opportunity at Publicis Singapore.
 
 ---
 
-##### **Annex A: SNG - Shortlisted Logo Designs**
+**Annex A: SNG - Shortlisted Logo Designs**
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/nafa_logo.gif" style="width: 150px"  />
 
@@ -48,7 +48,7 @@ image: ""
 **School**: Singapore Polytechnic <br>
 **Rationale**: I used the first letter of each word in the slogan 'Singapore National Games' as the concept of my design by combining strong fluid figures along with refined shapes. Dull tones of red were used as it represents the passion and spirit of coming together as one. Each figure represents a different sport - for instance, the 'S' resembles an athlete swimming. I hope that my logo not only invokes a sense of bonding among Singaporeans, but reiterates the fact that sports is for everyone.
 
-##### **Annex B: SNG - Shortlisted Mascot Designs**
+**Annex B: SNG - Shortlisted Mascot Designs**
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Mar/sp_logo2.gif" style="width: 150px"  />
 
@@ -76,7 +76,7 @@ image: ""
 
 ---
 
-#### **Annex C: Fact Sheet on Singapore National Games**
+**Annex C: Fact Sheet on Singapore National Games**
 
 The Singapore National Games 2012 (SNG) is a new biennial sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete and volunteer.
 
@@ -105,7 +105,7 @@ For more information regarding the Games, please visit the [singaporenationalgam
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 Letchumi Jaiganth<br>
 Manager, Media Relations <br>
@@ -124,22 +124,26 @@ Email: [adlina_jaffar@pa.gov.sg](mailto:adlina_jaffar@pa.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**
+<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
-
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and www.SingaporeSports.sg.
+<br>
 Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg).
-
+<br>
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [www.Vision2030.sg](www.Vision2030.sg).
 
-###### About People's Association
+**About People's Association**
+<br>
 The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.OurCommunity.sg](www.OurCommunity.sg).
 
-###### What's happening in OurCommunity?
+**What's happening in OurCommunity?**
+<br>
 Find out about PA's new hungrygowhere feature, and the latest courses, activities, interest groups and facilities on your smartphone. Discover your community today at [www.OurCommunity.sg](www.OurCommunity.sg).
 
-###### About Community Games
+**About Community Games**
+<br>
 The Community Games (CG) 2012 is a multi-sports competition to be held across the island, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.facebook.com/CommunityGamesSingapore](www.facebook.com/CommunityGamesSingapore).
