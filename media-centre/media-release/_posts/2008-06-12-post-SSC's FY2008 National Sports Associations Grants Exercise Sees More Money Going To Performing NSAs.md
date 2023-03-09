@@ -27,15 +27,16 @@ The NSAs will also continue to receive indirect grants. For FY2008, the amount a
 
 The SSC also announced a few new initiatives related to its funding policy.
 
-##### **Matching Grant Scheme to Encourage Smaller NSAs to Tap on Sponsorship Market**
+**Matching Grant Scheme to Encourage Smaller NSAs to Tap on Sponsorship Market**
+<br>
 
 Under a pilot scheme, NSAs that receive an annual grant allocation of S$300,000 or less will be eligible for a matching grant. The matching grant is an incentive-based strategy to encourage NSAs to tap on commercial revenue, raise their own funds and be self-sustaining. The grant is applicable only to new commercial cash sponsorships that the NSA secures or an increased sponsorship quantum from an existing sponsor. Administered on a first-come-first-served basis (a total of $200,000 has been set aside for FY2008), the matching grant will be subjected to a maximum cap of S$20,000 per NSA per annum. This matching grant is over and above the FY2008 annual grant that the NSAs have received. Based on the funding allocation in FY2008, 38 NSAs qualify for this scheme.
 
-##### **Reviewing of Secretariat Grants**
+**Reviewing of Secretariat Grants**<br>
 
 SSC will undertake a review of funding for NSAs' secretariats by studying best practices overseas and employing a Human Resource consultant to assess headcount needs and salary benchmarking for NSAs. This would include the possibility of providing shared secretariat services to similar NSAs and will commence in FY2009.
 
-##### **NSAs to Draw On the Sports Education Programme**
+**NSAs to Draw On the Sports Education Programme**<br>
 
 NSAs can tap on the SSC's Sports Education Programme (SEP) as an additional means of funding. In order to do this, the NSA has to get its sports programme endorsed by the SEP panel. Once this is done the NSA can be a sports service provider and offer the programme to the schools. The applications for programme endorsement for SEP 2009 (1 January - 31 December 2009) are opened from 16 June to 31 July 2008.
 
@@ -46,8 +47,8 @@ NSAs can tap on the SSC's Sports Education Programme (SEP) as an additional mean
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Gayle Wong
 <br>
 Assistant Director,
@@ -78,5 +79,5 @@ Email: [Tanty_NAZLIANAH@ssc.gov.sg](mailto:Tanty_NAZLIANAH@ssc.gov.sg)
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
