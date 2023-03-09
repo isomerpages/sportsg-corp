@@ -26,4 +26,4 @@ Shereen Ng, Director of Strong Mind Fit Body is looking to be part of the Active
 
 In 2016, the Active Enabler Programme provided platforms for over 95,000 people to gather and have fun through sport. This year’s programme submission deadline has been extended till 19th May 2017.  Successful applicants will be informed by early June 2017.
 
-For more information, log on to [www.myactivesg.com/getactivesingapore](http://www.myactivesg.com/getactivesingapore) or email [ActiveEnabler@sport.gov.sg](mailto:ActiveEnabler@sport.gov.sg)
+For more information, log on to [GetActive! Singapore](http://www.myactivesg.com/getactivesingapore) or email [ActiveEnabler@sport.gov.sg](mailto:ActiveEnabler@sport.gov.sg)
