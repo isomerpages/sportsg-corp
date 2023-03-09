@@ -32,7 +32,8 @@ _Public Urged To Rally Behind Singapore Athletes As SSC-Milo National Well-Wishi
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Rhoda M Dinesen<br>
 STC Associates<br>
@@ -55,7 +56,7 @@ Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -66,10 +67,10 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About Nestle Singapore
+**About Nestle Singapore**<br>
 NESTLE Singapore (Pte) Ltd, established in 1912, is a wholly owned subsidiary of NESTLE SA, the world's largest food company. Headquartered in Vevey, Switzerland, NESTLE employs over 283,000 people in factories and operating offices in almost every country around the world. Nestle aims to be the leading Nutrition, Health and Wellness Company in Singapore. NESTLE's range of products in Singapore include MILO, NESCAFE, MAGGI, YANG SHENG LE, NESCAFE, MILO, NESPRAY, NESTLE OMEGA PLUS, MOVENPICK of Switzerland, KIT KAT, PURINA, FRISKIES and dozens of other trusted brands that are household names and market leaders in their product categories.
 
-###### About MILO Singapore
+**About MILO Singapore**<br>
 MILO is a nutritious, chocolate beverage made from the natural goodness of malt, milk and cocoa. First sold in the 1950s and locally produced since 1984, MILO contains Actigen-E, a combination of B Vitamins and Magnesium to aid in the release of energy from food. In 2006, with a reformulated recipe, MILO contains just 2% fat and 8% sugar per serve, thus attaining the Healthier Choice status from Health Promotion Board. As Singapore's favourite energy drink, more than 1 million cups of MILO are given free to Singaporeans annually through various sports and community events.
 
 MILO has been championing youth sports development in Singapore since 1950s. Through sponsorship of various sports events with institutions such as the Ministry of Education School Sports Council programmes, Singapore Sports Council, People's Association, MILO aims to nurture Singaporean athletes into national sports heroes. MILO also continues to rally and drive national support for Team Singapore athletes at international and regional events such as the South East Asian Games, 1st Asian Youth Games Singapore 2009.
