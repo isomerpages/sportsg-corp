@@ -83,5 +83,8 @@ Other Resources for Continuing Coach Education (Learning & Development)
 
 | Self-Guided Learning | 
 | -------- | 
-| You can record CCE learning hours from self-guided learning activities such as watching or reading coaching-related materials, or even conversations with coaches related to coaching, as long as you record any reflection on what you’ve learnt.<br>Each completed reflection activity earns you 1 CCE hour, and please remember a minimum of 12 hours’ worth of attendance-based or course-based CCE is still required. <br>For more information regarding self-guided learning, click here.  | 
+| You can record CCE learning hours from self-guided learning activities such as watching or reading coaching-related materials, or even conversations with coaches related to coaching, as long as you record any reflection on what you’ve learnt.<br>Each completed reflection activity earns you 1 CCE hour, and please remember a minimum of 12 hours’ worth of attendance-based or course-based CCE is still required. <br>For more information regarding self-guided learning, click here.  |
 
+We're also coming up an online learning platform, slated to launch later this year. [Let us know](http://go.gov.sg/learnsurvey) the kind of features and content you hope to see more of in the platform.
+
+If you are exploring to conduct online coaching services with the general public, please register your interest with our newly launched [ActiveSG Circle](https://circle.myactivesg.com/) platform via this [link](https://circle.myactivesg.com/coaches/join-us). SportSG would get in touch with you if we are interested to have you onboard!
