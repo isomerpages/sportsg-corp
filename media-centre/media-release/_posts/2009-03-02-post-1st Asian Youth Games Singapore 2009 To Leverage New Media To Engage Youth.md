@@ -26,16 +26,16 @@ Issued by the Singapore Asian Youth Games Organising Committee
 
 ---
 
-###### About the 1st Asian Youth Games Singapore 2009
+**About the 1st Asian Youth Games Singapore 2009**<br>
 The Asian Youth Games (AYG) is an international multi-sports event held every four years to complement the existing Asian Games. The idea was first mooted as part of Singapore's Youth Olympic Games bid in 2007. On 3 April 2008, the Olympic Council of Asia's (OCA) Executive Board unanimously agreed to award the hosting of the first AYG to Singapore. This decision was backed by all 45 members of the OCA on 6 April 2008. The inaugural AYG which will be co-organised by the Singapore Sports Council and the Ministry of Education aims to gather the youth from around Asia in a celebration of youth, sports and learning where they will engage in friendly competition and imbibe the Olympic sporting values of excellence, friendship and respect. AYG Singapore 2009 will see athletes aged between 14 and 17 from 45 OCA member nations competing in 180 events across nine sports from 29 June to 7 July 2009. Please visit www.ayg2009.sg for more information.
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-###### About Ministry of Education*
+**About Ministry of Education**<br>
 The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges. Please visit www.moe.gov.sg for more information.
 
-###### About World Sport Group
+**About World Sport Group**<br>
 Headquartered in Singapore, World Sport Group is Asia's leading sports marketing, media and event management company, with a roster of golf, football and cricket events across the entire region. World Sport Group has been at the forefront of Asian sport since 1993, featuring almost 600 days of sports events and more than 1000-hours of live sports programming annually, across more than 30 countries in the region.
 
 World Sport Group is the exclusive marketing partner of the Asian Football Confederation (AFC), the ASEAN Football Federation (AFF), and a major stake-holder in Asian golf as organizers of the Barclays Singapore Open, Hero Honda Indian Open, Singha Thailand Open, Volvo Masters of Asia, the Mercedes-Benz Tour and the Omega China Tour.
@@ -48,7 +48,7 @@ The World Sport Group is staffed by more than 140 employees in offices in Beijin
 
 www.worldsportgroup.com
 
-###### About Perform
+**About Perform**<br>
 Perform is a world leader in monetising sports and entertainment rights in digital media and has been a consistent and renowned innovator since 2000, and a major driving force in the commercialisation of sport and entertainment rights online, on mobile and on TV.
 
 Perform provides a range of user friendly, end-to-end products and services for businesses involved in sport and entertainment rights:
@@ -60,5 +60,5 @@ Perform operates over 200 websites including those for over 80 UK Football Clubs
 
 www.performgroup.com
 
-###### About Content Craft
+**About Content Craft**<br>
 Content Craft is in the business of producing new media programmes that can be delivered over various platforms including PC, TV and Mobile devices. It also specializes in developing viral and interactive media marketing and web 2.0 community activities, events and programmes. Our end-to-end services include conceptualizing, designing and developing Web2.0 projects for social networking and interactive content development in order to produce content relevant for multiple media platforms. The 1st cross-platform content initiative on youth sports, Adrenaline (www.adrenaline.sg) was pioneered by us and features content delivered over TV, IPTV, internet, mobile and out-of-home media. www.contentcraft.com.sg
