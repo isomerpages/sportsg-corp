@@ -47,5 +47,5 @@ The SNG provides a competitive platform up to National level for sporting talent
 
 Singaporeans, Permanent Residents and Foreigners who are residents are eligible to compete in the SNG, representing any of the following five zones of the country – North, East, West, Central and North East.
 
-To find out more, visit our website[www.nsg.moe.edu.sg](https://nsg.moe.edu.sg/).<br>
-Follow us at [www.facebook.com/SingaporeNationalGames](http://www.facebook.com/SingaporeNationalGames).
+To find out more, visit our website [Singapore National Games (SNG)](https://nsg.moe.edu.sg/).<br>
+Follow us at [facebook.com/SingaporeNationalGames](http://www.facebook.com/SingaporeNationalGames).
