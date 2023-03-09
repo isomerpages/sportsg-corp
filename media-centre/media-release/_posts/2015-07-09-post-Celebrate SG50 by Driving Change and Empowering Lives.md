@@ -35,9 +35,9 @@ Porsche has partnered with the SportCares Foundation to celebrate SG50 by giving
 
 8\. In addition, courtesy of the Porsche Club Singapore members, 50 volunteers from SportCares will also get the chance to be driven around in the members’ Porsche cars, starting from Suntec City to various locations in central Singapore.
 
-For more information on SportCares, visit: [https://www.sportsingapore.gov.sg/what-we-do/sportcares/](/what-we-do/sportcares/).<br>
-SportCares Facebook: [https://www.facebook.com/SportCaresSG](https://www.facebook.com/SportCaresSG)<br>
-SportCares Instagram: [https://instagram.com/sportcares/](https://instagram.com/sportcares/)
+For more information on SportCares, visit: [SportCares](/what-we-do/sportcares/).<br>
+SportCares Facebook: [facebook.com/SportCaresSG](https://www.facebook.com/SportCaresSG)<br>
+SportCares Instagram: [instagram.com/sportcares](https://instagram.com/sportcares/)
 
 ---
 
