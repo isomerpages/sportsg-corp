@@ -18,7 +18,7 @@ Mr Oon Jin Teik, CEO of SSC, said: "As a part of the Sports Hub, the watersports
 
 ---
 
-###### Enclosures
+**Enclosures**<br>
 [Annex A: Singapore Sports Hub Site Map](/files/Media%20Centre/Media%20Release/2007/June/SportsHubWaterSportsCentreAnnexA.pdf)<br>
 [Annex B: Singapore Sports Hub Consortium Team List](/files/Media%20Centre/Media%20Release/2007/June/SportsHubWaterSportsCentreAnnexB.pdf)
 
