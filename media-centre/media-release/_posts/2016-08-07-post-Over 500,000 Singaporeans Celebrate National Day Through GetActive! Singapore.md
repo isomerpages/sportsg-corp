@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Over 500,000 Singaporeans Celebrate National Day Through GetActive! Singapore**
 With the Singapore National Games (SNG) 2016, Sports Festival and Active Enabler programme initiatives taking place throughout the 9-day sporting bash under the umbrella of GetActive! Singapore, more than half a million members of the community have taken part in the slew of activities designed to get all pumped up for National Day through sport.  
   
