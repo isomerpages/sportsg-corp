@@ -19,14 +19,13 @@ Shaheed Alam, 17, from Singapore Sports School, who also participated in last ye
   
 Kaitlynn Arumugam, 13, a SportCares participant from Bishan Park Secondary School shared that, "There aren't many sports where women are so strongly represented as they are in tennis. It makes me happy that I get the opportunity to play tennis with Love Singapore and to meet Caroline Wozniacki in person. I am still new to the sport but I am already dreaming of representing Singapore some day."  
   
-  
-##### **Vibrancy in the Singapore Tennis Scene**  
+**Vibrancy in the Singapore Tennis Scene**  
 
 This will be the second year that Singapore is hosting the WTA Finals and the sport has picked up in participation amongst Singapore residents since then. A routine survey on sports participation conducted amongst Singapore residents indicated that the percentage of Singapore residents who played tennis at least once a week has risen by 34% from 2014 to 2015.  
   
 “Leveraging on opportunities created by the WTA Finals to inspire greater participation and involvement in the sport of tennis, we at Sport Singapore are also working towards improving the accessibility to tennis coaching, as well as quality, in Singapore,” said Mr Toh Boon Yi, Chief of Strategic Development & Marketing Group, Sport Singapore.  
   
-##### **ActiveSG Programming**  
+**ActiveSG Programming**  
 
 Since ActiveSG was launched in April 2014, there have been almost 2,000 participants in tennis programmes ranging from:
 
