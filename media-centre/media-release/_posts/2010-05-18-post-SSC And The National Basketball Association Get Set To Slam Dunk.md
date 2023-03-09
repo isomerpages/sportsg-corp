@@ -24,7 +24,8 @@ _Historic Partnership will bring Basketball without Borders to Singapore for the
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Jose Raymond<br>
 Deputy Director<br>
@@ -49,7 +50,7 @@ Email: [khip@nba.com](mailto:khip@nba.com)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
@@ -60,5 +61,5 @@ Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=
 
 For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
 
-###### About the NBA
+**About the NBA**<br>
 The NBA, founded in 1946, is a professional sports league and global business that features 30 teams in the United States and Canada. During the 2009-10 season, NBA games will reach 215 countries and territories in 41 languages. The league's worldwide reach is also displayed in the 79 international players from 35 countries and territories on NBA rosters. NBA merchandise is sold in more than 100,000 stores in 100 countries on six continents. NBA.com averages more than 26 million page views per day, with more than 50 percent of the site's visitors coming from outside of North America. Through NBA Cares, the league, its teams and players have donated more than $130 million to charity, provided more than one million hours of hands-on service to communities around the world, and created more than 465 places where kids and families can live, learn, or play, including 85 places in 21 countries on five continents internationally.
