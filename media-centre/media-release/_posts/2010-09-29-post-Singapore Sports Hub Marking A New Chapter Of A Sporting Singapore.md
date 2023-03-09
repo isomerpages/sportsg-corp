@@ -36,7 +36,8 @@ Annex C - [Stadium Roads Closure Media Advisory](/files/Media%20Centre/Media%20R
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Linda Fulford<br>
 Fulford Public Relations<br>
@@ -50,7 +51,7 @@ Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
 
 ---
 
-###### About Singapore Sports Hub
+**About Singapore Sports Hub**<br>
 The Sports Hub will be Singapore's premier land and water sports, entertainment and lifestyle hub with integrated programming.
 
 A unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation and take sports to the next level in Singapore.
