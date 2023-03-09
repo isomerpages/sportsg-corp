@@ -20,7 +20,9 @@ Manulife Singapore becomes the first corporation to sponsor a national water saf
 
 ---
 
-**Related Link:** [Speech by Mr Lim Teck Yin, CEO, Sport Singapore At The Manulife-ActiveSG SwimSafer Programme Media Conference](/media-centre/speeches/speech-by-mr-lim-teck-yinmanulife-activesg-swimsafer/)
+**Related Link:**
+
+[Speech by Mr Lim Teck Yin, CEO, Sport Singapore At The Manulife-ActiveSG SwimSafer Programme Media Conference](/media-centre/speeches/speech-by-mr-lim-teck-yinmanulife-activesg-swimsafer/)
 
  ---
  
