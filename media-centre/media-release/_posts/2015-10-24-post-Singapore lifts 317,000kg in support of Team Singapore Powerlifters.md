@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Singapore lifts 317,000kg in support of Team Singapore Powerlifters**
+
 With less than six weeks to go till the 8th ASEAN Para Games (APG) 2015, 72 Singaporeans joined Team Singapore athletes, fitness groups, volunteer welfare organisations and local celebrities in a powerlifting competition to raise awareness for the sport. Present at the event, and participants at the upcoming APG for Powerlifting, were Team Singapore’s very own powerlifters Kalai Vanen, and Melvyn Yeo, who conducted powerlifting clinics for the public throughout the day. The event attracted a total of more than 20,000 people on its first day.
 
 Held at Marina Square, the 8th ASEAN Para Games Unified Powerlifting Challenge saw teams of nine compete to lift as much weight as possible in 20 minutes, with the winning group taking home with them prizes.
@@ -19,7 +20,7 @@ The Unified Powerlifting Challenge will be the final of three sport demonstratio
 
 The public will be able to catch Kalai Vanen and Melvyn Yeo representing Singapore for Powerlifting for the 8th APG at the Marina Bay Sands Halls from 5 to 8 December.
 
-#### **About the 8th ASEAN Para Games**
+**About the 8th ASEAN Para Games**
 
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of **Celebrate the Extraordinary**, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.
 
