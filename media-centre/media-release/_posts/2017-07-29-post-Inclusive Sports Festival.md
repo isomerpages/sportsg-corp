@@ -24,7 +24,7 @@ _Minister Grace Fu trying out Zero Point at the ISF._
 
 Our Tampines Hub is first of five Regional Sports Centres to be ready under the Sports Facilities Master Plan. 
 
-Find out more about GetActive! Singapore 2017 at [www.myactivesg.com/getactivesingapore](http://www.myactivesg.com/getactivesingapore).
+Find out more about GetActive! Singapore 2017 at [GetActive! Singapore](http://www.myactivesg.com/getactivesingapore).
 
 ---
 
