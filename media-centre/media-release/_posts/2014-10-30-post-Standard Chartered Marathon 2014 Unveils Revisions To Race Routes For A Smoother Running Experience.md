@@ -27,7 +27,7 @@ Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 can look f
 
 8\. Registrations remain open for all categories until midnight on 31 October 2014. Late entries will still be accepted after this date but participants will pay a $20 late fee and will not receive a personalised race bib.
 
-9\. For all SCMS 2014 registration details please visit www.marathonsingapore.com.
+9\. For all SCMS 2014 registration details please visit [Standard Chartered Marathon Singapore (SCMS)](http://www.marathonsingapore.com).
 
 ---
 
