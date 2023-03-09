@@ -48,7 +48,8 @@ Triathlon Association of Singapore
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 S. Parameswaran
 <br>
