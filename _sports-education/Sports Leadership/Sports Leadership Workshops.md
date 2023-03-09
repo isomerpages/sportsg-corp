@@ -24,9 +24,7 @@ The **learning outcomes** from this workshop include:
 
 Practical handles and experiences will be shared during the session so that you can apply your learnings back in your coaching. 
 
-**Costs**:
-
-NROC Members: Free
+**Costs**: NROC Members: Free
 
 **CCE Hours**: 3
 
@@ -37,11 +35,10 @@ NROC Members: Free
 **(For all *Territorial Invasion Team* Sports Coaches)**
 
 ![Building An Effective Sports Team Every Season](/images/Sport%20Education/Sports%20Leadership/Sports%20Leadership%20Workshops/TeamUP%20Cert%20FB%20Coverpic_resized.jpeg)
-
 **Dates:** TBC 
-
+<br>
 **Venue:** Pasir Ris Sports Hall
-
+<br>
 **Description:** This programme conducted by CoachSG introduces the coach to models and concepts for building more effective sports teams. Skills such as facilitation will also be taught to provide coaches with more skills to engage their teams. The **learning outcomes** from this programme include:
 
 * Understanding the role of coach as leader and Tuckman’s Stages of Team Development in a sport context
