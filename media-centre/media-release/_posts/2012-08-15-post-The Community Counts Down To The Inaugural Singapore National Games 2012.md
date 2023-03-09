@@ -105,7 +105,7 @@ U-Lynn LEE
 
 Tanty Nazlianah ROSLI 
 <br>Singapore Sports Council 
-<br>Email: tanty_nazlianah@ssc.gov.sg
+<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Adlina JAFFAR
 <br>People's Association
