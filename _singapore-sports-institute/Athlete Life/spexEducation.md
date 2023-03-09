@@ -14,7 +14,9 @@ To implement a comprehensive athlete support system designed to help student-ath
 
 **Benefits for the Student-athlete:**
 
-![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/table1.png)
+| Athlete Life Coaching & Support	 | Academic Flexibility & Support** |
+| -------- | -------- | 
+| - Education counselling<br>- Support letters for admission/scholarship applications | <br> - Alternative academic scheduling<br> - Alternative learning modes<br> - Alternative assessment modes<br> -Local & Overseas Athlete-friendly pathways | 
 
 <small>\*\*(subject to approval by individual Institutes of Higher Learning)</small>
 
