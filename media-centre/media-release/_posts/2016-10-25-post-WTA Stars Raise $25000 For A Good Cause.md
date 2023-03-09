@@ -19,32 +19,38 @@ Melissa Pine, Vice-President of WTA Asia-Pacific and Tournament Director of the 
   
 To explore opportunities of getting involved with SportCares, interested parties may reach out through [the official SportCare Facebook page](www.facebook.com/SportCaresSG).
   
-##### **Acknowledgement of Donors**
-  
+**Acknowledgement of Donors**
 1. Mr. Glenn Turner, CEO, Fresh Trust Pte. Ltd.   
 2. Singapore Olympic Foundation - Peter Lim Scholarship  
 3. Mr. Nic Seah, Private Donor  
 4. Singapore Pools  
 5. Private Investor  
 
-  
+---
+
 **For media enquiries, please contact:**
+<br>
   
 **SportCares Foundation**
+Rozann Phua<br>
+HP: 9155 5962<br>
+Email: [rozann@asiaprwerkz.com](mailto:rozann@asiaprwerkz.com)
 
-* Rozann Phua, rozann@asiaprwerkz.com, 9155 5962  
-* Vanessa Li, vanessa@asiaprwerkz.com, 9616 0431  
+Vanessa Li<br>
+HP: 9616 0431<br>
+Email: [vanessa@asiaprwerkz.com](mailto:vanessa@asiaprwerkz.com)   
   
 **WTA**
-* Darrelle Eng, deng@wtatennis.com, +65 8318 8010  
+Darrelle Eng<br>
+HP: 8318 8010<br>
+Email: [deng@wtatennis.com](mailto:deng@wtatennis.com)
   
-  
-**About SportCares Foundation**
-<br>
+---
+
+**About SportCares Foundation**<br>
 SportCares Foundation is the philanthropic arm of Sport Singapore (SportSG) and was officially established in October 2012 as a key recommendation of SportSG’s Vision 2030: Live Better Through Sport master plan. SportCares is at the heart of a growing national movement to use sport for social good. With support from partners in the community and corporate sectors, SportCares has organised programmes and projects that have touched the lives of more than 8,000 underprivileged children and youth. While each programme has its unique characteristics, SportCares’ mission has never varied: to empower people in need, by providing opportunities for social inclusion and community bridging through sport.  
   
-**About the WTA**
-<br>
+**About the WTA**<br>
 The WTA is the global leader in women’s professional sport with more than 2,500 players representing 92 nations competing for a record $130 million in prize money. The 2016 WTA competitive season includes 56 events and four Grand Slams in 33 countries. In 2015, The WTA was watched by 395 million fans on television and digital channels around the world. The 2016 WTA competitive season concludes with the BNP Paribas WTA Finals Singapore presented by SC Global, from 23-30 October 2016 and the WTA Elite Trophy in Zhuhai, China from 1-6 November 2016. 
 
 Further information on the WTA can be found at [www.wtatennis.com](www.wtatennis.com), [facebook.com/WTA](facebook.com/WTA) and [twitter.com/WTA](twitter.com/WTA).
