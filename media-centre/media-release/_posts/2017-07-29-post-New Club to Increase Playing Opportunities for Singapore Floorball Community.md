@@ -14,8 +14,7 @@ The announcement was made during the GetActive! Singapore Floorball competitions
    
 Mr Masagos said, “Floorball has gained tremendous traction in Singapore as it nurtures speed, agility and fast-paced strategies and thinking. At the same time, it emphasizes the important spirit of teamsmanship, builds camaraderieship among players, bringing them closer together and encouraging a tight-knit community. Such are the types of sports and activities that we want to bring and celebrate at Our Tampines Hub because it serves as a bonding platform for residents in Tampines GRC.”  
    
-Floorball is a sport that has skyrocketed in popularity over the past few years - there are currently about 15,000 Floorball players in Singapore coming from more than 100 schools and 100 clubs. The inclusive sport can also be modified for People with Disabilities to play and earlier this year, Singapore sent a team  
-to participate in the Special Olympics World Winter Games.
+Floorball is a sport that has skyrocketed in popularity over the past few years - there are currently about 15,000 Floorball players in Singapore coming from more than 100 schools and 100 clubs. The inclusive sport can also be modified for People with Disabilities to play and earlier this year, Singapore sent a team  to participate in the Special Olympics World Winter Games.
 
 **Opening up more venues for Floorball**  
 
@@ -34,4 +33,4 @@ While the ActiveSG Floorball Club will provide facility support to drive the ope
 Mr Kenneth Ho, President of the Singapore Floorball Association said, “Our partnership with the ActiveSG Floorball Club will help us build on the strong foundations that are already set in place and gradually expose more people to Floorball. With more opportunities for Singaporeans to learn, play and develop  
 their passion for the sport, we hope to amass not just a pool of players that can rival Asia’s best in the near future; but also a spectatorship that can match the other popular sports in the country.”  
    
-To find out more or register for your interest for the programme, you can visit myactivesg.com/academy/floorball
+To find out more or register for your interest for the programme, you can visit [ActiveSG Floorball Club](http://myactivesg.com/academy/floorball).
