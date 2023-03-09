@@ -22,6 +22,7 @@ Mr Ong, together with his fellow Advisers to Sembawang GRC Grassroots Organisati
 Bukit Canberra will have facilities by Sport Singapore (SportSG), Ministry of Health (MOH), National Healthcare Group Polyclinics (NHGP), National Environment Agency (NEA) and National Parks Board (NParks). With inputs from National Heritage Board (NHB), Bukit Canberra will also highlight the heritage of the area.
 
 **Greenery and Heritage**
+
 The development and landscaping of Bukit Canberra is shaped around the existing terrain, and retains and highlights the hilly characteristics and lush vegetation. More trees and shrubs will be planted throughout the entire site and be integrated with the various facilities to enhance the existing greenery and biodiversity, thereby allowing users to enjoy the hub’s features in a natural setting while at the same time bringing them closer to flora and fauna.
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Therapeutic%20Gardens.jpeg)
@@ -49,6 +50,7 @@ _Artist impression of the Sunken Garden_
 Other structures also include the ANZUK House Gate, which commemorates the history of ANZUK (acronym for Australia, New Zealand and the United Kingdom) forces in Singapore in the 1970s; and a World War II bunker discovered in 1990 near the Former Admiralty House.
 
 **Sport Facilities and Active Health**
+
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Swimming%20Complex%202.jpeg)
 _Artist impression of the swimming complex_
 
@@ -77,7 +79,8 @@ _Artist impression of the Active Health Nutrition Studio_
 
 The hub will also have an Active Health Lab and Nutrition Studio to serve the Sembawang residents. The Active Health Lab, supported by Active Health Experts, is a proactive space where people can learn about preventive healthcare and exercise advisory through the management of Physical Activity, Nutrition, Sleep and Screen Time. The Lab leverages on knowledge of exercise, sport science, medicine, health and wellness that is supported by technology to encourage the community to embrace active living on a sustained basis with the aim of promoting the ownership of one’s health.
 
-##### **Health**
+**Health**
+
 Health and fitness will go hand-in-hand at Bukit Canberra by having sports and healthcare facilities such as a polyclinic, a senior care centre and sports facilities at the hub. This will allow the various agencies to work closely to help people improve their health and fitness.
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Polyclinic.jpeg)
@@ -91,12 +94,14 @@ _Artist impression of the senior care centre_
 The Senior Care Centre will provide a range of health and social care services for seniors, including day care and rehabilitation services, so that seniors requiring care can be supported within the community. The centre will also offer home-based care services to frail and elderly residents living in the area.
 
 **Food**
+
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Hawker%20Centre.jpeg)
 _Artist impression of the hawker centre_
 
 The hub will also have a hawker centre which is conveniently located at the north-west side of Bukit Canberra, and easily accessible to the rest of the development. It will feature over 40 stalls and more than 700 seats. Residents can look forward to enjoying affordable hawker fare in a park-like environment, as eating spaces are organised to incorporate views of lush greenery. The hawker centre will also be a place for community bonding and social interaction for residents and visitors of Bukit Canberra.
 
 **Connectivity and Co-programming**
+
 ![](/images/Media%20Centre/Media%20Release/2018/July/Bukit%20Canberra_Community%20Plaza.jpeg)
 _Artist impression of the community plaza_
 
