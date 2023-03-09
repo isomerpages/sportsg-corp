@@ -30,7 +30,6 @@ image: ""
 
 **For media enquiries, please contact:**
 <br>
-
 Ms. Fiona Koh
 <br>
 Email: [Fiona@asiaprwerkz.com](mailto:Fiona@asiaprwerkz.com)
