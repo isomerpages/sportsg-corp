@@ -24,7 +24,7 @@ The academy programme will adopt its core syllabus from the FAS Grassroots Manua
   
 “It is not enough in age-group football to just focus on the technical aspect of the training. At the ActiveSG Football Academy, we will also teach important values such as discipline, respect and teamwork to our participants, as well as equip them with valuble life skills. To ensure that, all coaches at the ActiveSG Football Academy will have to undergo a comprehensive coach education programme that will help them design and conduct a training programme steeped in values-based education and life skills development,” said Mr Duric.  
   
-There will be free trial clinics conducted by the Academy in April and May leading up to the start of the programme. Parents interested to find out more information about these clinics or sign their child up for the programme can do so at the event itself or online at [https://www.myactivesg.com/programmes/academy/football](https://www.myactivesg.com/programmes/academy/football).  
+There will be free trial clinics conducted by the Academy in April and May leading up to the start of the programme. Parents interested to find out more information about these clinics or sign their child up for the programme can do so at the event itself or online at [ActiveSG Football Academy](https://www.myactivesg.com/programmes/academy/football).  
   
 **Partnership with Tampines Rovers**  
 
