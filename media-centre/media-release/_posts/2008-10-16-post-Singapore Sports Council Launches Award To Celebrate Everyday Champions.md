@@ -49,7 +49,8 @@ The closing date for nominations is Sunday, 16 November 2008.
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Chua Poh Suan
 <br>
@@ -89,13 +90,13 @@ Phone: 6878 5544 / 9693 4862
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-###### About 'Let's Play'
+**About 'Let's Play'**<br>
 'Let's Play' is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to be involved in sports, in all ways, at all times, simply because they enjoy it. Be it playing, watching, cheering, spectating, volunteering, the 'Let's Play' movement seeks to "Energise life through sports' diverse offer of enjoyable moments and shared experiences." For more information on 'Let's Play', please visit www.singaporesports.sg
 
-###### About POSB
+**About POSB**<br>
 A part of the DBS Group, POSB is the largest local bank in Singapore with more than 3.5 million customers. Having served generations of Singaporeans for the past 131 years, it is known as the "People's Bank", and prides itself in being "neighbours first, bankers second".
 
 With a good understanding of Singaporeans through the years, POSB offers products and services that are relevant to the savings, borrowing, investment and insurance needs of all Singaporeans. In expanding its product mix, POSB launched the "POSB Everyday Credit Card" in 2005, offering savings where it matters - petrol, utilities, groceries and more. As part of its 130th anniversary celebrations, POSB refurbished its network of 49 branches in 2007. With close to 800 ATMs and Cash Acceptance Machines across the island, POSB's self-service banking network is the largest in Singapore.
