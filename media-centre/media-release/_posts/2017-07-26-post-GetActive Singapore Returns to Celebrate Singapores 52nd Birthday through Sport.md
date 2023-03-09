@@ -70,7 +70,7 @@ GetActive! Singapore will also be celebrating 50 years of National Service (NS50
 
 In celebration of NS50, national servicemen and their family and friends will receive complimentary access to ActiveSG Swimming Complexes and Gyms from 5 – 6 August when they present their SAF/SPF/SCDF 11B or SAFRA/HomeTeamNS membership cards upon entry.
 
-Find out more about GetActive! Singapore 2017 at [www.myactivesg.com/getactivesingapore](https://www.myactivesg.com/getactivesingapore).
+Find out more about GetActive! Singapore 2017 at [GetActive! Singapore](https://www.myactivesg.com/getactivesingapore).
 
 ---
 
