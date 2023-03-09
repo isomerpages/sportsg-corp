@@ -38,9 +38,9 @@ The 28th SEA Games officially marked its one year to the Games at the Singapore 
   
 5\. Tomorrow, on 28 June (Saturday), visitors can experience the Sports Hub Community Open House and be one of the first to play at the OCBC Arena, try out SEA Games sports including Basketball, Taekwondo, Tennis and “Equestrian”. Members of the public will get a chance to view the facilities and surrounding areas which included the OCBC Aquatic Centre. OCBC Arena, Beach Volleyball Court, and Kallang Wave Mall, and enjoy the various activities at the facilities for free. 
   
-6\. For more information, please log on to: www.seagames2015.com/get-involved/sports-hub-community-open-house
+6\. For more information, please log on to: [Sports Hub Community Open House](http://www.seagames2015.com/get-involved/sports-hub-community-open-house)
   
-7\. Interested parties can also sign up as a SEA Games 2015 volunteer and be part of the team to make this a historic event for Singapore at the open house or www.seagames2015.com/get-involved/be-a-volunteer
+7\. Interested parties can also sign up as a SEA Games 2015 volunteer and be part of the team to make this a historic event for Singapore at the open house or [here](http://www.seagames2015.com/get-involved/be-a-volunteer).
   
 ---
 
@@ -64,6 +64,7 @@ HP: (65) 9839 1974
 **About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
-Follow us on: <br>
-28th SEA Games Website: www.seagames2015.com <br>
-28th SEA Games Facebook Page:[https://www.facebook.com/SEAGamesSingapore2015/](https://www.facebook.com/SEAGamesSingapore2015/)
+Follow us on:<br>
+[28th SEA Games Website](http://www.seagames2015.com)<br>
+[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
+[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
