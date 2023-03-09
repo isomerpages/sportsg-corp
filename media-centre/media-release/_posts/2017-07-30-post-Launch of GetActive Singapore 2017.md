@@ -30,8 +30,7 @@ Sports Festival: Get Active! @ Padang, started on 29 July, and will continue unt
 ![](/images/Media%20Centre/Media%20Release/2017/July/GASG2017LAUNCH_EugeneLim_TeamNila_SportSG(4).jpeg)
 _GetActive! Singapore 2017 Workout at the launch event_
 
-  
-##### **GetActive! Singapore Sports Festivals**
+**GetActive! Singapore Sports Festivals**
 
 Members of the public can also look out for Sports Festivals in their neighbourhood. Across nine key locations, the Sports Festivals will take place over the two weekends from 29 – 30 July and 5 – 6 August. Many of the events at these Festival sites are supported under the Active Enabler Programme, an initiative to support ground-up community projects through grants and endorsements.
 
@@ -48,27 +47,25 @@ Members of the public can also look out for Sports Festivals in their neighbourh
 * Field next to Jurong East MRT (5 – 6 Aug)
 * Field next to Djitsun mall at Ang Mo Kio (5 – 6 Aug)
 
-  
-
 For more information on the events, log on to [www.myactivesg.com/getactivesingapore](http://www.myactivesg.com/getactivesingapore)/events.
 
-##### **Sports Competitions – National Youth, Corporate & Masters Games**
+**Sports Competitions – National Youth, Corporate & Masters Games**
 
 As a prelude to the biennial Singapore National Games, this will be the very first National Youth, Corporate & Masters Games to be held during GetActive! Singapore 2017.
 
 So far, this National Youth, Corporate & Masters Games has seen over 13,000 sign-ups, with over 3,000 sign-ups from corporates across 20 sports and 10 para sports.
 
-| S/N | Sport            | S/N    | Sport            |
-|-----|------------------|--------|------------------|
-| 1   | Adventure Race   | 13     | Hockey           |
-| 2   | *Aquatics        | 14     | Petanque         |
-| 3   | *Archery         | 15     | Pickleball       |
-| 4   | *Athletics       | 16     | *Sailing         |
-| 5   | *Badminton       | 17     | Sepak Takraw     |
-| 6   | *Basketball      | 18     | *Table Tennis    |
-| 7   | *Bowling         | 19     | Tennis           |
-| 8   | Cycling          | 20a    | Volleyball       |
-| 9   | Dragon Boat      | 20b    | Beach Volleyball |
-| 10  | Floorball        | 21     | *Boccia          |
-| 11  | *Football        | &nbsp; | &nbsp;           |
-| 12  | Ultimate Frisbee | &nbsp; | *with para sport |
+| S/N | Sport            | S/N | Sport             |
+| --- | ---------------- | --- | ----------------- |
+| 1   | Adventure Race   | 13  | Hockey            |
+| 2   | \*Aquatics       | 14  | Petanque          |
+| 3   | \*Archery        | 15  | Pickleball        |
+| 4   | \*Athletics      | 16  | \*Sailing         |
+| 5   | \*Badminton      | 17  | Sepak Takraw      |
+| 6   | \*Basketball     | 18  | \*Table Tennis    |
+| 7   | \*Bowling        | 19  | Tennis            |
+| 8   | Cycling          | 20a | Volleyball        |
+| 9   | Dragon Boat      | 20b | Beach Volleyball  |
+| 10  | Floorball        | 21  | \*Boccia          |
+| 11  | \*Football       |     |                   |
+| 12  | Ultimate Frisbee |     | \*with para sport |
