@@ -90,3 +90,4 @@ CDG recipients can choose which coach development activities they want to fulfil
 * Longer-term projects (e.g., consultancy, research, mentor another coach) – 20 points per piece of work
 
 When more than 1 CDG recipient collaborate on the same deliverable, each CDG recipient will have to produce part of the deliverable (i.e., if 2 coaches attended the same funded activity and delivers a workshop together, each coach should preferably lead 1 part of the workshop).
+
