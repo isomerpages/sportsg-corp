@@ -39,8 +39,7 @@ With one year to go to the 8th ASEAN Para Games which will be held in Singapore 
 **For media enquiries, please contact:**
 <br>
 
-**Singapore ASEAN Para Games Organising Committee:**
-
+**Singapore ASEAN Para Games Organising Committee:**<br>
 Lynette Lim<br>
 Manager, Public Relations<br>
 Communications and Engagement Division<br>
@@ -55,8 +54,7 @@ Tel: +65 6500 5236<br>
 HP: +65 9839 1974<br>
 Email: [parames\_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
 
-**Singapore Disability Sports Council:**
-
+**Singapore Disability Sports Council:**<br>
 Shanise Ho<br>
 Executive, Corporate Communications<br>
 Tel: +65 6342-6501<br>
