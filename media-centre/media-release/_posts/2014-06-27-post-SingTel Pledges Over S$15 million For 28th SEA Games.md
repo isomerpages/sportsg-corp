@@ -22,7 +22,9 @@ Singapore Telecommunications Limited (SingTel) today announced its contribution 
 
 ---
 
-**Related Link:** [Speech By Mr Richard Seow, Sport Singapore Chairman And Chairman Of Sponsorship And Marketing Advisory Sub-Committee, SINGSOC At The SINGSOC-SingTel Partnership Agreement Ceremony](/media-centre/speeches/speech-by-richard-seow-chairman-singsoc-at-the-singsoc-singtel-partnership/)
+**Related Link:** 
+
+[Speech By Mr Richard Seow, Sport Singapore Chairman And Chairman Of Sponsorship And Marketing Advisory Sub-Committee, SINGSOC At The SINGSOC-SingTel Partnership Agreement Ceremony](/media-centre/speeches/speech-by-richard-seow-chairman-singsoc-at-the-singsoc-singtel-partnership/)
 
 
 ---
