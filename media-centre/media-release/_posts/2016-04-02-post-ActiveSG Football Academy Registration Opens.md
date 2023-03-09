@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **ActiveSG Football Academy Registration Opens**
+
 Young budding footballers can now join the ActiveSG Football Academy and learn how to play the sport from former national football players Aleksandar Duric and Terry Pathmanathan. The announcement was made during the official launch of the ActiveSG Football Academy, held today at the Jurong East Stadium, where 350 boys and girls will be participating in a football clinic conducted by Academy Principal Duric, Pathmanathan and guest coaches Hyrizan Jufri, Richard Bok, Robin Chitrakar, Steven Tan and Winston Yap – all renowned coaches in local football.  
   
 Launched by Ms Grace Fu, Minister for Culture, Community and Youth, the ActiveSG Football Academy is the first of a series of sport academies that will be launched by SportSG this year.  
