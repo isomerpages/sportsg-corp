@@ -60,3 +60,21 @@ For the latest updates on the Covid 2019 support, please refer to our [website]
 **6. I need technical assistance on SportSync, what should I do?**
 
 Please check if the Frequently Asked Questions [here](https://www.sportsync.sg/App/System/FAQ) already answers your questions. If not, please get in touch via the [Contact page](https://www.sportsync.sg/App/Login/Contact).
+
+**7. What are some resources that I could be using during this period?**
+
+Other Resources for Continuing Coach Education (Learning & Development)
+
+
+| Home-Based Learning Resources | 
+| -------- | 
+| CoachSG has launched a list of video-resource on our [CoachSG Official YouTube](https://www.youtube.com/channel/UC6S-f5ZwoXcGs_TDbimGd5g/playlists) Channel to encourage everyone to stay active and health through different activities and various sport. Do subscribe to the channel for new content!     | 
+
+| Free Online Courses | 
+| -------- | 
+| There are many existing online resources available such as the following:<br>**Alison.com Online Courses**<br>*   [Physical Education: Coaching Style and Techniques](https://alison.com/courses/Physical-Education-2) (3 CCE hours)<br>*   [Motivating Students to Learn](https://alison.com/courses/Motivating-Students-to-Learn) (3 CCE hours)<br>*   [Diploma in Outdoor and Physical Education Studies](https://alison.com/courses/Diploma-in-Outdoor-and-Physical-Education-Studies) (10 CCE hours)<br>\*Completion of each course earns you the CCE hours indicated in brackets |
+| **International Olympic Committee’s Athlete Learning Gateway**<br>*Completion of each IOC online course (with Certificate of Achievement as proof) earns you **1 CCE hour**.*<br>[www.olympic.org/athlete365](http://www.olympic.org/athlete365) | 
+|**Udemy**<br>Udemy is an online learning platform which provides online courses on various categories\*. Sport Singapore has added a Sports Safety & Risk Management module where coaches may gain a better understanding on the guidelines for a safer sporting environment.<br>\*Note that Udemy offers other courses that are chargeable.<br>[https://www.udemy.com/sports-safety-risk-management/](https://www.udemy.com/sports-safety-risk-management/) (1 CCE hour)<br>Please capture screenshots of completion under *“My Courses”* – where it will indicate “100% complete”.|
+|**NYSI Youth Coaching**<br>Register for NYSI’s Youth Coaching Online course to understand youth athletes better and become a more effective youth coach.<br>[NYSI Youth Coaching](https://yconline.ispringlearn.com/registration/group/5cee66428d2d4446181103) (5 CCE hours)|
+
+
