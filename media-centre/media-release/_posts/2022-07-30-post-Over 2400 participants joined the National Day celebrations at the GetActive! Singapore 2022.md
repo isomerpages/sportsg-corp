@@ -19,7 +19,7 @@ Let’s Play On, Play Together to celebrate our nation’s 57th birthday at the 
 officially launched the GASG 2022 and flagged off the Olympic Day Walk. He was joined by Mr Kon Yin Tong, Chairman of Sport Singapore (SportSG) and Mr Lee Wung Yew, President of Olympians Singapore and former Team Singapore athlete. Participants started the morning’s Olympic Day Walk warming up to the GetActive! Singapore Workout, moving to the beat of this year’s National Day song ‘Stronger Together’ led by ActiveSG Sport Champions.  
 Team Singapore sailors Cecelia Low and Kimberly Lim delivered the Olympic Day message and assisted in the lighting of the Torch for the walk. Minister Edwin Tong joined the participants for a 3km walk around the Sports Hub and the Kallang Alive precinct. Appropriate Safe Management Measures were undertaken for the launch and Olympic Day Walk event segments.
 
-##### **It’s all happening at GetActive! Singapore 2022**
+**It’s all happening at GetActive! Singapore 2022**
 
 4. Taking place from 30 July to 7 August 2022, GASG events and programmes will take place at the Singapore Sports Hub, ActiveSG Sport Centres and selected heartland spaces. Everyone, regardless of age and abilities, have opportunities to enjoy sport in celebration of our National Day.  
   
