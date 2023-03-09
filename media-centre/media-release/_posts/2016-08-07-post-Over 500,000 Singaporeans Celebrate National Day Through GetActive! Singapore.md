@@ -50,7 +50,7 @@ Gathering 18.8 million steps residents of West zone emerged as leaders of the sc
   
 Beyond National Day, it is hoped that all Singaporeans will continue to stay active and to keep to challenging themselves and others in the community through the ActiveHealth tracker.  
   
-For more information and to get the latest daily numbers, visit [https://www.activehealth.sg/](https://www.activehealth.sg/). 
+For more information and to get the latest daily numbers, visit [ActiveHealth](https://www.activehealth.sg/). 
   
 **Staying active beyond getting active**  
 
