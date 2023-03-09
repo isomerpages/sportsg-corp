@@ -40,5 +40,9 @@ To book Sports Hub Library seminar rooms, please follow the steps as follow;
 2. Email completed booking request form to [NurAshikin.Nasir@civica.com.sg](mailto:NurAshikin.Nasir@civica.com.sg), with subject: **Booking of Seminar room**
 3. Wait for confirmation
 4. 	
-For cancellation, please notify Ms Nurashikin – [NurAshikin.Nasir@civica.com.sg](mailto:NurAshikin.Nasir@civica.com.sg), 2 working days in advance.<br>For last minute cancellations (with valid reasons), please call +65 6653 9653 or +65 6653 9652 with your booking reference ID.<Br>For no-shows, coaches will not be allowed to book facility in future.
+For cancellation, please notify Ms Nurashikin – [NurAshikin.Nasir@civica.com.sg](mailto:NurAshikin.Nasir@civica.com.sg), 2 working days in advance.<br>For last minute cancellations (with valid reasons), please call +65 6653 9653 or +65 6653 9652 with your booking reference ID.<Br>For no-shows, coaches will not be allowed to book facility in future.\
+
+*If multiple booking for a space create a scheduling conflict, priority of use will be to Sports Hub Library partners then, of first come, first serve and space available basis.*
+
+By submitting each booking request, all coaches are in agreement to the **Terms of Use.**
 
