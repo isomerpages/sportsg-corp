@@ -36,7 +36,7 @@ image: ""
 
 10\. Ms Laura Reid, Assistant Director, SportCares Foundation, Singapore Sports Council, said: "We are seeing flashes of self-belief and confidence from our most vulnerable group of boys who came into SNL with very little of either. We can feel the team spirit emanating from the teams when they cheer each other on during the friendly matches at the end of the night. We know they are more committed to self-improvement, as evidenced by the deeper effort they are putting into their training. We know that for a fact because they are drinking double the amount of water during the night than when they first started eight weeks ago!"
  
-##### **Future plans**
+**Future plans**
 
 11\. With the completion of this pilot run, Ms Reid hopes to see SNL grow and reach out to more communities. She said: "We look forward to introducing the programme to other regions in Singapore. In the longer term, we also hope to adapt the programme for other sports such as basketball or floorball."
 
@@ -49,14 +49,15 @@ If you wish to make a financial donation, please go to www.sggives.org/sportcare
 ---
 
 **For media enquiries, please contact:**
-
+<br>
 Siti Nurhidayati 
 <br>Senior Executive, Media Relations 
 <br>Corporate Communications & Relations 
 <br>Tel: 6500 5246
 <br>Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
 
-##### **About the Singapore Sports Council**
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
 To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg<br>
