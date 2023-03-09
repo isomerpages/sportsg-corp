@@ -7,13 +7,14 @@ description: ""
 image: ""
 ---
 ### **A TREErific Christmas to mark one year to the 8th ASEAN Para Games**
+
 _Event also presents opportunities for Team Singapore para-athletes and members of the community to come together to build a shared identity as one team_
 
 With one year to go to the 8th ASEAN Para Games which will be held in Singapore from 3 to 9 December 2014, organisers of the Games have put together "A TREErific Christmas - Sports Carnival" that will bring together members of the community, corporates and Team Singapore para-athletes together in the spirit of developing a shared identity and a deeper understanding of disability sports.
 
 2\. Visitors to the carnival will be given the opportunity to engage in disability sports try outs such as javelin, shooting, bowling and air boccia while at the same time, team up and engage in friendly play with our Team Singapore para-athletes.
 
-##### **Community events to build a shared identity**
+**Community events to build a shared identity**
 
 3\. A fun-filled day saw participants from schools and the public enjoy Singapore's first Reindeer Walk-a-Wheelathon as well as a series of carnival games, performances, arts & crafts, face-painting, balloon-sculptin and Christmas caroling.
 
@@ -36,6 +37,7 @@ With one year to go to the 8th ASEAN Para Games which will be held in Singapore 
 ---
 
 **For media enquiries, please contact:**
+<br>
 
 **Singapore ASEAN Para Games Organising Committee:**
 
