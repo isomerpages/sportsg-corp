@@ -42,7 +42,7 @@ image: ""
 
 12\. For more information on how to contribute to SportCares as a partner or volunteer, please send an email to [sportcares@ssc.gov.sg](mailto:sportcares@ssc.gov.sg).
 
-If you wish more details on our activities, please visit [www.facebook.com/sportcaresSG](www.facebook.com/sportcaresSG).
+If you wish more details on our activities, please visit [https://www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport).
 
 If you wish to make a financial donation, please go to www.sggives.org/sportcares.
 
