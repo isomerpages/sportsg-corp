@@ -73,4 +73,4 @@ In addition, Sports Hub played its role in the nation’s fight against the pand
 **About Kallang Alive**<br>
 Kallang Alive was announced by SportSG in 2019 as a 89-ha mixed-use lifestyle destination where Singaporeans can participate in community sports activities and enjoy world-class entertainment and sporting action. The two upcoming major developments that Singaporeans can look forward to in Kallang Alive are the Kallang Football Hub (2022) and the Kallang Tennis Centre (2023). Developments in the pipeline include the Kallang Theatre Integrated Development, Youth Hub and the Banaan Kapal Green.
 
-[https://share.vidyard.com/watch/sNxNXK23k151hV4frERMeA?](https://share.vidyard.com/watch/sNxNXK23k151hV4frERMeA?)
+[Watch more about Kallang Alive](https://share.vidyard.com/watch/sNxNXK23k151hV4frERMeA?)
