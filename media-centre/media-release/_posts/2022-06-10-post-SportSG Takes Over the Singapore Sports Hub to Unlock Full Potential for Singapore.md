@@ -51,17 +51,15 @@ Sport Singapore (SportSG) has initiated the termination of the Sports Hub Public
 
 15. Chairman of SHPL Bryn Jones said, “It has been an honour to play a role in the rich history of the iconic National Stadium and to build the Singapore Sports Hub ecosystem into the region’s premier sports, entertainment, and lifestyle destination. We have delighted in the moments and experiences shared with Singaporeans who have come to Sports Hub to play, compete, participate, and spectate over the years, and we thank them, together with our wonderful staff, partners and sponsors, who have made it all possible. We support the Government’s ambitions in promoting sport among the population and harnessing Sports Hub’s potential to transform the Kallang Alive precinct and we will work collaboratively and constructively to ensure a smooth transition over the next six months. We wish Sport Singapore all the best as they take the project and the vibrant calendar of events forward to realise the Nation’s aspirations.”
 
+---
 
-**About Sport Singapore (SportSG)**
-
+**About Sport Singapore (SportSG)**<br>
 A statutory board of the Ministry of Culture, Community and Youth, SportSG’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities.  
   
-**About SportsHub Pte Ltd**
-
+**About SportsHub Pte Ltd**<br>
 SportsHub Pte Ltd (SHPL) is a consortium consisting of InfraRed Capital Partners, Cushman & Wakefield and Spectra. SHPL manages the Singapore Sports Hub under a Public-Private Partnership (PPP) with Sport Singapore.
 
-**About Sports Hub PPP**
-
+**About Sports Hub PPP**<br>
 Under the Project Agreement signed by SportSG and SHPL in 2010, SHPL would design, build, finance and operate the Singapore Sports Hub over a 25-year period, and SportSG would provide SHPL an annual payment until the end of the concession period in 2035.
 
 Since the opening in 2014, Sports Hub has hosted over 1,100 diverse events for more than 9 million attendees comprising sports events, concerts, community and family days, as well as religious and corporate seminars.
@@ -72,8 +70,7 @@ As Sports Hub developed into the region’s premier destination of choice for sp
 
 In addition, Sports Hub played its role in the nation’s fight against the pandemic, accommodating over 3,000 migrant workers for five months in 2020 and preparing half a million meals on-site in support of this effort.  
   
-**About Kallang Alive**
-
+**About Kallang Alive**<br>
 Kallang Alive was announced by SportSG in 2019 as a 89-ha mixed-use lifestyle destination where Singaporeans can participate in community sports activities and enjoy world-class entertainment and sporting action. The two upcoming major developments that Singaporeans can look forward to in Kallang Alive are the Kallang Football Hub (2022) and the Kallang Tennis Centre (2023). Developments in the pipeline include the Kallang Theatre Integrated Development, Youth Hub and the Banaan Kapal Green.
 
 [https://share.vidyard.com/watch/sNxNXK23k151hV4frERMeA?](https://share.vidyard.com/watch/sNxNXK23k151hV4frERMeA?)
