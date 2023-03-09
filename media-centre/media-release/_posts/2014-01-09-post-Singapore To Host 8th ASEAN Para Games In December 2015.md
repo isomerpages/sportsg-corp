@@ -7,7 +7,9 @@ description: ""
 image: ""
 ---
 ### **Singapore To Host 8th ASEAN Para Games In December 2015**
+
 ![](/images/Media%20Centre/Media%20Release/2014/Jan/ssc%20snpc%20sdsc.jpeg)
+
 **Singapore, 9 January 2014** - As a befitting finale of a major year for Singapore sports, 2015 will see Singapore hosting the 8th ASEAN Para Games – a first to be held here. The ASEAN Para Games will be held during the December school holidays.
  
 2\. Working together with the Singapore National Paralympic Council (SNPC), the Singapore Disability Sports Council (SDSC) and the Singapore Sports Council (SSC), the 8th ASEAN Para Games Organising Committee (APGOC) is in the midst of finalising the competition dates and number of sports. The proposal is to have 10-12 sports shortlisted from 24 sports on the ASEAN Paralympic Sport Federation (APSF) list. This sporting event is expected to involve some 1,300 athletes and over 500 team officials from across the region.
@@ -23,6 +25,7 @@ image: ""
 Annex: [Profiles of Choreographer, Singers, and Dancers](/files/Media%20Centre/Media%20Release/2014/Jan/Singapore%20to%20host%208th%20Asean%20Para%20Games%20in%20December%202015%20annex.pdf)
 
 **For media enquiries, please contact:**
+<br>
 
 Eric Ong
 <br>Manager, Media Relations
@@ -38,15 +41,14 @@ Yasmin Lazaroo
 <br>HP: +65 8188 0459
 <br>Email: [yasmin.lazaroo@sdsc.org.sg](yasmin.lazaroo@sdsc.org.sg)
 
-##### **About Singapore Sports Council (SSC)**
-<br>
+**About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.singaporesports.sg <br>
-Follow us on Facebook and Flickr at: [www.facebook.com/SingaporeSports ](www.facebook.com/SingaporeSports )and[ flickr.com/ssc-sportsphotography]( flickr.com/ssc-sportsphotography)
+To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.sportsingapore.gov.sg <br>
+Follow us on Facebook and Flickr at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)and[ flickr.com/ssc-sportsphotography]( flickr.com/ssc-sportsphotography)
 
-##### **About Singapore National Paralympic Council (SNPC)**
+**About Singapore National Paralympic Council (SNPC)**<br>
 Formed on 23 June 2008, the Singapore National Paralympic Council (SNPC) is the sole national body recognised by the International Paralympic Committee (IPC) to represent disability sports in Singapore. The SNPC takes over the reins of selecting elite athletes with disability for IPC-sanctioned competitions from the Singapore Disability Sports Council (SDSC), such as the Paralympic Games, Commonwealth Games, Asian Para Games, ASEAN Para Games and Asian Youth Para Games.
 
-##### **About Singapore Disability Sports Council (SDSC)**
+**About Singapore Disability Sports Council (SDSC)**<br>
 SDSC is the only organisation in Singapore that caters to sports for persons across all kinds of disabilities. It aims to help persons with disability lead full and independent lives through sports. Besides providing sporting opportunities for them to realise their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. Find out more at [www.sdsc.org.sg](www.sdsc.org.sg)
