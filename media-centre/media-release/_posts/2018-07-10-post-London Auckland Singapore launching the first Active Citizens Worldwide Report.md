@@ -47,8 +47,6 @@ The ACW findings from the first year have already helped to secure bigger budget
 
 Building on a highly successful first year, the second year of ACW will see new cities joining the programme as we look to expand both the breadth and depth of ACW.
 
-**Notes to Editors**
-
-For a copy of the full report, please go to [http://activecitizens.world](http://activecitizens.world/)
-
+**Notes to Editors**<br>
+For a copy of the full report, please go to [http://activecitizens.world](http://activecitizens.world/)<br>
 For further enquiries on the report, please contact [info@activecitizens.world](mailto:info@activecitizens.world)
