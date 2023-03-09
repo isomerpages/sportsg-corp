@@ -49,7 +49,7 @@ As the public mingled alongside Team Singapore athletes, they also pledged their
 
 The support campaign was launched in June calling out to all Singaporeans to rally behind our athletes as One Team Singapore, with travel packages to catch the SEA Games and APG ‘live’ in KL to be won.
 
-Singaporeans planning to travel up to KL to support our athletes can also sign up for the ActiveSG Experience Tours. 3D2N and 2D1N packages for the SEA Games and APG are available with more information to be found at [www.myactivesg.com/exptour](http://www.myactivesg.com/exptour).
+Singaporeans planning to travel up to KL to support our athletes can also sign up for the ActiveSG Experience Tours. 3D2N and 2D1N packages for the SEA Games and APG are available with more information to be found at [ActiveSG Experience Tours](http://www.myactivesg.com/exptour).
 
 
 \[1] The previous largest Team Singapore contingent for an away SEA Games was at the 1997 Games in Jakarta, Indonesia, where 422 athletes took part in 30 sports.
