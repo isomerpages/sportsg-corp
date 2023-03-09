@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Third edition of GetActive Singapore**
 
-##### **Third edition of GetActive! Singapore to triple the fun in celebrating our nation’s birthday**
+**Third edition of GetActive! Singapore to triple the fun in celebrating our nation’s birthday**
 
 * GetActive! Singapore aims to excite the people with more initiatives and rewards with over 300 Active Enabler Programme activities island-wide
 * Great Eastern is the latest partner to join GetActive! Singapore and Active Health movement to promote healthier lifestyles
@@ -26,7 +26,7 @@ In collaboration with SG Cares, this year’s Active Enabler Programme will also
 
 Singaporeans can expect to see more sport festivals springing up near their homes. There will be 12 sport festival sites located both in the heartlands and at iconic areas of Singapore. This includes new locations at heritage places such as Chinatown, Little India and Geylang Serai. It will also be the first time a sport festival will be held at the Singapore Turf Club in Kranji, where people can get up close to the horses. The Singapore Sports Hub will also see a slew of activities, including the Inclusive Sports Festival by SportCares and YOUTHX by the National Youth Council. _(Refer to list of Sport Festivals in Annex B and Event Booklet)_
 
-##### **GetActive! GetGreat Challenge**
+**GetActive! GetGreat Challenge**
 
 Come Saturday, taking part in GetActive! Singapore will mean more than just a day of fun and physical activity with your friends and family. It will also be an opportunity for you to earn attractive prizes while exercising and keeping fit.
 
@@ -46,7 +46,7 @@ There will be collaborations ahead where the community can earn both Active SG p
 
 Welcoming the new partner on board, Mr Lim said, “We are happy to partner Great Eastern in furthering our common belief and conviction that everyone can be healthy and well. This partnership will enable us to creatively nudge Singaporeans to take positive steps to take ownership of the journey towards enjoying the fruits of being at their best.”
 
-##### **Hitting record numbers - Singapore National Games**
+**Hitting record numbers - Singapore National Games**
 
 The biennial Singapore National Games will also return this year as athletes from all over Singapore will come together once again to compete against one another. So far, the registration has more than 15,000 sign-ups for a total of 22 sports and eight para sports. This is the highest since it was started in 2014. This year’s prize money will also be the largest with a total of S$250,000.
 
