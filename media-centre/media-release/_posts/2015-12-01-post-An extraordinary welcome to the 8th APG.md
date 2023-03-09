@@ -36,5 +36,5 @@ The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore 
 
 Facebook: [ASEANParaGames2015](https://www.facebook.com/ASEANPARAGAMES2015)<br>
 Twitter & Instagram: @APG_2015<br>
-YouTube: [www.youtube.com/singaporesports](http://www.youtube.com/singaporesports)<br>
+YouTube: [youtube.com/singaporesports](http://www.youtube.com/singaporesports)<br>
 Backup APG: #BackupAPG2015
