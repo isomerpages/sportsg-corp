@@ -4,9 +4,6 @@ permalink: /support-resources/coaches-corner/coachs-code-of-ethics/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-
-
-![](/images/Support/Coache's%20Corner/athletics2.jpeg)
 Ethics refers to the generally accepted norms of right or wrong behaviour, often based on universal values. Ethics is not about legality nor is it meant to be legalistic. One of the attributes of a profession is that the practitioners subscribe to and enforce ethical codes, which will help to demonstrate their commitment to providing quality services and expertise.
 
 Coaches, due to their close interaction with athletes, exposure to the public, and the strong pressure to win, are vulnerable to various forms of ethical issues. If coaching is to be recognised as a profession, it is important that there exists a code of ethics for coaches. 
@@ -38,7 +35,7 @@ The three principles are:
 
 The concept that each individual possesses an intrinsic value and worth is integral to the principle of Respect for individuals. The coach is called upon to act in a manner respectful of the dignity of individuals.
 
-Key Ethical Standards  
+**Key Ethical Standards  **
 
 1.  Treat and respect everyone equally, regardless of race, language, religion, culture, gender or physical ability.
 2.  Recognise that your athletes can contribute in providing positive feedback on training methods and how best performance during training and competition could be optimised. Be a good listener when occasions for such interaction arise.
@@ -49,7 +46,7 @@ Key Ethical Standards
 
 The principle of Responsible Coaching requires that the coach be competent and that sufficient duty of care to the participants is being exercised such that the participants are not harmed. It encompasses the concept that risks to the participants are minimised and benefits to their holistic development are maximised.
 
-Key Ethical Standards
+**Key Ethical Standards**
 
 1.  Be responsible for periodically updating your coaching expertise through participation in courses, conferences and workshops and through information available in resource materials.
 2.  Prepare well-planned and sound training programmes and execute them in a manner that would benefit ail your athletes.
@@ -62,7 +59,7 @@ Key Ethical Standards
 
 The principle of Integrity in Actions requires the coaches to act with uprightness and coherence. Coaches are expected to be honest, principled and honourable.
 
-Key Ethical Standards
+**Key Ethical Standards**
 
 1.  Be honest and sincere when communicating with your athletes. Do not give false hopes to your athlete.
 2.  Inform a fellow coach if and when you are working with their athletes.
@@ -72,8 +69,6 @@ Key Ethical Standards
 6.  Exercise self-awareness and evaluate how your values and actions influence your coaching activities positively or negatively. 
 7.  Uphold the values of clean, dope-free sport, by complying with all relevant anti-doping rules that are in line with the World Anti-Doping Code and cooperating with relevant anti-doping authorities should a need arise. Be a positive influence to those under your charge with respect to the values of clean sport.  
       
-    
-
 **Breach of Coach’s Code of Ethics**
 
 Coaches in the National Registry of Coaches pledged to abide by the Coach's Code of Ethics. Details of the disciplinary and appeal guidelines on any breach / violations are found [here](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/nroc-handbook).
