@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **OneTeamSG Ready for KL**
+
 ![](/images/Media%20Centre/Media%20Release/2017/June/Launch%20of%20OneTeamSG%20Ready%20for%20KL%20%20Campaign%20jpeg.jpeg)
 
 With the 29th SEA Games and 9th ASEAN Para Games (APG) in Kuala Lumpur less than three months away, a nation-wide campaign to rally Singaporeans to get behind our athletes as One Team Singapore was launched today at the Team Singapore Camp.
@@ -15,7 +16,7 @@ Titled “#OneTeamSG Ready for KL”, the campaign will be fronted by 10 familia
 
 The campaign will roll out across the island from today till after the APG on 30 September. Members of the public can look forward to seeing the 10 athletes’ profiles on double-decker buses, MRT stations, bus stop shelters and billboards in their neighbourhoods across the island. Singaporeans can also show their support for all KL-bound athletes through a simple well-wish on their social media pages with the hashtag #OneTeamSG or through a “1 Minute to KL” Memory Game, which is available on the Team Singapore webpage as well as at activation booths at community and school roadshows. Supporters stand to win prizes, including exclusive Team Singapore premiums and all-expenses paid packages to support Team Singapore in KL.
 
-##### **Team Singapore Camp**
+**Team Singapore Camp**
 
 The Team Singapore Camp was held over two weekends (4, 10 and 11 June) where about 500 SEA Games and APG-bound Team Singapore athletes came together for half-day sessions to learn about the importance of representing Singapore, team camaraderie and instilling a pride and identity with ‘Team Singapore’ and as a contingent for the 2017 SEA Games and ASEAN Para Games. This is done through the framework “My Story, Our Legacy” which focuses on pride in a treasured legacy and the stewardship to pass on that legacy better than before.
 
@@ -29,7 +30,7 @@ Said Minister Fu, “I’m delighted to join our Team Singapore athletes at the 
 
 TeamSG Netballer Charmaine Soh will be leading the team’s quest to defend their Gold in KL. She said: “It has always been my childhood dream to don the Singapore colours and fly our flag high. Since I started playing Netball, the generous support and heart-warming encouragements from fellow Singaporeans has always kept me going. It motivates me to push beyond my limits. I hope that come the SEA Games, Singaporeans will continue to support my team and I, as well as fellow comrades from Team Singapore as we take on the battles in Kuala Lumpur”.
 
-##### **Singapore Jersey**
+**Singapore Jersey**
 
 As part of the “#OneTeamSG Ready for KL” campaign, the 2017 edition of the Singapore jersey was also unveiled. Designed by former National Waterpolo player Alex Loh together with badminton enthusiast Xavier Bay through local set-up X-Change Republic, Singaporeans can now ‘wear their pride as One Team Singapore’ in support of our athletes at the upcoming Games. X-Change Republic has also pledged to donate two percent from the total net proceeds to the SportCares Foundation.
 
