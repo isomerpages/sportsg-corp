@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **New Rugby Enrichment Pilot Programme Helps Students Learn Essential Life Skills**
+
 ActiveSG today announced the launch of a new rugby enrichment programme for schools. Under this new pilot programme, students will not only learn the right techniques to tackle an opponent safely, but will also be directly taught essential skills to tackle life.  
   
 Developed in collaboration with SportCares Foundation and Singapore Rugby Union (SRU), the pilot programme uses rugby as a vehicle to improve the students’ social skills including problem-solving and goal-setting. With enhanced personal skills, these students can become better performers: interacting well with peers, respecting rules and having greater self-esteem.  
