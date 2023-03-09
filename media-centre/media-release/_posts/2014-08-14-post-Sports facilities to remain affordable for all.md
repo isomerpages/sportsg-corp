@@ -22,7 +22,7 @@ Singapore Citizens and Permanent Residents will enjoy public sports facilities a
 
 5\. The Singapore Sports Hub is an example of a sports facility that will take after the new fee structure when it starts charging for the use of its facilities, come 18 August. This follows more than a month of free play, where the public got to experience the new Sports Hub facilities for an extended period in celebration of Singapore’s 49th birthday.
 
-6\. The Sports Hub will be making the rates of its facilities available on its website (www.sportshub.com.sg) from 15 August. Said SportsHub Pte Ltd Chief Executive Officer Mr Philippe Collin Delavaud: “The Singapore Sports Hub works closely with Sport Singapore on key decisions, including determining the rates for the usage of Sports Hub facilities. Sports Hub patrons can be assured that our rates will be competitive with other sports facilities across the island, and in line with Sport Singapore’s pricing policy.”
+6\. The Sports Hub will be making the rates of its facilities available on its  [website](http://www.sportshub.com.sg) from 15 August. Said SportsHub Pte Ltd Chief Executive Officer Mr Philippe Collin Delavaud: “The Singapore Sports Hub works closely with Sport Singapore on key decisions, including determining the rates for the usage of Sports Hub facilities. Sports Hub patrons can be assured that our rates will be competitive with other sports facilities across the island, and in line with Sport Singapore’s pricing policy.”
 
 ---
 
