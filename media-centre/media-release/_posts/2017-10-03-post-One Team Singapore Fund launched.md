@@ -15,7 +15,7 @@ Minister for Culture, Community and Youth Grace Fu called for more Singaporeans 
 
 National Sport Associations (NSAs) with Charity and Institutions of Public Character (IPC) status can also apply for matching grants for donations raised through the NSA OTSF Scheme. The matching grants will be utilised based on multi-year sports plans in the area of HPS mutually agreed upon by the NSA and Sport Singapore. 
 
-##### **OTSF receives $500,000 from its first donors**
+**OTSF receives $500,000 from its first donors**
 
 Running club Tiong Bahru Garden Joggers were among the first to contribute to the OTSF, with a donation of S$100,000. Said Tan Kok Sing, 92, who founded the club in 1977, “As part of our club’s 40th anniversary celebration, we decided to make this donation for the benefit of sport in Singapore. We hope to make a difference and give our athletes more opportunities to achieve their sporting ambitions.”
 
