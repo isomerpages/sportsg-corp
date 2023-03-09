@@ -59,7 +59,7 @@ by Shona Halson, PhD Associate Professor School of Behavioural and Health Scienc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZ7uJmw9vMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**[Sleep presentation Sport Science Symposium 2018](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Singapore-Sports-Institute/Science-and-Technology/SSI-ANNUAL-SYMPOSIUM-2018/2-2_Haresh-Suppiah---Sleep-presentation_Sport_Science_Symposium_2018.ashx?la=en&hash=FA6FBF9FA8FB4E46837D4A7568752E9E369A541E)**   
+[Sleep presentation Sport Science Symposium 2018](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%202/2-2_Haresh_Suppiah_-_Sleep_presentation_Sport_Science_Symposium_2018.pdf)  
 by Haresh Suppiah, PhD National Youth Sports Institute, Singapore, Ministry of Culture, Community and Youth
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8gLxFpC00rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
