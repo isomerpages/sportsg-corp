@@ -4,7 +4,6 @@ permalink: /support-resources/covid-19/for-nroc-swimsafer-and-life-saving-coache
 description: ""
 third_nav_title: Covid 19
 ---
-
 Sport Singapore is delighted to announce that we will extend ONE (1) year membership for all members with the National Registry of Coaches, as well as waive off the following fees for eligible# SwimSafer / Life Saving coaches/ instructors.
 
 | S/N | Description | Cost per person (S$) |
@@ -151,3 +150,17 @@ c. Valid CPR & AED Certification
 **4.** **Who do I approach if I have enquiries on SwimSafer Usage Permit?**
 
 Please write in to [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg) for any queries on extension of SwimSafer Usage Permit.
+
+##### **Complimentary Entry to ActiveSG Swimming Complex for Coaches**
+
+****1. Who is eligible for the complimentary pool entry?****
+
+Coaches with valid usage permit as at **28 May 2021** are eligible for the complimentary pool entry.
+
+**2. **What is the period of complimentary pool entry?****
+
+The period of complimentary pool entry is from 1 June 2021 – 31 May 2022.
+
+**3. **What action is required of me to qualify for this complimentary pool entry?****
+
+No action is required from you. Swimming coaches with valid usage permit as at 28 May 2021 will receive the QR code for complimentary pool entry in their ActiveSG app automatically. For any queries on the complimentary for pool entrance for coaches, you may write in to [https://members.myactivesg.com/feedback](https://members.myactivesg.com/feedback).
