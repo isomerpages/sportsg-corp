@@ -58,7 +58,7 @@ To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sport
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
 
