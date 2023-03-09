@@ -31,13 +31,14 @@ Mr Toh Boon Yi, Chief of Community & Corporate Outreach, Singapore Southeast Asi
 
 Over the past week, Voice, a Ngee Ann Polytechnic student-led group, has been holding a string of activities at their school, and at Jalan Besar Stadium – in a bid to spread the word that the SEA Games and ASEAN Para Games are coming to Singapore.
 
-Elaborating on the concept, Managing Director of Voice and final-year student of NP, Terence Cheong says, “Though ordinary, it is the small little things in life that lead us to where we are and bring us a step closer to achieve the greater success in life. Hence, through Extraordinary Everyday, we aim to celebrate the little achievements in life; after all, it is the little things that leads to the extraordinary. Besides giving a reminder to Singaporeans that there is something worth celebrating in each and every one of us, we want to create an event that engages the entire nation. Since sports and arts bring people together, we came up with Extraordinary Art to excite members of the public using sports to create a beautiful montage that would be showcased at the Singapore 2015 Launch Party.”
+Elaborating on the concept, Managing Director of Voice and final-year student of NP, Terence Cheong says, “Though ordinary, it is the small little things in life that lead us to where we are and bring us a step closer to achieve the greater success in life. Hence, through Extraordinary Everyday, we aim to celebrate the little achievements in life; after all, it is the little things that leads to the extraordinary. Besides giving a reminder to Singaporeans that there is something worth celebrating in each and every one of us, we want to create an event that engages the entire nation. Since sports and arts bring people together, we came up with Extraordinary Art to excite members of the public using sports to create a beautiful montage that would be showcased at the Singapore 2015 Launch Party.”
 
 Mr Toh added that, “We are very happy that communities such as Ngee Ann Poly’s final-year students have volunteered to kick-off this exciting journey. The involvement of our very talented local singers and composers also demonstrates that everyone can be a part of the Games as we host the Games again after 22 years.”
 
 50 mosh pit tickets will be given out through the ‘Extraordinary’ activation events, and as prizes through Facebook contests.
 
 **EXTRAORDINARY EVERYDAY**
+
 ![1 EXTRAORDINARY EVERYDAY](/images/Media%20Centre/Media%20Release/2014/February/1%20EXTRAORDINARY%20EVERYDAY.jpeg)
 Recognising the daily challenges everyone faces such as the daily challenges of students who climb up a steep slope to make it on-time for their lectures (a mammoth task to many!), unsuspecting students bumped into the Voice “Welcome Party” and were given a goodie-bag, consisting of the essentials to ‘recover’ from the hike – a water bottle, tissue pack and a flyer for the Singapore 2015 Launch Party.
 
@@ -46,6 +47,7 @@ Recognising the daily challenges everyone faces such as the daily challenges of 
 “Embrace the sensation of losing calories and stress. Now that’s Something Worth Celebrating.”
 
 **EXTRAORDINARY ART**
+
 ![2 EXTRAORDINARY ART](/images/Media%20Centre/Media%20Release/2014/February/2%20EXTRAORDINARY%20ART.jpeg)
 *Ordinary Colors Paint An Extraordinary Picture*
 
@@ -57,43 +59,43 @@ The final product will be displayed at the Singapore 2015 Launch Party.
 
 This pop-up activation takes place from 6pm and during the half-time of the match.
 
-Photos to Extraordinary Everyday & Extraordinary Art events can be downloaded: [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk)
+Photos to Extraordinary Everyday & Extraordinary Art events can be downloaded: [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk)
 
-END
+Click [here](/files/Media%20Centre/Media%20Release/2014/February/MEDIA%20RELEASE%20%20CELEBRATE%20SINGAPORES%20HOSTING%20OF%20THE%2028TH%20SEA%20GAMES%20%208TH%20ASEAN%20PARA%20GAMES.pdf) for Factsheet.
 
-Click [here](/files/Media%20Centre/Media%20Release/2014/February/MEDIA%20RELEASE%20%20CELEBRATE%20SINGAPORES%20HOSTING%20OF%20THE%2028TH%20SEA%20GAMES%20%208TH%20ASEAN%20PARA%20GAMES.pdf) for Factsheet.
+---
 
-**For Media Enquiries:**
 
-Lynette Chang  
-Overall In-Charge, Voice  
-[lynettechang.voice@gmail.com](mailto:lynettechang.voice@gmail.com) 
+**For media enquiries, please contact:**
+<br>
+
+Lynette Chang<br>
+Overall In-Charge, Voice<br>
+[lynettechang.voice@gmail.com](mailto:lynettechang.voice@gmail.com)<br>
 HP: (65) 9796 2911
 
-Rachel Ang  
-Media Relations, Singapore Sports Council  
-[rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)  
-Tel: (65) 6500 5246  
+Rachel Ang<br>
+Media Relations, Singapore Sports Council<br>
+[rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)<br>
+Tel: (65) 6500 5246<br>
 HP: (65) 9729 3700
 
-##### **About Voice**  
+---
+
+**About Voice**<br>
 Voice is a student-led, student-supported agency birthed by students from the Diploma of Advertising and Public Relations course in Ngee Ann Polytechnic’s School of Film and Media Studies (FMS). Voice’s efforts focus on developing their final year project, ‘Something Worth Celebrating’ for the publicity of the 28th SEA Games Launch Event. Liaising and working with industry professionals, Voice uses the various skills taught in the preliminary years of the diploma, to handle the Public Relations and Events Planning, Digital and Social Media, Production and Logistics, Research and Development, Media Planning, Creatives and Account Servicing aspects of the campaign.
 
-##### **About Singapore Sports Council**  
+**About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.  
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [[www.Vision2030.sg](www.Vision2030.sg)] and [SingaporeSports.sg](SingaporeSports.sg). 
-Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports).  
-For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [www.ssc.gov.sg](https://www.ssc.gov.sg/), [www.Vision2030.sg](http://www.vision2030.sg/) and [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) <br>Follow us on Facebook and Flickr at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
  
-##### **About Singapore National Olympic Council (SNOC)** 
+**About Singapore National Olympic Council (SNOC)**<br>
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-  
-
-**Follow us on:**<br>
-28th SEA Games Website: [[www.seagames2015.com](www.seagames2015.com)]<br>
-28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)<br>
-8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)<br>
+Follow us on:<br>
+28th SEA Games Website: [[www.seagames2015.com](www.seagames2015.com)]<br>
+28th SEA Games Facebook Page: [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015)<br>
+8th ASEAN Para Games Facebook Page: [www.facebook.com/ASEANPARAGAMES2015](www.facebook.com/ASEANPARAGAMES2015)<br>
