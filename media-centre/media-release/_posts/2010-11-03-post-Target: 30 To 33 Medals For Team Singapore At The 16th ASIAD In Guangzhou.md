@@ -18,11 +18,11 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 4. Leading the team as Chef-de-Mission is Mr Low Teo Ping, Vice-President of the Singapore National Olympic Committee and the President of the Singapore Rugby Union. Mr Low is also a Vice President of the International Sailing Federation and an advisor of the Singapore Athletic Association and was previously Chef-de-Mission to the Singapore contingent in the 2007 SEA Games in Korat, Thailand.
 
-5. The honour of carrying the Singapore flag this year rests with the cel<br>ated female bowler Jasmine Yeong-Nathan. At the 16th Asian Games Guangzhou 2010 Flag Presentation ceremony held at Dunman High School today, Jasmine received the Singapore flag from CDM Low Teo Ping. The 2006 Asian Games gold medallist sailor Roy Tay then led the Team Singapore contingent in reciting the National Pledge.
+5. The honour of carrying the Singapore flag this year rests with the celebrated female bowler Jasmine Yeong-Nathan. At the 16th Asian Games Guangzhou 2010 Flag Presentation ceremony held at Dunman High School today, Jasmine received the Singapore flag from CDM Low Teo Ping. The 2006 Asian Games gold medallist sailor Roy Tay then led the Team Singapore contingent in reciting the National Pledge.
 
 6. Deputy Prime Minister and Defence Minister, Mr Teo Chee Hean, who is also the President of the Singapore National Olympic Council, was the Guest-of-Honour at the Flag Presentation Ceremony. DPM Teo said, "I am proud to note that more team sports have qualified on merit for the Asian Games, and this year we will be sending teams to represent Singapore in five team sports events, namely in Water-Polo, Football, Rugby (Women's), Hockey and Dragon Boat where both the men's and women's teams have made the cut."
 
-**Promising Performances**<br>
+**Promising Performances**
 
 7. Following Team Singapore's stellar performance at the recently concluded Commonwealth Games (where 31 medals were clinched in total), public expectations on the team's showing at the 16th Asiad are high. But the athletes are all fully prepared and raring to take on Asia's best to show that Singapore is a sporting force to be reckoned with.
 
@@ -40,7 +40,7 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 14. "To our athletes - do your best to win but do not do it at all costs. It is always important to uphold the values of sportsmanship whenever Team Singapore athletes participate in any events, and when we wear the national flag across our chests."
 
-**Following Team Singapore's Action on New Media**<br>
+**Following Team Singapore's Action on New Media**
 
 15. For the first time in history, fans can now keep up with Team Singapore in action through SingaporeSports.tv, a free to access online portal launched by the Singapore Sports Council that will provide 'live' feeds of the sports events that feature Team Singapore athletes as they take place in Guangzhou.
 
@@ -52,13 +52,13 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 ---
 
-**Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010**<br>
+**Annex A: Fact Sheet on the 16th Asian Games Guangzhou 2010**
 
 DATE: 12-27 November 2010<br>
 VENUE: Guangzhou, China<br>
 WEBSITE: www.gz2010.cn/en
 
-NO. OF SPORTS COMPETED AT AG 2010:42 Sports
+**NO. OF SPORTS COMPETED AT AG 2010:42 Sports**
 
 | Event                            | Name                  |
 | -------------------------------- | --------------------- |
@@ -205,7 +205,7 @@ TEAM SINGAPORE'S PARTICIPATION: 22 sports
 | 45.  | Bowling | Benjamin Lim Jia Jun | 林家骏 | 20 | M | √    | Singles (M)<br>Doubles (M)<br>Trios (M)<br>Team (M)
 | 46.    | Bowling | Cherie Tan Shi Hua  | 陈诗桦  | 22  | F | | Singles (W)<br>Doubles (W)<br>Trios (W)<br>Team (W)
 | 47.    | Bowling | Geraldine Ng Su Yi | 伍纾仪 | 24 | F| √    | Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
-| 48. | Bowling | Jasmine Yeong-Nathan | NA | 22 | F | √    | <br>Singles (W)<br>Doubles (W)<br>Trios (W)<br>Team (W)
+| 48. | Bowling | Jasmine Yeong-Nathan | NA | 22 | F | √    | Singles (W)<br>Doubles (W)<br>Trios (W)<br>Team (W)
 | 49. | Bowling | Jason Yeong-Nathan| NA | 27| M ||Singles (M)<br>Doubles (M) <br>Trios (M)<br>Team (M)
 | 50. | Bowling | Jazreel Tan Shi Hua | 陈诗 | 21 | F  | √    | Singles (W) <br>Doubles (W) <br>Trios (W) <br>Team (W)
 | 51.  | Bowling | Mark Wong Jee Mun| 黄智文 | 19 | M | √ | Singles (M) <br>Doubles (M) <br>Trios (M) <br>Team (M)
@@ -379,11 +379,11 @@ TEAM SINGAPORE'S PARTICIPATION: 22 sports
 |219. | Shooting | Mohd Zain Bin Amat  | NA  | 35 | M  | | Double Trap (M)<br>Trap (M)
 | 220.  | Shooting | Muhd Ikram Bin Ismail  | NA |39  | M  |√    |Double Trap (M) 
 | 221. | Shooting | Nigel Lim Swee Hon |林瑞鸿 | 31 | M | √   | 10m Air Rifle (M) <br>50m Pistol (M)
-| 222.  | Shooting | On Shaw Ming| 翁绍铭| 33| M| √  | 25m Centre Fire Pistol&25m Standard Pistol (M)
-| 223.   | Shooting | Ong Jun Hong| 王竣鸿| 22| M| |10m Air Rifle& 50m Rifle Prone (M)
+| 222.  | Shooting | On Shaw Ming| 翁绍铭| 33| M| √  | 25m Centre Fire Pistol & 25m Standard Pistol (M)
+| 223.   | Shooting | Ong Jun Hong| 王竣鸿| 22| M| |10m Air Rifle & 50m Rifle Prone (M)
 | 224.  | Shooting | Poh Lip Meng| 傅立民| 41| M| √   | 10m Air Rifle (M) <br>25m Centre Fire Pistol (M)<br>25m Standard Pistol (M) <br>50m Pistol (M)
 | 225.| Shooting | Zhang Jin| 张劲 | 22| M| |10m Air Rifle (M)
-| 226.  | Table Tennis | Cai Xiaoli | 蔡晓黎 |31|M|Men's Team
+| 226.  | Table Tennis | Cai Xiaoli | 蔡晓黎 |31|M||Men's Team
 |227.  |Table Tennis | Feng Tian Wei | 冯天薇  | 24 | F | √   | Women's Team <br>Women's Doubles <br>Women's Singles <br>Mixed Doubles
 |228. |Table Tennis | Gao Ning | 高宁| 28| M| √   | Men's Team <br>Men's Doubles<br>Men's Singles <br>Mixed Doubles
 |229.  |  Table Tennis |  Li Jiawei|李佳微|29|F||  Women's Team<br>Women's Doubles
@@ -521,26 +521,26 @@ He believes in this saying:
 
 Lin Kuek
 <br>Caelan & Sage Pte Ltd
-<br>Email:[ lin@caelansage.com]( lin@caelansage.com)
+<br>Email: [lin@caelansage.com](mailto:lin@caelansage.com)
 
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Public Relations & Social Media
 <br>Singapore Sports Council
-<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
+<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
@@ -552,6 +552,6 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information, please visit www.teamsingapore.com.sg.
+For further information, please visit [www.teamsingapore.sg](http://www.teamsingapore.sg/home).
 <br>
 Follow Team Singapore's action at the 16th Asian Games on Facebook at: www.facebook.com/TeamSG
