@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **One Team Singapore For The 8th ASEAN Para Games**
+
 **Singapore, 14 November 2015** – It is the final rally call for everyone to get behind our Team Singapore athletes and to celebrate the extraordinary at the region’s largest multi para sport event. This is the second major multi-sport event held in Singapore in conjunction with the nation’s golden jubilee celebrations this year and will be a fitting finale to the year-long festivities.
 
 Graced by Deputy Prime Minister and Coordinating Minister for National Security Teo Chee Hean and Minister for Culture, Community and Youth Grace Fu, the community will be treated to an afternoon of fun and festivities at the Marina Bay Promenade in a bid to encourage everyone to embrace an event that is all about inclusiveness and courage to rise above life’s challenges.
@@ -15,7 +16,7 @@ Graced by Deputy Prime Minister and Coordinating Minister for National Security 
 
 Minister Fu is also the Chairperson of the 8th ASEAN Para Games Steering Committee.
 
-##### **A shared identity with Team Singapore**
+**A shared identity with Team Singapore**
 
 The fun-filled day will see the community enjoy a scenic Reindeer Walk-a-Wheelathon – a two-kilometre walk around the Marina Bay Promenade. As an annual event organised by the Singapore Disability Sports Council, participants will also be joined by Team Singapore athletes and officials as they traverse along the Bay.
 
@@ -31,8 +32,9 @@ Beaming with pride, Team Singapore athlete Yip Pin Xiu said, “It is a great ho
 
 The contingent of 157 athletes and 91 officials will be the largest contingent Singapore has ever fielded for a major para Games.
 
-**About the 8th ASEAN Para Games**
-<br>
+---
+
+**About the 8th ASEAN Para Games**<br>
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
 
 Facebook: [ASEANParaGames2015](https://www.facebook.com/ASEANPARAGAMES2015)<br>
