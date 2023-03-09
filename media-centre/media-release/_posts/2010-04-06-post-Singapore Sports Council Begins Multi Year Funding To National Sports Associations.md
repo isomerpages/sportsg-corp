@@ -21,7 +21,7 @@ image: ""
 
 6. "The NSAs need to meet basic criteria such as corporate governance and pre-agreed Key Performance Indicators (KPIs) to enjoy these grants," said Mr Bob Gambardella, Chief of Sports Development Group and Singapore Sports Institute, SSC. "Key expectations from the NSAs for FY 2010 include achieving continued success at major international games and competitions. In addition, they must improve the quality of high participation programmes, and continue to have emphasis on youth participation for the majority of their programmes and events, as well as attain a greater level of organisational excellence."
 
-##### **Funding Schemes for NSAs to Tap On**
+**Funding Schemes for NSAs to Tap On**<br>
 
 7. The NSAs will also be able to tap on other funding schemes under the SSC throughout the year, to help them in the implementation of their programmes.
 
@@ -41,7 +41,8 @@ Focus on Team Sports - Netball and Football to be supported for World Netball Ch
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
+<br>
 
 Tanty Nazlianah Rosli<br>
 Manager<br>
@@ -59,7 +60,7 @@ Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
 To find out more, visit our websites www.sportsingapore.gov.sg
