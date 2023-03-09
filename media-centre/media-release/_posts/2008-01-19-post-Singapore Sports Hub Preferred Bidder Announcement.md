@@ -36,24 +36,24 @@ Singapore, 19 January 2008 - The Singapore Government announced today that it ha
 
 ---
 
-###### Enclosures
+**Enclosures**<br>
 * ANNEX A- Singapore Sports Hub Consortium (SSHC) Fact Sheet and List of Consortium Members
 * ANNEX B- Artists Impressions for SSHC Proposal
 * ANNEX C- Singapore Sports Hub Fact Sheet
 * ANNEX D- Sports Hub Project Milestones
 
-###### Speeches
+**Speeches**<br>
 * Opening Address by Mr Oon Jin Teik, CEO, Singapore Sports Council (Please check against delivery)
 * Announcement by Dr Vivian Balakrishnan, Minister for Community Development, Youth & Sports (Please check against delivery)
 
-###### Others
+**Others**<br>
 * Consortiums Contact List (19 Jan '08)
 * Overview of Public Private Partnership
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Alvin Hang<br>
 Deputy Director (Group Communications)<br>
 Singapore Sports Council<br>
@@ -63,5 +63,5 @@ Email: alvin_hang@ssc.gov.sg
 
 ---
 
-###### About SSC
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sport is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the World Wide Web: www.ssc.gov.sg
