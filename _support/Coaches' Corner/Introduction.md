@@ -4,8 +4,7 @@ permalink: /support-resources/coaches-corner/introduction/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-C
-oaching in Singapore is an immensely important part of Sport Singapore’s responsibility to its community. 
+Coaching in Singapore is an immensely important part of Sport Singapore’s responsibility to its community. 
 
 CoachSG recognises the importance of coaching as a career to achieve the sporting potential of athletes and participants. Coaches give their time and expertise to nurture our rising stars. In so doing, they add to our community as well as our national profile. 
 
