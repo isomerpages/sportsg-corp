@@ -13,7 +13,7 @@ _SAF leads the organisation of the ceremonies with support from prominent creati
 
 2\. Mr Lim Teck Yin, Chairman of the Singapore SEA Games Organising Committee Executive Committee (SINGSOC EXCO) said, “It is our turn to host the SEA Games after 22 years and it will happen during Singapore’s Golden Jubilee. The occasion calls for a fitting celebration; one that will bring communities together and invoke a sense of pride and ownership in Singaporeans. We are pleased to have the Singapore Armed Forces (SAF) and various volunteer groups contribute to the SG50 celebrations by partnering us through the Ceremonies. I would like to thank the team for their hard work and countless hours of sweat and sacrifice. They are striving to make the Ceremonies a spectacular event and one that everyone will look forward to and remember for a lifetime.”
 
-##### **SAF and the community**
+**SAF and the community**
 
 3\. Building on their experience from the 1993 SEA Games, the SAF will helm the Ceremonies through its Artillery Formation, with Chief Artillery Officer, COL Lawrence Lim as Chairman, OCC. They will be supported by a very distinguished and experienced Creative team led by Ms Beatrice Chia-Richmond, together with about 5,000 performers and volunteers as well as 3,500 soldiers.
 
@@ -21,7 +21,7 @@ _SAF leads the organisation of the ceremonies with support from prominent creati
 
 5\. The volunteers include those from Deloitte Singapore, Eurasian Association of Singapore, HeartWare Network, Martial House, the Ministry of Education (MOE), Nanyang Polytechnic (NYP), Nanyang Technological University (NTU), People’s Association Youth Movement (PAYM), SAF Military Band, the SAF Music and Drama Company, SAF Silent Precision Drill Squad, Singapore Dikir Barat Federation, Singapore Indian Fine Arts Society (SIFAS), Singapore Police Force (SPF) Band and Singapore SOKA Association.
 
-##### **Spectacular Show to Celebrate the Extraordinary**
+**Spectacular Show to Celebrate the Extraordinary**
 
 6\. Embodying the spirit of the Games with the theme Celebrate the Extraordinary, the Ceremonies will comprise three segments – audience interaction; ceremonial proceedings of the SEA Games; and the Show.
 
@@ -46,7 +46,7 @@ _SAF leads the organisation of the ceremonies with support from prominent creati
 * Shah Tahir, Sound Designer
 * Mac Chan, Lighting Designer
 
-##### **Bringing the Community to the Games**
+**Bringing the Community to the Games**
 
 10\. Today also marked the start of priority sale of tickets to the Ceremonies for individuals who had registered their interest last year. While the registration of interest for tickets is now closed, the rest of the public will be able to purchase their tickets to the Ceremonies from 22 January 2015 (10am) onwards.
 
