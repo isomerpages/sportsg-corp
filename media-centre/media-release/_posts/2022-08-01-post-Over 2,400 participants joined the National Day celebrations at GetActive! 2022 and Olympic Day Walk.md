@@ -9,8 +9,6 @@ image: ""
 ---
 ### **Over 2,400 participants joined the National Day celebrations at the GetActive! Singapore 2022 and Olympic Day Walk**
 
-**OVER 2,400 PEOPLE JOINED THE NATIONAL DAY CELEBRATIONS AT THE GETACTIVE! SINGAPORE 2022 LAUNCH AND THE OLYMPIC DAY WALK**
-
 Let’s Play On, Play Together to celebrate our nation’s 57th birthday at the Sports Hub,  
 ActiveSG Sport Centres and selected heartland spaces
 
@@ -32,4 +30,4 @@ ActiveSG Sport Centres and selected heartland spaces
 
 8. Visitors can also check out the Active Health Experiential Booths and Make Every Move Count Workshops which will feature a series of simple assessments allowing people to learn more about their fitness and health status. Also happening at the OCBC Square will be a new Seniors Obstacle Course, a project supported by Active Enabler Programme to make functional movement and exercise more fun for our seniors.
 
-9. The seventh edition of GetActive! Singapore will have events for everyone. For more information on any event or to review the line-up of GASG events, please visit: [https://circle.myactivesg.com/getactive-singapore](https://circle.myactivesg.com/getactive-singapore). If you would like to volunteer for GetActive! Singapore 2022 and celebrate National Day through sport, check out volunteering opportunities available at our Sports Hub at [https://go.gov.sg/sportshubanchorsite](https://go.gov.sg/sportshubanchorsite)
+9. The seventh edition of GetActive! Singapore will have events for everyone. For more information on any event or to review the line-up of GASG events, please visit: [GetActive! Singapore](https://circle.myactivesg.com/getactive-singapore). If you would like to volunteer for GetActive! Singapore 2022 and celebrate National Day through sport, check out volunteering opportunities available at our Sports Hub at [Sports Hub](https://go.gov.sg/sportshubanchorsite).
