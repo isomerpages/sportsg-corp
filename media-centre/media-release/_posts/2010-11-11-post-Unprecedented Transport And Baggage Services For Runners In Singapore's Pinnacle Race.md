@@ -15,7 +15,7 @@ _Comprehensive Pre-Race And Post-Race Transportation Options And Different Bagga
 
 2. Commenting on this year's transportation and baggage handling services, David Voth, Chairman, SCMS 2010 Organising Committee, and Senior Director, Sports Marketing Group, SSC, said, "Providing convenience to the runners is key to delivering a memorable race experience. The organising committee has given much thought and conducted extensive research with regards to the transportation and baggage handling services. What we have in place is unprecedented and will ultimately contribute to the success of the event."
 
-**Transportation Services**<br>
+**Transportation Services**
 
 3. A pre-race chartered bus service and a complimentary post-race shuttle bus service have been arranged for runners participating in this prestigious race. Taking into consideration the early start times for the various race categories as well as the three different routes this year, the transportation services serve to ensure that runners are able to reach their respective start points on time with minimal inconvenience.
 
@@ -27,7 +27,7 @@ _Comprehensive Pre-Race And Post-Race Transportation Options And Different Bagga
 
 7. Interested runners are advised to queue up for the service right after the race as seats will be available on a first-come-first-serve basis. The post-race shuttle bus service will operate from 10am to 2pm, and there will be an expected waiting time of up to one hour during peak hours.
 
-**Baggage Handling Services**<br>
+**Baggage Handling Services**
 
 8. Extra care has also been taken to arrange for a smooth baggage handling service due to the three different start points. There will be one baggage deposit facility for each route and two designated baggage collection facilities near the Padang.
 
@@ -42,16 +42,15 @@ _Comprehensive Pre-Race And Post-Race Transportation Options And Different Bagga
 ---
 
 **Annex A: Bus schedule for Pre-race Chartered Bus Service**
-<br>
 
-| From                     | To                                                             | Period &bsp; &bsp;              |
+| From                     | To                                                             | Period              |
 | ------------------------ | -------------------------------------------------------------- | ------------------------------- |
 | All 17 Pick-Up Locations | Orchard Boulevard, by Orchard Turn (Full Marathon)             | 3:00 AM <br>3:15 AM <br>3:30 AM |
 | All 17 Pick-Up Locations | Harbourfront Place, by Harbourfront Centre <br>(Half Marathon) | 4:45 AM <br>5:00 AM <br>5:15 AM |
 | All 17 Pick-Up Locations | City Hall Area (10km Run)                                      | 6:00 AM <br>6:30 AM <br>7:00 AM |
 
 
-**Annex B: Pick-up Locations for Chartered Bus Service**<br>
+**Annex B: Pick-up Locations for Chartered Bus Service**
 
 Bedok Stadium
 <br>Bishan Stadium
@@ -71,10 +70,10 @@ Bedok Stadium
 <br>Yio Chu Kang Stadium
 <br>Yishun Stadium
 
-**Annex C: Pick-up and Drop-off Locations for Post-race Complimentary Shuttle Bus Service**<br>
+**Annex C: Pick-up and Drop-off Locations for Post-race Complimentary Shuttle Bus Service**
 ![](/images/Media%20Centre/Media%20Release/2010/Nov/UNPRECEDENTEDTRANSPORTANDBAGGAGESERVICESFORRUNNERSINSINGAPORESPINNACLERACEMainPar0054Imagegif.gif)
 
-**Annex D: Baggage Deposit and Collection Locations and Timings**<br>
+**Annex D: Baggage Deposit and Collection Locations and Timings**
 
 | Operating Hours |                                                        |                 |                   |                                 |
 | --------------- | ------------------------------------------------------ | --------------- | ----------------- | ------------------------------- |
@@ -91,30 +90,30 @@ Bedok Stadium
 
 Samantha See
 <br>Fulford Public Relations
-<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
+<br>Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 
 Katherine Kee
 <br>Fulford Public Relations
-<br>Email: [kkee@fulfordpr.com](kkee@fulfordpr.com)
+<br>Email: [kkee@fulfordpr.com](mailto:kkee@fulfordpr.com)
 
 Jemuel Fu
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
-<br>Email: [jemuel_fu@ssc.gov.sg](jemuel_fu@ssc.gov.sg)
+<br>Email: [jemuel_fu@ssc.gov.sg](mailto:jemuel_fu@ssc.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on[ www.flickr.com]( www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Standard Chartered Bank**<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
