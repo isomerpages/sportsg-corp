@@ -37,9 +37,9 @@ CoachSG will provide all coaches in Singapore with programmes through which they
 
 CoachSG efforts will focus on three main areas:  
 
-1. Coaching Development - to develop skills and capabilities in the areas of technical proficiency: ‘What to Coach’ and methods of instruction: ‘How to Coach’;  
-2. Character & Leadership Development for sport coaches - to foster character development, values education and leadership development through sport; and
-3. Coach Industry Development - to guide the quality assurance and competency standards, oversee employment policies and identify industry needs.  
+1\. Coaching Development - to develop skills and capabilities in the areas of technical proficiency: ‘What to Coach’ and methods of instruction: ‘How to Coach’;<br>
+2\. Character & Leadership Development for sport coaches - to foster character development, values education and leadership development through sport; and<br>
+3\. Coach Industry Development - to guide the quality assurance and competency standards, oversee employment policies and identify industry needs.  
   
 For more information on CoachSG, please go to www.sportsingapore.gov.sg/CoachSG  
   
