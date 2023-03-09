@@ -23,8 +23,8 @@ One thing that is familiar and has remained unchanged is the charity element of 
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Sheila Thomas
 <br>
 Fulford Public Relations
@@ -56,14 +56,12 @@ Tel: +65 6500 5238
 <br>
 Email: [evelyn_liu@ssc.gov.sg](evelyn_liu@ssc.gov.sg)
 
-
 ---
 
-###### About Singapore Sports Council
-<br>
+**About The Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
-###### About Standard Chartered Bank
+**About Standard Chartered Bank**<br>
 _Standard Chartered - leading the way in Asia, Africa and the Middle East_
 
 Standard Chartered employs 38,000 people in 950 locations in more than 50 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas. Standard Chartered is one of the world's most international banks, with employees representing 80 nationalities.
