@@ -20,7 +20,20 @@ To implement a comprehensive athlete support system designed to help student-ath
 
 <small>\*\*(subject to approval by individual Institutes of Higher Learning)</small>
 
-![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/table2.png)
+
+| Domains	 | Forms of Academic Flexibility | 
+| -------- | -------- | 
+| Merit Admission Staff Mentoring| 1. Preferential admission by virtue of sports achievements. |
+|| 2. Allocation of a specific mentor for each student-athlete to provide guidance in coping with sports and studies.|
+|Flexibility in Education System| 3. Provision of extended duration of study as long as it is within the maximum stipulated period.|
+|| 4. Customisation of academic study load premised on long-term planning which enables the student-athlete to complete the course of study within the stipulated period.
+||5. Provision of multiple leaves of absence.|
+|Flexibility in Education Delivery|6. Provision of alternative arrangements for exams.|
+||7. Provision of alternative modes and deadlines for assessment.|
+||8. Provision of distance learning & e-learning support.|
+
+
+
 
 **CONTACT US**
 
