@@ -18,7 +18,7 @@ More than 200 sports pioneers* were honoured for the years they have spent shapi
 
 4\. Minister Wong also announced that all pioneer athletes, officials and coaches who have been a part of Team Singapore at Major Games will be offered free lifetime access to ActiveSG swimming pools and gyms. They will also be invited to major sporting events and programmes at the Singapore Sports Hub, such as the SEA Games and the ASEAN Para Games next year.
 
-##### **Relive the dream at the Singapore Youth Olympic Museum and the Singapore Sports Museum**
+**Relive the dream at the Singapore Youth Olympic Museum and the Singapore Sports Museum**
 
 5\. Today also marked the official opening of the Singapore Youth Olympic Museum (SYOM) and the Singapore Sports Museum at the Singapore Sports Hub. The SYOM and the Singapore Sports Museum will provide opportunities for community bonding whilst allowing visitors to immerse themselves in Singapore’s rich sporting history.
 
@@ -30,17 +30,18 @@ More than 200 sports pioneers* were honoured for the years they have spent shapi
 
 9\. Previously located at Kay Siang Road, the new entirely redesigned SYOM features Singapore’s journey in hosting the inaugural Youth Olympic Games in 2010. Meanwhile, the Singapore Sports Museum has six galleries that each takes a look at the various dimensions of sport in Singapore. For example, the “Dream Venue” gallery pays tribute to the former National Stadium, with actual artefacts and memorabilia from iconic events in its 37-year history. Its ‘Hear Kallang Roar’ exhibition, a project supported by the irememberSG Fund for the Singapore Memory Project as part of SG50, showcases key highlights of Singapore football from its time when the National Stadium was home to the Lions.
 
-`*`*Our sports pioneers are members of the pioneer generation who had represented Singapore at any of the Major Games (SEA Games, Commonwealth Games, Asian Games and Olympic Games), either as athletes, or officials and coaches.*
+\*Our sports pioneers are members of the pioneer generation who had represented Singapore at any of the Major Games (SEA Games, Commonwealth Games, Asian Games and Olympic Games), either as athletes, or officials and coaches.
 
 ---
 
 **For media enquiries, please contact:**
+<br>
 
 Bridgitte Lee<br>
 Senior Executive, Public Relations<br>
 Sport Singapore<br>
 HP: +65 9711 3764<br>
-Email: [bridgitte\_lee@sport.gov.sg](mailto:bridgitte_lee@sport.gov.sg)
+Email: [bridgitte_lee@sport.gov.sg](mailto:bridgitte_lee@sport.gov.sg)
 
 Sam Eatwell<br>
 Manager, Communications<br>
