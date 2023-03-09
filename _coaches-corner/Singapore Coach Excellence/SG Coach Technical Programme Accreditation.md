@@ -4,3 +4,17 @@ permalink: /coaches-corner/singapore-coach-excellence/sg-coach-technical-program
 description: ""
 third_nav_title: Singapore Coach Excellence
 ---
+SG-Coach Technical Programme covers sport-specific considerations (such as sport demands, specific training methodologies, techniques, and sport strategies) while SG-Coach Integrated Programme incorporates both Theory component and sport-specific considerations. Hence, possession of an Integrated certificate would be viewed as possession of both Theory and Technical certifications. Both Technical and Integrated Programme are delivered via a mixture of classroom-based and workshop-based teaching with assessments that may come in the form of assignment, demonstration, and / or examination.
+
+There are two methods of accreditation available for interested individuals:
+
+*   Accreditation through Coursework: This is suitable for individuals who wish to gain knowledge and / or competencies through attending classes, workshops and assessment. Please contact the respectively National Sports Association (NSA) (refer to list below) for course information.
+    
+*   Accreditation through Recognition of Prior Learning (RPL): This is suitable for individuals who had formal learning in areas of coaching. All Technical / Integrated accreditation via RPL are subjected to the evaluation and approval of the relevant NSA. Please contact the respective NSA (refer to list below) for more information:
+    
+
+The following table shows a list of sports with SG-Coach coaching courses, where:
+
+*   Level 1 Full Integration – comprises Foundational Sports Science (FSS), SG-Coach Level 1 Theory and SG-Coach Level 1 Technical components
+*   Level 1 Integrated – comprises SG-Coach L1 Theory and SG-Coach L1 Technical components only
+*   Level 1 Technical – comprises SG-Coach L1 Technical component only
