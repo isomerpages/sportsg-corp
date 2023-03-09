@@ -29,7 +29,7 @@ image: ""
 
 ---
 
-**Annex A: List of Elite Athletes Participating in the SCMS 2010**<br>
+**Annex A: List of Elite Athletes Participating in the SCMS 2010**
 
 **Male Elite Athletes**
 * Ambesse Tolossa (Ethiopia)
@@ -59,7 +59,7 @@ image: ""
 * Margarita Plaksina (Russia)
 * Seada Kedir Adilo (Ethiopia)
 
-**Annex B: Profiles of Elite Runners - Lyubov Morgunova and Kenneth Mburu Mungara** <br>
+**Annex B: Profiles of Elite Runners - Lyubov Morgunova and Kenneth Mburu Mungara**
 
 **Lyubov Morgunova**<br>
 * Country: Russia
