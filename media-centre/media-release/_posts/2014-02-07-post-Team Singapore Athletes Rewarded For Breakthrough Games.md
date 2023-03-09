@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Team Singapore Athletes Rewarded For Breakthrough Games**
+
 _Total of S$400,000 awarded for the haul of 34 Gold in Myanmar_
 
 The 27th SEA Games Myanmar 2013 will be remembered as one of many historic firsts for Team Singapore and today, the athletes who brought home the bounty of 34 Gold were rewarded with a total Multi-Million Dollar Award Programme (MAP) reward of S$400,000.
@@ -23,43 +24,45 @@ The 27th SEA Games Myanmar 2013 will be remembered as one of many historic first
 
 7\. 309 Team Singapore athletes competed in the 27th SEA Games, Myanmar 2013. They brought home 108 medals (34 Gold, 29 Silver, 45 Bronze) to finish sixth on the final medal tally.
 
-END
+---
 
-**Annexes:**
-*   [Annex A - About the Multi-Million Dollar Award Programme (MAP)](/files/Media%20Centre/Media%20Release/2014/February/Annex%20A%20%20About%20the%20SNOC%20MAP.pdf)
-*   [Annex B - 27th SEA Games MAP Awards Recipients and Fact Sheet](/files/Media%20Centre/Media%20Release/2014/February/Annex%20B%20%2027th%20SEA%20Games%20MAP%20Awards%20Recipients_Fact%20Sheet.pdf)
-*   Annex C - Speech by Deputy Prime Minister and President of the Singapore National Olympic Council, Mr Teo Chee Hean
+**Annexes**
 
-**Related Link:** [Speech By Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister For National Security, Minister For Home Affairs And President Of The Singapore National Olympic Council, At The Multi-Million Dollar Award Programme Presentation Ceremony](http://corp-authoring.ssc.gov.sg/?sc_itemid=%7B47DE521D-AE4B-4244-A098-85D3CB57D83B%7D&sc_mode=preview&sc_lang=en)
+*  [Annex A - About the Multi-Million Dollar Award Programme (MAP)](/files/Media%20Centre/Media%20Release/2014/February/Annex%20A%20%20About%20the%20SNOC%20MAP.pdf)
+*  [Annex B - 27th SEA Games MAP Awards Recipients and Fact Sheet](/files/Media%20Centre/Media%20Release/2014/February/Annex%20B%20%2027th%20SEA%20Games%20MAP%20Awards%20Recipients_Fact%20Sheet.pdf)
+*  [Annex C - Speech by Deputy Prime Minister and President of the Singapore National Olympic Council, Mr Teo Chee Hean]()
+
+**Related Link:** [Speech By Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister For National Security, Minister For Home Affairs And President Of The Singapore National Olympic Council, At The Multi-Million Dollar Award Programme Presentation Ceremony](http://corp-authoring.ssc.gov.sg/?sc_itemid=%7B47DE521D-AE4B-4244-A098-85D3CB57D83B%7D&sc_mode=preview&sc_lang=en)
+
+---
 
 **For media enquiries, please contact:**
+<br>
 
-Rachel Ang  
-Senior Executive, Media Relations  
-Singapore Sports Council  
-Tel: (65) 6500 5246  
-HP: (65) 9729 3700  
-Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
-  
-S. Parameswaran  
-Assistant Director, Media Relations  
-Singapore Sports Council  
-Tel: (65) 6500 5236  
-HP: (65) 9839 1974  
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
+Rachel Ang <br>
+Senior Executive, Media Relations <br>
+Singapore Sports Council <br>
+Tel: (65) 6500 5246 <br>
+HP: (65) 9729 3700 <br>
+Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
+ 
+S. Parameswaran <br>
+Assistant Director, Media Relations <br>
+Singapore Sports Council <br>
+Tel: (65) 6500 5236 <br>
+HP: (65) 9839 1974 <br>
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
-##### **About the Singapore Sports Council**
+**About Singapore Sports Council**<br>
+The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the _Vision 2030 Live Better Through Sports_ recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the _Vision 2030 Live Better Through Sports_ recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
+To find out more, visit our websites [www.ssc.gov.sg](https://www.ssc.gov.sg/), [www.Vision2030.sg](http://www.vision2030.sg/) and [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) <br>Follow us on Facebook and Flickr at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
-To find out more, visit our websites [www.ssc.gov.sg](http://www.ssc.gov.sg/), [www.Vision2030.sg](http://www.vision2030.sg/) and [SingaporeSports.sg](SingaporeSports.sg) <br>
-Follow us on Facebook and Flickr at: [www.facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
+**About the Singapore National Olympic Council**<br>
 
-##### **About the Singapore National Olympic Council**
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that is responsible for the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](http://www.snoc.org.sg/)
 
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that is responsible for the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](http://www.snoc.org.sg/)
-
-##### **About Team Singapore**
+**About Team Singapore**<br>
 
 Originally mooted by the then Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by the then Deputy Prime Minister Dr Tony Tan. Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions.
 
@@ -67,5 +70,5 @@ Pride, Performance and Perseverance are the three attributes of Team Singapore. 
 
 Team Singapore inspires our nation’s athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information on Team Singapore, please visit [www.teamsingapore.com.sg](http://www.teamsingapore.com.sg/)  and [www.ourteamsg.com](http://www.ourteamsg.com/) <br>
-Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.
+For further information on Team Singapore, please visit [www.teamsingapore.com.sg](http://www.teamsingapore.com.sg/) and [www.ourteamsg.com](http://www.ourteamsg.com/) <br>
+Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.
