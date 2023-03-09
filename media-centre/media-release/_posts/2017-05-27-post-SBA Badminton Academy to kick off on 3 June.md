@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **SBA Badminton Academy to kick off on 3 June**
+
 ![](/images/Media%20Centre/Media%20Release/2017/May/Two%20shuttlers%20from%20the%20National%20Intermediate%20Squad%20sparring%20against%20their%20oponents.jpeg)
 
 The Singapore Badminton Association (SBA) announced today that beginning from 3 June, youths can learn how to play badminton from Singapore’s former shuttlers at the “SBA Badminton Academy @ ActiveSG”. The announcement was made during the academy’s official launch where more than 100 boys and girls from various schools participated in a friendly badminton tournament held at the Pasir Ris Sports Hall.
@@ -27,6 +28,6 @@ Jiang said, “It is a privilege to get the chance to lead the academy and give 
 
 Previously a private coach that runs his own programmes, current SBA Badminton Academy head coach Mr Wayne Kuo said, “I believe the new academy will create a heightened interest in the sport, leading to more people playing this sport and a bigger market for both the SBA Badminton Academy and other private academies. The training provided by the SBA Badminton Academy to upgrade myself will also help make my programmes better. In the long run, I see a win-win situation for local badminton fraternity, with everyone working together for the interest of the sport.
 
-The SBA Badminton Academy is open for registration for children aged six to 17 years old. The programme will kick off on 3 June at six Sports Centres around the island. Parents interested to find out more information or sign their child up for the programme can do so at [www.myactivesg.com/programmes/academy/badminton](http://www.myactivesg.com/programmes/academy/badminton).
+The SBA Badminton Academy is open for registration for children aged six to 17 years old. The programme will kick off on 3 June at six Sports Centres around the island. Parents interested to find out more information or sign their child up for the programme can do so at [www.myactivesg.com/programmes/academy/badminton](http://www.myactivesg.com/programmes/academy/badminton).
 
 ![](/images/Media%20Centre/Media%20Release/2017/May/MCCY%20Parl%20Sec%20Baey%20Yam%20Keng%20with%20National%20team%20players%20and%20players%20from%20various%20schools.jpeg)
