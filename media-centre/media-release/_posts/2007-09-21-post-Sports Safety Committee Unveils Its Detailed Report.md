@@ -28,7 +28,7 @@ SSC will be launching a month-long online public consultation on 26 September 20
 
 ---
 
-###### Related Links and Downloads
+**Related Links and Downloads**<br>
 [Download Sports Safety Committee Report](/files/Media%20Centre/Media%20Release/2007/September/SportsSafetyCommittee26SEPO7.pdf)
 
 ---
