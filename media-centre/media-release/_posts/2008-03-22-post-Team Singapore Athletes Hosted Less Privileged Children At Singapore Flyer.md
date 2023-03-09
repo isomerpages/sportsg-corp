@@ -16,7 +16,7 @@ Some 100 Team Singapore athletes took time off from their busy training schedule
 
 4. "This is a special occasion where our athletes put aside time from their training schedules to do their part for the under privileged. The Singapore Sports Council (SSC) is pleased to have the opportunity to organise this for our young friends from Pertapis and inculcate in them a sporting lifestyle. We hope to be able to make a difference in their lives and get them all excited about sports," said Mr Bervyn Lee, Director, Sports Culture, Sports Marketing Group, SSC.
 
-##### **Highlights At Team Singapore Athletes' Gathering**
+**Highlights At Team Singapore Athletes' Gathering**<br>
 
 5. The day kicked off with a special "Kampong Glam Challenge", which was facilitated by the Singapore Original Walk. Both athletes and children explored the Kampong Glam area to trace the history of the Johore Empire and learned more about the Malay heritage, which included its architecture, traditions and Islamic practices.
 
@@ -28,14 +28,14 @@ Some 100 Team Singapore athletes took time off from their busy training schedule
 
 ---
 
-###### Enclosures
+**Enclosures**<br>
 [Annex A - Programme]()<br>
 [Annex B - List of Team Singapore Athletes](/files/Media%20Centre/Media%20Release/2008/March/22/AthletesGatheringAnnexB.pdf)
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Ms Hazwani Hasni
 <br>
 Executive, Group Communications
@@ -62,10 +62,10 @@ E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
 
 ---
 
-###### About Singapore Sports Council
+**About Singapore Sports Council**<br>
 The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
 
-###### About the Singapore Flyer
+**About the Singapore Flyer**<br>
 The 165-metre Singapore Flyer is a new waterfront attraction that opened to the public on March 1, 2008. A high level of sophistication in engineering and technology was used to develop this $240-million (Singapore dollars) giant observation wheel. Its grand opening will be on April 15, 2008.
 
 Each ride lasts for about 30 minutes in an air-conditioned and UV light-protected capsule, which can accommodate up to 28 people. There are 28 capsules that can be converted into a unique venue in the sky to host events, such as weddings, product launches and business entertaining.
