@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### **Sports Enthusiasts race alongside SEA Games athletes**
+
 This 28th Southeast Asian (SEA) Games has pledged to bring out the extraordinary, and towards this, SINGOSC is pleased to announce three community events open to members of the public. Non-competitive in nature, sport enthusiasts are offered a once-in-a-lifetime opportunity to experience the SEA Games from the athlete’s perspective and take part in Nila Swim & Aquathlon, and Nila Run.
 
 The Nila Swim & Aquathlon and Nila Run will take place on Saturday, 6 June and Sunday, 7 June 2015 respectively.
@@ -21,7 +22,7 @@ Similarly, for the Nila Run, the 10km run will flag-off after the SEA Games Mara
 
 SEA Games organisers also hope that after watching the SEA Games athletes complete the Marathon, members of the public will be encouraged to spend the rest of their weekend at the surrounding competition venues, including the Sports Hub. Visitors to the Sports Hub during the 28th SEA Games can expect a carnival of activities in addition to the 10 sports happening at the National Stadium, OCBC Aquatic Centre, OCBC Arena and Singapore Indoor Stadium.
 
-##### **Events taking place in the East Cluster on 6 June include:**
+**Events taking place in the East Cluster on 6 June include:**
 
 * Boxing (Expo)  
 * Chinlone (Expo)  
@@ -30,7 +31,7 @@ SEA Games organisers also hope that after watching the SEA Games athletes comple
 * Triathlon (East Coast Park)  
 * Sailing (National Sailing Centre)  
 
-##### **Events taking place at the Sports Hub and in the Kallang Cluster on 7 June include:**
+**Events taking place at the Sports Hub and in the Kallang Cluster on 7 June include:**
 
 * Carnival of activities at Sports Hub  
 * Athletics, Marathon (Home of Athletics)  
