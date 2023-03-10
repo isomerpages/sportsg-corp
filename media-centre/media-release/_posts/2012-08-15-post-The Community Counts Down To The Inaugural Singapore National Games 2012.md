@@ -70,9 +70,9 @@ The Singapore National Games will see close to 5,000 community athletes from 15 
 
 **Annex C: SNG Baton Relay**
 
-The Singapore National Games (SNG) Baton Relay is held in conjunction with the annual One Community Walk, a nation-wide mass walking event organised by the People?s Association, on Sunday, 26 August 2012, at 8.00am.
+The Singapore National Games (SNG) Baton Relay is held in conjunction with the annual One Community Walk, a nation-wide mass walking event organised by the People's Association, on Sunday, 26 August 2012, at 8.00am.
 
-Approximately 1,740 Baton Bearers representing 87 Constituencies will be passing a custom-made baton within their constituencies, while covering a total distance of approximately 174 kilometres across Singapore. After the baton has been passed to the final representative in each of the 87 constituencies, a message will be read out to signify the community?s support to the community athletes participating in the upcoming Singapore National Games 2012.
+Approximately 1,740 Baton Bearers representing 87 Constituencies will be passing a custom-made baton within their constituencies, while covering a total distance of approximately 174 kilometres across Singapore. After the baton has been passed to the final representative in each of the 87 constituencies, a message will be read out to signify the community's support to the community athletes participating in the upcoming Singapore National Games 2012.
 
 Together with the One Community Walk, the event will see the participation of about 100,000 Singapore residents.
 
