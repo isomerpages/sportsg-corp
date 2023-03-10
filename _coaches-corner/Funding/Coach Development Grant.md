@@ -32,8 +32,6 @@ No outstanding deliverables from previous CDG applications; and<br>**NROC Coache
 |Funding Amount (up to)| **NROC Coaches**<br>Provisional Coach – S$500<br>Coach – S$1,000<br>Senior Coach – S$3,000<br>Master Coach – S$5,000<br>**NROC Coach Developers**<br>Coach Developer – S$1,000<br>Senior Coach Developer – S$3,000<br>Master Coach Developer – S$5,000 | **NROC Coaches**<br>Provisional Coach – S$1,500<br>Coach – S$3,000<br>Senior Coach – S$20,000<br>Master Coach – S$30,000<br>**NROC Coach Developers**<br>Coach Developer – S$3,00<br>Senior Coach Developer – S$20,000<br>Master Coach Developer – S$30,000Co-Payment by SportSG | 
 | Co-Payment by SportSG | Singaporeans and PRs – Up to 75%<br>Foreigners – Up to 25% | |
 
-
-
 **Additional Assessment Criteria for Large CDG Investments
 (Original Calculated CDG Approval Amount ≥ S$5,000)**
 
