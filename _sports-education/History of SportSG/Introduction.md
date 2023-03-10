@@ -4,8 +4,11 @@ permalink: /sports-education/history-of-sportsg/introduction/
 description: ""
 third_nav_title: History of SportSG
 ---
-![Sports in Independent Singapore](/images/Sport%20Education/History%20of%20Singapore%20Sports/Sports%20in%20Independent%20Times/Sports_in_independent_singapore.jpeg)
+The history of sports in Singapore began in the 19th Century, when the Colonials turned to sports as a way to pass time as they waited for news from back home in the United Kingdom. 
 
-Sports was established in Singapore in the 19th Century; colonials would play sports to pass time while waiting for news from home in the United Kingdom. This led to the development of private sports and recreation clubs such as the Cricket Club, Singapore Recreation Club, Singapore Swimming Club, and Hollandse Club.
+This led to the development of private sports and recreation clubs such as the Cricket Club, Singapore Recreation Club, Singapore Swimming Club, Hollandse Club and others. 
 
-With the influx of immigrants from China and India, among other countries, before long other communal clubs such as the Chinese Swimming Club, Indian Association, Malay Football Club and others were formed to serve their own communities. These various clubs played a major role in promoting sports in Singapore in the early days.
+Then came the influx of immigrants from China, India and other parts of the world. It wasn’t long before other communal clubs such as the Chinese Swimming Club, Indian Association, Malay Football Club and others were formed to serve their own communities. 
+
+All of the various clubs played a major role in promoting sports in Singapore in the early days.
+
