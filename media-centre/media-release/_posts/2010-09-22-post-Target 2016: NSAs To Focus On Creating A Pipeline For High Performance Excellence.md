@@ -43,14 +43,14 @@ Senior Manager<br>
 Public & Media Relations<br>
 Singapore Sports Council<br>
 Office: 65005241<br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Jose Raymond<br>
 Deputy Director<br>
 Media Relations & Social Media<br>
 Singapore Sports Council<br>
 Office: 6500 5289<br>
-Email: jose_raymond@ssc.gov.sg
+Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 
 ---
 
