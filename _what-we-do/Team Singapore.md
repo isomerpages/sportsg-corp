@@ -3,8 +3,8 @@ title: Team Singapore
 permalink: /what-we-do/team-singapore/
 description: ""
 ---
-| -------- | -------- | 
-| ![](/images/TEAMSINGAPORE.png)  | **Team Singapore** is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions. It was mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan.| 
+![](/images/TEAMSINGAPORE.png)  
+**Team Singapore** is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions. It was mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan.
 
 Team Singapore is anchored by the three core attributes of Pride, Performance and Perseverance. These attributes underscore the traits of a winning team and are the critical elements of sportsmanship and excellence that propel the nation forward to succeed on the world’s sporting stage.
 
