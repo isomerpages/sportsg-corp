@@ -13,17 +13,17 @@ image: ""
 
 **Singapore, 17 November 2012** - Fauja Singh, believed to be the world's oldest marathoner at 101 years old, will be participating in the Standard Chartered Marathon Singapore on Sunday, 2 December 2012.
 
-2\. The British centenarian marathoner will be running in the 10km race with his son, Sukhjinder Singh, 53, while four others from their running group, Sikhs In The City (SITC), will be participating in the full marathon in Singapore.
+2. The British centenarian marathoner will be running in the 10km race with his son, Sukhjinder Singh, 53, while four others from their running group, Sikhs In The City (SITC), will be participating in the full marathon in Singapore.
 
-3\. Born in India, Fauja moved to London in 1992 and is currently based in Essex, Ilford. An amateur runner in Punjab before giving up the sport in 1947, he picked up running again after the demise of his wife and he relocated to London to live with his youngest son. Fauja has since completed nine full marathons and holds the world record for the men's over-90 category after running the Toronto marathon in five hours and 40 minutes in 2003.
+3. Born in India, Fauja moved to London in 1992 and is currently based in Essex, Ilford. An amateur runner in Punjab before giving up the sport in 1947, he picked up running again after the demise of his wife and he relocated to London to live with his youngest son. Fauja has since completed nine full marathons and holds the world record for the men's over-90 category after running the Toronto marathon in five hours and 40 minutes in 2003.
 
-4\. Taking part in one of his last races before he retires, Fauja and his team will be running to raise awareness for the SportCares Foundation, a Vision 2030 initiative that aims to leverage on the power and positive impact of sport as a force for social good - for underprivileged children, youth-at-risk, needy seniors, people with physical and/or intellectual disabilities and the disadvantaged in our community.
+4. Taking part in one of his last races before he retires, Fauja and his team will be running to raise awareness for the SportCares Foundation, a Vision 2030 initiative that aims to leverage on the power and positive impact of sport as a force for social good - for underprivileged children, youth-at-risk, needy seniors, people with physical and/or intellectual disabilities and the disadvantaged in our community.
 
-5\. "We aim to do something positive for the local community wherever we go and this trip to Singapore will not be different. Fauja chose to raise funds for the SportCares Foundation and we are happy to give a helping hand to the less fortunate," said Harmander Singh, his running coach who will also be running the full marathon.
+5. "We aim to do something positive for the local community wherever we go and this trip to Singapore will not be different. Fauja chose to raise funds for the SportCares Foundation and we are happy to give a helping hand to the less fortunate," said Harmander Singh, his running coach who will also be running the full marathon.
 
-6\. "Fauja has inspired many around the world with his races and we are truly honoured to have him run in the Standard Chartered Marathon Singapore. Sport has the power to change lives and by running for the SportCares Foundation, Fauja will be inspiring many individuals and corporate supporters to make a difference to those in need." said Mr Toh Boon Yi, Chief, Strategic Development & Marketing Group, Singapore Sports Council and Deputy Chairman of the SCMS 2012 organising committee. "Fauja personifies the Vision 2030 philosophy that people can live better through sports."
+6. "Fauja has inspired many around the world with his races and we are truly honoured to have him run in the Standard Chartered Marathon Singapore. Sport has the power to change lives and by running for the SportCares Foundation, Fauja will be inspiring many individuals and corporate supporters to make a difference to those in need." said Mr Toh Boon Yi, Chief, Strategic Development & Marketing Group, Singapore Sports Council and Deputy Chairman of the SCMS 2012 organising committee. "Fauja personifies the Vision 2030 philosophy that people can live better through sports."
 
-7\. Donors who would like to contribute to Fauja's cause may do so at:
+7. Donors who would like to contribute to Fauja's cause may do so at:
 [http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation](http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation)
 
 ---
@@ -43,7 +43,7 @@ Name: Fauja Singh
 
 **World Records set:**
 <br>Toronto Marathon, 2003 (Men's over-90 category) - 5 hours and 40 minutes
-<br>Eight records set in one day as a 100 year old (2011) - 
+<br>Eight records set in one day as a 100 year old (2011): 
 1) 100 metres -- 23.40 seconds (previous 29.83)
 2) 200 metres -- 52.23 seconds (previous 77.59 seconds) 
 3) 400 metres -- 2:13.48 (previous 3:41.00)
@@ -88,13 +88,12 @@ Ho Shu Fen
 <br>Fulford PR
 <br>Email: [sfho@fulfordpr.com](mailto:sfho@fulfordpr.com)
 
+---
 
 **About the Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg).<br>
-Follow SSC on Facebook at: [https://www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
+To find out more, visit our websites [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
 **About Standard Chartered Bank in Singapore**<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
