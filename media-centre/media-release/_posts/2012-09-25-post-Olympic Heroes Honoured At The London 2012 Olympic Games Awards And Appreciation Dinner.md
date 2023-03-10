@@ -28,11 +28,11 @@ image: ""
 
 ---
 
-**Annex A:** Welcome Address by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and President of the Singapore National Olympic Council at the SNOC Multi-Million Dollar Award Programme (MAP) Presentation and Team Singapore Appreciation Dinner.
+**Annex A: Welcome Address by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and President of the Singapore National Olympic Council at the SNOC Multi-Million Dollar Award Programme (MAP) Presentation and Team Singapore Appreciation Dinner.**
 
-Click here to view the welcome address.
+Click [here](/media-centre/speeches/london-2012-olympic-games-awards-appreciation-dinner/) to view the welcome address.
 
-**Annex B:** About The SNOC Multi-Million Dollar Award Programme (MAP)
+**Annex B: About The SNOC Multi-Million Dollar Award Programme (MAP)**
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0048Imagegif.gif)
 
 For competitive athletes, the cost of training at elite level requires an enormous financial investment over many years. Of all athletes who dream of winning an Olympic medal, only a small percentage will find themselves on the podium at the Games.
@@ -47,11 +47,12 @@ All awards are presented to the winning athlete, not the National Sports Associa
 
 The Tote Board/Singapore Pools (Pte) Ltd is the primary sponsor of the SNOC MAP awards.
 
-**Annex C:** List of Appreciation Plaque Recipients
+**Annex C: List of Appreciation Plaque Recipients**
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/OLYMPICHEROESHONOUREDATTHELONDON2012OLYMPICGAMESAWARDSAPPRECIATIONDINNERMainPar0054Imagegif.gif)
 
+---
 **For media enquiries, please contact:**
-
+<br>
 Lin Kuek
 <br>Hill+Knowlton Strategies
 <br>Email: [lin.kuek@hkstrategies.com](mailto:lin.kuek@hkstrategies.com)
@@ -61,25 +62,25 @@ Patricia Yee
 <br>Singapore Sports Council
 <br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
-##### **About Team Singapore**
-
+**About Team Singapore**
+<br>
 On 20 April 2001, the current President and then-Deputy Prime Minister Dr Tony Tan united Singapore's top athletes, coaches and officials under one banner as Team Singapore. The Team has ever since flown the Singapore flag proudly at major multi-sport Games and international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is collectively Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information on Team Singapore, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).<br>
+For further information on Team Singapore, please visit [www.teamsingapore.sg](www.teamsingapore.sg)<br>
 Follow Team Singapore's action on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
 
-##### **About the Singapore Sports Council**
-
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg.<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography).
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-##### **About the Singapore National Olympic Council**
-
+**About the Singapore National Olympic Council**
+<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information on Singapore's expression of the Olympic Spirit, please visit [www.snoc.org.sg](www.snoc.org.sg).
