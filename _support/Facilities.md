@@ -10,6 +10,7 @@ In our quest to develop a true sporting culture in Singapore, Sport Singapore is
 To keep true to our aim of changing the nation through sports, Sport Singapore has also invested over $60 million over the past decade on renovation and upgrading of facilities, with new features such as state-of-the-art equipment at our gyms and interactive water play features at our swimming complexes.
 
 We have also brought children day-care centres to Choa Chu Kang and Jurong East Sport Centres, encouraging a sporting lifestyle at a young age.
+
 ![](/images/Support/Facilities/Jurong%20East_2008_Picturewords_3768.jpeg)
 **Types of Facilities**
 
@@ -36,4 +37,6 @@ Dual-Use Scheme Facilities:
 *   2 basketball courts
 *   1 street soccer court 
 
-View our [Sport Centres](http://www.myactivesg.com/facilities) for a detailed list. <br>To book a facility, please login to [ActiveSG membership system](https://members.myactivesg.com/).
+View our [Sport Centres](http://www.myactivesg.com/facilities) for a detailed list. 
+
+To book a facility, please login to [ActiveSG membership system](https://members.myactivesg.com/).
