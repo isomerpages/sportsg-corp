@@ -23,7 +23,7 @@ For more information OR to register your interest, please visit [https://www.rp
 
 **SG-Coach Level 1 Theory Waiver / Accreditation**
 
-Holders of relevant coaching or physical education qualifications may seek [waiver/accreditation for the SG-Coach Level 1 Theory Programme](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Singapore-Coach-Excellence-Programme-SG-Coach/SG-Coach-Level-1-Theory-Programme/SG-Coach-Theory-Programme-Accreditation).
+Holders of relevant coaching or physical education qualifications may seek [waiver/accreditation for the SG-Coach Level 1 Theory Programme](/coaches-corner/singapore-coach-excellence/sg-coach-theory-accreditation/).
 
 **SG-Coach Level 2 & 3 Theory Courses**
 
