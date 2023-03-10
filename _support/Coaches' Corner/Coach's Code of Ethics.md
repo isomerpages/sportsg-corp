@@ -35,7 +35,7 @@ The three principles are:
 
 The concept that each individual possesses an intrinsic value and worth is integral to the principle of Respect for individuals. The coach is called upon to act in a manner respectful of the dignity of individuals.
 
-**Key Ethical Standards  **
+**Key Ethical Standards**
 
 1.  Treat and respect everyone equally, regardless of race, language, religion, culture, gender or physical ability.
 2.  Recognise that your athletes can contribute in providing positive feedback on training methods and how best performance during training and competition could be optimised. Be a good listener when occasions for such interaction arise.
