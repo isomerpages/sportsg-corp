@@ -43,6 +43,7 @@ Singaporeans who are not quite as sporty or adventurous to get themselves wet ca
 
 **For media enquiries, please contact:**
 <br>
+
 Sabrina Chan
 <br>
 Asia PR Werkz Pte Ltd
@@ -87,4 +88,4 @@ Email: [evelyn_liu@ssc.gov.sg](mailto:evelyn_liu@ssc.gov.sg)
 
 **About WaterFest Singapore 2007**
 <br>
-*The WaterFest Singapore 2007 is Singapore's only international water-sports festival that encompasses competitive and lifestyle events that are fun and exhilarating. The 6-week long festival is into its third year running and will kick off on 25-26 August with events extending till 7 Oct. WaterFest Singapore aims to raise the profile of water sports and water-related recreational activities and bring Singaporeans closer to the various water locales all over the island. Encompassing fun and exhilarating events, WaterFest Singapore hopes to get Singaporeans to experience and enjoy our water facilities and integrate water-related culture and sport into their lifestyles.*
+The WaterFest Singapore 2007 is Singapore's only international water-sports festival that encompasses competitive and lifestyle events that are fun and exhilarating. The 6-week long festival is into its third year running and will kick off on 25-26 August with events extending till 7 Oct. WaterFest Singapore aims to raise the profile of water sports and water-related recreational activities and bring Singaporeans closer to the various water locales all over the island. Encompassing fun and exhilarating events, WaterFest Singapore hopes to get Singaporeans to experience and enjoy our water facilities and integrate water-related culture and sport into their lifestyles.
