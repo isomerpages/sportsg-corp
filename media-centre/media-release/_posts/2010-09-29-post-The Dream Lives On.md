@@ -10,7 +10,7 @@ image: ""
 
 _The National Stadium Commemorative Book_
 
-**Singapore, September 29, 2010** - One of Singapore's iconic landmarks - the old National Stadium is making way for the construction of the new Sports Hub. Given its illustrious past, as well as its place in the hearts of many Singaporeans, the Singapore Sports Council (SSC) commissioned a book and a video to document the heritage of the Stadium.
+**Singapore, September 29 2010** - One of Singapore's iconic landmarks - the old National Stadium is making way for the construction of the new Sports Hub. Given its illustrious past, as well as its place in the hearts of many Singaporeans, the Singapore Sports Council (SSC) commissioned a book and a video to document the heritage of the Stadium.
 
 2. Since its official opening on 21 July 1973, the Stadium has seen many sports and non-sports events, and distinguished visitors, such as Pope John Paul II, Michael Jackson and the Boxing Great, Muhammad Ali. It carries with it a rich history and has played an important role in nation-building, hosting 18 National Day Parades since 1976.
 
