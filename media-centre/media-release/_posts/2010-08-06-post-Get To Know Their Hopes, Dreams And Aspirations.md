@@ -32,11 +32,11 @@ _"Team Singapore @ YOG" Photography Showcase To Be Featured At 20 Locations Nati
 
 | CDC DISTRICT | Public Libraries | SSC Locations |
 | -------- | -------- | -------- |
-| North West | Bukit Panjang Public Libraryembawang Public Library Yishun Public Library | Woodlands Swimming Complex
-| Central Singapore  | Central Public LibraryLibrary@Esplanade | Ang Mo Kio Swimming ComplexJalan Besar Swimming Complex
-| South West | Choa Chu Kang Public LibraryJurong Regional Library Jurong West Public Library | Clementi Swimming Complex
-| North East | Cheng San Public Library Pasir Ris Public Library Sengkang Public Library | Tampines Swimming Complex
-| South East | Bedok Public Library Marine Parade Public Library | Bedok Swimming Complex Geylang East Swimming Complex         
+| North West | Bukit Panjang Public Library<br>Sembawang Public Library Yishun Public Library | Woodlands Swimming Complex
+| Central Singapore  | Central Public LibraryLibrary@Esplanade | Ang Mo Kio Swimming Complex<br>Jalan Besar Swimming Complex
+| South West | Choa Chu Kang Public Library<br>Jurong Regional Library Jurong West Public Library | Clementi Swimming Complex
+| North East | Cheng San Public Library<br>Pasir Ris Public Library<br>Sengkang Public Library | Tampines Swimming Complex
+| South East | Bedok Public Library<br>Marine Parade Public Library | Bedok Swimming Complex<br>Geylang East Swimming Complex         
 
 ---
 
@@ -48,30 +48,30 @@ Director<br>
 Communications and Events<br>
 STC Associates<br>
 Phone: 6222 5700<br>
-Email: [rdinesen@stcassociates.com](rdinesen@stcassociates.com)
+Email: [rdinesen@stcassociates.com](mailto:rdinesen@stcassociates.com)
 
 Patricia Yee<br>
 Executive<br>
 Media and Public Relations<br>
 Singapore Sports Council<br>
 Office: 6500 5246<br>
-Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About 'Let's Play'**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.singaporesports.sg](www.singaporesports.sg)
+Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/).
 
 **About StarHub**<br>
 StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services.
