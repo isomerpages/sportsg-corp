@@ -68,7 +68,7 @@ Today, with its multiple retail formats serving the varied needs and interests o
 
 Guided by the philosophy to do well in order to do good for the community, NTUC FairPrice set up the FairPrice Foundation in 2008 to focus its giving efforts to provide a better life for the community. FairPrice Foundation focuses its giving on three strategic thrusts – the poor and needy, nation building and community bonding, and advancing workers’ welfare. FairPrice has since donated $76 million to the Foundation to further these three areas of focus.
 
-For more information on NTUC FairPrice, visit[www.fairprice.com.sg](https://www.fairprice.com.sg/).
+For more information on NTUC FairPrice, visit [www.fairprice.com.sg](https://www.fairprice.com.sg/).
 
 **About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
