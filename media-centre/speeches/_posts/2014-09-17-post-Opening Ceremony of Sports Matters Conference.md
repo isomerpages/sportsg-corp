@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Opening Ceremony of Sports Matters Conference**
+
 1. Good morning. I have to say that I am delighted to be part of a conference populated with so many speakers known for their corporate innovation and entrepreneurial drive. This promises to be one of the most thought-provoking sports conferences seen in Asia. Thank you to the event organisers for sharing that spirit of innovation and choosing Singapore as the host city. To our overseas guests, a warm welcome to Singapore.
 
 2. Asia-Pacific holds tremendous potential for sports business and industry in this decade and beyond. Singapore certainly aims to be a hub for thought leadership and business expansion in this region. 
@@ -24,15 +26,14 @@ image: ""
 
 9. Thus, I would like to touch on two key issues that have relevance for both of us—for you as you pursue business opportunities in Asia; for us in Sport Singapore as we strive to activate Vision 2030.
 
-Immaturity of the Asian sports market against the rising aspirations of the Asian consumer
+**Immaturity of the Asian sports market against the rising aspirations of the Asian consumer**
 
 10. First, the Asian sports market is relatively immature. Some of you may disagree with me. But this market is at a relatively early stage of growth.
 
 11. The value of total sponsorship deals in Asia has grown by about 14% to S$4.15 billion  (US$3.28B) in 2013 from S$3.63 billion  (US$2.89B) in 2011. However it would appear that this growth is less a function of increasing deal values but rather by volume of deals. Volume rose by 18.7% to 8,588 deals in 2013, up from 7,234 in 2011. Notwithstanding this volume growth, the total value is still barely 5% of the total sports sponsorship spent globally! 
 
-12. Incidentally, in Singapore:
-
-• Singapore’s sports sponsorship value has grown from S$105M (US$84M) in 2011 to S$108M (US$85M) in 2013, vis-à-vis the overall sponsorship value growth from S$171M (US$136M) in 2011 to S$181M (US$143M) in 2013
+12. Incidentally, in Singapore:<br>
+* Singapore’s sports sponsorship value has grown from S$105M (US$84M) in 2011 to S$108M (US$85M) in 2013, vis-à-vis the overall sponsorship value growth from S$171M (US$136M) in 2011 to S$181M (US$143M) in 2013
 
 13. On consumption, there are the few who are willing to spend a good sum of money for equipment and events, but the general mass market response to premium sports events, goods and services is not as strong as what one could expect in Europe or America.
 
@@ -40,7 +41,7 @@ Immaturity of the Asian sports market against the rising aspirations of the Asia
 
 15. However I think there is also a need for sports businesses to apply their expertise to think about how to partner government to develop a sustainable growth model for its offerings.
 
-Dilution of consumer demand in an expanding market
+**Dilution of consumer demand in an expanding market**
 
 16. My second point: The expansion of choice in the marketplace has far exceeded consumer demand, resulting in a very apparent dilution of market share for each player. This is to be expected in a market with more potential to be optimised. Everyone will want to come to the party earlier rather than later. In the uncoordinated free market, we should expect peaks and troughs of business interest. For example, I think that Singapore will soon experience a peak in the next few years with the slew of high profile developments of the last few years. While this is good for the consumer, it will quickly dilute the the potential for any single element to develop in this market.
 
@@ -50,13 +51,12 @@ Dilution of consumer demand in an expanding market
 
 19. Another anecdote – How many football leagues, domestic and regional, can there be before the football fan’s attention is fully stretched; especially when there are ample offerings on TV, or YouTube for that matter, to satisfy the most ardent supporter.
 
-20. My anecdotes may sound like a uniquely Singaporean problem because of our small land mass and population. But this challenge of dilution and cannibalisation is evident in other countries albeit in different forms and scale.
-
-- The Asian viewership for F1 in China declined by 34% in 2012 largely due to clashes with other sporting offerings fighting for the same prime time space.  
+20. My anecdotes may sound like a uniquely Singaporean problem because of our small land mass and population. But this challenge of dilution and cannibalisation is evident in other countries albeit in different forms and scale.<br>
+* The Asian viewership for F1 in China declined by 34% in 2012 largely due to clashes with other sporting offerings fighting for the same prime time space.  
 
 21. The fact that we have only seen 2% growth in value of sponsorship for sports in Asia vs 61% growth in value for non-sports sponsorship, should give us pause. We must remember that sport does not just compete with itself for interest and attention but also against all other lifestyle offerings. In Singapore, the growth in sport sponsorship is 3% vs 11% for non-sport sponsorship.
 
-Our Collective Response:  Enhancing the nexus between professional sport and sport for development
+**Our Collective Response:  Enhancing the nexus between professional sport and sport for development**
 
 22. What could be our collective response to what I have outlined till now?
 
@@ -72,24 +72,24 @@ Our Collective Response:  Enhancing the nexus between professional sport and spo
 
 28. The longer-term impact investing for positive benefit and social outcomes through intentional design is emerging globally and already proving to be a powerful tool in diverse areas such agriculture, community regeneration and affordable housing. We can draw best practices from these sectors in forging partnerships between government and the private sector.
 
-Example: Sports Hub Private-Public Partnership
+**Example: Sports Hub Private-Public Partnership**
 
 29. Let me close by discussing the PPP arrangement for the Singapore Sports Hub to illustrate what we are hoping to achieve in Singapore. The Public Private Partnership (or the PPP) seeks to bring together the expertise and resources of the public and private sectors to collaborate and catalyse the market and interest for sport and a healthy lifestyle for Singaporeans of all ages.
 
 30. As part of the PPP, a Premier Park Foundation (or PPF) was set up to reinvest a significant portion of Sport's Hub's commercial revenues to develop and enhance events, activities, capabilities and facilities.
 
-31. The shared objects for PPF are broadly to:
-- Promote community events
-- Upgrade facilities and invest in new equipment
-- Subsidize sports events that might not otherwise be viable
-- Support training programs
-- Finance technological development 
+31. The shared objects for PPF are broadly to:<br>
+* Promote community events<br>
+* Upgrade facilities and invest in new equipment<br>
+* Subsidize sports events that might not otherwise be viable<br>
+* Support training programs<br>
+* Finance technological development 
 
 32. In many ways, the PPF is a fine example of impact investing: where business returns are achieved and measured alongside positive and longer-term social outcomes.
 
 33. What have I learned from the PPP arrangement so far? As partners, we are choreographing a brand new dance. We come together from different starting points so it isn’t that easy. When we are clumsy or unable to sync with our partner’s moves, we step on each other’s toes. One partner or the other may get a little riled. But those occasions present opportunities to clarify and better appreciate each other’s intentions. Then we learn, adapt and make adjustment to our postures, so that we can flow as a single, cohesive team. Once that is achieved, we would be able to invite more partners to the dance floor.
 
-Conclusion
+**Conclusion**
 
 34. From Singapore to Nanjing to Incheon, Asia continues to make history in the sporting arena. Over the past few years, we have observed and contributed to the evolution in the patterns of the Asian consumer.
 
