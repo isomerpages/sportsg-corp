@@ -60,7 +60,7 @@ Adrienne Ser
 <br>GolinHarris
 <br>Tel: +65 6551 5433
 <br>HP: +65 8571 6855
-<br>: [aser@golinharris.com](aser@golinharris.com)
+<br>Email: [aser@golinharris.com](aser@golinharris.com)
 
 Siti Nurhidayati
 <br>Senior Executive, Media Relations
