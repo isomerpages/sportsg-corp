@@ -54,9 +54,7 @@ Beyond acquiring an athletics skill set, the programmes will also help to develo
 
 | Outline | Outline |
 | -------- | -------- |
-| Development of athletics fundamentals through games and fun challenges | Train for specific athletics events of choice:<br>1.  Sprints <br>2.  Middle and long distance <br>3.  Field: jumps & throws |
-| Multi-discipline exposure (runs, jumps and throws) | Opportunities for cross-event training |
-| Mini-competitions within training sessions | *   Time-trials within training sessions |
+| Development of athletics fundamentals through games and fun challenges<br>Multi-discipline exposure (runs, jumps and throws) <br> Mini-competitions within training sessions | Train for specific athletics events of choice:<br>1.  Sprints <br>2.  Middle and long distance <br>3.  Field: jumps & throws   <br>Opportunities for cross-event training  <br>*   Time-trials within training sessions |
 | $130* per season <br>3 times per week <br>Training sessions will be held on:<br>Weekday: 6:30pm – 8:00pm <br>Weekend: 4:30pm – 6:00pm<br>10 weeks (1.5 hours/session) | $180* per season <br>3 times per week <br>Training sessions will be held on:<br>Weekday: 6:30pm – 8:00pm <br>Weekend: 4:30pm – 6:00pm<br>10 weeks (1.5 hours/session) |
 
 _ActiveSG members can offset 30% of the fee with ActiveSG dollars._
