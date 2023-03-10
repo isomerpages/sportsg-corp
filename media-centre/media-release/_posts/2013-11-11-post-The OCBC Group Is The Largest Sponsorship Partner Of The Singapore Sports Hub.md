@@ -11,10 +11,11 @@ image: ""
 *OCBC Bank and its subsidiaries as a Group will be the largest sponsorship partner of the Singapore Sports Hub, with OCBC Bank named the Premier Founding Partner.*
 
 **Singapore, 11 November 2013** - The SportsHub Pte Ltd and OCBC Bank today announced that OCBC Group will become the largest sponsorship partner of the Singapore Sports Hub, with OCBC Bank awarded the exclusive Premier Founding Partner status. In what is the first sports venue sponsorship for Singapore's sports and entertainment industry, OCBC Bank and its private banking subsidiary, Bank of Singapore, will have naming rights to the following facilities:
+
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/OCBCGROUPISTHELARGESTSPONSORSHIPPARTNEROFSINGAPORESPORTSHUBMainPar0051Imagegif.gif)
 
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/OCBCGROUPISTHELARGESTSPONSORSHIPPARTNEROFSINGAPORESPORTSHUBMainPar0047Imagegif.gif)
-	
+
 2. At the press conference today, OCBC Bank signed the 15-year agreement with the Singapore Sports Hub as the Premier Founding Partner. Bank of Singapore is part of the OCBC Bank's 15-year agreement. An in-principle agreement for a significant partnership has been reached with OCBC Bank's insurance subsidiary, Great Eastern Holdings.
 
 3. This historic partnership is a natural extension of OCBC Group's strong community ties. It has been the community partner of the Singapore Children's Society since 2004, donating S$5 million in total to help children and youths from disadvantaged families. In October this year, OCBC Group launched a public children's fund with a local media company to support programmes run by the Singapore Children Society in therapy, counselling and mentoring. Every year, more than 1,600 employees from OCBC Bank volunteer at various charities in Singapore to help the less privileged ones in the community. There is also the OCBC Skyway, at the Gardens by the Bay that provides a panoramic, inspiring view of the Singapore skyline from the epic centre of the island.
@@ -64,6 +65,8 @@ Ow Yong Weng Leong
 <br>OCBC Bank
 <br>Tel: (65) 6530 4849
 <br>HP: (65) 9791 3734
+
+---
 
 **About OCBC Bank**
 <br>
