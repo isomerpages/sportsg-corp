@@ -23,7 +23,15 @@ b. Be invited to share their sports coaching stories, knowledge, experience, and
 
 #### **Section 2: CDG Overview**
 CoachSG aims to support as many coaches as possible in their professional development journey through CDG. Hence, we encourage each applicant to submit a maximum of 2 applications per Financial Year (FY). If an applicant submits a 3rd application within the same FY, CoachSG will prioritise funding allocation for applicants with 2 or less applications within the same FY.
-![](/images/Support/Coache's%20Corner/Funding/Coach%20Development%20Grant/table1.png)
+
+
+| Type of CDG Activity | Local<br>Course / Workshop / Seminar | Overseas Course / Workshop / Seminar with Mentorship Attachment or Mentorship Attachment only |
+| -------- | -------- | -------- |
+| Eligibility Criteria     | Registered with the National<br>Registry of Coaches (NROC); and<br>No outstanding deliverables from previous CDG applications; and<br>**NROC Coaches**<br>Actively coaching athletes at community or school level(s) for at least 2 years (Singaporeans and PRs) or 4 years (foreigners)<br>**NROC Coach Developers**<br>Actively developing coaches for at least 2 years (Singaporeans and PRs) or 4 years (foreigners)     | Registered with the NROC; <br>and
+No outstanding deliverables from previous CDG applications; and<br>**NROC Coaches**<br>Actively coaching athletes for national, regional, continental and / or international competitions for at least 2 years (Singaporeans and PRs) or 4 years (foreigners)<br>**NROC Coach Developers**<br>Actively developing coaches at national, regional, continental and / or international level(s) for at least 2 years (Singaporeans and PRs) or 4 years (foreigners)     |
+|Funding Amount (up to)
+
+
 
 **Additional Assessment Criteria for Large CDG Investments
 (Original Calculated CDG Approval Amount ≥ S$5,000)**
