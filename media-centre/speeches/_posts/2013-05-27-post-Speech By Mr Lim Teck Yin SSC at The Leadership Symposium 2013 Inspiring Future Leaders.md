@@ -31,7 +31,7 @@ Ladies and Gentlemen
   
 4. "Future Ready" - I think that is a very tall order. No one can predict the future but what we do know is that the generation that will lead Singapore through it, will need to anchor in their sense of common identity, purpose and vision. But how do we know that? Well, that has always been so in the journeys in peoples and nations, those that continue to succeed find ways to come together to bind, to pull with skill and determination.  
   
-5\. And so, Vision 2030 posits that its educators and coaches, we can use the power of sport to design programmes to develop the behaviours and skills to nurture our people and future leaders.  
+5. And so, Vision 2030 posits that its educators and coaches, we can use the power of sport to design programmes to develop the behaviours and skills to nurture our people and future leaders.  
   
 6. What is it that makes sport so powerful? I believe that it is in the way that sport mirrors the characteristics of life. It's in the game; it's in the competition, in how it engages us intellectually, affectively, physically and even instinctively. It gives us a lifelong learning platform for rehearsing our reactions and responses to work and to life. At the heart of the matter, it nurtures a winning spirit, where defeat is but a stepping stone and victory is a celebration of the challenges that we surmount everyday with our teammates.  
   
