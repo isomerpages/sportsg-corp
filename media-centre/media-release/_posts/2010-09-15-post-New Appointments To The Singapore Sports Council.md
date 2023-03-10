@@ -8,7 +8,7 @@ image: ""
 ---
 ### **New Appointments To The Singapore Sports Council**
 
-**Singapore, 15 September 2010** - Mr Richard Seow Yung Liang will assume the post of Chairman of the Singapore Sports Council with effect from 1 October 2010 .
+**Singapore, 15 September 2010** - Mr Richard Seow Yung Liang will assume the post of Chairman of the Singapore Sports Council with effect from 1 October 2010.
 
 2. Mr Seow, 48, is currently the Chairman of Republic Polytechnic and Chairman of the Anglo-Chinese School Board of Governors. A former investment banker, Mr Seow was previously also Chairman of the Board of Parkway Holdings Limited.
 
@@ -30,16 +30,15 @@ image: ""
 
 **Annex - Composition of Singapore Sports Council (1 October 2010 to 30 September 2012)**<br>
 
-CHAIRMAN
+**CHAIRMAN**<br>
 <br>Mr Richard Seow
 <br>Chairman, Republic Polytechnic Board of Governors
 
-DEPUTY CHAIRMAN
+**DEPUTY CHAIRMAN**<br>
 <br>Mr Cheah Kim Teck
 <br>Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Ltd
 
-MEMBERS
-
+**MEMBERS**<br>
 Ms Sum Chee Wah
 <br>Director, Education Programmes, Ministry of Education
 
@@ -82,17 +81,17 @@ Dr Teo-Koh Sock Miang
 
 Jackson Tan
 <br>Office: (65) 63548147
-<br>Email: jackson_tan@mcys.gov.sg
+<br>Email: [jackson_tan@mcys.gov.sg](mailto:jackson_tan@mcys.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
