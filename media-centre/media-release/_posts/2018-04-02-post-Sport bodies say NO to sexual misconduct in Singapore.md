@@ -33,65 +33,65 @@ Taking reference from best practices from the global sharing, SportSG will be le
 
 ---
 
+
 **List of National Sport Associations**
 
-| S/N | Sport | National Sport Association |
-|-----|---------|--------------|
-| 1   | Archery | Archery Association of Singapore |
-| 2   | Athletics | Singapore Athletics Association |
-| 3   | Badminton | Singapore Badminton Association |
-| 4   | Baseball/Softball | Singapore Baseball &amp; Softball Association |
-| 5   | Basketball | Basketball Association of Singapore |
-| 6   | Bowling | Singapore Bowling Federation |
-| 7   | Boxing | Singapore Amateur Boxing Association |
-| 8   | Canoe | Singapore Canoe Federation |
-| 9   | Chess | Singapore Chess Federation |
-| 10  | Cricket | Singapore Cricket Association  |
-| 11  | Cuesports | Cuesports Singapore  |
-| 12  | Cycling | Singapore Cycling Federation |
-| 13  | Dancesport | Singapore Dancesport Federation |
-| 14  | Disability Sports | Singapore Disability Sports Council |
-| 15  | Dragon Boat | Singapore Dragon Boat Association |
-| 16  | Equestrian | Equestrian Federation of Singapore |
-| 17  | Fencing | Fencing Singapore |
-| 18  | Floorball | Singapore Floorball Association |
-| 19  | Football | Football Association of Singapore |
-| 20  | Golf | Singapore Golf Association |
-| 21  | Gymnastics | Singapore Gymnastics |
-| 22  | Hockey | Singapore Hockey Federation |
-| 23  | Ice Hockey | Singapore Hockey Association |
-| 24  | Ice Skating  | Singapore Ice Skating Association |
-| 25  | Judo   | Singapore Judo Federation |
-| 26  | Karate | Singapore Karate-Do Federation |
-| 27  | Kendo | Singapore Kendo Club |
-| 28  | Lawn Bowls  | Bowls Singapore |
-| 29  | Netball  | Netball Singapore |
-| 30  | Modern Pentathlon  | Singapore Modern Pentathlon Association  |
-| 31  | Motor Sports | Motorsports Singapore |
-| 32  | Mountaineering | Singapore Mountaineering Federation |
-| 33  | Muay Thai | Amateur Muay Thai Association Singapore |
-| 34  | Petanque | Sport Boules Singapore |
-| 35  | Powerboat | Singapore Powerboat Association |
-| 36  | Rollersports | Rollersports Singapore |
-| 37  | Rowing | Singapore Rowing Association |
-| 38  | Rugby | Singapore Rugby Union |
-| 39  | Sailing | Singapore Sailing Federation |
-| 40  | Sepaktakraw | Singapore Sepaktakraw Federation (PERSES) |
-| 41  | Shooting | Singapore Shooting Association |
-| 42  | Silat | Singapore Silat Federation (PERSISI) |
-| 43  | Snow Boarding &amp; Skiing | Singapore Snow Boarding &amp; Skiing Association |
-| 44  | Squash | Singapore Squash Rackets Association |
-| 45  | Swimming | Singapore Swimming Association |
-| 46  | Table Tennis | Singapore Table Tennis Association |
-| 47  | Taekwondo | Singapore Taekwondo Federation |
-| 48  | Tennis | Singapore Tennis Association  |
-| 49  | Triathlon | Triathlon Association of Singapore |
-| 50  | Underwater Sports | Singapore Underwater Federation |
-| 51  | Volleyball | Volleyball Association of Singapore |
-| 52  | Water Ski | Singapore Water Ski &amp; Wakeboard Federation |
-| 53  | Weightlifting | Singapore Weightlifting Federation |
-| 54  | Weiqi | Singapore Weiqi Association  |
-| 55  | Wrestling | Wrestling Federation of Singapore |
-| 56  | Wushu | Singapore Wushu Dragon &amp; Lion Dance Federation |
-| 57  | Xiangqi | Singapore Xiangqi General Association |
-<br>
+| S/N | Sport                      | National Sport Association                         |
+|-----|----------------------------|----------------------------------------------------|
+| 1   | Archery                    | Archery Association of Singapore                   |
+| 2   | Athletics                  | Singapore Athletics Association                    |
+| 3   | Badminton                  | Singapore Badminton Association                    |
+| 4   | Baseball/Softball          | Singapore Baseball &amp; Softball Association      |
+| 5   | Basketball                 | Basketball Association of Singapore                |
+| 6   | Bowling                    | Singapore Bowling Federation                       |
+| 7   | Boxing                     | Singapore Amateur Boxing Association               |
+| 8   | Canoe                      | Singapore Canoe Federation                         |
+| 9   | Chess                      | Singapore Chess Federation                         |
+| 10  | Cricket                    | Singapore Cricket Association                      |
+| 11  | Cuesports                  | Cuesports Singapore                                |
+| 12  | Cycling                    | Singapore Cycling Federation                       |
+| 13  | Dancesport                 | Singapore Dancesport Federation                    |
+| 14  | Disability Sports          | Singapore Disability Sports Council                |
+| 15  | Dragon Boat                | Singapore Dragon Boat Association                  |
+| 16  | Equestrian                 | Equestrian Federation of Singapore                 |
+| 17  | Fencing                    | Fencing Singapore                                  |
+| 18  | Floorball                  | Singapore Floorball Association                    |
+| 19  | Football                   | Football Association of Singapore                  |
+| 20  | Golf                       | Singapore Golf Association                         |
+| 21  | Gymnastics                 | Singapore Gymnastics                               |
+| 22  | Hockey                     | Singapore Hockey Federation                        |
+| 23  | Ice Hockey                 | Singapore Hockey Association                       |
+| 24  | Ice Skating                | Singapore Ice Skating Association                  |
+| 25  | Judo                       | Singapore Judo Federation                          |
+| 26  | Karate                     | Singapore Karate-Do Federation                     |
+| 27  | Kendo                      | Singapore Kendo Club                               |
+| 28  | Lawn Bowls                 | Bowls Singapore                                    |
+| 29  | Netball                    | Netball Singapore                                  |
+| 30  | Modern Pentathlon          | Singapore Modern Pentathlon Association            |
+| 31  | Motor Sports               | Motorsports Singapore                              |
+| 32  | Mountaineering             | Singapore Mountaineering Federation                |
+| 33  | Muay Thai                  | Amateur Muay Thai Association Singapore            |
+| 34  | Petanque                   | Sport Boules Singapore                             |
+| 35  | Powerboat                  | Singapore Powerboat Association                    |
+| 36  | Rollersports               | Rollersports Singapore                             |
+| 37  | Rowing                     | Singapore Rowing Association                       |
+| 38  | Rugby                      | Singapore Rugby Union                              |
+| 39  | Sailing                    | Singapore Sailing Federation                       |
+| 40  | Sepaktakraw                | Singapore Sepaktakraw Federation (PERSES)          |
+| 41  | Shooting                   | Singapore Shooting Association                     |
+| 42  | Silat                      | Singapore Silat Federation (PERSISI)               |
+| 43  | Snow Boarding &amp; Skiing | Singapore Snow Boarding &amp; Skiing Association   |
+| 44  | Squash                     | Singapore Squash Rackets Association               |
+| 45  | Swimming                   | Singapore Swimming Association                     |
+| 46  | Table Tennis               | Singapore Table Tennis Association                 |
+| 47  | Taekwondo                  | Singapore Taekwondo Federation                     |
+| 48  | Tennis                     | Singapore Tennis Association                       |
+| 49  | Triathlon                  | Triathlon Association of Singapore                 |
+| 50  | Underwater Sports          | Singapore Underwater Federation                    |
+| 51  | Volleyball                 | Volleyball Association of Singapore                |
+| 52  | Water Ski                  | Singapore Water Ski &amp; Wakeboard Federation     |
+| 53  | Weightlifting              | Singapore Weightlifting Federation                 |
+| 54  | Weiqi                      | Singapore Weiqi Association                        |
+| 55  | Wrestling                  | Wrestling Federation of Singapore                  |
+| 56  | Wushu                      | Singapore Wushu Dragon &amp; Lion Dance Federation |
+| 57  | Xiangqi                    | Singapore Xiangqi General Association              |
