@@ -36,6 +36,7 @@ Issued on behalf of Standard Chartered Singapore Marathon Organising Committee
 
 **For media enquiries, please contact:**
 <br>
+
 Ronda Ng
 <br>
 Fulford Public Relations
@@ -81,4 +82,4 @@ Some of the major awards won in 2005 by the Bank include:
 6. The Asset's Best Cash Management Bank for South Asia
 7. Retail Banker International's Best Retail Bank in Asia Pacific.
 
-For more information on Standard Chartered, please log on to [www.standardchartered.com](www.standardchartered.com)
+For more information on Standard Chartered, please log on to [www.standardchartered.com](https://www.sc.com/sg/).
