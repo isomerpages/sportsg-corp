@@ -59,7 +59,6 @@ _NBA Players and Coaches to train and mentor 51 youth campers in Basketball with
 
 **For media enquiries, please contact:**
 <br>
-
 Singapore Sports Council<br>
 Jose Raymond<br>
 Deputy Director<br>
