@@ -24,7 +24,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 
 7. The SCSD for Basketball, located at Bukit Panjang Government High Indoor Sports Hall, will commence operations on Sunday 4 July 2010.
 
-8. "We want to make all sports available to all youths in Singapore, including those who would otherwise not have the opportunity or resources to participate in sports," said Mr Bob Gambardella, Chief of Sports Development Group, Singapore Sports Council. He added, "The SCSDs will provide these such opportunities and resources for our youths to learn and play sports. This is synergistic with our Let?s Play movement, which seeks to encourage everyone in Singapore to embrace sports as a lifestyle choice. We are confident that the SCSDs will build on the legacy of the YOG by championing sporting values such as confidence, sportsmanship, respect and other lessons gained from an active sporting lifestyle."
+8. "We want to make all sports available to all youths in Singapore, including those who would otherwise not have the opportunity or resources to participate in sports," said Mr Bob Gambardella, Chief of Sports Development Group, Singapore Sports Council. He added, "The SCSDs will provide these such opportunities and resources for our youths to learn and play sports. This is synergistic with our Let's Play movement, which seeks to encourage everyone in Singapore to embrace sports as a lifestyle choice. We are confident that the SCSDs will build on the legacy of the YOG by championing sporting values such as confidence, sportsmanship, respect and other lessons gained from an active sporting lifestyle."
 
 ---
 
@@ -36,7 +36,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 |--|--|
 | Overview: | Participants will undergo a special training model devised by 2-time Olympic and 6-time World Champion Wrestler, Sergei Beloglazov, introducing the Olympic discipline of Freestyle Wrestling. |
 || Over 10 weeks, participants will work their way towards attaining the yellow belt, and will receive a certificate of participation upon completion of the course. |
-|| Wrestling will help enhance the participants? overall development such as confidence, mental strength, self-discipline and respect. |
+|| Wrestling will help enhance the participants' overall development such as confidence, mental strength, self-discipline and respect. |
 |Venue: | National Wrestling Centre / Asian Wrestling School
 ||102 Upper Aljunied Rd (2nd Floor) Singapore 367855 |
 |Dates: | 10 weeks commencing Saturday 3rd July 201<br>(4 x 10 week sessions will be run every year) |
@@ -73,7 +73,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 | | |
 |--|--|
 | Overview: | The Basketball programme will consist of 12 weeks of small sided games as well as guidance and coaching from qualified coaches. |
-|| The sport will help hone the participants? life skills in areas of teamwork, decision-making and leadership and promotes a high level of fitness. (Participants get to bring home a basketball upon registration) |
+|| The sport will help hone the participants' life skills in areas of teamwork, decision-making and leadership and promotes a high level of fitness. (Participants get to bring home a basketball upon registration) |
 | Venue: | Bukit Panjang Government High - Indoor Sports Hall 7, Choa Chu Kang Avenue 4 Singapore 689809 |
 |Dates: | 12 weeks commencing Sunday 4 July 201<br>(3 x 12 week sessions will be run every year)|
 |Times: | 3 sessions will be conducted every Sunda<br>First session - 9.00am to 11.00a<br>Second session - 11.00am - 1.00p<br>Third session - 3.00pm - 5.00pm |
@@ -91,7 +91,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.sportsingapore.gov.sg
+To find out more, visit our websites [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: www.twitter.com/singaporesports
 <br>
