@@ -4,7 +4,7 @@ permalink: /sports-education/sporting-clubs/chinese-swimming-club/
 description: ""
 third_nav_title: Sporting Clubs
 ---
-![Chinese Swimming Club](/images/Sport%20Education/Sporting%20Clubs/ChineseSwimmingClub.jpeg)
+![Chinese_Swimming_Club](/images/Sport%20Education/Sporting%20Clubs/Chinese_Swimming_Club.jpg)
 Around 1909, six young Chinese men gathered to meet regularly on Sunday weekends to swim in the sea off Marine Parade. The group had a summer bungalow house called the "Belmont" which was used as a retreat before and after their swimming outings. These young men were influential in their respective field of work and they decided to rally under their adopted name of “The Tanjong Katong Swimming Party (TKSP)”.   
   
 As membership in their group began to grow, it was decided that their party take the new name of **"The Chinese Swimming Club (CSC)"**. At this juncture the group of six had swelled to well over 100 members, resulting in a move to a beach site at the Chapel Road area.   
