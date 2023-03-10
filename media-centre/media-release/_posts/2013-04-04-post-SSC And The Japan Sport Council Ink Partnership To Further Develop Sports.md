@@ -30,7 +30,6 @@ image: ""
 ---
 
 **For media enquiries, please contact:**<br>
-
 Siti Nurhidayati
 <br>Senior Executive
 <br>Singapore Sports Council
