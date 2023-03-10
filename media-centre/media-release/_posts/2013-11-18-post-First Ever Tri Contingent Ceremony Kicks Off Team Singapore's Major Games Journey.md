@@ -87,7 +87,7 @@ Joy Lee
 <br>Tel: +65 6346 1158
 <br>Email: joy_lee@snpc.org.sg
 
-##### **About Team Singapore**
+**About Team Singapore**
 <br>
 Originally mooted by the then Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by the then Deputy Prime Minister Dr Tony Tan. Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions.
 
@@ -101,7 +101,7 @@ For further information on Team Singapore, please visit [www.teamsingapore.com.s
 <br>
 Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG ](www.facebook.com/TeamSG )and #ourteamsg on Instagram.
 
-##### **About Singapore Sports Council**
+**About Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
