@@ -38,8 +38,8 @@ A mini Game ON carnival was also set up within Tuas View Dormitory, where partic
 
 Ms Sheryl Koh<br>
 H/P: 9151 5328<br>
-Email: [sheryl@asiaprwerkz.com](sheryl@asiaprwerkz.com)
+Email: [sheryl@asiaprwerkz.com](mailto:sheryl@asiaprwerkz.com)
 
 Ms Julie Chiang<br>
 H/P: 9009 5781<br>
-Email: [julie@asiaprwerkz.com](julie@asiaprwerkz.com)
+Email: [julie@asiaprwerkz.com](mailto:julie@asiaprwerkz.com)
