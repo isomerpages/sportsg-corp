@@ -22,7 +22,7 @@ _Seniors and Youths Came Together to Compete in the First Ever Freestyle Cheerin
 
 5\. Pasir Ris Sports Hall was packed to the rafters with a full house of 2,500 energetic supporters who cheered their hearts out for their favourite teams. The jubilant crowd watched in excitement as the teams in the 'Competitive' cheerleading segment battled it out with displays of high-flying stunts and loud cheers. After two days of intense competition, SP Gusto (A) emerged as the Overall Champion of NCC 2012.
 
-6\. Clutching on to the championship trophy, the team captain of SP Gusto (A) Samuel Liao said, "We are thrilled at being crowned 'Overall Champion' for the second year in a row at the National Cheerleading Championships. I?m glad that the great amount of hard work and effort put in by the team to perfect our cheerleading routine has paid off with this award!"
+6\. Clutching on to the championship trophy, the team captain of SP Gusto (A) Samuel Liao said, "We are thrilled at being crowned 'Overall Champion' for the second year in a row at the National Cheerleading Championships. I'm glad that the great amount of hard work and effort put in by the team to perfect our cheerleading routine has paid off with this award!"
 
 7\. SP Gusto (A), who are also the winners of the Institute of Higher Learning category under the 'Competitive' cheerleading segment, will get to showcase their talent at the ASEAN Basketball League match between the Singapore Slingers and KL Dragons on 1 April at the Singapore Indoor Stadium. They will be joined by Ulu Pandan Wildcards, who took the gold in the open category under the same segment. Other top honours within the segment went to Shooting Stars from St Hilda's Primary School (primary school) and MG Sizzlers from Methodist Girls' School (secondary school & junior college).
 
@@ -43,7 +43,7 @@ _Seniors and Youths Came Together to Compete in the First Ever Freestyle Cheerin
 | Partner Stunts - Open                        | 1st Ulu Pandan Wildcards (Gary and Jasmine) <br> 2nd  Ulu Pandan Wildcards (Ochi and Joline) <br> 3rd  Avatar |
 | Group Stunts - All Female                    | 1st KR Steppers <br> 2nd SMU Flare Team Gold <br> 3rd Alpha Vimbz |
 | Group Stunts - Mixed                         | 1st Ulu Pandan Wildcards <br> 2nd ASTROS <br> 3rd Legacy All Stars |
-| Team - Primary School                        | 1st Shooting Stars from St. Hilda?s Primary <br> 2nd MG Dazzlers Senior from MGS Primary <br> 3rd MG Dazzlers Junior from MGS Primary |
+| Team - Primary School                        | 1st Shooting Stars from St. Hilda's Primary <br> 2nd MG Dazzlers Senior from MGS Primary <br> 3rd MG Dazzlers Junior from MGS Primary |
 | Team - Secondary School & Junior College     | 1st MG Sizzlers from MGS Secondary <br> 2nd Avengerz from Ang Mo Kio Secondary |
 | Team - Institute of Higher Learning          | 1st SP Gusto Team A <br> 2nd NP Magnum Force Team Gold <br> 3rd NTU Aces |
 | Team - Open                                  | 1st Ulu Pandan Wildcards <br> 2nd KR Steppers <br> 3rd Denvers |
