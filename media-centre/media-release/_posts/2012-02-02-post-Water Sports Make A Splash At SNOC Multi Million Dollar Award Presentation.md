@@ -28,7 +28,7 @@ _Tao Li and Amanda Lim Take Top Spots in SNOC MAP While 44 Athletes Were Rewarde
 
 ---
 
-###### Annex A - About The SNOC Multi-Million Dollar Award Programme (MAP)
+**Annex A - About The SNOC Multi-Million Dollar Award Programme (MAP)**
 
 In the 1990s, under the direction of then President Dr. Yeo Ning Hong, the Singapore National Olympic Council devised an incentive scheme to reward medal-winning athletes. The SNOC Multi-Million Dollar Awards Programme (MAP) provides a cash payout to athletes who win gold medals at the Olympic, Asian, Commonwealth and Southeast Asian (SEA) Games.
 
@@ -41,5 +41,157 @@ The Tote Board/Singapore Pools (Pte) Ltd is the primary sponsor of the SNOC MAP 
 Athletes who break the South East Asian or Asian Games records will be awarded $5,000 and $50,000 respectively. This incentive does not apply to sports with no official records.
 
 It is mandatory for all athletes to plough back 20% of the SNOC MAP awards to their National Sports Association for future training and development.
- 
+
+**Annex B - SNOC MAP Award Recipients**
+
+**Individual Events**
+
+| Sport             | Event                                                              | Name(s)                | Amount (SGD) |
+| ----------------- | ------------------------------------------------------------------ | ---------------------- | ------------ |
+| Athletics         | Men's Discus Throw                                                 | James Wong Tuck Yim    | $10,000.00   |
+| Athletics         | Women's Shot Put                                                   | Zhang Guirong          | $10,000.00   |
+| Badminton         | Women's Singles                                                    | Fu Mingtian            | $10,000.00   |
+| Bowling           | Women's Singles                                                    | Cherie Tan Shi Hua     | $10,000.00   |
+| Bowling           | Women's Masters Step Ladder (2nd Gold)                             | Cherie Tan Shi Hua     | $5,000.00    |
+| Canoeing          | Women's 500m K1 Single                                             | Geraldine Lee Wei Ling | $10,000.00   |
+| Cuesports         | Men's English Billiard Single                                      | Peter Edward Gilchrist | $10,000.00   |
+| Sailing           | Women's Laser Radial Class                                         | Victoria Chan Jing Hua | $10,000.00   |
+| Sailing           | Open Optimist Class                                                | Elisa Yukie Yokoyama   | $10,000.00   |
+| Shooting          | Men's 10m Air Rifle                                                | Zhang Jing             | $10,000.00   |
+| Swimming          | Men's 400m Individual Medley                                       | Quah Zheng Wen         | $10,000.00   |
+| Swimming          | Women's 100m Butterfly and SEA Games Record - 00:58:84             | Tao Li                 | $15,000.00   |
+| Swimming          | Women's 200m Butterfly (2nd Gold)                                  | Tao Li                 | $5,000.00    |
+| Swimming          | Women's 100m Backstroke (3rd Gold) and SEA Games Record - 01:02:11 | Tao Li                 | $10,000.00   |
+| Swimming          | Women's 50m Butterfly (4th Gold)                                   | Tao Li                 | $0.00        |
+| Swimming          | Men's 50m Butterfly                                                | Joseph Isaac Schooling | $10,000.00   |
+| Swimming          | Men's 200m Butterfly (2nd Gold) and SEA Games Record - 01:56:67    | Joseph Isaac Schooling | $10,000.00   |
+| Swimming          | Men's 200m Freestyle                                               | Danny Yeo Kai Quan     | $10,000.00   |
+| Swimming          | Men's 50m Freestyle                                                | Arren Quek Xin Hui     | $10,000.00   |
+| Swimming          | Women's 50m Backstroke                                             | Shana Lim Jia Yi       | $10,000.00   |
+| Swimming          | Women's 50m Freestyle and SEA Games Record - 00:25:77              | Amanda Lim Xiang Qi    | $15,000.00   |
+| Swimming          | Men's 1500m Freestyle                                              | Teo Zhen Ren           | $10,000.00   |
+| Table Tennis      | Women's Singles                                                    | Feng Tianwei           | $10,000.00   |
+| Table Tennis      | Men's Singles                                                      | Gao Ning               | $10,000.00   |
+| Water Ski         | Women's Wakeboard                                                  | Sasha Christian        | $10,000.00   |
+
+**Team Events**
+
+| Sport        | Event                           | Name(s)                            | Amount (SGD) |
+| ------------ | ------------------------------- | ---------------------------------- | ------------ |
+| Bowling      | Women's Team of Five            | Jazreel Tan Shi Hua                | $15,000.00   |
+| Bowling      | Women's Team of Five            | Shayna Ng Lin Zhi                  | $15,000.00   |
+| Bowling      | Women's Team of Five            | New Hui Fen                        | $15,000.00   |
+| Bowling      | Women's Team of Five            | Daphne Tan Shi Jing                | $15,000.00   |
+| Bowling      | Women's Team of Five            | Cherie Tan Shi Hua                 | $15,000.00   |
+| Bowling      | Women's Team of Five            | Jasmine Yeong-Nathan               | $15,000.00   |
+| Bridge       | Women's Open Pairs              | Seet Choon Cheng                   | $15,000.00   |
+| Bridge       | Women's Open Pairs              | Tan Yoke Lan                       | $15,000.00   |
+| Canoeing     | Women's 200m K2 Doubles         | Suzanne Seah                       | $15,000.00   |
+| Canoeing     | Women's 200m K2 Doubles         | Stephanie Chen Jiexian             | $15,000.00   |
+| Gymnastics   | Women's Artistic Team           | Lim Heem Wei                       | $15,000.00   |
+| Gymnastics   | Women's Artistic Team           | Nur Atikah Nabilah Bte Muhd Jufrie | $15,000.00   |
+| Gymnastics   | Women's Artistic Team           | Foo En Ning                        | $15,000.00   |
+| Gymnastics   | Women's Artistic Team           | Rachel Giam Pei Shi                | $15,000.00   |
+| Gymnastics   | Women's Artistic Team           | Krystal Khoo Oon Hui               | $15,000.00   |
+| Gymnastics   | Women's Artistic Team           | Joey Tam Jing Ying                 | $15,000.00   |
+| Sailing      | Men's International 470 Class   | Russell Kan Tsung Liang            | $15,000.00   |
+| Sailing      | Men's International 470 Class   | Terence Koh Seng Kiat              | $15,000.00   |
+| Sailing      | Women's International 470 Class | Dawn Liu Xiaodan                   | $15,000.00   |
+| Sailing      | Women's International 470 Class | Sara Tan Li Ching                  | $15,000.00   |
+| Swimming     | Women's 4x100m Medley Relay     | Amanda Lim Xiang Qi                | $15,000.00   |
+| Swimming     | Women's 4x100m Medley Relay     | Tao Li                             | $15,000.00   |
+| Swimming     | Women's 4x100m Medley Relay     | Shana Lim Jia Yi                   | $15,000.00   |
+| Swimming     | Women's 4x100m Medley Relay     | Samantha Louisa Yeo Ginn           | $15,000.00   |
+| Swimming     | Women's 4x200m Freestyle Relay  | Amanda Lim Xiang Qi                | $15,000.00   |
+| Swimming     | Women's 4x200m Freestyle Relay  | Tao Li                             | $15,000.00   |
+| Swimming     | Women's 4x200m Freestyle Relay  | Mylene Ong Chui Bin                | $15,000.00   |
+| Swimming     | Women's 4x200m Freestyle Relay  | Koh Hui Yu                         | $15,000.00   |
+| Swimming     | Women's 4x100m Freestyle Relay  | Amanda Lim Xiang Qi                | $15,000.00   |
+| Swimming     | Women's 4x100m Freestyle Relay  | Mylene Ong Chui Bin                | $15,000.00   |
+| Swimming     | Women's 4x100m Freestyle Relay  | Koh Hui Yu                         | $15,000.00   |
+| Swimming     | Women's 4x100m Freestyle Relay  | Tao Li                             | $15,000.00   |
+| Swimming     | Men's 4x100m Freestyle Relay    | Russell Ong Kai Yi                 | $15,000.00   |
+| Swimming     | Men's 4x100m Freestyle Relay    | Arren Quek Xin Hui                 | $15,000.00   |
+| Swimming     | Men's 4x100m Freestyle Relay    | Danny Yeo Kai Quan                 | $15,000.00   |
+| Swimming     | Men's 4x100m Freestyle Relay    | Clement Lim Yong En                | $15,000.00   |
+| Swimming     | Men's 4x200m Freestyle Relay    | Danny Yeo Kai Quan                 | $15,000.00   |
+| Swimming     | Men's 4x200m Freestyle Relay    | Clement Lim Yong En                | $15,000.00   |
+| Swimming     | Men's 4x200m Freestyle Relay    | Mathews Jeremy Kevin               | $15,000.00   |
+| Swimming     | Men's 4x200m Freestyle Relay    | Teo Zhen Ren                       | $15,000.00   |
+| Table Tennis | Mixed Doubles                   | Yang Zi                            | $15,000.00   |
+| Table Tennis | Mixed Doubles                   | Sun Beibei                         | $15,000.00   |
+| Table Tennis | Men's Doubles                   | Pang Xuejie                        | $15,000.00   |
+| Table Tennis | Men's Doubles                   | Ma Liang                           | $15,000.00   |
+| Table Tennis | Women's Doubles                 | Feng Tianwei                       | $15,000.00   |
+| Table Tennis | Women's Doubles                 | Sun Beibei                         | $15,000.00   |
+| Wushu        | Women's Duilian                 | Tay Yu Juan                        | $15,000.00   |
+| Wushu        | Women's Duilian                 | Tao Yi Jun                         | $15,000.00   |
+| Wushu        | Women's Duilian                 | Emily Sin Min Li                   | $15,000.00   |
+
+**Team Sports**
+
+| Sport      | Event        | Name(s)                        | Amount (SGD) |
+| ---------- | ------------ | ------------------------------ | ------------ |
+| Water Polo | Women's Team | Low Seet Teng                  | $30,000.00   |
+| Water Polo | Women's Team | Angeline Teo Yi Ling           | $30,000.00   |
+| Water Polo | Women's Team | Tan Su-Lynn                    | $30,000.00   |
+| Water Polo | Women's Team | Shauna Christine Sim Hwei Sian | $30,000.00   |
+| Water Polo | Women's Team | Adelyn Yew Yan Xiang           | $30,000.00   |
+| Water Polo | Women's Team | Loke En Yuan                   | $30,000.00   |
+| Water Polo | Women's Team | Mary Kan Enci                  | $30,000.00   |
+| Water Polo | Women's Team | Lynnette Jane Tan Hui Ying     | $30,000.00   |
+| Water Polo | Women's Team | Ong Cheng Jing                 | $30,000.00   |
+| Water Polo | Women's Team | Chia T-Chien                   | $30,000.00   |
+| Water Polo | Women's Team | Valerie Loh Hui Hui            | $30,000.00   |
+| Water Polo | Women's Team | Poh Zhi Ning                   | $30,000.00   |
+| Water Polo | Women's Team | Jacquline Chow Chung Shan      | $30,000.00   |
+| Water Polo | Men's Team   | Luo Nan                        | $30,000.00   |
+| Water Polo | Men's Team   | Nigel Tay Sin Chao             | $30,000.00   |
+| Water Polo | Men's Team   | Lin Diyan                      | $30,000.00   |
+| Water Polo | Men's Team   | Lin Diyang                     | $30,000.00   |
+| Water Polo | Men's Team   | Eugene Teo Zhen Wei            | $30,000.00   |
+| Water Polo | Men's Team   | Koh Jian Ying                  | $30,000.00   |
+| Water Polo | Men's Team   | Brandon Chong Wei Ren          | $30,000.00   |
+| Water Polo | Men's Team   | Lim Yao Xiang                  | $30,000.00   |
+| Water Polo | Men's Team   | Paul Louis Tan Jwee Ann        | $30,000.00   |
+| Water Polo | Men's Team   | Loh Zhi Zhi                    | $30,000.00   |
+| Water Polo | Men's Team   | Kelvin Ong Weisheng            | $30,000.00   |
+| Water Polo | Men's Team   | Marcus Goh Chengwei            | $30,000.00   |
+| Water Polo | Men's Team   | Byron Quek Ruisheng            | $30,000.00   |
+
+**Top Three Sports for 2011**
+
+|     |              |          |
+| --- | ------------ | -------- |
+| 1.  | Swimming     | $190,000 |
+| 2.  | Table Tennis | $65,000  |
+| 3.  | Sailing      | $50,000  |
+
+**Top Five Athletes for 2007 & 2009**
+
+|     | 2007                             |         | 2009                           |         |
+| --- | -------------------------------- | ------- | ------------------------------ | ------- |
+| 1.  | Mohd Zain Amat (Shooting)        | $20,000 | Tao Li (Swimming)              | $40,000 |
+| 2.  | Choo Choon Seng (Shooting)       | $20,000 | Quah Ting Wen (Swimming)       | $40,000 |
+| 3.  | Nicolette Teo Wei Min (Swimming) | $18,750 | Amanda Lim Xiang Qi (Swimming) | $25,000 |
+| 4.  | Tabitha Tay Jia Hui (Gymnastics) | $17,500 | Lynette Lim Shu-En (Swimming)  | $25,000 |
+| 5.  | Bryan Tay Zhirong (Swimming)     | $17,500 | Zach Ong Wei Shien (Swimming)  | $20,000 |
+| 6.  | Gao Ning (Table Tennis)          | $17,500 |
+
+**Top Three Sports for 2007 & 2009**
+
+|     | 2007         |          | 2009         |          |
+| --- | ------------ | -------- | ------------ | -------- |
+| 1.  | Swimming     | $110,000 | Swimming     | $200,000 |
+| 2.  | Shooting     | $95,000  | Shooting     | $80,000  |
+| 3.  | Table Tennis | $95,000  | Table Tennis | $70,000  |
+
+**Total MAP Rewards Disbursed for 2007 - 2011**
+
+|                      |          |
+| -------------------- | -------- |
+| 2007 (24thSEA Games) | $520,000 |
+| 2009 (25thSEA Games) | $460,000 |
+| 2011 (26thSEA Games) | $525,000 |
+
 Click [here](/files/Media%20Centre/Media%20Release/2012/Feb/water-sports-make-a-splash-at-snoc-multi-million-dollar-award-presentation.pdf) to download Annex B - SNOC MAP Award Recipients and Annex C - Fact Sheet
