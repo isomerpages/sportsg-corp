@@ -9,7 +9,7 @@ image: ""
 ---
 ### **'Green' Pasir Ris SRC Offers Conducive Setting For The Community To Play And Relax**
  
-Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singapore Sports Council's (SSC) newest addition to its family of 21 SRCs, features a comprehensive range of sports facilities with a diverse retail mix to provide an all rounded experience for guests.
+**Singapore, 6 November 2011** - Pasir Ris Sports and Recreation Centre (SRC), Singapore Sports Council's (SSC) newest addition to its family of 21 SRCs, features a comprehensive range of sports facilities with a diverse retail mix to provide an all rounded experience for guests.
 
 2.  Deputy Prime Minister Teo Chee Hean graced the official opening of Pasir Ris SRC this morning along with Mr Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, Members of Parliament for Pasir Ris-Punggol GRC and Punggol East SMC, as well as Government Parliamentary Committee member for Community Development, Youth and Sports, Mr Vikram Nair. They were joined by grassroot leaders and fellow residents as they celebrated the launch of their new 'playground'.
 
@@ -35,7 +35,7 @@ Singapore, 6 November 2011 - Pasir Ris Sports and Recreation Centre (SRC), Singa
 
 ---
 
-###### Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre
+**Annex A - Fact Sheet on Pasir Ris Sports and Recreation Centre**
 
 Pasir Ris Sports and Recreation Centre (SRC) spans over 1.4 hectares in size and comprises facilities including a swimming complex with two pools, a multi-purpose indoor sports hall with a viewing gallery for 2,000 spectators, a gymnasium with pool view, two tennis courts, a 5-a-side soccer court, and a dance studio.
 
@@ -48,10 +48,10 @@ The SRC is designed with environmentally friendly and energy-saving features suc
 | Soft Launch Date    | 18 July 2011                             |
 | Construction Cost   | S$40 million                             |
 | Land Area           | 1.4 hectares (14,000 sqm)                |
-| Facilities          | Swimming Complex: <br> * A 50m length lap pool <br> * A learner's pool <br> * A wading pool with waterplay equipment <br> * Water jets <br> * A jacuzzi |
-|                     | Sports Hall (2,000 pax capacity): <br> * 2 basketball courts <br> * or 8 badminton courts <br> * or 1 volleyball court with headroom clearance height of 12.5m to allow for international volleyball play <br> * An outdoor 5-a-side soccer court <br> * 2 outdoor tennis courts |
+| Facilities          | Swimming Complex: <br> - A 50m length lap pool <br> - A learner's pool <br> - A wading pool with waterplay equipment <br> - Water jets <br> - A jacuzzi |
+|                     | Sports Hall (2,000 pax capacity): <br> - 2 basketball courts <br> or 8 badminton courts <br> or 1 volleyball court with headroom clearance height of 12.5m to allow for international volleyball play <br> - An outdoor 5-a-side soccer court <br> - 2 outdoor tennis courts |
 |                     | A Gymnasium                              |
 |                     | A Dance Studio                           |
 |                     | Foyer Space for Events                   |
 |                     | 950sqm of Retail Space <br> F&B and Retails Outlets |
-|                     | Car Park (with Lift to Serve Basement Level - 2nd Storey): <br> * For cars: 120 lots and 2 handicapped lots <br> * Motorcycle lots <br> * Bicycle parking stands |
+|                     | Car Park (with Lift to Serve Basement Level - 2nd Storey): <br> - For cars: 120 lots and 2 handicapped lots <br> - Motorcycle lots <br> - Bicycle parking stands |
