@@ -38,7 +38,7 @@ Name: Fauja Singh
 <br>Current place of residency: Essex, Ilford, England
 <br>Total number of full marathons: Nine
 <br>Marathon debut: London, Year 2000, at age 89
-<br>Running Group: Sikhs In The City - http://sikhsinthecity.org/index.html
+<br>Running Group: Sikhs In The City - [www.sikhsinthecity.org](www.sikhsinthecity.org)
 <br>GiveAsia webpage: http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation 
 
 **World Records set:**
@@ -74,6 +74,7 @@ Sequence of Fauja Singh's 10km, Half and Full Marathon timings:
 * Newham Classic 10km, 15 April 2012 - 77 minutes 32 seconds
 * Virgin London Marathon, 22 April 2012 - 7 hours 49 minutes and 21 seconds
 
+---
 
 **For media enquiries, please contact:**
 <br>
