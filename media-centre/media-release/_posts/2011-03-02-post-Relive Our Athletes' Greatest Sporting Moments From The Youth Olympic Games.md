@@ -164,7 +164,7 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
 For further information, please visit [www.teamsingapore.sg](www.teamsingapore.sg).
-
+<br>
 Follow Team Singapore's action on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG)
 
 **About Let's Play**<br>
