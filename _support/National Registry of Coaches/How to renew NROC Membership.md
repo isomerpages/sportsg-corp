@@ -8,7 +8,7 @@ third_nav_title: National Registry of Coaches
 
 Coaches with expired NROC membership will need to prepare the following:
 
-*   [Valid Standard First Aid (including AED) Certificate](/support/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/)
+*   [Valid Standard First Aid (including AED) Certificate](/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/)
 *   $60.00 renewal fee (payable online)
 *   Supporting documents for completion of [Continuing Coach Education (CCE)](/coaches-corner/continuing-coach-development/continuing-coach-education-cce/) requirement. **Up to 10 CCE hours may be awarded for a recognised CCE activity.** Do note that coaches can now fulfil their CCE requirement through Self-Guided CCE hours as well (see 'Update on CCE Hours Requirement' section in the above link) Please refer to [How to access e-Logbook guide here](/files/What%20We%20%20Do/Coaches’%20Corner/NROC/How%20to%20Renew%20NROC%20Membership/How%20to%20access%20e-Logbook_1.pdf).
 *   Submit their application online by email or in person (see below for Renewal Procedures) Please refer to [How to renew guide here](/files/What%20We%20%20Do/Coaches’%20Corner/NROC/How%20to%20Renew%20NROC%20Membership/How%20to%20renew%20NROC%20membership_1.pdf)
@@ -56,5 +56,4 @@ A foreign national who is applying to renew his/her NROC is required to submit a
 
 Online payment service is available on [SportSync](https://www.sportsync.sg/).
 
-For NROC membership assistance during office hours, please email us [sport\_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
-
+For NROC membership assistance during office hours, please email us [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
