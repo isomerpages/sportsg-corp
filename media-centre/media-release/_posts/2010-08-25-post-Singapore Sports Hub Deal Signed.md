@@ -19,7 +19,7 @@ image: ""
 5. The Singapore Sports Hub was designed with the end users in mind and every effort has been made to ensure a delightful experience for spectators, participants, event companies, the sports fraternity, commercial tenants, and others. For example:
 For easy accessibility to the Sports Hub in Kallang, the Stadium Mass Rapid Transit (MRT) station is located next to the National Stadium. The entire Sports Hub is also designed with features to facilitate movement for people with disabilities.
 
-For the comfort of all spectators, the new National Stadium will feature individual seats, natural ventilation and a retractable roof for all-weather enjoyment. It will be Singapore's largest all weather sports venue, and uses an innovative bowl cooling system that provides comfort with limited energy usage. The new National Stadium also features retractable seating which will allow us to bring spectators up close to the action, customized for soccer, rugby, cricket, athletics, and major spectacular events (e.g. National Day Parades).
+For the comfort of all spectators, the new National Stadium will feature individual seats, natural ventilation and a retractable roof for all-weather enjoyment. It will be Singapore's largest all weather sports venue, and uses an innovative bowl cooling system that provides comfort with limited energy usage. The new National Stadium also features retractable seating which will allow us to bring spectators up close to the action, customised for soccer, rugby, cricket, athletics, and major spectacular events (e.g. National Day Parades).
 
 For the enjoyment of mobile and technology-savvy stakeholders, including remote spectators, the entire Sports Hub will be wired up with fiber optics and driven by technology and Customer Relationship Management (CRM) solutions to ensure a refreshing, immersive, and interactive user experience. The entire Sports Hub, supported by a sports library and sports museum, will showcase knowledge-intensive sports offerings and integrate the past, present, and future of Singapore and Asian sports.
 
@@ -27,9 +27,9 @@ For a diverse and participative experience for youths, seniors, and families, a 
 
 For the convenience of elite athletes with a hectic schedule, state-of-the-art training facilities, a comprehensive suite of services for rest and recovery, and a facility for short term stay will be offered to help them achieve podium success. There will be a sports-solution collaboration platform for the sports industry business partners and sports science & medicine specialists.
 
-6. Visitors can also look forward to a host of international and local sports and entertainment events, maximizing the open land space, water body, and arenas. Additionally, Singapore Sports Hub will continue to attract live entertainment events (e.g. concerts and artistes from around the world), MICE (meetings, incentives, conventions, & exhibitions) events, and other exciting entertainment events and activities for the community.
+6. Visitors can also look forward to a host of international and local sports and entertainment events, maximising the open land space, water body, and arenas. Additionally, Singapore Sports Hub will continue to attract live entertainment events (e.g. concerts and artistes from around the world), MICE (meetings, incentives, conventions, & exhibitions) events, and other exciting entertainment events and activities for the community.
 
-7. For event organizers, the flexible, scalable, and modular design of the Sports Hub provides a multi functional layout that is designed to the relevant sport's International Federation specifications. To propel sports sponsorship, the Sports Hub is fully cabled for broadcast, thereby allowing events to be transmitted to the billions of viewers in the world. Eighty Corporate Boxes will be available for lease for organizations and companies to host their customers during major sports events. These features will help make the Singapore Sports Hub a preferred venue for international sports and entertainment events.
+7. For event organisers, the flexible, scalable, and modular design of the Sports Hub provides a multi functional layout that is designed to the relevant sport's International Federation specifications. To propel sports sponsorship, the Sports Hub is fully cabled for broadcast, thereby allowing events to be transmitted to the billions of viewers in the world. Eighty Corporate Boxes will be available for lease for organizations and companies to host their customers during major sports events. These features will help make the Singapore Sports Hub a preferred venue for international sports and entertainment events.
 
 8. The consortium is ready to go full throttle. "We are very happy to finally close the deal. We are ready to go full swing," said Ludwig Reichhold, Managing Director, Dragages Singapore, "In partnership with the Government of Singapore, we will bring together the strength of our consortium and ensure Singapore Sports Hub reaches its full potential to create the excitement seen in other world class venues, thereby fulfilling the project vision and objectives set by the Singapore Sports Council."
 
@@ -55,30 +55,30 @@ Senior Manager<br>
 Corporate Communications & Relations<br>
 Singapore Sports Council<br>
 Office: (65) 6500 5236<br>
-Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 Eugene De Rozario<br>
 Senior Commercial Manager<br>
 SportsHub Pte Ltd<br>
 Tel: (65) 6595 5622<br>
-Email: [e.derozario@bouygues-construction.com](e.derozario@bouygues-construction.com)
+Email: [e.derozario@bouygues-construction.com](mailto:e.derozario@bouygues-construction.com)
 
 Alvin Hang<br>
 Director<br>
 Corporate Communications & Relations<br>
 Singapore Sports Council<br>
 Office: (65) 6500 5164<br>
-Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
