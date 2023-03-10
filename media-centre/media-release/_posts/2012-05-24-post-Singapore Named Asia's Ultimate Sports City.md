@@ -11,7 +11,7 @@ image: ""
 
 **Quebec City, Canada, 24 May 2012** - Singapore maintained her stronghold as the best sports city in Asia after finishing in 6th place at the biennial SportBusiness Ultimate Sports City awards at this year's Sport Accord International Convention in Quebec.
 
-2\. At its first outing in 2010, Singapore placed 2nd only to Melbourne in the global Ultimate Sports Cities Awards, due in part to its successful organising of the Singapore 2010 Youth Olympic Games. Despite the absence of a multi-sports international competition in 2011, the republic held off strong competition from Tokyo, PyeongChang and Kuala Lumpur to retain its position as Asia?s best sports city.
+2\. At its first outing in 2010, Singapore placed 2nd only to Melbourne in the global Ultimate Sports Cities Awards, due in part to its successful organising of the Singapore 2010 Youth Olympic Games. Despite the absence of a multi-sports international competition in 2011, the republic held off strong competition from Tokyo, PyeongChang and Kuala Lumpur to retain its position as Asia's best sports city.
 
 3\. This year's top spot went to the 2012 Olympic host city, London who ended Melbourne's reign as the number one sports city for the past three consecutive awards. Melbourne finished second while fellow Australian city, Sydney came in third. New York - one of this year's biggest movers - climbed from 10th position in 2010 to 4th this year. Manchester rose from 7th in 2010 to complete this year's top five cities.
 
@@ -32,7 +32,9 @@ image: ""
 END
 
 **For media enquiries, please contact:**
-
+<br>To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 Patricia Yee
 Executive, Media Relations
 Singapore Sports Council
@@ -42,8 +44,6 @@ Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg
-<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
