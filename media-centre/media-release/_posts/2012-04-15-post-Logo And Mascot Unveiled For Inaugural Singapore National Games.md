@@ -24,7 +24,7 @@ _Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents C
 
 6\. The SNG logo and mascot designs contest held in February 2012 saw about 35 logo and 16 mascot entries submitted from various design schools and tertiary institutions. After the first round of judging held in early March, four designs each for the logo and mascot were shortlisted. These designs were there put up for an online public voting at singaporenationalgames.sg.
 
-##### **Community Games 2012 Kicked Off With Four Sports**
+**Community Games 2012 Kicked Off With Four Sports**
 
 7\. The Community Games (CG) 2012, will kick off on Sunday, 15 April 2012 with 197 teams comprising over 1,000 residents of different ages, races and estates competing in Badminton, Basketball, Bowling and Football at the CCs, sports halls and sports facilities across the island. The remaining three sports namely netball, sepak takraw and table tennis will commence in May 2012.
 
@@ -32,7 +32,7 @@ _Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents C
 
 9\. Two winning teams in every sports category will emerge from each cluster to qualify for the SNG 2012. This could be a dream come true for many a sporting enthusiast to play at a national level supported and cheered on by their neighbours and friends living in the same cluster and the community.
 
-##### **Inter-Cluster Mascot Customisation Contest**
+**Inter-Cluster Mascot Customisation Contest**
 
 10\. From 17 April to 15 May, the 15 clusters can inject their unique identity into the SNG mascot so as to make it their own, through an inter-cluster mascot customisation contest. Subsequently one customised mascot will be produced by the SNG organisers for each cluster.
 
@@ -42,9 +42,9 @@ _Community Games 2012 Kicked Off With 197 Teams Comprising Over 1000 Residents C
 
 ---
 
-###### Annex A: Singapore National Games 2012 Fact Sheet
+**Annex A: Singapore National Games 2012 Fact Sheet**
 
-The Singapore National Games 2012 (SNG) is a new biennial sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore?s exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
+The Singapore National Games 2012 (SNG) is a new biennial sports festival that bridges community participation and sports excellence will offer residents from all ages, races and estates the opportunity to be part of Singapore's exciting sporting landscape. From the Sunday sports enthusiast, the arm-chair commentator, to the serious athlete, all can now play, compete, support and volunteer.
 
 The inaugural SNG will see community teams pitting against each other in ten sports. The SNG will be jointly organised by the Singapore Sports Council (SSC), People's Association (PA) and its grassroots organisations, the Community Sports Clubs, as well as the National Sports Associations (NSAs) of the ten sports in the inaugural SNG. It aims to be a meaningful and memorable sporting festival that ignites passion, builds character, and connects people and bonds Singaporeans.
 
@@ -57,28 +57,28 @@ Participation will be open to Singapore Citizens as well as non-Citizens, includ
 Registration for the seven sports for CG 2012 Badminton, Basketball, Bowling, Football, Netball, Sepak Takraw and Table Tennis has closed. Interested residents can still register for the remaining three sports:
 Athletics, Dragon Boat and Swimming
 Registration opens on 18 April to 31 May 2012
-Find out more at: [singaporenationalgames.sg](http://www.singaporenationalgames.sg/)
+Find out more at: [nsg.moe.edu.sg](nsg.moe.edu.sg)
 
-###### Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet
+**Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet**
 <img src="/images/Media%20Centre/Media%20Release/2012/Apr/SinagporeNationalGames.gif" style="width:200px;">
 
-**Designer**: Yong Wen Yeu<br>
-**School**: Nanyang Academy of Fine Arts<br>
-**Age**: 20<br>
-**Rationale**:
+Designer: Yong Wen Yeu<br>
+School: Nanyang Academy of Fine Arts<br>
+Age: 20<br>
+Rationale:
 The logo is formed by the characters 'S, N, and G' which stands for Singapore National Games. The 'S' in the design represents a person running and the 'G' represents a person swimming. I have chosen vivid colours such as red and blue as they lend a rhythmic feel to the logo. They also represent the spirit of sports; the energy and passion that bonds people when they play sports together.
 
 <img src="/images/Media%20Centre/Media%20Release/2012/Apr/lion_logo.gif" style="width:200px;">
 
-**Designer**: Beatrice Cho<br>
-**School**: Singapore Polytechnic<br>
-**Age**: 19<br>
-**Rationale**:
+Designer: Beatrice Cho<br>
+School: Singapore Polytechnic<br>
+Age: 19<br>
+Rationale:
 When we utter the word 'Lion' the first word that comes into our mind is strength. It also upholds many beliefs, such as courage, power, royalty and wisdom. Sang Nila Utama, founder of Singapore and the Merlion is the reason I decided to name my mascot 'Nila'. The SNG will create friendly rivalry and bring friendship to another level. These elements are infused and depicted in my mascot by the fiery mane and the heart shaped face. The fiery mane symbolises the burning passion of the athletes fighting to win. The heart-shaped face displays love which represents how people interact with one another and come together as a community.
 
-###### Annex C: CG Competition Schedule for 15 April 2012
+**Annex C: CG Competition Schedule for 15 April 2012**
 
-##### **Badminton**
+**Badminton**
 
 **Cluster: West Coast**<br>
 Venue: Clementi Town Secondary School<br>
@@ -121,7 +121,7 @@ Event: Badminton<br>
 | 2 | 15/04/12 (Sun) | C2    | 10:00 AM | B   | Canberra Shuttlers 1 | vs      | Nee Soon Central CSC     |
 | 3 | 22/04/12 (Sun) | C1    | 10:00 AM | B   | Nee Soon East Team 2 | vs      | Nee Soon East CSC Team 1 |
 
-**Cluster: Pasir Ris-punggol**<br>
+**Cluster: Pasir Ris-Punggol**<br>
 Venue: Pasir Ris Sports Hall<br>
 Event: Badminton<br>
 120 Pasir Ris Central S(519640)
@@ -133,7 +133,7 @@ Event: Badminton<br>
 | 3 | 15/04/12 (Sun) | C3    | 10:00 AM | B   | Punggol North CSC        | vs      | Punggol South CSC Badminton Team 2 |
 | 4 | 15/04/12 (Sun) | C4    | 10:00 AM | B   | Pasir Ris West CSC       | vs      | PE Badminton Team                  |
 
-##### **Bowling**
+**Bowling**
 
 Category: Mixed Team
 
@@ -155,8 +155,7 @@ Category: Mixed Team
 | M14  | Chua Chu Kang | 15 April 2012 1pm - 4pm | 48 Boon Lay Way           |
 | M15  | Jurong        | 15 April 2012 5pm - 8pm | (Tel: 6795 5900)          |
 
-
-##### **Basketball**
+**Basketball**
 
 **Aljunied Cluster - Basketball**<br>
 Address: Paya Lebar- Kovan CC: 207 Hougang St 21 (530207)
@@ -202,7 +201,7 @@ Address: Bedok South Secondary  School, 1 JALAN LANGGAR BEDOK S (468585)
 | 3 | 15/04/12 (Sun) | Bedok South Secondary School | 12.15am | B   | Changi Simei CSC         | vs      | Fengshan Red CSC        |
 | 4 | 15/04/12 (Sun) | Bedok South Secondary School | 1.15pm  | B   | Joo Chiat @ Siglap South | vs      | Fengshan Black CSC      |
 
-##### **Football**
+**Football**
 
 **Ang Mo Kio Cluster**<br>
 AMKSS: Ang Mo Kio Secondary School (6 Ang Mo Kio Street 22, Singapore 569362)
