@@ -12,99 +12,23 @@ Young Athletes and Debutants Key Contributors to Singapore's Medal Haul in Vient
 
 Vientiane, Laos, 18 December 2009 - Singapore has ended its 25th SEA Games campaign on a high with its impressive medal haul of 98 medals, consisting of 33 Gold, 30 Silver and 35 Bronze, despite the nation fielding its smallest contingent in this installment of the SEA Games. Team Singapore was represented by 192 athletes taking part in 18 sports at the 25th SEA Games.
 
-2. Singapore continued to show its dominance in key sports such as table tennis, swimming and water polo. Team Singapore kicked off the 25th SEA Games on a high note with the men's water polo team continuing its winning streak by clinching their 23rd successive SEA Games gold medal. The table tennis team followed suit by sweeping six out of the seven gold medals that were at stake. At the same time, table tennis also garnered a total of 12 medals at the various events, bettering its haul of nine medals at the 24th SEA Games in Korat, Thailand in 2007.
+1. Singapore continued to show its dominance in key sports such as table tennis, swimming and water polo. Team Singapore kicked off the 25th SEA Games on a high note with the men's water polo team continuing its winning streak by clinching their 23rd successive SEA Games gold medal. The table tennis team followed suit by sweeping six out of the seven gold medals that were at stake. At the same time, table tennis also garnered a total of 12 medals at the various events, bettering its haul of nine medals at the 24th SEA Games in Korat, Thailand in 2007.
 
-3. The top performer at the 25th SEA games was the swimming team who contributed 33 medals, consisting of 14 Gold, eight Silver and 11 Bronze - a marked improvement from the 26 medals they brought home from the previous SEA games in Korat, Thailand. The swimmers were also on a record-breaking trail, setting about 10 SEA Games records and seven National records while in Vientiane, Laos.
+2. The top performer at the 25th SEA games was the swimming team who contributed 33 medals, consisting of 14 Gold, eight Silver and 11 Bronze - a marked improvement from the 26 medals they brought home from the previous SEA games in Korat, Thailand. The swimmers were also on a record-breaking trail, setting about 10 SEA Games records and seven National records while in Vientiane, Laos.
 
-4. Expressing her delight, Chef de Mission Jessie Phua said, "I am extremely happy with Team Singapore's remarkable performance in Vientiane. Singapore may have sent a lean SEA Games contingent to compete, but our athletes spared no effort in giving their best when it mattered. Our young athletes came well prepared, not just to participate, but also to win. The future of our Singapore sports is certainly bright."
-
-**A Promising Debut**<br>
-
-5. Singapore sent a young contingent with 90 SEA Games debutants and 99 athletes aged 21 and below. All of them rose to the challenge and shone at the 25th SEA Games with the debutants contributing 23 medals (three Gold, nine Silver and 11 Bronze) to the nation's medal haul.
-
-6. 21-year-old silat exponent, Rabiatul Adawiyah Yusak, came away from her first SEA Games with a Gold medal in the Women's Single Artistic (Tunggal) event. Joining her on the podium were teammates Shafiq Saiful and Elyasak Said, who both received the Bronze medal in the Pencak Silat Men's Class H and Class F events respectively at their first showing at a SEA Games event.
-
-7. Swimming debutants also made a splash at the pool by contributing a total of seven medals (four Silver and three Bronze) to the nation's medal tally. Seven out of 11 swimming debutants came away with at least a medal. In addition, Singapore also garnered its first medal in road cycling through former triathlete Dinah Chen, who secured the Bronze medal in the Women's 30 km Individual Time Trial event in her debut in the SEA Games cycling scene.
-
-8. "The SEA Games continues to be the springboard for our young athletes to gain exposure in the regional sporting arena as well as valuable experience from competing against some of the best in the region. Our youths have certainly made an impression at this Games. Competing in the SEA Games is an important first step for them in their development, and we hope they can build on this experience to move ahead and achieve greater success at the Asian and Olympic Games," concluded Mrs Phua.
-
-9. For more information on Team Singapore at the 25th SEA Games, please visit Team Singapore
-
----
-
-**Annex**<br>
-Annex A: 25th SEA Games Medal Tally<br>
-Annex B: 25th SEA Games Singapore's Medal Tally<br>
-Annex C: List of Medal Winners
-
-**Annex A**<br>
-**25th SEA Games Medal Tally**
-
-| Ranking | Country     | Gold | Silver | Bronze | Total |
-| ------- | ----------- | ---- | ------ | ------ | ----- |
-| 1       | Thailand    | 85   | 83     | 98     | 266   |
-| 2       | Vietnam     | 83   | 73     | 57     | 213   |
-| 3       | Indonesia   | 43   | 53     | 74     | 170   |
-| 4       | Malaysia    | 40   | 40     | 59     | 139   |
-| 5       | Philippines | 38   | 35     | 51     | 124   |
-| 6       | Singapore   | 33   | 30     | 35     | 98    |
-| 7       | Laos        | 32   | 25     | 52     | 109   |
-| 8       | Myanmar     | 12   | 22     | 37     | 71    |
-| 9       | Cambodia    | 3    | 10     | 26     | 39    |
-| 10      | Brunei      | 1    | 1      | 8      | 10    |
-| 11      | Timor Leste | 0    | 0      | 3      | 3     |
-|         | Total:      | 370  | 372    | 500    | 1242  |
-
-
-**Annex B**<br>
-**25th SEA Games Singapore's Medal Tally**
-
-| S/No | Sport        | Gold | Silver | Bronze | Total |
-| ---- | ------------ | ---- | ------ | ------ | ----- |
-| 1    | Swimming     | 14   | 8      | 11     | 33    |
-| 2    | Shooting     | 6    | 5      | 5      | 16    |
-| 3    | Table Tennis | 6    | 4      | 2      | 12    |
-| 4    | Cuesports    | 2    | 1      | 2      | 5     |
-| 5    | Athletics    | 2    | 1      | 0      | 3     |
-| 6    | Pencak Silat | 1    | 2      | 5      | 8     |
-| 7    | Wushu        | 1    | 1      | 0      | 2     |
-| 8    | Waterpolo    | 1    | 0      | 0      | 1     |
-| 9    | Golf         | 0    | 2      | 0      | 2     |
-| 10   | Archery      | 0    | 2      | 0      | 2     |
-| 11   | Badminton    | 0    | 1      | 2      | 3     |
-| 12   | Judo         | 0    | 1      | 2      | 3     |
-| 13   | Karate       | 0    | 1      | 1      | 2     |
-| 14   | Wrestling    | 0    | 1      | 0      | 1     |
-| 15   | Taekwondo    | 0    | 0      | 2      | 2     |
-| 16   | Cycling      | 0    | 0      | 1      | 1     |
-| 17   | Football     | 0    | 0      | 1      | 0     |
-| 18   | Boxing       | 0    | 0      | 1      | 1     |
-|      | Total:       | 33   | 30     | 35     | 98    |
-
-
-### **Team Singapore Impresses At The 25th SEA Games With 33 Gold Medals**
-
-Young Athletes and Debutants Key Contributors to Singapore's Medal Haul in Vientiane, Laos
-
-Vientiane, Laos, 18 December 2009 - Singapore has ended its 25th SEA Games campaign on a high with its impressive medal haul of 98 medals, consisting of 33 Gold, 30 Silver and 35 Bronze, despite the nation fielding its smallest contingent in this installment of the SEA Games. Team Singapore was represented by 192 athletes taking part in 18 sports at the 25th SEA Games.
-
-2. Singapore continued to show its dominance in key sports such as table tennis, swimming and water polo. Team Singapore kicked off the 25th SEA Games on a high note with the men's water polo team continuing its winning streak by clinching their 23rd successive SEA Games gold medal. The table tennis team followed suit by sweeping six out of the seven gold medals that were at stake. At the same time, table tennis also garnered a total of 12 medals at the various events, bettering its haul of nine medals at the 24th SEA Games in Korat, Thailand in 2007.
-
-3. The top performer at the 25th SEA games was the swimming team who contributed 33 medals, consisting of 14 Gold, eight Silver and 11 Bronze - a marked improvement from the 26 medals they brought home from the previous SEA games in Korat, Thailand. The swimmers were also on a record-breaking trail, setting about 10 SEA Games records and seven National records while in Vientiane, Laos.
-
-4. Expressing her delight, Chef de Mission Jessie Phua said, "I am extremely happy with Team Singapore's remarkable performance in Vientiane. Singapore may have sent a lean SEA Games contingent to compete, but our athletes spared no effort in giving their best when it mattered. Our young athletes came well prepared, not just to participate, but also to win. The future of our Singapore sports is certainly bright."
+3. Expressing her delight, Chef de Mission Jessie Phua said, "I am extremely happy with Team Singapore's remarkable performance in Vientiane. Singapore may have sent a lean SEA Games contingent to compete, but our athletes spared no effort in giving their best when it mattered. Our young athletes came well prepared, not just to participate, but also to win. The future of our Singapore sports is certainly bright."
 
 **A Promising Debut**<br>
 
-5. Singapore sent a young contingent with 90 SEA Games debutants and 99 athletes aged 21 and below. All of them rose to the challenge and shone at the 25th SEA Games with the debutants contributing 23 medals (three Gold, nine Silver and 11 Bronze) to the nation's medal haul.
+1. Singapore sent a young contingent with 90 SEA Games debutants and 99 athletes aged 21 and below. All of them rose to the challenge and shone at the 25th SEA Games with the debutants contributing 23 medals (three Gold, nine Silver and 11 Bronze) to the nation's medal haul.
 
-6. 21-year-old silat exponent, Rabiatul Adawiyah Yusak, came away from her first SEA Games with a Gold medal in the Women's Single Artistic (Tunggal) event. Joining her on the podium were teammates Shafiq Saiful and Elyasak Said, who both received the Bronze medal in the Pencak Silat Men's Class H and Class F events respectively at their first showing at a SEA Games event.
+2. 21-year-old silat exponent, Rabiatul Adawiyah Yusak, came away from her first SEA Games with a Gold medal in the Women's Single Artistic (Tunggal) event. Joining her on the podium were teammates Shafiq Saiful and Elyasak Said, who both received the Bronze medal in the Pencak Silat Men's Class H and Class F events respectively at their first showing at a SEA Games event.
 
-7. Swimming debutants also made a splash at the pool by contributing a total of seven medals (four Silver and three Bronze) to the nation's medal tally. Seven out of 11 swimming debutants came away with at least a medal. In addition, Singapore also garnered its first medal in road cycling through former triathlete Dinah Chen, who secured the Bronze medal in the Women's 30 km Individual Time Trial event in her debut in the SEA Games cycling scene.
+3. Swimming debutants also made a splash at the pool by contributing a total of seven medals (four Silver and three Bronze) to the nation's medal tally. Seven out of 11 swimming debutants came away with at least a medal. In addition, Singapore also garnered its first medal in road cycling through former triathlete Dinah Chen, who secured the Bronze medal in the Women's 30 km Individual Time Trial event in her debut in the SEA Games cycling scene.
 
-8. "The SEA Games continues to be the springboard for our young athletes to gain exposure in the regional sporting arena as well as valuable experience from competing against some of the best in the region. Our youths have certainly made an impression at this Games. Competing in the SEA Games is an important first step for them in their development, and we hope they can build on this experience to move ahead and achieve greater success at the Asian and Olympic Games," concluded Mrs Phua.
+4. "The SEA Games continues to be the springboard for our young athletes to gain exposure in the regional sporting arena as well as valuable experience from competing against some of the best in the region. Our youths have certainly made an impression at this Games. Competing in the SEA Games is an important first step for them in their development, and we hope they can build on this experience to move ahead and achieve greater success at the Asian and Olympic Games," concluded Mrs Phua.
 
-9. For more information on Team Singapore at the 25th SEA Games, please visit Team Singapore
+5. For more information on Team Singapore at the 25th SEA Games, please visit Team Singapore
 
 ---
 
@@ -276,7 +200,7 @@ Mobile (SG): +65 9272 0112
 <br>
 Mobile (Laos): +856 20 3045055
 <br>
-Email: [hazwani_hasni@ssc.gov.sg](hazwani_hasni@ssc.gov.sg)
+Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 
  
 S. Parameswaran
@@ -287,7 +211,7 @@ Mobile (SG): +65 9839 1974
 <br>
 Mobile (Laos): +856 20 3045056
 <br>
-Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
+Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 Dominic Tay
 <br>
@@ -297,7 +221,7 @@ Mobile (SG): +65 8198 7460
 <br>
 Mobile (Laos): +856 20 3045054
 <br>
-Email: [dominic_tay@ssc.gov.sg](dominic_tay@ssc.gov.sg)
+Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
 
 ---
 
