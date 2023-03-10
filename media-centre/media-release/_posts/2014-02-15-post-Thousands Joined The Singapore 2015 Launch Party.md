@@ -58,7 +58,7 @@ _Caption: Nila the official mascot of the 28th SEA Games & 8th ASEAN Para Games 
 
 **For High-Resolution Photos:**
 
-[https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). 
+[High-Resolution Photos](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk). 
 Please credit photos to Singapore Sports Council.
 
 **Related Link:**
@@ -88,12 +88,10 @@ Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 **About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/), and [[www.Vision2030.sg](/about-us/vision-2030/)].<br> 
-Follow us on Facebook at: [https://www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) <br>
-For a range of photographs, visit [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)<br>
+To find out more, visit our websites [ssc.gov.sg](https://www.ssc.gov.sg/), [Vision2030.sg](http://www.vision2030.sg/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
 **About Singapore National Olympic Council (SNOC)**<br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [Singapore National Olympic Council](http://www.snoc.org.sg).
 
 Follow us on:<br>
 [28th SEA Games Website](http://www.seagames2015.com)<br>
