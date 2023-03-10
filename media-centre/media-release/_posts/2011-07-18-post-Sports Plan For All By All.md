@@ -60,19 +60,23 @@ Council Member, Singapore National Olympic Council
 
 | **No.** | **Name and Designation** |
 | -------- | -------- |
-| Text     | Mr Chan Chun Sing (Chairman)<br>Acting Minister, Ministry of Community Development, Youth and Sports |
-| Text     | Mr Teo Ser Luck (Deputy Chairman)<br> Minister of State, Ministry of Trade & Industry |
-| Text     | Ms Yeoh Chee Yan<br> Second Permanent Secretary, Ministry of Education |
-| Text     | Mr Ng Wai Choong
-
-Deputy Secretary (Policy) Ministry of Finance |
-| Text     |Mr Yam Ah Mee<br>
-
-Chief Executive Director, People's Association |
-| Text     |Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board |
-| Text     | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority |
-| Text     | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board |
-| Text     | Mr Richard Seow<br>Chairman, Singapore Sports Council |
-| Text     | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank |
+| 01     | Mr Chan Chun Sing (Chairman)<br>Acting Minister, Ministry of Community Development, Youth and Sports |
+| 02     | Mr Teo Ser Luck (Deputy Chairman)<br> Minister of State, Ministry of Trade & Industry |
+| 03     | Ms Yeoh Chee Yan<br> Second Permanent Secretary, Ministry of Education |
+| 04     | Mr Ng Wai Choong<br>Deputy Secretary (Policy) Ministry of Finance |
+| 05     | Mr Yam Ah Mee<br>Chief Executive Director, People's Association |
+| 06     | Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board |
+| 07     | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority |
+| 08    | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board |
+| 09     | Mr Richard Seow<br>Chairman, Singapore Sports Council |
+| 10    | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
