@@ -106,6 +106,20 @@ FAQs on this update can be found [here](/files/Support/Coaches'%20Corner/Contin
 **Table 2 - Examples of Coaching Practice and Coaching Education**
 
 
+
+| Coaching Practice Hours | Coaching Education | |
+| -------- | -------- | -------- |
+|    | Attendance     | Self-Guided     
+|Coaching an individual / team at any level|Attending SG-Coach Theory Levels 1 to 3 | * Watching coaching related videos |
+|Centralised Training for athletes|Attending SG-Coach Technical Levels 1 to 3| * Reading coaching related books, magazines and journal articles |
+|Mentoring other coaches|Attending Elite Performance Level courses | * Conversation with coaches related to coaching |
+|Understudying a senior coach | Attending CCE courses by SportSG, NSA <br>& other sporting organisation | |
+|Assisting a national or senior coach|Lecturing at coaching related courses, seminars or workshops to coaches| | 
+|Introducing new methods or<br>improving methods of coaching|Presentation of papers in sport conferences and seminars| |
+| | Contributing published articles in coaching journals, newsletter or other relevant publications | * Other educational activities not covered by attendance-based activities (check with CoachSG) |
+
+
+
 Those in are newly added activities while the rest are already printed in the NROC log book.
 
 **We may request for coaches to furnish information related to the course content and articulate its application to their coaching practice for us to evaluate its suitability as a CCE activity.** Before taking the course, we would strongly encourage coaches to** submit the course information to us, so that we would be able to advise whether the course can be considered as a CCE activity. **Please note that Standard First Aid (SFA), CPR and AED courses (including refresher courses) will NOT be awarded CCE hours as these are considered standard requirement for coaches.**
