@@ -19,6 +19,9 @@ Each workshop will cover: 
 * Experiential segment infusing GFL framework in designing training plans
 * Sharing and networking with teachers/coaches from other sports
 
+
+**Workshop for Sports Coaches & PE Teachers**
+
 ![Image2](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Workshop%20and%20Training/image2.jpeg)
 
 Register your interest for upcoming GFL Workshops! SportSG has partnered Republic Polytechnic for the conduct of the workshops. You will be directed to Republic Polytechnic's site for registration upon clicking the link here.
