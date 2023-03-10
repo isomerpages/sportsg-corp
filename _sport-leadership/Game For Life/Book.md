@@ -67,7 +67,7 @@ We believe that sport is not just about technical ability and skill, but rather,
 
 | Responsibility | Sportmanship | Teamwork |
 | -------- | -------- | -------- |
-|  Canagasabai Kunalan (Athletics)<br>Jing Junhong (Table Tennis)<br>Jovin Tan (Para Sailing)  | DP Tharman Shanmurgaratnam (Hockey)<br>Shamsul Maidin (Football)<br>Tao Yi Jun (Wushu) | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Jane Lee (Mountaineering)<br>Laurentia Tan (Para Equestrian)<br>Mathavan Devadas (Hockey)<br>Melanie Ann Martens (Hockey)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing)<br>Tao Yi Jun (Wushu) |
+|  [Canagasabai Kunalan (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Canagasabai_Kunalan.pdf)<br>[Jing Junhong (Table Tennis)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Jing_Junhong.pdf)<br>[Jovin Tan (Para Sailing)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Jovin_Tan.pdf)  | [DP Tharman Shanmurgaratnam (Hockey)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Tharman_Shanmugaratnam.pdf)<br>Shamsul Maidin (Football)<br>Tao Yi Jun (Wushu) | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Jane Lee (Mountaineering)<br>Laurentia Tan (Para Equestrian)<br>Mathavan Devadas (Hockey)<br>Melanie Ann Martens (Hockey)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing)<br>Tao Yi Jun (Wushu) |
 
 ---
 
