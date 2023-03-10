@@ -80,9 +80,12 @@ Cheerleading programmes should not incorporate the following activities and must
 
 All Sports Providers offering swimming programmes will require their instructors/coaches to be **SwimSafer** **Certified** in addition to meeting the requirements of having the minimum NCAP Theory Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid recognised first aid certification.
 
-**Instructor to Student Ratio at 1:10** Instructor to student ratio for all swimming programmes must be kept at 1:10, with the exception of programmes offered to Special Education schools, which will be at a lower ratio.  
+**Instructor to Student Ratio at 1:10** 
+
+Instructor to student ratio for all swimming programmes must be kept at 1:10, with the exception of programmes offered to Special Education schools, which will be at a lower ratio.  
   
 **SwimSafer Instructor Course**   
+
 Please note that it is a requirement for all swimming instructors to be registered with NROC before they can enrol in the SwimSafer Instructor Course. Places for this course will be allotted on a first-come-first-served basis.  
 For more information on the SwimSafer programme, please visit the [SwimSafer page](http://www.myactivesg.com/sports/swimming/how-to-play/did-you-know/what-is-the-swimsafer-programme). For registration of the SwimSafer Instructor Course, please call the SwimSafer Hotline 6500 5439 or email: [sport_swimsafer@sport.gov.sg](mailto:sport_swimsafer@sport.gov.sg)
 
