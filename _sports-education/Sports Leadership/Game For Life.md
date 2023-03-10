@@ -69,7 +69,7 @@ Please [contact us](mailto:hong_xue_en@sport.gov.sg) if you have any questions
 
 [Stories - Winning At Life](/sport-leadership/game-for-life/stories-winning-at-life/)
 
-[Stories - A Winning Mind](/sport-leadership/game-for-life/stories-the-winning-mind/)
+[Stories - A Winning Mind](/sport-leadership/game-for-life/stories-a-winning-mind/)
 
 [Stories - A Winning Edge](/sport-leadership/game-for-life/the-winning-edge/)
 
