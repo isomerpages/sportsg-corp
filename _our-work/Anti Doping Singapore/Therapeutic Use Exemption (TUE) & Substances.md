@@ -4,7 +4,6 @@ permalink: /our-work/anti-doping-singapore/therapeutic-use-exemption-tue-substan
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-
 #### **THERAPEUTIC USE EXEMPTION (TUE)**
 
 A Therapeutic Use Exemption (TUE) is necessary before an athlete uses a prescribed prohibited substance or method for the treatment of a legitimate medical condition.
@@ -94,8 +93,9 @@ Athletes should always check with their International Federation or Anti-Doping 
 
 **MEDICAL CONDITIONS**
 
-![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Substances/Prohibited%20List/check-drugs-banner.jpeg)
-Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine!
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| <img src="/images/What%20We%20Do/Anti%20Doping%20Singapore/Substances/Prohibited%20List/check-drugs-banner.jpeg" style="width: 500px;" />     | Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine!     | 
 
 Athletes who need to apply for a TUE should request more information about the TUE application process from their International Federation (for international-level athletes) or ADS (for national-level athletes).
 
