@@ -25,8 +25,8 @@ As a pioneer of disability sailing in Asia, Singapore is in a good position to o
 The establishment of the ADSF builds upon the first International Foundation of Disabled Sailing (IFDS) - Young Enabled Sailor (YES) Asia Sailing Conference that was held in November last year, the first regional conference for disabled sailing to be held in Asia that attracted over 70 delegates from 30 countries. A pro tem committee emerged from the conference to spearhead the creation of ASDF.
 
 ---
-
 **For media enquiries, please contact:**
+
 <br>
 Singapore Disability Sports Council
 <br>
@@ -69,10 +69,10 @@ HP : 9431 6141
 ---
 
 **About Sailability Singapore**<br>
-*Based in Changi Sailing Club, the Sailability Singapore programme was launched to introduce sailing to the disabled community in Singapore and realize their inclusion in sports and recreation. The programme was made possible by Singapore Disability Sports Council, with the support of Singapore Sports Council, Singapore Sailing Federation, Changi Sailing Club and the sponsorship of a few corporations, namely the Neptune Orient Line Group. It is Sailability Singapore's vision that one day, more and more people with disabilities can participate in sailing and excel in the sports at various regional and international regattas and championships.*
+Based in Changi Sailing Club, the Sailability Singapore programme was launched to introduce sailing to the disabled community in Singapore and realize their inclusion in sports and recreation. The programme was made possible by Singapore Disability Sports Council, with the support of Singapore Sports Council, Singapore Sailing Federation, Changi Sailing Club and the sponsorship of a few corporations, namely the Neptune Orient Line Group. It is Sailability Singapore's vision that one day, more and more people with disabilities can participate in sailing and excel in the sports at various regional and international regattas and championships.
 
 **About Singapore Disability Sports Council (SDSC)**<br>
-*SDSC aims to promote the well being of the disabled through sports. Its objectives include developing the physical and mental attributes, and honing the technical skills of players through participation at an international level; raising public awareness of disability sports; promoting volunteerism in Singapore and building community bonds; and building and enhancing national and international relations and friendships, paving the way for closer regional cooperation and solidarity.*
+SDSC aims to promote the well being of the disabled through sports. Its objectives include developing the physical and mental attributes, and honing the technical skills of players through participation at an international level; raising public awareness of disability sports; promoting volunteerism in Singapore and building community bonds; and building and enhancing national and international relations and friendships, paving the way for closer regional cooperation and solidarity.
 
 **About Singapore Sports Council**<br>
-*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.*
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
