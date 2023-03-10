@@ -56,7 +56,7 @@ The Sports Challenge Shields are awarded to recognise the top 3 Clusters for the
 Points will be awarded based on 2 components - Excellence and Participation:
 
 **(a) Excellence**<br>
-* Constitutes 70% of the total points
+`*`Constitutes 70% of the total points
 
 Clusters in the top eight positions of every sports competition event will be given points.
 
@@ -65,7 +65,7 @@ For team events, the points will be multiplied by the number of athletes partici
 For special Athletics and Swimming relay events known as the All CARE (Channels, Age, Race, Estate) relays, points will be doubled to reward the Clusters for fielding a mixed team comprising different gender, age groups and races.
 
 **(b) Participation**<br>
-* Constitutes 30% of the total points
+`*`Constitutes 30% of the total points
 
 Each Cluster will be awarded points based on the total number of sports participants registered during the Community Games and Singapore National Games. This is to encourage and recognise the contribution of every athlete from each Cluster.
 
@@ -74,7 +74,8 @@ The top 3 Clusters with the highest points accumulated from the Excellence and P
 **Community Challenge Shield**<br>
 The Community Challenge Shield is an Overall Award accorded to recognise the Cluster for their best engagement outcomes/efforts to engage and bond their residents in the Community Games (CG) and Singapore National Games (SNG).
 
-The Overall Award comprises four categories, they are as follows:-
+The Overall Award comprises four categories, they are as follows:
+
 (a) **Best Decorated Cluster** - Clusters which have done well in decorating their competition venues i.e. Community Clubs;
 
 (b) **Best Cheerleading Cluster** - Clusters which have done well in organising cheerleading groups to enliven the Games;
@@ -101,20 +102,17 @@ Points will be awarded to the top eight positions in every event (individual and
 
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0048Imagegif.gif)
 
- 
 Notes:
 * If there is no 3rd position play-off, losing semi-finalists will be awarded seven points each
 * If quarter-finals are to be played, losing quarter-finalists will be awarded five points each
 
 The following table shows the sports events that would constitute to individual and team points.
 
-
 2.2 Points System for Participation Component (30%)
 Each cluster will be awarded points based on the total number of participants registered during the Community Games and Singapore National Games 2012 for each sport. The total points scored will constitute to 30% of the total score for each sport. The table below shows how the points will be computed.
 
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0053Imagegif.gif)
 
- 
 Notes: In the event of a tie, teams will be awarded the higher of the position points. E.g. If three teams are tied for 3rd position, all three teams will be awarded 900 points.
 
 **Annex C: Fact Sheet on SNG**
@@ -131,16 +129,16 @@ Participation was opened to Singapore Citizens as well as non-Citizens, includin
 
 Earlier this year, close to 10,000 residents took part in the annual Community Games, which served as the qualifying round for seven out of the 10 participating sports for the SNG in the years when it is held. More than 300 teams made up of Singaporeans, permanent residents and expatriates who reside in Singapore had qualified to compete in the Games. From 1 to 9 September, we saw more than 5,000 community athletes competing in the SNG.
 
-For full information (full listings, venues and dates) on the Singapore National Games and the final medal tally for all the clusters, please visit SNG official site [www.singaporenationalgames.sg](www.singaporenationalgames.sg)
+For full information (full listings, venues and dates) on the Singapore National Games and the final medal tally for all the clusters, please visit SNG official site [nsg.moe.edu.sg](nsg.moe.edu.sg).
 
 **Annex D: Fact Sheet on Clusters and Teams**
 
 The Singapore National Games saw more than 5,000 community athletes from 15 clusters competing across 10 sports from 1 to 9 September 2012. Each cluster was led by the respective Head of Delegation.
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0059Imagegif.gif)
 
-
+---
 **For media enquiries, please contact:**
-
+<br>
 U-Lynn LEE
 <br>Fulford Public Relations 
 <br>Email: [ullee@fulfordpr.com](mailto:ullee@fulfordpr.com)
@@ -153,26 +151,26 @@ Adlina JAFFAR
 <br>People's Association
 <br>Email: [adlina_jaffar@pa.gov.sg](mailto:adlina_jaffar@pa.gov.sg)
 
-##### **About the Singapore Sports Council**
-
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and www.SingaporeSports.sg
-<br>
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg
-<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-##### **About People's Association**
-
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.OurCommunity.sg](www.OurCommunity.sg).
+**About People's Association**
+<br>
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.mycommunity.org.sg](www.mycommunity.org.sg).
 
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0042Imagegif.gif)
 
-Signing up for your favourite courses just got easier. Simply log on to [www.OurCommunity.sg](www.OurCommunity.sg) on your smartphone!
+Signing up for your favourite courses just got easier. Simply log on to [www.mycommunity.org.sg](www.mycommunity.org.sg) on your smartphone!
 
-##### **About Community Games**
+**About Community Games**
+[www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs](https://www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs)<br>
 The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.facebook.com/communitysportsclub](www.facebook.com/communitysportsclub)
 
-##### **About the Community Sports Clubs**
+**About the Community Sports Clubs**
+<br>
 The Community Sports Clubs (CSCs) are part of the PA network of grassroots organisations. There are 87 constituencies in Singapore and there is a CSC in each constituency. The 87 CSCs are managed by volunteers who work with the PA to organise sports activities to facilitate the residents' participation and involvement as to build an active, vibrant and socially connected community where residents are bonded and communities are connected through community sports.
