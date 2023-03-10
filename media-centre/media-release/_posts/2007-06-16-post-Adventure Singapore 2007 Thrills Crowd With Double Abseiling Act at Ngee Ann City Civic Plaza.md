@@ -30,7 +30,7 @@ Mr. Oon Jin Teik, Chief Executive Officer, Singapore Sports Council says, " Xtre
 Ix Shen, Goodwill Ambassador for Adventure Singapore 2007 continues, " As a young boy, I used to skateboard and now as an adult, I enjoy a variety of adventure sports. It is heartening to see the growth of extreme and adventure sports, as enthusiasts like me, now have a growing community of like-minded people to share the passion of the sport. Both Adventure and Xtreme Singapore will inspire more people to take up extreme and adventure sports for a more exciting lifestyle. This is really an exciting time not only for me but for all extreme and adventure sports lovers out there! "
 
 
-##### **Results from Adventure Singapore 2007**
+**Results from Adventure Singapore 2007**
 
 **ADVENTURE RACE**<br>
 Open Team
@@ -109,6 +109,7 @@ DJ Ritz
 
 **For media enquiries, please contact:**
 <br>
+
 Jenny Kwok
 <br>
 Senior Executive (Group Communications)
