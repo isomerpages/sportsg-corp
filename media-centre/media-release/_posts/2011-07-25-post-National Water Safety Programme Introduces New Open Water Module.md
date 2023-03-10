@@ -22,7 +22,7 @@ image: ""
 
 7. To date, more than 50,000 participants have benefitted from the SwimSafer programme since it was rolled out in July 2010, with 170 out of 178 primary schools taking part this year.
 
-##### **SwimSafer Instructor Development Programme**
+**SwimSafer Instructor Development Programme**
 
 8. NWSC and SSC have also introduced the SwimSafer Instructor Development Programme to further improve the quality of the SwimSafer programme and its instructors. More than 600 SwimSafer instructors will undergo periodic re-certification courses and water safety workshops to reacquaint themselves with the principles of SwimSafer, and to review the programme's existing concepts and skills. The courses and workshops also serve as platforms for instructors to share best practices and techniques in instruction.
 
@@ -30,13 +30,13 @@ image: ""
 
 10. "The SwimSafer re-certification course offers a useful recap of the concepts and skills of the SwimSafer programme for instructors like me. It also provides me a great opportunity to explore with other fellow instructors new ways of teaching our students about water safety," said Mr Garett Lee, a SwimSafer instructor with 15 years of coaching experience.
 
-11. For more information on SwimSafer, the public can visit www.singaporesports.sg/swimsafer or contact the SSC SwimSafer Division via email at ssc_swimsafer@ssc.gov.sg.
+11. For more information on SwimSafer, the public can visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme) or contact the SSC SwimSafer Division via email at [sport_swimsafer@sport.gov.sg](sport_swimsafer@sport.gov.sg).
 
 [1] Based on statistics from the Singapore Life Saving Society's Annual Reports (from 2006 to 2010) for cases heard in the Coroner's Court
 
 ---
 
-###### Annex A - Six Progressive Stages of the SwimSafer Programme
+**Annex A - Six Progressive Stages of the SwimSafer Programme**
 
 **Stage 1: Introduction to Water Skills**<br>
 The objective is for your child to gain confidence and develop independence in the water, as well as learn general and deep-end water safety. Techniques taught include forward and backward movement, entering and exiting the pool safely, and introduction to personal water survival skills.
@@ -56,7 +56,7 @@ Fundamental of diving will be introduced. Development of rescue skills and perso
 **Gold: Advanced Personal Water Survival and Swimming Skills Proficiency**<br>
 Your child will be required to perform strokes with greater ease, efficiency, power and smoothness over 400 metres. Rescue skills and water safety knowledge will focus on lifesaving readiness. Standing dive and advanced personal water survival skills will continue to be taught.
 
-###### Annex B - Curriculum Outline of SwimSafer Open Water Module
+**Annex B - Curriculum Outline of SwimSafer Open Water Module**
 
 **Entry and Exit**<br>
 Performing wade-in entry
@@ -83,8 +83,7 @@ Answering theoretical questions on the open water environment, marine animals, a
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**<br>
 Derrick Chee<br>
 Secretariat, National Water Safety Council<br>
 Ministry of Community Development, Youth and Sports<br>
@@ -99,21 +98,20 @@ Email: jemuel_fu@ssc.gov.sg
 
 ---
 
-###### About SwimSafer
-SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit www.singaporesports.sg/SwimSafer.
+**About SwimSafer**<br>
+SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme).
 
 Have Fun, Swim Safe.
 
-###### About the National Water Safety Council, Singapore
+**About the National Water Safety Council, Singapore**<br>
 The National Water Safety Council, Singapore (NWSC) was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council recently launched the Code of Practice for the Design and Management of Aquatic Facilities with the Building and Construction Authority (BCA) to promote safe water facilities for the public.
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg.
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com.
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
