@@ -24,7 +24,8 @@ image: ""
 4. Opening the Games season is the inaugural Special Olympics Asia Pacific Games, which will take place in Newcastle, Australia from 1 to 7 December. Singapore will be fielding a contingent of 19 athletes to compete in 5 sports, led by Chef De Mission (CDM) Ms Linda Prebhash.
 
 5. Commenting on the growing sports movement, Ms Prebhash said: "This year marks a milestone for our Special Olympics athletes who will embark on the first ever Special Olympics 2013 Asia Pacific Games, which aims to transform the lives of people with intellectual disabilities. In a true testament that sport embraces all abilities, this is an excellent platform for our athletes to share their love for sports, celebrate their skills and abilities, build their self-confidence and develop social skills. I am glad that there are now more opportunities for Special Olympics athletes from the region to interact with each other at the sporting level. This unified flag presentation ceremony also fosters inclusion amongst our athletes, and gives them an opportunity to get to know other Team Singapore athletes and be inspired. We are very proud of them and wish them all the very best!"
-27th SEA Games and 7th ASEAN Para Games
+
+**27th SEA Games and 7th ASEAN Para Games**
 
 6. Next in the line-up is the 27th SEA Games, held in Naypyidaw, Myanmar from 11 to 22 December. Some 310 athletes will represent Singapore in 25 sports at the Games, led by CDM Ms Annabel Pennefather. In this edition, the equestrian and hockey teams are making a comeback after their absence at two consecutive SEA Games.
 
@@ -33,7 +34,8 @@ image: ""
 8. Closing the Games season is the 7th ASEAN Para Games, also held in Naypyidaw, Myanmar from 11 to 21 January 2014. Set to continue the international and regional success seen at the various Para Games thus far, Singapore will be sending a team of 60 athletes across 6 sports, headed by CDM Mr Justinian Chua. They include seasoned athletes like swimmer Yip Pin Xiu, and the football team that will be competing for the very first time in the ASEAN Para Games.
 
 9. CDM Mr Chua said: "The athletes have proven their mettle at previous Games, even at a global level. We look forward to them building on their good performance thus far, with the encouragement and support of all Singaporeans."
-Together We Are Stronger
+
+**Together We Are Stronger**
 
 10. In the spirit of "Together We Are Stronger" - an ongoing nationwide campaign to call on Singaporeans to come together as one Team Singapore to support our national athletes - the Guests-of-Honour, Team Singapore contingents and guests also came together to put in a collective photo pledge.
 
