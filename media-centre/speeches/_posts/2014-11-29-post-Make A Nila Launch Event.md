@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Make A Nila Launch Event**
+
 Mr Sam Tan, Minister of State, Prime Minister's Office & Ministry of Culture, Community and Youth,
 
 Mr Tan Kian Chew, Group Chief Executive Officer (NTUC FairPrice),
@@ -33,5 +35,3 @@ Good afternoon to all of you, and a warm welcome to the official launch of the M
 8. Today as you enjoy the launch festivities and try your hand at making a NILA, I hope that each and every one of you will have an extraordinary experience to take away, and know that your efforts will be part of the medal winning experience for the 28th SEA Games.
 
 9. Thank you.
-
--END-
