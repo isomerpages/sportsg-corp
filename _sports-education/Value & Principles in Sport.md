@@ -15,9 +15,9 @@ The VPS workshop includes the following modules:
 
 *   **Coaching philosophy** – Encourages coaches to regularly review their coaching philosophy and update it, if necessary.
 
-*   **Philosophy and values** – Intentional design using the ['Game for Life (GFL)' framework](https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Game-For-Life): discusses the performance, social and moral values defined by the framework, suitable development platforms to utilise the framework and actions required by the coach (Check-Act-Reinforce).
+*   **Philosophy and values** – Intentional design using the ['Game for Life (GFL)' framework](/sports-education/sports-leadership/game-for-life/e): discusses the performance, social and moral values defined by the framework, suitable development platforms to utilise the framework and actions required by the coach (Check-Act-Reinforce).
 
-*   **Organisational values for coaches** – Elaborates on strategic outcomes of [Vision 2030](/about-us/vision-2030), [National Registry of Coaches’ (NROC) Code of Ethics](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/Code-of-Ethics), [National Standards for Youth Sports (NSYS)](/sports-education/national-standards-for-youth-sports/) and [Ministry of Education’s (MOE) 21st Century Competencies Framework and Student Outcomes](https://www.moe.gov.sg/education/education-system/21st-century-competencies).
+*   **Organisational values for coaches** – Elaborates on strategic outcomes of [Vision 2030](/about-us/vision-2030), [National Registry of Coaches’ (NROC) Code of Ethics](/support-resources/coaches-corner/coachs-code-of-ethics/), [National Standards for Youth Sports (NSYS)](/sports-education/national-standards-for-youth-sports/) and [Ministry of Education’s (MOE) 21st Century Competencies Framework and Student Outcomes](https://www.moe.gov.sg/education/education-system/21st-century-competencies).
 
 *   **Doping and positive front of sports** – Promotes understanding on doping, rationale for fighting doping, and health consequences of doping; introduces World Anti-Doping Code and Prohibited List; explains the role of a coach in anti-doping, how athletes can become vulnerable to doping and a decision-making framework for coaches when confronted with a possible scenario that may implicate doping.
 
@@ -48,6 +48,6 @@ OR 
 
 2. Notify CoachSG of your SportSync ID once you have registered and activated your SportSG-ED account for e-learning to be assigned
 
-3.       Complete VPS E-Learning topics and Coaching Philosophy Reflection via SportSG-ED  
+3. Complete VPS E-Learning topics and Coaching Philosophy Reflection via SportSG-ED  
 
 Both VPS E-learning Certificate of Completion and Coaching Philosophy Reflection document must be submitted for CoachSG’s review and approval via [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg). A S$20.00 (including GST) fee will be charged for the processing of VPS accreditation certificates, which includes a SportSG-ED user licence fee.
