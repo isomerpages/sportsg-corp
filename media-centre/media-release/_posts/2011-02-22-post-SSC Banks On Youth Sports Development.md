@@ -23,7 +23,7 @@ image: ""
 
 6. Indirect grants to NSAs include the Olympic Pathway Programme and Singapore Youth Sports Development funding, Sports Medicine and Sports Science support and subsidies for sports facilities, among others.
 
-##### **Continued Investment in Team Sports**
+**Continued Investment in Team Sports**
 
 7. The ANGE FY 2011 allocation also saw the SSC continue their investment in Team Sports. About $8.32 million, up from $8.11 million in FY 2010, will be allocated towards Team Sports.
 
@@ -31,7 +31,7 @@ image: ""
 
 9. Football and Water Polo will see an increase in funding this year. The funding to the Football Association of Singapore is for development programmes for the men's under-16, 17 and 18 teams to help them prepare for the 2013 and 2015 SEA Games. The boost in funding for Water Polo is to assist the men's and women's teams' preparations for the 26th SEA Games 2011. This will be the first time that Singapore is expected to send a women's team to participate in Water Polo to the SEA Games, which will be held in Jakarta and Palembang from 11 to 25 November this year.
 
-##### **Improved Multi-Year Sports Plans**
+**Improved Multi-Year Sports Plans**
 
 10. NSAs are becoming increasingly aware of the importance of setting long-term goals to achieve continued success at the podium. The SSC has seen an improvement in the quality of the Multi-Year Sports Plans (MYSPs) submitted by the NSAs. As a result of this, 21 NSAs are being given in-principle three-year funding approval. This is a significant increase from the nine NSAs last year.
 
@@ -41,7 +41,7 @@ image: ""
 
 13. "The global sports arena is becoming increasingly competitive as more countries are using sports to help their people live better lives. Our NSAs must have a long-term vision for their sports. If we want Singapore to remain competitive at the international stage, we must have robust systems in place to keep developing new generations of athletes," said Mr Seow.
 
-##### **New Shared Services for NSAs**
+**New Shared Services for NSAs**
 
 14. The SSC will be introducing two new shared services - Travel Management and Public Relations and Media Relations - to further raise the professionalism of the NSAs. Moreover, by relieving the NSAs of generic administrative functions, they can focus more on sports development. The Travel Management shared service will be made available to interested NSAs with charity status, by the second half of FY 2011. NSAs will also be able to tap on shared services for Public and Media Relations, a service which many NSAs have requested for over the last two financial years.
 
@@ -49,31 +49,28 @@ image: ""
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Public & Media Relations
 <br>Singapore Sports Council
 <br>DID: 6500 5241
-<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
+<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
     
 Jose Raymond
 <br>Deputy Director
 <br>Media Relations & Social Media
 <br>Singapore Sports Council
 <br>DID: 6500 5289
-<br>Email:[ jose_raymond@ssc.gov.sg]( jose_raymond@ssc.gov.sg)
+<br>Email:[jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
