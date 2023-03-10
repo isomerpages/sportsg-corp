@@ -48,7 +48,6 @@ The Singapore Southeast Asian Games Organising Committee (SINGSOC) announced tod
 
 **For media enquiries, please contact:**
 <br>
-
 Rachel Ang<br>
 Senior Executive, Media Relations<br>
 Tel: +65 6500 5246<br>
