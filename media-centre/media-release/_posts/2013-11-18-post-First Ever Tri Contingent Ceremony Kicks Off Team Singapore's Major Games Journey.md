@@ -55,7 +55,7 @@ ANNEX A: Games Fact Sheet
 **For media enquiries, please contact:**
 <br>
 **On Team Singapore and the 27th SEA Games:**
-
+<br>
 Adrienne Ser
 <br>GolinHarris
 <br>Tel: +65 6551 5433
