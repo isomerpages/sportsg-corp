@@ -59,7 +59,7 @@ We believe that sport is not just about technical ability and skill, but rather,
 
 | Humility | Leadership | Loyalty |
 | -------- | -------- | -------- |
-| [Canagasabai Kunalan (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Canagasabai_Kunalan.pdf)<br>Dr Benedict Tan (Sailing)<br>Lim Heem Wei (Gymnastics)<Br>Shamsul Maidin (Football)<br>Tan Wearn Haw (Sailing)   | Alan Koh Swee Wan (Athletics)<br>Associate Prof. Aymeric Lim (Tennis)<br>DPM Tharman Shanmurgaratnam (Hockey)<br>Jane Lee (Mountaineering)<br>Melanie Ann Martens (Hockey)<br>Richard Tan (Motor Sports)<br>Shamsul Maidin (Football) | Kadir Yahaya (Football)<br>Subhas Anandan (Cuesports) |
+| [Canagasabai Kunalan (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Canagasabai_Kunalan.pdf)<br>Dr Benedict Tan (Sailing)<br>[Lim Heem Wei (Gymnastics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Lim_Heem_Wei.pdf)<br>[Shamsul Maidin (Football)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Shamsul_Maidin.pdf)<br>[Tan Wearn Haw (Sailing)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Tan_Wearn_How.pdf)   | [Alan Koh Swee Wan (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Alan_Koh_Swee_Wan.pdf)<br>[Associate Prof. Aymeric Lim (Tennis)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Assoc_Prof_Aymeric_Lim.pdf)<br>[DPM Tharman Shanmurgaratnam (Hockey)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Tharman_Shanmugaratnam.pdf)<br>Jane Lee (Mountaineering)<br>Melanie Ann Martens (Hockey)<br>Richard Tan (Motor Sports)<br>Shamsul Maidin (Football) | Kadir Yahaya (Football)<br>Subhas Anandan (Cuesports) |
 
 | Perseverance | Resilience | Respect |
 | -------- | -------- | -------- |
