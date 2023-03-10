@@ -12,3 +12,7 @@ Then came the influx of immigrants from China, India and other parts of the worl
 
 All of the various clubs played a major role in promoting sports in Singapore in the early days.
 
+
+| -------- | -------- | 
+| ![](/images/Sport%20Education/History%20of%20Singapore%20Sports/colonial.jpeg)     | **SPORTS IN COLONIAL TIMES**<br>Sports in Singapore can be traced back to the 19th Century, during the colonial period when the Colonials turned to sport to make bearable the long wait for news from the United Kingdom.<br>[Read more](/sports-education/history-of-sportsg/sports-in-colonial-times/)     | 
+
