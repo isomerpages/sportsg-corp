@@ -109,8 +109,8 @@ To find out more, visit our websites [www.ssc.gov.sg,](www.ssc.gov.sg,) [www.Vis
 <br>
 Follow us on Facebook and Flickr at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports) and [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
-###### **About Singapore Disability Sports Council**
+**About Singapore Disability Sports Council**<br>
 SDSC is the only organisation in Singapore that caters to sports for persons across all kinds of disabilities. It aims to help persons with disability lead full and independent lives through sports. Besides providing sporting opportunities for them to realise their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. Find out more at [www.sdsc.org.sg](www.sdsc.org.sg)
 
-##### **About the Singapore National Olympic Council**
+**About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
