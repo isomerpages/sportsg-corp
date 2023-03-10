@@ -23,13 +23,12 @@ image: ""
 
 7. "It's wonderful to see the camaraderie between like-minded motorsport enthusiasts that continues well after each race. Over the past two races, the race officials have had the opportunity to learn from the very best and have benefited from their experience at the most prestigious motorsport event there is. This year will be no different, and with new rules, new teams and the return of Formula One legends, the 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX will definitely be an experience unlike any other," said Mr. Colin Syn, Deputy Chairman of Singapore GP Pte Ltd.
 
-8. For more information on volunteering for the 2010 Singapore Grand Prix, please refer to http://raceofficials.singaporegp.sg.
+8. For more information on volunteering for the 2010 Singapore Grand Prix, please refer to [https://raceofficials.singaporegp.sg](https://raceofficials.singaporegp.sg/).
 
 ---
 
 **For media enquiries, please contact:**
 <br>
-
 Hazwani Hasni
 <br>
 Singapore Sports Council
@@ -41,7 +40,7 @@ Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 ---
 
 **About Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) for more information.
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) for more information.
 
 **About Singapore GP Pte Ltd**<br>
 Singapore GP Pte Ltd is the race promoter for the Singapore Grand Prix. It holds five-year renewable rights to stage the Singapore Grand Prix, beginning with the 2008 Season. The company is a partnership between Komoco Motors and regional events company Lushington Entertainments, via its parent company Reef Enterprises.
