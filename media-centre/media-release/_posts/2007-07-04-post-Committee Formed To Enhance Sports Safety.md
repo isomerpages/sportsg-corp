@@ -27,6 +27,7 @@ The Committee will put up its report to SSC in August 2007.
 
 **For media enquiries, please contact:**
 <br>
+
 Gayle Wong
 <br>
 Assistant Director (Marketing Communications)
