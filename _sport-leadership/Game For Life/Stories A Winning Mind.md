@@ -8,7 +8,6 @@ third_nav_title: Game For Life
 Singapore , 22 Sep 2015
 
 ![Rowing Saiyidah](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Stories/Rowing__Saiyidah.jpeg)
-
 Ever since Team Singapore rower Saiyidah Aisyah, won Singapore’s first ever individual Gold medal at the 2013 Southeast Asian Games women’s lightweight single sculls 2,000m event she has become the subject of lots of attention. Looking pretty in neon pink and with a silver Olympic rings pendant adorning her tanned neck, she was prepared for a photoshoot after this interview.
 
 Perhaps rowing was a sport or an extra-curricular activity for Aisyah a decade ago. But after winning three bronzes in the 2009 SEA Games, Aisyah realised that she wanted to do more. Setting her sights on a Gold medal in the 2013 SEA Games she made several unprecedented moves - . she took no-pay leave for three months before SEA Games so that she could concentrate full-time on training, booked a ticket to train overseas under Alan Bennett in Australia and more importantly, made a shift in her attitude. 
