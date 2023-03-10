@@ -21,7 +21,10 @@ The Game For Life Toolkit provides training, education and coaching to professio
 * All who subscribe to sport as a platform for character and leadership development
 
 **Effectiveness of Game For Life Toolkit**
+
 To determine whether the Game For Life Toolkit was effective in values inculcation, Sport Singapore conducted an impact analysis that employed a combination of a treatment-control and pre-post research design over a school term of approximately 10 weeks.
+
+[Download this report to find out more.](/files/Sport%20Education/Sports%20Leadership/Game%20for%20Life/Framework_Impact_Analysis_Report.pdf)
 
 #### **Accolades**
 * Game For Life was recognized as one of the **Most Innovative Project / Policy Award** at the Public Service PS21 ExCEL Awards 2014, and received the Gold Award for the Most Innovative Project at the Ministry of Culture, Community and Youth PS21 ExCEL Awards 2014.
