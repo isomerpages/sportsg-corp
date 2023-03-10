@@ -59,13 +59,10 @@ Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.sportsingapore.gov.sg
-
-Join SSC on Twitter at: www.twitter.com/singaporesports
-
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Nestle Singapore**<br>
 NESTLE Singapore (Pte) Ltd, established in 1912, is a wholly owned subsidiary of NESTLE SA, the world's largest food company. Headquartered in Vevey, Switzerland, NESTLE employs over 283,000 people in factories and operating offices in almost every country around the world. Nestle aims to be the leading Nutrition, Health and Wellness Company in Singapore. NESTLE's range of products in Singapore include MILO, NESCAFE, MAGGI, YANG SHENG LE, NESCAFE, MILO, NESPRAY, NESTLE OMEGA PLUS, MOVENPICK of Switzerland, KIT KAT, PURINA, FRISKIES and dozens of other trusted brands that are household names and market leaders in their product categories.
