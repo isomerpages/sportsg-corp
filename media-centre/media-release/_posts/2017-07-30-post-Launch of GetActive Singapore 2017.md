@@ -36,9 +36,9 @@ Members of the public can also look out for Sports Festivals in their neighbourh
 
 
 * The Padang (29 July to 8 Aug)
-* Launch of GASG on 30 July
+<br>- Launch of GASG on 30 July
 * Singapore Sports Hub (5,6 Aug)
-* Finale of GASG on 8 Aug
+<br>- Finale of GASG on 8 Aug
 * Sentosa Island (29 - 30 July & 5 -6 Aug)
 * Our Tampines Hub, (29 -30 July)
 * Field next to Punggol MRT (29 – 30 July)
