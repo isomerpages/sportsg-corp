@@ -63,7 +63,7 @@ The Singapore Sports Council aims to transform the nation through sport, by insp
 To find out more, visit our websites [ssc.gov.sg](https://www.ssc.gov.sg/), [Vision2030.sg](http://www.vision2030.sg/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
 **About the Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that is responsible for the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](http://www.snoc.org.sg/)
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that is responsible for the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [Singapore National Olympic Council](http://www.snoc.org.sg/)
 
 **About Team Singapore**<br>
 Originally mooted by the then Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by the then Deputy Prime Minister Dr Tony Tan. Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions.
@@ -72,5 +72,5 @@ Pride, Performance and Perseverance are the three attributes of Team Singapore. 
 
 Team Singapore inspires our nation’s athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information on Team Singapore, please visit [www.teamsingapore.com.sg](http://www.teamsingapore.com.sg/) and [www.ourteamsg.com](http://www.ourteamsg.com/) <br>
-Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.
+For further information on Team Singapore, please visit [Team Singapore](http://www.teamsingapore.com.sg/) and [www.ourteamsg.com](http://www.ourteamsg.com/) <br>
+Follow Team Singapore's action on Facebook at [facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.
