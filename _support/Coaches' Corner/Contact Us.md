@@ -4,7 +4,9 @@ permalink: /support-resources/coaches-corner/contact-us/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-#### **CoachSG  Singapore Sport Institute Sport Singapore**
+#### **CoachSG  Singapore Sport Institute**
+
+##### **Sport Singapore**
 
 * Facebook: [https://www.facebook.com/CoachSG1/](https://www.facebook.com/CoachSG1/)
 * Instagram: [https://www.instagram.com/coachsgofficial/](https://www.instagram.com/coachsgofficial/)
