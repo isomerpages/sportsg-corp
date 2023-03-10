@@ -98,6 +98,7 @@ FAQs on this update can be found [here](/files/Support/Coaches'%20Corner/Contin
 
 | NROC Level | Min. Coaching Practice Hours | Min. Coaching Education Hours | |
 | -------- | -------- | -------- |-------- |
+| | | Attendance CCE Hours | Self-Guided CCE Hours |
 |Level 1 (Coach) | 15 | 12 | Not more than 3 | 
 |Level 2 (Senior Coach) | 36 | 12 | Not more than 12 | 
 |Level 3 (Master Coach) | 70 | 12 | Not more than 18 | 
