@@ -26,41 +26,38 @@ image: ""
 
 9. A/P Lim loves the sport of Judo and has participated in numerous national competitions. He was a member of the Singapore Combined School Team that competed in Bangkok in 1982. He was a member of the Singapore Judo Federation between 1994 and 1997 and was instrumental in setting up the Jujitsu Association of Singapore in 2000. A/P Lim has been lecturing at the SSC's National Coaching Accreditation Programme since 1991 and he taught at the Fitness Instructor Course from 1995-1999.
 
-10. A/P Lim is an Adjunct Associate Professor at the Yong Loo Lin School of Medicine, NUS, where he teaches Exercise Physiology and he will also be lecturing on Exercise Biology at the School of Biological Sciences in NTU. A/P Lim collaborates actively in research with colleagues from A&ast;STAR, NUS and NUHS, and with overseas partners, such as the Australian Institute of Sport. A/P Lim is a member of the MCYS's Olympic Pathway Programme's sub-committee for Sports Medicine and Science. A/P Lim is married with three children.
+10. A/P Lim is an Adjunct Associate Professor at the Yong Loo Lin School of Medicine, NUS, where he teaches Exercise Physiology and he will also be lecturing on Exercise Biology at the School of Biological Sciences in NTU. A/P Lim collaborates actively in research with colleagues from A`*`STAR, NUS and NUHS, and with overseas partners, such as the Australian Institute of Sport. A/P Lim is a member of the MCYS's Olympic Pathway Programme's sub-committee for Sports Medicine and Science. A/P Lim is married with three children.
 
 ---
 
-###### Annex A: Picture of Associate Professor Fabian Lim Chin Leong
+**Annex A: Picture of Associate Professor Fabian Lim Chin Leong**
 
 ![Associate Professor Fabian Lim Chin Leong.JPG [211 Kb]](/images/Media%20Centre/Media%20Release/2011/Apr/Associate%20Professor%20Fabian%20Lim%20Chin%20LeongJPG.jpeg)
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 S. Parameswaran (Parames)
 <br>Senior Manager
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5236
-<br>Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
+<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 Alvin Hang
 <br>Director
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5164
-<br>Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
+<br>Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
-
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
