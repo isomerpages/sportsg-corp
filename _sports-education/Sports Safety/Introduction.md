@@ -39,3 +39,9 @@ The Sports S.A.F.E U Guide is a comprehensive guide for active individuals. It i
 Sport Singapore encourages appropriate safety and personal health measures so as to ensure a fun, invigorating and safe sporting experience. Here are some good practices for everyone to observe
 <br>
 [Read more](/sports-education/sports-safety/sports-safety-health-check/)
+
+**POOL WATER QUALITY**
+<br>
+To ensure public safety, Sport Singapore has put the following mandates in place for all public swimming pools.
+<br>
+[Read more](/sports-education/sports-safety/pool-water-quality/)
