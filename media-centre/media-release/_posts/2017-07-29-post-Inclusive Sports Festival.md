@@ -30,11 +30,11 @@ Find out more about GetActive! Singapore 2017 at [GetActive! Singapore](http://w
 
 **Media Factsheet on the Sports Facilities at Our Tampines Hub (OTH)**<br>
 
-1\. To enhance sporting access, a network of community nodes and innovative sporting spaces are being developed under the Sports Facilities Master Plan (SFMP) to cater to sporting needs at national, regional, town and neighbourhood levels. The majority of Singaporeans will have access to sports and recreational facilities within a 10-minute walk from their homes.
+1. To enhance sporting access, a network of community nodes and innovative sporting spaces are being developed under the Sports Facilities Master Plan (SFMP) to cater to sporting needs at national, regional, town and neighbourhood levels. The majority of Singaporeans will have access to sports and recreational facilities within a 10-minute walk from their homes.
 
-2\. The OTH is the first of our five Regional Sports Centres (RSC) to be ready under the SFMP. In general, RSCs are able to support a wider range of programmes and events, as well as provide a better spectator experience. This is because of RSCs tend to be bigger than existing Sports Centres, with higher quality facilities suitable for national and regional competitions.
+2. The OTH is the first of our five Regional Sports Centres (RSC) to be ready under the SFMP. In general, RSCs are able to support a wider range of programmes and events, as well as provide a better spectator experience. This is because of RSCs tend to be bigger than existing Sports Centres, with higher quality facilities suitable for national and regional competitions.
 
-3\. Given their close proximity to town centres, public transportation nodes and residential communities, RSCs serve sporting needs at multiple levels: i) residents living in close proximity; ii) residents who live beyond the town; and iii) national and club athletes, as well as sports enthusiasts from across Singapore.
+3. Given their close proximity to town centres, public transportation nodes and residential communities, RSCs serve sporting needs at multiple levels: i) residents living in close proximity; ii) residents who live beyond the town; and iii) national and club athletes, as well as sports enthusiasts from across Singapore.
 
 The public sports facilities housed at OTH are listed below:
 
