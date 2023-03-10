@@ -17,7 +17,7 @@ image: ""
 
 3. Kosgei emerged top of the leaderboard with a time of 2:36:42.39, almost one minute ahead of Roman Gebregessesse who finished with a time of 2:37:30.74. Magadelene Mukunzi completed the top three with a time of 2:38:06.50. Kosgei went home with the prize money of US$50,000 (approximately S$66,500). Kosgei said, "At the 35km I took the leap all through, in the sense that I did the same thing last year. As I am familiar with the course, I knew which routes were hard to run, and which were easy. All in all, I am very happy with myself."
 
-Local Runners Retained Their Titles
+**Local Runners Retained Their Titles**
 
 4.  Mok was crowned the Local Men's Champion again, crossing the line in a time of 2:46:01.24. Ang Chee Yong and Paul Soon Suan Boon came in with a time of 2:49:06.24 and 2:49:37.32 respectively. "I feel very happy as I defended my title and I was injured for the past four months. My fans were helping me along the way, telling me where my competitors were and I adjusted my pace along the way. I'm very happy as my main aim to run is to convince others to start a healthy lifestyle," said Mok.
 
