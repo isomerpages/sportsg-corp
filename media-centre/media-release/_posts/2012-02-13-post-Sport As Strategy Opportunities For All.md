@@ -104,52 +104,52 @@ Click [here](https://www.sportsingapore.gov.sg/News%20Updates/Media%20Releases/2
 
 **Annex C - Vision 2030 Engagements**
 
-1. **3 & 6 August 2011**<br>
+1. 3 & 6 August 2011<br>
 Dialogue session with active senior citizens (aged 45 and above)
 
-2. **9 August 2011**<br>
+2. 9 August 2011<br>
 Dialogue session with Team Singapore athletes
 
-3. **13 - 21 August 2011**<br>
+3. 13 - 21 August 2011<br>
 Survey among general public at Community Games
 
-4. **16-17 August 2011**<br>
+4. 16-17 August 2011<br>
 Survey among physical education teachers
 
-5. **21 August 2011**<br>
+5. 21 August 2011<br>
 Dialogue session with students from Institute of Technical Education (ITE)
 
-6. **31 August 2011**<br>
+6. 31 August 2011<br>
 Dialogue session with students from Singapore Sports School
 
-7. **1 - 2 September 2011**<br>
+7. 1 - 2 September 2011<br>
 Focus group session with National Sports Associations' (NSA) presidents and Sec-Gens
 
-8. **20 October 2011**<br>
+8. 20 October 2011<br>
 Sharing at informal cross-agency networking session
 
-9. **4 November 2011**<br>
+9. 4 November 2011<br>
 Dialogue session with Media and Members of Parliament
 
-10. **10 November 2011**<br>
+10. 10 November 2011<br>
 Brief for PS21 Learning Journey
 
-11. **25 November 2011**<br>
+11. 25 November 2011<br>
 Dialogue session with NSA presidents
 
-12. **31 January 2012**<br>
+12. 31 January 2012<br>
 Dialogue session with Members of Parliament
 
-13. **6 February 2012**<br>
+13. 6 February 2012<br>
 Dialogue session with students from secondary schools, junior colleges, local universities and polytechnics
 
-14. **7 February 2012**<br>
+14. 7 February 2012<br>
 Dialogue session with sports coaches and officials
 
-15. **10 February 2012**<br>
+15. 10 February 2012<br>
 Breakfast dialogue session hosted by Acting Minister, MCYS, with news editors
 
-16. **12 February 2012**<br>
+16. 12 February 2012<br>
 Engagement session with corporate organisations, Voluntary Welfare Organisations and NSAs
 
 **Annex D - Vision 2030 Steering Committee Members**
@@ -184,7 +184,7 @@ Engagement session with corporate organisations, Voluntary Welfare Organisations
 ---
 
 **For media enquiries, please contact:**
-
+<br>
 S. Parameswaran (Parames)<br>
 Assistant Director, Corporate Communications & Relations<br>
 Singapore Sports Council<br>
@@ -200,4 +200,6 @@ Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 **About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
