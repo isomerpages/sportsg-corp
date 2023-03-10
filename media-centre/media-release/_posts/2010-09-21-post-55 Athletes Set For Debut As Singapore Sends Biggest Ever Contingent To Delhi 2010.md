@@ -21,7 +21,7 @@ image: ""
 
 6. "The Commonwealth Games is an important facet of our sporting history. The story of Singapore's participation in the Commonwealth Games is a story of perseverance through ups and downs, in 14 editions of the Games so far. I am proud to state that over the last few editions, our progress has been on the up," said DPM Teo. "To all Team Singapore athletes going to Delhi, thank you for putting in the hard work. Do your best in the true spirit of sportsmanship, and continue to uphold the Team Singapore's values of pride, performance and perseverance. At all times keep the Singapore flag flying high."
 
-**Team Singapore athletes & debutants to show their prowess at the 19th Commonwealth Games Delhi 2010**<br>
+**Team Singapore athletes & debutants to show their prowess at the 19th Commonwealth Games Delhi 2010**
 
 7. For the very first time, Team Singapore is sending a representative - Gayle Esther Lee - to compete in the Synchronised Swimming event in the Commonwealth Games. Gayle, who is a student at Stanford University in California, had represented Singapore in the 13th FINA World Championships in July 2010 as well as the Japan and Swiss Open in 2007. "I love both swimming and artistic gymnastics, so I took up synchronised swimming as it's a combination of these two sports. It's a dream come true to represent Singapore for the first time in the Commonwealth Games and I am looking forward to competing against some of the world's finest synchronised swimmers."
 
@@ -31,13 +31,13 @@ image: ""
 
 10. Commenting on the contingent, Chef-de-Mission, Ms Pennefather said, "Every athlete in the Singapore contingent should go into the Commonwealth Games wanting to do his or her best. I expect to see performances which demonstrate fighting spirit and are targeted at achieving personal bests. If all our athletes approach their respective competitions with this mindset, for some their very best would translate to personal bests and/or new national records. For others it would mean medals. I also want every Team Singapore athlete to enjoy the Games experience, to learn from it and to be worthy ambassadors of Singapore combining sporting excellence with sportsmanship and discipline."
 
-**Singapore's para-athletes to give their best at the 19th Commonwealth Games**<br>
+**Singapore's para-athletes to give their best at the 19th Commonwealth Games**
 
 11. Three of the Team Singapore athletes, Theresa Goh, Adam Kamis and James Leow, will be representing Singapore in the Elite Athletes with Disability (EAD) events in New Delhi, taking part in Para-Powerlifting, Para-Athletics and Para-Swimming respectively.
 
 12. Delhi 2010 will be Adam's maiden appearance at the Commonwealth Games. "Running gave me renewed hope after my accident in 2003. In 2008, I started competing professionally and began training with the national team. I am extremely thrilled to have the chance to represent Singapore at this year's Commonwealth Games, and I will certainly try my best to do my country proud."
 
-**Show of support for Team Singapore**<br>
+**Show of support for Team Singapore**
 
 13. To cheer on Team Singapore for the Commonwealth Games and the upcoming Asian Games, the Singapore Sports Council (SSC) has released the second cheer song that represents a unified Singapore voice that will inspire and spur on our national athletes in their quest for medal glory.
 
@@ -49,7 +49,7 @@ image: ""
 
 DATE: 3-14 October 2010<br>
 VENUE: Delhi, India<br>
-WEBSITE: [ www.cwg2010delhi.org]( www.cwg2010delhi.org)
+WEBSITE: [www.thecgf.com/results/games/3046](www.thecgf.com/results/games/3046)
 
 NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 
