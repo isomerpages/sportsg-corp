@@ -4,7 +4,7 @@ permalink: /sports-education/sporting-clubs/singapore-polo-club/
 description: ""
 third_nav_title: Sporting Clubs
 ---
-![Singapore Polo Club](/images/Sport%20Education/Sporting%20Clubs/PoloClub.jpeg)
+![Singapore Polo Club](/images/Sport%20Education/Sporting%20Clubs/Singapore_Polo_Club.jpg)
 The idea behind the formation of the Singapore Polo Club (SPC) was first initiated in early 1886 when a group of civilians and several officers of the “BUFFS” (a regiment from Kent responsible for manning the British garrison in Singapore) decided that playing polo be established in Singapore.
   
 The Singapore Sporting Club, the predecessor of today’s Singapore Turf Club had graciously agreed to allow polo-playing at the centre portion of their racecourse at Farrer Park.
