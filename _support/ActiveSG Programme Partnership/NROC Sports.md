@@ -26,7 +26,7 @@ Requirements to join the NROC are as follows :
 1.  *Valid SFA Certificate*
 2.  [Foundational Sports Science (FSS) Certificate](/coaches-corner/singapore-coach-excellence/foundational-and-intermediate-sports-science-courses/) (exempted for NCAP Theory certificate holder) or its equivalent 
 3.  [SG-Coach Level 1 (Theory)](/coaches-corner/singapore-coach-excellence/sg-coach-level-1-theory-programme/) including Values & Principles in Sports, or National Coaching Accreditation Programme (NCAP) Certificate or its equivalent
-4. [SG-Coach Level 1 (Technical)](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-technical-programme-accreditation) or NCAP Certificate or its equivalent
+4. [SG-Coach Level 1 (Technical)](/coaches-corner/singapore-coach-excellence/sg-coach-technical-programme-accreditation/) or NCAP Certificate or its equivalent
 5.  Other supporting documents
 
 <small>The VPS workshop is a module within the SG-Coach Theory Level 1 course which covers the topics on coaching philosophy, appropriate behaviours of coaches, teaching of values through Game-For-Life framework, information on Ministry of Education’s 21st Century Competencies Framework and Student Outcomes, and introduction to anti-doping. Certificates which are deemed as its equivalent are SG-Coach Theory Level 1 Certificate which includes the VPS module, National Standards in Youth Sports for Coaching in Singapore Schools Certificate and Certificate of Attendance for Building Capacity of Coaches and Instructors (BCCI)’ Workshop.</small>
