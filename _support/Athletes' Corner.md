@@ -3,14 +3,13 @@ title: Athletes' Corner
 permalink: /support-resources/athletes-corner/
 description: ""
 ---
-
 ![](/images/Support/Athlete's%20Corner/Athlete%20corner%20Pic.jpeg)
 **The Singapore Sports Institute (SSI)** firmly believes in long-term sport and athlete development in Singapore. To help elite athletes reach their highest sporting potential in the international arena, SSI provides a wide range of Spex (Sports Excellence) programmes and support services.
 
 National Sports Associations (NSAs) can nominate their elite athletes to be carded (categorised) based on their achievements in the assessment period. Carded athletes can then have access to SSI’s customised Spex programmes and support services.
 
 #### **Announcements**
-Please be informed that based on the principle of strict liability, athletes are fully responsible for what they ingest. Supplements or inhalers may contain ingredients with harmful side effects, or prohibited substances (and at times not indicated in the ingredients list) which is listed on the WADA Prohibited List. The Prohibited List is updated every year. Please refer to the Anti-Doping Singapore website at [https://www.sportsingapore.gov.sg/Athletes-coaches/anti-doping-singapore](https://www.sportsingapore.gov.sg/Athletes-coaches/anti-doping-singapore) for more information.
+Please be informed that based on the principle of strict liability, athletes are fully responsible for what they ingest. Supplements or inhalers may contain ingredients with harmful side effects, or prohibited substances (and at times not indicated in the ingredients list) which is listed on the WADA Prohibited List. The Prohibited List is updated every year. Please refer to the [Anti-Doping Singapore website](/what-we-do/anti-doping-singapore/about-us/) for more information.
 
 In addition, all spexCarded athletes are required to apply for a Therapeutic Use Exemption (TUE) if they need to use any prohibited medication or method of treatment.
 
