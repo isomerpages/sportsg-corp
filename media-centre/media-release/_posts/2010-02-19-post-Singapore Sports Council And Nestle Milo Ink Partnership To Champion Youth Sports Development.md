@@ -31,20 +31,20 @@ The VIPs, students from Seng Kang Primary and Team Singapore youth athletes comm
 
 ---
 
-**MILO and SSC Signing of MOU Press Conference Speech by Mr. Suresh Narayanan, Managing Director of Nestle Singapore**<br>
+**MILO and SSC Signing of MOU Press Conference Speech by Mr. Suresh Narayanan, Managing Director of Nestle Singapore**
 
 Dr. Vivian Balakrishnan, Minister, for the Community Development, Youth and Sports;
-<br>
+
 Mr. Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development, Youth and Sports & Ministry of Transport;
-<br>
+
 SSC CEO, Mr. Oon Jin Teik;
-<br>
+
 Mrs Rabia Shahul Hameed, Principal of Seng Kang Primary;
-<br>
+
 Team Singapore athletes, Students of Seng Kang Primary;
-<br>
+
 Members of the media;
-<br>
+
 Ladies and Gentlemen.
 
 A very good afternoon to all of you and thank you for attending this very significant occasion for MILO and the Singapore Sports Council (SSC).
@@ -71,22 +71,22 @@ Thank you.
 
 ---
 
-**Speech For Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry Of Community Development Youth And Sports And Ministy Of Transport At The Ssc - Nestle (milo) Partnership To Champion Youth Sports Development On 19 February 2010 At Seng Kang Primary School At 1.35 PM.**<br>
+**Speech For Mr Teo Ser Luck, Senior Parliamentary Secretary, Ministry Of Community Development Youth And Sports And Ministy Of Transport At The Ssc - Nestle (milo) Partnership To Champion Youth Sports Development On 19 February 2010 At Seng Kang Primary School At 1.35 PM.**
 
 Dr Vivian Balakrishnan, Minister, Community Development, Youth and Sports;
-<br>
+
 Oon Jin Teik, CEO, Singapore Sports Council
-<br>
+
 Suresh Narayanan, Managing Director, Nestle
-<br>
+
 Mrs Rabia Shahul Hameed, Principal, Seng Kang Primary School
-<br>
+
 Athletes, Students of Seng Kang Primary School,
-<br>
+
 Media friends,
-<br>
+
 Ladies and gentlemen,
-<br>
+
 Good afternoon.
 
 Today's signing of the Memorandum of Understanding between the Singapore Sports Council (SSC) and MILO marks a crucial step forward for youth sports development in Singapore. The MOU is indeed a wonderful reflection of the long standing partnership between both organisations in striving towards championing sports and active play to our young.
@@ -103,8 +103,7 @@ Thank you.
 
 ---
 
-**Speech By Mr Oon Jin Teik, Ceo, Singapore Sports Council At The Ssc - Nestle (milo) Partnership To Champion Youth Sports Development On 19 February 2010 At Seng Kang Primary School At 1.15 PM**<br>
-
+**Speech By Mr Oon Jin Teik, Ceo, Singapore Sports Council At The Ssc - Nestle (milo) Partnership To Champion Youth Sports Development On 19 February 2010 At Seng Kang Primary School At 1.15 PM**
 
 Dr Vivian Balakrishnan, Minister, Community Development, Youth and Sports;
 
