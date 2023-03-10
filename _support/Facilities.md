@@ -3,7 +3,6 @@ title: Facilities
 permalink: /support-resources/facilities/
 description: ""
 ---
-
 Sport Singapore believes that well-designed and efficiently run sports facilities will significantly open up opportunities for a more sporting, recreational and wellness lifestyle for all Singaporeans. 
 
 In our quest to develop a true sporting culture in Singapore, Sport Singapore is continually investing in sports facilities across the island, catering to the growing number of sporting needs. On average, we annually record over 11 million users at our Sport Centres (formerly known as Sports and Recreational Centres). 
@@ -36,5 +35,5 @@ Dual-Use Scheme Facilities:
 *   162 school sports halls
 *   2 basketball courts
 *   1 street soccer court 
-<br /><br />
+
 View our [Sport Centres](http://www.myactivesg.com/facilities) for a detailed list. <br>To book a facility, please login to [ActiveSG membership system](https://members.myactivesg.com/).
