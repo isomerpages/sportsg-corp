@@ -28,7 +28,7 @@ _DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore 
 
 ---
 
-###### Annex A: About the Multi-Million Dollar Award Programme (MAP)
+**Annex A: About the Multi-Million Dollar Award Programme (MAP)**
 
 In the 1990s, under the direction of then President Dr. Yeo Ning Hong, the Singapore National Olympic Council devised an incentive scheme to reward medal-winning athletes. The Multi-Million Dollar Awards Programme (MAP) provides a cash payout to athletes who win gold medals at the Olympic, Asian, Commonwealth and South East Asian (SEA) Games.
 
@@ -42,7 +42,7 @@ Athletes who break the South East Asian or Asian Games records will be awarded $
 
 It is mandatory for all athletes to plough back 20% of the MAP awards to their National Sports Association for future training and development.
 
-###### Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients
+**Annex B: 19th Commonwealth Games Delhi 2010 MAP Awards Recipients**
 
 **Individual Events**
 
@@ -88,7 +88,8 @@ It is mandatory for all athletes to plough back 20% of the MAP awards to their N
 
 Total MAP Award: $1,880,000.00
 
-###### Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
+**Annex C: 16th Asian Games Guangzhou 2010 MAP Awards Recipients
+**
 
 **Individual Events**
 
@@ -119,7 +120,8 @@ Total MAP Award: $1,880,000.00
 
 Total MAP Award: $2,340,000.00
 
-Annex D: Singapore National Olympic Council and Team Singapore Appreciation <br>
+**Annex D: Singapore National Olympic Council and Team Singapore Appreciation**
+
 **Plaque Recipients**
 
 | SN  | Name of Recipient                                               |
@@ -145,14 +147,14 @@ Tanty Nazlianah Rosli
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5241
-<br>Email: [tanty_nazlianah@ssc.gov.sg](tanty_nazlianah@ssc.gov.sg)
+<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+<br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
 ---
 
@@ -160,15 +162,12 @@ Patricia Yee
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and www.singaporesports.sg
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
-
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-###### About the Singapore National Olympic Council
+**About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
 **About Team Singapore**
@@ -179,6 +178,6 @@ The three core Team Singapore attributes are Pride, Performance and Perseverance
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information, please visit [[www.teamsingapore.sg](www.teamsingapore.sg)].
+For further information, please visit [www.teamsingapore.sg](www.teamsingapore.sg).
 <br>
 Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
