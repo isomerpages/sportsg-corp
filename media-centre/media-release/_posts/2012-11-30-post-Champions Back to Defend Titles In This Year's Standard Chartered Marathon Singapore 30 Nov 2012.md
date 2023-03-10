@@ -12,7 +12,7 @@ image: ""
 
 **Singapore, 30 November 2012** - This year's Standard Chartered Marathon Singapore (SCMS) will feature a contingent of elite athletes including winners and record holders from previous editions. Defending champions, Charles Mwai Kanyao, and Irene Jerotich Kosgei, both from Kenya, will be amongst the world-class international elite runners at the start line of this International Association of Athletics Federations (IAAF) Gold Label race.
 
-2\. "We are delighted to welcome such a strong field of elite athletes to this year?s race. I'm particularly pleased to see several former champions of the SCMS returning and with several other top contenders in the mix, there is growing recognition of the SCMS as one of the top marathons. Given the fast times of this field, my fingers are crossed for a new course record.", said Mr Lim Teck Yin, Chief Executive Officer, SSC and Chairman, SCMS 2012 Organising Committee.
+2\. "We are delighted to welcome such a strong field of elite athletes to this year's race. I'm particularly pleased to see several former champions of the SCMS returning and with several other top contenders in the mix, there is growing recognition of the SCMS as one of the top marathons. Given the fast times of this field, my fingers are crossed for a new course record.", said Mr Lim Teck Yin, Chief Executive Officer, SSC and Chairman, SCMS 2012 Organising Committee.
 
 ##### **Battle of the Champions**
 
@@ -28,7 +28,7 @@ image: ""
 
 8\. SCMS 2011 Women's Open runner-up Roman Gebregessese of Ethiopia will reignite the rivalry with Kosgei and aim to pip Kosgei to the finish line. Other contenders in the women's open category include fellow Ethiopian Shitaye Gemechu (2:26:10) and Ivanova Alevtina (2:26:38) of Russia, who hold the top two personal best timings in the category.
 
-##### **Local runners look to set new records**
+**Local runners look to set new records**
 
 9\. Having won the Standard Chartered Marathon Singapore for three consecutive years since 2009, champion of the local men's category Mok Ying Ren is also returning to defend his title. Challenging his dominance in this route is last year's runner-up Ang Chee Yong. Anne Qi Hui will be looking to retain her crown in the local women's category for the fourth consecutive time this year, having just set a personal best and new national record time of 1:23:16 at the IAAF World Half Marathon Championships.
 
@@ -36,11 +36,11 @@ image: ""
 
 ---
 
-#### **Annexes**
+**Annexes**
 
-**Annex A: List of Elite Athletes**
-<br>**Annex B: Profiles of Top Elite Athletes**
-<br>**Annex C: SCMS Race Results (2009 - 2011)**
+Annex A: List of Elite Athletes
+<br>Annex B: Profiles of Top Elite Athletes
+<br>Annex C: SCMS Race Results (2009 - 2011)
 
 **Annex A: List of Elite Athletes**
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/CHAMPIONSBACKTODEFENDTITLESINTHISYEARSSTANDARDCHARTEREDMARATHONSINGAPOREMainPar0047Imagegif.gif)
@@ -157,15 +157,14 @@ Ho Shu Fen
 <br>Fulford PR
 <br>Email: [sfho@fulfordpr.com](mailto:sfho@fulfordpr.com)
 
-
-##### **About the Singapore Sports Council**
+**About the Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites www.ssc.gov.sg, www.vision2030.sg and www.singaporesports.sg.<br>
-Follow us on Facebook at www.facebook.com/SingaporeSports.<br>
-For a range of photographs, visit www.flickr.com/ssc-sportsphotography.
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Facebook at [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-##### **About Standard Chartered Bank in Singapore**
+**About Standard Chartered Bank in Singapore**
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
