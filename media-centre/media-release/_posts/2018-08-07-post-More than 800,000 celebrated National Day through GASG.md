@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-### **More than 800000 celebrated National Day through GASG**
+### **More than 800,000 celebrated National Day through GASG**
 
 ![](/images/Media%20Centre/Media%20Release/2018/August/GetActive%20Singapore%20Finale.jpeg)
 
