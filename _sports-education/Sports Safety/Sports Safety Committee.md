@@ -20,4 +20,4 @@ The terms of reference of the Sports Safety Committee are as follows:
 *   To recommend priority areas for community outreach and educational programs, targeting groups such as community sports clubs and event organizers.
 *   To present the Committee’s recommendations to CEO, SportSG for his review and endorsement before public consultation and media release.
 
-The Sport Safety Committee Report 2019 has since been translated into a Singapore Standard, SS681:2022 Code of Practice for Sport Safety
+The Sport Safety Committee Report 2019 has since been translated into a Singapore Standard, SS681:2022 Code of Practice for Sport Safety.
