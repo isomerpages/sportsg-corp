@@ -32,7 +32,7 @@ image: ""
 
 10\. Runners can pre-pack their belongings and fill up their personal details on the bag within the BSP, which will help to reduce the waiting times at the deposit counters come race day.
 
-##### **More Ways to Motivate Runners**
+**More Ways to Motivate Runners**
 
 11\. Runners can look forward to music performances and giant BMW Cheer Video screens along the route. Another 'first' this year will be the Cheer Markers at every distance marker displaying inspirational words of encouragement sent in by runners for runners.
 
@@ -42,11 +42,11 @@ image: ""
 
 14\. Concluded Mr Lim, "Feedback from runners has always been very important and helpful for us to make improvements to the race. We went through all aspects of the race from start to finish to see where and how we can make it better. We have made significant changes to the routes and logistical arrangements to ensure a better running experience."
 
-15\. In 2011, the SCMS was awarded the Gold Label status by the International Association of Athletic Federations (IAAF), placing it among elite marathons in the world such as London, Berlin, Boston and New York City. For more information on SCMS 2012, please visit www.marathonsingapore.com and www.facebook.com/marathonSG.
+15\. In 2011, the SCMS was awarded the Gold Label status by the International Association of Athletic Federations (IAAF), placing it among elite marathons in the world such as London, Berlin, Boston and New York City. For more information on SCMS 2012, please visit [www.singaporemarathon.com](https://singaporemarathon.com/)  and [www.facebook.com/SGmarathon](https://www.facebook.com/SGmarathon/).
 
 ---
 
-Enclosures
+**Enclosures**
 
 **Annex A: Race Information**
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0042Imagegif.gif)
@@ -55,11 +55,12 @@ Enclosures
 ![](/images/Media%20Centre/Media%20Release/2012/Oct/MERRYMARATHONFESTIVECHEERTOGREETSINGAPORERUNNERSATSCMS2012MainPar0043Imagegif.gif)
 
 **Annex C: SCMS 2012 Route Maps**
-<br>
+
 [SCMS 2012 Route Maps [496 Kb]](/files/Media%20Centre/Media%20Release/2012/Oct/SCMS%202012%20Route%20Mapspdf.pdf)
 
+---
 **For media enquiries, please contact:**
-
+<br>
 Ho Shu Fen
 <br>Fulford PR 
 <br>Email: [sfho@fulfordpr.com](mailto:sfho@fulfordpr.com)
@@ -70,17 +71,17 @@ Eric Ong
 <br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
 
 
-##### **About the Singapore Sports Council**
-
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg.<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG ](www.twitter.com/Lets_PlaySG )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography).
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 
-##### **About Standard Chartered Bank in Singapore**
-
+**About Standard Chartered Bank in Singapore**
+<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
