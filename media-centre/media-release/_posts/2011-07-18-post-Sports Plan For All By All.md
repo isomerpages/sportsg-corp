@@ -70,13 +70,16 @@ Council Member, Singapore National Olympic Council
 | 08    | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board |
 | 09     | Mr Richard Seow<br>Chairman, Singapore Sports Council |
 | 10    | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+| 11     | Mr Tan Tong Hai<br>Chief Operating Officer, StarHub     |
+| 12     | 	Mr Antonio Del Rosario<br>General Manager, Coca-Cola Singapore     |
+| 13     | Dr Aymeric Lim<br>Chairman, Medical Advisory Board National University Hospital     |
+| 14     | Ms Saw Phaik Hwa<br>Chief Executive Officer, SMRT     |
+| 15    | Mr Andre Ahchak<br>Senior Director, VOX Group Pte Ltd     |
+| 16    | Mrs Jessie Phua<br>Council Member, Singapore National Olympic Council     |
+| 17     | Dr Teo-Koh Sock Miang<br>President, Special Olympics Singapore    |
+| 18     | Dr Teo Ho Pin<br>Mayor, North-West District |
+| 19     | Mr Zainudin Nordin<br>Director, NTUC Care & Share, National Trades Union Congress     |
+| 20     | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation     |
+| 21     | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer & Philanthropy Centre |
+| 22     | 	Mr Leslie Tan<br>Founder and Editor, Red Sports |
+| 23     | Ms Asmah Hanim binte Mohamad<br>Hon Asst Sec, Singapore Athletic Association |
