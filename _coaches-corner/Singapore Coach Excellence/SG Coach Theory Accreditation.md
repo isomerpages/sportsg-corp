@@ -19,11 +19,25 @@ For other candidates who do not possess the above qualifications, the two method
     
 *   **Accreditation through Recognition of Prior Learning (RPL)**: This is suitable for individual who had formal learning in areas of coaching or physical education (e.g. coaching certificate, diploma, degree, etc).
 
-If you are interested in seeking for accreditation for SG-Coach Theory via recognition of prior learning, please send an email to [sport\_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg) with the following. Please note that all submitted documents must be in English or translated to English:
+If you are interested in seeking for accreditation for SG-Coach Theory via recognition of prior learning, please send an email to [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg) with the following. Please note that all submitted documents must be in English or translated to English:
 
-1.  [](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/Coaches-Corner/BSS-and-SG-Coach-Theory-Accreditation-Application-Form.ashx?la=en&hash=9689A6A646440A3A362541329B7EDA0E983CA0D0)[Application Form](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/Basic-Sports-Science-Course/ISS-and-SG-Coach-Theory-Accreditation-Application-Form.ashx?la=en&hash=21BE262057AE9A1BFD95794435A09287954949F0)
+1.  [Application Form](/files/Support/Coaches'%20Corner/Singapore%20Coach%20Excellence/ISS_and_SG-Coach_Theory_Accreditation_Application_Form.pdf)
 2.  Coaching certificate/Diploma/Degree/Postgraduate in “**Physical Education**” or “**Sports Coaching**” and course transcript
 3.  Any other supporting documents
 4.  Your sports coaching CV – kindly include all of your past sports coaching experience within
 5.  Your relevant academic certificate(s) and their respective official transcript(s) / list(s) of modules – e.g. Diploma and above in Sports Science, Sports Coaching or Physical Education
 6.  Your sport-specific coaching certificate(s) and their respective official transcript(s) / list(s) of modules – e.g. Developmental coaching certificate / accreditation in Swimming
+
+There is no cost for the evaluation BUT please note that a certification fee of $54.00 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applicants, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via this [link](https://www.sportsingapore.gov.sg/athletes-coaches/course-calendar).
+
+**VPS Accreditation****.** If you have been a Ministry of Education (MOE) Physical Education (PE) teacher in service from 2015 onwards, you will be exempted from VPS workshop but are required to complete the following steps to obtain VPS Accreditation, before being eligible to receive the VPS (Accreditation) certificate:
+
+1.  Register for a SportSync account and complete VPS E-learning topics via SportSG-ED (Refer to user guide [here](/files/Support/Coaches'%20Corner/Singapore%20Coach%20Excellence/SportSync(Registration)_SportSGED(Activation)_UserGuide.pdf))
+2.  Notify CoachSG of your SportSync ID once you have registered and activated your SportSG-ED account for e-learning to be assigned
+3.  Complete VPS E-Learning topics and Coaching Philosophy Reflection via SportSG-ED
+
+Both VPS E-learning Certificate of Completion and Coaching Philosophy Reflection document must be submitted for CoachSG’s review and approval via [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg). A S$20.00 (including GST) fee will be charged for the processing of VPS accreditation certificates, which includes a SportSG-ED user licence fee.
+
+**Examination-Only Pathway.** In the event that the examination-only pathway is granted, there will be a charge of S$80.25 (including GST) – this test fee includes a course manual which will be mailed to the applicant 2 weeks before the examination. Please note that only **one** attempt can be made. This is a closed-book examination and reference to the course manual is not allowed during the examination. Individuals who do not pass the exam will have to go through the Theory course. Individuals who passed the exam will have to attend the [VPS workshop](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports) before he / she is eligible to receive the SG-Coach Theory (Accreditation) certificate.
+
+Should applicants have further queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
