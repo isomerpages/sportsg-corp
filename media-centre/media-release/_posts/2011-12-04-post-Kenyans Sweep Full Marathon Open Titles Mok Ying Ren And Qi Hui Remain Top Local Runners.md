@@ -11,9 +11,9 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2011/Dec/finish.gif)
 
-Singapore, 4 December 2011 - The second edition of the Standard Chartered Marathon Singapore (SCMS) took to the roads of Singapore today, with a record-breaking 65,000 runners starting at three different start points in the early morning. Kenya once again dominated the full marathon categories with the Men's Open Category being won by 35-year-old Charles Mwai Kanyao, and last year's winner, Irene Jerotich Kosgei, retained her crown for the Women's Open category. Singaporeans, Mok Ying Ren and Qi Hui also held on to their titles for the Men's and Women's Full Marathon Singapore categories.
+**Singapore, 4 December 2011** - The second edition of the Standard Chartered Marathon Singapore (SCMS) took to the roads of Singapore today, with a record-breaking 65,000 runners starting at three different start points in the early morning. Kenya once again dominated the full marathon categories with the Men's Open Category being won by 35-year-old Charles Mwai Kanyao, and last year's winner, Irene Jerotich Kosgei, retained her crown for the Women's Open category. Singaporeans, Mok Ying Ren and Qi Hui also held on to their titles for the Men's and Women's Full Marathon Singapore categories.
 
-2. For Kanyao who signed up on his own, the win is a sweet one as it is also his first major marathon win. Kanyao crossed the finish line with a time of 2:14:33.75, and compatriots Luka Kipkemoi Chelimo and John Kelai followed behind with a finishing time of 2:14:38.75 and 2:15:45.65 respectively. Kanyao was awarded with a prize money of US$50,000 (approximately S$66,500). Kanyao said of his win, "It is not easy to win. I trained very hard for this race. The race was difficult but I did my best. It?s my first time in Singapore and I'm glad I came here and won the race."
+2. For Kanyao who signed up on his own, the win is a sweet one as it is also his first major marathon win. Kanyao crossed the finish line with a time of 2:14:33.75, and compatriots Luka Kipkemoi Chelimo and John Kelai followed behind with a finishing time of 2:14:38.75 and 2:15:45.65 respectively. Kanyao was awarded with a prize money of US$50,000 (approximately S$66,500). Kanyao said of his win, "It is not easy to win. I trained very hard for this race. The race was difficult but I did my best. It's my first time in Singapore and I'm glad I came here and won the race."
 
 3. Kosgei emerged top of the leaderboard with a time of 2:36:42.39, almost one minute ahead of Roman Gebregessesse who finished with a time of 2:37:30.74. Magadelene Mukunzi completed the top three with a time of 2:38:06.50. Kosgei went home with the prize money of US$50,000 (approximately S$66,500). Kosgei said, "At the 35km I took the leap all through, in the sense that I did the same thing last year. As I am familiar with the course, I knew which routes were hard to run, and which were easy. All in all, I am very happy with myself."
 
@@ -25,13 +25,13 @@ Local Runners Retained Their Titles
 
 6. The SCMS 2011 took off at three different start points at Orchard Road, Sentosa and Esplanade Drive, bringing participants through the unique and iconic sights and sounds of the Garden City such as Chinatown, Universal Studios Singapore, Gardens by the Bay, the Marina Bay area before finishing against a spectacular backdrop of the Padang. Acting Minister for Community Development Youth and Sports, Chan Chun Sing, flagged off the Full Marathon at 5.00am at Orchard Road; Chairman, Singapore Sports Council, Richard Seow, flagged off the Half-marathon at 6.30 am at Sentosa while the 10KM and 5KM Fun Run was flagged off at 7.15am by Deputy Speaker of Parliament, Chairman, Government Parliamentary Committee for Community Development Youth and Sports, and Member of Parliament for Marine Parade GRC, Seah Kian Peng, on the Esplanade Bridge.
 
-7. LIVE broadcast was also available for the public to watch the race from the comforts of their own home, with a same day telecast at 7pm on StarHub SuperSports Arena (Channel 201). Race coverage was also available on SingaporeSports.tv[SingaporeSports.tv](SingaporeSports.tv) from 4.30am to 10.00am.
+7. LIVE broadcast was also available for the public to watch the race from the comforts of their own home, with a same day telecast at 7pm on StarHub SuperSports Arena (Channel 201). Race coverage was also available on [SingaporeSports.tv](www.youtube.com/SingaporeSports) from 4.30am to 10.00am.
 
-8. For further information on the Standard Chartered Marathon Singapore 2011 please visit [www.marathonsingapore.com](www.marathonsingapore.com).
+8. For further information on the Standard Chartered Marathon Singapore 2011 please visit [www.singaporemarathon.com](https://singaporemarathon.com/).
 
 ---
 
-###### Annex A: List of SCMS 2011 Winners
+**Annex A: List of SCMS 2011 Winners**
 
 **FULL MARATHON OPEN (MEN)**
 
