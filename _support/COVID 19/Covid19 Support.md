@@ -14,7 +14,9 @@ We will continue to monitor the situation and provide updates. Let’s play our 
 [#SGUnited](https://www.facebook.com/hashtag/sgunited?__cft__[0]=AZUgWMGvqHumq8Ca3p12gtN7KBlm9toeDoF_8EV_oY_E8iAGCrxReZ52Gp7ItlCKvHl8_bSu6UwLEMMukrR0XX8H_QPLR44BjE9CvLbFXM2y8S4qK2E-iR_6yS-ThTf8Yy6WZAr5I1rOWRepFngd2T_C7yOr55C6135Q4EEXdVypAg&__tn__=*NK-R) [#CoachAsLeader](https://www.facebook.com/hashtag/coachasleader?__cft__[0]=AZUgWMGvqHumq8Ca3p12gtN7KBlm9toeDoF_8EV_oY_E8iAGCrxReZ52Gp7ItlCKvHl8_bSu6UwLEMMukrR0XX8H_QPLR44BjE9CvLbFXM2y8S4qK2E-iR_6yS-ThTf8Yy6WZAr5I1rOWRepFngd2T_C7yOr55C6135Q4EEXdVypAg&__tn__=*NK-R) [#CoachingBetterEveryDay](https://www.facebook.com/hashtag/coachingbettereveryday?__cft__[0]=AZUgWMGvqHumq8Ca3p12gtN7KBlm9toeDoF_8EV_oY_E8iAGCrxReZ52Gp7ItlCKvHl8_bSu6UwLEMMukrR0XX8H_QPLR44BjE9CvLbFXM2y8S4qK2E-iR_6yS-ThTf8Yy6WZAr5I1rOWRepFngd2T_C7yOr55C6135Q4EEXdVypAg&__tn__=*NK-R)
 
 #### **Go-to government websites**
-1. Unsure of which government grants and support you are eligible for? Check out [https://www.supportgowhere.gov.sg/](https://www.supportgowhere.gov.sg/)!
+1. Unsure of which government grants and support you are eligible for? 
+<br>
+Check out [https://www.supportgowhere.gov.sg/](https://www.supportgowhere.gov.sg/)!
 
 2. Staying home? Going out? Feeling unwell? A latest list of useful go-to government websites is now available at [https://www.gowhere.gov.sg/](https://www.gowhere.gov.sg/). 
 
@@ -24,7 +26,7 @@ We will continue to monitor the situation and provide updates. Let’s play our 
 Jobs are available at the following portals. If you are a member of the [NROC](/support-resources/activesg-programme-partnership/nroc-sports/), new opportunities may also be progressively shared with you through email (please make sure you login to [myActiveSG portal](http://members.myactivesg.com/) to update your latest email address, then login to [SportSync](https://www.sportsync.sg/) to verify your contact details).
 
 For SportSG job opportunities, please visit [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Sport%20Singapore).
-<br>
+
 For other roles, please visit [MyCareersFuture](https://www.mycareersfuture.gov.sg/).
 
 You can also subscribe to NTUC Job Security Council [Telegram](http://telegram.org/) for alerts on the latest job vacancies.
