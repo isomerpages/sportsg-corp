@@ -21,7 +21,7 @@ image: ""
 
 6. UEL Pro Vice-Chancellor, Selena Bolingbroke, welcomed the deal saying, "UEL are delighted to host Team Singapore during the London 2012 Games and add to our growing number of Olympic partners who will operate from our campuses next year. The partnership is also an opportunity to build the legacy that will continue beyond 2012 and into the future to boost participation in sport and meet UEL's aim of being the best university in London for sport by 2015."
 
-##### **Acclimatisation Training for Singapore's Olympic Hopefuls**
+**Acclimatisation Training for Singapore's Olympic Hopefuls**
 
 7. Team Singapore's Olympic Hopefuls are now currently in Surrey Sports Park for acclimatisation training camp. 30 athletes and 10 officials from three sports will be there - badminton (31 July - 7 August), shooting (26 July - 7 August) and table tennis (30 July - 15 August).
 
@@ -31,28 +31,27 @@ image: ""
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Patricia Yee<br>
 Executive, Media Relations<br>
 Singapore Sports Council<br>
-Email: patricia_yee@ssc.gov.sg
+Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
 Tanty Nazlianah Rosli<br>
 Senior Manager, Media Relations<br>
 Singapore Sports Council<br>
 Office: 6500 5241<br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg.
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg.
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com.
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
