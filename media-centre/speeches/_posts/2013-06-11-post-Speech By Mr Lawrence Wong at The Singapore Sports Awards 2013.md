@@ -35,7 +35,7 @@ Ladies and Gentlemen,
 
 6. I would also like to pay tribute to those who have, outside of the limelight and public eye, contributed to a successful Team Singapore effort, especially our parents who stand behind their children; supporters; and the many backroom staff who helped to make possible the entire Team Singapore effort. So thank you all for your support and your contribution to sports.
 
-Celebrating our Achievements
+**Celebrating our Achievements**
 
 7. There are few things in life that rally the emotions and fire up the Singapore spirit like the sports. It is a language that everyone can understand. At its very best, sports can bring people together, no matter our background or race. It bonds our communities and it fosters national pride.
 
