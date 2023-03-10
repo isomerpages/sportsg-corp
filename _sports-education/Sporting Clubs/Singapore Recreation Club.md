@@ -4,7 +4,7 @@ permalink: /sports-education/sporting-clubs/singapore-recreation-club/
 description: ""
 third_nav_title: Sporting Clubs
 ---
-![Singapore Recreation Club](/images/Sport%20Education/Sporting%20Clubs/RecreationClub.jpeg)
+![Singpore_Recreation_Club](/images/Sport%20Education/Sporting%20Clubs/Singpore_Recreation_CLub.jpg)
 One of the few sports clubs established during Colonial Times, the **Singapore Recreation Club (SRC)** was founded in 1883 with the main objective of encouraging amateur sports in Singapore.
   
 During this era, ethnic community organisations and groups dominated the commercial and social life of colonial Singapore. Amid these circumstances, some 30 members of the Eurasian community met at a building in Waterloo Street on 23 June 1883, laying the foundations for what would later be the SRC. The club functioned from this shophouse until moving to its Padang location in the 1890s.
