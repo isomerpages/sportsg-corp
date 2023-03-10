@@ -7,14 +7,13 @@ third_nav_title: Game For Life
 ![Guide](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Guide/guide.gif)
 
 The Game for Life Guide equips you with know-how to integrate character and leadership development into the sport arena, which encompasses a skill practice drill, fitness activity, game play, match or competition training, and even an outdoor corporate training session.
-
   
-CHAPTER ONE provides an overview of the importance of intentional and deliberate effort to create teaching moments to build character and leadership.  
+**CHAPTER ONE** provides an overview of the importance of intentional and deliberate effort to create teaching moments to build character and leadership.  
   
-CHAPTER TWO showcases several prominent local  
+**CHAPTER TWO** showcases several prominent local  
 personalities who share one common thread, despite their widely differing backgrounds and life paths. They credit their pursuit of sport with lasting values such as respect, responsibility and resilience that were fundamental to the success in their lives. Each narrative also comes with reflection questions to enhance understanding on the character building process. A sample of DPM Tharman Shanmugaratnam's narrative from the guide can be referenced here.  
   
-CHAPTER THREE presents the Framework. It features the use of games and sport activities and specific role performing for the learning and development of values and attributes.  
+**CHAPTER THREE** presents the Framework. It features the use of games and sport activities and specific role performing for the learning and development of values and attributes.  
   
 The Guide also contains easy-to-use templates for design and planning of training sessions.  
   
@@ -42,9 +41,7 @@ You may visit this [link](https://www.rp.edu.sg/ace/short-course/Detail/game-fo
 
 #### **Quotes**
 
-*"We take notice of values more often....everyone understands, we keep them in mind and they actually help in our skills execution as well."*
-
-**Member, SMU Women Football Team**
+*"We take notice of values more often....everyone understands, we keep them in mind and they actually help in our skills execution as well."* - **Member, SMU Women Football Team**
 
 *"Values education is not new in our school so I was not particularly excited when first approached by Sport Singapore. Upon closer understanding, I realised that the Framework, especially the Check-Act-Reinforce component, contains layers of insights for a richer learning experience for the students.The guidelines and templates provided are also handy when planning my classes."*  
 **P.E. Teacher, Temasek Secondary School**  
