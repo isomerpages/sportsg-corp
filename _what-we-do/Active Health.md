@@ -3,7 +3,6 @@ title: Active Health
 permalink: /what-we-do/active-health/
 description: ""
 ---
-
 | -------- | -------- | 
 | ![](/images/ActiveHealthLogoType.png)  | **Active Health** aims to support Singaporeans’ journey towards better health with guided expert knowledge backed by science.  | 
 
