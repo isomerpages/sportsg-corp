@@ -49,8 +49,7 @@ Beyond acquiring an athletics skill set, the programmes will also help to develo
 | Athletics for Kids | Athletics for Youth |
 | -------- | -------- |
 | Age: 6 to 12 years | Age: 13 to 24 years |
-| About the programme | About the programme|
-| This introduces children to the basic components of athletics in a fun approach through games and age-appropriate instructions. It aims to develop children’s foundation in various athletic disciplines as well as for participation in all other sports. | This is for youth with basic exposure to the fundamentals of athletics and those with a keen interest to develop specific athletic abilities. Through the technical expertise of the club’s coaches, athletes will develop skills and perform to their best abilities. |
+| **About the programme** <br> This introduces children to the basic components of athletics in a fun approach through games and age-appropriate instructions. It aims to develop children’s foundation in various athletic disciplines as well as for participation in all other sports. | **About the programme** <br>This is for youth with basic exposure to the fundamentals of athletics and those with a keen interest to develop specific athletic abilities. Through the technical expertise of the club’s coaches, athletes will develop skills and perform to their best abilities. |
 
 | Outline | Outline |
 | -------- | -------- |
