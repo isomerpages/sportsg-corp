@@ -26,6 +26,7 @@ Mr Oon Jin Teik, CEO of SSC, said: "As a part of the Sports Hub, the watersports
 
 **For media enquiries, please contact:**
 <br>
+
 Alvin Hang
 <br>
 Assistant Director (Group Communications)
@@ -48,4 +49,4 @@ Scheduled to be completed in 2011, the Sports Hub will be a cluster of world-cla
 
 **About Singapore Sports Council**
 <br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: www.ssc.gov.sg
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: [sportsingapore.gov.sg](http://sportsingapore.gov.sg/)
