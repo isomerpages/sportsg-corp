@@ -53,7 +53,7 @@ ANNEX A: Games Fact Sheet
 <br>ANNEX F: Together We Are Stronger Fact Sheet
 
 **For media enquiries, please contact:**
-
+<br>
 **On Team Singapore and the 27th SEA Games:**
 
 Adrienne Ser
