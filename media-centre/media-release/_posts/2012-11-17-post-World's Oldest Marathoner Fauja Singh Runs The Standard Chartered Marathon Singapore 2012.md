@@ -76,7 +76,7 @@ Sequence of Fauja Singh's 10km, Half and Full Marathon timings:
 
 
 **For media enquiries, please contact:**
-
+<br>
 Eric Ong
 Manager, Media Relations<br>
 Singapore Sports Council<br>
