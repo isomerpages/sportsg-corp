@@ -68,19 +68,19 @@ Think safe, play safe, stay safe (Part 2)
 
 **Injury Prevention & Safety Tips**
 
-*CPR & AED Rescue Tips*
+CPR & AED Rescue Tips
 
 * [Basic Cardiac Life Support + Automated External Defibrillator](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SRFAC-BCLSAED-and-CPRMTMAED-Manual-2018.pdf)
 * [Chain of Survival](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Chain_of_Survival.pdf)
 * [Bystander 1-Man CPR](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/1-Man_CPR_Steps.pdf)
-* CPR & AED Protocol ![CPR & AED Protocol](/images/Sport%20Education/Sports%20Safety/Resources%20&%20Useful%20Links/CPR_and_AED_Protocol.jpeg)
+* [CPR & AED Protocol](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/CPR_and_AED_Protocol.pdf)
 
-*Triathlon Safety Tips*
+Triathlon Safety Tips
 
 * [Triathlon Safety Tips](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Triathlon_Safety_Tips.pdf)
 * [7 Steps to Survive a Triathlon](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/7_Steps_to_Survive_a_Triathlon.pdf)
 
-*Simple Guide to Risk Assessment Management in Sports*
+Simple Guide to Risk Assessment Management in Sports
 
 * [SAFETY RISK ASSESSMENT MANAGEMENT IN SPORTS](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/SAFETY_RISK_ASSESSMENT_MANAGEMENT_IN_SPORTS.pdf)
 * [Rottnest Risk Management Plan07](/files/Sport%20Education/Sport%20Safety/Resources%20&%20Useful%20Links/Rottnest_Risk_Management_Plan07.pdf)
