@@ -56,7 +56,7 @@ LifeLessons to develop life-long skills and attitudes
 ---
 
 **For media enquiries, please contact:**
-
+<br>
 Bridgitte Lee
 <br>Senior Executive, Media Relations
 <br>Singapore Sports Council
