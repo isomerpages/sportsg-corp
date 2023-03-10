@@ -12,21 +12,21 @@ image: ""
 **Singapore, 24 September 2013** - The High Performance Sports (HPS) Steering Committee awarded 66 athletes across 15 sports the inaugural Sports Excellence Scholarship (spexScholarship) today. In addition, 26 athletes from nine sports who have demonstrated potential to progress to the level of a spexScholar in the future have been identified for targeted support.
 ![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0042Imagegif.gif)
 
-2\. The spexScholarship was announced earlier in March to provide enhanced support for highly talented Singaporean athletes with demonstrated potential for international sporting achievements. It will also increase the level of the support given through the existing HPS System.
+2. The spexScholarship was announced earlier in March to provide enhanced support for highly talented Singaporean athletes with demonstrated potential for international sporting achievements. It will also increase the level of the support given through the existing HPS System.
 
-3\. In all, the Singapore Sports Institute (SSI) received 218 nominations across 28 sports by the end of April 2013, of which 152 athletes from 20 sports were shortlisted for interviews. Following the interviews, the HPS Selection & Performance Sub-Committee and the HPS Steering Committee reviewed the shortlisted candidates and confirmed the list of spexScholars.
+3. In all, the Singapore Sports Institute (SSI) received 218 nominations across 28 sports by the end of April 2013, of which 152 athletes from 20 sports were shortlisted for interviews. Following the interviews, the HPS Selection & Performance Sub-Committee and the HPS Steering Committee reviewed the shortlisted candidates and confirmed the list of spexScholars.
 
-4\. The SSI is in the process of working out training programmes with the respective spexScholars and their NSAs and will be starting off these programmes progressively over the next three to four months.
+4. The SSI is in the process of working out training programmes with the respective spexScholars and their NSAs and will be starting off these programmes progressively over the next three to four months.
 
 ![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0069Imagegif.gif)
 
-5\. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, and Chairman of the HPS Steering Committee, said: "The spexScholarship will provide the selected Team Singapore athletes with an enhanced level of support to enable them to fully realise their aspirations and their competitive potential. With the introduction of the spexScholarship, we hope to see more Singaporean athletes focus on the fulltime pursuit of sport excellence.
+5. Mr Lawrence Wong, Acting Minister for Culture, Community and Youth, and Chairman of the HPS Steering Committee, said: "The spexScholarship will provide the selected Team Singapore athletes with an enhanced level of support to enable them to fully realise their aspirations and their competitive potential. With the introduction of the spexScholarship, we hope to see more Singaporean athletes focus on the fulltime pursuit of sport excellence.
 
-6\. "Beyond this group of spexScholars, we have also identified another group of athletes who have shown potential to be a spexScholar but are not at that level yet. We will provide them with additional support, and we hope that they will be able to advance to the level of a spexScholar within a year or two,"
+6. "Beyond this group of spexScholars, we have also identified another group of athletes who have shown potential to be a spexScholar but are not at that level yet. We will provide them with additional support, and we hope that they will be able to advance to the level of a spexScholar within a year or two,"
 
-7\. These 26 athletes from nine sports will be given targeted support such as overseas training camps, competitions and equipment to enable them to maximise their potential. At the same time, they will continue to be eligible, just like all other athletes in the carding system, to the spexGrants support provided by the SSI.
+7. These 26 athletes from nine sports will be given targeted support such as overseas training camps, competitions and equipment to enable them to maximise their potential. At the same time, they will continue to be eligible, just like all other athletes in the carding system, to the spexGrants support provided by the SSI.
 
-8\. Nominations for the second intake of spexScholars will take place in April 2014.
+8. Nominations for the second intake of spexScholars will take place in April 2014.
 
 ---
 
@@ -167,24 +167,24 @@ The increase in programme depth is achieved by supporting highly talented athlet
 
 **The spexScholarship will provide the following:**
 <br>
-1\.  Financial support
+1.  Financial support
 *  Monthly stipend to sustain full-time training at SEA Games and higher levels
 *  Median annual stipend amounts are $$24,000 (SEA Games or equivalent), $60,000 (Asian Games or equivalent) and $$90,000 for (Olympic Games or equivalent)
 *  Coaching
 *  Training, competition and equipment
  
-2\.  Education support for student athletes: e.g.
+2.  Education support for student athletes: e.g.
 *  Flexible education programme
 *  Education service support (programme counseling, university applications)
 *  Effective studentship (extra tutorial, goal setting etc)
 
-3\.  Career preparation for adult athletes: e.g.
+3.  Career preparation for adult athletes: e.g.
 *  Athlete-friendly employer networking
 *  Career counseling
 *  Internships and job attachments
 *  Training e.g., interview skills, effective working habits, and personal grooming.
 
-4\.  Personal and life-skill development: e.g.
+4.  Personal and life-skill development: e.g.
 *  Time management
 *  Communication skills
 *  Financial and life planning
@@ -330,15 +330,18 @@ Be a role model for the youths of Singapore
 <br>Senior Vice-President, Oracle Application
 <br>Triathlete and Advocate for Corporate Sports
 
-**For media enquiries, please contact:**
+---
+
+**For media enquiries, please contact:**<br>
 <br>Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5014
 <br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
 
-##### **About Singapore Sports Council**
+---
+
+**About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [Vision2030.sg](http://www.vision2030.sg/) and [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
-
+To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
