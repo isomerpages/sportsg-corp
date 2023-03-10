@@ -28,7 +28,7 @@ image: ""
 
 10. At the Flag Presentation Ceremony, it was also announced that the NTUC FairPrice Foundation will be awarding sports scholarships to Team Singapore medalists at the YOG. This is similar to the sports scholarships that NTUC FairPrice Foundation awarded to medalists at the inaugural Asian Youth Games in 2009. Said Mr Wee Leong How, General Manager, NTUC FairPrice Foundation, "As we count down to the Singapore 2010 Youth Olympic Games, we are increasingly seeing how sports can be a common platform for the diverse Singapore community to bond. We have witnessed ground up support as various members of the community gear up for the games. We hope that through the NTUC FairPrice Foundation Sports Scholarship for team Singapore medalists at YOG, we can help nurture local young sporting talents and sustain Singapore's passion in sports."
 
-11. Singaporeans and members of the public who wish to keep abreast of Team Singapore's performance at the YOG can sign up for a free SMS alert service through the Team Singapore website at www.teamsingapore.com.sg.
+11. Singaporeans and members of the public who wish to keep abreast of Team Singapore's performance at the YOG can sign up for a free SMS alert service through the Team Singapore website at [www.teamsingapore.sg](http://www.teamsingapore.sg/home).
 
 ---
 
@@ -37,135 +37,135 @@ image: ""
 | S/N | Sport | Name | Event |
 | --- | --- | --- | --- |
 | 01 | Archery | Vanessa Lo<br>罗梓榕 | Recurve Ind. (W) |
-| 02 | | Abdul Dayyan Jaffar | Recurve Ind. (M) |
+| 02 |Archery | Abdul Dayyan Jaffar | Recurve Ind. (M) |
 | 03 | Athletics | Devaraj Zachary Ryan | 1,000m (M) |
-| 04 | | Sean To<br>卓稔傑 | 100m Hurdles (M) |
-| 05 | | Goh Wei Nin<br>吴玮宁 | 100m Hurdles (W) |
-| 06 | | Wendy En<br>余敏敏 | 400m (W) |
-| 07 | | Ranjitha Raja | 1,000m (W) |
-| 08 | | Liang We<br>梁微 | 100m (W) |
+| 04 |Athletics | Sean To<br>卓稔傑 | 100m Hurdles (M) |
+| 05 |Athletics| Goh Wei Nin<br>吴玮宁 | 100m Hurdles (W) |
+| 06 |Athletics | Wendy En<br>余敏敏 | 400m (W) |
+| 07 |Athletics | Ranjitha Raja | 1,000m (W) |
+| 08 |Athletics | Liang We<br>梁微 | 100m (W) |
 | 09 | Badminton | Huang Cha<br>黄超 | Singles (M) |
 | 10 | Basketball | Ng Hannah Jia Hu<br>黄嘉慧 | Team (W) |
-| 11 | | Tok Huimi<br>卓慧敏 |
-| 12 | | Eng Zo<br>翁如仪 |
-| 13 | | Lim Rui Jia Alann<br>林芮嘉 |
-| 14 | | Su Mingrong Jabe<br>苏铭荣 | Team (M) |
-| 15 | | Low Wenqiang Russel<br>刘文强 |
-| 16 | | Tan Jun We<br>陈俊伟 |
-| 17 | | Liew Larry Hua Se<br>刘华森 |
+| 11 |Basketball | Tok Huimi<br>卓慧敏 | Team (W) |
+| 12 |Basketball | Eng Zo<br>翁如仪 | Team (W) |
+| 13 |Basketball | Lim Rui Jia Alann<br>林芮嘉 | Team (W) |
+| 14 |Basketball | Su Mingrong Jabe<br>苏铭荣 | Team (M) |
+| 15 |Basketball | Low Wenqiang Russel<br>刘文强 |Team (M) |
+| 16 |Basketball | Tan Jun We<br>陈俊伟 |Team (M) |
+| 17 |Basketball | Liew Larry Hua Se<br>刘华森 |Team (M) |
 | 18 | Boxing | Mohd Hanurdeen Hamid | Lt Fly Wt 48 kg (M) |
 | 19 | Canoeing | Brandon Ooi Wei Chen<br>黄伟成 | K1 (M) |
-| 20 | | Wang Nan Fen<br>袁南凤 | K1 (W) |
+| 20 |Canoeing | Wang Nan Fen<br>袁南凤 | K1 (W) |
 | 21 | Cycling | Alvin Poo<br>潘 辉 智 | Mass start, Race (M) |
-| 22 | | Koh Jun Jie Daniel | Mass start, X-country (M) |
-| 23 | | Travis Woodford | Mass start, Time Trial (M) |
-| 24 | | Nur Nasthasia Nadiah | Road, MB, BMX (W) |
+| 22 |Cycling | Koh Jun Jie Daniel | Mass start, X-country (M) |
+| 23 |Cycling | Travis Woodford | Mass start, Time Trial (M) |
+| 24 |Cycling | Nur Nasthasia Nadiah | Road, MB, BMX (W) |
 | 25 | Diving | Timothy Le<br>李含光 | Ind. (M) |
-| 26 | | Chloe Cha<br>陈淑琳 | Ind. (W) |
-| 27 | | Myra Le<br>李佳纹 | Ind. (W) |
+| 26 |Diving | Chloe Cha<br>陈淑琳 | Ind. (W) |
+| 27 |Diving | Myra Le<br>李佳纹 | Ind. (W) |
 | 28 | Equestrian | Caroline Che<br>朱佩嘉 | FEI Challenge (W) |
 | 29 | Fencing | Rania Herlina Rahardj<br>陈玥桦 | Epee Ind. (W) |
-| 30 | | Liane Wong Ye Yin<br>王业盈 | Foil Ind. (W) |
-| 31 | | Justin Ong Xian Sh<br>王贤士 | Foil Ind. (M) |
-| 32 | | Lim Wei Ha<br>林伟豪 | Epee Ind. (M) |
+| 30 |Fencing | Liane Wong Ye Yin<br>王业盈 | Foil Ind. (W) |
+| 31 |Fencing | Justin Ong Xian Sh<br>王贤士 | Foil Ind. (M) |
+| 32 |Fencing | Lim Wei Ha<br>林伟豪 | Epee Ind. (M) |
 | 33 | Football | Amirul Iskandar K Anuar | Team (M) |
-| 34 | | Syazwan Radhi Kasim |
-| 35 | | Hazim Faiz Hassan |
-| 36 | | Hamzah Fazil |
-| 37 | | Muhaimin Suhaimi |
-| 38 | | Dhukhilan Jeevamani |
-| 39 | | Bryan Neubronner |
-| 40 | | Lee Si Qin Illya<br>李思勤 |
-| 41 | | Sunny Ng Qiu Yan<br>黄秋阳 |
-| 42 | | Tan Zen Yang Jonatha<br>陈俊荣 |
-| 43 | | Muhd Syazwan Muhd Zin |
-| 44 | | Hanafi Mohd Akbar |
-| 45 | | Brandon Koh Kim Len<br>许金良 |
-| 46 | | Ammirul Emmran |
-| 47 | | Jeffrey Adam Lightfoot |
-| 48 | | Firdaus Mohd Sham |
-| 49 | | Fashah Iskandar |
-| 50 | | Irfan Asyraf Mohd Aziz |
+| 34 |Football | Syazwan Radhi Kasim |Team (M) |
+| 35 |Football | Hazim Faiz Hassan |Team (M) |
+| 36 |Football | Hamzah Fazil |Team (M) |
+| 37 |Football | Muhaimin Suhaimi |Team (M) |
+| 38 |Football | Dhukhilan Jeevamani |Team (M) |
+| 39 |Football | Bryan Neubronner |Team (M) |
+| 40 |Football | Lee Si Qin Illya<br>李思勤 |Team (M) |
+| 41 |Football | Sunny Ng Qiu Yan<br>黄秋阳 |Team (M) |
+| 42 |Football | Tan Zen Yang Jonatha<br>陈俊荣 |Team (M) |
+| 43 |Football | Muhd Syazwan Muhd Zin |Team (M) |
+| 44 |Football | Hanafi Mohd Akbar |Team (M) |
+| 45 |Football | Brandon Koh Kim Len<br>许金良 |Team (M) |
+| 46 |Football | Ammirul Emmran |Team (M) |
+| 47 |Football | Jeffrey Adam Lightfoot |Team (M) |
+| 48 |Football | Firdaus Mohd Sham |Team (M) |
+| 49 |Football | Fashah Iskandar |Team (M) |
+| 50 |Football | Irfan Asyraf Mohd Aziz |Team (M) |
 | 51 | Gymnastics | Miki Erica Nomur<br>野村 美喜 | Rhythmic Team (W) |
-| 52 | | Phaan Yi Li<br>潘毓苓 |
-| 53 | | Chia Shing Eng Cecili<br>谢欣恩 |
-| 54 | | Sim Kwee Peng An<br>沈桂萍 |
-| 55 | | Vivien H<br>何炜燕 |
-| 56 | | Timothy Tay Kai Chen<br>郑凯骋 / 鄭凱騁 | Artistic Ind. (M) |
-| 57 | | Rachel Giam Pei Sh<br>严佩诗 | Artistic Ind. (W) |
+| 52 |Gymnastics | Phaan Yi Li<br>潘毓苓 |Rhythmic Team (W) |
+| 53 |Gymnastics | Chia Shing Eng Cecili<br>谢欣恩 |Rhythmic Team (W) |
+| 54 |Gymnastics | Sim Kwee Peng An<br>沈桂萍 |Rhythmic Team (W) |
+| 55 |Gymnastics | Vivien H<br>何炜燕 |Rhythmic Team (W) |
+| 56 |Gymnastics | Timothy Tay Kai Chen<br>郑凯骋 / 鄭凱騁 | Artistic Ind. (M) |
+| 57 |Gymnastics | Rachel Giam Pei Sh<br>严佩诗 | Artistic Ind. (W) |
 | 58 | Handball | Izzat Hashim | Team (M) |
-| 59 | | Clement Choon<br>钟镇安 |
-| 60 | | Oscar Oo<br>黄军豪 |
-| 61 | | Pritpal Singh |
-| 62 | | Ryan Go<br>许竖贤 |
-| 63 | | Jason Ta<br>陈俊杰 |
-| 64 | | Wilmer Ta<br>郑泽峻 |
-| 65 | | Tow Wen We<br>苏文伟 |
-| 66 | | Vinoth Pillay |
-| 67 | | Ervin Set<br>施迪文 |
-| 68 | | Eugene Fo<br>胡职骏 |
-| 69 | | Muhd Zahin Mazali |
-| 70 | | Koh Jing L<br>许敬立 |
-| 71 | | Alvin Lo<br>刘俊霆 |
+| 59 |Handball | Clement Choon<br>钟镇安 |Team (M) |
+| 60 |Handball | Oscar Oo<br>黄军豪 |Team (M) |
+| 61 |Handball | Pritpal Singh |Team (M) |
+| 62 |Handball | Ryan Go<br>许竖贤 |Team (M) |
+| 63 |Handball | Jason Ta<br>陈俊杰 |Team (M) |
+| 64 |Handball | Wilmer Ta<br>郑泽峻 |Team (M) |
+| 65 |Handball | Tow Wen We<br>苏文伟 |Team (M) |
+| 66 |Handball | Vinoth Pillay |Team (M) |
+| 67 |Handball | Ervin Set<br>施迪文 |Team (M) |
+| 68 |Handball | Eugene Fo<br>胡职骏 |Team (M) |
+| 69 |Handball | Muhd Zahin Mazali |Team (M) |
+| 70 |Handball | Koh Jing L<br>许敬立 |Team (M) |
+| 71 |Handball | Alvin Lo<br>刘俊霆 |Team (M) |
 | 72 | Hockey | Ong Pang Chian Samudr<br>王邦权 | Team (M) |
-| 73 | | Ng Rui Ming Kevi<br>黄睿明 |
-| 74 | | Abdul Rahim A Rashid |
-| 75 | | Haseef Salim |
-| 76 | | Fadzly Adam |
-| 77 | | Shahid Manap |
-| 78 | | Amirul Asyraf |
-| 79 | | Zulfadhli Jasni Ismail |
-| 80 | | Al‛fien Mohd Amir |
-| 81 | | Nur Ashriq Ferdaus Zulkepi |
-| 82 | | Muhd Hidayat Mat Rahim |
-| 83 | | Muhd Fadhil Muhd Rizaini |
-| 84 | | Karleef Sasi Abdullah |
-| 85 | | Silas A Razak |
-| 86 | | Rahmat A Jalil |
-| 87 | | Shafiq A Rashid |
+| 73 |Hockey | Ng Rui Ming Kevi<br>黄睿明 |Team (M) |
+| 74 |Hockey | Abdul Rahim A Rashid |Team (M) |
+| 75 |Hockey | Haseef Salim |Team (M) |
+| 76 |Hockey | Fadzly Adam |Team (M) |
+| 77 |Hockey | Shahid Manap |Team (M) |
+| 78 |Hockey | Amirul Asyraf |Team (M) |
+| 79 |Hockey | Zulfadhli Jasni Ismail |Team (M) |
+| 80 |Hockey | Al‛fien Mohd Amir |Team (M) |
+| 81 |Hockey | Nur Ashriq Ferdaus Zulkepi |Team (M) |
+| 82 |Hockey | Muhd Hidayat Mat Rahim |Team (M) |
+| 83 |Hockey | Muhd Fadhil Muhd Rizaini |Team (M) |
+| 84 |Hockey | Karleef Sasi Abdullah |Team (M) |
+| 85 |Hockey | Silas A Razak |Team (M) |
+| 86 |Hockey | Rahmat A Jalil |Team (M) |
+| 87 |Hockey | Shafiq A Rashid |Team (M) |
 | 88 | Judo | Lim Chin Ji<br>林俊杰 | 52-63 kg (M) |
-| 89 | | Tang Jing Fan<br>邓静芳 | 66-81 kg (W) |
+| 89 |Judo | Tang Jing Fan<br>邓静芳 | 66-81 kg (W) |
 | 90 | Modern Pentathlon | Valerie Li<br>林芷嫣 |
 | 91 | Rowing | Joanna Chan Lai Chen<br>陈丽晶 | JW1X (W) |
-| 92 | | Nadzrie Hyckell Hamzah | JM1X (M) |
+| 92 |Rowing | Nadzrie Hyckell Hamzah | JM1X (M) |
 | 93 | Sailing | Darren Choy Wong Leon<br>蔡旺龙 | 1 person Dinghy (M) |
-| 94 | | Natasha Yokoyama | 1 person Dinghy (W) |
-| 95 | | Audrey Yon<br>杨培琳 | Windsurfing (W) |
+| 94 |Sailing | Natasha Yokoyama | 1 person Dinghy (W) |
+| 95 |Sailing | Audrey Yon<br>杨培琳 | Windsurfing (W) |
 | 96 | Shooting | Wu Weny<br>吴文义 | 10m Air Pistol (M) |
-| 97 | | Lee Shang Hui Caro<br>李赏慧 | 10m Air Rifle (W) |
+| 97 |Shooting | Lee Shang Hui Caro<br>李赏慧 | 10m Air Rifle (W) |
 | 98 | Swimming | Adeline Winata |
-| 99 | | Lim Xiang Q<br>林香杞 |
-| 100 | | Chriselle Ko<br>许楹佳 |
-| 101 | | Cheryl Li<br>林欣静 |
-| 102 | | Clement Lim Yong‛e<br>林雍恩 |
-| 103 | | Arren Quek Xin Hu<br>郭信辉 |
-| 104 | | Rainer N<br>黄凯伟 |
-| 105 | | Pang Sheng Ju<br>冯盛均 |
+| 99 |Swimming | Lim Xiang Q<br>林香杞 |
+| 100 |Swimming | Chriselle Ko<br>许楹佳 |
+| 101 |Swimming | Cheryl Li<br>林欣静 |
+| 102 |Swimming | Clement Lim Yong‛e<br>林雍恩 |
+| 103 |Swimming | Arren Quek Xin Hu<br>郭信辉 |
+| 104 |Swimming | Rainer N<br>黄凯伟 |
+| 105 |Swimming | Pang Sheng Ju<br>冯盛均 |
 | 106 | Table Tennis | Isabelle L<br>李思韵 | Singles (W) |
-| 107 | | Clarence Che<br>周哲宇 | Singles (M) |
+| 107 |Table Tennis | Clarence Che<br>周哲宇 | Singles (M) |
 | 108 | Taekwondo | Daryl Tan Jia Ju<br>陈佳俊 | Under 55 kg (M) |
-| 109 | | Lee Jia Zhe Christophe<br>李佳哲 | Under 73 kg (M) |
-| 110 | | Nurul Shafinas Rahman | Under 55 kg (W) |
-| 111 | | Nur Zakirah Zakaria | Under 49 kg (W) |
+| 109 |Taekwondo | Lee Jia Zhe Christophe<br>李佳哲 | Under 73 kg (M) |
+| 110 |Taekwondo | Nurul Shafinas Rahman | Under 55 kg (W) |
+| 111 |Taekwondo | Nur Zakirah Zakaria | Under 49 kg (W) |
 | 112 | Tennis | Stefanie Ta<br>陈丽云 | Singles (W) |
 | 113 | Triathlon | Scott An<br>洪毅强 | Ind. (M) |
-| 114 | | Clara Won<br>黄琬琪 | Ind. (W) |
+| 114 |Triathlon | Clara Won<br>黄琬琪 | Ind. (W) |
 | 115 | Volleyball | Peng Yet Ting Dorit<br>彭业婷 | Team (W) |
-| 116 | | Chiang Ying Chen Jacquelin<br>蒋縕蓁 |
-| 117 | | Lim Shu Yu Joell<br>林姝余 |
-| 118 | | Chia Kah An Michell<br>谢佳恩 |
-| 119 | | Ang Qi Hu<br>洪琪惠 |
-| 120 | | Seah Siew Hoo<br>谢秀云 |
-| 121 | | Ng Wei Ting Stephani<br>黄炜婷 |
-| 122 | | Tay Hwee Min Cassandr<br>郑惠敏 |
-| 123 | | Yeo Qian Lin Maryly<br>杨笺霖 |
-| 124 | | Cheryl Chan Cai Tin<br>陈彩婷 |
-| 125 | | Tan Yi Tin<br>陈纡婷 |
-| 126 | | Loh Ling Yin<br>卢玲颍 |
-| 127 | | Weightlifting | Law Wei Joe<br>刘伟 | 62 kg (M) |
-| 128 | | Jamie Emma We<br>黄嘉敏 | 58 kg (W) |
+| 116 |Volleyball | Chiang Ying Chen Jacquelin<br>蒋縕蓁 |Team (W) |
+| 117 |Volleyball | Lim Shu Yu Joell<br>林姝余 |Team (W) |
+| 118 |Volleyball | Chia Kah An Michell<br>谢佳恩 |Team (W) |
+| 119 |Volleyball | Ang Qi Hu<br>洪琪惠 |Team (W) |
+| 120 |Volleyball | Seah Siew Hoo<br>谢秀云 |Team (W) |
+| 121 |Volleyball | Ng Wei Ting Stephani<br>黄炜婷 |Team (W) |
+| 122 |Volleyball | Tay Hwee Min Cassandr<br>郑惠敏 |Team (W) |
+| 123 |Volleyball | Yeo Qian Lin Maryly<br>杨笺霖 |Team (W) |
+| 124 |Volleyball | Cheryl Chan Cai Tin<br>陈彩婷 |Team (W) |
+| 125 |Volleyball | Tan Yi Tin<br>陈纡婷 |Team (W) |
+| 126 |Volleyball | Loh Ling Yin<br>卢玲颍 |Team (W) |
+| 127 | Weightlifting | Law Wei Joe<br>刘伟 | 62 kg (M) |
+| 128 |Weightlifting | Jamie Emma We<br>黄嘉敏 | 58 kg (W) |
 | 129 | Wrestling | Kester Leun<br>梁俊裕 | Freestyle 54 kg (M) |
-| 130 | | Puteri Natasha | Freestyle 60 kg (W) |
+| 130 |Wrestling | Puteri Natasha | Freestyle 60 kg (W) |
 
 ---
 
