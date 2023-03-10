@@ -18,15 +18,15 @@ image: ""
 
 5. The new complex will be built on the site of the soon-to-be-demolished National Stadium, which, since 1973, has been the venue of choice for many national, regional and international sporting, entertainment and lifestyle events, including the Southeast Asian (SEA) Games, 2004 Tiger Cup and 18 National Day Parades.
 
-6 The Singapore Sports Hub - which incorporates the existing Singapore Indoor Stadium and comprise world-class facilities including a new 55,000-capacity National Stadium - will offer a plethora of exciting events and activities to suit Singaporeans of all ages.
+6. The Singapore Sports Hub - which incorporates the existing Singapore Indoor Stadium and comprise world-class facilities including a new 55,000-capacity National Stadium - will offer a plethora of exciting events and activities to suit Singaporeans of all ages.
 
 7. Built to suit Singapore's tropical climate, the Sports Hub possesses features developed in response to the heat and humidity, thereby ensuring the best quality environment for athlete and spectator alike, while establishing a benchmark for environmentally sustainable stadium design.
 
 8. In order to keep the Sports Hub humming with activity year-round, a full schedule of local, regional and international sports, entertainment and lifestyle events are set to capture the imagination and attention of the public. The primary aim is to establish a strong bond with Singaporeans as a national icon that will bring everyone together as a community - whether as participants, spectators or athletes.
 
-9. "We are very excited to commence with the next crucial milestone of this new development. We aim to create a place that could not just host major international events, but also a leisure and recreation focal point for Singaporeans at large ? in short engaging all Singaporeans to partake in and contribute towards becoming a Sporting Singapore," said Mr Reichhold.
+9. "We are very excited to commence with the next crucial milestone of this new development. We aim to create a place that could not just host major international events, but also a leisure and recreation focal point for Singaporeans at large in short engaging all Singaporeans to partake in and contribute towards becoming a Sporting Singapore," said Mr Reichhold.
 
-10. "The old National Stadium was an icon in its own right - where many of Singapore?s best memories were made. We can only aim to better this with the completion of what will be another national - and hopefully international - landmark, a place Singaporeans can look on with pride, and where everyone can do their part to create more lasting memories for Singapore."
+10. "The old National Stadium was an icon in its own right - where many of Singapore's best memories were made. We can only aim to better this with the completion of what will be another national - and hopefully international - landmark, a place Singaporeans can look on with pride, and where everyone can do their part to create more lasting memories for Singapore."
 
 ---
 
@@ -42,12 +42,12 @@ Annex C - [Stadium Roads Closure Media Advisory](/files/Media%20Centre/Media%20R
 Linda Fulford<br>
 Fulford Public Relations<br>
 DID: 6324 2268<br>
-Email: [lfulford@fulfordpr.com](lfulford@fulfordpr.com)
+Email: [lfulford@fulfordpr.com](mailto:lfulford@fulfordpr.com)
 
 Samantha See<br>
 Fulford Public Relations<br>
 DID: 6324 5293<br>
-Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
+Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 
 ---
 
@@ -67,4 +67,4 @@ Located on a 35ha site in Kallang, the Singapore Sports Hub will include the fol
 
 The Sports Hub, which is currently under construction, is the largest sports facilities infrastructure Public-Private-Partnership (PPP) project in the world. It is also Singapore's largest and flagship PPP project of this nature.
 
-For more information, please visit the Singapore Sports Hub website: [http://www.sportshub.com.sg](http://www.sportshub.com.sg)
+For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](http://www.sportshub.com.sg)
