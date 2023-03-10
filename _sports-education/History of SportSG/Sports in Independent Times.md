@@ -4,7 +4,7 @@ permalink: /sports-education/history-of-sportsg/sports-in-independent-times/
 description: ""
 third_nav_title: History of SportSG
 ---
-![Sports in Independent Singapore](/images/Sport%20Education/History%20of%20Singapore%20Sports/Sports%20in%20Independent%20Times/Sports_in_independent_singapore.jpeg)
+![Sports_in_Independent_Times](/images/Sport%20Education/History%20of%20Singapore%20Sports/Sports%20in%20Independent%20Times/Sports_in_Independent_Times.jpg)
 When Singapore attained independence in 1965, the Government called on the nation to build a rugged and robust society through sports participation. Sports was also seen as a way to bond people of different races.
 
 To boost the promotion of sports, a Sports Division was created in the Ministry of Social Affairs in 1966, with Encik Othman Wok, the then Minister, in charge. In the same year, the first pile for the construction of the National Stadium was driven in. 
