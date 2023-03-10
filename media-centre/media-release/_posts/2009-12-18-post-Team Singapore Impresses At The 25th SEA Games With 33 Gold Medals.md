@@ -276,7 +276,7 @@ Mobile (SG): +65 9272 0112
 <br>
 Mobile (Laos): +856 20 3045055
 <br>
-Email: hazwani_hasni@ssc.gov.sg
+Email: [hazwani_hasni@ssc.gov.sg](hazwani_hasni@ssc.gov.sg)
 
  
 S. Parameswaran
@@ -287,7 +287,7 @@ Mobile (SG): +65 9839 1974
 <br>
 Mobile (Laos): +856 20 3045056
 <br>
-Email: parames_seenivasagam@ssc.gov.sg
+Email: [parames_seenivasagam@ssc.gov.sg](parames_seenivasagam@ssc.gov.sg)
 
 Dominic Tay
 <br>
@@ -297,7 +297,7 @@ Mobile (SG): +65 8198 7460
 <br>
 Mobile (Laos): +856 20 3045054
 <br>
-Email: dominic_tay@ssc.gov.sg
+Email: [dominic_tay@ssc.gov.sg](dominic_tay@ssc.gov.sg)
 
 ---
 
