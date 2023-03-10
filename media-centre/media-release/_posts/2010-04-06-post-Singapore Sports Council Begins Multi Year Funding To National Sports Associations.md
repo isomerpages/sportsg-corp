@@ -35,7 +35,7 @@ image: ""
 
 Focus on Team Sports - Netball and Football to be supported for World Netball Championships 2011 & SEA Games 2013 and 2015
 
-12. Team Sports have the ability to create opportunities for play and for social cohesion. In view of this, the SSC will be providing additional indirect support to both Netball Singapore and the Football Association of Singapore to assist the national netball team and the men?s under-23 football team in their preparations for the World Netball Championships 2011, and the SEA Games 2013 and 2015, respectively.
+12. Team Sports have the ability to create opportunities for play and for social cohesion. In view of this, the SSC will be providing additional indirect support to both Netball Singapore and the Football Association of Singapore to assist the national netball team and the men's under-23 football team in their preparations for the World Netball Championships 2011, and the SEA Games 2013 and 2015, respectively.
 
 13. The support will include but not be limited to spexTEAM carding for the members of the respective teams, assistance in priority booking and subsidies for facilities, as well as liaison with other relevant authorities for leave and other related matters which could help in their preparations for the major events.
 
@@ -43,7 +43,6 @@ Focus on Team Sports - Netball and Football to be supported for World Netball Ch
 
 **For media enquiries, please contact:**
 <br>
-
 Tanty Nazlianah Rosli<br>
 Manager<br>
 Media & Public Relations<br>
@@ -63,10 +62,7 @@ Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.sportsingapore.gov.sg
-
-Join SSC on Twitter at: www.twitter.com/singaporesports
-
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
