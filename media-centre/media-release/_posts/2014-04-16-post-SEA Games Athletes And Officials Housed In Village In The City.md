@@ -10,39 +10,39 @@ image: ""
 
 The Singapore Southeast Asian Games Organising Committee (SINGSOC) announced today that 20 hotels (see annex) within the Havelock, Tanjong Pagar/Chinatown and Marina areas will be awarded the tender to provide accommodation for athletes, officials and delegates during the 28th SEA Games next year.
 
-2\. Based on the concept of a ‘_Celebration in the City’_ SINGSOC made the decision to house the athletes and officials near the Singapore Sports Hub and areas where the majority of the sports competitions and fringe events will take place.
+1. Based on the concept of a ‘_Celebration in the City’_ SINGSOC made the decision to house the athletes and officials near the Singapore Sports Hub and areas where the majority of the sports competitions and fringe events will take place.
 
-3\. “The 28th SEA Games will celebrate and showcase sport against the backdrop of Singapore’s stunning city setting. We want our SEA Games athletes and officials to enjoy our city’s unique flavours, sights and sounds, even as they focus on competing at their best,” said Mr Lim Teck Yin, Chairman, Exco Committee, SINGSOC.
+2. “The 28th SEA Games will celebrate and showcase sport against the backdrop of Singapore’s stunning city setting. We want our SEA Games athletes and officials to enjoy our city’s unique flavours, sights and sounds, even as they focus on competing at their best,” said Mr Lim Teck Yin, Chairman, Exco Committee, SINGSOC.
 
-4\. “We are very appreciative of the hotels’ support and effort for this historic event. The 28th SEA Games is an important event in our calendar of celebrations for Singapore’s 50th anniversary next year, and for the entire Southeast Asian region. We are confident that our SEA Games athletes and officials will have an enjoyable stay and return home with wonderful memories of the Games and Singapore,” added Mr Lim.
+3. “We are very appreciative of the hotels’ support and effort for this historic event. The 28th SEA Games is an important event in our calendar of celebrations for Singapore’s 50th anniversary next year, and for the entire Southeast Asian region. We are confident that our SEA Games athletes and officials will have an enjoyable stay and return home with wonderful memories of the Games and Singapore,” added Mr Lim.
 
-5\. To ensure that housing athletes and officials in hotels would be a cost-effective arrangement, SINGSOC had carefully evaluated the alternative of a centralised athlete’s village in university hostels. The study showed that the costs would be comparable because of the need to install additional arrangements for the Games, for example security fencing, and to restore conditions on return. The hotels which participated in the tender had also taken onboard their role in this national effort and had offered attractive packages.
+4. To ensure that housing athletes and officials in hotels would be a cost-effective arrangement, SINGSOC had carefully evaluated the alternative of a centralised athlete’s village in university hostels. The study showed that the costs would be comparable because of the need to install additional arrangements for the Games, for example security fencing, and to restore conditions on return. The hotels which participated in the tender had also taken onboard their role in this national effort and had offered attractive packages.
 
 ---
 
 **Annex A:**
  
  Hotels List<br>
- 1\. Amara Singapore <br>
- 2\. Copthorne King’s Hotel <br>
- 3\. Days Hotel Singapore At Zhongshan Park <br>
- 4\. Fairmont Singapore <br>
- 5\. Furama City Centre Singapore <br>
- 6\. Furama Riverfront Singapore <br>
- 7\. Grand Copthorne Waterfront Hotel <br>
- 8\. Grand Mercure Roxy Hotel <br>
- 9\. Village Hotel Bugis <br>
- 10\. M Hotel Singapore <br>
- 11\. Marina Bay Sands <br>
- 12\. Marina Mandarin Singapore <br>
- 13\. Novotel Singapore Clarke Quay <br>
- 14\. PARKROYAL on Beach Road <br>
- 15\. PARKROYAL on Kitchener Road <br>
- 16\. Peninsula.Excelsior Hotel <br>
- 17\. Ramada Singapore At Zhongshan Park <br>
- 18\. Resorts World Sentosa – Hard Rock Hotel and Festive Hotel <br>
- 19\. Swissôtel The Stamford Singapore <br>
- 20\. Pan Pacific Hotel Singapore <br>
+ 1. Amara Singapore <br>
+ 2. Copthorne King’s Hotel <br>
+ 3. Days Hotel Singapore At Zhongshan Park <br>
+ 4. Fairmont Singapore <br>
+ 5. Furama City Centre Singapore <br>
+ 6. Furama Riverfront Singapore <br>
+ 7. Grand Copthorne Waterfront Hotel <br>
+ 8. Grand Mercure Roxy Hotel <br>
+ 9. Village Hotel Bugis <br>
+ 10. M Hotel Singapore <br>
+ 11. Marina Bay Sands <br>
+ 12. Marina Mandarin Singapore <br>
+ 13. Novotel Singapore Clarke Quay <br>
+ 14. PARKROYAL on Beach Road <br>
+ 15. PARKROYAL on Kitchener Road <br>
+ 16. Peninsula.Excelsior Hotel <br>
+ 17. Ramada Singapore At Zhongshan Park <br>
+ 18. Resorts World Sentosa – Hard Rock Hotel and Festive Hotel <br>
+ 19. Swissôtel The Stamford Singapore <br>
+ 20. Pan Pacific Hotel Singapore <br>
 
 ---
 
