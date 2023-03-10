@@ -55,7 +55,7 @@ It reinforces our joint vision to advocate an active lifestyle for children to a
 
 This MOU is the result of a long standing partnership between both organisations with MILO as a longtime champion of youth sports in Singapore for the last 60 years. Many football enthusiasts will remember being part of the MILO FAS Soccer school. Singapore's favourite football sons, where Fandi Ahmad, David Lee, Malek Awab and were graduates and they are a fine example of how their participation in sports is an integral part of their lives. These men do not just excel on the football field, but are equally successful in their personal lives.
 
-Closer to home, many of the students present may also remember cheering on their school mates at inter-school sports competitions while enjoying cups of ice-cold MILO, and continue to enjoy this support from MILO as they progress on to secondary school and even junior college. We have been an active supporter of the Ministry of Education School Sports Council programmes for more than 50 years, including MILO?s longstanding sponsorship support of the South-east Asian Games since the inauguration.
+Closer to home, many of the students present may also remember cheering on their school mates at inter-school sports competitions while enjoying cups of ice-cold MILO, and continue to enjoy this support from MILO as they progress on to secondary school and even junior college. We have been an active supporter of the Ministry of Education School Sports Council programmes for more than 50 years, including MILO's longstanding sponsorship support of the South-east Asian Games since the inauguration.
 
 With the MILO and SSC's partnership, both organisations will be rolling out activities under three phases in 2010 - Inspiring Singapore, Cheering Singapore and Legacy Singapore.
 
@@ -107,19 +107,19 @@ Thank you.
 
 
 Dr Vivian Balakrishnan, Minister, Community Development, Youth and Sports;
-<br>
+
 Teo Ser Luck, Senior Parliamentary Secretary, Ministry of Community Development Youth and Sports and Ministry of Transport;
-<br>
+
 Suresh Narayanan, Managing Director, Nestle;
-<br>
+
 Mrs Rabia Shahul Hameed, Principal, Sengkang Primary School;
-<br>
+
 Athletes, Students of Seng Kang Primary School;
-<br>
+
 Media friends;
-<br>
+
 Ladies and Gentlemen.
-<br>
+
 Good afternoon.
 
 Recently, I had the chance to watch the movie, 'Invictus', a true story about Nelson Mandela in his first year as president of South Africa and how he used the power of sports to inspire a nation. Mandela ignored the sceptics to see the people of South Africa unite behind the Springboks' Rugby Team as they won the World Championships in 1995. Mandela was a believer.
@@ -130,9 +130,9 @@ Recently, I had the chance to watch the movie, 'Invictus', a true story about Ne
 
 4. Under this partnership, the SSC and MILO will be working together closely to develop sports and sports awareness among the youth of Singapore. Suresh is going to share more details with you on this exciting collaboration shortly. So I will say briefly that I firmly believe this partnership will spur the growth of Singapore's pool of athletes overall and this in turn will boost our efforts in high performance. If Singapore is to excel in the international sporting arena, we first need athletes with talent and development potential.
 
-5. The signing of this MOU comes at a time when Singapore is working hard as a nation to step up its preparations to host the inaugural Youth Olympic Games in August. I hope that through initiatives such as this MOU between the SSC and MILO, more youths will be interested in sports?not just to play but to volunteer, officiate and coach. We are aiming to have more young people watching the 600-plus sports events that Singapore hosts annually, including Singapore 2010.
+5. The signing of this MOU comes at a time when Singapore is working hard as a nation to step up its preparations to host the inaugural Youth Olympic Games in August. I hope that through initiatives such as this MOU between the SSC and MILO, more youths will be interested in sports not just to play but to volunteer, officiate and coach. We are aiming to have more young people watching the 600-plus sports events that Singapore hosts annually, including Singapore 2010.
 
-6. Higher awareness of sports could also translate into deeper appreciation of our national and youth development athletes. We want to see the youth of country come forward in support of our Team Singapore athletes. Whether our elite athletes are competing internationally, regionally or at home, they need to hear your voices, cheering them on. You should never underestimate the power of a supportive home crowd on the results of a game or a competition. So, we?re hoping that as we raise sports awareness, we will see more spectators, supporters and volunteers.
+6. Higher awareness of sports could also translate into deeper appreciation of our national and youth development athletes. We want to see the youth of country come forward in support of our Team Singapore athletes. Whether our elite athletes are competing internationally, regionally or at home, they need to hear your voices, cheering them on. You should never underestimate the power of a supportive home crowd on the results of a game or a competition. So, we're hoping that as we raise sports awareness, we will see more spectators, supporters and volunteers.
 
 7. I would like to thank Nestle for keeping their faith in sports and for making a significant contribution towards Singapore's youth sports development. Corporate support is the foundation of our endeavours to turn Singapore into a sports city, and I hope that more companies, big and small, will join the Sporting Singapore team. Our athletes, our programmes and our events are generating a lot of buzz here in Singapore and, increasingly, in the region and internationally. The value of the Sporting Singapore brand is rising as we set new standards in events management, athlete performance and sports development.
 
