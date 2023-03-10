@@ -2,4 +2,5 @@ collections:
   safe-sport:
     output: true
     order:
+      - Reporting.md
       - Safe Sport.md
