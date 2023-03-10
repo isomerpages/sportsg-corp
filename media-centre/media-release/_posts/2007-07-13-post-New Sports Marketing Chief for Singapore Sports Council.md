@@ -28,6 +28,7 @@ Kelven graduated in 1986 with a Bachelor of Arts from the National University of
 
 **For media enquiries, please contact:**
 <br>
+
 Susmita Dayanandan
 <br>
 Senior Executive, (Corporate & Marketing Communications)
@@ -44,4 +45,4 @@ Email: [susmita_dayanandan@ssc.gov.sg](mailto:susmita_dayanandan@ssc.gov.sg)
 
 **About Singapore Sports Coumcil**
 <br>
-*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: [www.ssc.gov.sg](www.ssc.gov.sg).*
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: <!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->[www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/).
