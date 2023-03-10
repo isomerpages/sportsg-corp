@@ -14,10 +14,10 @@ Mr Tharman Shanmugaratnam, Deputy Prime Minister & Minister for Finance & Member
 Ms Grace Fu, Minister in the Prime Minister's Office & Second Minister for Environment and Water Resources & Second Minister for Foreign Affairs & Member of Parliament for Yuhua SMC
 
 Other Members of Parliament for Jurong GRC:
-Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports
-Mr Ang Wei Neng
-Mr Desmond Lee
-Mr David Ong, BBM
+* Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports
+* Mr Ang Wei Neng
+* Mr Desmond Lee
+* Mr David Ong, BBM
 
 Mr Vikram Nair and Mr Alex Yam, members of the Government Parliamentary Committee for Community Development, Youth and Sports
 
