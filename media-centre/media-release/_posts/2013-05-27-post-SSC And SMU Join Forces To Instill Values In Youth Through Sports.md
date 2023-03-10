@@ -172,8 +172,8 @@ A descriptive assessment in the form of active participation, demonstration of r
 ##### **About the Singapore Sports Council**
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
-To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and www.SingaporeSports.sg.<br>
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg<br>
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [www.Vision2030.sg](/about-us/vision-2030/).<br>
+Follow SSC on Facebook at [https://www.facebook.com/livebetterthroughsport ](https://www.facebook.com/livebetterthroughsport )<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
 **About the Singapore Management University**<br>
