@@ -18,11 +18,11 @@ image: ""
 
 5. The SSC has a dedicated team of liaison officers that are on hand to help the visiting teams adjust as fast as possible. These liaison officers help them with logistical matters such as phone cards, meals, transport, and training equipment; essentially making their transition as seamless as possible so that athletes and coaches are able to focus solely on their performance without any distractions.
 
-##### **A Chance to Catch World-Class Aquatic Action**
+**A Chance to Catch World-Class Aquatic Action**
 
 6. While the teams are here, Singaporeans will get the opportunity to get up close and personal with some of these sports superstars. Autograph signing and open training sessions with the Australian and French teams along with Water Polo and Diving competitions are just some of the many activities that the public can look forward to.
 
-7. In addition, six of the top water polo teams in the world, including top ranked Hungary ? who have 15 Olympic and nine World Championship medals to their name, will be playing in the Pre-World Championships Water Polo Game from 9 to 13 July at Toa Payoh Swimming Complex. Singapore Water Polo will also be conducting the FINA Water Polo School for Referees in tandem with the Games. The course, conducted by 9 to 11July by Niculae Firoiu - a member of FINA's Technical Water Polo Committee, aims to raise the level of officiating standards in Asia.
+7. In addition, six of the top water polo teams in the world, including top ranked Hungary who have 15 Olympic and nine World Championship medals to their name, will be playing in the Pre-World Championships Water Polo Game from 9 to 13 July at Toa Payoh Swimming Complex. Singapore Water Polo will also be conducting the FINA Water Polo School for Referees in tandem with the Games. The course, conducted by 9 to 11July by Niculae Firoiu - a member of FINA's Technical Water Polo Committee, aims to raise the level of officiating standards in Asia.
 
 8. Singaporeans will also get a preview of the SEA Games diving competition, when Singapore competes against other SEA Games countries at the 2nd Singapore Diving Invitational that will be held from 8 to 10 July. Anna Lindberg, the current European diving champion from Sweden will be diving alongside athletes from Singapore, The Philippines, Brunei, Hong Kong, Macau, and Indonesia. The full list of these activities is available in Annex A.
 
@@ -30,31 +30,29 @@ image: ""
 
 ---
 
-###### Annex A - Activities Calendar
+**Annex A - Activities Calendar**
 Activities Calendar [108 Kb]
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**<br>
 Patricia Yee<br>
 Executive, Media Relations<br>
 Singapore Sports Council<br>
-Email: patricia_yee@ssc.gov.sg
+Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
 Tanty Nazlianah Rosli<br>
 Senior Manager, Media Relations<br>
 Singapore Sports Council<br>
 Office: 6500 5241<br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.ssc.gov.sg and SingaporeSports.sg
-
-Follow SSC on Twitter at: www.twitter.com/singaporesports and Facebook at: www.facebook.com/letsplaysg
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
