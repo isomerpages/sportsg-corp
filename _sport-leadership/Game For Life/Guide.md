@@ -4,9 +4,9 @@ permalink: /sport-leadership/game-for-life/guide/
 description: ""
 third_nav_title: Game For Life
 ---
-![Guide](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Guide/guide.gif)
 
-The Game for Life Guide equips you with know-how to integrate character and leadership development into the sport arena, which encompasses a skill practice drill, fitness activity, game play, match or competition training, and even an outdoor corporate training session.
+| -------- | -------- | 
+| ![Guide](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Guide/guide.gif)     | The Game for Life Guide equips you with know-how to integrate character and leadership development into the sport arena, which encompasses a skill practice drill, fitness activity, game play, match or competition training, and even an outdoor corporate training session.  |
   
 **CHAPTER ONE** provides an overview of the importance of intentional and deliberate effort to create teaching moments to build character and leadership.  
   
