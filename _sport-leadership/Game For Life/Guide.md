@@ -41,7 +41,7 @@ You may visit this [link](https://www.rp.edu.sg/ace/short-course/Detail/game-fo
 
 #### **Quotes**
 
-*"We take notice of values more often....everyone understands, we keep them in mind and they actually help in our skills execution as well."* - **Member, SMU Women Football Team**
+*"We take notice of values more often....everyone understands, we keep them in mind and they actually help in our skills execution as well."*  **Member, SMU Women Football Team**
 
 *"Values education is not new in our school so I was not particularly excited when first approached by Sport Singapore. Upon closer understanding, I realised that the Framework, especially the Check-Act-Reinforce component, contains layers of insights for a richer learning experience for the students.The guidelines and templates provided are also handy when planning my classes."*  
 **P.E. Teacher, Temasek Secondary School**  
