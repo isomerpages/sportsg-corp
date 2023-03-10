@@ -105,7 +105,7 @@ Follow Team Singapore's action on Facebook at [www.facebook.com/TeamSG ](www.fac
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
-To find out more, visit our websites [www.ssc.gov.sg,](www.ssc.gov.sg,) [www.Vision2030.sg ](www.Vision2030.sg )and www.singaporesports.sg. 
+To find out more, visit our websites  [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg and [www.Vision2030.sg ](www.Vision2030.sg ). 
 <br>
 Follow us on Facebook and Flickr at: [https://www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)and [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
