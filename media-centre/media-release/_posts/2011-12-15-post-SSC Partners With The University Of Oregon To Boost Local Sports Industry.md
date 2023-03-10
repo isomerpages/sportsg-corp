@@ -24,7 +24,7 @@ _SSC Embarks on Five-Year Collaboration with University Of Oregon on Capability 
 * Connecting local students to sports-related education and industry experience in Oregon;
 * Giving UO graduate students the opportunity to work with SSC and local industry partners.
 
-##### **Local Sports Leaders to be Exposed to Oregon's Sports Culture**
+**Local Sports Leaders to be Exposed to Oregon's Sports Culture**
 
 5. Oregon is home to some of the biggest players in the business of sports, the athletes at UO are regular features at the Olympics and World Championships, and the residents are ardent fans who come out in full force to support their sports teams. The sports culture and love for sports in Oregon is one that can be compared to few others in the United States.
 
@@ -32,7 +32,7 @@ _SSC Embarks on Five-Year Collaboration with University Of Oregon on Capability 
 
 7. Mr Lim Teck Yin, CEO of the SSC, said, "The training and development of world-class personnel is going to be important to the evolution of Singapore's sports scene. UO has a mature sports industry and culture, as evidenced through the extraordinary reach of both the TrackTown USA brand and the Oregon Ducks brand. This partnership will no doubt infuse more energy, efficiency and innovation in the development of our sports industry."
 
-##### **Education and Industry Experience for Singaporean Students and Athletes**
+**Education and Industry Experience for Singaporean Students and Athletes**
 
 8. "As Singapore's sports industry continues to grow, we need to create a pipeline of trained experts who are able to add value and continue to expand our businesses," said Mr Lim. "With the Warsaw Sports Marketing Centre at UO running the country's premier sports business programme, and with a highly regarded sports science faculty, UO is a perfect training ground at which to nurture the sports leaders and visionaries of tomorrow."
 
@@ -40,7 +40,7 @@ _SSC Embarks on Five-Year Collaboration with University Of Oregon on Capability 
 
 10. Mr Paul Swangard, Managing Director of the Warsaw Sports Marketing Centre said, "Sport is in the University of Oregon's DNA. We are honored and excited to be partnering with the SSC to share our expertise and connections with the emerging sport community. Our sincere hope is to help accelerate the development of the sport market in Singapore by providing the SSC and its partners with the knowledge capital and human capital it needs to fuel that growth."
 
-##### **UO Graduate Students to Work with the SSC and Industry Partners**
+**UO Graduate Students to Work with the SSC and Industry Partners**
 
 11. Recognising the enormous potential for growth within Singapore's sports industry, UO is keen to send graduate students to Singapore on various programmes to explore the opportunities for collaboration, and implement sports initiatives.
 
@@ -49,8 +49,7 @@ _SSC Embarks on Five-Year Collaboration with University Of Oregon on Capability 
 13. On his hopes for the benefits this MOU will bring to Singapore, Mr Seow said, "Building and strengthening the skills in the sports sector will enable a more sustainable and vibrant sports eco-system. We expect that this collaboration with UO will yield results that pave the way for better careers and higher standards of professionalism in Singapore sports."
 
 ---
-
-###### Annex A: University of Oregon Fact Sheet
+**Annex A: University of Oregon Fact Sheet**
 
 Celebrating its 128th anniversary, the University of Oregon has welcomed six generations of outstanding leaders since opening in 1876. Today's students, like the nearly 200,000 alumni before them, have access to the most current knowledge in classes, as well as laboratories and seminars conducted by leading researchers.
 
@@ -70,7 +69,7 @@ Among the Graduate School's many institutes and research centres are the interna
 
 Even as UO's academic and research programs grow, so does the university's representation of and commitment to diversity. Students of colour constitute about 13 percent of the student body, and the university promotes increased diversity through such programs as the Office of Multicultural Affairs, which provides academic and support services to minority students; the Associated Students of the University of Oregon Multicultural Centre; and various initiatives, such as establishment of the Ethnic Studies Program. About 1,400 international students from nearly 80 countries represent about 7 percent of the student body.
 
-To learn more about the University of Oregon and how it is transforming lives, please visit http://www.uoregon.edu.
+To learn more about the University of Oregon and how it is transforming lives, please visit [www.uoregon.edu](http://www.uoregon.edu).
 
 The university's seven professional schools and colleges offer programs that provide training to meet specific career goals. However, all programs require a substantial number of liberal arts courses in the College of Arts and Sciences to ensure a well-balanced education.
 
@@ -122,7 +121,7 @@ The Oregon University System publishes data based on the fourth week of enrollme
 * Full-time - 21,896
 * Part-time - 2,551
 
-Most popular majors among undergraduates
+Most popular majors among undergraduates:
 
 Accounting, Advertising, Anthropology, Architecture, Art, Biology, Business administration, Computer and information science, Economics, Education, English, Environmental science, Environmental studies, History, Human physiology, Journalism, Mathematics, Political science, Psychology, Public relations, Sociology
 
@@ -182,9 +181,7 @@ Acrobatics & Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softba
 * Waterski-Wakeboard
 * Wushu
 
-###### Annex B: Profile of Paul Swangard
-
-![](/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0042Imagegif.gif)
+**Annex B: Profile of Paul Swangard**
 
 <img src="/images/Media%20Centre/Media%20Release/2011/Dec/SSCPARTNERSUNIVERSITYOFOREGONTOBOOSTLOCALSPORTSINDUSTRYMainPar0042Imagegif.gif" style="width:150px;">
 
@@ -196,8 +193,7 @@ Prior to the Warsaw Centre, Swangard was an award-winning sports journalist and 
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**<br>
 Patricia Yee
 <br>
 Executive, Media Relations
@@ -215,13 +211,12 @@ Singapore Sports Council
 Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
 
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website www.Vision2030.sg.
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
