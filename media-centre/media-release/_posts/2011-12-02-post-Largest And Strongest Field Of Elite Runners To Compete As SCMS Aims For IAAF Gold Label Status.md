@@ -27,7 +27,7 @@ image: ""
 
 8. Looking to usurp Koskei's throne will be Russian veteran Silviia Skvortsova, who will be looking to replicate her recent impressive time of 2:27:51 in the Toronto Waterfront Marathon in October this year. Other notable runners in the women's open category include Yuliya Ruban and Kateryna Stetsenko of Ukraine.
 
-##### **Application for the IAAF Gold Label Certification**
+**Application for the IAAF Gold Label Certification**
 
 9. To secure international recognition of the SCMS, efforts have been undertaken by SSC to register the Marathon for an IAAF Gold Label certification. Achieving the Gold Label status would put Singapore's marquee running event alongside the likes of the New York, Beijing, Tokyo, Berlin and London Marathon, and affirm its reputation as one of the greatest races in the world.
 
@@ -35,13 +35,13 @@ image: ""
 
 11. Some of the requirements specified by the IAAF for the Gold Label certification, which have been met by the organiser, include: a giant video screen on-site broadcasting the race; an international field of runners with a minimum number of men and women elite runners with specified race finishing times; doping controls; a well-equipped media centre with features such as live feed of the race and results; and full television coverage of the race in at least five different countries and international broadcasters distributing race coverage.
 
-##### **Key Broadcast Profiles**
+**Key Broadcast Profiles**
 
 12. In line with the theme for this year's race - 'Run for a Reason', eight participants of the SCMS 2011 will be featured on television, each with their own interesting reasons and motivations for participation. Amongst these participants are last year's race winners - Kenneth Mburu Mungara and Irene Jerotich Koskei, local athletes Ashley Liew and Sumiko Tan, and four runners from various walks of life with inspirational stories to share.
 
 13. These short featurettes will be shown regularly from now till race day on StarHub's complimentary sports channel SuperSports Arena (Starhub TV Channel 201). In addition, these runners will be interviewed during the 'live' broadcast of the race from 4.30am to 10.00am on the same channel. There will be a same day telecast of the race from 7.00pm to 12.30am. Race coverage will also be shown 'live' on SingaporeSports.tv from 4.30am to 10.00am.
 
-##### **Supporters' Activities**
+**Supporters' Activities**
 
 14.  As part of SSC's continuous efforts to engage the non-running community in Singapore's marquee running event, a slew of fun activities have also been planned for spectators and supporters. The public can expect to be entertained with 'live' band performances, jugglers and roving percussion drum squads. A free shuttle service for supporters will also bring them to the best viewing spots along the route.
 
@@ -49,7 +49,7 @@ image: ""
 
 ---
 
-###### Annex A: List of Elite Athletes
+**Annex A: List of Elite Athletes**
 
 **Men**
 
