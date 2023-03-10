@@ -42,7 +42,7 @@ All applicants will be notified of the results of applications via email.
 
 Please note that due to a high volume of applications, it may take between 3 to 4 weeks for your application to be processed (this may take longer if your application was found to be incomplete).
 
-For general NROC enquiries, you may email us at [sport\_coaching@sport.gov.sg](mailto:sport\_coaching@sport.gov.sg).
+For general NROC enquiries, you may email us at [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
 
 **Foreign Coaches**
 
@@ -52,5 +52,5 @@ Additionally, the foreign applicant is required to submit a valid Work Pass or L
 
 **Membership Fees**
 
-*   For Provisional Membership**,** no membership fee is required during the three-year term. A coach may convert to full NROC membership once he/she had attained the required certification before the expiry of the provisional membership.  
-*   For full Membership**,** no membership fee is required for the initial three-year term. A renewal fee of $60.00 applies for subsequent blocks of each three-year terms. All fees paid are not refundable.
+*   For Provisional Membership, no membership fee is required during the three-year term. A coach may convert to full NROC membership once he/she had attained the required certification before the expiry of the provisional membership.  
+*   For full Membership, no membership fee is required for the initial three-year term. A renewal fee of $60.00 applies for subsequent blocks of each three-year terms. All fees paid are not refundable.
