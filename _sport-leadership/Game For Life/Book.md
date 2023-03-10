@@ -6,9 +6,8 @@ third_nav_title: Game For Life
 ---
 #### **'Game For Life: 25 Journeys' Synopsis**
 
-![Book](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Book/books.gif)
-
-The book, 'GAME FOR LIFE: 25 Journeys' chronicles the transformation of 25 ordinary lives made extraordinary through sport. Featuring 25 individuals from diverse backgrounds playing different sports, it aims to inspire readers to play the game of their lives, and in so doing, discover themselves, unleash their true potential and develop their character.  
+| -------- | -------- | 
+| ![Book](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Book/books.gif)     | The book, 'GAME FOR LIFE: 25 Journeys' chronicles the transformation of 25 ordinary lives made extraordinary through sport. Featuring 25 individuals from diverse backgrounds playing different sports, it aims to inspire readers to play the game of their lives, and in so doing, discover themselves, unleash their true potential and develop their character.  | 
   
 'GAME FOR LIFE: 25 Journeys' celebrates the triumph of man, showcasing role models with a spirit of excellence and perseverance. The 25 remarkable stories are set to stir the hearts and minds of every reader, young or old, man or woman. Instilling in all the principles of team camaraderie, sportsmanship, leadership and sporting for life.
 
@@ -52,11 +51,11 @@ We believe that sport is not just about technical ability and skill, but rather,
 
 | Commitment | Courage | Determination |
 | -------- | -------- | -------- |
-| Glory Barnabas (Athletics)<br>Jane Lee (Mountaineering)<br>Subhas Anandan (Cuesports)     | Kristen Tan (Triathlon)<br>Richard Tan (Motor Sports)     | Adrian Mok (Triathlon)<br>Gary Yeo (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Laurentia Tan (Para Equestrian)<br>Tan Wearn Haw (Sailing)<br>Yip Pin Xiu (Swimming) |
+| [Glory Barnabas (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Glory_Barnabas.pdf)<br>[Jane Lee (Mountaineering)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Jane_Lee.pdf)<br>[Subhas Anandan (Cuesports)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Subhas_Anandan.pdf)     | Kristen Tan (Triathlon)<br>[Richard Tan (Motor Sports)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Richard_Tan.pdf)     | [Adrian Mok (Triathlon)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Adrian_Mok.pdf)<br>[Gary Yeo (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Gary_Yeo.pdf)<br>[Grace Young-Diao (Bowling)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Grace_Young-Diao.pdf)<br>[Khatijah Surattee (Shooting)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Khatijah_Surattee.pdf)<br>[Laurentia Tan (Para Equestrian)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Laurentia_Tan.pdf)<br>[Tan Wearn Haw (Sailing)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Tan_Wearn_How.pdf)<br>[Yip Pin Xiu (Swimming)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Yip_Pin_Xiu.pdf) |
 
 | Diligence | Discipline | Execellence |
 | -------- | -------- | -------- |
-| Alan Koh Swee Wan (Athletics)<br>Canagasabai Kunalan (Athletics)<br>Dr Benedict Tan (Sailing)<br>Grace Young-Diao (Bowling)<br>Jane Lee (Mountaineering)<br>Jing Junhong (Table Tennis)<br>Kadir Yahaya (Football)<br>Lim Heem Wei (Gymnastics)<br>Melanie Ann Martens (Hockey)    | Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Glory Barnabas (Athletics)<br>Jovin Tan (Para Sailing)<br>Kadir Yahaya (Football)<br>Khatijah Surattee (Shooting)<br>Mathavan Devadas (Hockey)<br>Shamsul Maidin (Football)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing) | Adrian Mok (Triathlon)<br>Glory Barnabas (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Richard Tan (Motor Sports) | 
+| [Alan Koh Swee Wan (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Alan_Koh_Swee_Wan.pdf)<br>[Canagasabai Kunalan (Athletics)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Canagasabai_Kunalan.pdf)<br>[Dr Benedict Tan (Sailing)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Dr_Benedict_Tan.pdf)<br>[Grace Young-Diao (Bowling)](/files/Sport%20Education/Sports%20Leadership/Book/GFL_Grace_Young-Diao.pdf)<br>Jane Lee (Mountaineering)<br>Jing Junhong (Table Tennis)<br>Kadir Yahaya (Football)<br>Lim Heem Wei (Gymnastics)<br>Melanie Ann Martens (Hockey)    | Dr Benedict Tan (Sailing)<br>Gary Yeo (Athletics)<br>Glory Barnabas (Athletics)<br>Jovin Tan (Para Sailing)<br>Kadir Yahaya (Football)<br>Khatijah Surattee (Shooting)<br>Mathavan Devadas (Hockey)<br>Shamsul Maidin (Football)<br>Subhas Anandan (Cuesports)<br>Tan Wearn Haw (Sailing) | Adrian Mok (Triathlon)<br>Glory Barnabas (Athletics)<br>Grace Young-Diao (Bowling)<br>Khatijah Surattee (Shooting)<br>Richard Tan (Motor Sports) | 
 
 | Humility | Leadership | Loyalty |
 | -------- | -------- | -------- |
