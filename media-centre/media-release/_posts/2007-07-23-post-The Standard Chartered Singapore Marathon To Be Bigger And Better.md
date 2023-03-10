@@ -32,6 +32,7 @@ The Standard Chartered Singapore Marathon is the second leg of The Greatest Race
 
 **For media enquiries, please contact:**
 <br>
+
 Ronda Ng
 <br>
 Fulford Public Relations
@@ -65,7 +66,7 @@ Email: [evelyn_liu@ssc.gov.sg](mailto:evelyn_liu@ssc.gov.sg)
 ---
 
 **About Singapore Sports Council**<br>
-*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.*
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
 
 
 **About Standard Chartered Bank**
@@ -86,4 +87,4 @@ Trusted across its network for its standard of governance and corporate responsi
 
 Standard Chartered is also committed to all its stakeholders by living its values in its approach towards managing its people, exceeding expectations of its customers, making a difference in communities and working with regulators.
 
-For more information on Standard Chartered, please log on to: [www.standardchartered.com](https://www.sc.com/en/)
+For more information on Standard Chartered, please log on to: [www.standardchartered.com](https://www.sc.com/sg/)
