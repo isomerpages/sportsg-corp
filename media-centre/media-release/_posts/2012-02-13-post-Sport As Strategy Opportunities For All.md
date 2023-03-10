@@ -22,7 +22,7 @@ _Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace & Co
 
 6. The 19 preliminary recommendations have been categorised under Opportunities, Access and Capabilities (Please see Annex B for details).
 
-##### **Opportunities**
+**Opportunities**
 
 7. 'Opportunities' looks at increasing and sustaining engagement in sport so that people can experience the value of sport throughout their lives. Said Singapore Sports Council's Chief Executive Officer Lim Teck Yin, "Everyone we met spoke of the power of sport to improve lives, and they wanted more opportunities to play sport. Parents, in particular, told us that they wanted more opportunities for children and youth to play more sport in schools. They believe it will help them stay healthy and learn valuable lessons that will make them better persons and more prepared for the workforce and life."
 
@@ -54,17 +54,17 @@ A competitive corporate Sports League
 Customised sporting solutions for companies to develop employee loyalty programmes
 Appropriate incentives and recognition for companies that support Sporting Singapore
 
-##### **Access**
+**Access**
 
 20. Access is about taking a more inclusive approach towards providing sports facilities for the community as well as capitalising on the power of sport for social activism.
 
 21. The Vision 2030 Committee suggests that SSC consider the following in formulating a 'Sports Facilities Master Plan':
 
-Masterplan a good mix and density of sports facilities across Singapore, with the regional facilities as the nucleus for the Super Sports Clubs. The regional facilities would be supported by a network of school and community facilities to cater to the sporting needs of residents
-Work with MOE to expand the number and types of Dual Use Facilities to maximise public access e.g. open air basketball, tennis and volleyball courts.
-Determine opportunities for co-location with People's Association and other government agencies
-Explore the innovative use of space for sports with planning agencies such as the Urban Redevelopment Authority, Housing & Development Board and National Parks Board
-Enhance SSC sports facilities through the use of universal design principles to provide better access for the elderly, people with disabilities and people with small children
+* Masterplan a good mix and density of sports facilities across Singapore, with the regional facilities as the nucleus for the Super Sports Clubs. The regional facilities would be supported by a network of school and * community facilities to cater to the sporting needs of residents
+* Work with MOE to expand the number and types of Dual Use Facilities to maximise public access e.g. open air basketball, tennis and volleyball courts.
+* Determine opportunities for co-location with People's Association and other government agencies
+* Explore the innovative use of space for sports with planning agencies such as the Urban Redevelopment Authority, Housing & Development Board and National Parks Board
+* Enhance SSC sports facilities through the use of universal design principles to provide better access for the elderly, people with disabilities and people with small children
 
 22. The Committee also recommends a 'SportCares Movement' to use sport to inculcate stronger social values among Singaporeans and to improve the wellbeing of vulnerable segments of our society. The committee is studying the possibility of setting up a foundation to anchor the 'SportCares Movement'.
 
@@ -72,7 +72,7 @@ Enhance SSC sports facilities through the use of universal design principles to 
 
 24. Added SSC CEO Lim Teck Yin, "Many people do not realise the power of sport to help those who are marginalised. In many countries around the world, sport is used as a powerful vehicle to transform lives - for example, helping former drug addicts or delinquent youth to rebuild their confidence and assimilate back to society through the values and experiences taught through team sports."
 
-##### **Capabilities**
+**Capabilities**
 
 25. A key recommendation calls for the establishment of a 'Coaching Academy' to lead the professional development of coaches and the coaching sector in Singapore. The Academy would include mentoring opportunities for coaches and speciality training in working with youth, adults and seniors to meet the growing demand from individuals, schools, sports clubs, national sports associations and corporates. An international advisory panel is expected to be formed to help chart the direction and development of the Academy.
 
@@ -82,13 +82,13 @@ Enhance SSC sports facilities through the use of universal design principles to 
 
 28. Another key recommendation is a review of the elite athlete support system through the 'Singapore Sports Institute'. The modern athlete is under ever-higher expectations to deliver in environments of increasing difficulty. A centralised institute under SSC, SSI will support our national athletes in achieving break-through performances on the international stage. It will provide systematic and tailored athlete services in sports science and medicine, coaching and education, rights management and career development. We are currently reviewing the way the SSI functions and will be making some recommendations to further enhance the SSI. More details will be announced soon.
 
-##### **Public views on the recommendations**
+**Public views on the recommendations**
 
 29. "Vision 2030 is an ongoing conversation and we hope that people will give us feedback and help us fine-tune the preliminary recommendations," concluded Acting Minister Chan. These recommendations will be available at www.vision2030.sg for public feedback from now till 15 May. Please refer to Annex B for the full list of preliminary recommendations.
 
 ---
 
-###### Annex A - About Vision 2030
+**Annex A - About Vision 2030**
 
 Vision 2030 is a joint project led by the Singapore Sports Council and the Ministry of Community Development, Youth and Sports with active participation from the public, people and private sectors. From July 2011, the Vision 2030 Team engaged in discussions with people from all walks of life, from executives to parents to youth to civil servants. We met with sports leaders, urban planners, teachers, volunteers, doctors, retirees and stay-at-home mums. We began every conversation with a basic question: How could sport best serve Singapore in the coming decades?
 
@@ -98,57 +98,61 @@ By its very nature, sport develops the attributes that we want and need to compe
 
 This is the spirit of Vision 2030. Live better through sports.
 
-###### Annex C - Vision 2030 Engagements
+**Annex B - Vision 2030 Preliminary Recommendations**
 
-1. 3 & 6 August 2011
+Click [here](https://www.sportsingapore.gov.sg/News%20Updates/Media%20Releases/2012/2/Vision%202030%20Preliminary%20Recommendations) to view the recommendations.
+
+**Annex C - Vision 2030 Engagements**
+
+1. **3 & 6 August 2011**<br>
 Dialogue session with active senior citizens (aged 45 and above)
 
-2. 9 August 2011
+2. **9 August 2011**<br>
 Dialogue session with Team Singapore athletes
 
-3. 13 - 21 August 2011
+3. **13 - 21 August 2011**<br>
 Survey among general public at Community Games
 
-4. 16-17 August 2011
+4. **16-17 August 2011**<br>
 Survey among physical education teachers
 
-5. 21 August 2011
+5. **21 August 2011**<br>
 Dialogue session with students from Institute of Technical Education (ITE)
 
-6. 31 August 2011
+6. **31 August 2011**<br>
 Dialogue session with students from Singapore Sports School
 
-7. 1 - 2 September 2011
+7. **1 - 2 September 2011**<br>
 Focus group session with National Sports Associations' (NSA) presidents and Sec-Gens
 
-8. 20 October 2011
+8. **20 October 2011**<br>
 Sharing at informal cross-agency networking session
 
-9. 4 November 2011
+9. **4 November 2011**<br>
 Dialogue session with Media and Members of Parliament
 
-10. 10 November 2011
+10. **10 November 2011**<br>
 Brief for PS21 Learning Journey
 
-11. 25 November 2011
+11. **25 November 2011**<br>
 Dialogue session with NSA presidents
 
-12. 31 January 2012
+12. **31 January 2012**<br>
 Dialogue session with Members of Parliament
 
-13. 6 February 2012
+13. **6 February 2012**<br>
 Dialogue session with students from secondary schools, junior colleges, local universities and polytechnics
 
-14. 7 February 2012
+14. **7 February 2012**<br>
 Dialogue session with sports coaches and officials
 
-15. 10 February 2012
+15. **10 February 2012**<br>
 Breakfast dialogue session hosted by Acting Minister, MCYS, with news editors
 
-16. 12 February 2012
+16. **12 February 2012**<br>
 Engagement session with corporate organisations, Voluntary Welfare Organisations and NSAs
 
-###### Annex D - Vision 2030 Steering Committee Members
+**Annex D - Vision 2030 Steering Committee Members**
 
 | No | Name and Designation                                                                                  |
 | -- | ----------------------------------------------------------------------------------------------------- |
@@ -179,7 +183,7 @@ Engagement session with corporate organisations, Voluntary Welfare Organisations
 
 ---
 
-###### For media enquiries, please contact:
+**For media enquiries, please contact:**
 
 S. Parameswaran (Parames)<br>
 Assistant Director, Corporate Communications & Relations<br>
@@ -193,8 +197,7 @@ Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
-
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
+To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
