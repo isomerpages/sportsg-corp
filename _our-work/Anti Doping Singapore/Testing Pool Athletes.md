@@ -4,8 +4,7 @@ permalink: /our-work/anti-doping-singapore/testing-pool-athletes/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-
-#### **TESTING POOLS**
+### **TESTING POOLS**
 
 Anti-Doping Singapore (ADS) has established a Registered Testing Pool (ADS RTP) and a Domestic Testing Pool (ADS DTP) to ensure the effective implementation, coordination, administration and enforcement of the ADS testing programme.
 
@@ -41,7 +40,7 @@ The ADS DTP will comprise mostly athletes who are in national squads and who are
 * Available research on doping trends
 * International competition(s) for the year that is of significance to Singapore
 
-##### **RETIREMENT AND REINSTATEMENT**
+#### **RETIREMENT AND REINSTATEMENT**
 **Retirement**
 
 Athletes in the ADS RTP or ADS DTP who wish to retire from competition, should notify both their NSA and ADS by completing the [ADS Athlete Retirement Notification Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf) and submitting it to their NSA and ADS.
