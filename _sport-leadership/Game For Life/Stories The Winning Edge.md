@@ -7,7 +7,6 @@ third_nav_title: Game For Life
 ### **The Winning Edge**
 
 ![Richard Tan](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Stories/RichardTan.jpeg)
-
 In 2008, Richard Tan's Arina group of companies shone the spotlight on the world's first Formula One (F1) night race in Singapore. An avid badminton player and go-kart racer, the savvy entrepreneur talks about how his passion for sports has paid off in his business and life.
 
   
