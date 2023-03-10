@@ -4,7 +4,7 @@ permalink: /sports-education/sporting-clubs/swiss-club/
 description: ""
 third_nav_title: Sporting Clubs
 ---
-![Swiss Club](/images/Sport%20Education/Sporting%20Clubs/SwissClub.jpeg)
+![Swiss_Club](/images/Sport%20Education/Sporting%20Clubs/Swiss_Club.jpg)
 In 1871, when the predecessor of the Swiss Club was founded, there were only 1,530 European and American residents on the island. The Swiss, although of European origin, tended to stay with their own countrymen, and over a period of 75 years, they managed to keep a communal club going. The Swiss community was primarily engaged in the mercantile and trading businesses as well as the watch trade. 
 
 Three Swiss men roamed Singapore on horseback in search of a suitable site to carry out rifle shooting activities. They found a small valley off Balestier Road which had a slight elevation on either side, bearing also the correct distance for a shooting range. Thus, the Swiss Rifle Shooting Club was founded on 29 June 1871. 
