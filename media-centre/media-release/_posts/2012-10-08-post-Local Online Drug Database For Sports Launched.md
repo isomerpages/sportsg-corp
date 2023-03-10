@@ -13,7 +13,7 @@ image: ""
 
 **Singapore, 8 October 2012** - The Singapore Sports Council (SSC), in collaboration with the Health Sciences Authority (HSA), and the Pharmaceutical Society of Singapore (PSS) has launched CheckDrugs, an online database for sports that contains a list of all registered drugs in Singapore and its status against the World Anti-Doping Agency (WADA) Prohibited List.
 
-2\. Accessible at [http://app.antidoping.org.sg/public/checkdrugs.aspx](http://app.antidoping.org.sg/public/checkdrugs.aspx), this database is specially designed for athletes, athlete support personnel, and medical practitioners to check if drugs prescribed or bought over-the-counter at pharmacies in Singapore contain substances that are banned in- and out-of-competition. This database has been made possible due to the tripartite agreement entered by the three parties earlier this year.
+2\. Accessible [here](/what-we-do/anti-doping-singapore/about-us/), this database is specially designed for athletes, athlete support personnel, and medical practitioners to check if drugs prescribed or bought over-the-counter at pharmacies in Singapore contain substances that are banned in- and out-of-competition. This database has been made possible due to the tripartite agreement entered by the three parties earlier this year.
 
 3\. "We are delighted to have come together with HSA and PSS to provide this platform for Singapore's sporting and medical community to prevent any accidental doping by our athletes," said Mr Lim Teck Yin, Chief Executive Officer, SSC. "Integrity must be a deeply held principle in our sporting fraternity and Team Singapore's pursuit of excellence. Our goal is to keep Singapore sport free of doping. Athletes and officials are responsible for ensuring that they do not violate anti-doping rules and this database will offer them an additional tool to meet this responsibility."
 
@@ -30,6 +30,7 @@ image: ""
 ---
 
 **For media enquiries, please contact:**
+<br>
 Eric Ong
 <br>vManager, Media Relations
 <br>Singapore Sports Council
@@ -39,14 +40,14 @@ Estelle Koh
 <br>Health Sciences Authority
 <br>Email: [estelle_koh@hsa.gov.sg](mailto:estelle_koh@hsa.gov.sg)
 
-##### **About the Singapore Sports Council**
-
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg.<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography).
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-##### **About Anti-Doping Singapore**
-
+**About Anti-Doping Singapore**
+<br>
 As the National Anti-Doping Organisation for Singapore, Anti-Doping Singapore (ADS) was formed on 15 March 2010 to promote a sporting environment in Singapore that is free of doping. ADS is responsible for all anti-doping strategies in Singapore, including planning and conducting doping control tests, accrediting doping control officers, identifying possible anti-doping rule violations and anti-doping education. Integral to this, ADS works closely with relevant Government agencies on various anti-doping initiatives, as well as the Singapore National Olympic Council and the National Sports Associations in Singapore to ensure they comply with the World Anti- Doping Code through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules.
