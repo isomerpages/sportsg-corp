@@ -45,11 +45,11 @@ Ladies and Gentlemen
 
 7. Related to that is endurance. If you are familiar with Kipling's poem "If", there is a line which says, "if you can fill the unforgiving minute with sixty seconds' worth of distance run". That is what life is like sometimes, being able to endure that period when you just have to hang on and get through it. It is like that in the game when you are waiting for the final whistle but you got to somehow get that final goal in, or do the final burst to get past the tape. So endurance is what sports teaches you as well.
 
-Opportunities
+**Opportunities**
 
 8. Also, it teaches you about spotting, creating and seizing opportunities. Anybody who has ever played a game will understand that the game is fluid and it is not pre-determined, and pretty much depends on whether your opponent makes a mistake or you are able to capitalise on the situation as it crops up. Creating and seizing opportunity when it arises - that is vital for leadership, vital for work life ahead.
 
-Adaptability
+**Adaptability**
 
 9. Next thing it teaches you is adaptability. You can go in with all your set pieces but the opposing team members do not play the way you wish them to. You have to adapt on the spot to their playing style. You have to adapt to some of their players. All that training on the field can only take you that far. When the situation is fluid, you've got to adapt, change and deal with it.
 
