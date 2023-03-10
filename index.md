@@ -24,7 +24,7 @@ sections:
           url: /support-resources/activesg-programme-partnership/nroc-sports/
         - title: LOVE SPORT
           description: Driving interest in sport
-          url: /sports-education/history-of-sportsg/introduction/
+          url: /sports-education/overview/
   - infobar:
       title: Serving Through Sport With Passion And Pride
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
