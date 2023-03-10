@@ -14,16 +14,16 @@ _Singapore Sports Institute to Undertake Holistic National Athlete Development, 
 
 **Singapore, 23 February 2012** - As part of the 19 recommendations spelt out under Vision 2030 last week, the Singapore Sports Institute (SSI), under the Singapore Sports Council (SSC), has mapped out its first five-year plan that will provide seamless and holistic support for national athletes.
 
-2\. The SSI has identified three strategies. They are:
+2. The SSI has identified three strategies. They are:
 High performance sports framework
 Building strong internal core capabilities and
 Harnessing science & technology.
 
 **High Performance Sports Framework**
 
-3\. The SSI will build a "team around a team" where it continues to develop its capability in all areas of high performance care and management of national athletes and coaches. The SSI has outlined eight key areas to ensure that athletes receive holistic Sports Science and Medicine support (SSM) and have a seamless pathway to evolve from amateur to elite athletes, and into retirement.
+3. The SSI will build a "team around a team" where it continues to develop its capability in all areas of high performance care and management of national athletes and coaches. The SSI has outlined eight key areas to ensure that athletes receive holistic Sports Science and Medicine support (SSM) and have a seamless pathway to evolve from amateur to elite athletes, and into retirement.
 
-4\. These areas are:
+4. These areas are:
 * Developing long term training plans for athletes
 * Creating a seamless pathway for transition from youth to national athlete
 * Integrated delivery of SSM disciplines
@@ -33,19 +33,19 @@ Harnessing science & technology.
 * Encouraging sports leadership development
 * Creating a master coach development system.
 
-5\. For a start, the SSI will collaborate with Changi General Hospital (CGH), Khoo Teck Puat Hospital (KTPH) and Tan Tock Seng Hospital (TTSH) to create the Singapore Sports Medicine Network (SSMN). Launched today, the SSMN - the first in Asia for such a network for national athletes - will create a decentralised system to provide sports medicine services for Team Singapore athletes beginning 23 February 2012.
+5. For a start, the SSI will collaborate with Changi General Hospital (CGH), Khoo Teck Puat Hospital (KTPH) and Tan Tock Seng Hospital (TTSH) to create the Singapore Sports Medicine Network (SSMN). Launched today, the SSMN - the first in Asia for such a network for national athletes - will create a decentralised system to provide sports medicine services for Team Singapore athletes beginning 23 February 2012.
 
-6\. Speaking at the launch of the SSMN this afternoon, Mr Lim Teck Yin, CEO of the SSC said, "The Singapore Sports Medicine Network is a crucial partnership that brings together all the sports medicine resources and the know-how to care for Team Singapore, and will further enhance the pace of development of sports medicine and extend our reach to a wider sporting community."
+6. Speaking at the launch of the SSMN this afternoon, Mr Lim Teck Yin, CEO of the SSC said, "The Singapore Sports Medicine Network is a crucial partnership that brings together all the sports medicine resources and the know-how to care for Team Singapore, and will further enhance the pace of development of sports medicine and extend our reach to a wider sporting community."
 
-7\. Currently, about 1,000 national athletes receive their medical clearance and consultations, and physiotherapy and rehabilitation treatments at the SSI that is located at the SSC's headquarters, with some athletes required to visit the SSI as many as five times a week. With the SSMN, Team Singapore athletes who are located far away from the SSI can choose to continue receiving their medical treatment after their first consultation at the SSI, at the nearest SSMN partner hospital - CGH (East), KTPH (North) and TTSH (Central).
+7. Currently, about 1,000 national athletes receive their medical clearance and consultations, and physiotherapy and rehabilitation treatments at the SSI that is located at the SSC's headquarters, with some athletes required to visit the SSI as many as five times a week. With the SSMN, Team Singapore athletes who are located far away from the SSI can choose to continue receiving their medical treatment after their first consultation at the SSI, at the nearest SSMN partner hospital - CGH (East), KTPH (North) and TTSH (Central).
 
-8\. This will allow the athletes to streamline their treatment, training and personal schedule to an optimum. Lim Sheng Yu, a full time basketball player with the Slingers who visits the SSI about three times a week welcomes the change. He said, "It takes me more than an hour to travel from my home in Woodlands to the SSI, and it is especially hard as our recovery sessions are usually early in the morning the day after a game. It would be great if I could go to KTPH for physiotherapy session as it will not just help me save more than 60% of travel time, but also give me more flexibility in managing my time."
+8. This will allow the athletes to streamline their treatment, training and personal schedule to an optimum. Lim Sheng Yu, a full time basketball player with the Slingers who visits the SSI about three times a week welcomes the change. He said, "It takes me more than an hour to travel from my home in Woodlands to the SSI, and it is especially hard as our recovery sessions are usually early in the morning the day after a game. It would be great if I could go to KTPH for physiotherapy session as it will not just help me save more than 60% of travel time, but also give me more flexibility in managing my time."
 
-9\. To set in motion the leveling up of the sports medicine capabilities in public hospitals in the area of sports injury management for elite athletes, the SSI will put in place the standard of care and service that all partners have to abide by. This will ensure a uniform framework of operation across the network.
+9. To set in motion the leveling up of the sports medicine capabilities in public hospitals in the area of sports injury management for elite athletes, the SSI will put in place the standard of care and service that all partners have to abide by. This will ensure a uniform framework of operation across the network.
 
 **Building Strong Internal Core Capabilities**
 
-10\. To support national athletes effectively, the SSI needs to have a ready pool of proficient SSM specialists in areas such as physiotherapy, nutrition, biomechanics, exercise physiology, sports psychology and nutrition among others. As the SSI seeks to build this pool of experts in the next 10 to 15 years, its immediate five-year plan is to leverage on external expertise and develop schemes to attract, develop and retain talent for the long term.
+10. To support national athletes effectively, the SSI needs to have a ready pool of proficient SSM specialists in areas such as physiotherapy, nutrition, biomechanics, exercise physiology, sports psychology and nutrition among others. As the SSI seeks to build this pool of experts in the next 10 to 15 years, its immediate five-year plan is to leverage on external expertise and develop schemes to attract, develop and retain talent for the long term.
 
 11. Some of the initiatives the SSI will be implementing include the setting up of several advisory boards and committees to guide the Institute's development, as well as the introduction of several scholarships, training awards, fellowships and exchange programmes to ensure that the Institute is staffed with the brightest SSM minds.
 
@@ -59,7 +59,7 @@ Harnessing science & technology.
 
 ---
 
-###### Annex A - Fact Sheet on SSMN
+**Annex A - Fact Sheet on SSMN**
 
 The Singapore Sports Institute (SSI) has collaborated with three public hospitals, Changi General Hospital (CGH), Khoo Teck Puat Hospital (KTPH) and Tan Tock Seng Hospital (TTSH), to establish Asia's first sports medicine network - the Singapore Sports Medicine Network (SSMN).
 
@@ -91,6 +91,7 @@ Fast Fact on SSI's Sports Medicine:
 ---
 
 **For media enquiries, please contact:**<br>
+
 Patricia Yee<br>
 Executive, Media Relations<br>
 Singapore Sports Council<br>
@@ -107,10 +108,6 @@ Email: tanty_nazlianah@ssc.gov.sg
 **About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
-<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography)
+To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [www.Vision2030.sg](www.Vision2030.sg).
