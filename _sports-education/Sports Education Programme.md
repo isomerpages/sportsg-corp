@@ -3,7 +3,6 @@ title: Sports Education Programme
 permalink: /sports-education/sports-education-programme/
 description: ""
 ---
-
 The **Sports Education Programme (SEP)** is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, Junior College, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a S$10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
 
 The SEP aims to advocate the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young. It also serves as an integrated and structured approach to link sports service providers with schools to ensure that innovative and quality sports programmes are delivered.
@@ -47,13 +46,13 @@ Apart from covering key content from the previous NSYS course, the new VPS works
 
 Please take note that attendees of the previously offered ‘NSYS for Coaching in Singapore Schools” (NSYS) workshop are deemed to have fulfilled Ministry of Education’s (MOE) requirements for registration of all sports coaches and instructors in schools and they do not need to attend the new VPS workshop. Coaches who had completed modules 1-3 in the previous NSYS will be required to sign up for a bridging workshop with MOE on the fourth module to fulfill MOE’s requirements.  
 
-The new VPS workshop is one of the six topics under the Singapore Coach Excellence (SG-Coach) Theory Level One Programme and exemption of attendance from the VPS can be sought. You may click here to find out more information on [the SG-Coach Programmes](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach).
+The new VPS workshop is one of the six topics under the Singapore Coach Excellence (SG-Coach) Theory Level One Programme and exemption of attendance from the VPS can be sought. You may click here to find out more information on [the SG-Coach Programmes](/support-resources/coaches-corner/singapore-coach-excellence-sg-coach-programme/).
 
 For registration and more information on the VPS workshop, please visit the [VPS page](/sports-education/value-and-principles-in-sport/).
 
 **4. STANDARD FIRST AID**
 
-Instructor(s) / coach(es) are required to be equipped with a valid recognised Standard First Aid Certificate at point of submission and at point of conduct of programme. Please view the [list of SportSG-recognised First Aid courses](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses).
+Instructor(s) / coach(es) are required to be equipped with a valid recognised Standard First Aid Certificate at point of submission and at point of conduct of programme. Please view the [list of SportSG-recognised First Aid courses](/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/).
 
 **5. COACH ACKNOWLEDGEMENT FORM**
 
@@ -61,7 +60,7 @@ Sports providers with the exception of individuals are required to have their in
 
 #### **Programme Criteria**
 
-For a programme to be recognised as a sport activity endorsed under SEP, the programme should reflect activities that not only include a physical exertion and the development of a skill, but is also governed by a set of rules that are recognised internationally. The programme submitted must align with MOE’s objectives, whose focus is to provide students with sports opportunities in a safe environment.Sports programmes incorporating physical contact striking or sparring between participants will not be endorsed. Judo, wrestling and similar programmes may include only safe grappling. Any form of striking and choking are strictly not allowed. These programmes must be clearly indicated in the programme submission and will be further evaluated by the panel.
+For a programme to be recognised as a sport activity endorsed under SEP, the programme should reflect activities that not only include a physical exertion and the development of a skill, but is also governed by a set of rules that are recognised internationally. The programme submitted must align with MOE’s objectives, whose focus is to provide students with sports opportunities in a safe environment.
 
 **1. DEFENSE AND MARTIAL ARTS PROGRAMMES UNDER SEP**
 
