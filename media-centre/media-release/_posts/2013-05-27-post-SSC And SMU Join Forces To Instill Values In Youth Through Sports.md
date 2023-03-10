@@ -69,8 +69,8 @@ Kong Hwee Ting
 <br>Tel: +65 6808 5238
 <br>Email: [htkong@smu.edu.sg](mailto:htkong@smu.edu.sg)
 
-##### **Enclosures**
-
+**Enclosures**
+<br>
 **Annex A: 'Game For Life' Toolkit**
 
 Created by the Singapore Sports Council, the 'Game For Life' Toolkit comprises the 'character and leadership through sport' Framework, and the 'Game For Life: 25 Journeys' book.
@@ -176,7 +176,7 @@ To find out more, visit our websites www.ssc.gov.sg, www.Vision2030.sg and www.S
 Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG and Facebook at: www.facebook.com/letsplaysg<br>
 For a range of photographs, visit www.flickr.com/photos/ssc-sportsphotography
 
-##### **About the Singapore Management University**
+**About the Singapore Management University**<br>
 A premier university in Asia, the Singapore Management University (SMU) is internationally recognised for its world class research and distinguished teaching. Established in 2000, SMU's mission is to generate leading edge research with global impact and produce broad-based, creative and entrepreneurial leaders for the knowledge-based economy. It is known for its interactive and technologically-enabled pedagogy of seminar-style teaching in small class sizes.
 
 Home to about 8,000 students, SMU comprises six schools: School of Accountancy, Lee Kong Chian School of Business, School of Economics, School of Information Systems, School of Law and School of Social Sciences, offering a wide range of bachelor's, master's and PhD degree programmes in various disciplines.
