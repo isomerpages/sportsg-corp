@@ -4,7 +4,7 @@ permalink: /sports-education/sporting-clubs/singapore-swimming-club/
 description: ""
 third_nav_title: Sporting Clubs
 ---
-![Singapore Swimming Club](/images/Sport%20Education/Sporting%20Clubs/SingaporeSwimmingClub.jpeg)
+![Singapore_Swimming_Club](/images/Sport%20Education/Sporting%20Clubs/Singapore_Swimming_Club.jpg)
 In the early 1890s, a group of young European men discovered a splendid spot for swimming and recreation located to the southeastern side of Singapore. The **Singapore Swimming Club (SSC)** was, therefore, founded on a sandbank off Tanjong Katong beach. 
 
 A primitive attap hut with tented covering served as shelter, dressing room and protection from the weather to the 20-man group. This shelter was subsequently abandoned in favour of a bungalow they found and rented, which eventually became the location of the present-day clubhouse. Records maintain that the bungalow location was the inaugural site of the SSC, with the launch date listed as 7 February 1894. 
