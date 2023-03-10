@@ -69,3 +69,14 @@ On race day, BMW will be providing more than 20 official cars for medical, opera
 6. Other Race Initiatives and Offerings
 
 On race day, BMW will be providing cheering and cooling stations to enhance the race experience of all runners.
+
+**Annex B - Details of Team BMW Finishers' Draw**
+
+| What is the prize for the lucky draw?              | BMW X1 sDrive18i |
+| -------------------------------------------------- | -------------------------------------------------- |
+| Who are eligible to participate in the lucky draw? | Only participants who fulfil the following criteria may take part in the lucky draw: <br> \* Participants must be registered under the Full Marathon or Half Marathon race categories of the SCMS 2011<br> \* Participants must be a Singapore citizen or Singapore Permanent Resident<br> \* Participants must be18 years and above as of 4 August 2011<br> \* Participants must have successfully completed the race |
+| How do eligible participants take part in the lucky draw? | Participants would need to join Team BMW by logging on to the Team BMW microsite (www.teambmw.com.sg) and register. | Participants would need to join Team BMW by logging on to the Team BMW microsite (www.teambmw.com.sg) and register. | 
+| How many chances will they get? | The lucky draw to win the BMW X1 will be based on a point system. To increase your chances of winning, participants will have to try and score as many points as possible by attending the various running clinics, road shows and events. |
+| When will the draw be held? | Lucky draw for the BMW X1 sDrive18i will be conducted approximately one week after race day. |
+| How will the winner be notified? | Winner will be announced on the SCMS official website (www.marathonsingapore.com) and a print ad will be published on a daily. The winner will also be notified personally via mail and contact number provided. |
+
