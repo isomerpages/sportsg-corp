@@ -8,4 +8,4 @@ Vision 2030 began with this question: **“How can Sport best serve Singapore i
 
 | Column 1 | Column 2 |
 | -------- | -------- | 
-| <img src="/images/About%20Us/ActiveSG%20Staff%20Development/Diploma%20Gold.png" style="width: 150px;" />     | here | 
+| <img src="/images/About%20Us/ActiveSG%20Staff%20Development/Diploma%20Gold.png" style="width: 150px;" />     | Athlete Life Coaching facilitates athletes in proactively planning for all other areas of their life while they pursue sports. |
