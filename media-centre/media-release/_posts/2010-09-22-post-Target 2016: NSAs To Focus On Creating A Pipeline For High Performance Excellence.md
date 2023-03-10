@@ -17,13 +17,13 @@ _NSAs To Review And Update Multi-Year Sports Plans To Supply & Sustain Local Spo
 
 3. "It is a priority that we have a systemic development for sports to achieve our target. The NSAs need to spend the time and effort to develop a process and pipeline that will create a system that surrounds athletes with world-class resources and expertise, so as to groom them into potential medal winners," said Mr Oon.
 
-**Developing a High Performance Pipeline**<br>
+**Developing a High Performance Pipeline**
 
 4. Getting them to start playing early, identifying sports talents at a young age and ensuring that they are kept within the national elite system, is a role which NSAs have a huge part in playing, alongside other key partners like the Singapore Sports School and mainstream schools. The SSC, through its annual funding to NSAs via ANGE, will continue to work closely with NSAs to develop and further fine-tune the national elite system.
 
 5. With a system in place, NSAs were encouraged to develop effective Multi-Year Sports Plans (MYSPs), which encompasses every area of developing their respective sport, from mass participation to talent identification, to high performance. NSAs were encouraged to develop effective MYSPs that builds year upon year, eventually developing an integrated framework and process that would give athletes what they need in order to be podium ready.
 
-**Moving Forward with ANGE FY 2011**<br>
+**Moving Forward with ANGE FY 2011**
 
 6. NSAs were urged to up the ante in their overall performance and organisational excellence, as Singapore geared itself for the next lap, following the successful hosting of the Asian Youth Games in 2009 and the recently concluded Youth Olympic Games. NSAs will have to review and upgrade their existing plans, which were submitted for FY 2010.
 
