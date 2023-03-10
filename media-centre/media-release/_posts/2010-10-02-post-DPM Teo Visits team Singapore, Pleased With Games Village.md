@@ -30,20 +30,20 @@ Head of Media and Public Relations<br>
 Team Singapore<br>
 19th Commonwealth Games Delhi 2010<br>
 Office: 65005289<br>
-Email: [jose_raymond@ssc.gov.sg](jose_raymond@ssc.gov.sg)
+Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
@@ -52,7 +52,7 @@ The three core attributes of Pride, Performance and Perseverance anchor that whi
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg).
+For further information, please visit [www.teamsingapore.sg](http://www.teamsingapore.sg/home).
 
 **About Commonwealth Games Singapore**<br>
 Singapore participates in the Commonwealth Games as Commonwealth Games Singapore. This is the same organisation as the Singapore National Olympic Council. Singapore's involvement in the Commonwealth Games started in 1958 where the Games were held in Cardiff, Wales.
