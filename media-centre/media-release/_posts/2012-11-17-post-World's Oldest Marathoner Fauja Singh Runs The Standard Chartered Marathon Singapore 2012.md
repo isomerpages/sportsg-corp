@@ -44,14 +44,14 @@ Name: Fauja Singh
 **World Records set:**
 <br>Toronto Marathon, 2003 (Men's over-90 category) - 5 hours and 40 minutes
 <br>Eight records set in one day as a 100 year old (2011): 
-1) 100 metres -- 23.40 seconds (previous 29.83)
-2) 200 metres -- 52.23 seconds (previous 77.59 seconds) 
-3) 400 metres -- 2:13.48 (previous 3:41.00)
-4) 800 metres -- 5:32.18 (no previous record)
-5) 1,500 metres -- 11:27.00 (previous 16:46.00)
-6) Mile -- 11:53.45 (no previous record)
-7) 3,000 metres -- 24:52.47 (no previous record)
-8) 5,000 metres -- 49:57.39 (no previous record)
+1. 100 metres -- 23.40 seconds (previous 29.83)
+2. 200 metres -- 52.23 seconds (previous 77.59 seconds) 
+3. 400 metres -- 2:13.48 (previous 3:41.00)
+4. 800 metres -- 5:32.18 (no previous record)
+5. 1,500 metres -- 11:27.00 (previous 16:46.00)
+6. Mile -- 11:53.45 (no previous record)
+7. 3,000 metres -- 24:52.47 (no previous record)
+8. 5,000 metres -- 49:57.39 (no previous record)
 
 Sequence of Fauja Singh's 10km, Half and Full Marathon timings:
 * London Flora Marathon 2000 - 6 Hours 54 minutes
