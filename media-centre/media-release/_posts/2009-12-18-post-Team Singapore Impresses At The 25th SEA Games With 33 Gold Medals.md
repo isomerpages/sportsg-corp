@@ -260,8 +260,7 @@ Annex C: List of Medal Winners
 | Wrestling    | Men's Over 66 kg up to 74 kg                | Sulaiman Yusoff<br>Wushu                                                                                                                                                                                                                                                                                                 | Silver      |
 |              | Duilian with Weapon (Women's Taolu)         | Khor Poh Chin<br>Tao Yijun<br> Tay Yujuan                                                                                                                                                                                                                                                                                | Gold        |
 |              | Duilian Barehand (Men's Taolu)              | Tay Wei Sheng Jaryl<br>Fung Jin Jie<br>Seah Kah Yeap Samuel                                                                                                                                                                                                                                                              | Silver      |
-| Waterpolo    | Men's                                       | Andy Chin<br>Eugene Teo<br>Kelvin Ong<br>Kenneth Wee<br>Lim Yaoxiang<br>Lin Diyan<br>Lin Diyang<br>Luo Nan<br>Nigel Tay<br>Samuel Loh<br>Terence Tan<br>Yip Renkai                                                                                                                                                       | Gold        |
-                                                                                                                             | Gold        |
+| Waterpolo    | Men's                                       | Andy Chin<br>Eugene Teo<br>Kelvin Ong<br>Kenneth Wee<br>Lim Yaoxiang<br>Lin Diyan<br>Lin Diyang<br>Luo Nan<br>Nigel Tay<br>Samuel Loh<br>Terence Tan<br>Yip Renkai                                                                                                                                                       | Gold       
 
 Note: Highlights Debutant Medallist
 
@@ -269,7 +268,6 @@ Note: Highlights Debutant Medallist
 
 **For media enquiries, please contact:**
 <br>
-
 Hazwani Hasni
 <br>
 Singapore Sports Council
@@ -310,6 +308,7 @@ Originally mooted by the then-Ministry of Community Development and Sports, Team
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
+
 For further information, please visit Team Singapore
 
 **About the Singapore National Olympic Council**
