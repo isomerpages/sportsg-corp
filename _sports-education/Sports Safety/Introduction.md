@@ -45,3 +45,9 @@ Sport Singapore encourages appropriate safety and personal health measures so as
 To ensure public safety, Sport Singapore has put the following mandates in place for all public swimming pools.
 <br>
 [Read more](/sports-education/sports-safety/pool-water-quality/)
+
+**SPORTS SAFETY COMMITTEE**
+<br>
+The Sports Safety Working Committee is responsible for looking into the implementation of recommendations by the Sports Safety Committee, chaired by Dr. Benedict Tan.
+<br>
+[Read more](/sports-education/sports-safety/sports-safety-committee/)
