@@ -1,5 +1,4 @@
 collections:
   new:
     output: true
-    order:
-      - Folder Page.md
+    order: []
