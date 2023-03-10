@@ -14,7 +14,7 @@ _Pasir Ris Residents 'Walk the Green Talk' to Celebrate Pasir Ris Sports and Rec
 
 **Singapore, 26 February 2012 (Sunday)** * Singapore has reached a new milestone in its green building journey * the 1000th green building since the Building and Construction Authority's (BCA) Green Mark Scheme was introduced in 2005. The 1000th placing goes to Pasir Ris Sports and Recreation Centre (SRC), which has achieved the BCA Green Mark GoldPlus, the second highest rating under the green building rating scheme.
 
-2. To mark this special milestone, about 500 residents from Pasir Ris-Punggol Group Representation Constituency (GRC) participated in a 'Walk the Green Talk' event this morning. Led by Deputy Prime Minister (DPM) Teo Chee Hean, who was accompanied by other Members of Parliament from Pasir Ris-Punggol GRC and Punggol East SMC, the walk began at Pasir Ris Elias Community Club and ended with a memorable award ceremony at Pasir Ris SRC. DPM Teo, together with Singapore Sports Council?s (SSC) Chief Executive Officer (CEO) Mr Lim Teck Yin, received the Green Mark Award from Mr Quek See Tiat, Chairman of BCA and Dr John Keung, CEO of BCA.
+2. To mark this special milestone, about 500 residents from Pasir Ris-Punggol Group Representation Constituency (GRC) participated in a 'Walk the Green Talk' event this morning. Led by Deputy Prime Minister (DPM) Teo Chee Hean, who was accompanied by other Members of Parliament from Pasir Ris-Punggol GRC and Punggol East SMC, the walk began at Pasir Ris Elias Community Club and ended with a memorable award ceremony at Pasir Ris SRC. DPM Teo, together with Singapore Sports Council's (SSC) Chief Executive Officer (CEO) Mr Lim Teck Yin, received the Green Mark Award from Mr Quek See Tiat, Chairman of BCA and Dr John Keung, CEO of BCA.
 
 3. Commenting on the achievement, DPM Teo Chee Hean said, "Pasir Ris residents and grassroots leaders were actively involved in shaping the design of the Pasir Ris Sports and Recreation Centre, and I am delighted that the Centre is now the 1000th Green Mark building project. This is a significant milestone in the building and construction industry's efforts to incorporate green design and practices in new and existing buildings in Singapore. This will also help to mitigate climate change as the building sector contributes 16% of Singapore's total carbon emissions. Indeed, the BCA Green Mark scheme is an integral part of our national efforts to reduce emissions, contribute to global climate change mitigation efforts, and create a sustainable living environment for our future generations."
 
@@ -34,18 +34,18 @@ Issued by the Building and Construction Authority on 26 February 2012.
 
 ---
 
-Annex A - About the BCA Green Mark
+**Annex A - About the BCA Green Mark**
 
 The BCA Green Mark scheme was launched in 2005 as a key strategic programme to raise the awareness of sustainable and environmentally friendly buildings. It evaluates buildings for their environmental impact and performance. The benefits of Green Mark buildings include cost savings from efficient use of key resources such as energy and water, leading to lower operation and maintenance costs. Other less tangible benefits include enhanced occupant productivity and health due to good indoor environmental quality. The BCA Green Mark schemes now include the following:
 
-**BCA Green Mark Schemes for Buildings**
+BCA Green Mark Schemes for Buildings
 
 * BCA Green Mark for Non-Residential Buildings (New and Existing)
 * BCA Green Mark for Residential Buildings (New and Existing)
 * BCA Green Mark for Landed Houses
 * BCA Green Mark for Existing Schools
 
-**BCA Green Mark Schemes (Beyond Buildings)**
+BCA Green Mark Schemes (Beyond Buildings)
 
 * BCA-NParks Green Mark for Existing Parks
 * BCA-NParks Green Mark for New Parks
@@ -53,22 +53,22 @@ The BCA Green Mark scheme was launched in 2005 as a key strategic programme to r
 * BCA Green Mark for Infrastructures
 * BCA Green Mark for Districts
 
-**BCA Green Mark Schemes (Within Buildings)**
+BCA Green Mark Schemes (Within Buildings)
 
 * BCA Green Mark for Restaurants
 * BCA Green Mark for Office Interiors
 
-Annex B - Number of Green Mark Building Projects since 2005
+**Annex B - Number of Green Mark Building Projects since 2005**
 
 ![](/images/Media%20Centre/Media%20Release/2012/Feb/SINGAPORECELEBRATES1000THBCAGREENMARKBUILDINGPROJECTMainPar0053Imagegif.gif)
 
-Annex C - Key Green Features at Pasir Ris Sports and Recreation Centre
+**Annex C - Key Green Features at Pasir Ris Sports and Recreation Centre**
 
 [Key Green Features at Pasir Ris Sports and Recreation Centre](/files/Media%20Centre/Media%20Release/2012/Feb/Annex_C_Key_Green_Features_at_Pasir_Ris_Sports_and_Recreation_Centrepdf.pdf)
 
 ---
 
 **About Building and Construction Authority**<br>
-The Building and Construction Authority (BCA) of Singapore champions the development of an excellent built environment for Singapore. At BCA, our mission is to shape a safe, high quality, sustainable and friendly built environment, as these are four key elements where BCA has a significant influence. In doing so, we aim to differentiate Singapore?s built environment from those of other cities and contribute to a better quality of life for everyone in Singapore. Hence, our vision is to have "the best built environment for Singapore, our distinctive global city". BCA works closely with its education hub, the BCA Academy of the Built Environment, and industry partners to develop skills and expertise that help shape the best built environment for Singapore.
+The Building and Construction Authority (BCA) of Singapore champions the development of an excellent built environment for Singapore. At BCA, our mission is to shape a safe, high quality, sustainable and friendly built environment, as these are four key elements where BCA has a significant influence. In doing so, we aim to differentiate Singapore's built environment from those of other cities and contribute to a better quality of life for everyone in Singapore. Hence, our vision is to have "the best built environment for Singapore, our distinctive global city". BCA works closely with its education hub, the BCA Academy of the Built Environment, and industry partners to develop skills and expertise that help shape the best built environment for Singapore.
 
 For more information, visit [www.bca.gov.sg](www.bca.gov.sg).
