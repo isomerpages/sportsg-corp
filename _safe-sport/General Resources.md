@@ -41,3 +41,27 @@ Safe Sport International: [http://www.safesportinternational.com/](http://www.s
 Singapore Police Force: [https://www.police.gov.sg/](https://www.police.gov.sg/)
 
 List of Helplines: [https://www.ncss.gov.sg/docs/default-source/ncss-documents-and-forms-doc/ncss-internal-documents/list-of-helplines-pdf.pdf](https://www.ncss.gov.sg/docs/default-source/ncss-documents-and-forms-doc/ncss-internal-documents/list-of-helplines-pdf.pdf)
+
+#### **Useful Sites**
+CoachKids News: [https://www.icoachkids.eu/news.html](https://www.icoachkids.eu/news.html) 
+
+International Olympic Committee's Safeguarding Toolkit: [https://www.olympic.org/athlete365/safeguarding/](https://www.olympic.org/athlete365/safeguarding/)
+
+Play by the Rules - Resolving contemporary ethical issues in sport: [https://www.playbytherules.net.au/resources/videos/resolving-contemporary-ethical-issues-in-sport](https://www.playbytherules.net.au/resources/videos/resolving-contemporary-ethical-issues-in-sport)
+
+Positive Coaching Alliance - Bringing SEL Training to 400,000 Youth Sports Coaches: [http://www.scefdn.org/news/2020/07/positive-coaching-alliance-bringing-sel-training-to-400000-youth-sports-coaches/](http://www.scefdn.org/news/2020/07/positive-coaching-alliance-bringing-sel-training-to-400000-youth-sports-coaches/)
+
+Singapore Police Force - Sexual Crime Information Pamphlet: [https://www.police.gov.sg/Advisories/Crime/Sexual-Assault](https://www.police.gov.sg/Advisories/Crime/Sexual-Assault)
+
+Trauma Network for Children: [http://www.childtraumanetwork.sg/pages/resources.aspx](http://www.childtraumanetwork.sg/pages/resources.aspx)
+
+Rape, Abuse & Incest National Network (RAINN) (USA): [http://www.rainn.org/articles/sexual-harassment](http://www.rainn.org/articles/sexual-harassment)
+
+#### **In the news**
+
+*   **[https://www.channelnewsasia.com/news/singapore/safe-sport-commission-launched-to-tackle-misconduct-in-sports-11999830](https://www.channelnewsasia.com/news/singapore/safe-sport-commission-launched-to-tackle-misconduct-in-sports-11999830)**
+*   **[https://www.myactivesg.com/read/2019/10/coaching-for-the-future-making-a-difference](https://www.myactivesg.com/read/2019/10/coaching-for-the-future-making-a-difference)**
+*   **[https://www.straitstimes.com/sport/playing-it-safe-and-sound](https://www.straitstimes.com/sport/playing-it-safe-and-sound)**
+*   **[https://sg.news.yahoo.com/grace-fu-launches-safe-sport-commission-to-tackle-harassment-misconduct-against-athletes-020528533.html](https://sg.news.yahoo.com/grace-fu-launches-safe-sport-commission-to-tackle-harassment-misconduct-against-athletes-020528533.html)**
+*   **[https://www.straitstimes.com/sport/sportsg-national-agency-to-work-with-authorities-to-form-safesport-commission-to-combat-sexual](https://www.straitstimes.com/sport/sportsg-national-agency-to-work-with-authorities-to-form-safesport-commission-to-combat-sexual)**
+*   **[https://www.straitstimes.com/sport/cultural-change-needed-in-fight-against-athlete-abuse-say-safe-sport-experts](https://www.straitstimes.com/sport/cultural-change-needed-in-fight-against-athlete-abuse-say-safe-sport-experts)**
