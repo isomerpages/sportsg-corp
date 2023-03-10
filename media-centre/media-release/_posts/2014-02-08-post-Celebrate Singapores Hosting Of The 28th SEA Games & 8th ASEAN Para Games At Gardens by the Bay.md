@@ -59,7 +59,7 @@ The final product will be displayed at the Singapore 2015 Launch Party.
 
 This pop-up activation takes place from 6pm and during the half-time of the match.
 
-Photos to Extraordinary Everyday & Extraordinary Art events can be downloaded: [https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk)
+Photos to Extraordinary Everyday & Extraordinary Art events can be downloaded [here](https://www.dropbox.com/sh/ljfo8pupij4a5f1/gnioLyArGk).
 
 Click [here](/files/Media%20Centre/Media%20Release/2014/February/MEDIA%20RELEASE%20%20CELEBRATE%20SINGAPORES%20HOSTING%20OF%20THE%2028TH%20SEA%20GAMES%20%208TH%20ASEAN%20PARA%20GAMES.pdf) for Factsheet.
 
@@ -88,11 +88,11 @@ Voice is a student-led, student-supported agency birthed by students from the Di
 **About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.  
 
-To find out more, visit our websites [www.ssc.gov.sg](https://www.ssc.gov.sg/), [www.Vision2030.sg](http://www.vision2030.sg/) and [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) <br>Follow us on Facebook and Flickr at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
+To find out more, visit our websites [ssc.gov.sg](https://www.ssc.gov.sg/), [Vision2030.sg](http://www.vision2030.sg/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
  
 **About Singapore National Olympic Council (SNOC)**<br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [Singapore National Olympic Council](www.snoc.org.sg).
 
 Follow us on:<br>
 [28th SEA Games Website](http://www.seagames2015.com)<br>
