@@ -31,7 +31,8 @@ image: ""
 * Including a review of how to leverage and enhance existing programmes such as
 * Sports Education Programme[1]
 * Super Sports Clubs[2]
-* Coordinating the development of sports spaces
+
+**Coordinating the development of sports spaces**
 * Optimising the design, development and usage of publicly funded sports spaces for use by schools and the public
 
 4. "There are many plus points in our sports system today that provide opportunities for youth to play sport recreationally and excel to the elite level where they can serve as an inspiration to others and build national pride. We are also beginning to better appreciate the value that sport can bring to inculcate positive values and build character. Thus, an opportunity exists to harness and integrate the collective strengths of all key stakeholder groups in the value chain to give us exponential returns in the years to come. This will ultimately result in more people, in all age groups, having more opportunities to participate in sport regularly," said Mr Lim Teck Yin, the Chairman of the Sports Pathways Committee and CEO of SSC.
