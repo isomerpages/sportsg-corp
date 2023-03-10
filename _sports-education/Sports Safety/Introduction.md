@@ -51,3 +51,9 @@ To ensure public safety, Sport Singapore has put the following mandates in place
 The Sports Safety Working Committee is responsible for looking into the implementation of recommendations by the Sports Safety Committee, chaired by Dr. Benedict Tan.
 <br>
 [Read more](/sports-education/sports-safety/sports-safety-committee/)
+
+**SAFETY RESOURCES & USEFUL LINKS**
+<br>
+Information and guidebooks for everyone to play sports safely.
+<br>
+[Read more](/sports-education/sports-safety/safety-resources-useful-links/)
