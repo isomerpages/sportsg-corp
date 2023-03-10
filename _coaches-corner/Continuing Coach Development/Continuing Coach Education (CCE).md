@@ -95,10 +95,15 @@ Recognition of Self-Guided CCE hours encourages coaches to be self-directed lear
 FAQs on this update can be found [here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/FAQs.pdf).
 
 **Table 1 - New CCE Hours Requirement**
-![Table 1](/images/Support/Coache's%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/table1.png)
+
+| NROC Level | Min. Coaching Practice Hours | Min. Coaching Education Hours | |
+| -------- | -------- | -------- |-------- |
+|Level 1 (Coach) | 15 | 12 | Not more than 3 | 
+|Level 2 (Senior Coach) | 36 | 12 | Not more than 12 | 
+|Level 3 (Master Coach) | 70 | 12 | Not more than 18 | 
 
 **Table 2 - Examples of Coaching Practice and Coaching Education**
-![Table 2](/images/Support/Coache's%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/table2.png)
+
 
 Those in are newly added activities while the rest are already printed in the NROC log book.
 
