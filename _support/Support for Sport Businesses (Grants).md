@@ -3,7 +3,6 @@ title: Support for Sport Businesses (Grants)
 permalink: /support-resources/support-for-sport-businesses/
 description: ""
 ---
-
 SportSG plays an integral role in nurturing resilience and inspiring individuals, and the larger society to live better through sport. With the current COVID-19 situation, strict measures have been adopted to keep Singaporeans safe. These measures have impacted both individuals and businesses in the sports industry.
 
 Our sports industry will need to transform to continue to inspire and engage Singaporeans to live an active and healthy lifestyle. As many individuals and businesses in Singapore will continue to face challenges, the government has introduced a suite of support measures to help both individuals and businesses tide through these difficult times.
@@ -25,7 +24,7 @@ Following the Multi-Ministry Taskforce’s announcement of the stricter safe man
 **Useful Resources and Links for Industry Partners**
 *   Advisories from Sport Singapore
 *   Mandatory Fast and Easy Testing Regime for the Sport & Fitness Sector
-*   [Coach Development Grant](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/funding/coach-development-grant)
+*   [Coach Development Grant](/coaches-corner/funding/coach-development-grant/)
 *   Partnership with the Global Sports Innovation Centre (GSIC) to deliver a calendar of virtual activities
 *   [GoWhere](https://www.gowhere.gov.sg/) \- One-stop guide to government websites for Covid-19, includes links to gov.sg whatsapp contact, MOH’s updates etc.
 *   [SupportGoWhere](https://www.supportgowhere.gov.sg/) \- One-stop guide to grants, funds and other support packages for individuals (working with MSF, NCSS, etc)
