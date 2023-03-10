@@ -24,36 +24,34 @@ _Standard Chartered Bank's Latest Injection is Largest-Ever Sponsorship for a Lo
 
 7. The SSC will "continue to work hand-in-hand with Standard Chartered Bank and our partners" to create more successful SCMS editions over the years, said Mr Lim. "The inaugural Standard Chartered Marathon Singapore 2010 set the bar very high, but Singapore is known for its innovation and service excellence. We plan to have some new twists to make the event even more enjoyable for marathon fans from Singapore, the region and beyond. This is the People's Race."
 
-8. The inaugural SCMS attracted a record 60,000 participants in 2010. Details of the SCMS 2011, including the routes, categories for participation are expected to be announced by race organiser SSC towards the end of June 2011. The information will also be available on the Marathon's website at [www.marathonsingapore.com](www.marathonsingapore.com) and on [www.facebook.com/marathonSG](www.facebook.com/marathonSG).
+8. The inaugural SCMS attracted a record 60,000 participants in 2010. Details of the SCMS 2011, including the routes, categories for participation are expected to be announced by race organiser SSC towards the end of June 2011. The information will also be available on the Marathon's website at [www.singaporemarathon.com](https://singaporemarathon.com/) and on [www.facebook.com/SGmarathon](https://www.facebook.com/SGmarathon/).
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**<br>
 Samantha See<br>
 Fulford Public Relations<br>
 DID: (65) 6324 9316<br>
-Email: ssee@fulfordpr.com
+Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 
 Tanty Nazlianah Rosli<br>
 Senior Manager<br>
 Media Relations<br>
 Singapore Sports Council<br>
 Office: (65) 6500 5241<br>
-Email: tanty_nazlianah@ssc.gov.sg
+Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Follow SSC on Twitter at: [www.twitter.com/singaporesports ](www.twitter.com/singaporesports )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-###### About Standard Chartered Bank in Singapore
+**About Standard Chartered Bank in Singapore**<br>
 Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
 
 It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
