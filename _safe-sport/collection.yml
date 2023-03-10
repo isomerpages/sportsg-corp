@@ -1,4 +1,5 @@
 collections:
   safe-sport:
     output: true
-    order: []
+    order:
+      - Safe Sport.md
