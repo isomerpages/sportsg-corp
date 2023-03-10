@@ -21,3 +21,9 @@ The terms of reference of the Sports Safety Committee are as follows:
 *   To present the Committee’s recommendations to CEO, SportSG for his review and endorsement before public consultation and media release.
 
 The Sport Safety Committee Report 2019 has since been translated into a Singapore Standard, SS681:2022 Code of Practice for Sport Safety.
+
+The 2016 Sports Safety Committee members are as follows: 
+* Sports Safety Committee Members 2016 <small>(With effect from 8 September 2016)</small>
+* ChairpersonDr Benedict Tan Head and Senior Consultant/Sports Physician, Changi Sports Medicine Centre, Changi General Hospital
+* Mr Lai Chin Kwang Chief, ActiveSG Sport Singapore Members
+* Prof Venkataraman Anantharaman Senior Consultant, Department of Emergency Medicine, Singapore General Hospital
