@@ -22,7 +22,7 @@ _SSC ramps up its online engagement through social media_
 
 6. This blogging competition aims to highlight the best sports bloggers in the blogosphere. The competition aims to challenge participants to creatively blog on anything related to local sports. This competition will allow them to show their flair and talent for blogging while giving them the recognition they deserve in the online blogging community.
 
-7. The top three bloggers stand to win fantastic prizes with the top blogger receiving prizes worth over $2,500, and the recognition in the sports industry as its Singapore?s first Star Sports Blogger.
+7. The top three bloggers stand to win fantastic prizes with the top blogger receiving prizes worth over $2,500, and the recognition in the sports industry as its Singapore's first Star Sports Blogger.
 
 8. Added Raymond: "It is our hope that we will attract online participants from all walks of life to adopt a sporting culture through this digital media platform. Through blogging and the use of online media, we are hoping that more sports fans are exposed to local sports news and discussions."
 
@@ -32,7 +32,6 @@ _SSC ramps up its online engagement through social media_
 
 **For media enquiries, please contact:**
 <br>
-
 Wesley Lewis
 <br>
 Manager, Digital Media
@@ -58,8 +57,6 @@ Email: [carol_wee@ssc.gov.sg](mailto:carol_wee@ssc.gov.sg)
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites Singapore Sports Council
-
-Join Singaporesports.sg on Facebook at: https://www.facebook.com/myActiveSG
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/activesgcircle](www.facebook.com/activesgcircle/)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
