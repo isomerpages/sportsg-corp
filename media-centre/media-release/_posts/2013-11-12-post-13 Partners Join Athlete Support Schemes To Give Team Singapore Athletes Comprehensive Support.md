@@ -56,6 +56,4 @@ Eric Ong
 ##### **About Singapore Sports Council**
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg ](www.Vision2030.sg )and [SingaporeSports.sg.](SingaporeSports.sg.)<br>
-Follow us on Facebook at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports)<br>
-For a range of photographs, visit f[flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
+ To find out more, visit our websites [Vision2030.sg](http://www.vision2030.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
