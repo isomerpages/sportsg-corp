@@ -11,39 +11,39 @@ image: ""
 
 **Singapore, 26 October 2013** - More than 130 golfers took to the greens at the Seletar-SportCares Foundation Fund-Raising 2013 and raised $288,000 for SportCares Foundation - the largest amount raised at a single event since the foundation was launched a year ago as the first recommendation of Vision 2030.
 
-2\. SportCares, an initiative that uses sport as a force for social good, has benefitted the lives of more than 630 underprivileged children and youth through customised programmes and workshops run by professionals.
+2. SportCares, an initiative that uses sport as a force for social good, has benefitted the lives of more than 630 underprivileged children and youth through customised programmes and workshops run by professionals.
 
-3\. Dr Tony Tan Keng Yam, President of Singapore and the Patron for the SportCares Movement, was the Guest-of-Honour at the event and presented the awards to beneficiaries and volunteers from the Saturday Night Lights football programme as part of the inaugural SportCares Rising Stars Awards.
+3. Dr Tony Tan Keng Yam, President of Singapore and the Patron for the SportCares Movement, was the Guest-of-Honour at the event and presented the awards to beneficiaries and volunteers from the Saturday Night Lights football programme as part of the inaugural SportCares Rising Stars Awards.
 
 **Launch of Water Lions Kayaking Orientation Programme**
 
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/SELETARCLUBGOLFFUNDRAISERRAISES288000FORSPORTCARESFOUNDATIONMainPar0047Imagegif.gif)
 
-4\. The President also witnessed the launch of the latest initiative - Water Lions Kayaking Orientation Programme (Water Lions), supported by SportCares in collaboration with Seletar Country Club and the Institute of Technical Education (ITE) College Central.
+4. The President also witnessed the launch of the latest initiative - Water Lions Kayaking Orientation Programme (Water Lions), supported by SportCares in collaboration with Seletar Country Club and the Institute of Technical Education (ITE) College Central.
 
-5\. Starting from January 2014, Seletar Country Club (SCC) will be hosting this new initiative where an estimated 30 students from ITE College Central will receive weekly kayaking lessons.
+5. Starting from January 2014, Seletar Country Club (SCC) will be hosting this new initiative where an estimated 30 students from ITE College Central will receive weekly kayaking lessons.
 
-6\. Each run of the Water Lions programme will be conducted over six weekly sessions. Students will be divided into three groups and will rotate every week to try three different kayaks (pool, sit-on-top boats and sit-in boats) in both controlled (pool) and natural (reservoir) environments. Knowledge and skills imparted include personal health and safety, maneuvering, control and rescue procedures. Games will also be incorporated to inject fun and encourage teamwork.
+6. Each run of the Water Lions programme will be conducted over six weekly sessions. Students will be divided into three groups and will rotate every week to try three different kayaks (pool, sit-on-top boats and sit-in boats) in both controlled (pool) and natural (reservoir) environments. Knowledge and skills imparted include personal health and safety, maneuvering, control and rescue procedures. Games will also be incorporated to inject fun and encourage teamwork.
 
-7\. At the end of six sessions, there will be a four-day Water Sports Camp for the students which will incorporate the One Star Certification Award, introduction to sailing and other activities (bowling, dodgeball, outdoor adventure activities) at SCC. Midway through the block of six sessions, the youth will also be taken on an environmental course with the Waterways Watch Society.
+7. At the end of six sessions, there will be a four-day Water Sports Camp for the students which will incorporate the One Star Certification Award, introduction to sailing and other activities (bowling, dodgeball, outdoor adventure activities) at SCC. Midway through the block of six sessions, the youth will also be taken on an environmental course with the Waterways Watch Society.
 
-8\. Said Singapore Sports Council (SSC) Deputy Chairman, Cheah Kim Teck, "I would like to thank the members of Seletar Country Club for their generous contribution to the SportCares Foundation through the golf event today. I'm also delighted that Seletar Country Club will be partnering with ITE College Central in this new initiative funded by SportCares. It is a fantastic example of how sport can be used to teach values and life-skills beyond the classroom, as well as show that one can indeed live better through sports."
+8. Said Singapore Sports Council (SSC) Deputy Chairman, Cheah Kim Teck, "I would like to thank the members of Seletar Country Club for their generous contribution to the SportCares Foundation through the golf event today. I'm also delighted that Seletar Country Club will be partnering with ITE College Central in this new initiative funded by SportCares. It is a fantastic example of how sport can be used to teach values and life-skills beyond the classroom, as well as show that one can indeed live better through sports."
 
 **Saturday Night Lights**
 
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/SELETARCLUBGOLFFUNDRAISERRAISES288000FORSPORTCARESFOUNDATIONMainPar0051Imagegif.gif)
 
-9\. Earlier this year, SportCares launched Saturday Night Lights (SNL), a football programme that provides free coaching and workshops for youth aged 12 to 20 years old. The programme has drawn support from the grassroots and the corporate world.
+9. Earlier this year, SportCares launched Saturday Night Lights (SNL), a football programme that provides free coaching and workshops for youth aged 12 to 20 years old. The programme has drawn support from the grassroots and the corporate world.
 
-10\. To date, Saturday Night Lights have benefitted almost 300 youths. The Saturday Night Lights "Rising Stars" Awards were given out tonight to recognise the players who have grown through our training programme as well as the volunteers who have helped them do it.
+10. To date, Saturday Night Lights have benefitted almost 300 youths. The Saturday Night Lights "Rising Stars" Awards were given out tonight to recognise the players who have grown through our training programme as well as the volunteers who have helped them do it.
 
-11\. From its first centre at Jurong Stadium, Saturday Night Lights is set to expand to two more locations in other parts of the island by early of next year.
+11. From its first centre at Jurong Stadium, Saturday Night Lights is set to expand to two more locations in other parts of the island by early of next year.
 
 ---
 
 **Annex A**: Saturday Night Lights Rising Star Awards
 
-##### **In Recognition of Great Sportsmanship (U-14/O-14)**
+**In Recognition of Great Sportsmanship (U-14/O-14)**<br>
 This award recognises the good attitude, teamwork and leadership displayed on the pitch by players during Saturday Night Lights.
 
 **Muhammad Redha bin Abdul Halim (U-14)**<br>
@@ -88,17 +88,19 @@ Through the Saturday Night Lights programme, grassroots volunteers combine footb
 * **Lim Jun Yi** <br>
 No detail was too small and no task too big for energetic student Lim Jun Yi. Currently studying at Republic Polytechnic, Jun Yi was a familiar face at every event SportCares fielded a team, as a competitor, a mentor or simply an information booth. As our first intern, Jun Yi brought fresh ideas, enthusiasm and energy to every challenge we faced. He created certificates of merit, designed jerseys, pumped footballs and rallied volunteer supporters. His good cheer set the tone for every Saturday Night Lights session at Jurong Stadium - a legacy that continues.
 
+---
 
 **For media enquiries, please contact:**
-
+<br>
 Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5014
 <br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
 
+---
 
-##### **About Singapore Sports Council**
+**About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
- To find out more, visit our websites [Vision2030.sg](http://www.vision2030.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
