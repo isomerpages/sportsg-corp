@@ -1,5 +1,5 @@
 collections:
-  what-we-do:
+  our-work:
     output: true
     order:
       - Overview.md
