@@ -69,7 +69,6 @@ Please credit photos to Singapore Sports Council.
 
 **For media enquiries, please contact:**
 <br>
-
 Rachel Ang<br>
 Senior Executive, Media Relations<br>
 Singapore Sports Council<br>
