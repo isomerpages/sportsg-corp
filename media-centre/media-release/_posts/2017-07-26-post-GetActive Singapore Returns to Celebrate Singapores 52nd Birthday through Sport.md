@@ -32,9 +32,9 @@ Outdoor enthusiasts and budding adventurers can participate in the following eve
 Across nine key locations, the Sports Festivals will take place over the two weekends from 29 – 30 July and 5 – 6 August. The Sports Festival at the Padang, will be held throughout the duration of GASG, with the GASG launch taking place at Car-Free Sunday SG on 30 July. Many of the events supported under the AEP will be at these Sports Festival locations.
 
 *   The Padang (29 July to 8 Aug)
-*   Launch of GASG on 30 July
-*   Singapore Sports Hub (5,6 Aug)
-*   Closing of GASG on 8 Aug
+<br>- Launch of GASG on 30 July
+*   Singapore Sports Hub (5, 6 Aug)
+<br>- Closing of GASG on 8 Aug
 *   Sentosa Island (29 - 30 July & 5 -6 Aug)
 *   Our Tampines Hub, (29 -30 July)
 *   Field next to Punggol MRT (29 – 30 July)
