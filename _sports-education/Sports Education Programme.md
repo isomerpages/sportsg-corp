@@ -15,9 +15,9 @@ SEP sports programmes caters for development of skills and sports knowledge of
 
 **1. NROC SPORTS**
 
-Sports Providers offering [NROC Sports](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-technical-programme-accreditation) will need to have their instructors/coaches registered under the National Registry of Coaches (NROC). During the two-year endorsement period, instructors/coaches will also be invited to attend clinics, workshops, and conferences as part of the NROC requirement on continuing education (CCE).  
+Sports Providers offering [NROC Sports](/coaches-corner/singapore-coach-excellence/sg-coach-technical-programme-accreditation/) will need to have their instructors/coaches registered under the National Registry of Coaches (NROC). During the two-year endorsement period, instructors/coaches will also be invited to attend clinics, workshops, and conferences as part of the NROC requirement on continuing education (CCE).  
   
-For application details on NROC, please visit [NROC Registration](http://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches). Sports Service Providers are strongly advised to inform your coaches and instructors to obtain regular updates and information from the [Coaches page](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/national-registry-of-coaches).
+For application details on NROC, please visit [NROC Registration](/support-resources/activesg-programme-partnership/nroc-sports/). Sports Service Providers are strongly advised to inform your coaches and instructors to obtain regular updates and information from the [Coaches page](/support-resources/activesg-programme-partnership/nroc-sports/).
 
 **2. OTHER SPORTS**  
 
@@ -27,13 +27,13 @@ Sports service providers will be required to submit your coaches’ relevant 
 
 **b. NCAP / SG-Coach Theory Courses**
 
-Coaches and instructors will be required to complete either the NCAP Theory or SG-Coach Theory course. The [SG-Coach Programme](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach) replaces the NCAP. As all existing NCAP certificates remain valid, obtaining accreditation from NCAP to SG-Coach is not required.
+Coaches and instructors will be required to complete either the NCAP Theory or SG-Coach Theory course. The [SG-Coach Programme](/support-resources/coaches-corner/singapore-coach-excellence-sg-coach-programme/) replaces the NCAP. As all existing NCAP certificates remain valid, obtaining accreditation from NCAP to SG-Coach is not required.
 
 **c. NCAP / SG-Coach Theory Accreditation** 
 
 If your coaches are not equipped with NCAP / SG-Coach Theory, but have other prior learning, experience or certification, you may seek NCAP / SG-Coach Theory Accreditation. The accreditation level depends on evidence of prior learning. To seek NCAP / SG-Coach Theory Accreditation, please:
 
-* Complete the [NCAP / SG-Coach Theory Accreditation Form](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/Coach-Development/National-Coaching-Accreditation-Programme/20180719-SGCoach-Theory-Accreditation-Application-Form.ashx?la=en&hash=E3076157AAF8669D0CE73A42F9CFF6F9D41BE130)
+* Complete the [NCAP / SG-Coach Theory Accreditation Form](/files/Sport%20Education/Sport%20Education%20Programmes/20180719_SGCoach_Theory_Accreditation_Application_Form_(1).pdf)
 * Attach evidence of your relevant documentary proof of prior learning, e.g. academic / coaching certificates, transcripts and brief course descriptions, evidence of coaching experience (letters of appreciation, coaching awards, etc.)
 
 Note: The NCAP / SG-Coach Theory accreditation process would take up to 4 weeks. For enquiries, please email [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg?subject=Sports%20Education%20Programme "null") 
