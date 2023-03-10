@@ -333,7 +333,7 @@ Be a role model for the youths of Singapore
 ---
 
 **For media enquiries, please contact:**<br>
-<br>Eric Ong
+Eric Ong
 <br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Tel: (65) 6500 5014
