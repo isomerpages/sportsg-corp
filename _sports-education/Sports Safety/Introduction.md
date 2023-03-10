@@ -21,3 +21,15 @@ The Sport Safety Committee Report 2019 has since been translated into a Singapor
 * [Download the 2019 Sports Safety Committee Report](/files/Sport%20Education/Sport%20Safety/2019_Sports_Safety_Committee_Report_30Oct19(4).pdf)
 * [Download the 2015 Sports Safety Committee Report](/files/Sport%20Education/Sport%20Safety/Sports-Safety-Committee-Report-2015.pdf)
 * [Sports_Safety_Committee_26SEPO7.pdf](/files/Sport%20Education/Sport%20Safety/Sports_Safety_Committee_26SEPO7.pdf)
+
+**HAZE MANAGEMENT AT SPORT SINGAPORE**
+<br>
+The closure of sports facilities will be based on 24-hour PSI readings according to their regions - Northern, Southern, Eastern, Western and Central zones
+<br>
+[Read more](/sports-education/sports-safety/haze-management-at-sport-singapore/)
+
+**SPORTS SAFE U GUIDE**
+<br>
+The Sports S.A.F.E U Guide is a comprehensive guide for active individuals. It informs readers about how one can take part in sports safely and whether one is suitable for certain sports
+<br>
+[Read more](/sports-education/sports-safety/sports-safe-u-guide/)
