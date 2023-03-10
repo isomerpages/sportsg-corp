@@ -4,7 +4,6 @@ permalink: /sport-leadership/game-for-life/guide/
 description: ""
 third_nav_title: Game For Life
 ---
-
 | -------- | -------- | 
 | ![Guide](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Guide/guide.gif)     | The Game for Life Guide equips you with know-how to integrate character and leadership development into the sport arena, which encompasses a skill practice drill, fitness activity, game play, match or competition training, and even an outdoor corporate training session.  |
   
@@ -48,4 +47,4 @@ You may visit this [link](https://www.rp.edu.sg/ace/short-course/Detail/game-fo
   
 Click [here](/files/Sport%20Education/Sports%20Leadership/Guide/GFL_-_Glory_Barnabas.pdf) to view the brochure for more details.  
   
-[Contact us](mailto:eliza_sr_tan@sport,gov.sg?subject=Game%20for%20Life%20Guide%20inquiry) to find out more.
+[Contact us](mailto:eliza_sr_tan@sport.gov.sg) to find out more.
