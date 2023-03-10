@@ -18,7 +18,7 @@ image: ""
 
 5. National youth footballer Jeffrey Lightfoot, captain of the football under-16 team agreed with DPM Teo's comments and rallying call and said, "Playing in a stadium packed with cheering fans is truly inspiring. It gives us the extra boost in morale and confidence to keep on fighting even when we are down. It is also great to see Singaporeans from all walks of life, coming together under one roof, and holding the Singapore flag up high, in victory or in defeat."
 
-6. DPM Teo also called on Singaporeans to support Team Singapore athletes at the various upcoming events which will be taking place in Singapore and around the region for 2011, including the SEA Games 2011, which will be held in Palembang and Jakarta in November. Singapore will be playing host to the Li Ning Singapore Open 2011, the 23rd Canon Lion City Cup, the Mission Foods World Netball Championships 2011 Singapore, the 2011 Volkswagen Women?s World Cup and the 2011 ICF Canoe Marathon World Championships.
+6. DPM Teo also called on Singaporeans to support Team Singapore athletes at the various upcoming events which will be taking place in Singapore and around the region for 2011, including the SEA Games 2011, which will be held in Palembang and Jakarta in November. Singapore will be playing host to the Li Ning Singapore Open 2011, the 23rd Canon Lion City Cup, the Mission Foods World Netball Championships 2011 Singapore, the 2011 Volkswagen Women's World Cup and the 2011 ICF Canoe Marathon World Championships.
 
 7. Urging Team Singapore on, DPM Teo added, "I hope the Singapore Sports Awards will encourage all of you to work harder and push yourselves even further so that you are able to achieve all your sporting hopes and dreams. On behalf of all Singaporeans, please continue to provide us with many more special sporting moments. Every time you reach for the stars, you make us proud. You help us build partnerships, strengthen our community bonds and unite as one Singapore."
 
@@ -26,7 +26,7 @@ image: ""
 
 ---
 
-###### Annex A - About the Singapore Sports Awards
+**Annex A - About the Singapore Sports Awards**
 
 The most prestigious annual recognition for sporting achievements in our city state, the Singapore Sports Awards were first introduced in late 1960's with the initial focus on sportsmen and sportswomen. Swimmers Tan Thuan Heng, and Patricia Chan were the first winners.
 
@@ -40,7 +40,7 @@ In 1978, the Sportsboy and Sportsgirl of the year awards were added. The focus o
 
 The diversity of sports represented by the winners is a telling comment of how far Singapore sports has come. It not only shows the level of competition among sports but also reflects the fact that athletes and coaches have the opportunity to shine at the highest level whatever the discipline they choose to focus on. As Singapore moves towards excellence at the regional level and beyond, such democracy of sporting choices will serve us well.
 
-###### Annex B - List of Singapore Sports Awards Recipients
+**Annex B - List of Singapore Sports Awards Recipients**
 
 **Senior Awards**
 
@@ -114,41 +114,40 @@ The diversity of sports represented by the winners is a telling comment of how f
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**
+<br>
 Patricia Yee
 <br>Executive
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](patricia_yee@ssc.gov.sg)
+<br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
   
 Tanty Nazlianah Rosli
 <br>Senior Manager
 <br>Media Relations
 <br>Singapore Sports Council
 <br>Office: (65) 6500 5241
-<br>Email:[ tanty_nazlianah@ssc.gov.sg]( tanty_nazlianah@ssc.gov.sg)
+<br>Email:[tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
 
 ---
 
-###### About the Singapore National Olympic Council
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
+**About the Singapore National Olympic Council**<br>
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Follow SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
-
-###### About Team Singapore
+**About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
 
 The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information, please visit [www.teamsingapore.com.sg](www.teamsingapore.com.sg) and [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
+For further information, please visit [www.teamsingapore.sg](www.teamsingapore.sg) and [www.facebook.com/TeamSG](www.facebook.com/TeamSG).
