@@ -41,12 +41,12 @@ image: ""
 **Annex A: 28th SEA Games Steering Committee Members**
 
 **Chairman**
-
+<br>
 Mr Chan Chun Sing
 <br>Acting Minister for Community Development, Youth and Sports <br>Minister of State, Ministry of Information, Communications and the Arts
 
 **Members**
-
+<br>
 1\. Mr Mohamed Abdul Jaleel
 <br>Founder and Chief Executive Officer, Mini Environment Service Group
 <br>2\. Mrs Carmee Lim
@@ -86,8 +86,9 @@ Mr Chan Chun Sing
 <br>19\. Mr Masagos Zulkifli
 <br>Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
 
+---
 **For media enquiries, please contact:**
-
+<br>
 Jemuel Fu
 <br>Executive, Media Relations
 <br>Singapore Sports Council
@@ -103,21 +104,19 @@ Roy Teo
 <br>CIRD, MCYS
 <br>Email: [roy_teo@mcys.gov.sg](mailto:roy_teo@mcys.gov.sg)
 
-For further information on the 28th SEA Games Singapore, please visit [www.seagames2015.com](www.seagames2015.com)
+For further information on the 28th SEA Games Singapore, please visit [www.singaporeolympics.com/sea-games](https://www.singaporeolympics.com/sea-games/).
 <br>
-Follow the 28th SEA Games Singapore 2015 on Facebook at [www.facebook.com/SEAGAMES2015 ](www.facebook.com/SEAGAMES2015)and @seagames2015 on Twitter.
+Follow the 28th SEA Games Singapore 2015 on Facebook at [www.facebook.com/28thSEAGAME2015](www.facebook.com/28thSEAGAME2015) and @seagames2015 on Twitter.
 
 
 **About the Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg.
-<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: w[ww.facebook.com/letsplaysg](ww.facebook.com/letsplaysg)
-<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography).
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About the Singapore National Olympic Council**
 <br>
-The Singapore National Olympic Council (SNOC) is a non-profit government organisation that coordinates the selection of Singaporean athletes for competition at major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information on Singapore's expression of the Olympic Spirit, please visit www.snoc.org.sg.
+The Singapore National Olympic Council (SNOC) is a non-profit government organisation that coordinates the selection of Singaporean athletes for competition at major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information on Singapore's expression of the Olympic Spirit, please visit [www.snoc.org.sg](www.snoc.org.sg).
