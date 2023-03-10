@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **SMU And SSC Forge Closer Relationship To Use Sports To Infuse Values And Skills To Students**
 
 _MOU Paves Way for First Sports Elective by SMU and a Lifeskills Centre_
@@ -32,17 +31,17 @@ _MOU Paves Way for First Sports Elective by SMU and a Lifeskills Centre_
 
 ---
 
-###### Annex A - SMU First Sports Elective
+**Annex A - SMU First Sports Elective**
 
 Course title: Principles of Coaching in Sports<br>
 Offered by: School of Social Sciences, SMU<br>
 Commenced by: August 2012<br>
 
-**Course Description:**
+Course Description:
 <br>
 This course will provide coverage of the essential concepts and principles of Sports Science for the effective practice of sports coaching. Important training principles and areas of the development of an athlete and preparation for competition will be addressed. Graduates will learn to be able to analyse basic biomechanics of sports movements, know the anatomical and physiological demands of the sport of interest.
 
-**Course Objective:**
+Course Objective:
 <br>
 Students who have successfully completed the Course will be provided with fundamental knowledge of sports science related to coaching. Students will have knowledge of training principles and skills to effectively plan for a year round training season for athletes under their care. They will be suited to coach individuals and teams for sport competitions at school and club levels, after being equipped with the following knowledge and skill sets, together with technical coaching expertise acquired separately with the respective sport bodies:
 
