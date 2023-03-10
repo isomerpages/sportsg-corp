@@ -10,7 +10,7 @@ image: ""
 
 _Singapore Sports Council Gears Up for Sports Hub & Other Major Sports Programmes & Events_
 
-1. Singapore, 23 October 2007- The Singapore Sports Council announced today a series of initiatives it will undertake to prepare for the Sports Hub and other major sports programmes and events over the next 5 years.
+**Singapore, 23 October 2007**- The Singapore Sports Council announced today a series of initiatives it will undertake to prepare for the Sports Hub and other major sports programmes and events over the next 5 years.
 
 2. Speaking at a press conference to release its annual report, Singapore Sports Council Chairman Alex Chan said: "In fiscal year 2006 (FY06), the triple engines of growth - sports participation, excellence and industry - continued to roar with achievement. Not only are we on target, we are surpassing expectations. Three groundbreaking developments in the past year will drive Singapore sport into new realms over the next 10 to 15 years: Sports Hub, Formula One and the push to develop a sports culture. We saw Singapore's historical best performance at the Asian Games; record-breaking participation numbers at our Standard Chartered Singapore Marathon; and we launched the pilot implementation of outcome-based funding for National Sports Associations. On the back of these achievements, SSC will focus on developing the people factor to promote sports participation, industry and excellence going forward. SSC will look into initiatives to create jobs and enhance manpower capabilities in the sports industry; enhance the customer experience through better product offerings; and support elite athletes through enhanced sports medicine & sports science capabilities to drive sports excellence."
 
