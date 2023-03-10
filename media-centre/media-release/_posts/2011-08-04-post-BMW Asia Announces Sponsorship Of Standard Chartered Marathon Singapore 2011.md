@@ -24,7 +24,7 @@ _Full and Half Marathon Runners Stand a Chance to Win a Brand New BMW X1 sDrive1
 
 7. "While BMW has relentlessly developed the superior technology to make its cars perform at their optimal level, marathon runners also have to follow a rigorous and well-planned training program in order to achieve their best result on race day," added Mr Fiorentinos.
 
-##### **Win the BMW X1 sDrive18i**
+**Win the BMW X1 sDrive18i**
 
 8. All Singapore citizens and Singapore Permanent Residents, who are 18 years and above as of 4 August 2011, and have signed up for either the Full Marathon or Half Marathon race category of the Standard Chartered Marathon Singapore 2011, will be eligible to win the BMW X1 sDrive18i simply by registering for Team BMW. The lucky draw for the BMW X1 sDrive18i will be conducted one week after race day.
 
@@ -32,7 +32,7 @@ _Full and Half Marathon Runners Stand a Chance to Win a Brand New BMW X1 sDrive1
 
 ---
 
-###### Annex A - Details of BMW's Sponsorship of Standard Chartered Marathon Singapore 2011
+**Annex A - Details of BMW's Sponsorship of Standard Chartered Marathon Singapore 2011**
 
 1. Official Pacers Programme
 
@@ -42,13 +42,13 @@ The Official Pacers team is designed to provide the runners with a means for kee
 
 Approximately 28 - 35 pacers will available on the race day for the full marathon runner and they will be wearing customised running apparel indicating their estimated time of completion for the Full Marathon. They will also have a helium balloon attached to them for easy identification.
 
-The recruitment of Official Pacers will commence shortly this month and will be led by the Official Training Partner of the Marathon. Professional marathon runners who are interested to sign up for the pacers programme may visit the official website (www.marathonsingapore.com) for more details.
+The recruitment of Official Pacers will commence shortly this month and will be led by the Official Training Partner of the Marathon. Professional marathon runners who are interested to sign up for the pacers programme may visit the official website ([www.singaporemarathon.com](https://singaporemarathon.com/)) for more details.
 
 2. BMW Run Efficient Clinics
 
 The BMW Run Efficient clinics are designed to provide Full Marathon participants with running-related tips and professional advice to help them prepare and train towards achieving a good personal race time. The clinics are conducted by the Official Training Partner of the Marathon and will invite professional runners and trainers to advice and train the participants.
 
-There will be five BMW Run Efficient clinics which will be held from August to November. More details about these running clinics will be available on our website (www.marathonsingapore.com) and Facebook page (www.facebook.com/MarathonSG) shortly.
+There will be five BMW Run Efficient clinics which will be held from August to November. More details about these running clinics will be available on our website ([www.singaporemarathon.com](https://singaporemarathon.com/)) and Facebook page ([www.facebook.com/SGmarathon](https://www.facebook.com/SGmarathon/)) shortly.
 
 3. Team BMW Finishers' Draw
 
@@ -60,7 +60,7 @@ For more details about the lucky draw, please refer to Annex B.
 
 There will be a race video to showcase the routes of the Full Marathon, Half Marathon, 10km and 5km Fun Run. This will allow runners to be more familiar with the routes. Video will be put up on the SCMS Facebook page, YouTube channel, Race Entry Pack Collection and other pre-race activities.
 
-For more details, please visit (www.teambmw.com.sg) and (www.marathonsingapore.com).
+For more details, please visit (www.teambmw.com.sg) and ([www.singaporemarathon.com](https://singaporemarathon.com/)).
 
 5. Official Race Vehicles
 
