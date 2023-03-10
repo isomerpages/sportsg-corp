@@ -81,6 +81,20 @@ Performing an accompanied rescue of a person in distress 20m from safety by usin
 **Water Safety Knowledge**<br>
 Answering theoretical questions on the open water environment, marine animals, and safety concerns and issue
 
+**Annex C - At a Glance: Comparison of SwimSafer Programme and SwimSafer Open Water Module**
+
+| Name of Programme/Module | SwimSaferProgramme  | SwimSaferOpen Water Module |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Roll-Out Date | 5 July 2010 | 25 July 2011 |
+| Course Description | SwimSafer is a national water safety programme that is aimed at imparting Singaporeans, especially children, with the necessary water safety knowledge and a wide range of water survival skills as a safeguard against drowning. SwimSafer lessons are taught in a closed pool environment.SwimSafer is an amalgamated and improved version of the Learn-To-Swim Programme (LTSP) and the National Survival Swimming Award (NASSA), which allows students to learn basic swimming and survival skills concurrently. | SwimSafer Open Water Module is a complementary module under the SwimSafer programme. SwimSafer Open Water is designed to equip participants with the necessary water safety knowledge and survival skills in open water. The module is conducted in an open water environment to make the instructing of water safety as realistic as possible. |
+| Course Duration / Number of Lessons | The SwimSafer programme has six progressive stages, each comprising 12 hours of lesson time. Survival and activity skills are taught in each stage of the programme, working progressively toward the next stage. | The SwimSafer Open Water module comprises 12 lessons focusing on basic swimming skills, water safety knowledge, as well as survival and activity skills in open water. Lessons are taught in a progressive manner, each comprising one hour of lesson time.  |
+| Eligibility for Participation | Generally recommended for children who are six (6) years and above  | Children who have obtained the SwimSafer Bronze qualification, and are at least eight (8) years of age |
+| Qualification of Instructors  | Instructors must:· Have successfully completed the SwimSafer Instructor Course (SSIC)· Be a member of the National Registry Of Coaches (NROC)· Have obtained both certifications in the NCAP Theory conducted by the SSC and the NCAP Technical Course conducted by the Singapore Swimming Association· Be CPR and first-aid certified | Instructors must:· Have successfully completed the SwimSafer Instructor Course (SSIC)· Be a member of the National Registry Of Coaches (NROC)· Have obtained both certifications in the NCAP Theory conducted by the SSC and the NCAP Technical Course conducted by the Singapore Swimming Association· Be CPR and first-aid certified· Have obtained a Bronze Cross award· Have successfully completed the SwimSafer Open Water Instructor Course |
+| Number of Instructors To Date | 811 | 22 |
+| Lesson Venue(s) | · SSC Swimming Complexes· Private pools & swimming clubs | · Changi Beach· East Coast Park  |
+| Number of Participants To Date | 50,000 | NA |
+
+
 ---
 
 **For media enquiries, please contact:**<br>
