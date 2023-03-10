@@ -33,3 +33,9 @@ The closure of sports facilities will be based on 24-hour PSI readings according
 The Sports S.A.F.E U Guide is a comprehensive guide for active individuals. It informs readers about how one can take part in sports safely and whether one is suitable for certain sports
 <br>
 [Read more](/sports-education/sports-safety/sports-safe-u-guide/)
+
+**SPORTS SAFETY & HEALTH CHECK**
+<br>
+Sport Singapore encourages appropriate safety and personal health measures so as to ensure a fun, invigorating and safe sporting experience. Here are some good practices for everyone to observe
+<br>
+[Read more](/sports-education/sports-safety/sports-safety-health-check/)
