@@ -32,7 +32,7 @@ _Singapore Sports Council Unveiled First Cheer Song As Part Of Cheer Singapore_
 
 ---
 
-**Annex 1 - Lyrics of "You Are The One, Singapore"**<br>
+**Annex 1 - Lyrics of "You Are The One, Singapore"**
 
 O YEAH, O YEAH, O YEAH, HEY
 O YEAH, O YEAH, O YEAH, HO
@@ -57,7 +57,6 @@ Make us all proud (make us all proud)
 
 **For media enquiries, please contact:**
 <br>
-
 Hazwani Hasni<br>
 Executive<br>
 Media and Public Relations<br>
@@ -77,14 +76,11 @@ Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites www.sportsingapore.gov.sg
-
-Join SSC on Twitter at: www.twitter.com/singaporesports
-
-Join Singaporesports.sg on Facebook at: www.facebook.com/#!/SingaporeSports?ref=ts
-
-For a range of photographs, search for "Singapore Sports Council" on www.flickr.com
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Let's Play**
 <br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
+Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg).
