@@ -17,7 +17,8 @@ Living better through sport starts right here at Sport Singapore. 
 
 Anchored in our values of Passion for Sport, Strength through Teamwork and Care for People, we believe in working and playing, not just as a team, but as a family.
 
-<h4 style="color: #ba0c2f; padding: 0; margin: 0">Job Listing</h4>
+#### **Job Listing**
+
 Sport Singapore is constantly on the lookout for individuals who are passionate about what they do. We are the authority of sports in Singapore because of the extraordinary people who work with us. If you are keen to take on a challenging yet rewarding career, we invite you to send in your applications. Create sporting milestones with us and play a role in Singapore’s sporting community.
 
 Join Sport Singapore for a fulfilling career!
