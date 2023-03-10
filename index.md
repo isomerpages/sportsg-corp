@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: LIVE SPORT
           description: Promoting a sporting lifestyle
-          url: /what-we-do/academy-and-clubs/
+          url: /what-we-do/overview/
         - title: LEARN SPORT
           description: Building up coaches & athletes
           url: /support-resources/activesg-programme-partnership/nroc-sports/
