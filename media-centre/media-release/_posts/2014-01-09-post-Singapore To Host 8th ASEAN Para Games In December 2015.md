@@ -46,8 +46,7 @@ Yasmin Lazaroo
 **About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.sportsingapore.gov.sg <br>
-Follow us on Facebook and Flickr at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)and[ flickr.com/ssc-sportsphotography]( flickr.com/ssc-sportsphotography)
+To find out more, visit our websites [ssc.gov.sg](https://www.ssc.gov.sg/), [Vision2030.sg](http://www.vision2030.sg/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
 **About Singapore National Paralympic Council (SNPC)**<br>
 Formed on 23 June 2008, the Singapore National Paralympic Council (SNPC) is the sole national body recognised by the International Paralympic Committee (IPC) to represent disability sports in Singapore. The SNPC takes over the reins of selecting elite athletes with disability for IPC-sanctioned competitions from the Singapore Disability Sports Council (SDSC), such as the Paralympic Games, Commonwealth Games, Asian Para Games, ASEAN Para Games and Asian Youth Para Games.
