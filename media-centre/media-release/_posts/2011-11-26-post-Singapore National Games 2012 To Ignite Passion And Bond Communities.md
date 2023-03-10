@@ -40,9 +40,9 @@ _Launch of New Multi-Sports Festival That Will Serve as A Bridge Between Sports 
 
 ---
 
-###### Annex - Information and Rules: Singapore National Games
-2012/Community Games 2012
-<br>[Games Info and General Rules](/files/Media%20Centre/Media%20Release/2011/November/Games%20Info%20and%20General%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [208 Kb]
+**Annex - Information and Rules: Singapore National Games 2012/ Community Games 2012**
+
+[Games Info and General Rules](/files/Media%20Centre/Media%20Release/2011/November/Games%20Info%20and%20General%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [208 Kb]
 <br>[Athletics Rules](/files/Media%20Centre/Media%20Release/2011/November/Athletics%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [448 Kb]
 <br>[Badminton Rules ](/files/Media%20Centre/Media%20Release/2011/November/Badminton%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf)[202 Kb]
 <br>[Basketball Rules](/files/Media%20Centre/Media%20Release/2011/November/Basketball%20RulesSingapore%20National%20Games%202012Community%20Games%202012pdf.pdf) [174 Kb]
@@ -56,34 +56,32 @@ _Launch of New Multi-Sports Festival That Will Serve as A Bridge Between Sports 
 
 ---
 
-###### For media enquiries, please contact:
-
+**For media enquiries, please contact:**<br>
 Ms Lorraine Tiang
 <br>Manager, Corporate & Marketing Communications
 <br>People's Association 
-<br>Email:[ lorraine_tiang@pa.gov.sg]( lorraine_tiang@pa.gov.sg)
+<br>Email:[ lorraine_tiang@pa.gov.sg](mailto:lorraine_tiang@pa.gov.sg)
 
 Ms Samantha See
 <br>Account Manager
 <br>Fulford Public Relations
-<br>Email: [ssee@fulfordpr.com](ssee@fulfordpr.com)
+<br>Email: [ssee@fulfordpr.com](mailto:ssee@fulfordpr.com)
 
 ---
 
-###### About the Singapore Sports Council
+**About the Singapore Sports Council**
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and SingaporeSports.sg.
+To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
-Follow SSC on Twitter at: www.twitter.com/Lets_PlaySG[www.twitter.com/Lets_PlaySG](www.twitter.com/Lets_PlaySG) and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg).
+Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
 
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+**About People's Association**
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.mycommunity.org.sg](https://mycommunity.org.sg/).
 
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [www.Vision2030.sg](www.Vision2030.sg).
+**What's happening in OurCommunity?**
 
-###### About People's Association
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.OurCommunity.sg](www.OurCommunity.sg).
-
-What's happening in OurCommunity?
-
-Find out about PA's new hungrygowhere feature, and the latest courses, activities, interest groups and facilities on your smartphone. Discover your community today at [www.OurCommunity.sg](www.OurCommunity.sg).
+Find out about PA's new hungrygowhere feature, and the latest courses, activities, interest groups and facilities on your smartphone. Discover your community today at [www.mycommunity.org.sg](https://mycommunity.org.sg/).
