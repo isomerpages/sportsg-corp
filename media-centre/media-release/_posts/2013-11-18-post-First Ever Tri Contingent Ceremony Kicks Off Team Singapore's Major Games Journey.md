@@ -107,7 +107,7 @@ The Singapore Sports Council aims to transform the nation through sport, by insp
 
 To find out more, visit our websites [www.ssc.gov.sg,](www.ssc.gov.sg,) [www.Vision2030.sg ](www.Vision2030.sg )and www.singaporesports.sg. 
 <br>
-Follow us on Facebook and Flickr at: [www.facebook.com/SingaporeSports](www.facebook.com/SingaporeSports) and [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
+Follow us on Facebook and Flickr at: [https://www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)and [flickr.com/ssc-sportsphotography](flickr.com/ssc-sportsphotography)
 
 **About Singapore Disability Sports Council**<br>
 SDSC is the only organisation in Singapore that caters to sports for persons across all kinds of disabilities. It aims to help persons with disability lead full and independent lives through sports. Besides providing sporting opportunities for them to realise their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. Find out more at [www.sdsc.org.sg](www.sdsc.org.sg)
