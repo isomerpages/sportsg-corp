@@ -10,7 +10,7 @@ image: ""
 
 **Singapore, 8 October 2010** - The Singapore Sports Council announced today that Chief Executive Officer Oon Jin Teik will be leaving the organisation to return to the private sector. His last day at SSC will 31 December 2010.
 
-2. Oon will be joining the senior management team of Hyflux Ltd as Group Executive Vice President (Business Development) and will report to Founder / Group Chief Executive Officer Olivia Lum.
+2. Oon will be joining the senior management team of Hyflux Ltd as Group Executive Vice President (Business Development) and will report to Founder/ Group Chief Executive Officer Olivia Lum.
 
 3. Said Minister for Community Development Youth & Sports Dr Vivian Balakrishnan, "I am always very happy to witness the career advancement of colleagues who have served with excellence in their current appointments. Jin Teik has played an invaluable role in the transformation of the Singapore sports scene over the past 6 years. However, our loss will be the gain of the private sector. Jin Teik discussed this new opportunity with me some time ago, and I encouraged him to pursue this avenue with our blessings. In his usual responsible manner, he waited until the Sports Hub project achieved financial close and the YOG transition was well underway. We are very grateful to him. I wish him all the very best for the future."
 
@@ -32,17 +32,17 @@ Director<br>
 Corporate Communications & Relations<br>
 Singapore Sports Council<br>
 DID: 6500 5164<br>
-Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)
+Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our websites [www.ssc.gov.sg](www.ssc.gov.sg) and [www.singaporesports.sg](www.singaporesports.sg)
+To find out more, visit our website[www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
 Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
 <br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/#!/SingaporeSports?ref=ts](www.facebook.com/#!/SingaporeSports?ref=ts)
+Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com](www.flickr.com)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
