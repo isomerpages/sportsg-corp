@@ -31,10 +31,10 @@ Rachel Ang<br>
 Public Relations<br>
 Tel: +65 6500 5217<br>
 HP: +65 9729 3700<br>
-Email: rachel_ang@sport.gov.sg
+Email: [rachel_ang@sport.gov.sg](rachel_ang@sport.gov.sg)
 
 Ellie Seifert<br>
 IRONMAN<br>
 Director, Public Relations<br>
 Tel: 516-993-6449<br>
-Email: ellie.seifert@ironman.com
+Email: [ellie.seifert@ironman.com](ellie.seifert@ironman.com)
