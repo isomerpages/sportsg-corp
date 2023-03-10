@@ -17,17 +17,17 @@ image: ""
 
 3\. The SPC will focus on coordinating and integrating policies and programmes across organisations. It will cover, amongst other things:
 
-##### **Developing integrated pathways to create sports champions**
+**Developing integrated pathways to create sports champions**
 * Rationalising and optimising national competition frameworks and schedules
 * Developing a national talent identification and development framework
 * Integrating the work of National Sports Associations with the school sports system
 * Introducing a more integrated academic and sporting curriculum in schools that allows more students to achieve both academic and sporting excellence
 
-##### **Inculcating values and character through sport**
+**Inculcating values and character through sport**
 * Introducing National Standards for Youth Sport (see details below) for youth 18 years and under to enjoy sports and grow through participation in sports
 * Introducing programmes in schools that will promote the values of resilience, fair play, teamwork, leadership, sportsmanship and a winning spirit
 
-##### **Creating more opportunities for recreational sports in schools**
+**Creating more opportunities for recreational sports in schools**
 * Including a review of how to leverage and enhance existing programmes such as
 * Sports Education Programme[1]
 * Super Sports Clubs[2]
@@ -36,7 +36,7 @@ image: ""
 
 4\. "There are many plus points in our sports system today that provide opportunities for youth to play sport recreationally and excel to the elite level where they can serve as an inspiration to others and build national pride. We are also beginning to better appreciate the value that sport can bring to inculcate positive values and build character. Thus, an opportunity exists to harness and integrate the collective strengths of all key stakeholder groups in the value chain to give us exponential returns in the years to come. This will ultimately result in more people, in all age groups, having more opportunities to participate in sport regularly," said Mr Lim Teck Yin, the Chairman of the Sports Pathways Committee and CEO of SSC.
 
-##### **National Standards Lay Foundation for Youth to Grow and Develop through Sports**
+**Youth to Grow and Develop through Sports**
 
 5\. In line with the objectives of the SPC and Vision 2030, the Singapore Sports Council (SSC) launched today the National Standards for Youth Sports (NSYS) which would lay the foundation for youth to have an enriching sporting experience.
 
@@ -68,32 +68,42 @@ image: ""
 **Annex A: Sports Pathways Committee Member**
 
 **Chairman**
-* Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council
+Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council
 
 **Members**
-* LTC Chua Boon Chuan, Commanding Officer, Army Fitness Centre, Singapore Armed Forces
-* Dr K Vijaya, Director, Youth Health Division, Health Promotion Board
-* Mr Ong Kim Soon, Deputy Director, Physical and Sports Education Branch, Ministry of Education
-* Ms June Phoon, Chairperson, Institute-Varsity-Polytechnic Games Council
-* Dr John Wang, Head, Physical Education and Sports Science, National Institute of Education
-* Ms Lim Kay Min, Assistant Director, Community Engagement, National Trades Union Congress
-* Ms Ang Lay Kwang, Director, Community Sports, People's Association
-* Ms Fazilah A Latiff, Chairperson, POL-ITE Council
-* Mr Alan Koh, Chairman, Singapore Universities Sports Council
-* Ms Deborah Tan, Principal, Singapore Sports School
+LTC Chua Boon Chuan, Commanding Officer, Army Fitness Centre, Singapore Armed Forces
+
+Dr K Vijaya, Director, Youth Health Division, Health Promotion Board
+
+Mr Ong Kim Soon, Deputy Director, Physical and Sports Education Branch, Ministry of Education
+
+Ms June Phoon, Chairperson, Institute-Varsity-Polytechnic Games Council
+
+Dr John Wang, Head, Physical Education and Sports Science, National Institute of Education
+
+Ms Lim Kay Min, Assistant Director, Community Engagement, National Trades Union Congress
+
+Ms Ang Lay Kwang, Director, Community Sports, People's Association
+
+Ms Fazilah A Latiff, Chairperson, POL-ITE Council
+
+Mr Alan Koh, Chairman, Singapore Universities Sports Council
+
+Ms Deborah Tan, Principal, Singapore Sports School
 
 **For media enquiries, please contact:**
-
+<br>
 Siti Nurhidayati
 <br>Senior Executive, Media Relations
 <br>Corporate Communications & Relations
 <br>Singapore Sports Council
 <br>Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
 
-##### **About the Singapore Sports Council**
-
+---
+**About the Singapore Sports Council**
+<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
-To find out more, visit our websites[ www.ssc.gov.sg]( www.ssc.gov.sg), [www.Vision2030.sg](www.Vision2030.sg) and www.SingaporeSports.sg.<br>
-Follow SSC on Twitter at: [www.twitter.com/Lets_PlaySG ](www.twitter.com/Lets_PlaySG )and Facebook at: [www.facebook.com/letsplaysg](www.facebook.com/letsplaysg)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](www.flickr.com/photos/ssc-sportsphotography).
+To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
