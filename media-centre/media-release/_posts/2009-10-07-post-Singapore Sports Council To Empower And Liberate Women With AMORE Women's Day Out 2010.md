@@ -13,37 +13,37 @@ image: ""
 
 **Female Sports Participation in Singapore**<br>
 
-2. According to SSC research study conducted in 2008, more females had participated in sports in 2008 than in 2007 - an increase of 8%. The main reasons given by women for sports participation are to keep fit and to maintain health.
+1. According to SSC research study conducted in 2008, more females had participated in sports in 2008 than in 2007 - an increase of 8%. The main reasons given by women for sports participation are to keep fit and to maintain health.
 
-3. In addition, there is a significant increase in sports participation amongst housewives, from 35% in 2007 to 44% in 2008.
+2. In addition, there is a significant increase in sports participation amongst housewives, from 35% in 2007 to 44% in 2008.
 
-4. Most women stated lack of time due to work (36%) and family (33%) as main reasons for not participating in sports. They did, however, mention that the encouraging factors for them to exercise were the availability of time (50%) accessibility to sports facilities (31%), the need to improve their health (17%), and availability of exercise partners (15%).
+3. Most women stated lack of time due to work (36%) and family (33%) as main reasons for not participating in sports. They did, however, mention that the encouraging factors for them to exercise were the availability of time (50%) accessibility to sports facilities (31%), the need to improve their health (17%), and availability of exercise partners (15%).
 
-5. The top 10 popular sports activities amongst women include jogging/running, brisk walking, yoga/pilates, tai chi/qi gong, dancing and aerobics.
+4. The top 10 popular sports activities amongst women include jogging/running, brisk walking, yoga/pilates, tai chi/qi gong, dancing and aerobics.
 
 **A Celebration of Women's Sports @ AWDO 2010**<br>
 
-6. Taking into account the survey findings, the SSC, together with title sponsor Amore, will be incorporating the preferred sports activities such as aerobics, dance, and yoga segments into AWDO 2010.
+1. Taking into account the survey findings, the SSC, together with title sponsor Amore, will be incorporating the preferred sports activities such as aerobics, dance, and yoga segments into AWDO 2010.
 
-7. Explaining why AWDO is an empowering platform for women to realise the importance of putting their own needs first, Ms Eline Chua, Manager, Adult Sports Development, Singapore Sports Council said, "A woman has different roles to play in her daily routine; she is a mother, a daughter, a wife, and a colleague, and she often prioritises the needs of her family and friends above her own. We want women to realise the importance of taking time out for themselves, through which they can be relieved of the stress of their multiple responsibilities. Amore Women's Day Out is a user-driven event for women to gather their friends, mothers, daughters and colleagues to come together and enjoy a workout and make new friends."
+2. Explaining why AWDO is an empowering platform for women to realise the importance of putting their own needs first, Ms Eline Chua, Manager, Adult Sports Development, Singapore Sports Council said, "A woman has different roles to play in her daily routine; she is a mother, a daughter, a wife, and a colleague, and she often prioritises the needs of her family and friends above her own. We want women to realise the importance of taking time out for themselves, through which they can be relieved of the stress of their multiple responsibilities. Amore Women's Day Out is a user-driven event for women to gather their friends, mothers, daughters and colleagues to come together and enjoy a workout and make new friends."
 
-8. AWDO 2010 has five different exercise routines to choose from, and each is designed to cater to the different interests and needs of women.
+3. AWDO 2010 has five different exercise routines to choose from, and each is designed to cater to the different interests and needs of women.
 
-9. Exercise newbies can try the "Experience Fitness + BellyBlitz Trial", while those seeking mental and physical relief can find it with "Body.Mind.Soul". For the dance enthusiasts, they can groove to "Dance Beat", while the advanced fitness fanatic can take part in the "Tri-Power Challenge" (see Annex A for write-ups on each segment).
+4. Exercise newbies can try the "Experience Fitness + BellyBlitz Trial", while those seeking mental and physical relief can find it with "Body.Mind.Soul". For the dance enthusiasts, they can groove to "Dance Beat", while the advanced fitness fanatic can take part in the "Tri-Power Challenge" (see Annex A for write-ups on each segment).
 
-10. And, especially for the mothers, the "Power of 2" is a workout that combines high-low impact aerobics with the cool moves of kick-boxing. This total body workout is also a great choice for mother and child to spend time together. "Power of 2" had a 100% satisfied participants rating when it was first introduced at the previous AWDO. Thus, for AWDO 2010, the capacity of this segment will be increased to accommodate a total of 300 pairs of participants (the previous AWDO accommodated 100 pairs of participants).
+5. And, especially for the mothers, the "Power of 2" is a workout that combines high-low impact aerobics with the cool moves of kick-boxing. This total body workout is also a great choice for mother and child to spend time together. "Power of 2" had a 100% satisfied participants rating when it was first introduced at the previous AWDO. Thus, for AWDO 2010, the capacity of this segment will be increased to accommodate a total of 300 pairs of participants (the previous AWDO accommodated 100 pairs of participants).
 
 **Get into Women Sporting Action @ AWDO 2010**<br>
 
-11. The registration for the AWDO 2010, Singapore's largest aerobics-based women event, will kick-start at Raffles Place on Thursday, 8 October 2009. This will be the first in a series of road shows from October 2009 to January 2010 around Singapore, to encourage women of all ages to sign up for the event.
+1. The registration for the AWDO 2010, Singapore's largest aerobics-based women event, will kick-start at Raffles Place on Thursday, 8 October 2009. This will be the first in a series of road shows from October 2009 to January 2010 around Singapore, to encourage women of all ages to sign up for the event.
 
-12. "It is always very heartening to see women young and not-so-young come together to enjoy the Amore Women's Day Out. Sporting activities are not just a way for us women to keep fit and de-stress but also a logical and natural platform for bonding, be it with friends or family. This is also an excellent opportunity to encourage and support holistic wellness for women. Amore is thrilled to be part of this with the Singapore Sports Council once again, to promote an active lifestyle for women." said Amore founder and Chief Operating Officer Ms Jasmine Teo.
+2. "It is always very heartening to see women young and not-so-young come together to enjoy the Amore Women's Day Out. Sporting activities are not just a way for us women to keep fit and de-stress but also a logical and natural platform for bonding, be it with friends or family. This is also an excellent opportunity to encourage and support holistic wellness for women. Amore is thrilled to be part of this with the Singapore Sports Council once again, to promote an active lifestyle for women." said Amore founder and Chief Operating Officer Ms Jasmine Teo.
 
-13. Off-stage at AWDO 2010, participants and spectators can look forward to fringe activities like rock climbing and archery. Children are not excluded; with Kids @ Play Zone, they can have fun with activities like yoga, inline skating, floorball, kangoo jumps, and sports kenjutsu.
+3. Off-stage at AWDO 2010, participants and spectators can look forward to fringe activities like rock climbing and archery. Children are not excluded; with Kids @ Play Zone, they can have fun with activities like yoga, inline skating, floorball, kangoo jumps, and sports kenjutsu.
 
-14. To help those who cannot decide whether they should take part in AWDO 2010, they can experience the fun for themselves at the 30-minute mini mass aerobics trials on 24 October 2009 at Jurong Point, and 31 October 2009 at Toa Payoh HDB Hub. What's more, they will receive a goodie bag worth $100 upon signing up for the mini trials!
+4. To help those who cannot decide whether they should take part in AWDO 2010, they can experience the fun for themselves at the 30-minute mini mass aerobics trials on 24 October 2009 at Jurong Point, and 31 October 2009 at Toa Payoh HDB Hub. What's more, they will receive a goodie bag worth $100 upon signing up for the mini trials!
 
-&ast;Base: 2008 (n=2,000), 2007 (n=2,010). Female base: 2008 (n=1,012), 2007 (n=1005)
+**Base: 2008 (n=2,000), 2007 (n=2,010). Female base: 2008 (n=1,012), 2007 (n=1005)*
 
 ---
 
