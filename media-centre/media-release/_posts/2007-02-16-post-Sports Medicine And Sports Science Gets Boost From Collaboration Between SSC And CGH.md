@@ -30,6 +30,7 @@ CGH's CEO, Mr T K Udairam said, "SSC and CGH share the same vision for sports me
 
 **For media enquiries, please contact:**
 <br>
+
 **Singapore Sports Council:**
 <br>
 Charlotte Ong
