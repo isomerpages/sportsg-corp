@@ -8,7 +8,7 @@ image: ""
 ---
 ### **Vision 2030 Preliminary Recommendations**
 
-#### **Opportunities**
+**Opportunities**
 
 **1. Super Sports Clubs**
 <br>
@@ -40,7 +40,7 @@ The recommendation is to develop a fitness ecosystem for seniors. The strategy i
 <br>
 The recommendation is for key stakeholders to collaborate and create opportunities for unified sports to bridge divides in society. For example, sporting events could feature mixed teams of the able-bodied and those with physical and intellectual disabilities. The concept of unified sports will revolve around the use of modified rules, play areas and equipment to create a level playing field. The participants will come to learn more about each other as they train and compete together in a spirit of inclusiveness. The relationships and sensibilities developed on the field may be extended into daily life, benefiting all Singaporeans.
 
-##### **Access**
+**Access**
 
 **6. Sports Events Strategy**
 <br>
@@ -72,7 +72,7 @@ SportCares would be an ideal platform for Corporate Singapore to use sport for c
 <br>
 The recommendation is to improve our communication on sports programming by creating a one-stop platform with information on the availability of sport facilities, activities and events. A more integrated approach will lead to more organic and spontaneous formation of sporting events and clusters, similar to the ecosystem at Turf City.
 
-##### **Capabilities**
+**Capabilities**
 
 **12. Sports Volunteer Framework**
 <br>
