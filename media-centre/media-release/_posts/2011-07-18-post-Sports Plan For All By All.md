@@ -25,7 +25,7 @@ v. Future Ready
 vi. Futurescape
 vii. Organising for Success
 
-6. A website (www.Vision2030.sg) has been created for the public to share their ideas and feedback. It will go live on Tuesday, 19 July 2011, 12 noon.
+6. A website ([Vision2030.sg](/about-us/vision-2030/)) has been created for the public to share their ideas and feedback. It will go live on Tuesday, 19 July 2011, 12 noon.
 
 7. Said Mr Chan, "We want the public to participate actively in co-creating Vision 2030 because we believe everyone has a stake in it. This brings us to the next lap for sports - by everyone, for everyone, and with everyone. The process is just as important as the final product (sports plan), and we intend to continue this journey with all stakeholders even after the plan has been developed."
 
@@ -35,23 +35,44 @@ vii. Organising for Success
 
 ---
 
-##### **Quotes from V2030 Steering Committee Members**
+**Quotes from V2030 Steering Committee Members**
  
-> **"I am happy to be part of the steering committee looking at exploring the full potential of sport for the community. I feel that sport should take root from the ground up. Sports participation rising from community level will help people see and feel the real benefits of sport. And, sports initiatives need not take a top-down approach. I have seen peer-led programmes have greater success. When a group of friends gets together to organise a sporting activity, the level of acceptance and engagement is far more reaching."**
+"I am happy to be part of the steering committee looking at exploring the full potential of sport for the community. I feel that sport should take root from the ground up. Sports participation rising from community level will help people see and feel the real benefits of sport. And, sports initiatives need not take a top-down approach. I have seen peer-led programmes have greater success. When a group of friends gets together to organise a sporting activity, the level of acceptance and engagement is far more reaching."
 
-Mr Andre Ahchak<br>
+**Mr Andre Ahchak**<br>
 Senior Director at VOX Group Pte Ltd
 
-> **"Sport is not about chasing medals or glory. We should move away from this ideology of sport being a means to an end. Everyone, especially children, should be able to play sports. Not just one sport, but more sports. They should enjoy sports, and not feel pressured by it. This is a very important mindset change that will lead people to realise the true value of sport. The committee has convened at the right time and we want the public at large to share their ideas with us and be part of the change. At NVPC, we would also like to see a lot more sports volunteers and donors, as sports can truly engage the entire Singapore community."**
+"Sport is not about chasing medals or glory. We should move away from this ideology of sport being a means to an end. Everyone, especially children, should be able to play sports. Not just one sport, but more sports. They should enjoy sports, and not feel pressured by it. This is a very important mindset change that will lead people to realise the true value of sport. The committee has convened at the right time and we want the public at large to share their ideas with us and be part of the change. At NVPC, we would also like to see a lot more sports volunteers and donors, as sports can truly engage the entire Singapore community."
 
-Mr Laurence Lien<br>
+**Mr Laurence Lien**<br>
 CEO, National Volunter and Philanthropy Centre
 
-> **"Whether you play sports with your friends on weekends or play at major competitions, the underlying reason why everyone engages in sports is because it is fun. The uniqueness of sports is that while it is fun, it teaches very important life-skills such as time management, critical thinking, creativity and teamwork, just to name a few. Sports really prepares us for the future. Sports also unites families, friends, communities and the nation as it transcends beyond barriers, like social status and, mental and physical abilities. That's the beauty of sports. The committee, with the views from the public, will see how we can harness the values of sport and appreciate them."**
+"Whether you play sports with your friends on weekends or play at major competitions, the underlying reason why everyone engages in sports is because it is fun. The uniqueness of sports is that while it is fun, it teaches very important life-skills such as time management, critical thinking, creativity and teamwork, just to name a few. Sports really prepares us for the future. Sports also unites families, friends, communities and the nation as it transcends beyond barriers, like social status and, mental and physical abilities. That's the beauty of sports. The committee, with the views from the public, will see how we can harness the values of sport and appreciate them."
 
-Mrs Jessie Phua<br>
+**Mrs Jessie Phua**<br>
 Council Member, Singapore National Olympic Council
 
 ---
 
-Annex A: Vision 2030 Steering Committee Members
+**Annex A: Vision 2030 Steering Committee Members**
+
+
+
+| **No.** | **Name and Designation** |
+| -------- | -------- |
+| Text     | Mr Chan Chun Sing (Chairman)<br>Acting Minister, Ministry of Community Development, Youth and Sports |
+| Text     | Mr Teo Ser Luck (Deputy Chairman)<br> Minister of State, Ministry of Trade & Industry |
+| Text     | Ms Yeoh Chee Yan<br> Second Permanent Secretary, Ministry of Education |
+| Text     | Mr Ng Wai Choong
+
+Deputy Secretary (Policy) Ministry of Finance |
+| Text     |Mr Yam Ah Mee<br>
+
+Chief Executive Director, People's Association |
+| Text     |Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board |
+| Text     | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority |
+| Text     | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board |
+| Text     | Mr Richard Seow<br>Chairman, Singapore Sports Council |
+| Text     | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank |
+| Text     | Text     |
+| Text     | Text     |
