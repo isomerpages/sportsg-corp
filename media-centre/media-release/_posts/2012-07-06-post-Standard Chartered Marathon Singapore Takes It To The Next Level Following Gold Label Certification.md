@@ -36,7 +36,7 @@ image: ""
 **Annex A: Standard Chartered Marathon Singapore 2012 Fact Sheet**
 Date: Sunday, 2 December 2012
 
-Start:                               
+Start:                             
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/Annex%20A-%20Standard%20Chartered%20Marathon%20Singapore%202012%20Fact%20Sheet.png)
 Finish: St Andrew's Road, The Padang
 <br>
@@ -76,8 +76,8 @@ Shotz Sports Nutrition
 <br>
 Journey Fitness Company
 
-Official Website: [www.marathonsingapore.com](www.marathonsingapore.com)  
-Official YouTube Channel: [www.youtube.com/SCMarathonSingapore ](www.youtube.com/SCMarathonSingapore ) 
+Official Website: [www.singaporemarathon.com](https://singaporemarathon.com/)  
+Official YouTube Channel: [www.youtube.com/SCMarathonSingapore](www.youtube.com/SCMarathonSingapore) 
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
 **Race Categories:**
