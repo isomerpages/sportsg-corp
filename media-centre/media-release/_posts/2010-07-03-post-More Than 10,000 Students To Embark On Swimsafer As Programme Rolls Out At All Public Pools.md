@@ -33,7 +33,6 @@ _National Water Safety Programme To Be Instructed At All Of SSC's 24 Swimming Co
 
 **For media enquiries, please contact:**
 <br>
-
 Derrick Chee
 <br>
 Secretariat, National Water Safety Council
