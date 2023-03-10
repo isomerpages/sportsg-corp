@@ -22,7 +22,7 @@ image: ""
 
 5\. "We are very glad to have participated in SNG and it was really fun seeing all the community athletes battle it out on a friendly basis. I learnt about managing people and some pointers on organising sporting events. I will definitely want to be a part of the next SNG," said 19-year-old, Lim Shi Qi.
 
-6\. 24-year-old Lim Hao Hiang Joey agrees. "Even though it was hard work, I found it very rewarding and a good learning experience volunteering at SNG. There are so many considerations when you are organising events of this scale. To do proper planning and to be ready for the unexpected ? lessons learnt for life. Thank you SNG for organising such a fantastic Games and for this appreciation night."
+6\. 24-year-old Lim Hao Hiang Joey agrees. "Even though it was hard work, I found it very rewarding and a good learning experience volunteering at SNG. There are so many considerations when you are organising events of this scale. To do proper planning and to be ready for the unexpected lessons learnt for life. Thank you SNG for organising such a fantastic Games and for this appreciation night."
 
 #####  **NILA the Sporting Singapore Mascot**
 
