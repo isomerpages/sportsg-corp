@@ -7,17 +7,12 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### **Speech By Mr Richard Seow, Sport Singapore Chairman And Chairman Of Sponsorship And Marketing Advisory Sub-Committee, SINGSOC At The SINGSOC-SingTel Partnership Agreement Ceremony**
 
-Mr Lawrence Wong, Minister for Culture, Community and Youth and Chairman, Steering Committee, SINGSOC
-
-Mr Yuen Kuan Moon, CEO, Consumer Singapore, SingTel
-
-Your excellencies and dignitaries from Southeast Asia
-
-Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOC
-
+Mr Lawrence Wong, Minister for Culture, Community and Youth and Chairman, Steering Committee, SINGSOC,<br>
+Mr Yuen Kuan Moon, CEO, Consumer Singapore, SingTel,<br>
+Your excellencies and dignitaries from Southeast Asia,<br>
+Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOC,<br>
 Ladies and Gentlemen
 
 A very good evening to you all and thank you for joining us for another significant milestone in our journey towards the 28th SEA Games.
@@ -46,4 +41,4 @@ A very good evening to you all and thank you for joining us for another signific
 
 13. Thank you.
 
-*Source: London2012 data from Alex Balfour, Head of New Media, LOCOG
+\*Source: London2012 data from Alex Balfour, Head of New Media, LOCOG
