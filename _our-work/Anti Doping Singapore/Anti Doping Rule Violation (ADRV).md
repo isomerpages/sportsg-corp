@@ -4,10 +4,8 @@ permalink: /our-work/anti-doping-singapore/anti-doping-rule-violation/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-
 #### **RESULTS MANAGEMENT PROCESS**
-![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Fair_Hearing.png)
-
+![](/images/Our%20Work/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Fair_Hearing.png)
 The laboratory that has analysed your A Sample will report the results simultaneously to the Anti-Doping Organisation, such as Anti-Doping Singapore (ADS), and the World Anti-Doping Agency (WADA). Your B Sample is frozen and analysed if there is an Adverse Analytical Finding on your A Sample. Note that the samples analysed are identified by code numbers and not athlete names.
 
 Three possible outcomes may arise from sample analysis - a Negative Analytical Finding, an Atypical Finding or an Adverse Analytical Finding.
@@ -84,7 +82,7 @@ Where a provisional suspension has been imposed in relation to an A Sample adver
 **HEARING**
 
 An athlete that is charged with an anti-doping rule violation has the right to a fair hearing. The anti-doping organization that initiated sample collection is responsible for determining what sanctions will apply to each individual case.
-Where the [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY). The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
+Where the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY). The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
 
 **APPEA**
 
@@ -101,4 +99,4 @@ An athlete or athlete support personnel who is serving a period of ineligibility
 
 Under the Anti-Doping Singapore's (ADS) Anti-Doping Rules, as well as the World Anti-Doping Code, ADS is required to publish information of the Anti-Doping Rule Violation (ADRV) once a decision has been handed down by the relevant tribunal.
 
-![Sanctions](/images/What%20We%20Do/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Sanctions.jpg)
+![Sanctions](/images/Our%20Work/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Sanctions.jpg)
