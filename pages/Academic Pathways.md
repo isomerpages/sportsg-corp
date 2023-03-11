@@ -11,13 +11,9 @@ description: ""
 
 *For more information on the customised pathways, you may visit the following websites:*
 
-**Polytechnic Diploma Programme:**
+[**Polytechnic Diploma Programme:**](https://www.sportsschool.edu.sg/qql/slot/u262/2021/Academics/Post-Sec%20Programmes/Poly%20Diploma%20Programmes/Polytechnic%20Infographic%202021%20Web.pdf)
 
-[https://www.sportsschool.edu.sg/qql/slot/u262/2021/Academics/Post-Sec%20Programmes/Poly%20Diploma%20Programmes/Polytechnic%20Infographic%202021%20Web.pdf](https://www.sportsschool.edu.sg/qql/slot/u262/2021/Academics/Post-Sec%20Programmes/Poly%20Diploma%20Programmes/Polytechnic%20Infographic%202021%20Web.pdf)
-
-**International Baccalaureate Programme:**
-
-[https://www.sportsschool.edu.sg/academics/post-secondary-programmes/international-baccalaureate-diploma-programme](https://www.sportsschool.edu.sg/academics/post-secondary-programmes/international-baccalaureate-diploma-programme)
+[**International Baccalaureate Programme:**](https://www.sportsschool.edu.sg/academics/post-secondary-programmes/international-baccalaureate-diploma-programme)
 
 #### **(B) Pathway with local spexEducation partners**
 
