@@ -26,4 +26,4 @@ description: ""
 
 For more information, you may visit this website:
 
-[SportSG | spexEducation (sportsingapore.gov.sg)](/singapore-sports-institute/athlete-life/spexeducation/)
+[SportSG - spexEducation (sportsingapore.gov.sg)](/singapore-sports-institute/athlete-life/spexeducation/)
