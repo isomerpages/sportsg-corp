@@ -4,15 +4,11 @@ permalink: /singapore-sports-institute/sport-science/major-games-preparation/
 description: ""
 third_nav_title: Sport Science
 ---
-
 The Major Games Preparation Unit works to enhance our athletes' performance and recovery at the four major games: 
 
 * Southeast Asian Games
-    
 * Commonwealth Games
-    
 * Asian Games
-    
 * Olympic Games
 
 Through advance planning and real-time involvement, we minimise the distraction and stress of our athletes during games time, enabling them to focus on their performance.
