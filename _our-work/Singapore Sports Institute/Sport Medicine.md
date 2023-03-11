@@ -4,8 +4,7 @@ permalink: /our-work/singapore-sports-institute/sport-medicine/
 description: ""
 third_nav_title: Singapore Sports Institute
 ---
-
-![Sport Medicine](/images/What%20We%20Do/Singapore%20Sports%20Institute/Sport%20Medicine/Sport_Medicine.jpeg)
+![Sport Medicine](/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Medicine/Sport_Medicine.jpeg)
 Our Sports Medicine Centre focuses on the diagnosis and treatment of injuries associated with athletic training and participation.
 
 The wide range of care provided by the Sports Medicine Centre requires a multi-disciplinary team, which includes physicians, physiotherapists, sports trainers, podiatrists and sports masseurs. Our sports medicine services include:
