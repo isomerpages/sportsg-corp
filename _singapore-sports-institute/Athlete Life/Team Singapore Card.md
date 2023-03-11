@@ -4,8 +4,7 @@ permalink: /singapore-sports-institute/athlete-life/team-singapore-card/
 description: ""
 third_nav_title: Athlete Life
 ---
-![Team Singapore Card](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsingaporecard.jpeg)
-
+![Team Singapore Card](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsingaporecard.jpeg)
 Singapore Sport Institute collaborates with corporate companies and retail outlets to provide various forms of privileged discounts and incentives for the benefits of Team Singapore Athletes, in supporting them to achieve excellence in their sporting journey.  
   
 On 13 January 2016, Singapore Sport Institute launched the Team Singapore Card for Team Singapore Athletes.  
@@ -13,7 +12,7 @@ On 13 January 2016, Singapore Sport Institute launched the Team Singapore Card f
 The Team Singapore rewards card was subsequently made available via the ActiveSG app as an electronic card (e-Card) to all newly carded and Major Games athletes from July 2019.
 
 **Our Card Partners include:**
-![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/TeamSG_card_partners_for_2022_-_July_update.jpeg)
+![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/TeamSG_card_partners_for_2022_-_July_update.jpeg)
 
 Singapore Sport Institute would like to thank our valued card partners for supporting our athletes in achieving their goals. Whether it is sports, lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits and privileges ranging from sporting apparel, footwear and accessories to lifestyle products. In addition, our athletes can enjoy up to 20% discount at selected dining choices at Kallang Wave Mall and Kallang Leisure Park which are ideally located within the Sport Hub. Some of the reward privileges also extend to various participating outlets across Singapore.
 
@@ -113,7 +112,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     *   Chat function at the bottom right corner of HYDRAGUN website. Note that “live” chat function will only be available on HYDRAGUN website 7am-7pm (Singapore Time), Mondays to Friday; or
     *   Email ([support@hydragun.com](mailto:support@hydragun.com)); or
     *   WhatsApp chat (+65 80119037).
-*   For step-by-step guide to enjoy Team Singapore rewards card discount on HYDRAGUN website, please click [here](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/Steps_for_requesting_Team_Singapore_discount_on_hydragunsg_1.pdf)
+*   For step-by-step guide to enjoy Team Singapore rewards card discount on HYDRAGUN website, please click [here](/files/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/Steps_for_requesting_Team_Singapore_discount_on_hydragunsg_1.pdf)
 *   Offer cannot be used in conjunction with any existing promotions or discounts at the store unless otherwise stated.
 *   Offer is valid till 31 Dec 2023.
 
@@ -166,7 +165,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 5.  Specialist Outpatient Consultation:-
     *   First Consultation from $151.20
     *   Subsequent Consultation from $106.20
-_(exclude the cost of medications, injections, operations, special procedures, laboratory tests, if any)_
+*(exclude the cost of medications, injections, operations, special procedures, laboratory tests, if any)*
 
 8.  Dental Scaling & Polishing @ $150. Package includes:-
     *   Oral Examination and Diagnosis (with General Dentist)
