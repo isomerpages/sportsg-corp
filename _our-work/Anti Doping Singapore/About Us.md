@@ -19,21 +19,21 @@ ADS' primary responsibilities are to:
 #### **MISSION**<br>
 ADS' mission is to ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives. We work together with the sport bodies to protect the right of Athletes to participate in clean sport.
 
-![ADS](/images/What%20We%20Do/Anti%20Doping%20Singapore/ads.png)
+![ADS](/images/Our%20Work/Anti%20Doping%20Singapore/ads.png)
 
 #### **VISION**<br>
 Every Singaporean athlete is a True Winner.
 
-![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Resources/Education/Winner.png)
+![](/images/Our%20Work/Anti%20Doping%20Singapore/Resources/Education/Winner.png)
 
 #### **GOVERNANCE**<br>
-The work of Anti-Doping Singapore (ADS) is governed by the [Anti-Doping Policy of Singapore](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf) ("Policy") and the [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) ("Rules") that are established in accordance with the [WAD Code](https://www.wada-ama.org/en/what-we-do/the-code) and its [International Standards](https://www.wada-ama.org/en/international-standards).
+The work of Anti-Doping Singapore (ADS) is governed by the [Anti-Doping Policy of Singapore](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf) ("Policy") and the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) ("Rules") that are established in accordance with the [WAD Code](https://www.wada-ama.org/en/what-we-do/the-code) and its [International Standards](https://www.wada-ama.org/en/international-standards).
 
 The [World Anti-Doping Code](https://www.wada-ama.org/en/what-we-do/the-code) ("WAD Code") provides a framework for the harmonisation of anti-doping policies, rules and regulations across all sports and countries in the world.
 
-* [Anti-Doping Policy of Singapore](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf)
+* [Anti-Doping Policy of Singapore](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf)
 
-* [ADS Anti-Doping Rules](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf)
+* [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf)
 
 #### **National Anti-Doping Advisory Board (NADAB)**
 
