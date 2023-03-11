@@ -74,5 +74,5 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 Singapore Olympic Foundation -Peter Lim (Sports Scholarship) : [https://sof.sg/scholarship/](https://sof.sg/scholarship/)
 
 | -------- | -------- | 
-| <img src="/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/04_Suzanne_Seah_Education.jpeg"  style="width: 400px; float: left;"/>    | **ACADEMIC PATHWAYS**<br>Learn more about our collaboration with both local and overseas Institutes of Higher Learning to provide various athlete-friendly academic pathways.<br>[Read more](/academic-pathways/)     | 
-| <img src="/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/VeronicaShantiPereira.png" style="width: 400px; float: left;" />  | **ATHLETES STORIES**<br>Success stories of our athletes under spexEducation.<br>[Read more](/athletes-stories/) |
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/04_Suzanne_Seah_Education.jpeg)    | **ACADEMIC PATHWAYS**<br>Learn more about our collaboration with both local and overseas Institutes of Higher Learning to provide various athlete-friendly academic pathways.<br>[Read more](/academic-pathways/)     | 
+| ![](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/VeronicaShantiPereira.png)  | **ATHLETES STORIES**<br>Success stories of our athletes under spexEducation.<br>[Read more](/athletes-stories/) |
