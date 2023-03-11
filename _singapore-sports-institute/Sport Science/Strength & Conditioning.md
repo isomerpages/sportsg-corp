@@ -4,7 +4,6 @@ permalink: /singapore-sports-institute/sport-science/strength-conditioning/
 description: ""
 third_nav_title: Sport Science
 ---
-
 Strength and Conditioning is more than just lifting weights.  It refers to the all-round physical preparation to complement an athlete's sports-specific skills development. It is imperative for sporting success.   
   
 **Strength & Conditioning Coaching**
@@ -35,4 +34,4 @@ You should possess the following;
 *   At least 6 months of experience in conducting strength and conditioning training for athletes at national level.
 *   Accredited strength and conditioning coach by internationally recognised accreditation body. E.g. NSCA or ASCA.
 
-Do indicate interest by submitting your CV to the following email [Danny\_LUM@sport.gov.sg](mailto:Danny_LUM@sport.gov.sg), with the subject title: _Application: S&C Coach_
+Do indicate interest by submitting your CV to the following email [Danny_LUM@sport.gov.sg](mailto:Danny_LUM@sport.gov.sg), with the subject title: *Application: S&C Coach*
