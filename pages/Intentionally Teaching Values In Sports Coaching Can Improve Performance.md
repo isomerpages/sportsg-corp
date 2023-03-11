@@ -8,7 +8,6 @@ Singapore , 06 Jun 2017
 During National Youth Sports Institute (NYSI) community of practice sharing session, netball coaches were introduced to the idea of intentionally teaching values to youths during sports activities and training.
 
 ![](/images/Sport%20Leadership%20Latest/Intentionally%20Teaching%20Values/CoP_netball_web2.png)
-
 *Netball coaches during the community of practice sharing session at NYSI satelite. Photo: Sport Singapore*
 
 Using a structured approach to deliberately encourage and reinforce values and behaviours in sports coaching is still uncommon. And while values such as perseverance and resilience are invariably inculcated during training sessions, it is often an inadvertent by-product of training. 
@@ -26,7 +25,6 @@ And she has seen **positive reception from her players** by using this method 
 *“Last time, I would tend to just tell them the things they would be doing. But when I gave credit to positive behaviour, the girl was very happy and the team was clapping,”_ she said. _“I realised the girls love it.”*
 
 ![](/images/Sport%20Leadership%20Latest/Intentionally%20Teaching%20Values/Community_of_Practice_Netball_20170605_YLEE_03_web.png)
-
 *Ng Ee Theng of CoachSG shares with netball coaches during the community of practice sharing session. Photo: Sport Singapore*
 
 While developing values and life skills in players is something that will help them for the rest of their lives, intentionally teaching these values is also something that can go hand in hand with sports coaching when developing sporting champions. 
