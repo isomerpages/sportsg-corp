@@ -4,8 +4,7 @@ permalink: /singapore-sports-institute/sport-science/sport-nutrition/
 description: ""
 third_nav_title: Sport Science
 ---
-
-![sportnutrition](/images/What%20We%20Do/Singapore%20Sports%20Institute/Sport%20Nutrition/sportnutrition.jpg)
+![sportnutrition](/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Nutrition/sportnutrition.jpg)
 Without the proper fuel, an athlete's body cannot achieve peak performance.
 
 This is why the Sport Nutrition Unit helps our athletes to plan their diets, ensuring that they are getting the proper nutrition during training, competition and recovery. Nutritional needs vary with each phase of training, and sport nutrition promotes healthy, responsible eating at all times. This includes advising our athletes about their nutritional supplements as well.
