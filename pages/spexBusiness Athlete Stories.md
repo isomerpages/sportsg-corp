@@ -11,7 +11,7 @@ Intern, Deloitte (Clients and Markets Department)**
 
 A three-time SEA Games medallist, Team Singapore Taekwondo Exponent Chelsea Ann Sim stands as testimony to how the spexBusiness initiative benefits both student-athletes and athlete-employees. Having been on both ends of the coin, she is now on her second internship placement via the initiative, her first having been with the Corporate Business division in OSIM International. Currently, Chelsea is interning with the Clients and Markets Department in Deloitte, in view towards full-time conversion.
 
-![TaeKwonDo_David_Chew_](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/TaeKwonDo_David_Chew_.jpeg)
+![TaeKwonDo_David_Chew_](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/TaeKwonDo_David_Chew_.jpeg)
 Fully cognisant of the greater flexibility experienced by student-athletes, Chelsea was slightly apprehensive about transitioning to an athlete-employee fearing that the hours and rigour of a regular office job would cut into her training time and competition opportunities.
 
 Deloitte showed Chelsea that these worries were unfounded through the provision of:
@@ -22,9 +22,8 @@ Deloitte showed Chelsea that these worries were unfounded through the provision 
 
 Chelsea had previously expressed fears of entering the workforce with the lack of work experience putting her at a disadvantage at hiring. However, both internships have since assured Chelsea of a pathway of continuity and transition post-sports. Without the stress and anxiety of having to search for a job that would accommodate her hectic schedule, Chelsea was thus able to turn her complete focus to her sport, proudly flying the Singapore flag and mounting the podium across two consecutive SEA Games claiming a Gold and a Bronze to her name.
 
-_“I got my internships through spexBusiness. I’m very appreciative of such an initiative, as it has supported me both in my sporting endeavours and career development. It has shown me that there are ways for athletes to plan a life after sport, and we have a future beyond our sporting careers. I’m very grateful to both spexBusiness and Deloitte for providing me with the opportunity to pursue excellence in my sport, and at the same time, pave the road for my future career.”  
-  
-– Chelsea Ann Sim_
+*“I got my internships through spexBusiness. I’m very appreciative of such an initiative, as it has supported me both in my sporting endeavours and career development. It has shown me that there are ways for athletes to plan a life after sport, and we have a future beyond our sporting careers. I’m very grateful to both spexBusiness and Deloitte for providing me with the opportunity to pursue excellence in my sport, and at the same time, pave the road for my future career.”* 
+Chelsea Ann Sim
 
 <hr>
 
@@ -34,7 +33,7 @@ Investment Analyst Intern, Quest Ventures**
 
 Poised, determined and unfazed, Jaslyn Hooi, a TeamSG badminton player and spexScholar, stepped into her office at Ayer Rajah Crescent. As soon as Jaslyn sits down at her desk, it is non-stop working for her until she leaves for her training. Such was her usual routine during her internship stint at spexBusiness partner, Quest Ventures. As an Investment Analyst intern, she had to facilitate the investment process; be the first point of contact with the start-ups, do an initial evaluation of the feasibility and potential of the company to invest in. She is also in-charge of several market access programs that help companies in gaining access to overseas markets and amplifying their presence across the Southeast Asia region. This is certainly no mean feat for someone with no prior working experience at all.
 
-![Jaslyn_Hooi_Badminton](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/Jaslyn_Hooi-_Badminton.jpeg)
+![Jaslyn_Hooi_Badminton](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/Jaslyn_Hooi-_Badminton.jpeg)
 “In June 2020, the spexBusiness team was able to advise and help me secured my internship through the network despite the COVID-19 situation then. I am very thankful for the help that the team has given so far. They really helped me to find the perfect internship which I really enjoy because I don’t have to compromise on my training to reap the best out of my internship.”
 
 To Jaslyn, her internship experience was like a roller-coaster ride; it was scary yet exhilarating. Most of the time, she was challenged out of her comfort zone, but nevertheless it had been a super rewarding journey. It is a fast-paced on-the-job training environment where she got to learn so much more. As Jaslyn quipped, “I want to start my own company in the future and this internship experience gave me a good head-start in doing so!"
@@ -59,7 +58,7 @@ Research Specialist with Deloitte Singapore**
 
 Derek joined Deloitte in July 2014 as a Research Specialist in the Clients & Markets Department. He performs research on specific companies and industries in order to support the work teams serving clients from these specific industries. This involves benchmarking studies, conducting economic research or research on the strategic directions of the organization or development trends.
 
-![Derek_Wong_at_SEA_Games](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/Derek_Wong_at_SEA_Games.jpeg)
+![Derek_Wong_at_SEA_Games](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/Derek_Wong_at_SEA_Games.jpeg)
 Deloitte has supported Derek in allowing him to train and compete full-time through providing: 
 
 *   A customised work schedule of approximate 15 hours a week that revolves around his training schedule
@@ -68,12 +67,12 @@ Deloitte has supported Derek in allowing him to train and compete full-time thro
 
 Beyond this short-term work opportunity, **Deloitte is also ready to offer a full-time job to Derek upon retirement from his competitive sports career.**
 
-_“At Deloitte, we strongly believe in the strength of employee diversity and aim to deliver a unique Deloitte experience to all our employees. Having national athletes as employees adds to this diversity, allowing employees who are athletes and non-athletes alike to interact and share with each other different unique skills, mindsets and experiences that are mutually enriching._
+*“At Deloitte, we strongly believe in the strength of employee diversity and aim to deliver a unique Deloitte experience to all our employees. Having national athletes as employees adds to this diversity, allowing employees who are athletes and non-athletes alike to interact and share with each other different unique skills, mindsets and experiences that are mutually enriching.*
 
-_The atmosphere in the firm gets a boost as well – to get a chance to work, and sometimes even train, alongside someone like Derek Wong, the current Singapore number 1 badminton player, is a great experience”._
+*The atmosphere in the firm gets a boost as well – to get a chance to work, and sometimes even train, alongside someone like Derek Wong, the current Singapore number 1 badminton player, is a great experience”.*
 
 \-Ms Seah Gek Choo, Talent Partner, Deloitte Singapore.
 
- _“I am thankful to Deloitte’s tremendous support in arranging a customised work schedule that allows me to work flexibly from home around my training schedule. This support will ensure that my sporting focus is not compromised in any way. I am also able to grow as a person, in gaining valuable life skills and insights into the corporate world. Full time athletes like me will be able to bring 100% to the sporting field when we know that companies are extending their arms out so that we will not need to worry over our future career plans.”_ 
+ *“I am thankful to Deloitte’s tremendous support in arranging a customised work schedule that allows me to work flexibly from home around my training schedule. This support will ensure that my sporting focus is not compromised in any way. I am also able to grow as a person, in gaining valuable life skills and insights into the corporate world. Full time athletes like me will be able to bring 100% to the sporting field when we know that companies are extending their arms out so that we will not need to worry over our future career plans.”*
 
 \-Derek Wong, Team Singapore Athlete (Badminton)
