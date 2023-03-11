@@ -15,7 +15,7 @@ Organized by the Singapore Sport Institute (SSI), the theme for the first two da
 ##### **Day 1**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SmwlEs5l2uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Singapore Lecture](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/1-1_Vassil_Girginov_-_Singapore_Lecture.pdf)
+[Singapore Lecture](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI%20Annual%20Symposium%202018/Day%201/1-1_Vassil_Girginov_-_Singapore_Lecture.pdf)
 by Dr Vassil Girginov
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/biHtbAtnOj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
