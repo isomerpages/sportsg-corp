@@ -1,6 +1,0 @@
-collections:
-  contacts:
-    output: true
-    order:
-      - Learning & Development.md
-      - Job Opportunities.md
