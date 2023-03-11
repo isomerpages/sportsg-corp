@@ -5,10 +5,7 @@ description: ""
 ---
 Singapore , 22 Nov 2017
 
-Singapore , 22 Nov 2017
-
 ![](/images/Sport%20Leadership%20Latest/Game%20For%20Life/COP_3.jpeg)
-
 1 year ago, CoachSG started a Community of Practice (CoP) and met for the first time in November 2017 with selected MOE PE HODs and teachers to share best practices for Character and Leadership Development through Sport (CLDS).
 
 Known also as the Game For Life CoP, we met again on 8th November 2017 with more representatives from MOE Primary to Junior College schools, Polytechnics, Institute of Technical Education (ITE), Physical, Sports & Outdoor Education Branch (PSOEB) and National Institute of Education (NIE). At the start of the meeting we revisited the vision of the CoP – established during the first meeting, which is to increase the quantity of individuals creating quality positive experiences through sport.
