@@ -10,7 +10,7 @@ A Therapeutic Use Exemption (TUE) is necessary before an athlete uses a prescrib
 
 Athletes should advise all medical personnel of their obligation to abide by the anti-doping rules of their sport and that any medical treatment received must not violate these rules.
 
-![TUE Process Table](/images/What%20We%20Do/Anti%20Doping%20Singapore/Substances/Therapeutic%20Use%20Exemption/TUE_Process_Table.jpeg)
+![TUE Process Table](/images/Our%20Work/Anti%20Doping%20Singapore/Substances/Therapeutic%20Use%20Exemption/TUE_Process_Table.jpeg)
 
 **TUE PROCESS**
 
@@ -22,7 +22,7 @@ Athletes should advise all medical personnel of their obligation to abide by the
 	* Discuss with your doctor for permitted alternative medication or treatment.
 	* If there are no alternative medication or treatment available, proceed to Step 3.
 * STEP 3: APPLY FOR A TUE
-	* Download a [TUE Application Form](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Application_Form_20210615.pdf) from ADS website or obtain it from your National Sports Association or International Federation, where applicable.
+	* Download a [TUE Application Form](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Application_Form_20210615.pdf) from ADS website or obtain it from your National Sports Association or International Federation, where applicable.
 * STEP 4: COMPLETE THE TUE APPLICATION FORM
 	* Complete the form with your doctor.
 	* Medical evidence to justify the use of a prohibited substance or method must be attached to the application form
@@ -77,7 +77,7 @@ Email: [Sport_TUE_ADS@sport.gov.sg](mailto:Sport_TUE_ADS@sport.gov.sg)
 
 Note: A TUE granted by the ADS TUE Committee may not be acknowledged by the International Federation. It is the athlete's responsibility to be aware of the requirements of the International Federation or event organiser prior to competing. International Federation's may have different TUE application and information requirements and forms.
 
-For more details, please refer to the [ADS TUE Policy](/files/What%20We%20%20Do/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Policy_20210401.pdf).
+For more details, please refer to the [ADS TUE Policy](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_TUE_Policy_20210401.pdf).
 
 #### **PROHIBITED LIST**
 
@@ -94,7 +94,7 @@ Athletes should always check with their International Federation or Anti-Doping 
 **MEDICAL CONDITIONS**
 
 | -------- | -------- | 
-| <img src="/images/What%20We%20Do/Anti%20Doping%20Singapore/Substances/Prohibited%20List/check-drugs-banner.jpeg" style="width: 500px;" /> | Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine!   | 
+| ![](/images/Our%20Work/Anti%20Doping%20Singapore/Substances/Prohibited%20List/check-drugs-banner.jpeg)| Athletes, like anyone, may at times experience a medical condition that requires them to use particular medicines.  The substances that an athlete may be required to take to treat a condition could fall under the List. However, by applying and obtaining a Therapeutic Use Exemption (TUE) from your International Federation or ADS, an athlete may be allowed to take the necessary medicine!   | 
 
 Athletes who need to apply for a TUE should request more information about the TUE application process from their International Federation (for international-level athletes) or ADS (for national-level athletes).
 
