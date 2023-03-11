@@ -3,8 +3,7 @@ title: Athletes Stories
 permalink: /athletes-stories/
 description: ""
 ---
-
-![Muhammad Jaris Goh Ali Akbar Goh](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/MuhammadJarisGohfeb14AlvinTohHIRES24678.png)
+![Muhammad Jaris Goh Ali Akbar Goh](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/MuhammadJarisGohfeb14AlvinTohHIRES24678.png)
 #### **Muhammad Jaris Goh Ali Akbar Goh – Team Singapore Bowler**
 
 **Graduate of NITEC in Fitness Training, Institute of Technical Education**
@@ -21,7 +20,7 @@ ITE has supported Jaris in allowing him to train and compete through providing:
 > “It was tough as at ITE. Luckily I had good support from the school and friends who were always there to help me with my schoolwork whenever I missed classes. The support allowed me to focus on my studies and bowling, providing me with the opportunity to fulfil my dream of pursuing the customised RP-SSP DSLM course and bowl at my highest potential.” - Muhammad Jaris Goh, Team Singapore Bowler  
 2015 Qubica AMF Men’s World Cup, Bronze Medallist
 
-![VeronicaShantiPereira](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/VeronicaShantiPereira.png)
+![VeronicaShantiPereira](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/VeronicaShantiPereira.png)
 
 #### **Veronica Shanti Pereira – Team Singapore Track & Field Athlete**
 
@@ -38,7 +37,7 @@ Republic Polytechnic has supported Shanti in allowing her to train and compete t
 > “If it weren't for the flexible academic pathway offered, the coaches I was under and the staff who guided me, I wouldn't have been able to make to where I am today, including winning the 200m gold at the Singapore 2015 Southeast Asian Games. That was the ultimate breakthrough in my running career and I could not have done it without the well-balanced support that the Sports School and Republic Polytechnic had provided me with.” -  Shanti Veronica Pereira, Team Singapore Track & Field Athlete  
 2015 SEA Games, Women’s 200m Gold Medallist
 
-![NurulShafiqahMOHAMEDSAIFUL](/images/What%20We%20Do/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/NurulShafiqahMOHAMEDSAIFUL27Sep13ByVincentNghaiHiRes003.png)
+![NurulShafiqahMOHAMEDSAIFUL](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/Athletes%20Stories/NurulShafiqahMOHAMEDSAIFUL27Sep13ByVincentNghaiHiRes003.png)
 
 #### **Nurul Shafiqah Mohamed Saiful – Team Singapore Silat Athlete**
 
