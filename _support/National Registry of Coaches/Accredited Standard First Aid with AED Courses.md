@@ -13,7 +13,7 @@ The SRFAC accredits Standard First Aid (SFA) Courses by various training centre
 Please refer to the SRFAC's website at [](https://srfac.sg/)[https://srfac.sg/directory/training-centre/](https://srfac.sg/directory/training-centre/?qs=&certificate%5B%5D=846) for the latest list of valid and accredited SFA training centres. You may refer to the image below for reference.
 
 Please note to check the "License Expiry" of each training centre (see image below).
-![Certification and License expiry](/images/What%20We%20Do/Coaches’%20Corner/Accredited%20Standard%20First%20Aid/Certification%20and%20License%20expiry.png)
+![Certification and License expiry](/images/Support/Coache's%20Corner/Certification%20and%20License%20expiry.png)
 
 **Please note that Standard First Aid (SFA), CPR and AED courses (including refresher courses) will NOT be awarded Continuing Coach Education (CCE) hours as these are considered standard requirement for coaches.**
 
