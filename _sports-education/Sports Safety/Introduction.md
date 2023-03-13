@@ -10,7 +10,7 @@ In detail, the Sports Safety Working Committee: 
 *   Studies implementation issues 
 *   Puts into operation the recommendations of the Sports Safety Committee
 *   Promotes sports safety across different sports
-*   Assists NSAs in developing and implementing sports safety practices and various information, materials, guides and templates for the public 
+*   Assists National Sports Associations in developing and implementing sports safety practices and various information, materials, guides and templates for the public 
 
 Below is a report on the 'OVERVIEW AND RECOMMENDATIONS FOR SPORTS SAFETY IN SINGAPORE'  **done by the Sports Safety Committee**.
 
