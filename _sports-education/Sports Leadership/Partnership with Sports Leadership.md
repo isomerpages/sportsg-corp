@@ -6,7 +6,7 @@ third_nav_title: Sports Leadership
 ---
 ### **About Character & Leadership Development Department (CLD) - An Overview**
 
-Under Vision 2030, the 'Future Ready through Sports' narrative focuses on promoting the holistic development of individuals, teams, organisations and communities through sports in preparation for future challenges. The Character & Leadership Development Department (CLD), under [CoachSG](/what-we-do/coachsg/), serves and works in partnership with both internal and external stakeholders to drive the research, design and implementation of various initiatives within the domain of character and leadership development.   
+Under Vision 2030, the 'Future Ready through Sports' narrative focuses on promoting the holistic development of individuals, teams, organisations and communities through sports in preparation for future challenges. **The Character & Leadership Development Department (CLD)**, under [CoachSG](/our-work/coachsg/), serves and works in partnership with both internal and external stakeholders to drive the research, design and implementation of various initiatives within the domain of character and leadership development.   
   
 At Sport Singapore, CLD develops organisational capabilities by spearheading leadership development for our people and sport coaches. In serving the larger Singapore community, CLD also partners key stakeholders such as local educational institutions and like-minded corporations to co-develop initiatives to promote character and leadership development through the deliberate design of sporting activities.
 
