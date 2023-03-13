@@ -27,6 +27,7 @@ One outstanding organisation that has garnered two awards in the organisation ca
 
 **For media enquiries, please contact:**
 <br>
+
 Fiona Foo
 <br>
 The Advocate Group
@@ -55,8 +56,8 @@ Phone: 6340 9886
 
 **About the Sporting Singapore Inspiration Awards**
 <br>
-*The Sporting Singapore Inspiration Awards (SSIA) aims to give much deserved recognition to individuals and organisations for significant contribution towards sports promotion. The SSIA represents the only award in Singapore focused on honouring individuals and organisations for exemplary passion and commitment in promoting sports as a way of life. Award winners are seen as community role models who inspire and motivate others to greater heights in sports. They typically help create opportunities and platforms for sporting activities, connect with the community through sports, or celebrate the triumph of the human spirit through sports. For more information, kindly visit http://ssia.ssc.gov.sg.*
+The Sporting Singapore Inspiration Awards (SSIA) aims to give much deserved recognition to individuals and organisations for significant contribution towards sports promotion. The SSIA represents the only award in Singapore focused on honouring individuals and organisations for exemplary passion and commitment in promoting sports as a way of life. Award winners are seen as community role models who inspire and motivate others to greater heights in sports. They typically help create opportunities and platforms for sporting activities, connect with the community through sports, or celebrate the triumph of the human spirit through sports. For more information, kindly visit http://ssia.ssc.gov.sg.
 
 **About Singapore Sports Council**
 <br>
-*The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.*
+The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
