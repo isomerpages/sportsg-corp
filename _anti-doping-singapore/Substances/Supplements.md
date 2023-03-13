@@ -10,7 +10,7 @@ Anti-Doping Singapore (ADS) does not recommend or advocate that athletes take an
 
 
 **THE RISK OF SUPPLEMENTS**
-![Risky Supplements](/images/What%20We%20Do/Anti%20Doping%20Singapore/Substances/Supplements/risky_supplements.jpeg)
+![Risky Supplements](/images/Our%20Work/Anti%20Doping%20Singapore/Substances/Supplements/risky_supplements.jpeg)
 
 Supplements are not strictly regulated in many countries, including Singapore. The World Anti-Doping Agency (WADA) is also not involved in testing supplements. For this reason, ADS and other organisations, including WADA and IOC cannot "approve", "endorse" or confirm the status of any supplement product.  Athletes who test positive for a prohibited substance in a supplement may face the same penalties as someone who is deliberately using the substance to cheat.  
   
