@@ -14,4 +14,4 @@ Conducted at Toa Payoh Sports Hall, the team which consists of staff from differ
 
 Find out more about the programme [here](https://www.myactivesg.com/news/2017/3/upping-the-game-in-team-building)!
 
-[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
