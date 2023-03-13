@@ -37,4 +37,4 @@ _\[Photo Credit: Sport Singapore\]_
 
 Moving forward, EVGSS will be collaborating with SportSG on a new project - Character and Leadership Development through Sport Community of Practice (CoP). The project gathers schools that are implementing similar character development frameworks to share their best practices, to improve affective learning through sport to proliferate the value of sport among educators and the community in Singapore.
 
-[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
