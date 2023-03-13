@@ -38,7 +38,6 @@ Bids will be evaluated on four criteria:
 
 **For media enquiries, please contact:**
 <br>
-
 Alvin Hang
 <br>
 Assistant Director (Group Communications)
