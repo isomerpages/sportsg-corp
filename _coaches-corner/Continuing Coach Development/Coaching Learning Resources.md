@@ -74,7 +74,8 @@ For more queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coac
 
 ##### **Other Resources**
 
-**CoachSG Events**
+**CoachSG Events**:
+
 [CoachSG Conference 2019](https://www.sportsingapore.gov.sg/Athletes-Coaches/CoachSG/Conference-2019/Resources)
 
 [CoachSG Conference 2018](https://www.sportsingapore.gov.sg/Athletes-Coaches/CoachSG/Conference-2018/Resources)
