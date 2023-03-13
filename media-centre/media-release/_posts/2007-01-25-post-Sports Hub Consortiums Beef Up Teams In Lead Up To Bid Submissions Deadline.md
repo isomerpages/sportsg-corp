@@ -60,7 +60,6 @@ Added Oon: "Forty percent of the evaluation will focus on the strength of the co
 
 **For media enquiries, please contact:**
 <br>
-
 Sharon Liew<br>
 Manager<br>
 (Corporate Marketing & Communications)<br>
