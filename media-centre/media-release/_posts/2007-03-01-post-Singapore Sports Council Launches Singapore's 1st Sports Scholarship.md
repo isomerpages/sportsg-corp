@@ -30,7 +30,6 @@ Added Chan: "We're looking for people who are passionate about sports, people wh
 
 **For media enquiries, please contact:**
 <br>
-
 Alvin Hang
 <br>
 Assistant Director (Group Communications)
