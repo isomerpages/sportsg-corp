@@ -26,7 +26,6 @@ The establishment of the ADSF builds upon the first International Foundation of 
 
 ---
 **For media enquiries, please contact:**
-
 <br>
 Singapore Disability Sports Council
 <br>
