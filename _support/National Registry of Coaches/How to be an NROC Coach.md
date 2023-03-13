@@ -34,7 +34,7 @@ Over a 3-year provisional membership period, they could be given priority enrolm
 
 Please apply for NROC membership online through [SportSync](https://www.sportsync.sg/) which features coach's profile management, application tracking and online payment services. For answers to Frequently-Asked-Questions, please click [here](https://www.sportsync.sg/App/System/FAQ).
 
-For assistance on how to submit an application, please click [here](/files/What%20We%20%20Do/Coaches’%20Corner/New%20Application.pdf)
+For assistance on how to submit an application, please click [here](/files/Support/National%20Registry%20of%20Coaches/New_Application.pdf)
 
 For technical assistance, please visit [this page](https://www.sportsync.sg/App/Login/Contact).
 
