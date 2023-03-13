@@ -36,4 +36,4 @@ The CoP participants also self-organized themselves in an open space discussion 
 
 Coaches or sports educators who are interested to contribute and be part of the CLDS conversations in consecutive CoP sessions can [email us](mailto:hong_xue_en@sport.gov.sg) and share with us your experiences implementing CLDS in your sphere of influence.
 
-[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
