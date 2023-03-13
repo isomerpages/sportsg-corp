@@ -32,7 +32,6 @@ The Singapore Sports Awards 2007 has rounded up a fantastic 2006 for sports in S
 
 **For media enquiries, please contact:**
 <br>
-
 Charlotte Ong
 <br>
 Manager, Marketing Communications
