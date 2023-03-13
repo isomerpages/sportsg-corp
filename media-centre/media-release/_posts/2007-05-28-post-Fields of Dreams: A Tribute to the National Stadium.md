@@ -45,7 +45,6 @@ $20 Adult (excl. $2 SISTIC fee) / $12 Child/Student (excl. $1 SISTIC fee)
 
 **For media enquiries, please contact:**
 <br>
-
 Susmita Dayanandan
 <br>
 Senior Executive, (Corporate & Marketing Communications)
