@@ -44,7 +44,6 @@ In line with SSC's focus on strengthening and integrating sports participation a
 
 **For media enquiries, please contact:**
 <br>
-
 Alvin Hang
 <br>
 Assistant Director
