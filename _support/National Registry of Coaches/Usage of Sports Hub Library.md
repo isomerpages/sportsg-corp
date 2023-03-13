@@ -36,7 +36,7 @@ To book Sports Hub Library seminar rooms, please follow the steps as follow;
 
 **Sports Hub Library seminar rooms**
 
-1. Fill up booking request form [here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/Athletes-and-Coaches/For-Coaches/National-Registry-of-Coaches/Usage-of-Sports-Hub-Library/Event-Planner-Revise-(1).ashx?la=en&hash=1544BA01E35E7A1393CED526A7324BDA09C1A207)
+1. Fill up booking request form [here](/files/Support/National%20Registry%20of%20Coaches/Event_Planner_Revise.pdf)
 2. Email completed booking request form to [NurAshikin.Nasir@civica.com.sg](mailto:NurAshikin.Nasir@civica.com.sg), with subject: **Booking of Seminar room**
 3. Wait for confirmation
 4. 	
