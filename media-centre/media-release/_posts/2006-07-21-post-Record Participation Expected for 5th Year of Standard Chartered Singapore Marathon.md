@@ -36,7 +36,6 @@ Issued on behalf of Standard Chartered Singapore Marathon Organising Committee
 
 **For media enquiries, please contact:**
 <br>
-
 Ronda Ng
 <br>
 Fulford Public Relations
