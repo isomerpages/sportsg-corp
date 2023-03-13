@@ -26,7 +26,6 @@ Mr Oon Jin Teik, CEO of SSC, said: "As a part of the Sports Hub, the watersports
 
 **For media enquiries, please contact:**
 <br>
-
 Alvin Hang
 <br>
 Assistant Director (Group Communications)
