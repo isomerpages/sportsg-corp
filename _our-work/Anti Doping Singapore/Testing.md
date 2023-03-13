@@ -91,7 +91,6 @@ You are given a choice of at least 3 individually sealed sample collection kits,
 
 ##### **STEP 5: PROVIDING THE URINE / BLOOD SAMPLE**
 ![step5](/images/Our%20Work/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step5.jpeg)
-
 Only you and a DCO or Chaperone of the same gender are permitted in the washroom when you provide the urine sample. The first urine sample that you are able to provide following notification must be collected.
 
 Minors and athletes with a disability must have their representative present. The representative is not permitted to view the sample provision, but to ensure that the DCO or Chaperone is observing the sample provision correctly. The representative will not witness you providing the sample unless you specifically request them or require their assistance.
@@ -106,7 +105,6 @@ If you provide a sample less than the required volume of 90ml, you are required
 
 **PROVIDING THE BLOOD SAMPLE**
 ![sample](/images/Our%20Work/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/sample.jpeg)
-
 Prior to providing a blood sample, the Blood Collection Officer (BCO) or DCO must ensure that you have been seated and relaxed for at least 10 minutes. If a blood sample is being collected for the Athlete Biological Passport, you must have been rested for at least 2 hours.
 
 When providing a blood sample, you will be asked to select from at least 3 sets of blood collection kits, blood sample storage and transportation kits. Checks should be made to ensure they are empty, clean and the seal is intact.
