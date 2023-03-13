@@ -4,7 +4,7 @@ permalink: /sports-education/sports-safety/sports-safety-committee/
 description: ""
 third_nav_title: Sports Safety
 ---
-Sports Safety is integral in our promotion of a sporting culture among Singaporeans. In 2007, the Sports Safety Committee released a comprehensive report with detailed findings on sports safety standards and systems aligned with international best practices to the public. A review of the report was also carried out by the committee as part of its continual improvement efforts in 2014.
+Sports Safety is integral in our promotion of a sporting culture among Singaporeans. In 2007, the Sports Safety Committee released a comprehensive report with detailed findings on sports safety standards and systems aligned with international best practices to the public. A review of the report was also carried out by the committee as part of its continuous improvement efforts in 2014.
 
 In 2016, the Sports Safety Committee reconvene with the scope of water safety subsumed under the Committee.
 
