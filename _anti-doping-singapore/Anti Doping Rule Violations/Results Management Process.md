@@ -4,8 +4,7 @@ permalink: /anti-doping-singapore/anti-doping-rule-violations/results-management
 description: ""
 third_nav_title: Anti Doping Rule Violations
 ---
-![](/images/What%20We%20Do/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Fair_Hearing.png)
-
+![](/images/Our%20Work/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Fair_Hearing.png)
 The laboratory that has analysed your A Sample will report the results simultaneously to the Anti-Doping Organisation, such as Anti-Doping Singapore (ADS), and the World Anti-Doping Agency (WADA). Your B Sample is frozen and analysed if there is an Adverse Analytical Finding on your A Sample. Note that the samples analysed are identified by code numbers and not athlete names.
 
 Three possible outcomes may arise from sample analysis - a Negative Analytical Finding, an Atypical Finding or an Adverse Analytical Finding.
