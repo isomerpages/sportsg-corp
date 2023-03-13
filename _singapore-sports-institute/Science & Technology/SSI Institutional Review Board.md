@@ -175,8 +175,8 @@ Please ensure that all revised/new documents are submitted to SSI-IRB with the c
 | 4. IRB Guidelines 04 - Human Biological Research and Sample | 28 April 2021 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_04_Human_Biological_Research_and_Sample_as_of_April2021.pdf)|
 | 5. IRB Guidelines 05 - Requirement of Consent | 28 April 2021 |[Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_05_Requirement_of_Consent_as_of_April2021.pdf)|
 | 6. IRB Guidelines 06 - Data Management Policy | 1 April 2020 |[Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/IRB_Guidelines_06_Data_Management_Policy_as_of_01042020.pdf)|
-| 7. SSI-IRB Incident Reporting Guide | 17 April 2020 |[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Incident_Reporting_Guide.pdf)|
-| 8. Research Monitoring Guide | 15 January 2021 |[Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf)|
+| 7. SSI-IRB Incident Reporting Guide | 17 April 2020 |[Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Incident_Reporting_Guide.pdf)|
+| 8. Research Monitoring Guide | 15 January 2021 |[Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf)|
 
 For more information on MOH Guidelines on HBRA, please click [here](https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act).
 
@@ -184,14 +184,14 @@ For more information on MOH Guidelines on HBRA, please click [here](https://www
 
 | Document Name | Version | Link |
 | -------- | -------- | -------- |
-| 1. SSI-IRB Sharing #1 | 24 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_24_April_2020.pdf)|
-| 2. SSI-IRB Sharing #2 | 14 April 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_14_Aug_2020.pdf)|
-| 3. SSI-IRB Sharing #3 | 18 June 2020 | [Download](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
+| 1. SSI-IRB Sharing #1 | 24 April 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_24_April_2020.pdf)|
+| 2. SSI-IRB Sharing #2 | 14 April 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_14_Aug_2020.pdf)|
+| 3. SSI-IRB Sharing #3 | 18 June 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Sharing_18_Jun_2021.pdf)|
 
 ---
 
 #### **Research Monitoring**
-The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/What%20We%20%20Do/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf).
+The Principal Investigator (PI) is responsible to provide a status update to the SSI-IRB Secretariat every 6 months (the last week of January and July each year). SSI-IRB Secretariat will provide email reminders when the reporting date is due. Click here for more information on [Periodic Update of Research](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf).
 
 ---
 
