@@ -26,7 +26,6 @@ Singapore Sports Council
 
 **For media enquiries, please contact:**
 <br>
-
 Name: Mr Harold Lim
 <br>
 DID: 6354 8174
