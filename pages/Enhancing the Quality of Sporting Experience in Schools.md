@@ -49,4 +49,4 @@ CLD is delighted to be partnering Evergreen Secondary, St. Hilda’s Secondary, 
 
 *"The school recognizes that it takes several groups of people (eg. CCA teachers and coaches) to bring about effective character development. Through the workshop, we are glad to see our CCA teachers and coaches getting together as One Team to work towards a same vision and commitment to develop good positive sports culture in the school." ~Richard Lian, HOD PE/CCA, St Hilda Secondary*
 
-[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
