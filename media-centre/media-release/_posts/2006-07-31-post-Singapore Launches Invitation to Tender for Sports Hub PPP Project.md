@@ -39,7 +39,6 @@ For more on the Sports Hub, please log on to [www.ssc.gov.sg](www.ssc.gov.sg).
 
 **For media enquiries, please contact:**
 <br>
-
 Alvin Hang
 <br>
 Assistant Director
