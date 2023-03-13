@@ -29,7 +29,6 @@ These strategic thrusts are specially developed with the aim of creating optimum
 
 **For media enquiries, please contact:**
 <br>
-
 Ms Suhana Kharudin
 <br>
 Manager (Marketing Communications)
