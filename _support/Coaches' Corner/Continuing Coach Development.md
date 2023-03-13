@@ -14,7 +14,8 @@ The multifaceted role played by a coach goes beyond just the playing field. Coac
   
 The team is committed to develop, recognise and raise the standard of sports and coaches in Singapore through a holistic  and inclusive approach. Coach education is driven mainly by the SG-Coach Programme and the Continuing Coach Education Programme (CCE) organised by Sport Singapore and the National Sports Associations.
 
-Coaches who have met the required coaching certification and are committed to abide by the Code of Ethics will be in the National Registry of Coaches (NROC).  
+Coaches who have met the required coaching certification and are committed to abide by the Code of Ethics will be in the National Registry of Coaches (NROC). 
+
 **Coach Development Department**
 
 The Coach Development Department adopts a comprehensive and holistic approach towards coaching development.
