@@ -49,7 +49,6 @@ For more information on Team Singapore athletes' performance at the 15th Asian G
 
 **For media enquiries, please contact:**
 <br>
-
 Ms Suhana Kharudin
 <br>
 Manager (Marketing Communications)
