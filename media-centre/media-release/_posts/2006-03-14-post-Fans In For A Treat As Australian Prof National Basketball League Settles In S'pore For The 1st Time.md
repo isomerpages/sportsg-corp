@@ -43,7 +43,6 @@ Added Koh Meng Koon, a Singapore National Men Team Player, "This is certainly a 
 
 **For media enquiries, please contact:**
 <br>
-
 Alvin Hang
 <br>
 Assistant Director
