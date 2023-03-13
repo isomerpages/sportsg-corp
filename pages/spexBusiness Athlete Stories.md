@@ -5,9 +5,7 @@ description: ""
 ---
 Success Stories from Team Singapore Athletes
 
-##### **Chelsea Ann Sim, Team Singapore Athlete (Taekwondo)  
-Graduate, SMU (Business Management)  
-Intern, Deloitte (Clients and Markets Department)**
+##### **Chelsea Ann Sim, Team Singapore Athlete (Taekwondo)  Graduate, SMU (Business Management)  Intern, Deloitte (Clients and Markets Department)**
 
 A three-time SEA Games medallist, Team Singapore Taekwondo Exponent Chelsea Ann Sim stands as testimony to how the spexBusiness initiative benefits both student-athletes and athlete-employees. Having been on both ends of the coin, she is now on her second internship placement via the initiative, her first having been with the Corporate Business division in OSIM International. Currently, Chelsea is interning with the Clients and Markets Department in Deloitte, in view towards full-time conversion.
 
@@ -27,9 +25,7 @@ Chelsea Ann Sim
 
 <hr>
 
-##### **Jaslyn Hooi, Team Singapore Athlete (Badminton)  
-Final Year Student, Ngee Ann Polytechnic (Business Studies - Entrepreneurship Management)  
-Investment Analyst Intern, Quest Ventures**
+##### **Jaslyn Hooi, Team Singapore Athlete (Badminton)  Final Year Student, Ngee Ann Polytechnic (Business Studies - Entrepreneurship Management)   Investment Analyst Intern, Quest Ventures**
 
 Poised, determined and unfazed, Jaslyn Hooi, a TeamSG badminton player and spexScholar, stepped into her office at Ayer Rajah Crescent. As soon as Jaslyn sits down at her desk, it is non-stop working for her until she leaves for her training. Such was her usual routine during her internship stint at spexBusiness partner, Quest Ventures. As an Investment Analyst intern, she had to facilitate the investment process; be the first point of contact with the start-ups, do an initial evaluation of the feasibility and potential of the company to invest in. She is also in-charge of several market access programs that help companies in gaining access to overseas markets and amplifying their presence across the Southeast Asia region. This is certainly no mean feat for someone with no prior working experience at all.
 
@@ -53,8 +49,7 @@ It is with such unwavering support system in place, as well as her own persevera
 
 <hr>
 
-##### **Derek Wong (Team Singapore Athlete, Badminton)  
-Research Specialist with Deloitte Singapore**
+##### **Derek Wong (Team Singapore Athlete, Badminton)  Research Specialist with Deloitte Singapore**
 
 Derek joined Deloitte in July 2014 as a Research Specialist in the Clients & Markets Department. He performs research on specific companies and industries in order to support the work teams serving clients from these specific industries. This involves benchmarking studies, conducting economic research or research on the strategic directions of the organization or development trends.
 
