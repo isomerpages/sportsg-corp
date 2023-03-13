@@ -12,4 +12,4 @@ The Game For Life Workshop for educators equip teachers and coaches with the nec
 
 Please [refer here](/sports-education/sports-leadership/workshop-and-training/) for more information.
 
-[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
