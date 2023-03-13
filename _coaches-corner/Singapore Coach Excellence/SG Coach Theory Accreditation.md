@@ -28,7 +28,7 @@ If you are interested in seeking for accreditation for SG-Coach Theory via reco
 5.  Your relevant academic certificate(s) and their respective official transcript(s) / list(s) of modules – e.g. Diploma and above in Sports Science, Sports Coaching or Physical Education
 6.  Your sport-specific coaching certificate(s) and their respective official transcript(s) / list(s) of modules – e.g. Developmental coaching certificate / accreditation in Swimming
 
-There is no cost for the evaluation BUT please note that a certification fee of $54.00 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applicants, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via this [link](https://www.sportsingapore.gov.sg/athletes-coaches/course-calendar).
+There is no cost for the evaluation BUT please note that a certification fee of $54.00 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applicants, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via Course Calendar.
 
 **VPS Accreditation**.
 
