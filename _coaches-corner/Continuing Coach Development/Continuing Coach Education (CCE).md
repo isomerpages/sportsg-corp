@@ -133,6 +133,6 @@ Coaches may use the following templates to create their own reflection notes:
 
 If you need help on uploading your reflection note onto SportSync, you may refer to this [document](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Steps_to_Upload_Reflection_onto_SportSync.pdf) on the steps required.
 
-Please refer to the **Course Calendar Page** for a list of coach education activities organised by Sport Singapore.
+Please refer to the **Course Calendar** for a list of coach education activities organised by Sport Singapore.
 
 For more information, coaches can contact CoachSG at [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
