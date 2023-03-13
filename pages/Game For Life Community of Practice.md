@@ -20,3 +20,5 @@ An open space discussion was also arranged for CoP participants to lead conversa
 
 ![](/images/Sport%20Leadership%20Latest/Game%20For%20Life/IMG_9335.jpeg)
 Moving forward, a by-invite-only facebook group which had been created for the CoP serve as a platform for the continuation of conversations on CLDS and sharing of CLDS resources.
+
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
