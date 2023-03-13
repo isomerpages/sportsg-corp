@@ -10,7 +10,7 @@ Sport Singapore requires all NROC-registered coaches to have a valid Standard Fi
 
 The SRFAC accredits Standard First Aid (SFA) Courses by various training centres. The objective of this process is to ensure they have met the requirements for training facilities and training standards. We regret that we will not be able to accredit other first aid courses in view of the different course content and contextualization.
 
-Please refer to the SRFAC's website at [](https://srfac.sg/)[https://srfac.sg/directory/training-centre/](https://srfac.sg/directory/training-centre/?qs=&certificate%5B%5D=846) for the latest list of valid and accredited SFA training centres. You may refer to the image below for reference.
+Please refer to the SRFAC's website at [https://srfac.sg/directory/training-centre/](https://srfac.sg/directory/training-centre/?qs=&certificate%5B%5D=846) for the latest list of valid and accredited SFA training centres. You may refer to the image below for reference.
 
 Please note to check the "License Expiry" of each training centre (see image below).
 ![Certification and License expiry](/images/Support/Coache's%20Corner/Certification%20and%20License%20expiry.png)
