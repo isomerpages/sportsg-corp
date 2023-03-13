@@ -22,6 +22,7 @@ From 3-5 August 2007, shoppers at Plaza Singapura can experience sailing on a sa
 
 **For media enquiries, please contact:**
 <br>
+
 Gayle Wong<br>
 Assistant Director<br>
 Group Communications, Singapore Sports Council<br>
@@ -38,18 +39,16 @@ E-mail: [bobby.chan@psb-academy.edu.sg](bobby.chan@psb-academy.edu.sg)
 
 ---
 
-***About Team Singapore***
+**About Team Singapore**
 <br>
-*Team Singapore was launched by Deputy Prime Minister, Dr Tony Tan on 20 April 2001. It is the approach through which the Singapore sporting fraternity will work together to realise our vision of a sporting Singapore. It is about getting Singaporeans to put aside their personal or organisational interests and work together as a team to strive for sporting excellence for the nation. At the heart of Team Singapore lies three core values - Fighting Spirit, National Pride and Teamwork - underscoring the notion that by working together, the whole can be greater than the sum of its parts. Team Singapore gives Singaporeans the opportunity to foster closer relations and gather together to rally support for our athletes. Team Singapore shall be the means through which sports helps to build a cohesive and resilient Singapore. For more information, please visit [www.teamsingapore.sg/home](https://www.teamsingapore.sg/home).*
+Team Singapore was launched by Deputy Prime Minister, Dr Tony Tan on 20 April 2001. It is the approach through which the Singapore sporting fraternity will work together to realise our vision of a sporting Singapore. It is about getting Singaporeans to put aside their personal or organisational interests and work together as a team to strive for sporting excellence for the nation. At the heart of Team Singapore lies three core values - Fighting Spirit, National Pride and Teamwork - underscoring the notion that by working together, the whole can be greater than the sum of its parts. Team Singapore gives Singaporeans the opportunity to foster closer relations and gather together to rally support for our athletes. Team Singapore shall be the means through which sports helps to build a cohesive and resilient Singapore. For more information, please visit [www.teamsingapore.sg](http://www.teamsingapore.sg/home).
 
-***About Singapore Sports Council***
+**About Singapore Sports Council**
 <br>
-*The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).*
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
 
-***About PSB Academy Pte Ltd***
+**About PSB Academy Pte Ltd**
 <br>
-*PSB Academy has been leading and educating Singapore's workforce for the past 43 years. Widely recognized as a premium institution that provides quality education, it is highly regarded by both individuals and the industry. Today, PSB Academy is one of Singapore's largest education and training institutions, with over 30,000 individuals attending its courses annually.*
+PSB Academy has been leading and educating Singapore's workforce for the past 43 years. Widely recognized as a premium institution that provides quality education, it is highly regarded by both individuals and the industry. Today, PSB Academy is one of Singapore's largest education and training institutions, with over 30,000 individuals attending its courses annually.
 
-*PSB Academy is proud to partner some of the finest universities from Australia, U.K. and the U.S. to offer internationally recognized academic qualifications. The range of corporate executive programmes has also been the choice of many MNCs, government agencies and companies, both in Singapore and the region. PSB Academy was one of the first few providers to earn the Singapore Quality Class (SQC) award for Private Education Organisations (PEOs). It is also CaseTrust accredited and ISO9001:2000 certified.*
-
-*For further information, please visit [www.psb-academy.edu.sg](www.psb-academy.edu.sg).*
+PSB Academy is proud to partner some of the finest universities from Australia, U.K. and the U.S. to offer internationally recognized academic qualifications. The range of corporate executive programmes has also been the choice of many MNCs, government agencies and companies, both in Singapore and the region. PSB Academy was one of the first few providers to earn the Singapore Quality Class (SQC) award for Private Education Organisations (PEOs). It is also CaseTrust accredited and ISO9001:2000 certified. For further information, please visit [https://www.psb-academy.edu.sg/](https://www.psb-academy.edu.sg/).
