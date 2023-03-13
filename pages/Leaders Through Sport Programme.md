@@ -39,4 +39,4 @@ ActiveSG facilitator Fu Yong said, “Having worked with the Eliza & Ee Theng fr
 ![](/images/Sport%20Leadership%20Latest/Leaders%20Through%20Sport/z_Finale.jpeg)
 **For more information on the overall design and other modules of the LTS Programme, check it out here:** [https://www.myactivesg.com/read/2017/7/developing-young-leaders-through-sport](https://www.myactivesg.com/read/2017/7/developing-young-leaders-through-sport)
 
-[Back to Sport Leadership Page](/sports-education/sports-leadership/latest/)
+[Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
