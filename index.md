@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: LIVE SPORT
           description: Promoting a sporting lifestyle
-          url: /what-we-do/overview/
+          url: /our-work/overview/
         - title: LEARN SPORT
           description: Building up coaches & athletes
           url: /support-resources/activesg-programme-partnership/nroc-sports/
@@ -34,10 +34,10 @@ sections:
       url: /about-us/our-core-values/
   - infopic:
       title: Start Your Fitness Journey With Sport
-      subtitle: What We Do
+      subtitle: Our Work
       button: Discover Now
       alt: Start Your Fitness Journey
-      url: /what-we-do/academy-and-clubs/
+      url: /our-work/overview/
       image: /images/About Us/Values & Mission/Core Values/people.jpeg
   - infopic:
       title: Become A Certified Coach
