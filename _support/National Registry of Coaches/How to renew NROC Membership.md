@@ -10,8 +10,8 @@ Coaches with expired NROC membership will need to prepare the following:
 
 *   [Valid Standard First Aid (including AED) Certificate](/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/)
 *   $60.00 renewal fee (payable online)
-*   Supporting documents for completion of [Continuing Coach Education (CCE)](/coaches-corner/continuing-coach-development/continuing-coach-education-cce/) requirement. **Up to 10 CCE hours may be awarded for a recognised CCE activity.** Do note that coaches can now fulfil their CCE requirement through Self-Guided CCE hours as well (see 'Update on CCE Hours Requirement' section in the above link) Please refer to [How to access e-Logbook guide here](/files/Our%20Work/Coaches’%20Corner/NROC/How%20to%20Renew%20NROC%20Membership/How%20to%20access%20e-Logbook_1.pdf).
-*   Submit their application online by email or in person (see below for Renewal Procedures) Please refer to [How to renew guide here](/files/Our%20Work/Coaches’%20Corner/NROC/How%20to%20Renew%20NROC%20Membership/How%20to%20renew%20NROC%20membership_1.pdf)
+*   Supporting documents for completion of [Continuing Coach Education (CCE)](/coaches-corner/continuing-coach-development/continuing-coach-education-cce/) requirement. **Up to 10 CCE hours may be awarded for a recognised CCE activity.** Do note that coaches can now fulfil their CCE requirement through Self-Guided CCE hours as well (see 'Update on CCE Hours Requirement' section in the above link) Please refer to [How to access e-Logbook guide here](/files/Support/National%20Registry%20of%20Coaches/How%20to%20Guides%20for%20Sport%20Sync/How_to_access_e-Logbook_1.pdf).
+*   Submit their application online by email or in person (see below for Renewal Procedures) Please refer to [How to renew guide here](/files/Support/National%20Registry%20of%20Coaches/How%20to%20Renew%20NROC%20Membership/How_to_renew_NROC_membership_1.pdf)
 
 | NROC Level |Min. Coaching Practice Hours| Min. Coaching Education Hours Attendance CCE Hours | Min. Coaching Education Hours Attendance CCE Hours |
 | -------- | -------- | -------- | -------- |
@@ -21,7 +21,7 @@ Coaches with expired NROC membership will need to prepare the following:
 
 **Renewal Procedure**
 
-Please renew your NROC membership online through [SportSync](https://www.sportsync.sg/) which features coach's profile management, application tracking and online payment services.For answers to Frequently-Asked-Questions, please click [here](https://www.sportsync.sg/App/System/FAQ). Please refer to [How to renew NROC membership guide here](/files/Our%20Work/Coaches’%20Corner/NROC/How%20to%20Renew%20NROC%20Membership/How%20to%20renew%20NROC%20membership_1.pdf).
+Please renew your NROC membership online through [SportSync](https://www.sportsync.sg/) which features coach's profile management, application tracking and online payment services.For answers to Frequently-Asked-Questions, please click [here](https://www.sportsync.sg/App/System/FAQ). Please refer to [How to renew NROC membership guide here](/files/Support/National%20Registry%20of%20Coaches/How%20to%20Renew%20NROC%20Membership/How_to_renew_NROC_membership_1.pdf)
 
 For technical assistance, please visit [this page](https://www.sportsync.sg/App/Login/Contact).
 
@@ -50,7 +50,7 @@ Please login to [www.sportsync.sg](http://www.sportsync.sg/) to update your pr
 
 **Foreign Coaches**
 
-A foreign national who is applying to renew his/her NROC is required to submit a valid Work Pass or Letter of Consent for coaching from Ministry of Manpower stating that the person is authorised to offer coaching services. Please refer to [How to update work permit guide here](/files/Our%20Work/Coaches’%20Corner/NROC/How%20to%20Renew%20NROC%20Membership/How%20to%20update%20Work%20Permit_1.pdf).
+A foreign national who is applying to renew his/her NROC is required to submit a valid Work Pass or Letter of Consent for coaching from Ministry of Manpower stating that the person is authorised to offer coaching services. Please refer to [How to update work permit guide here](/files/Support/National%20Registry%20of%20Coaches/How%20to%20Guides%20for%20Sport%20Sync/How_to_update_Work_Permit_1.pdf)
 
 **Payment Modes** 
 
