@@ -34,7 +34,7 @@ Warm-up and stretching exercises prepare your mind, heart, muscles and joints fo
 
 Cardiovascular exercises involving your heart, lungs and leg muscles, such as jogging, brisk walking or jumping jacks, can help you to warm up. 
 
-All sporting activities should end with static stretching and cool down exercises to loosen muscles and reduce discomfort and soreness.
+All sporting activities should end with static stretching and cool-down exercises to loosen muscles and reduce discomfort and soreness.
 
 **Fair Play**
 
