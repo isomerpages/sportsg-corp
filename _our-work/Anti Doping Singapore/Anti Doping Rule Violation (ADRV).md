@@ -86,7 +86,7 @@ Where a provisional suspension has been imposed in relation to an A Sample adver
 An athlete that is charged with an anti-doping rule violation has the right to a fair hearing. The anti-doping organization that initiated sample collection is responsible for determining what sanctions will apply to each individual case.
 Where the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY). The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
 
-**APPEAL** 
+**APPEAL**
 
 Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
 
