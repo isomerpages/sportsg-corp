@@ -19,7 +19,7 @@ Ms Chan Yen San
 Partner, KPMG
 
 Dr Mark Hon  
-Chairman, Singapore National Paralympic Council (SNPC) Games Appeals Committee  
+Chairman, Singapore National Paralympic Council (SNPC) Games Appeals Committee; 
 Chairman Emeritus, Action Community for Entrepreneurship
 
 Dr Ayesha Khanna  
