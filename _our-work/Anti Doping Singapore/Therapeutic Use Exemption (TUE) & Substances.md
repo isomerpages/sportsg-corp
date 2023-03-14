@@ -65,7 +65,7 @@ The application to ADS should include the completed [ADS TUE Application Form](/
 For certain specific medical conditions, such as asthma, additional medical information is required to support the TUE application. Please click [here](https://www.wada-ama.org/en/search?filters%5Bcontent_type%5D%5B0%5D=%22resource%22&f%5B0%5D=field_resource_collections%3A158) for details of medical information required for specific medical conditions.
 The TUE application should be submitted to:
 
-**Anti-Doping Singapore**
+Anti-Doping Singapore
 <br>
 3 Stadium Drive
 <br>
