@@ -83,13 +83,13 @@ International Federations also have their own RTP for international-level athlet
 
 Whereabouts obligations for Athletes in the ADS RTP and ADS DTP include: 
 
-Providing accurate and complete whereabouts information to ADS when included into the ADS RTP and ADS DTP and every quarter thereafter.
+1. Providing accurate and complete whereabouts information to ADS when included into the ADS RTP and ADS DTP and every quarter thereafter.
 
-Immediately update any information in a previously provided whereabouts filing if it is incomplete, inaccurate or has changed.
+2. Immediately update any information in a previously provided whereabouts filing if it is incomplete, inaccurate or has changed.
 
-**For the case of the ADS RTP athlete only** - being accessible daily for testing during the 60-minute time slot chosen by the athlete at the precise location specified on the whereabouts filing for the entire 60-minute period and at the other regular locations set forth in the athlete's whereabouts filing at the times specified; and
+3. For the case of the ADS RTP athlete only - being accessible daily for testing during the 60-minute time slot chosen by the athlete at the precise location specified on the whereabouts filing for the entire 60-minute period and at the other regular locations set forth in the athlete's whereabouts filing at the times specified; and
 
-**For the case of the ADS DTP athlete only** - being accessible for testing at the regular locations set forth in the athlete's whereabouts filing at the times specified. 
+4. For the case of the ADS DTP athlete only - being accessible for testing at the regular locations set forth in the athlete's whereabouts filing at the times specified. 
 
 **WHEREABOUTS FILING REQUIREMENTS**
 
