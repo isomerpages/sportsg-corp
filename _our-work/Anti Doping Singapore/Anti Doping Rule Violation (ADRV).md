@@ -22,6 +22,7 @@ For such cases, ADS will determine if:
 * there has been a departure from the International Standard for Testing or International Standard for Laboratories that may have caused the atypical finding.
 <br><br>
 Further investigation will follow if the review reveals that it was not a TUE or departure from procedures that caused the atypical finding.
+<br><br>
 The athlete will only be notified when ADS has completed its investigations and decided whether it will bring the atypical finding forward as an adverse analytical finding.  No further action will be taken if there is no evidence of use of a prohibited substance. ADS will report the atypical finding as an adverse analytical finding, if there is evidence of use.
 
 **ADVERSE ANALYTICAL FINDING**
