@@ -6,7 +6,7 @@ third_nav_title: Continuing Coach Development
 ---
 The Continuing Coach Education (CCE) programme gives coaches the platform to continually upgrade themselves in their area of coaching. Sport Singapore believes that coaches are able to deliver higher standards of coaching as they become more proficient and knowledgeable.
 
-For a list of CCE programmes conducted or publicized by the Coaching Development department, please refer to the Course Calendar.
+For a list of CCE programmes conducted or publicized by the Coaching Development department, please refer to the [Course Calendar](https://circle.myactivesg.com/play/events).
 
 **Sport Singapore’s Role in CCE**
 
@@ -133,6 +133,6 @@ Coaches may use the following templates to create their own reflection notes:
 
 If you need help on uploading your reflection note onto SportSync, you may refer to this [document](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/Steps_to_Upload_Reflection_onto_SportSync.pdf) on the steps required.
 
-Please refer to the **Course Calendar** for a list of coach education activities organised by Sport Singapore.
+Please refer to the [Course Calendar](https://circle.myactivesg.com/play/events) for a list of coach education activities organised by Sport Singapore.
 
 For more information, coaches can contact CoachSG at [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
