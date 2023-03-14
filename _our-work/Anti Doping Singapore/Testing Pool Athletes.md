@@ -74,9 +74,8 @@ Athletes in the DTP who do not provide updated and accurate whereabouts informat
 
 Athletes must continue to file whereabouts information until:
 
-ADS gives written notice to athletes of their removal from its RTP or DTP; or
-
-Athletes give written notice to ADS and their NSA of their retirement from sport using [ADS Athlete Retirement Notification Form](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf).
+1. ADS gives written notice to athletes of their removal from its RTP or DTP; or
+2. Athletes give written notice to ADS and their NSA of their retirement from sport using [ADS Athlete Retirement Notification Form](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf).
 
 International Federations also have their own RTP for international-level athletes. Athletes who have been included in their International Federation and ADS RTP, have to be aware of the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) (link to PDF Anti-Doping Rules) and those of their International Federation's.
 
