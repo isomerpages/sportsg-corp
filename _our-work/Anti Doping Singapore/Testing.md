@@ -127,7 +127,8 @@ Pour at least 30ml of urine into the B bottle and pour the remaining urine into 
 You will be asked to leave a small amount in the collection vessel so that the DCO can measure the specific gravity. You will then seal the 'A' and 'B' bottles tightly ensuring there is no leakage.
 ![step7](/images/Our%20Work/Anti%20Doping%20Singapore/Testing/Sample%20Collection%20Procedures/step7.jpeg)
 
-**SEALING AND STORING THE BLOOD SAMPLE** <br>
+**SEALING AND STORING THE BLOOD SAMPLE**
+
 After withdrawing the needle, the BCO or athlete will place one vacctainer into each of the 'A' and 'B' sample bottles. These should be checked for any leakage. The sealed blood sample shall be kept in the Doping Station, at a cool but not freezing temperature, prior to dispatching for analysis.
 
 ##### **STEP 8: MEASURING SPECIFIC GRAVITY**
@@ -170,9 +171,11 @@ The copy of the Doping Control Form that the laboratory receives does not contai
 ##### **MODIFICATIONS FOR MINORS AND ATHLETES WITH A DISABILITY**
 
 **Minors**
+
 Minors must be notified of their selection for doping control in the presence of an adult representative (eg, coach, team manager, team doctor, guardian, etc). Under the ADS Anti-Doping Rules, a Minor is any individual below 18 years old. You may be accompanied by your representative at all times during the sample collection procedure, including in the washroom area during sample provision. However, the representative will not witness the passing of the sample. If you decide not to have a representative, the DCO may ask a third party to be present.
 
-**Athletes with Impairment**<br>
+**Athletes with Impairment**
+
 Athletes with a physical disability may ask an adult athlete representative or the DCO to assist when handling the sample collection equipment, splitting the sample, or completing the doping control form. The representative may complete the required sections of the doping control form and sign the form on your behalf if you are unable to do so.
 
 Athletes with a visual impairment must be accompanied by an adult representative at all times during notification and the sample collection procedure, including in the washroom area during sample provision. However, the representative will not witness the passing of the sample. The representative must read the contents of the doping control form to you, and you may ask your representative to make any comments on the doping control form on your behalf if necessary.
