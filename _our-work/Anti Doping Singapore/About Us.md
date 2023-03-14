@@ -60,7 +60,7 @@ In carrying out its responsibilities, the NADAB shall:
 * ADS’s Testing plan and strategies
 * Information gathering and investigations conducted by ADS
 * Result management processes
-* ADS’s public messaging and positions taken
+* ADS's public messaging and positions taken
  
 3\. Independently conduct administrative reviews when anti-doping rule violations have possibly occurred, and determine if ADS should proceed with the assertion of an Anti-Doping Rule Violation against an athlete or support personnel, or if a Whereabouts Failure should be recorded against an athlete.
  
