@@ -4,8 +4,6 @@ permalink: /support-resources/national-registry-of-coaches/nroc-handbook/
 description: ""
 third_nav_title: National Registry of Coaches
 ---
-
-
 The National Registry of Coaches Handbook is a comprehensive guide on its policies and programmes for Coaches. It contains information such as:
 
 *   National Registry of Coaches
@@ -22,4 +20,4 @@ The National Registry of Coaches Handbook is a comprehensive guide on its polici
     
     *   NROC Membership status and Continuing Coach Education requirements
     
-Download [National Registry of Coaches Handbook](/files/Support/Coaches'%20Corner/NROC/NROC_Handbook_20220427.pdf).
+Download [National Registry of Coaches Handbook](/files/Support/National%20Registry%20of%20Coaches/NROC_Handbook_20220427.pdf)
