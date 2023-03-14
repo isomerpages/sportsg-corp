@@ -16,7 +16,7 @@ ADS' primary responsibilities are to:
 <br>(e)	Encourage reciprocal testing between national anti-doping organisations; and
 <br>(f)	Promote anti-doping research.
 
-#### **MISSION**<br>
+#### **MISSION**
 ADS' mission is to ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives. We work together with the sport bodies to protect the right of Athletes to participate in clean sport.
 
 ![ADS](/images/Our%20Work/Anti%20Doping%20Singapore/ads.png)
@@ -26,7 +26,7 @@ Every Singaporean athlete is a True Winner.
 
 ![](/images/Our%20Work/Anti%20Doping%20Singapore/Resources/Education/Winner.png)
 
-#### **GOVERNANCE**<br>
+#### **GOVERNANCE**
 The work of Anti-Doping Singapore (ADS) is governed by the [Anti-Doping Policy of Singapore](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf) ("Policy") and the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) ("Rules") that are established in accordance with the [WAD Code](https://www.wada-ama.org/en/what-we-do/the-code) and its [International Standards](https://www.wada-ama.org/en/international-standards).
 
 The [World Anti-Doping Code](https://www.wada-ama.org/en/what-we-do/the-code) ("WAD Code") provides a framework for the harmonisation of anti-doping policies, rules and regulations across all sports and countries in the world.
@@ -107,12 +107,19 @@ Director (Physical, Sports & Outdoor Education), Student Development Curriculum 
 
 ##### **Ex-Officio Members**
 **A/Prof Koh-Teo Sock Miang**
-President, Singapore Disability Sports Council
-<br>Chairman, Singapore National Paralympic Council
-<br>Board Member, Singapore Sports School
-<br>Principal, Singapore Olympic Academy
+
+President, Singapore Disability Sports Council &
+<br>
+Chairman, Singapore National Paralympic Council
+<br>
+Board Member, Singapore Sports School 
+<br>
+Principal, Singapore Olympic Academy
 
 **Mr Chris Chan**
+
 Secretary General, Singapore National Olympic Council
-<br>Board Member, Sport Singapore
-<br>Board Member, Singapore Olympic Academy & Singapore Olympic Foundation
+<br>
+Board Member, Sport Singapore
+<br>
+Board Member, Singapore Olympic Academy & Singapore Olympic Foundation
