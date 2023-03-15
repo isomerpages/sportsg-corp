@@ -1,5 +1,5 @@
 collections:
-  singapore-sports-institute:
+  singapore-sport-institute:
     output: true
     order:
       - High Performance Sports/.keep
