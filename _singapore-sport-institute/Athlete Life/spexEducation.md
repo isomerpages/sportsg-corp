@@ -4,13 +4,13 @@ permalink: /singapore-sport-institute/athlete-life/spexeducation/
 description: ""
 third_nav_title: Athlete Life
 ---
-
 ![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/spexEducation-15-Apr.png)
 **Singapore Sport Institute (SSI)** and the National Youth Sports Institute (NYSI) are the nation’s premier institutes for the development of high performance sports and nurturing of elite athletes and elite student-athletes. Athlete Life carries out SSI’s and NYSI’s mission of developing Singapore’s athletes and student-athletes holistically in key areas of education, career, life skills and developing them to be Athlete Ambassadors for Team Singapore. 
 
-Athlete Life’s mandate focuses on helping athletes to strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. The Sports Excellence (Spex) Education Scheme is a customised scheme that develops a more holistic and robust system of support for student-athletes to cope effectively with the dual demands of sports and their education. 
+Athlete Life’s mandate focuses on helping athletes to strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. The Sports Excellence (*Spex*) Education Scheme is a customised scheme that develops a more holistic and robust system of support for student-athletes to cope effectively with the dual demands of sports and their education. 
 
 **Objective:**
+
 To implement a comprehensive athlete support system designed to help student-athletes achieve in their sport at the highest possible level without compromising their academic aspirations.
 
 **Benefits for the Student-athlete:**
@@ -37,8 +37,9 @@ To implement a comprehensive athlete support system designed to help student-ath
 **CONTACT US**
 
 **spexEducation team:**
-**Ms. Beena Doshi:** [beena_doshi@sport.gov.sg](mailto:beena_doshi@sport.gov.sg)  
-  
+
+Ms. Beena Doshi: [beena_doshi@sport.gov.sg](mailto:beena_doshi@sport.gov.sg)
+
 Mr. Muhammad Zulhilmi: [Zulhilmi_karim@sport.gov.sg](mailto:Zulhilmi_karim@sport.gov.sg)
 
 **NYSI**  
@@ -60,7 +61,7 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 |Republic Polytechnic| [https://www.rp.edu.sg/student-support/scholarships-awards](https://www.rp.edu.sg/student-support/scholarships-awards)|
 |Singapore Polytechnic|	 https://www.sp.edu.sg/sp/student-services/ssc-overview/student-support/scholarships/sp-sports-arts-scholarship|
 | \*Temasek Polytechnic| [https://www.tp.edu.sg/fees-and-financial-matters/scholarships](https://www.tp.edu.sg/fees-and-financial-matters/scholarships)|
-| \*International Sports Academy| [https://www.isa.edu.sg](https://www.isa.edu.sg) IMC Sports Diploma Study Award <br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)|
+| \*International Sports Academy| IMC Sports Diploma Study Award <br>[https://www.isa.edu.sg](https://www.isa.edu.sg)<br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)|
 | James Cook University| [https://www.jcu.edu.sg](https://www.jcu.edu.sg)|
 |\*National University of Singapore|NUS Sports Scholarship<br>[http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship](http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship)<br>NUS Sports Scholarship (Mid-Term)<br>[http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term)](http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term))|
 | \*Nanyang Technological University	| [http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx](http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx)<br>(for existing students)|
