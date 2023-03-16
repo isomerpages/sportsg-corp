@@ -34,9 +34,9 @@ The Sport Excellence Scholarship (*spex*Scholarship) provides an enhanced level 
 
 Ultimately, we aim to develop athletes to take on leadership roles in their respective communities, serving as role models for Singapore's youth.
 
-**spexScholarship Nominations**
+***spex*Scholarship Nominations**
 
-Each year, the spexScholarship is open to nominations by any NSA. For FY 2021, the nomination period is from 1 October to 1 November 2021.
+Each year, the *spex*Scholarship is open to nominations by any NSA. For FY 2021, the nomination period is from 1 October to 1 November 2021.
 
 **Submission Guidelines:**
 
