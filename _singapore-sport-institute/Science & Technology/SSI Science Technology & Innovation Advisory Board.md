@@ -4,62 +4,88 @@ permalink: /singapore-sport-institute/science-and-technology/ssi-science-technol
 description: ""
 third_nav_title: Science & Technology
 ---
-
 The SSI Science, Technology & Innovation Advisory Board (SSI-STIAB) is responsible in providing guidance and advisory on the integrity and strategic direction of the SSI Science, Technology & Innovation Framework.
 
 **SSI Science, Technology & Innovation Advisory Board Members**  
 
-**Prof James Goh (Chairman)**  
-Professor and Head  
-Department of Biomedical Engineering  
-National University of Singapore 
+**Prof James Goh (Chairman)**
+<br>
+Professor and Head
+<br>
+Department of Biomedical Engineering
+<br>
+National University of Singapore 
 
-**Prof Kristin Wood (Co-Chairman)**  
-Professor and Head of Pillar   
-Engineering Product Development  
+**Prof Kristin Wood (Co-Chairman)**
+<br>
+Professor and Head of Pillar 
+<br>
+Engineering Product Development
+<br>
 Singapore University of Technology and Design
 
-**Assoc Prof Tan Say Beng**   
-Group Director, Research  
+**Assoc Prof Tan Say Beng**
+<br>
+Group Director, Research
+<br>
 Singapore Health Services
 
-**Prof Jeyakumar Henry**  
-Director  
-Clinical Nutritional Sciences  
+**Prof Jeyakumar Henry**
+<br>
+Director
+<br>
+Clinical Nutritional Sciences
+<br>
 Clinical Nutrition Research Centre
 
 **Dr Daniel Lim Chu Sing**
-CEO  
+<br>
+CEO
+<br>
 MindWaves Group of Companies
 
 **Ms Lydia Law**
-Programme Manager (Training Effectiveness & Safety)  
-DSO National Laboratories  
+<br>
+Programme Manager (Training Effectiveness & Safety)
+<br>
+DSO National Laboratories
+<br>
 Defence Medical & Environmental Research Institute
 
 **Mr Tan Wearn Haw**
-CEO  
+<br>
+CEO
+<br>
 Singapore Sailing Federation
 
-**Prof Toh Chai Keong**
-Assistant Chief Executive (Engineering & Technology  
+**Prof Toh Chai Keong Assistant** 
+<br>
+Chief Executive (Engineering & Technology)
+<br>
 Infocomm Development Authority of Singapore
-  
+
 **Prof Seah Hock Soon**
-Professor, School of Computer Engineering  
+<br>
+Professor, School of Computer Engineering
+<br>
 Nanyang Technological University
 
-**Ms Kow Ree Na**
-Director, Lifestyle Programme Office  
+**Ms Kow Ree Na Director, Lifestyle Programme Office**
+<br>
 Singapore Economic Development Board
 
-**Mr Bob Gambardella (SSI Ex-Officio Member)**
-Chief, Singapore Sports Institute  
+**Mr Bob Gambardella (SSI Ex-Officio Member)** 
+<br>
+Chief, Singapore Sports Institute
+<br>
 Sport Singapore
 
-**Mr Benoit Ammann (SSI Ex-Officio Member)**
-Deputy Director, High Performance Sports Analytics  
-Singapore Sports Institute  
+**Mr Benoit Ammann (SSI Ex-Officio Member)** 
+<br>
+Deputy Director, High Performance Sports Analytics
+<br>
+Singapore Sports Institute
+<br>
 Sport Singapore
 
 #### **More Information**
