@@ -10,11 +10,11 @@ Forming this specialized network of employers will strategically help Team Singa
 
 Athletes looking for jobs may check out the opportunities available with our corporate partners listed under the [spexBusiness Network Partners](/spexbusiness-network-partners/) section.
 
-Check out the video for a recap of the 2018 activities and to find out how our spexBusiness partners have benefitted from the spexBusiness network.
+Check out the video for a recap of the 2018 activities and to find out how our *spex*Business partners have benefitted from the *spex*Business network.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsingaporesportinstitute%2Fvideos%2F163866357863177%2F&show\_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-### **emPower - a spexBusiness newsletter**
+### **emPower - a *spex*Business newsletter**
 
 Keep up with the latest happenings with our emPower newsletter. Download the PDF newsletter available below.
 
@@ -37,6 +37,6 @@ Keep up with the latest happenings with our emPower newsletter. Download the PDF
 
 
 | -------- | -------- | 
-| ![SPEXENTREPRENEURSHIP](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexEntreprenuershipnetwork.jpeg)     | **SPEXENTREPRENEURSHIP**<br>A specialised programme that seeks to nurture Team Singapore Athletes’ entrepreneurial spirit and assist them to start their own business.<br>[Read more](/spexentrepreneurship/)     | 
+| ![SPEXENTREPRENEURSHIP](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/spexEntreprenuershipnetwork.jpeg)     | **SPEXENTREPRENEURSHIP**<br>A specialised programme that seeks to nurture Team Singapore Athletes' entrepreneurial spirit and assist them to start their own business.<br>[Read more](/spexentrepreneurship/)     | 
 | ![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SPEXBusiness.jpeg)     | **SPEXBUSINESS NETWORK PARTNERS**<br>An exclusive network of companies committed to providing career opportunities to support Team Singapore Athletes. View opportunities available with our corporate partners.<br>[Read more](/spexbusiness-network-partners/)     | 
-|![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/Khairul_Anwar.jpeg)|**ATHLETE STORIES**<br>Success stories of our athletes emplaced with our spexBusiness Network Partners.<br>[Read more](/spexbusiness-athlete-stories/)
+|![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/Khairul_Anwar.jpeg)|**ATHLETE STORIES**<br>Success stories of our athletes emplaced with our *spex*Business Network Partners.<br>[Read more](/spexbusiness-athlete-stories/)
