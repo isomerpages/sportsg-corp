@@ -4,7 +4,6 @@ permalink: /singapore-sport-institute/athlete-life/team-singapore-card/
 description: ""
 third_nav_title: Athlete Life
 ---
-
 ![Team Singapore Card](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsingaporecard.jpeg)
 Singapore Sport Institute collaborates with corporate companies and retail outlets to provide various forms of privileged discounts and incentives for the benefits of Team Singapore Athletes, in supporting them to achieve excellence in their sporting journey.  
   
@@ -14,7 +13,6 @@ The Team Singapore rewards card was subsequently made available via the ActiveSG
 
 **Our Card Partners include:**
 ![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/TeamSG_card_partners_for_2022_-_July_update.jpeg)
-
 Singapore Sport Institute would like to thank our valued card partners for supporting our athletes in achieving their goals. Whether it is sports, lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits and privileges ranging from sporting apparel, footwear and accessories to lifestyle products. In addition, our athletes can enjoy up to 20% discount at selected dining choices at Kallang Wave Mall and Kallang Leisure Park which are ideally located within the Sport Hub. Some of the reward privileges also extend to various participating outlets across Singapore.
 
 <hr>
@@ -35,9 +33,9 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 	*   Marina Bay Sands (BCS), unit #B2-45/46
 	*   Brand Centre Orchard
 	*   Vivo City B1 (OCS), unit #B1-06
-	*   Offer cannot be used in conjunction with any other existing promotions or discounts at the Adidas Stores.
-*   TS Rewards Card must be presented prior to payment for the discount to be valid.
-*   This offer is only valid till 31 December 2022.
+* Offer cannot be used in conjunction with any other existing promotions or discounts at the Adidas Stores.
+* TS Rewards Card must be presented prior to payment for the discount to be valid.
+* This offer is only valid till 31 December 2022.
 
 ##### **Under Armour**
 
