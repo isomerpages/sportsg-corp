@@ -4,8 +4,7 @@ permalink: /singapore-sport-institute/athlete-life/spexbusiness/
 description: ""
 third_nav_title: Athlete Life
 ---
-
-Singapore Sport Institute's mandate focuses on helping athletes strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. Launched in November 2013, The Sports Excellence Career (spexCareer) Scheme is a customized scheme that seeks to develop athletes’ career by partnering with companies to offer various form of employment opportunities including internship, apprenticeships, job placements and flexible workplace practices for Team Singapore Athletes.
+Singapore Sport Institute's mandate focuses on helping athletes strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. Launched in November 2013, The Sports Excellence Career (*spex*Career) Scheme is a customized scheme that seeks to develop athletes’ career by partnering with companies to offer various form of employment opportunities including internship, apprenticeships, job placements and flexible workplace practices for Team Singapore Athletes.
 
 Forming this specialized network of employers will strategically help Team Singapore Athletes to cope effectively with the dual demands of sports and their career; and prepare them to transit into successful post-sports career.
 
