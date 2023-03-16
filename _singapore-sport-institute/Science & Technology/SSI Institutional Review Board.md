@@ -4,7 +4,6 @@ permalink: /singapore-sport-institute/science-and-technology/ssi-institutional-r
 description: ""
 third_nav_title: Science & Technology
 ---
-
 **What We Do**
 
 In accordance with the “Research involving Human Subject: Guidelines for IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004, SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety of human research subjects involved in SSI’s research programmes.
@@ -100,8 +99,8 @@ Sport Science and Medicine Centre
 Singapore Sport Institute
 
 **Quorum for IRB Meeting**
- At least 5 Members present
 
+ At least 5 Members present
 * 1 Chairman
 * 1 External Layperson
 
