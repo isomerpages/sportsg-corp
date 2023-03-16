@@ -119,7 +119,8 @@ Please contact us for any queries:
 The flowchart below shows the typical process and timeline involved for each application submitted to SSI-IRB. Do note that delays to approval can occur. Some of the common examples causing delay include:
 *   Incomplete submissions (Missing necessary documents, forms etc.)
 *   Clarifications and queries from the IRB to be addressed
-![](/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Amendment_Process.png)
+
+![](/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Review_Process.png)
 
 **Amendment Process**
 
@@ -134,8 +135,7 @@ Researcher should be requesting for amendment when there is a change in:
 *   Timeline\*
 
 Please ensure that all revised/new documents are submitted to SSI-IRB with the changes highlighted.
-
-![](/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Review_Process.png)
+![](/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Amendment_Process.png)
 
 ---
 
