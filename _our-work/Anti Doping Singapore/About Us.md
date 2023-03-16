@@ -79,35 +79,44 @@ Committee, JCST
 
 ##### **Members**
 
-**Mr Abdul Salim Ahmed Ibrahim**<br>
+**Mr Abdul Salim Ahmed Ibrahim**
+<br>
 PBM, FSIArb
-<br>Director - United Legal Alliance LLC
+<br>
+Director - United Legal Alliance LLC
 
 **Mr Gobinathan Nair s/o Urath Sankaran**<br>
 Director General - Southeast Asia Regional Anti-Doping Organisation
 
-**Ms Lim Wan Peng**<br>
+**Ms Lim Wan Peng**
+<br>
 Principal Pharmacist (Clinical), Tan Tock Seng Hospital
-<br>Member, Pharmaceutical Society of Singapore
+<br>
+Member, Pharmaceutical Society of Singapore
 
-**Mr Eugene Goh Wee Sing**<br>
+**Mr Eugene Goh Wee Sing**
+<br>
 Deputy Director, Enforcement Policy Framework & Ops Support 
-<br>Enforcement Branch,  Health Products Regulation Group, Health Sciences Authority
+<br>
+Enforcement Branch,  Health Products Regulation Group, Health Sciences Authority
 
-**Ms Yip Pin Xiu**<br>
+**Ms Yip Pin Xiu**
+<br>
 Active Athlete, formerly from ADS's Testing Pool
 <br>Representing para athlete's perspective
 
-**Dr Mok Ying Ren**<br>
+**Dr Mok Ying Ren**
+<br>
 Recently Retired Athlete
 <br>Formerly from ADS's Testing Pool
 
-**Mr Krishnan Aravinthan**<br>
+**Mr Krishnan Aravinthan**
+<br>
 Director (Physical, Sports & Outdoor Education), Student Development Curriculum Division, Ministry of Education
 
 ##### **Ex-Officio Members**
 **A/Prof Koh-Teo Sock Miang**
-
+<br>
 President, Singapore Disability Sports Council &
 <br>
 Chairman, Singapore National Paralympic Council
@@ -117,7 +126,7 @@ Board Member, Singapore Sports School
 Principal, Singapore Olympic Academy
 
 **Mr Chris Chan**
-
+<br>
 Secretary General, Singapore National Olympic Council
 <br>
 Board Member, Sport Singapore
