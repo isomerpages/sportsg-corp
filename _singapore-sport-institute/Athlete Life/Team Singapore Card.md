@@ -37,7 +37,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 * TS Rewards Card must be presented prior to payment for the discount to be valid.
 * This offer is only valid till 31 December 2022.
 
-##### **Under Armour**
+##### **UNDER ARMOUR**
 
 *   \* 20% on all Under Armour regular price items is exclusively valid only in Under Armour Brand Houses at:
     *   Orchard Central, unit #01-07/08
@@ -53,7 +53,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 
 <hr>
 
-#### **Dinning**
+#### **DINING**
 ##### **CHICHA SAN CHEN**
 *   5% discount off Food & Beverages items at CHICHA San Chen at level 1 of Kallang Wave Mall
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at CHICHA San Chen
