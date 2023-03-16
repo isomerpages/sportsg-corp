@@ -4,7 +4,6 @@ permalink: /singapore-sport-institute/high-performance-planning/
 description: ""
 third_nav_title: High Performance Sports
 ---
-
 The High Performance Sport System aims to provide the best support to Team Singapore athlete so that they can fulfil their sporting aspirations and to inspire the Singapore Spirit.
 
 **Periodisation Programme**
@@ -19,19 +18,21 @@ In order to ensure that it remains a holistic system to develop athletes for pod
 
 Our team also act as system managers during this process to ensure the best outcome for our athletes.
 
-Sport Excellence Carding (spexCarding)
-spexCarding is the entry point into the national sports development system. 
+Sport Excellence Carding (*spex*Carding)
+
+*spex*Carding is the entry point into the national sports development system. 
+
 All athletes must be nominated by their respective National Sports Associations (NSAs) before they will be allowed into the national sports development system. 
 
 **Multiple Achievements:**
 
 Consideration for High-Performance Sports pathway support is based on the athlete’s profile / potential to achieve at the Major games or its equivalent. Performance is assessed based on the athlete’s holistic achievement profile and not on just a single point of achievement during the assessment period.
 
-**Sport Excellence Scholarship (spexScholarship)**
+**Sport Excellence Scholarship (*spex*Scholarship)**
 
-The Sport Excellence Scholarship (spexScholarship) provides an enhanced level of support for athletes within the High Performance Sports (HPS) pathway. spexScholarship includes both financial and programmatic support to prepare athletes to excel at the Major Games. In addition to developing athletes’ sporting potential, the spexScholarship will also assist athletes in their education, career, and personal development.
+The Sport Excellence Scholarship (*spex*Scholarship) provides an enhanced level of support for athletes within the High Performance Sports (HPS) pathway. *spex*Scholarship includes both financial and programmatic support to prepare athletes to excel at the Major Games. In addition to developing athletes' sporting potential, the *spex*Scholarship will also assist athletes in their education, career, and personal development.
 
-Ultimately, we aim to develop athletes to take on leadership roles in their respective communities, serving as role models for Singapore’s youth.
+Ultimately, we aim to develop athletes to take on leadership roles in their respective communities, serving as role models for Singapore's youth.
 
 **spexScholarship Nominations**
 
