@@ -113,9 +113,10 @@ Please contact us for any queries:
 
 
 #### **Review Process and Timeline**
-The flowchart below shows the typical process and timeline involved for each application submitted to SSI-IRB. Do note that delays to approval can occur. Some of the common examples causing delay include:
 
 **Application Process**
+
+The flowchart below shows the typical process and timeline involved for each application submitted to SSI-IRB. Do note that delays to approval can occur. Some of the common examples causing delay include:
 *   Incomplete submissions (Missing necessary documents, forms etc.)
 *   Clarifications and queries from the IRB to be addressed
 ![](/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Review%20Process%20and%20Timeline/Amendment_Process.png)
