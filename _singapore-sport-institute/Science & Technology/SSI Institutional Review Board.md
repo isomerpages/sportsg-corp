@@ -161,8 +161,8 @@ Please ensure that all revised/new documents are submitted to SSI-IRB with the c
 
 | Document Name | Version | Link |
 | -------- | -------- | -------- |
-| 6. Amendment Form | January 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Amendment_Form_v1.pdf)  |
-| 7. Incident Reporting | | |
+| 1. Amendment Form | January 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SSI-IRB_Amendment_Form_v1.pdf)  |
+| 2. Incident Reporting | | |
 | SOC Reporting Form | 24 March 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SOC_Reporting_Form.pdf) |
 | SAE Reporting Form | 24 March 2020 | [Download](/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Forms%20and%20Guidelines/SAE_Reporting_Form.pdf) |
 
