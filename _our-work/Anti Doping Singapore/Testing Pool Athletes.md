@@ -93,7 +93,7 @@ Whereabouts obligations for Athletes in the ADS RTP and ADS DTP include:
 
 **WHEREABOUTS FILING REQUIREMENTS**
 
-Athlete whereabouts filing and updates shall be made through WADA's online Anti-Doping Administration and Management System (ADAMS).
+Athlete whereabouts filing and updates shall be made through WADA's online [Anti-Doping Administration and Management System (ADAMS)](https://adams.wada-ama.org/adams/login.do?prompt=true&nopopup=true).
 
 To facilitate athletes in using ADAMS to submit their whereabouts information, watch the [video tutorial](https://www.youtube.com/watch?v=UmTpHy9oJc8) on entering your whereabouts.
 
@@ -209,7 +209,7 @@ Athletes in the RTP or DTP who intend to retire from active competition must sub
 
 Athletes, who had previously retired whilst in the RTP or DTP and intend to return to active competition, must provide written notification to ADS and their NSA using the [ADS Return to Competition Notification Form](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&%20Forms/ADS_Return_to_Competition_Notification_Form_20210611.pdf) **at least 6 months** before returning to competition. Athletes who violate this requirement will have their competition results disqualified.
 
-To file your Whereabouts Information or for more information about ADAMS, click [here](https://www.wada-ama.org/en/ADAMS/).
+To file your Whereabouts Information or for more information about ADAMS, click [here](https://adams.wada-ama.org/adams/login.do?prompt=true&nopopup=true).
 
 ![](/images/Our%20Work/Anti%20Doping%20Singapore/ADAMS.png)
 
