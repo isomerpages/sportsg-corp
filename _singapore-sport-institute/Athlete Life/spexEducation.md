@@ -36,7 +36,7 @@ To implement a comprehensive athlete support system designed to help student-ath
 
 **CONTACT US**
 
-**spexEducation team:**
+***spex*Education team:**
 
 Ms. Beena Doshi: [beena_doshi@sport.gov.sg](mailto:beena_doshi@sport.gov.sg)
 
