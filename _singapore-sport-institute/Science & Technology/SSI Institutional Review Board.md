@@ -15,7 +15,7 @@ In accordance with the â€œResearch involving Human Subject: Guidelines for IRBsâ
 The SSI-IRB is comprised of a Chairperson and 9 members from Sport Singapore (SportSG), as well as external agencies/institutions involved in Sport Science, for a 2-year term. The list of the current SSI-IRB members (commencing October 2021 to 30 September 2023) is shown below:
 
 ***Chairman***
-<br>
+
 **Dr Jason Chia**
 <br>
 Head & Senior Consultant 
