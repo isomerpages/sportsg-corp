@@ -70,7 +70,9 @@ Professor, School of Computer Engineering
 <br>
 Nanyang Technological University
 
-**Ms Kow Ree Na Director, Lifestyle Programme Office**
+**Ms Kow Ree Na**
+<br>
+Director, Lifestyle Programme Office
 <br>
 Singapore Economic Development Board
 
