@@ -31,7 +31,7 @@ If the laboratory reports an adverse analytical finding in the A Sample, ADS wil
 * a TUE has been granted
 * there has been a departure from the International Standard for Testing or International Standard for Laboratories that may have caused the adverse analytical finding.
 
-ADS will report the outcome of the review to the Athlete if the review reveals that it was not a TUE departure from procedures that caused the adverse analytical finding.
+ADS will report the outcome of the review to the Athlete if the review reveals that it was not a TUE or departure from procedures that caused the adverse analytical finding.
 
 **ANTI-DOPING RULE VIOLATIONS**
 
