@@ -62,7 +62,7 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Shooting](https://singaporeshooting.org/portal/) - Rifle & Pistol||Technical|||
 |[Squash](https://www.sgsquash.com/)||Full Integration|||
 |[Table Tennis](http://www.stta.org.sg/)||Full Integration|||
-|Taekwondo||Full Integration|||
+|[Taekwondo](http://www.stf.sg/)||Full Integration|||
 |Tennis||Technical|||
 |Triathlon||Integrated|||
 |Volleyball||Full Integration|||
