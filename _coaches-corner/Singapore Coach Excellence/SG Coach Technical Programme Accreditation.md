@@ -63,8 +63,8 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Squash](https://www.sgsquash.com/)||Full Integration|||
 |[Table Tennis](http://www.stta.org.sg/)||Full Integration|||
 |[Taekwondo](http://www.stf.sg/)||Full Integration|||
-|Tennis||Technical|||
-|Triathlon||Integrated|||
-|Volleyball||Full Integration|||
+|[Tennis](https://www.singtennis.org.sg/)||Technical|||
+|[Triathlon](http://www.triathlonsingapore.org/)||Integrated|||
+|[Volleyball](https://www.vas.org.sg/)||Full Integration|||
 |Weightlifting||Technical|||
 |Wrestling||Full Integration|||
