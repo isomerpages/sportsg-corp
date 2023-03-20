@@ -4,8 +4,6 @@ permalink: /our-work/singapore-sport-institute/sport-medicine/
 description: ""
 third_nav_title: Singapore Sport Institute
 ---
-
-
 ![Sport Medicine](/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Medicine/Sport_Medicine.jpeg)
 Our Sports Medicine Centre focuses on the diagnosis and treatment of injuries associated with athletic training and participation.
 
@@ -29,6 +27,8 @@ The Sports Medicine Centre also provides sports physiotherapy and rehabilitation
 
 **CONTACT US**
 
-Sports Medicine Centre  
-Singapore Sports Institute  
+Sports Medicine Centre
+<br>
+Singapore Sports Institute
+<br>
 Tel: 6500 5450
