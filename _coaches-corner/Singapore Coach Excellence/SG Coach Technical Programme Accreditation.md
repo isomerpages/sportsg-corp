@@ -59,8 +59,7 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Rugby](http://www.singaporerugby.com/)||Full Integration|||
 |Sailing||Technical|||
 |Sepaktakraw||Full Integration|||
-|Shooting –
-            Rifle & Pistol||Technical|||
+|Shooting - Rifle & Pistol||Technical|||
 |Squash||Full Integration|||
 |Table Tennis||Full Integration|||
 |Taekwondo||Full Integration|||
