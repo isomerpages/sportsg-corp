@@ -57,11 +57,11 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Netball](http://www.netball.org.sg/)||Full Integration|||
 |[Pencak Silat](http://persisi.org/)||Full Integration|||
 |[Rugby](http://www.singaporerugby.com/)||Full Integration|||
-|Sailing||Technical|||
-|Sepaktakraw||Full Integration|||
-|Shooting - Rifle & Pistol||Technical|||
-|Squash||Full Integration|||
-|Table Tennis||Full Integration|||
+|[Sailing](https://sailing.org.sg/)||Technical|||
+|[Sepaktakraw](http://www.perses.org/)||Full Integration|||
+|[Shooting](https://singaporeshooting.org/portal/) - Rifle & Pistol||Technical|||
+|[Squash](https://www.sgsquash.com/)||Full Integration|||
+|[Table Tennis](http://www.stta.org.sg/)||Full Integration|||
 |Taekwondo||Full Integration|||
 |Tennis||Technical|||
 |Triathlon||Integrated|||
