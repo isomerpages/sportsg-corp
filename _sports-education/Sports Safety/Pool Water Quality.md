@@ -8,7 +8,9 @@ To ensure public safety, Sport Singapore has put the following mandates in plac
 
 **Environmental Public Health (Swimming Pools)**
 
-Regulations, Reg 10. Regulations for swimming pools are found in the Environmental Public Health Act, downloadable from [EPHA_Reg_10](/files/Sport%20Education/Sport%20Safety/Pool%20Water%20Quality/EPHA_Reg_10.pdf)
+Regulations, Reg 10. 
+<br>
+Regulations for swimming pools are found in the Environmental Public Health Act, downloadable from [EPHA_Reg_10](/files/Sport%20Education/Sport%20Safety/Pool%20Water%20Quality/EPHA_Reg_10.pdf)
 
 **Circular for Swimming Pool Owners**
  
