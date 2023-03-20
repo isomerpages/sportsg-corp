@@ -31,12 +31,12 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Basketball](http://bas.org.sg/)||Full Integration|||
 |[Bowling](http://singaporebowling.org.sg/)||Full Integration|Technical|Technical|
 |[Boxing](https://www.singapore-boxing.org/)||Full Integration|||
-|Canoeing -
+|[Canoeing](http://scf.org.sg/) -
             Canoe Sprint||Full Integration|||
-|Cycling|√|Full Integration|||
-|Dragon Boat||Technical|||
-|Fencing||Full Integration|||
-|Floorball||Technical|||
+|[Cycling](https://www.cycling.org.sg/)|√|Full Integration|||
+|[Dragon Boat](http://sdba.org.sg/)||Technical|||
+|[Fencing](https://www.fencingsingapore.org.sg/)||Full Integration|||
+|[Floorball](https://www.revolutionise.sg/sgfloorball/)||Technical|||
 |Football||Full Integration|||
 |Goalball||Technical|||
 |Golf||Full Integration|||
