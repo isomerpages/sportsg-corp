@@ -37,8 +37,8 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Dragon Boat](http://sdba.org.sg/)||Technical|||
 |[Fencing](https://www.fencingsingapore.org.sg/)||Full Integration|||
 |[Floorball](https://www.revolutionise.sg/sgfloorball/)||Technical|||
-|Football||Full Integration|||
-|Goalball||Technical|||
+|[Football](http://www.fas.org.sg/)||Full Integration|||
+|[Goalball](https://sdsc.org.sg/)||Technical|||
 |Golf||Full Integration|||
 |Gymnastics – Fundamentals of Gymnastics||Integrated (1A)|||
 |Gymnastics – Intermediate Men’s Artistic Gymnastics (MAG)||Full Integration (1B)|||
