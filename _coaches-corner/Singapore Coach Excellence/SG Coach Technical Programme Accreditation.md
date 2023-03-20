@@ -66,5 +66,5 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Tennis](https://www.singtennis.org.sg/)||Technical|||
 |[Triathlon](http://www.triathlonsingapore.org/)||Integrated|||
 |[Volleyball](https://www.vas.org.sg/)||Full Integration|||
-|Weightlifting||Technical|||
-|Wrestling||Full Integration|||
+|[Weightlifting](https://www.swf.org.sg/)||Technical|||
+|[Wrestling](http://singaporewrestling.com/)||Full Integration|||
