@@ -27,10 +27,10 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Aquatics](http://www.swimming.org.sg/) -
             Water Polo||Full Integration|Full Integration||
 |[Athletics](http://www.singaporeathletics.org.sg/)||Full Integration|||
-|Badminton||Full Integration|||
-|Basketball||Full Integration|||
-|Bowling||Full Integration|Technical|Technical|
-|Boxing||Full Integration|||
+|[Badminton](http://www.singaporebadminton.org.sg/)||Full Integration|||
+|[Basketball](http://bas.org.sg/)||Full Integration|||
+|[Bowling](http://singaporebowling.org.sg/)||Full Integration|Technical|Technical|
+|[Boxing](https://www.singapore-boxing.org/)||Full Integration|||
 |Canoeing -
             Canoe Sprint||Full Integration|||
 |Cycling|√|Full Integration|||
