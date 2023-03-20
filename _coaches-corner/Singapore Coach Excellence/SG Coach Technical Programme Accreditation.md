@@ -39,13 +39,13 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Floorball](https://www.revolutionise.sg/sgfloorball/)||Technical|||
 |[Football](http://www.fas.org.sg/)||Full Integration|||
 |[Goalball](https://sdsc.org.sg/)||Technical|||
-|Golf||Full Integration|||
-|Gymnastics – Fundamentals of Gymnastics||Integrated (1A)|||
-|Gymnastics – Intermediate Men’s Artistic Gymnastics (MAG)||Full Integration (1B)|||
-|Gymnastics - Intermediate Women’s Artistic Gymnastics (WAG)||Full Integration (1B)|||
-|Gymnastics – Intermediate Rhythmic Gymnastics (RG)||Full Integration (1B)|||
-|Gymnastics – Intermediate Trampoline||Full Integration (1B)|||
-|Gymnastics – KinderGym||Technical|||
+|[Golf](https://sga.org.sg/)||Full Integration|||
+|[Gymnastics](https://www.singaporegymnastics.org.sg/home/) - Fundamentals of Gymnastics||Integrated (1A)|||
+|[Gymnastics](https://www.singaporegymnastics.org.sg/home/) - Intermediate Men’s Artistic Gymnastics (MAG)||Full Integration (1B)|||
+|[Gymnastics](https://www.singaporegymnastics.org.sg/home/) - Intermediate Women’s Artistic Gymnastics (WAG)||Full Integration (1B)|||
+|[Gymnastics](https://www.singaporegymnastics.org.sg/home/) Intermediate Rhythmic Gymnastics (RG)||Full Integration (1B)|||
+|[Gymnastics](https://www.singaporegymnastics.org.sg/home/) Intermediate Trampoline||Full Integration (1B)|||
+|[Gymnastics](https://www.singaporegymnastics.org.sg/home/) - KinderGym||Technical|||
 |Hockey - Indoor and Outdoor||Full Integration|||
 |Ice Hockey|√||||
 |Ice Skating – Figure Skating||Technical|||
