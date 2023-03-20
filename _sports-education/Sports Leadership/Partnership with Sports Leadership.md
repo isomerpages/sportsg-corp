@@ -13,9 +13,13 @@ At Sport Singapore, CLD develops organisational capabilities by spearheading lea
 CLD works with partners from different sectors to further the development of our work. If you are a local/overseas agency or institution and see that the work we are doing is aligned with you, do [contact us](mailto:hong_xue_en@sport.gov.sg). We will be glad to explore partnership opportunities. 
 
 **Character & Leadership Development Department**
-Sport Singapore  
-Address: 3 Stadium Drive, Singapore 397630  
-Tel: 6500 5000 (main)  
+<br>
+Sport Singapore
+<br>
+Address: 3 Stadium Drive, Singapore 397630
+<br>
+Tel: 6500 5000 (main)
+<br>
 Fax: 6440 9205
 
 **Local Partners**
