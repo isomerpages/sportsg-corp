@@ -21,10 +21,10 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 
 |Sport|Community Coach|Level 1|Level 2|Level 3|
 |--- |--- |--- |--- |--- |
-|Archery||Full Integration|||
-|Aquatics – Swimming||Full Integration|||
-|Aquatics – Artistic Swimming||Integrated|||
-|Aquatics –
+|[Archery](https://www.facebook.com/Archery.Singapore/)||Full Integration|||
+|[Aquatics](http://www.swimming.org.sg/) - Swimming||Full Integration|||
+|[Aquatics](http://www.swimming.org.sg/) - Artistic Swimming||Integrated|||
+|[Aquatics](http://www.swimming.org.sg/) -
             Water Polo||Full Integration|Full Integration||
 |Athletics||Full Integration|||
 |Badminton||Full Integration|||
