@@ -12,7 +12,7 @@ In detail, the Sports Safety Working Committee: 
 *   Promotes sports safety across different sports
 *   Assists National Sports Associations in developing and implementing sports safety practices and various information, materials, guides and templates for the public 
 
-Below is a report on the 'OVERVIEW AND RECOMMENDATIONS FOR SPORTS SAFETY IN SINGAPORE'  **done by the Sports Safety Committee**.
+Below is a report on the 'OVERVIEW AND RECOMMENDATIONS FOR SPORTS SAFETY IN SINGAPORE'  done by the Sports Safety Committee.
 
 The Sport Safety Committee Report 2019 has since been translated into a Singapore Standard, SS681:2022 Code of Practice for Sport Safety
 
