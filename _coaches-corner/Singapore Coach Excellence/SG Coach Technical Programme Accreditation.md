@@ -24,8 +24,7 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Archery](https://www.facebook.com/Archery.Singapore/)||Full Integration|||
 |[Aquatics](http://www.swimming.org.sg/) - Swimming||Full Integration|||
 |[Aquatics](http://www.swimming.org.sg/) - Artistic Swimming||Integrated|||
-|[Aquatics](http://www.swimming.org.sg/) -
-            Water Polo||Full Integration|Full Integration||
+|[Aquatics](http://www.swimming.org.sg/) - Water Polo||Full Integration|Full Integration||
 |[Athletics](http://www.singaporeathletics.org.sg/)||Full Integration|||
 |[Badminton](http://www.singaporebadminton.org.sg/)||Full Integration|||
 |[Basketball](http://bas.org.sg/)||Full Integration|||
