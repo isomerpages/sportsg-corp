@@ -55,8 +55,8 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Lawn Bowls](https://www.lifeguard.sg/slss/)||Technical|||
 |[Life Saving](https://www.lifeguard.sg/slss/)||Technical|||
 |[Netball](http://www.netball.org.sg/)||Full Integration|||
-|Pencak Silat||Full Integration|||
-|Rugby||Full Integration|||
+|[Pencak Silat](http://persisi.org/)||Full Integration|||
+|[Rugby](http://www.singaporerugby.com/)||Full Integration|||
 |Sailing||Technical|||
 |Sepaktakraw||Full Integration|||
 |Shooting –
