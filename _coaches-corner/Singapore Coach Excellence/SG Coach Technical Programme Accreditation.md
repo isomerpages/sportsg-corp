@@ -46,10 +46,10 @@ The following table shows a list of sports with SG-Coach coaching courses, where
 |[Gymnastics](https://www.singaporegymnastics.org.sg/home/) Intermediate Rhythmic Gymnastics (RG)||Full Integration (1B)|||
 |[Gymnastics](https://www.singaporegymnastics.org.sg/home/) Intermediate Trampoline||Full Integration (1B)|||
 |[Gymnastics](https://www.singaporegymnastics.org.sg/home/) - KinderGym||Technical|||
-|Hockey - Indoor and Outdoor||Full Integration|||
-|Ice Hockey|√||||
-|Ice Skating – Figure Skating||Technical|||
-|Ice Skating – Short Track Speed Skating||Technical|||
+|[Hockey](http://www.singaporehockey.org/) - Indoor and Outdoor||Full Integration|||
+|[Ice Hockey](http://siha.org.sg/)|√||||
+|[Ice Skating](https://www.sisa.org.sg/) - Figure Skating||Technical|||
+|[Ice Skating](https://www.sisa.org.sg/) - Short Track Speed Skating||Technical|||
 |Judo||Full Integration|||
 |Jump Rope||Full Integration|||
 |Lawn Bowls||Technical|||
