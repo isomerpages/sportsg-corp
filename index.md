@@ -12,8 +12,7 @@ sections:
   - hero:
       title: Sport Singapore
       subtitle: Live Better Through Sport
-      background: /images/Sport Education/Sports Leadership/Game For
-        Life/Book/GFL_Banner4.gif
+      background: /images/IMG_95502.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
