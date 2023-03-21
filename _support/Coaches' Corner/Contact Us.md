@@ -4,7 +4,7 @@ permalink: /support-resources/coaches-corner/contact-us/
 description: ""
 third_nav_title: Coaches' Corner
 ---
-#### **CoachSG  Singapore Sport Institute**
+#### **CoachSG,  Singapore Sport Institute**
 
 ##### **Sport Singapore**
 
