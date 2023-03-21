@@ -11,7 +11,7 @@ To keep true to our aim of changing the nation through sports, Sport Singapore h
 
 We have also brought children day-care centres to Choa Chu Kang and Jurong East Sport Centres, encouraging a sporting lifestyle at a young age.
 
-![](/images/Support/Facilities/Jurong%20East_2008_Picturewords_3768.jpeg)
+![Types of Facilities](/images/Support/Facilities/Jurong%20East_2008_Picturewords_3768.jpeg)
 **Types of Facilities**
 
 Currently, Sport Singapore has a wide range of facilities that cater to an array of sporting needs, islandwide:
