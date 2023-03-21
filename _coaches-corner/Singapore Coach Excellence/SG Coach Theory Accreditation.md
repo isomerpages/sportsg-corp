@@ -7,9 +7,9 @@ third_nav_title: Singapore Coach Excellence
 Direct Waiver for the SG-Coach Level 1 Theory course is given to those who have graduated from the following local courses: 
 
 1.  National Institute of Education's Diploma / Postgraduate Diploma / Degree in Physical Education **(MOE Teachers holding these certificates still need to apply for [VPS Accreditation](/sports-education/value-and-principles-in-sport/) from CoachSG)**
-2.  Republic Polytechnic’s Diploma in Sport and Exercise Science (VPS Integrated)\*
-3.  Republic Polytechnic’s Diploma in Sports Coaching (VPS Integrated)\*
-4.  Republic Polytechnic’s Part-Time Diploma in Sports (Coaching) (VPS Integrated)\*
+2.  Republic Polytechnic's Diploma in Sport and Exercise Science (VPS Integrated)\*
+3.  Republic Polytechnic's Diploma in Sports Coaching (VPS Integrated)\*
+4.  Republic Polytechnic's Part-Time Diploma in Sports (Coaching) (VPS Integrated)\*
 
 \*The waiver takes effect for AY17 intake of students onwards.
 
@@ -31,7 +31,6 @@ If you are interested in seeking for accreditation for SG-Coach Theory via reco
 There is no cost for the evaluation BUT please note that a certification fee of $54.00 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applicants, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via Course Calendar.
 
 **VPS Accreditation**.
-
 If you have been a Ministry of Education (MOE) Physical Education (PE) teacher in service from 2015 onwards, you will be exempted from VPS workshop but are required to complete the following steps to obtain VPS Accreditation, before being eligible to receive the VPS (Accreditation) certificate:
 
 1.  Register for a SportSync account and complete VPS E-learning topics via SportSG-ED (Refer to user guide [here](/files/Support/Coaches'%20Corner/Singapore%20Coach%20Excellence/SportSync(Registration)_SportSGED(Activation)_UserGuide.pdf))
