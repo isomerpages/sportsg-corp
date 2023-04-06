@@ -31,11 +31,11 @@ Porsche has partnered with the SportCares Foundation to celebrate SG50 by giving
 
 6\. Speaking on her experience on building the mural, Lyla Medina Binte Kamzaruddin (11 years old), a participant of SportCares Love Singapore girls’ tennis programme said, “SportCares teaches me to work well with others. Putting together almost 50,000 pieces of LEGO bricks was not easy but we did it through teamwork and a lot of focus.”
 
-7\. The model of the Porsche will be displayed at The Porsche Circuit event, along with the LEGO mural, on Friday, 24 July at Suntec Singapore Convention & Exhibition Centre, Halls 401 – 402.
+7\. The model of the Porsche will be displayed at The Porsche Circuit event, along with the LEGO mural, on Friday, 24 July at Suntec Singapore Convention &amp; Exhibition Centre, Halls 401 – 402.
 
 8\. In addition, courtesy of the Porsche Club Singapore members, 50 volunteers from SportCares will also get the chance to be driven around in the members’ Porsche cars, starting from Suntec City to various locations in central Singapore.
 
-For more information on SportCares, visit: [SportCares](/what-we-do/sportcares/).<br>
+For more information on SportCares, visit: [SportCares](/our-work/sportcares/).<br>
 SportCares Facebook: [facebook.com/SportCaresSG](https://www.facebook.com/SportCaresSG)<br>
 SportCares Instagram: [instagram.com/sportcares](https://instagram.com/sportcares/)
 
