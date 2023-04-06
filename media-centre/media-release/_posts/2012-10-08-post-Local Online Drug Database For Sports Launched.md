@@ -46,7 +46,7 @@ The Singapore Sports Council aims to transform the nation through sport, by insp
 
 To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
 Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
+For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](https://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Anti-Doping Singapore**
 <br>
