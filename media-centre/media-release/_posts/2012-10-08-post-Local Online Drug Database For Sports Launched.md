@@ -32,7 +32,7 @@ image: ""
 **For media enquiries, please contact:**
 <br>
 Eric Ong
-<br>vManager, Media Relations
+<br>Manager, Media Relations
 <br>Singapore Sports Council
 <br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
 
