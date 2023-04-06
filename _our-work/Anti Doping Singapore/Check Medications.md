@@ -4,7 +4,7 @@ permalink: /our-work/anti-doping-singapore/check-medications/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-This database of medications is used within the Anti-Doping Singapore (ADS) [website](/our-work/anti-doping-singapore/about-us/) and provides information on pharmaceutical products that may be used in sports and that are licensed in Singapore by the Health Sciences Authority as of the date of the last update of this database of medications.
+This database of medications is used within the Anti-Doping Singapore (ADS) [website](/our-work/anti-doping-singapore/about-ads/) and provides information on pharmaceutical products that may be used in sports and that are licensed in Singapore by the Health Sciences Authority as of the date of the last update of this database of medications.
 
 References to ADS include the Singapore Sports Council and its officers, and its other working committees, and the content contributors of the information or data from which this database of medications is derived.
 
