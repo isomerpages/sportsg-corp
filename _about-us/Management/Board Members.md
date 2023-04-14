@@ -29,9 +29,9 @@ Mr Lee Kok Choy
 Chairman, Board of Governors, Temasek Polytechnic
 
 Mr Andrew Lim  
-Group CFO, CapitaLand
+Group COO, CapitalLand Investment
 
-Mr Lim Teck Yin  
+Mr Alan Goh  
 CEO, SportSG
 
 Mr Keith Magnus  
