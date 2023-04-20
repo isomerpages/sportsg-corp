@@ -8,10 +8,10 @@ image: ""
 ---
 ### **Spexscholarship Saw Its Largest Cohort Of 105 Athletes At Its 10th Anniversary**
 
+![Spexscholarship Saw Its Largest Cohort Of 105 Athletes At Its 10th Anniversary](/images/Media%20Centre/Media%20Release/2023/April/spexscholarship-saw-its-largest-cohort.jpg)
+
 * 33 new athletes from 11 sports will join the 2023 cohort of spexScholars
 * Programme has supported more than 200 spexScholars and produced 13 world champions since it was introduced in 2013
-
-![Spexscholarship Saw Its Largest Cohort Of 105 Athletes At Its 10th Anniversary](/images/Media%20Centre/Media%20Release/2023/April/spexscholarship-saw-its-largest-cohort.jpg)
 
 The Sport Excellence Scholarship (spexScholarship) welcomed 33 new athletes from 11 sports into its programme today, marking the largest cohort of spexScholars with 105 athletes across 24 sports as it celebrates its 10th anniversary (see [Annex A](/files/Media%20Centre/Media%20Release/2023/April/annex%20a%20-%20new%20spexscholars.pdf) for the list of new spexScholars and their key achievements and [Annex B](/files/Media%20Centre/Media%20Release/2023/April/annex%20b%20–%20full%20list%20of%20spexscholars.pdf) for the full list of spexScholars). Since the spexScholarship programme was launched in 2013, it has supported 211 spexScholars, and produced 13 world champions1 with a total of 25 world championship titles. During a short span of 10 years, the spexScholarship also saw a total of 39 athletes achieve 47 podium finishes at the Asian Games and Olympics Games, as well as its para-equivalents (see [Annex C](/files/Media%20Centre/Media%20Release/2023/April/annex%20c%20–%20world%20champions%20and%20podium%20finishes.pdf) for more information).
 
