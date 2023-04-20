@@ -34,8 +34,8 @@ Ms Erynne Lim, Chef de Mission for Team Singapore at the APG, said, “I am exci
 Team Singapore boccia player and flagbearer for APG, Ms Toh Sze Ning, who will be participating in her 5th APG, said, “I feel so inspired by the people who have been working very hard behind the scenes with me. Seeing their hard work and support for me that makes me want to go beyond and strive to do my best at the Games. In this year’s edition, I would like to be able to improve on my previous competition results.”
 
 Annexes
-Annex A: Profiles of Flag Bearers 
-Annex B: Profiles of Chefs de Mission
-Annex C: Speech by Minister Tan Chuan-Jin
-Annex D: 2023 SEA Games Contingent Name List 
-Annex E: 2023 ASEAN Para Games Contingent Name List
+* Annex A: Profiles of Flag Bearers
+* Annex B: Profiles of Chefs de Mission
+* Annex C: Speech by Minister Tan Chuan-Jin
+* Annex D: 2023 SEA Games Contingent Name List 
+* Annex E: 2023 ASEAN Para Games Contingent Name List
