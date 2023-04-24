@@ -4,6 +4,9 @@ collections:
     order:
       - Overview.md
       - Academies and Clubs.md
+      - Active Health.md
+      - Active Parents.md
+      - ActiveSG.md
       - Anti Doping Singapore/.keep
       - Anti Doping Singapore/About ADS.md
       - Anti Doping Singapore/Education.md
@@ -15,9 +18,6 @@ collections:
       - Anti Doping Singapore/FAQs.md
       - Anti Doping Singapore/Report Doping.md
       - Anti Doping Singapore/Contact Us.md
-      - ActiveSG.md
-      - Active Health.md
-      - Active Parents.md
       - CoachSG.md
       - Singapore Sport Institute/.keep
       - Singapore Sport Institute/Introduction.md
