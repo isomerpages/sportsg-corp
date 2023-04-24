@@ -32,7 +32,7 @@ Tan Hock Leong
 
 **Chief, Sport Development Group**
 <br>
-Marcus Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Marcus Tan
 
 **Chief, Industry Development, Technology &amp; Innovation Group**
 <br>
@@ -40,7 +40,7 @@ Roy Teo
 
 **Chief, Assurance &amp; Corporate Excellence Group**
 <br>
-Muhammad Rostam Umar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Muhammad Rostam Umar
 
 **Chief, Kallang Alive Management Office**
 <br>
