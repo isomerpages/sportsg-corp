@@ -53,6 +53,6 @@ sections:
       url: /sports-education/history-of-sportsg/introduction/
       image: /images/Sport Education/Value & Principles in Sport/NSYS generic.jpeg
   - resources:
-      title: Media Center
+      title: Media Centre
       button: Read more
 ---
