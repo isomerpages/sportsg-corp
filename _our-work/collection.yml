@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Academies and Clubs.md
+      - ActiveSG Academies and Clubs.md
       - Active Health.md
       - Active Parents.md
       - ActiveSG.md
