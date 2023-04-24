@@ -32,10 +32,3 @@ Following the 2023 SEA Games, the 12th APG will be held from 3 to 9 June 2023 in
 Ms Erynne Lim, Chef de Mission for Team Singapore at the APG, said, “I am excited to lead Team Singapore at the ASEAN Para Games, especially since it will be our first time competing at this level in Cambodia. The athletes have put in a lot of hard work and dedication into their training to represent Singapore. I would like to call for all Singaporeans to rally behind our athletes and cheer them on as they do our country proud.
 
 Team Singapore boccia player and flagbearer for APG, Ms Toh Sze Ning, who will be participating in her 5th APG, said, “I feel so inspired by the people who have been working very hard behind the scenes with me. Seeing their hard work and support for me that makes me want to go beyond and strive to do my best at the Games. In this year’s edition, I would like to be able to improve on my previous competition results.”
-
-Annexes
-* Annex A: Profiles of Flag Bearers
-* Annex B: Profiles of Chefs de Mission
-* Annex C: Speech by Minister Tan Chuan-Jin
-* Annex D: 2023 SEA Games Contingent Name List 
-* Annex E: 2023 ASEAN Para Games Contingent Name List
