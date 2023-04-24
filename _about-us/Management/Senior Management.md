@@ -11,24 +11,27 @@ Alan Goh
 
 **Deputy Chief Executive Officer**  
 Toh Boon Yi
+ 
+**Chief, ActiveSG**
+Tan Hock Leong
 
-**Chief, Strategy Group**  
-Lee Huei Chern
+**Chief, Assurance & Corporate Excellence Group**
+Muhammad Rostam Umar
 
-**Chief, Sport Infrastructure Group**  
-Lim Hong Khiang
-
-**Chief, Sport Development Group**  
-Marcus Tan  
-
-**Chief,&nbsp;Assurance &amp; Corporate Excellence Group**  
-Muhammad Rostam Bin Umar
-
-**Chief, Industry Development, Technology &amp; Innovation Group**  
+**Chief, Industry Development, Technology & Innovation Group**
 Roy Teo
 
-**Chief, Singapore Sport Institute (SSI)**  
+**Chief, Kallang Alive Management Office**
+Daryl Yeo
+
+**Chief, Singapore Sport Institute**
 Su Chun Wei
 
-**Chief, ActiveSG**  
-Tan Hock Leong
+**Chief, Sport Development Group**
+Marcus Tan
+
+**Chief, Sport Infrastructure Group**
+Lim Hong Khiang
+
+**Chief, Strategy Group**
+Lee Huei Chern
