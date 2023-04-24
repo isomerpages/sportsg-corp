@@ -3,17 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
-      - National Registry of Coaches/.keep
-      - National Registry of Coaches/How to be an NROC Coach.md
-      - National Registry of Coaches/How to renew NROC Membership.md
-      - National Registry of Coaches/How to upgrade NROC Membership.md
-      - National Registry of Coaches/How To Guides for SportSync.md
-      - National Registry of Coaches/NROC Handbook.md
-      - National Registry of Coaches/Accredited Standard First Aid with AED
-        Courses.md
-      - National Registry of Coaches/Usage of Sports Hub Library.md
-      - ActiveSG Programme Partnership/ActiveSG Programme Partnership.md
       - ActiveSG Programme Partnership/.keep
+      - ActiveSG Programme Partnership/ActiveSG Programme Partnership.md
       - ActiveSG Programme Partnership/NROC Sports.md
       - ActiveSG Programme Partnership/Other Sports.md
       - Athletes' Corner.md
@@ -26,13 +17,22 @@ collections:
       - Coaches' Corner/Coaches Day.md
       - Coaches' Corner/Funding.md
       - Coaches' Corner/Contact Us.md
-      - Facilities.md
-      - FMS Trainer at Nurture Kids.md
-      - Sport Data Exchange Singapore.md
-      - Support for Sport Businesses (Grants).md
-      - Sports Participation in Singapore.md
-      - SportSG ED.md
       - COVID 19/.keep
       - COVID 19/Covid 19 Support.md
       - COVID 19/For NROC SwimSafer and Life Saving Coaches.md
       - COVID 19/Home based Learning Toolkit for Coaches.md
+      - Facilities.md
+      - FMS Trainer at Nurture Kids.md
+      - National Registry of Coaches/.keep
+      - National Registry of Coaches/How to be an NROC Coach.md
+      - National Registry of Coaches/How to renew NROC Membership.md
+      - National Registry of Coaches/How to upgrade NROC Membership.md
+      - National Registry of Coaches/How To Guides for SportSync.md
+      - National Registry of Coaches/NROC Handbook.md
+      - National Registry of Coaches/Accredited Standard First Aid with AED
+        Courses.md
+      - National Registry of Coaches/Usage of Sports Hub Library.md
+      - Support for Sport Businesses (Grants).md
+      - Sport Data Exchange Singapore.md
+      - Sports Participation in Singapore.md
+      - SportSG ED.md
