@@ -22,10 +22,6 @@ Lee Huei Chern
 <br>
 Lim Hong Khiang
 
-**Chief, Assurance &amp; Corporate Excellence Group**
-<br>
-Muhammad Rostam Umar
-
 **Chief, Singapore Sport Institute**
 <br>
 Su Chun Wei
@@ -36,11 +32,15 @@ Tan Hock Leong
 
 **Chief, Sport Development Group**
 <br>
-Marcus Tan
+Marcus Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Chief, Industry Development, Technology &amp; Innovation Group**
 <br>
 Roy Teo
+
+**Chief, Assurance &amp; Corporate Excellence Group**
+<br>
+Muhammad Rostam Umar
 
 **Chief, Kallang Alive Management Office**
 <br>
