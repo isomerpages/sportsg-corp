@@ -12,7 +12,7 @@ sections:
   - hero:
       title: Sport Singapore
       subtitle: Live Better Through Sport
-      background: /images/IMG_95502.jpg
+      background: /images/home_banner.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
