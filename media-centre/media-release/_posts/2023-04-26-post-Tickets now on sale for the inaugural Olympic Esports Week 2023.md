@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: /images/Media Centre/Media Release/2023/April/olympic esports week.png
 ---
-**
 
-Today, the Local Organising Committee (LOC) has launched ticketing for the first-ever Olympic Esports Week (OEW). Taking place at the Suntec Singapore Convention & Exhibition Centre from 22 to 25 June, the inaugural Olympic Esports Week is a four-day festival of virtual sports and gaming created by the International Olympic Committee (IOC) and hosted by Singapore. Tickets start from S$10, with event goers invited to experience all the thrilling action of the Olympic Esports Series 2023 live finals, as well as watch exhibition matches and try out the latest innovations in the free-to-play zone.
+
+On 26 April 2023, the Local Organising Committee (LOC) has launched ticketing for the first-ever Olympic Esports Week (OEW). Taking place at the Suntec Singapore Convention & Exhibition Centre from 22 to 25 June, the inaugural Olympic Esports Week is a four-day festival of virtual sports and gaming created by the International Olympic Committee (IOC) and hosted by Singapore. Tickets start from S$10, with event goers invited to experience all the thrilling action of the Olympic Esports Series 2023 live finals, as well as watch exhibition matches and try out the latest innovations in the free-to-play zone.
 
 The Olympic Esports Series 2023 is a global virtual and simulated sports competition created by the IOC in collaboration with International Federations and game publishers. The finals, held live this year for the first time, is one of the highlights of the OEW at the Suntec Singapore Convention & Exhibition Centre. There are nine featured sports for the Olympic Esports Series: Archery, baseball, chess, cycling, dance, sailing, tennis, taekwondo, and motorsport. The list of titles and sports are available in Annex A.  
 
@@ -24,7 +24,6 @@ Mr Chay also said: “Similar to an athlete’s sporting success on the global s
 
 Those in Singapore will also get a sneak preview of the OEW experience from 5 May 2023 with a roving trailer bringing the world of esports and virtual sports to 13 locations across Singapore for a period of 50 days up until the Olympic Esports Week. This will give visitors the opportunity to try the OEW titles first hand, compete to win attractive prizes and meet with key leaders in the world of esports and virtual sports. Other exciting programmes will also take place in various key locations across Singapore. More details will be revealed in due course.
 
-**
 
 **Annex A
 Games at Olympic Esports Series:
