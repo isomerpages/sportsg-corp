@@ -24,6 +24,13 @@ Mr Chay also said: “Similar to an athlete’s sporting success on the global s
 
 Those in Singapore will also get a sneak preview of the OEW experience from 5 May 2023 with a roving trailer bringing the world of esports and virtual sports to 13 locations across Singapore for a period of 50 days up until the Olympic Esports Week. This will give visitors the opportunity to try the OEW titles first hand, compete to win attractive prizes and meet with key leaders in the world of esports and virtual sports. Other exciting programmes will also take place in various key locations across Singapore. More details will be revealed in due course.
 
+<hr>
+
+**Footnote:**
+
+<sup>1.</sup> Student prices are applicable for those aged between 7 and 17. Children under 7 enjoy complimentary entry into the OEW, but must be accompanied by a paying adult.
+
+<hr>
 
 **Annex A Games at Olympic Esports Series:**
 
