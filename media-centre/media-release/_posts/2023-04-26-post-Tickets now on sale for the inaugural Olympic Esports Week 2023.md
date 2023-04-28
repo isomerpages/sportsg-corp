@@ -25,3 +25,16 @@ Mr Chay also said: “Similar to an athlete’s sporting success on the global s
 Those in Singapore will also get a sneak preview of the OEW experience from 5 May 2023 with a roving trailer bringing the world of esports and virtual sports to 13 locations across Singapore for a period of 50 days up until the Olympic Esports Week. This will give visitors the opportunity to try the OEW titles first hand, compete to win attractive prizes and meet with key leaders in the world of esports and virtual sports. Other exciting programmes will also take place in various key locations across Singapore. More details will be revealed in due course.
 
 **
+
+**Annex A
+Games at Olympic Esports Series:
+**
+1. **Archery** (World Archery Federation, Tic Tac Bow)
+2. **Baseball** (World Baseball Softball Confederation, WBSC eBASEBALL™: POWER PROS)
+3. **Chess** (International Chess Federation, Chess.com)
+4. **Cycling** (UCI, Zwift)
+5. **Dance** (World DanceSports Federation, JustDance) 
+6. **Sailing** (World Sailing, Virtual Regatta)
+7. **Tennis** (International Tennis Federation, Tennis Clash)
+8. **Taekwondo** (World Taekwondo, Virtual Taekwondo)
+9. **Motorsport** (Federation Internationale Automobile, Gran Turismo)
