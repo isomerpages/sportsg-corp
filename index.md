@@ -24,7 +24,6 @@ sections:
         - title: LOVE SPORT
           description: Driving interest in sport
           url: /sports-education/overview/
-      subtitle: " "
   - infobar:
       title: Serving Through Sport With Passion And Pride
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
