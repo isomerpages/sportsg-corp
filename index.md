@@ -11,7 +11,6 @@ notification: ""
 sections:
   - hero:
       title: Sport Singapore
-      subtitle: Live Better Through Sport
       background: /images/sportssg_websitebanner_v1.gif
       button: Contact Us
       url: /contact-us/
