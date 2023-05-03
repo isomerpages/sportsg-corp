@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Sport Singapore
-      background: /images/sportssg_websitebanner_r2.gif
+      background: /images/websitebanner_r3.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
