@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: " "
-      background: /images/websitebanner_r3_withheader.gif
+      background: /images/websitebanner_r4_withheader.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
