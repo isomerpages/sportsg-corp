@@ -114,15 +114,18 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     *   Fillings/Tooth Colored
     *   Extractions
     *   Root Canal Treatment inclusive of LA, Xrays
-			*   Anterior
-			*   Pre Molar
-			*   Molar
+			<br>
+			- Anterior
+			<br>
+			- Pre Molar
+			<br>
+			- Molar
     *   Teeth Whitening in office
     *   Teeth Whitening Take Home
     *   Night Guard Soft
     *   Hard Acrylic
     *   Mouthguard
-2.  **Sign up for 2 sessions\* of stain removal cleaning @ a discounted rate of $165 (before 8% service fee)**&nbsp;which includes the following:
+2.  **Sign up for 2 sessions\* of stain removal cleaning @ a discounted rate of $165 (before 8% service fee)** which includes the following:
     *   Consultation
     *   Scaling
     *   Polishing
