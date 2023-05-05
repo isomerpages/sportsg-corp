@@ -69,30 +69,12 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Offer is valid till 31 December 2023.
 
-##### **MY LITTLE COCONUT**
-*   10% discount on all beverages at My Little Coconut at Kallang Wave Mall (#02-13).
-*   TS Rewards Card must be presented prior to payment for the discount to be valid.
-*   The Quartet Guys Pte Ltd reserves the right to amend the terms and conditions without prior notice.
-*   Offer is valid till 31 Dec 2023.
-
 ##### **PRESOTEA**
 *   15% discount on all food &amp; beverages at Presotea at Kallang Leisure Park.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Shiloh Remnant Pte Ltd reserves the right to amend the terms &amp; conditions without prior notice.
 *   Offer is valid from 01 Jun 2022 to 31 Dec 2023.
-
-##### **TEA TREE CAFE**
-*   10% off total bill at the Tea Tree Café, located at Kallang Wave Mall (Level 1).
-*   Discount shall not be applicable for promotional items.
-*   TS Rewards Card must be presented prior to payment for the discount to be valid.
-*   Offer is valid till 31 December 2022.
-
-##### **THE BLACKDROP**
-*   10% discount for all food &amp; beverages items at The Blackdrop@ EXP Esports Experience Centre at Kallang Wave Mall.
-*   Offer cannot be used in conjunction with any existing promotions or discounts at the store unless otherwise stated.
-*   TS Rewards Card must be presented prior to payment for the discount to be valid.
-*   Offer is valid till 31 Dec 2022.
-
+*   
 ##### **YU KEE SPECIALITIES**
 *   10% discount for all food and beverage items located at Yu Kee Specialities, level 2 of Kallang Wave Mall.
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at Yu Kee Specialities.
