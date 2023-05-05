@@ -74,7 +74,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Shiloh Remnant Pte Ltd reserves the right to amend the terms &amp; conditions without prior notice.
 *   Offer is valid from 01 Jun 2022 to 31 Dec 2023.
-*   
+
 ##### **YU KEE SPECIALITIES**
 *   10% discount for all food and beverage items located at Yu Kee Specialities, level 2 of Kallang Wave Mall.
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at Yu Kee Specialities.
