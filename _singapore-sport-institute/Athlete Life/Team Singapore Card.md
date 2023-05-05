@@ -152,7 +152,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 **Terms &amp; Conditions:**
 
 *   Price is in Singapore dollars and inclusive of GST.
-*   Price excludes practice cost and doctor’s consultation charge.
+*   Price excludes practice cost and doctor's consultation charge.
 *   The quoted rates are not applicable for any ongoing credit card, corporate programmes, other benefits &amp; promotions.
 *   Items in the package are non-exchangeable and non-refundable, including unutilised portion.
 *   GP services are available at Raffles Medical Clinics in Singapore and Raffles Health Screeners and are not available at Raffles Executive Medical Centre and 24-Hour Emergency at Raffles Hospital.
@@ -164,6 +164,6 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     *   Full payment will be collected before laboratory works (if any) can be processed.
     *   Not to be used in conjunction with any other ongoing promotions, packages, or privileges.
     *   Corporate discount does not apply to laboratory works, oral hygiene products, medication and other services by external vendors, etc. and specialist dental services.
-    *   Consumables charge is applicable for every dental visit. Consumables charge are for items such as disposable gloves, gowns, cups and bibs, disinfectants, autoclaving pouches etc._
-*   Team Singapore Rewards Card/ E-Card must be presented by card holder and cardholder’s family member prior to payment for the discount to be valid. Offer is extended to the card holder and card holders’ family members only.
-*   Mode of payment – Cash/Credit Card/ NETS.
+    *   Consumables charge is applicable for every dental visit. Consumables charge are for items such as disposable gloves, gowns, cups and bibs, disinfectants, autoclaving pouches etc.
+*   Team Singapore Rewards Card/ E-Card must be presented by card holder and cardholder's family member prior to payment for the discount to be valid. Offer is extended to the card holder and card holders' family members only.
+*   Mode of payment - Cash/Credit Card/ NETS.
