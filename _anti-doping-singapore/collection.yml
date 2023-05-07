@@ -2,7 +2,7 @@ collections:
   anti-doping-singapore:
     output: true
     order:
-      - Check Medications/.keep
+      - Check Medication/.keep
       - About/.keep
       - About/About ADS.md
       - About/NADAB.md
