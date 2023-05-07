@@ -2,11 +2,11 @@ collections:
   anti-doping-singapore:
     output: true
     order:
-      - Check Medication/.keep
       - About/.keep
       - About/About ADS.md
       - About/NADAB.md
       - About/Governance.md
+      - Check Medication/.keep
       - Testing/.keep
       - Testing/Testing Pools.md
       - Testing/Rights and Responsibilities.md
