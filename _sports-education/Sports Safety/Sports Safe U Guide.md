@@ -19,6 +19,7 @@ Click the links below to access the GAQ in your preferred language:
 
 #### **PAR-Q**
 **What is PAR-Q?**
+
 PAR-Q stands for Physical Activity Readiness Questionaire. It is designed for individuals to find out more about their physical ability before engaging in any physical activity. It helps an individual to assess oneself if they are fit for the activity at that particular moment.   
   
 It only takes approximately 3 minutes to fill up the questionnaire. It is an easy and convenient way to do some self-assessment before any activity.   
