@@ -56,7 +56,7 @@ staging: https://staging.d2jsf4cufbak4h.amplifyapp.com
 prod: https://master.d2jsf4cufbak4h.amplifyapp.com
 resources_name: media-centre
 shareicon: /images/sportsg logo.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
