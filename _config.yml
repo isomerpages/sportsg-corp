@@ -15,10 +15,10 @@ colors:
       color: "#e10098"
     - title: media-color-five
       color: "#8031a7"
-description: "Sport Singapore (previously known as Singapore Sports Council) is
-  a statutory board of the Ministry of Culture, Community and Youth. Our core
+description: Sport Singapore (previously known as Singapore Sports Council) is a
+  statutory board of the Ministry of Culture, Community and Youth. Our core
   purpose is to inspire the Singapore spirit and transform Singapore through
-  sport. "
+  sport.
 permalink: none
 baseurl: ""
 exclude:
@@ -60,3 +60,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: G-T55DDPV2LH
