@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Management/.keep
+      - Management/Corporate Structure.md
+      - Management/Board Members.md
+      - Management/Senior Management.md
+      - Our Core Values.md
+      - Our Logo.md
+      - Vision 2030.md

@@ -1,15 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/sportsg logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Our Work
+    collection: our-work
+  - title: Support & Resources
+    collection: support
+  - title: Media Centre
+    resource_room: true
+  - title: Sport Education
+    collection: sports-education
+  - title: Careers
+    url: /careers
+    sublinks:
+      - title: ActiveSG Training Centre (ATC)
+        url: /careers/activesg-training-centre-atc/
+      - title: Careers@GOV
+        url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Sport%20Singapore

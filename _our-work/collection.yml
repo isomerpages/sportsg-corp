@@ -1,0 +1,33 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - Overview.md
+      - Active Health.md
+      - Active Parents.md
+      - ActiveSG.md
+      - ActiveSG Academies and Clubs.md
+      - Anti Doping Singapore/.keep
+      - Anti Doping Singapore/About ADS.md
+      - Anti Doping Singapore/Education.md
+      - Anti Doping Singapore/Testing.md
+      - Anti Doping Singapore/Testing Pool Athletes.md
+      - Anti Doping Singapore/Anti Doping Rule Violation (ADRV).md
+      - Anti Doping Singapore/Therapeutic Use Exemption (TUE) & Substances.md
+      - Anti Doping Singapore/Check Medication.md
+      - Anti Doping Singapore/FAQs.md
+      - Anti Doping Singapore/Report Doping.md
+      - Anti Doping Singapore/Contact Anti Doping Singapore.md
+      - CoachSG.md
+      - Singapore Sport Institute/.keep
+      - Singapore Sport Institute/Introduction.md
+      - Singapore Sport Institute/High Performance Sports.md
+      - Singapore Sport Institute/Athlete Life.md
+      - Singapore Sport Institute/Sport Science.md
+      - Singapore Sport Institute/Sport Medicine.md
+      - Singapore Sport Institute/Innovation.md
+      - Singapore Sport Institute/Science & Technology.md
+      - SportCares.md
+      - Team Nila.md
+      - Team Singapore.md
+      - YouthCreates.md

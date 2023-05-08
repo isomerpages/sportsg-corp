@@ -1,0 +1,5 @@
+collections:
+  careers:
+    output: true
+    order:
+      - ActiveSG Training Centre (ATC).md

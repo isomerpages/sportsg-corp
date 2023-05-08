@@ -1,40 +1,48 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Sport Singapore
+url: https://www.sportsingapore.gov.sg
+favicon: /images/sportsg logo.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#ba0c2f"
+  secondary-color: "#ba0c2f"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#00b5e2"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#00b2a9"
     - title: media-color-three
-      color: '#00838f'
+      color: "#ffcd00"
     - title: media-color-four
-      color: '#00838f'
+      color: "#e10098"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#8031a7"
+description: Sport Singapore (previously known as Singapore Sports Council) is a
+  statutory board of the Ministry of Culture, Community and Youth. Our core
+  purpose is to inspire the Singapore spirit and transform Singapore through
+  sport.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +54,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2jsf4cufbak4h.amplifyapp.com
 prod: https://master.d2jsf4cufbak4h.amplifyapp.com
+resources_name: media-centre
+shareicon: /images/sportsg logo.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: G-T55DDPV2LH

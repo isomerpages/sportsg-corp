@@ -1,0 +1,7 @@
+collections:
+  safe-sport:
+    output: true
+    order:
+      - Safe Sport.md
+      - Reporting.md
+      - General Resources.md
