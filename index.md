@@ -10,10 +10,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: " "
       background: /images/websitebanner_r4_withheader.gif
-      button: Contact Us
-      url: /contact-us/
+      button: Visit ActiveSG Circle
+      url: https://www.activesgcircle.gov.sg
       key_highlights:
         - title: LIVE SPORT
           description: Promoting a sporting lifestyle
