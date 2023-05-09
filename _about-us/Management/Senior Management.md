@@ -24,7 +24,7 @@ Mr Lim Hong Khiang
 
 **Chief, Singapore Sport Institute**
 <br>
-Mr Su Chun Wei
+Dr Su Chun Wei
 
 **Chief, ActiveSG**
 <br>
