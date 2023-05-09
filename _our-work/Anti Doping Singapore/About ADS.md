@@ -81,9 +81,11 @@ Committee, JCST
 
 **Mr Abdul Salim Ahmed Ibrahim**
 <br>
-PBM, FSIArb
+Director, CIVIC Legal LLC
 <br>
-Director - United Legal Alliance LLC
+Certified International Mediator, AIADR
+<br>
+Principal Mediator of the State
 
 **Mr Gobinathan Nair s/o Urath Sankaran**<br>
 Director General - Southeast Asia Regional Anti-Doping Organisation
