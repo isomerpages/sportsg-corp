@@ -8,40 +8,40 @@ The Senior Management helms Sport Singapore, leading the organisation in all asp
 
 **Chief Executive Officer** 
 <br>
-Alan Goh
+Mr Alan Goh
 
 **Deputy Chief Executive Officer**
 <br>
-Toh Boon Yi
+Mr Toh Boon Yi
 
 **Chief, Strategy Group**
 <br>
-Lee Huei Chern
+Ms Lee Huei Chern
 
 **Chief, Sport Infrastructure Group**
 <br>
-Lim Hong Khiang
+Mr Lim Hong Khiang
 
 **Chief, Singapore Sport Institute**
 <br>
-Su Chun Wei
+Dr Su Chun Wei
 
 **Chief, ActiveSG**
 <br>
-Tan Hock Leong
+Mr Tan Hock Leong
 
 **Chief, Sport Development Group**
 <br>
-Marcus Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Mr Marcus Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Chief, Industry Development, Technology &amp; Innovation Group**
 <br>
-Roy Teo
+Mr Roy Teo
 
 **Chief, Assurance &amp; Corporate Excellence Group**
 <br>
-Muhammad Rostam Umar
+Mr Muhammad Rostam Umar
 
 **Chief, Kallang Alive Management Office**
 <br>
-Daryl Yeo
+Mr Daryl Yeo
