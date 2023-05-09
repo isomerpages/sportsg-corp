@@ -4,8 +4,6 @@ permalink: /support-resources/activesg-programme-partnership/
 description: ""
 third_nav_title: ActiveSG Programme Partnership
 ---
-
-
 ActiveSG provides a wide ranging of sports and fitness programmes at our ActiveSG sports centres located island wide. Should you be interested to partner ActiveSG to provide sports and fitness programmes, please submit your programme details to [sport_programming@sport.gov.sg](mailto:sport_programming@sport.gov.sg). Please note that coaches and instructors will be required to submit documents and certifications to indicate that they are qualified to deliver the programmes as indicate below.  
   
 
@@ -18,7 +16,7 @@ Sports Providers offering the NROC Sports will need to have their instructors/
 To register, visit [National Registry of Coaches](/support-resources/activesg-programme-partnership/nroc-sports/). Sports Service Providers are strongly advised to inform your coaches and instructors to obtain regular updates and information from the [National Registry of Coaches](/support-resources/activesg-programme-partnership/nroc-sports/).  
   
 
-##### **1.2 OTHER SPORTS
+##### **1.2 OTHER SPORTS**
 
 1.2.1 National Coaching Accreditation Programme (NCAP) Technical Equivalent  
 Sports service providers will be required to submit your coaches relevant technical certificate equivalent if your coaches are not equipped with NCAP Technical Level 1.
@@ -36,21 +34,21 @@ Accreditation level will depend on evidence of prior learning. To seek NCAP Theo
 
 *The NCAP Theory accreditation process would take up to 4 weeks.
 
-##### 1.3 FITNESS PROGRAMMES
+##### **1.3 FITNESS PROGRAMMES**
 
 Fitness providers will be required to submit their certification to indicate that they are qualified to deliver the fitness programmes.  
   
 
-##### 1.4 NATIONAL STANDARD FOR YOUTH SPORT (NSYS) / VALUES AND PRINCIPLES IN SPORTS (VPS)
+##### **1.4 NATIONAL STANDARD FOR YOUTH SPORT (NSYS) / VALUES AND PRINCIPLES IN SPORTS (VPS)**
 
 All Sports Service Providers offering programmes for children and youths age 16 years and below will require their instructors/coaches to complete the National Standard for Youth Sports (NSYS) or Values and Principles in Sports (VPS). Visit [VPS](/sports-education/value-and-principles-in-sport/) for more information and to register.  
   
-##### 1.5 COACH’S ACKNOWLEDGEMENT FORM
+##### **1.5 COACH’S ACKNOWLEDGEMENT FORM**
 
 All Sports Service Providers with the exception of individuals have to get their instructor(s)/coach(es) listed in their submitted programmes complete the Instructor's/Coach's Acknowledgement Form  
   
 
-##### 1.6 STANDARD FIRST AID
+##### **1.6 STANDARD FIRST AID**
 
 Instructor(s)/coach(es) are to be equipped with a valid recognised Standard First Aid Certificate at point of submission and at point of conduct of programme. Please view the List of First Aid courses recognised by Sport Singapore.  
   
