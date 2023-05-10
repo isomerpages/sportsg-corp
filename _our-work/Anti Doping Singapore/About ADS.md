@@ -24,7 +24,7 @@ ADS' mission is to ensure sport in Singapore is free of doping through the imple
 #### **VISION**<br>
 Every Singaporean athlete is a True Winner.
 
-![](/images/Our%20Work/Anti%20Doping%20Singapore/Resources/Education/Winner.png)
+![Be A True Winner](/images/Our%20Work/Anti%20Doping%20Singapore/ads_be%20a%20true%20winner.jpg)
 
 #### **GOVERNANCE**
 The work of Anti-Doping Singapore (ADS) is governed by the [Anti-Doping Policy of Singapore](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&amp;%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf) ("Policy") and the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&amp;%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) ("Rules") that are established in accordance with the [WAD Code](https://www.wada-ama.org/en/what-we-do/the-code) and its [International Standards](https://www.wada-ama.org/en/international-standards).
