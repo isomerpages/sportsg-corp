@@ -2,12 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
-
-#### **General Legal Information**
-
-Terms of Use
-
 1. **General**
 
 	1.1  This website is owned by the Singapore Sports Council (rebranded as “Sport Singapore” or “SportSG” with effect from 1 April 2014).

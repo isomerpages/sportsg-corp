@@ -4,6 +4,8 @@ permalink: /our-work/anti-doping-singapore/about-ads/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
+![ADS](/images/Our%20Work/Anti%20Doping%20Singapore/ads.png)
+
 The Government of Singapore was a signatory to the Copenhagen Declaration on Anti-Doping in Sport in 2003 and had also adopted the UNESCO International Convention Against Doping in Sport in 2005 by accession, thereby formally recognising Singapore's commitment to implement the [World Anti-Doping Code](https://www.wada-ama.org/en/resources/world-anti-doping-program/world-anti-doping-code) ("WAD Code").
 
 Anti-Doping Singapore (ADS) was established in 2010 by the then Ministry of Community Development, Youth and Sports as the national anti-doping authority for Singapore and is a division within the Singapore Sports Council (rebranded as "Sport Singapore" or "SportSG" with effect from 1 April 2014) responsible for the implementation and management of the Anti-Doping Programme for sport in Singapore.
@@ -19,12 +21,10 @@ ADS' primary responsibilities are to:
 #### **MISSION**
 ADS' mission is to ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives. We work together with the sport bodies to protect the right of Athletes to participate in clean sport.
 
-![ADS](/images/Our%20Work/Anti%20Doping%20Singapore/ads.png)
-
 #### **VISION**<br>
 Every Singaporean athlete is a True Winner.
 
-![](/images/Our%20Work/Anti%20Doping%20Singapore/Resources/Education/Winner.png)
+![Be A True Winner](/images/Our%20Work/Anti%20Doping%20Singapore/ads_be%20a%20true%20winner.jpg)
 
 #### **GOVERNANCE**
 The work of Anti-Doping Singapore (ADS) is governed by the [Anti-Doping Policy of Singapore](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&amp;%20Forms/Anti-Doping_Policy_of_Singapore_-_Final_WADA_Approved_201002.pdf) ("Policy") and the [ADS Anti-Doping Rules](/files/Our%20Work/Anti%20Doping%20Singapore/Resources/Polices%20&amp;%20Forms/2021_wada_nado_model_rules_ADS_revised_20221019.pdf) ("Rules") that are established in accordance with the [WAD Code](https://www.wada-ama.org/en/what-we-do/the-code) and its [International Standards](https://www.wada-ama.org/en/international-standards).

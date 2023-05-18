@@ -15,9 +15,9 @@ To implement a comprehensive athlete support system designed to help student-ath
 
 **Benefits for the Student-athlete:**
 
-| Athlete Life Coaching & Support	 | Academic Flexibility & Support** |
+| Athlete Life Coaching &amp; Support	 | Academic Flexibility &amp; Support** |
 | -------- | -------- | 
-| - Education counselling<br>- Support letters for admission/scholarship applications | <br> - Alternative academic scheduling<br> - Alternative learning modes<br> - Alternative assessment modes<br> -Local & Overseas Athlete-friendly pathways | 
+| - Education counselling<br>- Support letters for admission/scholarship applications | <br> - Alternative academic scheduling<br> - Alternative learning modes<br> - Alternative assessment modes<br> -Local &amp; Overseas Athlete-friendly pathways | 
 
 <small>\*\*(subject to approval by individual Institutes of Higher Learning)</small>
 
@@ -31,20 +31,18 @@ To implement a comprehensive athlete support system designed to help student-ath
 ||5. Provision of multiple leaves of absence.|
 |Flexibility in Education Delivery|6. Provision of alternative arrangements for exams.|
 ||7. Provision of alternative modes and deadlines for assessment.|
-||8. Provision of distance learning & e-learning support.|
+||8. Provision of distance learning &amp; e-learning support.|
 
 
 **CONTACT US**
 
 ***spex*Education team:**
 
-Ms. Beena Doshi: [beena_doshi@sport.gov.sg](mailto:beena_doshi@sport.gov.sg)
-
-Mr. Muhammad Zulhilmi: [Zulhilmi_karim@sport.gov.sg](mailto:Zulhilmi_karim@sport.gov.sg)
+Ms. Beena Doshi:&nbsp;[beena_doshi@sport.gov.sg](mailto:beena_doshi@sport.gov.sg)
 
 **NYSI**  
 [www.nysi.org.sg](http://www.nysi.org.sg/)  
-Enquire: [enquire@nysi.org.sg](mailto:enquire@nysi.org.sg)
+Enquire:&nbsp;[enquire@nysi.org.sg](mailto:enquire@nysi.org.sg)
 
 ### **Education Partners**
 
@@ -62,11 +60,11 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 |Singapore Polytechnic|	 https://www.sp.edu.sg/sp/student-services/ssc-overview/student-support/scholarships/sp-sports-arts-scholarship|
 | \*Temasek Polytechnic| [https://www.tp.edu.sg/fees-and-financial-matters/scholarships](https://www.tp.edu.sg/fees-and-financial-matters/scholarships)|
 | \*International Sports Academy| IMC Sports Diploma Study Award <br>[https://www.isa.edu.sg](https://www.isa.edu.sg)<br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)|
-| James Cook University| [https://www.jcu.edu.sg](https://www.jcu.edu.sg)|
+|&nbsp;James Cook University| [https://www.jcu.edu.sg](https://www.jcu.edu.sg)|
 |\*National University of Singapore|NUS Sports Scholarship<br>[http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship](http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship)<br>NUS Sports Scholarship (Mid-Term)<br>[http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term)](http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term))|
 | \*Nanyang Technological University	| [http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx](http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx)<br>(for existing students)|
 | SIM Global Education| Scholarship application details will be emailed out to all carded athlete in April/May.<br>University of Stirling courses:<br>• Bachelor of Arts (Honours) in Sports Studies and Marketing<br>• Bachelor of Arts (Honours) in Events Management<br>• Bachelor of Arts (Honours) in Marketing<br>• Bachelor of Arts (Honours) in Retail Marketing<br>• Bachelor of Arts (Honours) in Digital Media|
-| \*Singapore Management University|Yip Pin Xiu Scholarship<br>[https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship](https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship)|
+|&nbsp;\*Singapore Management University|Yip Pin Xiu Scholarship<br>[https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship](https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship)|
 | Singapore Institute of Technology	| [https://www.singaporetech.edu.sg/undergrad/scholarships](https://www.singaporetech.edu.sg/undergrad/scholarships)
 
 \*sport scholarships/grants available
