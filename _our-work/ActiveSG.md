@@ -8,4 +8,4 @@ description: ""
 
 ActiveSG’s sport facilities are conveniently located across Singapore and are open to all. Membership is also available to unlock further privileges and is free for all Singaporeans and Singapore Permanent Residents. 
 
-Visit the [ActiveSG website](https://www.myactivesg.com/) to browse the diverse and exciting line-up of sporting activities and begin your active journey.
+Visit the [ActiveSG website](https://www.activesgcircle.gov.sg/) to browse the diverse and exciting line-up of sporting activities and begin your active journey.
