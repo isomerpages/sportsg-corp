@@ -25,6 +25,31 @@ There is no cost for the evaluation BUT please note that a certification fee of 
 
 Please refer to appended summary table on the award of SG-Coach Theory accreditations:
 
+**| If the applicant has... | The SG-Coach Theory accreditation awarded to the applicant will likely be… |**
+| -------- | -------- |
+| Studied the following modules in his / her relevant academic / sports coaching certification(s):
+
+* Sports coaching / coaching practice; OR
+* Pedagogy
+
+AND accumulated minimum 10 years of sports coaching experience, of which the majority were in 1 or more of the following context:
+
+* National Youth Team
+* Professional Team (Age Group Squad)
+* Academy (Competitive)
+* Club (Competitive)
+* School (Competitive) | SG-Coach Level 2 Theory |
+
+| Studied the following modules in his / her relevant academic / sports coaching certification(s):
+
+* Sports coaching / coaching practice; OR
+* Pedagogy
+
+AND accumulated minimum 10 years of sports coaching experience, of which the majority were in 1 or more of the following context. The applicant should have minimally coached at the high performance level for at least 1 Olympic cycle or 4 
+years:
+
+* National Senior Team
+* Professional Team (Senior Squad) | SG-Coach Level 3 Theory |
 
 
 **VPS Accreditation**.
