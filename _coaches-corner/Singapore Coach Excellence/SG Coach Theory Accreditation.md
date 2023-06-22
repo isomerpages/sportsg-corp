@@ -38,7 +38,6 @@ If you have been a Ministry of Education (MOE) Physical Education (PE) teacher i
 3.  Complete VPS E-Learning topics and Coaching Philosophy Reflection via SportSG-ED
 
 Both VPS E-learning Certificate of Completion and Coaching Philosophy Reflection document must be submitted for CoachSG’s review and approval via [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg). A S$20.00 (including GST) fee will be charged for the processing of VPS accreditation certificates, which includes a SportSG-ED user licence fee.
-
-**Examination-Only Pathway.** In the event that the examination-only pathway is granted, there will be a charge of S$80.25 (including GST) – this test fee includes a course manual which will be mailed to the applicant 2 weeks before the examination. Please note that only **one** attempt can be made. This is a closed-book examination and reference to the course manual is not allowed during the examination. Individuals who do not pass the exam will have to go through the Theory course. Individuals who passed the exam will have to attend the [VPS workshop](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports) before he / she is eligible to receive the SG-Coach Theory (Accreditation) certificate.
+cate.
 
 Should applicants have further queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
