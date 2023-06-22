@@ -10,7 +10,10 @@ Both courses are part of the Singapore Coach Excellence (SG-Coach) Programme, a
 
 **Course Information and Registration**
 
-Further information on both courses will be **updated on this webpage at a later date.**
+Please register via:
+
+1. [Foundational Sport Science](https://www.rp.edu.sg/ace/short-course/Detail/foundational-sport-science-(fss))
+2. [Intermediate Sport Science](https://www.rp.edu.sg/ace/short-course/Detail/intermediate-sport-science-(iss))
 
 **[Foundational / Intermediate Sports Science Course Waivers](/coaches-corner/singapore-coach-excellence/foundational-intermediate-sports-science-course-waivers/)**
 
