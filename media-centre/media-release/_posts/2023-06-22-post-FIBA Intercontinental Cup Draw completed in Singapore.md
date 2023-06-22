@@ -8,8 +8,7 @@ image: ""
 ---
 ### **FIBA International Cup Draw completed in Singapore**
 
-
-
+![](/images/Media%20Centre/Media%20Release/2023/June/FIBA%20International%20Cup%20Draw/photo%20credit_%20singapore%20sports%20hub.jpg)
 
 SINGAPORE (Singapore) - The draw for the [FIBA Intercontinental Cup 2023](https://www.fiba.basketball/intercontinentalcup/2023) was completed on Tuesday, June 20, and the six participating clubs now know the path to winning the trophy in Singapore where the tournament will be held from September 21-24.
 
