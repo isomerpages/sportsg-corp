@@ -23,7 +23,7 @@ If you are interested in seeking for accreditation for SG-Coach Theory via reco
 
 There is no cost for the evaluation BUT please note that a certification fee of S$54.00 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applications, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via this [link](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports).
 
-Please refer to the attached summary table[]() on the award of SG-Coach Theory accreditations.
+Please refer to the summary table[]() on the award of SG-Coach Theory accreditations.
 
 **VPS Accreditation**.
 If you have been a Ministry of Education (MOE) Physical Education (PE) teacher in service from 2015 onwards, you will be exempted from VPS workshop but are required to complete the following steps to obtain VPS Accreditation, before being eligible to receive the VPS (Accreditation) certificate:
