@@ -19,24 +19,23 @@ Currently, Sport Singapore has a wide range of facilities that cater to an array
 
 Sport Singapore Facilities:
 
-*   26 [swimming complexes](https://www.myactivesg.com/Facilities/Swimming-Pools)
-*   24 [fitness gyms  
-    ](https://www.myactivesg.com/Facilities/Gyms)
-*   17 stadiums
-*   18 [indoor sports halls](https://www.myactivesg.com/Facilities?sport=All&q=&type=sports-hall) 
-*   11 [tennis centres](https://www.myactivesg.com/Facilities?sport=tennis)
-*   5 fields/ futsal centres 
-*   5 [squash centres](https://www.myactivesg.com/Facilities?sport=squash&q=&type=All)
-*   3 [hockey centres](https://www.myactivesg.com/Facilities?sport=hockey&q=&type=All)
-*   2 outdoor netball centres
+*   26 [swimming complexes](https://www.activesgcircle.gov.sg/facilities/swimming-pools)
+*   24 [fitness gyms](https://www.activesgcircle.gov.sg/facilities/gyms)
+*   17 [stadiums](https://www.activesgcircle.gov.sg/facilities)
+*   18 [indoor sports halls](https://www.activesgcircle.gov.sg/facilities) 
+*   11 [tennis centres](https://www.activesgcircle.gov.sg/facilities/tennis)
+*   5 [fields / futsal centres](https://www.activesgcircle.gov.sg/facilities)
+*   5 [squash centres](https://www.activesgcircle.gov.sg/facilities)
+*   3 [hockey centres](https://www.activesgcircle.gov.sg/facilities)
+*   2 [outdoor netball centres](https://www.activesgcircle.gov.sg/facilities)
 
 Dual-Use Scheme Facilities:
 
-*   65 [school fields](https://www.myactivesg.com/Facilities?sport=All&q=&type=fields)
-*   64 [Free-To-Play school facilities](https://www.myactivesg.com/Facilities?sport=All&q=&type=free-to-play)
-*   162 school sports halls
-*   2 basketball courts
-*   1 street soccer court 
+*   65 [school fields](https://www.activesgcircle.gov.sg/facilities)
+*   64 [Free-To-Play school facilities](https://www.activesgcircle.gov.sg/facilities)
+*   162 [school sports halls](https://www.activesgcircle.gov.sg/facilities)
+*   2 [basketball courts](https://www.activesgcircle.gov.sg/facilities)
+*   1 [street soccer court](https://www.activesgcircle.gov.sg/facilities)
 
 View our [Sport Centres](http://www.myactivesg.com/facilities) for a detailed list. 
 
