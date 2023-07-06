@@ -19,24 +19,24 @@ Currently, Sport Singapore has a wide range of facilities that cater to an array
 
 Sport Singapore Facilities:
 
-*   26 [swimming complexes](https://www.activesgcircle.gov.sg/facilities/swimming-pools)
-*   24 [fitness gyms](https://www.activesgcircle.gov.sg/facilities/gyms)
-*   17 [stadiums](https://www.activesgcircle.gov.sg/facilities)
-*   18 [indoor sports halls](https://www.activesgcircle.gov.sg/facilities) 
-*   11 [tennis centres](https://www.activesgcircle.gov.sg/facilities/tennis)
-*   5 [fields / futsal centres](https://www.activesgcircle.gov.sg/facilities)
-*   5 [squash centres](https://www.activesgcircle.gov.sg/facilities)
-*   3 [hockey centres](https://www.activesgcircle.gov.sg/facilities)
-*   2 [outdoor netball centres](https://www.activesgcircle.gov.sg/facilities)
+*   [Swimming complexes](https://www.activesgcircle.gov.sg/facilities/swimming-pools)
+*   [Fitness Gyms](https://www.activesgcircle.gov.sg/facilities/gyms)
+*   [Stadiums](https://www.activesgcircle.gov.sg/facilities)
+*   [Indoor Sports halls](https://www.activesgcircle.gov.sg/facilities) 
+*   [Tennis Centres](https://www.activesgcircle.gov.sg/facilities/tennis)
+*   [Fields / Futsal centres](https://www.activesgcircle.gov.sg/facilities)
+*   [Squash Centres](https://www.activesgcircle.gov.sg/facilities)
+*   [Hockey Centres](https://www.activesgcircle.gov.sg/facilities)
+*   [Outdoor Netball centres](https://www.activesgcircle.gov.sg/facilities)
 
 Dual-Use Scheme Facilities:
 
-*   65 [school fields](https://www.activesgcircle.gov.sg/facilities)
-*   64 [Free-To-Play school facilities](https://www.activesgcircle.gov.sg/facilities)
-*   162 [school sports halls](https://www.activesgcircle.gov.sg/facilities)
-*   2 [basketball courts](https://www.activesgcircle.gov.sg/facilities)
-*   1 [street soccer court](https://www.activesgcircle.gov.sg/facilities)
+*   [School Fields](https://www.activesgcircle.gov.sg/facilities)
+*   [Free-To-Play School Facilities](https://www.activesgcircle.gov.sg/facilities)
+*   [School Sports Halls](https://www.activesgcircle.gov.sg/facilities)
+*   [Basketball Courts](https://www.activesgcircle.gov.sg/facilities)
+*   [Street Soccer Court](https://www.activesgcircle.gov.sg/facilities)
 
-View our [Sport Centres](http://www.myactivesg.com/facilities) for a detailed list. 
+View our [Sport Centres](https://www.activesgcircle.gov.sg/facilities/sport-centres) for a detailed list. 
 
 To book a facility, please login to [ActiveSG membership system](https://members.myactivesg.com/).
