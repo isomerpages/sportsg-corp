@@ -18,23 +18,20 @@ Direct Waiver for the FSS and ISS courses is given to those who have graduated f
 6. Republic Polytechnic’s Part-Time Diploma in Sports (Coaching)
 7. Nanyang Polytechnic’s Diploma in Sport and Wellness Management
 8. Singapore Polytechnic's 'Introduction to Sports and Exercise Science' Module
+9. PSB Academy Edinburgh Napier University (ENU) Bachelor of Science (Sport and Exercise Science)
+10. PSB Academy Diploma in Sport and Exercise Science
+11. PSB Academy Diploma in Sport and Exercise Science (Sports Coaching)
 
-Applicants who graduated from the above institutions holding similar certifications, but higher than the above listed courses (e.g. Masters) may also be given direct waivers on a case-by-case basis. Applicants who are granted FSS + ISS Direct Waiver are exempted from paying the administrative fee.
+Applicants who graduated from the above institutions holding similar certifications, but higher than the above listed courses (e.g. Masters) may also be given direct waivers on a case-by-case basis. Applicants who are granted ISS Direct Waiver are exempted from paying the administrative fee.
 
 **For other certifications**:
 
 Individuals with a Diploma / Postgraduate Diploma / Degree in “**Sports Science**” or “**Sports and Exercise Science**” or “**Sports Coaching**” from other institutions will be reviewed by an accreditation panel.
 
-The accreditation panel will review application for waiver of Sports Science certification based on the submitted degree, diploma, and post-graduate programmes and their accompanying transcripts. Based on the evaluation, the applicant will be given either a waiver from FSS and / or ISS course attendance, the option to pursue an examination pathway to demonstrate proficiency, or be required to attend the course itself (at full cost).
+The accreditation panel will review application for waiver of Sports Science certification based on the submitted degree, diploma, and post-graduate programmes and their accompanying transcripts. Based on the evaluation, the applicant will be given either a waiver from FSS and / or ISS course attendance or be required to attend the course itself (at full cost).
 
-If you are interested in seeking accreditation for FSS + ISS via recognition of prior learning, please send an e-mail to [sport\_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg) with the following. Please note that all submitted documents must be in English or translated to English:
+If you are interested in seeking for accreditation for ISS via recognition of prior learning, please apply via this [link](https://go.gov.sg/rplapplicationform).
 
-1. [Application](/files/Support/Coaches'%20Corner/Singapore%20Coach%20Excellence/FSS%20ISS%20and%20SGCoach%20Theory%20Accreditation%20Application%20Form.pdf)
-2. Diploma / Degree / Postgraduate in “**Sports Science**” or “**Sports and Exercise Science**” or “**Sports Coaching**” and the course transcripts
-3. Any other supporting documents
-
-There is no cost for the evaluation BUT please note that a certification fee of S$53.50 (including GST) will be charged If an FSS + ISS waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the FSS and ISS courses.
-
-**Examination-Only Pathway**. In the event that the FSS and / or ISS examination-only pathway(s) is / are granted, there will be a charge of S$80.25 (including GST) per exam – this test fee includes access to FSS and / ISS course material which will be shared with the applicant 2 weeks before the examination. Please note that only one attempt can be made. This is a closed-book examination and reference to the course materials is not allowed during the examination. Individuals who do not pass the examination will have to go through the FSS and / or ISS course(s) in full.
+There is no cost for the evaluation BUT please note that a certification fee of S$54.00 (including GST) will be charged If an ISS waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the FSS and ISS courses.
 
 Should applicants have further queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
