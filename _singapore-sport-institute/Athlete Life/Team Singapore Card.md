@@ -4,7 +4,7 @@ permalink: /singapore-sport-institute/athlete-life/team-singapore-card/
 description: ""
 third_nav_title: Athlete Life
 ---
-![Team Singapore Card](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsingaporecard.jpeg)
+![Team Singapore Card](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsg%20card%20partners%20for%202023%20-%20jun%20update.jpg)
 Singapore Sport Institute collaborates with corporate companies and retail outlets to provide various forms of privileged discounts and incentives for the benefits of Team Singapore Athletes, in supporting them to achieve excellence in their sporting journey.  
   
 On 13 January 2016, Singapore Sport Institute launched the Team Singapore Card for Team Singapore Athletes.  
@@ -12,7 +12,7 @@ On 13 January 2016, Singapore Sport Institute launched the Team Singapore Card f
 The Team Singapore rewards card was subsequently made available via the ActiveSG app as an electronic card (e-Card) to all newly carded and Major Games athletes from July 2019.
 
 **Our Card Partners include:**
-![Our Card Partners](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsg_card_mar2023.jpeg)
+![Our Card Partners](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsg%20card%20partners%20for%202023%20-%20partners%20logo.jpg)
 Singapore Sport Institute would like to thank our valued card partners for supporting our athletes in achieving their goals. Whether it is sports, lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits and privileges ranging from sporting apparel, footwear and accessories to lifestyle products. In addition, our athletes can enjoy up to 20% discount at selected dining choices at Kallang Wave Mall and Kallang Leisure Park which are ideally located within the Sport Hub. Some of the reward privileges also extend to various participating outlets across Singapore.
 
 <hr>
@@ -52,6 +52,12 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 <hr>
 
 #### **DINING**
+##### **ANDO**
+*   10% discount off his/her total bill at ANDO, located at Kallang Leisure Park (#01-30).
+*   Offer cannot be used in conjunction with any other existing promotions or discounts at ANDO.
+*   TS Rewards Card must be presented prior to payment and valid discount code must be keyed in during the checking out process of the QR code ordering for the discount to be valid.
+*   Offer is valid till 31 December 2023.
+
 ##### **CHICHA SAN CHEN**
 *   5% discount off Food &amp; Beverages items at CHICHA San Chen at level 1 of Kallang Wave Mall
 *   Offer cannot be used in conjunction with any other existing promotions or discounts at CHICHA San Chen
@@ -68,6 +74,13 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   10% on all Food and Beverages items at My Kampung, level 2 of Kallang Wave Mall.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Offer is valid till 31 December 2023.
+
+##### **PLAY @ DPS**
+*   20% discount off selected Food and Beverages items at PLAY @ DPS at EXP Esports Experience Centre, level 2 of Kallang Wave Mall.
+*   Discount is not valid for all alcoholic drinks. 
+*   TS Rewards Card must be presented prior to payment for the discount to be valid.
+*   Offer cannot be used in conjunction with any existing promotions or discounts at the store unless otherwise stated.
+*   Offer is valid till 31 December 2024.
 
 ##### **PRESOTEA**
 *   15% discount on all food &amp; beverages at Presotea at Kallang Leisure Park.

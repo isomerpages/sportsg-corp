@@ -147,9 +147,9 @@ The CDG application process is described below. Coaches must submit their applic
 
 **For applications as NROC Coaches / Coach Developers**
 
-Applicant to submit completed application form and supporting documents via [OurSG Grant portal] (https://oursggrants.gov.sg/) for SportSG’s review
+Applicant to submit completed application form and supporting documents via [OurSG Grants Portal](https://oursggrants.gov.sg/) for SportSG’s review.
 SportSG will consult the relevant NSA on the application. Approval or disapproval of the application will be at the sole discretion of SportSG following consultation with the NSA
-SportSG will communicate application outcome  via [OurSG Grant portal] (https://oursggrants.gov.sg/)
+SportSG will communicate application outcome  via [OurSG Grants Portal](https://oursggrants.gov.sg/).
 All CDG-related agreement will be between CoachSG and the applicant only. CoachSG may also request the applicant provide up to 3 character references in support of the application.
 
 **List of Required Documents**
@@ -178,7 +178,7 @@ False declaration in any form may effect immediate disqualification from the gra
 
 The CDG Terms and Conditions is subjected to periodic review.
 
-With effect from 1 September 2020, individual sport coaches may apply for the Coach Development Grant (CDG) via [OurSG Grant portal] (https://oursggrants.gov.sg/) – a one-stop portal to apply for government grants that support arts, community, heritage, social good, sports and youth. If you have any further queries about CDG, you may contact us at [Sport_Coaching@sport.gov.sg](mailto:Sport_Coaching@sport.gov.sg) or visit:
+With effect from 1 September 2020, individual sport coaches may apply for the Coach Development Grant (CDG) via [OurSG Grants Portal](https://oursggrants.gov.sg/) – a one-stop portal to apply for government grants that support arts, community, heritage, social good, sports and youth. If you have any further queries about CDG, you may contact us at [Sport_Coaching@sport.gov.sg](mailto:Sport_Coaching@sport.gov.sg) or visit:
 
 **Coaching Development**
 

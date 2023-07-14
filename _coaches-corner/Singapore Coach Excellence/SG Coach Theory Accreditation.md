@@ -10,8 +10,13 @@ Direct Waiver for the SG-Coach Level 1 Theory course is given to those who have 
 2.  Republic Polytechnic's Diploma in Sport and Exercise Science (VPS Integrated)\*
 3.  Republic Polytechnic's Diploma in Sports Coaching (VPS Integrated)\*
 4.  Republic Polytechnic's Part-Time Diploma in Sports (Coaching) (VPS Integrated)\*
+5.  International Management and Sports College Pte Ltd (IMSC) Diploma in Sports Science and Coaching (DSSC)\"
 
 \*The waiver takes effect for AY17 intake of students onwards.
+
+\"With IMSC Fitness Nutrition Course + CoachSG's Safe Sport e-module
+
+All curriculum listed as Direct Waivers on this webpage have been approved by CoachSG following a rigorous curriculum review process.
 
 For other candidates who do not possess the above qualifications, the two methods for SG-Coach Theory Accreditation are:
 
