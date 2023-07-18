@@ -6,7 +6,7 @@ layout: post
 description: Singapore joins HSBC SVNS Revolution
 image: ""
 ---
-![Rugby](/images/Media%20Centre/Media%20Release/2023/July/hsbc%20singapore%20rugby%20sevens%202023_02%20photo%20by%20team%20nila%20content%20producer,%20johnny%20tay.jpg)
+![hsbc-singapore-rugby-sevens-2023](/images/Media%20Centre/Media%20Release/2023/July/hsbc%20singapore%20rugby%20sevens%202023_02%20photo%20by%20team%20nila%20content%20producer,%20johnny%20tay.jpg)
 Photo credit: Team Nila Content Producer, Johnny Tay
 
 **Singapore, 18 July 2023 –** Singapore has been confirmed as one of the eight iconic destinations to host HSBC SVNS, World Rugby’s revamped and rebranded global celebration of rugby sevens that was launched today.
@@ -18,7 +18,7 @@ Starting from December 2023, SVNS festivals will provide the annual platform for
 Located in the heart of Southeast Asia, Singapore is a thriving tropical metropolis with a robust calendar of unique experiences to suit every interest. The city is easy to get around to experience its vibrant events, festivals, and experiences that reflect our multi-cultural heritage, and feed diverse passions across the arts, history, food, music, shopping and sports.
 
 **HBSC SVNS – Festival Dates**  
-
+![hsbc-svns-calendar](/images/Media%20Centre/Media%20Release/2023/July/hsbc%20svns%20caledar.jpg)
 _All dates and venues correct at time of publication and are subject to change._
 
 For the latest information on tickets, fans should visit the [new SVNS.com](https://www.svns.com/en/events/singapore) to find out more.
