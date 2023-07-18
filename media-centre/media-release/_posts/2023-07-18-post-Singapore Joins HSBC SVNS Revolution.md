@@ -6,7 +6,6 @@ layout: post
 description: Singapore joins HSBC SVNS Revolution
 image: ""
 ---
-
 ![Rugby](/images/Media%20Centre/Media%20Release/2023/July/hsbc%20singapore%20rugby%20sevens%202023_02%20photo%20by%20team%20nila%20content%20producer,%20johnny%20tay.jpg)
 
 **Singapore, 18 July 2023 –** Singapore has been confirmed as one of the eight iconic destinations to host HSBC SVNS, World Rugby’s revamped and rebranded global celebration of rugby sevens that was launched today.
