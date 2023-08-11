@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![oes-taekwondo-finals](/images/Media%20Centre/Media%20Release/2023/June/OEW%202023/25%20june%20oew%202023%20taekwondo%20finals.JPG)
 Taekwondo player Nigel Tan from Singapore celebrating after winning the Olympic Esports Series 2023 Taekwondo event. Photo credit: Olympic Esports Week 2023 Local Organising Committee
 
@@ -15,5 +14,3 @@ Taekwondo player Nigel Tan from Singapore celebrating after winning the Olympic 
 Said Nigel: “It was a tough but good fight. It was definitely tiring, we trained quite hard for this and it was super tiring, but it was a good fight. I think Natalie and (third-placed winner) Wu Jingyu did super well also. It feels good that it was an all-Singaporean final and there was so much support. I didn’t expect such a big crowd, I knew there was going to be a big crowd, but I didn’t think it was going to be like packed to the brim. 
 
 “I've definitely thought about (becoming the winner) in my hotel room, I was thinking about it and hoping maybe it could come true. We worked quite hard for this, especially the Refract team who made this all possible in the first place with their system.”
-
-Sunday’s Olympic Esports Series winners at the Suntec Singapore Convention & Exhibition Centre are as follows:
