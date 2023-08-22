@@ -28,6 +28,8 @@ permalink: /privacy/
 
 6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.&nbsp; We are not responsible for the content and privacy practices of these other digital services and we encourage you to consult the privacy notices of those digital services.
 
+<u>Contact information</u>
+
 7. Please contact us at&nbsp;[sport_qsm@sport.gov.sg](mailto:sport_qsm@sport.gov.sg)&nbsp;if you:
 
 	(a) have any enquires or feedback on our data protection, policies and procedures; or
