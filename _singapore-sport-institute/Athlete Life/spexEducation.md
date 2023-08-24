@@ -48,7 +48,7 @@ Enquire:&nbsp;[enquire@nysi.org.sg](mailto:enquire@nysi.org.sg)
 
 We currently have 17 Institutes of Higher Learning who have come on board as our spexEducation Partners to promote various forms of academic flexibility for our student-athletes:
 
-![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/IHL_logo_collage_2022.jpeg)
+![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/2023%20spexedu%20partners%20collage.JPG)
 
 | Institutions | Scholarships |
 | -------- | -------- | 
