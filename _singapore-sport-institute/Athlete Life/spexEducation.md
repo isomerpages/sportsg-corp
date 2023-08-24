@@ -4,7 +4,7 @@ permalink: /singapore-sport-institute/athlete-life/spexeducation/
 description: ""
 third_nav_title: Athlete Life
 ---
-![2023 collage](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/2023%20spexedu%20partners%20collage.JPG)
+![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/spexEducation-15-Apr.png)
 **Singapore Sport Institute (SSI)** and the National Youth Sports Institute (NYSI) are the nation’s premier institutes for the development of high performance sports and nurturing of elite athletes and elite student-athletes. Athlete Life carries out SSI’s and NYSI’s mission of developing Singapore’s athletes and student-athletes holistically in key areas of education, career, life skills and developing them to be Athlete Ambassadors for Team Singapore. 
 
 Athlete Life’s mandate focuses on helping athletes to strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. The Sports Excellence (*Spex*) Education Scheme is a customised scheme that develops a more holistic and robust system of support for student-athletes to cope effectively with the dual demands of sports and their education. 
@@ -48,7 +48,7 @@ Enquire:&nbsp;[enquire@nysi.org.sg](mailto:enquire@nysi.org.sg)
 
 We currently have 17 Institutes of Higher Learning who have come on board as our spexEducation Partners to promote various forms of academic flexibility for our student-athletes:
 
-![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/IHL_logo_collage_2022.jpeg)![2023 spexeducation partners logo collage](/images/2023%20spexedu%20partners%20collage.PNG)
+![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/2023%20spexedu%20partners%20collage.JPG)
 
 | Institutions | Scholarships |
 | -------- | -------- | 
