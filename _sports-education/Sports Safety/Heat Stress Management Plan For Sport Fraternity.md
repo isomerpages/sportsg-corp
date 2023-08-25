@@ -4,11 +4,11 @@ permalink: /sports-education/sports-safety/heat-stress-management-plan-for-sport
 description: ""
 third_nav_title: Sports Safety
 ---
-<u>**Background**</u>
+**Background**
 
 Since 2016, the Homefront (i.e., ministries/statutory boards) has relied on a Heatwave Contingency Plan that was based on temperatures reaching up to 35°C over a prolonged period. &nbsp;However, learning from the severity of 2022’s heatwave episodes in Europe and China and more severe climate change projections, MSE has formed a workgroup comprising representatives from MOE, MOH, MOM, NEA, MCCY, PA, SportSG, to review and align contingency plans for the Homefront. SportSG has since updated the Heat Stress Management Plan for reference and use by the sports fraternity.
 
-<u>**Climate Change**</u>
+**Climate Change**
 
 Many countries in the world including Singapore, are seeing rising temperatures. According to NEA, the last ten years from 2013 to 2022 was Singapore’s warmest decade on record. On 13 May 2023, Ang Mo Kio recorded a 37 degrees Celsius air temperature, similar to the record set on 17 April 1983. It is therefore important for the sporting fraternity to prepare and adapt to rising temperatures. This Plan aims to help the sporting fraternity better prepare, plan and respond during severe hot weather and reduce heat injury risks in sport. It also provides information for persons participating in outdoor activities especially during heightened levels of heat stress.
 
