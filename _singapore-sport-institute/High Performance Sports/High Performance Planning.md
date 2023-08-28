@@ -31,6 +31,7 @@ Consideration for High-Performance Sports pathway support is based on the athlet
 **Sport Excellence Scholarship (*spex*Scholarship) and Sport Excellence Potential (*spex*Potential) Programmes**
 
 The Sport Excellence Scholarship (*spex*Scholarship) and the Sport Excellence Potential (*spex*Potential) programmes provide an enhanced level of support for athletes within the High Performance Sports (HPS) pathway. These include both financial and programmatic support to prepare athletes to excel at the Major Games. In addition to developing athletes' sporting potential, both programmes will also assist athletes in their education, career, and personal development.
+
 Ultimately, we aim to develop athletes to take on leadership roles in their respective communities, serving as role models for Singapore's youth.
 
 **Nominations**
