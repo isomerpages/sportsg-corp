@@ -26,12 +26,11 @@ All athletes must be nominated by their respective National Sports Associations 
 
 **Multiple Achievements:**
 
-Consideration for High-Performance Sports pathway support is based on the athlete’s profile / potential to achieve at the Major games or its equivalent. Performance is assessed based on the athlete’s holistic achievement profile and not on just a single point of achievement during the assessment period.
+Consideration for High-Performance Sports pathway support is based on the athlete’s profile / potential to achieve at the Major games or its equivalent. Performance is assessed based on the athlete’s holistic achievement profile and not on just a single point of achievement during the 
+assessment period.
 
-**Sport Excellence Scholarship (*spex*Scholarship) and Sport Excellence 
+**Sport Excellence Scholarship and Sport Excellence Potential Programmes**
 
-Potential (*spex*Potential) Programmes**
-**Sport Excellence Scholarship (*spex*Scholarship) and Sport Excellence Potential ()**
 
 The Sport Excellence Scholarship (*spex*Scholarship) and the Sport Excellence Potential (*spex*Potential) programmes provide an enhanced level of support for athletes within the High Performance Sports (HPS) pathway. These include both financial and programmatic support to prepare athletes to excel at the Major Games. In addition to developing athletes' sporting potential, both programmes will also assist athletes in their education, career, and personal development.
 
