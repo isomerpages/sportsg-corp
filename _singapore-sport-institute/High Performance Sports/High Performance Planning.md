@@ -43,6 +43,7 @@ Each year, the *spex*Scholarship is open to nominations by any NSA. For FY 2024,
 **Submission Guidelines:**
 
 Please download and read all files carefully before submission. Incomplete and/or self-nominations will not be considered.
+
 [2024 HPS handbook](/files/Our%20Work/Singapore%20Sports%20Institute/High%20Performance%20Planning/2024singapore%20high%20performance%20sports%20handbook%20version10%20.pdf)
 
 [FY24 spexPotential nomination](/files/Our%20Work/Singapore%20Sports%20Institute/High%20Performance%20Planning/fy24%20spexpotential%20nomination%20guidelines.pdf)
