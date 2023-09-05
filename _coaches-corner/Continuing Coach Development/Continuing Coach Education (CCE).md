@@ -92,7 +92,7 @@ From 1 May 2018, Self-Guided CCE hours will be included as part of the Continuin
 
 Recognition of Self-Guided CCE hours encourages coaches to be self-directed learners, especially since coaches may have learning needs specific to their sport and context. In addition, Self-Guided CCE hours gives coaches additional flexibility in fulfilling CCE hours requirement. Critical self-reflection is vital to the continued success of coaches as coaches often learn without the direct guidance of others during coaching activities. Self-Guided CCE hours will allow coaches to reflect upon and record these learning from their day-to-day coaching practices.&nbsp;
 
-FAQs on this update can be found&nbsp;[here](/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Continuing%20Coach%20Education/FAQs.pdf).
+FAQs on this update can be found [here](/files/Coaches%20Corner/Continuing%20Coach%20Development/frequently%20asked%20questions%20-%20cce.pdf).
 
 **Table 1 - New CCE Hours Requirement**
 
