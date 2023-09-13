@@ -21,7 +21,7 @@ Singapore, 29 August 2023 – Sport Singapore (SportSG) today announced the Spor
 
 Both spexScholarship and spexPotential programmes provide financial and programmatic support for athletes within the High Performance Sports (HPS) pathway. These include a monthly stipend, as well as support for local and overseas training and competitions, sport science and medicine, education, career and personal development. (Please see Table 1 for an overview of the different carding levels within both spexScholarship and spexPotential programmes).
 
-
+![new-spexpotential-programme-nurtures-athletes-early-for-sustained-sporting-successes](/images/new-spexpotential-programme-nurtures-athletes-early-for-sustained-sporting-successes%20.png)
 
 The spexPotential programme will complement existing athlete development initiatives and support structures (e.g. spexCarding) to boost athlete performances. The Singapore Sport Institute (SSI) and National Youth Sports Institute (NYSI) will jointly deliver the support to spexPotential athletes. 
 
