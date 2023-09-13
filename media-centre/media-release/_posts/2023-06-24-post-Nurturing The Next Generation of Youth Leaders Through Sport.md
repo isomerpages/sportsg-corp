@@ -15,8 +15,6 @@ description: Singapore, 24 June 2023 – It was a night to remember as the STEP
   participants who demonstrated outstanding leadership.
 image: ""
 ---
-Celebrating diversity amongst 130 youth sport leaders across 16 Southeast Asia countries
-
 ![nurturing-the-next-generation-of-youth-leaders-through-sport](/images/nurturing-the-next-generation-of-youth-leaders-through-sport.png)
 
 (from left to right) Mr Chris Chan, Secretary General, Singapore Olympic Foundation, Mr Ng Boon Heong, Chief Executive Officer, Temasek Foundation and Mr Toh Boon Yi, Deputy Chief Executive Officer, Sport Singapore launching the STEP Southeast Asia Youth Sports Leaders Camp at the Opening Ceremony on 16 June 2023.
