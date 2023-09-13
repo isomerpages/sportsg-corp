@@ -14,10 +14,10 @@ description: Sport Singapore (SportSG) today announced the Sport Excellence
   nurture athletes early for sustained sporting success.
 image: ""
 ---
-•	New programme will enhance the levels of support offered by the High Performance Sports system for TeamSG athletes at the SEA Games level and beyond, with a longer term goal of preparing them for the Asian and World Levels.
-•	spexPotential will also strengthen the youth-to-senior athlete transition via a more seamless support structure.
+* New programme will enhance the levels of support offered by the High Performance Sports system for TeamSG athletes at the SEA Games level and beyond, with a longer term goal of preparing them for the Asian and World Levels.
+* spexPotential will also strengthen the youth-to-senior athlete transition via a more seamless support structure.
 
-Singapore, 29 August 2023 – Sport Singapore (SportSG) today announced the Sport Excellence Potential (spexPotential) – a new programme that provides an enhanced level of support to prepare athletes for gold medal success at the Southeast Asian (SEA) Games level, with the longer term aim of transitioning these athletes into the Sport Excellence Scholarship (spexScholarship) programme<sup>1</sup>. The introduction of spexPotential – which offers a more seamless support structure – will also strengthen the support for youth-to-senior athlete transition and nurture athletes early for sustained sporting success.
+**Singapore, 29 August 2023** – Sport Singapore (SportSG) today announced the Sport Excellence Potential (spexPotential) – a new programme that provides an enhanced level of support to prepare athletes for gold medal success at the Southeast Asian (SEA) Games level, with the longer term aim of transitioning these athletes into the Sport Excellence Scholarship (spexScholarship) programme<sup>1</sup>. The introduction of spexPotential – which offers a more seamless support structure – will also strengthen the support for youth-to-senior athlete transition and nurture athletes early for sustained sporting success.
 
 Both spexScholarship and spexPotential programmes provide financial and programmatic support for athletes within the High Performance Sports (HPS) pathway. These include a monthly stipend, as well as support for local and overseas training and competitions, sport science and medicine, education, career and personal development. (Please see Table 1 for an overview of the different carding levels within both spexScholarship and spexPotential programmes).
 
