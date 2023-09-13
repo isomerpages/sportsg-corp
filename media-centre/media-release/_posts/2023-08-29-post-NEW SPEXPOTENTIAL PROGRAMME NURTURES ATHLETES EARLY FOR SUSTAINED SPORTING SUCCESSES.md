@@ -38,6 +38,4 @@ Mr Toh Boon Yi, Chairman of the spexPotential Approval Panel and Deputy Chief Ex
 
 Applications for the spexPotential programme will begin from 1 September 2023 for a period of two months, and will be held concurrently with the spexScholarship programme. All eligible nominations for the spexPotential programme will be evaluated by the NYSI. Shortlisted candidates will be interviewed by an Interview Panel made up of a pool of sport specialists from NYSI. Following which, the Interview Panel’s recommendations will be submitted to the spexPotential Selection Committee for approval. All nominated athletes will be informed of the outcome of their spexPotential application by 28 February 2024.
  
-For more information on spexScholarship and spexPotential, kindly refer to the High Performance Sports Handbook here.  
-
-
+For more information on spexScholarship and spexPotential, kindly refer to the High Performance Sports Handbook [here](https://www.sportsingapore.gov.sg/files/Our%20Work/Singapore%20Sports%20Institute/High%20Performance%20Planning/2024singapore%20high%20performance%20sports%20handbook%20version10%20.pdf).
