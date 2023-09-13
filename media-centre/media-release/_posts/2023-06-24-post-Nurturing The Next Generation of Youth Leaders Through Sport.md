@@ -17,11 +17,11 @@ image: ""
 ---
 Celebrating diversity amongst 130 youth sport leaders across 16 Southeast Asia countries
 
-
+![nurturing-the-next-generation-of-youth-leaders-through-sport](/images/nurturing-the-next-generation-of-youth-leaders-through-sport.png)
 
 (from left to right) Mr Chris Chan, Secretary General, Singapore Olympic Foundation, Mr Ng Boon Heong, Chief Executive Officer, Temasek Foundation and Mr Toh Boon Yi, Deputy Chief Executive Officer, Sport Singapore launching the STEP Southeast Asia Youth Sports Leaders Camp at the Opening Ceremony on 16 June 2023.
 
-Singapore, 24 June 2023 – It was a night to remember as the STEP Southeast Asia Youth Sport Leaders Camp (STEP SEAYSLC) 2023 drew to a close. Animated chatter and positive energy lit up the finale dinner at HomeTeamNS Bedok Reservoir and it was easy to see why. 130 youth sport leaders could hardly contain their excitement as the night progressed with creative performances centred around the Olympic values of “Excellence”, “Friendship” and “Respect”. Cheering on their teammates, the camp ended on a high note for the youth leaders with guest-of-honour Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law presenting awards to 12 participants who demonstrated outstanding leadership. 
+**Singapore, 24 June 2023** – It was a night to remember as the STEP Southeast Asia Youth Sport Leaders Camp (STEP SEAYSLC) 2023 drew to a close. Animated chatter and positive energy lit up the finale dinner at HomeTeamNS Bedok Reservoir and it was easy to see why. 130 youth sport leaders could hardly contain their excitement as the night progressed with creative performances centred around the Olympic values of “Excellence”, “Friendship” and “Respect”. Cheering on their teammates, the camp ended on a high note for the youth leaders with guest-of-honour Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law presenting awards to 12 participants who demonstrated outstanding leadership. 
 
 In his welcome address at the finale dinner, Mr Kon Yin Tong, Chairman of Sport Singapore, said, “Along the way, many of you would have exchanged personal experiences and learnt from the shared takeaways. Singapore is a small country but one that is rich in heritage and culture. It is very heartening to see all of you displaying maturity and humility while embracing cultural differences in today’s globalised world. We hope the camp was able to help you discover more about yourself, unleash your potential, and elevate your leadership capabilities. More importantly, we hope all of you had fun and made many new friends during and beyond the camp.”
 
