@@ -24,7 +24,7 @@ The GASG 2023 launch held in conjunction with the Civil Service Club Public Serv
 
 “This eighth edition of GASG is special because this year is also SportSG’s 50th anniversary. We are celebrating these milestones with more play offerings at our ActiveSG Sport Centres in our heartlands as well as our Sports Hub, so that our community can participate actively and bond through sport. All these have been possible only because we have like-minded partners such as our NDP Exco, our new Sports Hub team and our purple army of Team Nila volunteers all working together. Beyond GASG, there will be more international sporting events, programmes and activities lined up, so do keep a lookout,” said Mr Alan Goh, Chief Executive Officer, SportSG.
 
-<u>**Something for everyone at GASG 2023**</u>
+**<u>Something for everyone at GASG 2023</u>**
 
 **GASG Sport Festivals and Heartland Festivals**
 A Sport Festival extravaganza will take place on the weekends between 29 July to 6 August at five ActiveSG Sport Centres<sup>1</sup>. On 29th and 30th July, water sport enthusiasts can take part in various water sports and fitness activities at the GASG Sport Festivals organised by Team Nila volunteers. Participants can challenge themselves to complete the swimming challenge and water obstacle course or try their hand at canoeing, stand-up paddling, water rock climbing, aqua aerobics and many more. There will also be food and beverage booths and goodie bags up for grabs! On 5th and 6th August, keep fit and have fun at the GASG Heartland Festivals<sup>2</sup> – this collaboration with NDP will include sports try-outs, exhibitions, performances, and activities for families. Check out the festivals here: [Sport Festivals](https://www.activesgcircle.gov.sg/getactive-singapore/sport-festivals) and [Heartland Festivals](https://www.activesgcircle.gov.sg/getactive-singapore/heartland-festivals)
@@ -40,7 +40,7 @@ At the Active Health experiential zone, visitors who have completed the Active H
 **GetActive! Workout 2023: Dance Of The Nation**
 What’s GASG without the popular GetActive! Workout 2023: Dance Of The Nation? The GetActive! Workout 2023: Dance Of The Nation remains a staple in every GASG campaign, to rally Singaporeans to keep active through dance fitness, no matter where they are. Similar to last year, Singaporeans and residents are encouraged to submit a video of themselves, family or friends performing the dance moves together, to the NDP 2023 Theme Song, “Shine Your Light”. Participants can share their dance on their Instagram<sup>3</sup> or TikTok<sup>4</sup>  with the hashtags #DanceOfTheNation and #DOTN23 to be eligible for the NDP-organised contest and lucky draw. Watch the new GASG Workout 2023 video here: [GetActive! Workout 2023: Dance Of The Nation](https://www.activesgcircle.gov.sg/getactive-singapore).
 
-<u>**Majulah Fiesta at the Singapore Sports Hub**</u>
+**<u>Majulah Fiesta at the Singapore Sports Hub</u>**
 
 **Seniors’ Sports Day and Launch of ActiveX**
 Seniors’ Sports Day will return for its third edition on 3rd August 2023, this time with school children joining the seniors in the sport try-outs and playing reimagined kampung games such as Bola Tin Soccer and Bullseye Chapteh. This encourages bonding between seniors and youths and supports seniors to improve their fundamental movement skills while playing their favourite childhood games. 
@@ -50,13 +50,13 @@ The one-day event will also see the launch of ActiveX, a new initiative that pro
 **Nurture Kids Festival and Launch of Fun Smart** Move Smart – Learning to Move, Moving to Learn resource guide (2023 Edition)
 The Nurture Kids Festival will host its first full-fledged physical event since the Covid-19 pandemic on 4 August 2023. There will be a National Day Observance Ceremony, GASG Dance of the Nation Workout, and engaging fundamental movement skills (FMS) inspired activities for pre-schoolers. The Fun Start Move Smart – Learning to Move, Moving to Learn resource guide (2023 Edition) will also be launched at the event. The resource guide presents a key shift in focus, from learning FMS in isolation to using movement to build a strong foundation in FMS for pre-schoolers, with the aim of supporting children towards a healthy and active lifestyle.
  
-**Lion City Dance Convention and YouthCreates Ramp It Up Competition**
+**Lion City Dance Convention and Youth Creates Ramp It Up Competition**
 Feeling groovy? Catch exhilarating dance performances at the Lion City Dance Convention and skateboarding tricks at the YouthCreates Ramp It Up Competition, which will take place at the OCBC Square and SportSG Auditorium from 29 July to 9 August 2023. The 12-day event will feature a series of street dance competitions, battles, workshops, and even a music festival where local and international artistes and DJs will take to the stage and enthral the crowd. It will also see the return of the YouthCreates Ramp It Up Skateboarding MiniRamp Competition and the Shredder Series skateboarding clinics for competitive skaters and those who would like to learn the basics of skateboarding respectively. 
 
 **Majulah Fiesta Finale**
 It will be a full day of activities and entertainment for all ages to celebrate the nation’s 58th birthday at the Majulah Fiesta Finale. Patrons will be able to experience interactive virtual activities, engaging workouts, thrilling games, creative workshops, and delicious food. Families and friends can also gather at the OCBC Square and Stadium Roar for a delightful picnic to accompany the exhilarating National Day Parade live broadcast. Finish the day with a bang as night falls, and enjoy the awesome live fireworks display at the Singapore Sports Hub - a fitting finale to this memorable celebration.
 
-<u>**Going Green at GASG 2023**</u>
+**<u>Going Green at GASG 2023</u>**
 
 In support of the Singapore Green Plan for a resilient future and sustainable living, SportSG will continue to prioritise eco-friendly options and drive outreach efforts to raise environmental awareness. At GASG 2023, organisers will reduce single use plastic bottles reuse, and recycle venue pressing and sports equipment, amongst other 
 sustainability efforts. 
