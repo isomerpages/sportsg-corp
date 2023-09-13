@@ -23,13 +23,6 @@ Both spexScholarship and spexPotential programmes provide financial and programm
 
 
 
-
-| Programme | Levels | Focus |
-| -------- | -------- | -------- |
-| spexScholarship   |** S1**   | Top 8 in World (Top 25% where &lt;32)  |
-| spexScholarship   |** S1P**   | Top 8 in World (Top 25% where &lt;32)  |
-
-
 The spexPotential programme will complement existing athlete development initiatives and support structures (e.g. spexCarding) to boost athlete performances. The Singapore Sport Institute (SSI) and National Youth Sports Institute (NYSI) will jointly deliver the support to spexPotential athletes. 
 
 Mr Toh Boon Yi, Chairman of the spexPotential Approval Panel and Deputy Chief Executive Officer of Sport Singapore, said, “Singapore’s HPS system needs to continually evolve so that it takes into account the aspiration and commitment of various cohorts of sporting talents who are at different stages of their development pathways.
