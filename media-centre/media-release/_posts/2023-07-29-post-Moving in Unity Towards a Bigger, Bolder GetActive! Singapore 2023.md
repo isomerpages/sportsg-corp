@@ -61,7 +61,9 @@ It will be a full day of activities and entertainment for all ages to celebrate 
 In support of the Singapore Green Plan for a resilient future and sustainable living, SportSG will continue to prioritise eco-friendly options and drive outreach efforts to raise environmental awareness. At GASG 2023, organisers will reduce single use plastic bottles reuse, and recycle venue pressing and sports equipment, amongst other 
 sustainability efforts. 
 
-For more information on GASG 2023, visit: GetActive!SG 2023. More details of GASG key events can be found in Annex A.
+For more information on GASG 2023, visit: GetActive!SG 2023. More details of GASG key events can be found in 
+[Annex A](/files/annex%20a.pdf).
+
 
 <hr>
 
