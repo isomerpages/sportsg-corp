@@ -20,14 +20,14 @@ Celebrating National Day through sport and active play, with more exciting offer
 
 **Singapore, 29 July 2023** – The GetActive! Singapore (GASG) 2023, the annual national day celebration through sport is back for its eighth edition, from 29 July to 9 August 2023. GASG 2023 will see the addition of the Heartland Festivals, a partnership between NDP and Sport Singapore (SportSG), and the Majulah Fiesta, an event jointly organised by SportSG and Kallang Alive Sport Management (KASM). These collaborations will offer more sport try-outs, competitions, performances, and activities suitable for all ages and abilities, across selected ActiveSG Sport Centres and the Singapore Sports Hub, amongst other locations. The increased sport offerings will allow more people to participate in the festivities as the nation celebrates Singapore’s 58 years of independence through sport and active play. 
 
-The GASG 2023 launch held in conjunction with the Civil Service Club Public Service Sports and Family Day (PSSFD) this morning saw more than 3,000 people at the OCBC Square of the Singapore Sports Hub. In true GetActive! Singapore spirit, guest-of-honour Minister for Culture, Community and Youth & Second Minister for Law Mr Edwin Tong, Head of Civil Service Mr Leo Yip, Senior Management from Sport Singapore (SportSG) and Kallang Alive Sport Management (KASM) pedal-powered up stationary bikes to officially kickstart GASG 2023 and PSSFD.
+The GASG 2023 launch held in conjunction with the Civil Service Club Public Service Sports and Family Day (PSSFD) this morning saw more than 3,000 people at the OCBC Square of the Singapore Sports Hub. In true GetActive! Singapore spirit, guest-of-honour Minister for Culture, Community and Youth &amp; Second Minister for Law Mr Edwin Tong, Head of Civil Service Mr Leo Yip, Senior Management from Sport Singapore (SportSG) and Kallang Alive Sport Management (KASM) pedal-powered up stationary bikes to officially kickstart GASG 2023 and PSSFD.
 
 “This eighth edition of GASG is special because this year is also SportSG’s 50th anniversary. We are celebrating these milestones with more play offerings at our ActiveSG Sport Centres in our heartlands as well as our Sports Hub, so that our community can participate actively and bond through sport. All these have been possible only because we have like-minded partners such as our NDP Exco, our new Sports Hub team and our purple army of Team Nila volunteers all working together. Beyond GASG, there will be more international sporting events, programmes and activities lined up, so do keep a lookout,” said Mr Alan Goh, Chief Executive Officer, SportSG.
 
 **Something for everyone at GASG 2023**
 
 **GASG Sport Festivals and Heartland Festivals**
-A Sport Festival extravaganza will take place on the weekends between 29 July to 6 August at five ActiveSG Sport Centres . On 29th and 30th July, water sport enthusiasts can take part in various water sports and fitness activities at the GASG Sport Festivals organised by Team Nila volunteers. Participants can challenge themselves to complete the swimming challenge and water obstacle course or try their hand at canoeing, stand-up paddling, water rock climbing, aqua aerobics and many more. There will also be food and beverage booths and goodie bags up for grabs! On 5th and 6th August, keep fit and have fun at the GASG Heartland Festivals  – this collaboration with NDP will include sports try-outs, exhibitions, performances, and activities for families. Check out the festivals here: Sport Festivals and Heartland Festivals
+A Sport Festival extravaganza will take place on the weekends between 29 July to 6 August at five ActiveSG Sport Centres<sup>1</sup>. On 29th and 30th July, water sport enthusiasts can take part in various water sports and fitness activities at the GASG Sport Festivals organised by Team Nila volunteers. Participants can challenge themselves to complete the swimming challenge and water obstacle course or try their hand at canoeing, stand-up paddling, water rock climbing, aqua aerobics and many more. There will also be food and beverage booths and goodie bags up for grabs! On 5th and 6th August, keep fit and have fun at the GASG Heartland Festivals<sup>2</sup> – this collaboration with NDP will include sports try-outs, exhibitions, performances, and activities for families. Check out the festivals here: Sport Festivals and Heartland Festivals
 
 **Pesta Sukan**
 Pesta Sukan will continue to promote camaraderie through friendly competitions and encourage future generations to live better through sport. This year, Pesta Sukan will be happening from 15 July to 6 August and participants can choose from 30 sports, 11 para sports and four signature events including a Round Island Bike Adventure and the Vertical Challenge. Embrace a challenge here: Pesta Sukan
@@ -38,7 +38,7 @@ At the GASG showcase at the Kallang Wave Mall Atrium from 29 July to 8 August, v
 At the Active Health experiential zone, visitors who have completed the Active Health Web will be issued a pass to qualify and compete in the “Active Health Challenge” where they will also learn how the different components of physical fitness relate to everyday activities. Find out more about the Active Health Experience.   
 
 **GetActive! Workout 2023: Dance Of The Nation**
-What’s GASG without the popular GetActive! Workout 2023: Dance Of The Nation? The GetActive! Workout 2023: Dance Of The Nation remains a staple in every GASG campaign, to rally Singaporeans to keep active through dance fitness, no matter where they are. Similar to last year, Singaporeans and residents are encouraged to submit a video of themselves, family or friends performing the dance moves together, to the NDP 2023 Theme Song, “Shine Your Light”. Participants can share their dance on their Instagram  or TikTok  with the hashtags #DanceOfTheNation and #DOTN23 to be eligible for the NDP-organised contest and lucky draw. Watch the new GASG Workout 2023 video here: GetActive! Workout 2023: Dance Of The Nation.
+What’s GASG without the popular GetActive! Workout 2023: Dance Of The Nation? The GetActive! Workout 2023: Dance Of The Nation remains a staple in every GASG campaign, to rally Singaporeans to keep active through dance fitness, no matter where they are. Similar to last year, Singaporeans and residents are encouraged to submit a video of themselves, family or friends performing the dance moves together, to the NDP 2023 Theme Song, “Shine Your Light”. Participants can share their dance on their Instagram<sup>3</sup> or TikTok<sup>4</sup>  with the hashtags #DanceOfTheNation and #DOTN23 to be eligible for the NDP-organised contest and lucky draw. Watch the new GASG Workout 2023 video here: GetActive! Workout 2023: Dance Of The Nation.
 
 **Majulah Fiesta at the Singapore Sports Hub**
 
@@ -63,8 +63,11 @@ sustainability efforts.
 
 For more information on GASG 2023, visit: GetActive!SG 2023. More details of GASG key events can be found in Annex A.
 
-\[1\] ActiveSG Woodlands Sport Centre, ActiveSG Toa Payoh Sport Centre, ActiveSG Jurong West Sport Centre, ActiveSG Bedok Stadium and Our Tampines Hub
+<hr>
 
-\[1\] GASG Heartland Festivals activities (4:00 pm to 9:00 pm): ActiveSG Toa Payoh Sport Centre, Woodlands Sport Centre, Jurong West Sport Centre and Bedok Sport Centre will operate on 5 and 6 Aug while Our Tampines Hub will only be operating on 6 Aug 2023
-Applicable to accounts that are set to public only
-Applicable to accounts that are set to public only
+**Footnote:**
+
+<sup>1.</sup> ActiveSG Woodlands Sport Centre, ActiveSG Toa Payoh Sport Centre, ActiveSG Jurong West Sport Centre, ActiveSG Bedok Stadium and Our Tampines Hub
+<sup>2.</sup> GASG Heartland Festivals activities (4:00 pm to 9:00 pm): ActiveSG Toa Payoh Sport Centre, Woodlands Sport Centre, Jurong West Sport Centre and Bedok Sport Centre will operate on 5 and 6 Aug while Our Tampines Hub will only be operating on 6 Aug 2023
+<sup>3.</sup> Applicable to accounts that are set to public only
+<sup>4.</sup>Applicable to accounts that are set to public only
