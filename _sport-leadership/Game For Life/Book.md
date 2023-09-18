@@ -21,11 +21,11 @@ Readers of all ages especially youths, parents and educators will find the book 
   
 **Where can I get the book?**
 
-The full e-copy of the book can be [download here](/files/Sport%20Education/Sports%20Leadership/Book/Game_For_Life_Book_Full_Version.pdf).
+The full e-copy of the book can be&nbsp;[download here](/files/Sport%20Education/Sports%20Leadership/Book/Game_For_Life_Book_Full_Version.pdf).
 
-A hardcopy Game For Life Book can be requested from the Character & Leadership Development Department, Sport Singapore.  
+A hardcopy Game For Life Book can be requested from the Character &amp; Leadership Development Department, Sport Singapore.  
   
-Email us: [eliza_sr_tan@sport.gov.sg](mailto:eliza_sr_tan@sport.gov.sg) / [diyana_saleh@sport.gov.sg](mailto:diyana_saleh@sport.gov.sg)
+Email us:&nbsp;[eliza_sr_tan@sport.gov.sg](mailto:eliza_sr_tan@sport.gov.sg)&nbsp;
 
 The book is also available for loan at all public libraries islandwide as well as the Sports Hub Library.
 

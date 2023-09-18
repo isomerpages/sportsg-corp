@@ -4,7 +4,13 @@ permalink: /anti-doping-singapore/anti-doping-rule-violations/results-management
 description: ""
 third_nav_title: Anti Doping Rule Violations
 ---
-![](/images/Our%20Work/Anti%20Doping%20Singapore/Anti%20Doping%20Rule%20Violations/Fair_Hearing.png)
+![](/images/2021_anti-doping%20rule%20violations.png)
+
+##### What Happens To Your Sample?
+
+Every sample you provide is collected, analysed and investigated according to international rules set out in the World Anti-Doping Code. These rules are designed to protect your rights, and ensure the process is the same no matter where you are tested in the world.
+
+
 The laboratory that has analysed your A Sample will report the results simultaneously to the Anti-Doping Organisation, such as Anti-Doping Singapore (ADS), and the World Anti-Doping Agency (WADA). Your B Sample is frozen and analysed if there is an Adverse Analytical Finding on your A Sample. Note that the samples analysed are identified by code numbers and not athlete names.
 
 Three possible outcomes may arise from sample analysis - a Negative Analytical Finding, an Atypical Finding or an Adverse Analytical Finding.
@@ -97,6 +103,23 @@ Where the [ADS Anti-Doping Rules](/anti-doping-singapore/resources/policies-and
 **APPEAL**
 
 Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
+
+
+#### Consequences of Doping
+
+Usage of Prohibited Substances and Prohibited Methods may result in very severe health consequences, as well as sporting, financial, legal and social consequences.
+
+**Physical Health:** Depending on the substance, the dosage and the consumption frequency, doping products may have particularly negative side effects on health. Some damages for the body are irreversible and may put one's life in great danger.
+
+**Mental Health:** Some doping substances may not be detrimental to the body but exercise an impact on mental health.
+
+**Social Consequences**: The existence of an athlete who was charged as guilty for doping may be completely disrupted. Other than health consequences, it may also be prejudicial to the fame, respect and creditworthiness. Even in the future, negative findings are regularly questions by the media and the entourage. The damage to the reputation will remain in the collective unconscious and the athlete could remain isolated.
+
+**Financial Consequences**: In elite sport, an infringement of anti-doping rules often leads to a loss of income, the reimbursement of prize moneys and even the sponsorship money. An athlete suspended for several years, or even banned for life, cannot earn his/her living as usual and can even be forced into debt to live on a day-to-day basis.
+
+**Sporting Consequences**: A doping violation may mean loss of results, rankings, medals and qualification places at events. It could also have an impact on members of the same team, causing medals to be lost.
+
+**Legal Consequences**: Doping may have major legal consequences. A sanctioned athlete may not take part in sport competition or in organized training sessions.
 
 **SANCTIONS**
 

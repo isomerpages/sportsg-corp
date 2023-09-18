@@ -18,10 +18,11 @@ Direct Waiver for the FSS and ISS courses is given to those who have graduated f
 6. Republic Polytechnic’s Part-Time Diploma in Sports (Coaching)
 7. Nanyang Polytechnic’s Diploma in Sport and Wellness Management
 8. Singapore Polytechnic's 'Introduction to Sports and Exercise Science' Module
-9. PSB Academy Edinburgh Napier University (ENU) Bachelor of Science (Sport and Exercise Science)
-10. PSB Academy Diploma in Sport and Exercise Science
-11. PSB Academy Diploma in Sport and Exercise Science (Sports Coaching)
-12. International Management and Sports College Pte Ltd (IMSC) Diploma in Sports Science and Management (DSSM)
+9. Institute of Technical Education's Higher NITEC in Sport Management
+10. PSB Academy Edinburgh Napier University (ENU) Bachelor of Science (Sport and Exercise Science)
+11. PSB Academy Diploma in Sport and Exercise Science
+12. PSB Academy Diploma in Sport and Exercise Science (Sports Coaching)
+13. International Management and Sports College Pte Ltd (IMSC) Diploma in Sports Science and Management (DSSM)
 
 Applicants who graduated from the above institutions holding similar certifications, but higher than the above listed courses (e.g. Masters) may also be given direct waivers on a case-by-case basis. Applicants who are granted ISS Direct Waiver are exempted from paying the administrative fee.
 
