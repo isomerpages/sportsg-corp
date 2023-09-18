@@ -116,6 +116,17 @@ Recently Retired Athlete
 <br>
 Director (Physical, Sports &amp; Outdoor Education), Student Development Curriculum Division, Ministry of Education
 
+**Mr Lim Tze Jiat**
+<br>
+Senior Director (Sports Division)
+<br>Ministry of Culture, Community &amp; Youth
+
+**Mr Wilson Vong Wei Chun**
+<br>
+Head (Current Ops &amp; Doctrine)
+<br>Operations Division
+<br>Immigration &amp; Checkpoint Authority
+
 ##### **Ex-Officio Members**
 **A/Prof Koh-Teo Sock Miang**
 <br>
