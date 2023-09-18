@@ -4,7 +4,6 @@ permalink: /our-work/anti-doping-singapore/anti-doping-rule-violation/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
-#### **RESULTS MANAGEMENT PROCESS**
 ![](/images/2021_anti-doping%20rule%20violations.png)
 
 #### What Happen To Your Sample?
