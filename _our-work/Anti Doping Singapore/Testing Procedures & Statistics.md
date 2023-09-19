@@ -1,6 +1,6 @@
 ---
-title: Testing
-permalink: /our-work/anti-doping-singapore/testing/
+title: Testing Procedures & Statistics
+permalink: /our-work/anti-doping-singapore/testing-procedures-and-statistics/
 description: ""
 third_nav_title: Anti Doping Singapore
 ---
