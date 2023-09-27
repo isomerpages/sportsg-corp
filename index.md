@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: Sport Singapore
-description: "Sport Singapore (previously known as Singapore Sports Council) is
-  a statutory board of the Ministry of Culture, Community and Youth. Our core
+description: Sport Singapore (previously known as Singapore Sports Council) is a
+  statutory board of the Ministry of Culture, Community and Youth. Our core
   purpose is to inspire the Singapore spirit and transform Singapore through
-  sport. "
+  sport.
 image: /images/sportsg logo.png
 permalink: /
 notification: ""
@@ -23,7 +23,6 @@ sections:
         - title: LOVE SPORT
           description: Driving interest in sport
           url: /sports-education/overview/
-      subtitle: " "
   - infobar:
       title: Serving Through Sport With Passion And Pride
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
@@ -54,4 +53,12 @@ sections:
   - resources:
       title: Media Centre
       button: Read more
+  - infopic:
+      title: National Registry of Exercise Professionals
+      subtitle: NREP
+      id: infopic
+      description: National Registry of Exercise Professionals
+      button: Apply Now
+      url: https://www.activesgcircle.gov.sg/nrep
+      alt: Image alt text
 ---
