@@ -53,20 +53,4 @@ sections:
   - resources:
       title: Media Centre
       button: Read more
-  - infopic:
-      title: National Registry of Exercise Professionals
-      subtitle: NREP
-      id: infopic
-      description: National Registry of Exercise Professionals
-      button: Apply Now
-      url: https://www.activesgcircle.gov.sg/nrep
-      alt: Image alt text
-  - infopic:
-      title: National Registry of Exercise Professionals
-      subtitle: Join us today
-      id: infopic
-      description: NREP
-      button: Find out more
-      url: https://www.activesgcircle.gov.sg/nrep
-      alt: Image alt text
 ---
