@@ -4,39 +4,36 @@ permalink: /about-us/management/board-members/
 description: ""
 third_nav_title: Management
 ---
-The Ministry of Culture, Community and Youth has appointed the following members from the public, private and people sectors to the Sport Singapore Board for a period of three years from October 2020 to September 2023.
+The Ministry of Culture, Community and Youth has appointed the following members from the public, private and people sectors to the Sport Singapore Board for a period of three years from October 2023 to September 2026.
 
 #### **Chairman**
 
 Mr Kon Yin Tong  
 Managing Partner, Foo Kon Tan LLP
 
-#### **Board Members**
+#### **Deputy Chairman**
 
-Ms Chan Su Yee  
-CEO, NTUC Health;  
-CEO, NTUC First Campus
+Mr Keith Magnus<br>
+Chairman, Evercore Asia; <br>
+Chairman, Kallang Alive Sport Management Co
+
+#### **Board Members**
 
 Ms Chan Yen San  
 Partner, KPMG
 
-Dr Mark Hon  
-Chairman, Singapore National Paralympic Council (SNPC) Games Appeals Committee; <br> Chairman Emeritus, Action Community for Entrepreneurship
-
-Dr Ayesha Khanna  
-CEO &amp; Founder, ADDO AI
-
-Mr Lee Kok Choy  
-Chairman, Board of Governors, Temasek Polytechnic
-
-Mr Andrew Lim  
-Group COO, CapitaLand Investment
-
 Mr Alan Goh  
 CEO, SportSG
 
-Mr Keith Magnus  
-CEO, Evercore  
+Dr Hing Siong Chen  
+Family Physician, Healthway Medical Group; <br> 
+President, Singapore Cycling Federation
+
+Dr Lee Tung Jean  
+Deputy Secretary, Ministry of Culture, Community and Youth
+
+Mr Andrew Lim  
+Group COO, CapitaLand Investment  
   
 Mr Sushil Nair  
 Deputy CEO, Drew &amp; Napier
@@ -44,14 +41,20 @@ Deputy CEO, Drew &amp; Napier
 Dr Elmie Nekmat  
 Associate Professor, Communications and New Media, NUS  
   
-Dr Lee Tung Jean  
-Deputy Secretary, Ministry of Culture, Community and Youth  
-  
+Mr Michael Palmer  
+Director, Quahe Woo &amp; Palmer LLP     
+
+Mr KK Pan  
+Vice President, Oracle Netsuite JAPAC 
+
+Ms Theresa Sim  
+Partner, PricewaterhouseCoopers LLP 
+
 Dr Benedict Tan  
 Vice President, Singapore National Olympic Council  
   
-Mrs Tan Chen Kee  
-Deputy Director-General of Education (Schools) and Director of Schools, Ministry of Education
-
 Mr Tay Choon Hong  
 CEO, Health Promotion Board
+
+Ms Yip Pin Xiu  
+Paralympian
