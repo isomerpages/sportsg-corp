@@ -9,6 +9,7 @@ Sport Singapore and its relevant ActiveSG sports facilities have in place a prot
 The closure of sports facilities will be based on 24-hour PSI readings.
 
 **Posters below have been issued by NEA for your reference**.
+* [Haze Advisories](/files/Sport%20Education/Sport%20Safety/Haze%20Management/haze_advisories_9oct23.pdf)
 * [Haze Guidelines](/files/Sport%20Education/Sport%20Safety/Haze%20Management/Haze_Guidelines_1Oct2019_website.pdf)
 * [Haze Poster (English)](/files/Sport%20Education/Sport%20Safety/Haze%20Management/PSI_PM_A4_Poster_English_2019_09_16.pdf)
 * [Haze Poster (Chinese)](/files/Sport%20Education/Sport%20Safety/Haze%20Management/PSI_PM_A4_Poster_Chinese_2019_09_16.pdf)
