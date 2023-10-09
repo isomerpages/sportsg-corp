@@ -13,7 +13,7 @@ image: ""
 
 ![*Artist's impression of the proposed facilities at the new ActiveSG Sport Centre, including the Swimming Complex (left) &amp; indoor Sport Hall (right)*](/images/Media%20Centre/Media%20Release/2023/October/swimming%20complex%20(left)%20&amp;%20indoor%20sport%20hall%20(right).png)
 
-*<center><p style="font-size: 16px">Artist's impression of the proposed facilities at the new ActiveSG Sport Centre, including the Swimming Complex (left) &amp; indoor Sport Hall (right).</p></center>*
+*<center><p style="font-size: 15px">Artist's impression of the proposed facilities at the new ActiveSG Sport Centre, including the Swimming Complex (left) &amp; indoor Sport Hall (right).</p></center>*
 
 **Singapore, 8 October 2023** – Toa Payoh Sport Centre will close on 31 October 2023 to make way for the construction of a new Regional Sport Centre, as part of the Toa Payoh Integrated Development project (TPID). The 12-hectare Toa Payoh Integrated Development will be home to a state-of-the-art Regional Sport Centre, a Polyclinic, a Library, and a Regional Town Park. The project is expected to be completed by 2030 under the Sport Facilities Master Plan, which is a key initiative of the national sport blueprint, Vision 2030.
 
