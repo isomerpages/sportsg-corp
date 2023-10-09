@@ -9,11 +9,11 @@ description: The proposed facilities at the new ActiveSG Sport Centre include
   stadium.
 image: ""
 ---
-*The proposed facilities at the new ActiveSG Sport Centre include badminton courts, an aquatic centre, indoor sport halls, sheltered courts for tennis, futsal and netball, fitness studios, a gymnasium, and a football stadium*
+*<center>The proposed facilities at the new ActiveSG Sport Centre include badminton courts, an aquatic centre, indoor sport halls, sheltered courts for tennis, futsal and netball, fitness studios, a gymnasium, and a football stadium.</center>*
 
 ![*Artist's impression of the proposed facilities at the new ActiveSG Sport Centre, including the Swimming Complex (left) &amp; indoor Sport Hall (right)*](/images/Media%20Centre/Media%20Release/2023/October/swimming%20complex%20(left)%20&amp;%20indoor%20sport%20hall%20(right).png)
 
-<p style="font-size: 14px"><i>Artist's impression of the proposed facilities at the new ActiveSG Sport Centre, including the Swimming Complex (left) &amp; indoor Sport Hall (right)</i></p>
+<center><p style="font-size: 16px"><i>Artist's impression of the proposed facilities at the new ActiveSG Sport Centre, including the Swimming Complex (left) &amp; indoor Sport Hall (right)</i></p></center>
 
 **Singapore, 8 October 2023** – Toa Payoh Sport Centre will close on 31 October 2023 to make way for the construction of a new Regional Sport Centre, as part of the Toa Payoh Integrated Development project (TPID). The 12-hectare Toa Payoh Integrated Development will be home to a state-of-the-art Regional Sport Centre, a Polyclinic, a Library, and a Regional Town Park. The project is expected to be completed by 2030 under the Sport Facilities Master Plan, which is a key initiative of the national sport blueprint, Vision 2030.
 
