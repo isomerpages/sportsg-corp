@@ -42,9 +42,9 @@ Dr Elmie Nekmat
 Associate Professor, Communications and New Media, NUS  
   
 Mr Michael Palmer  
-Director, Quahe Woo &amp; Palmer LLP     
+Director, Quahe Woo &amp; Palmer LLC     
 
-Mr KK Pan  
+Mr Pan Kit Kuan  
 Vice President, Oracle Netsuite JAPAC 
 
 Ms Theresa Sim  
