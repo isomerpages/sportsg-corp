@@ -10,7 +10,7 @@ Coaches, due to their close interaction with athletes, exposure to the public, a
 
 Coaches, by adhering to a code of ethics, would minimise the likelihood of being accused of unacceptable behaviour while projecting a sense of professionalism in their dealings with others.
 
-The [Coach's Code of Ethics](/files/Support/Coaches'%20Corner/Coach's%20Code%20of%20Ethics_20220427.pdf) set out herein, together with the [Safe Sport Unified Code](http://www.safesport.sg/safe-sport-programme/unified-code), have been drawn up by SportSG and are applicable to all NROC registered coaches.  
+The [Coach's Code of Ethics](https://coachsg.sportsingapore.gov.sg/coach-code-of-ethics)  set out herein, together with the [Safe Sport Unified Code](http://www.safesport.sg/safe-sport-programme/unified-code), have been drawn up by SportSG and are applicable to all NROC registered coaches.  
    
 The Unified Code is the cornerstone of the Safe Sport Programme. It sets out a unified reference for the Singapore sporting community that describes the forms of abuse and harassment which may take place in the sporting environment as agreed by the community.
 
