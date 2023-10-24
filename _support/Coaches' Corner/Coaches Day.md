@@ -13,19 +13,16 @@ We encourage Singaporeans to express their appreciation to their coaches in thei
 
 **Coaches' Day 2023**
 
-Join us at this&nbsp;year Coaches' Day celebration! Our theme this year is "Sustainability", as we explore how coaches can be more sustainable in their coaching in terms of equipment and programme. An&nbsp;*exclusive*&nbsp; CoachSG door gift will be given to every coach and there are $500 worth of prizes to be won!
+Thank you for joining us at this&nbsp;year Coaches' Day celebration! Our theme this year was "Sustainability", and we explored how coaches can be more sustainable in their coaching in terms of equipment and programme. 
 
-Lunch will provided and as part of the SG Green Plan, you are encouraged to bring along your own water bottles.&nbsp;
+Stay tuned to Coaches' Day 2024!
 
-**Date: 31st August 2023, Thursday**
+**Date: TBC (2024)**
 <br>
-**Time: 9am - 1pm**
+**Time: TBC**
 <br>
-**Venue: Team Sports Hall, Level 2, Our Tampines Hub**
+**Venue: TBC**
 <br>
-**Attire: Comfortable active wear and covered shoes**
 
-Registration is now open on the ActiveSG App.
-In the app, click on "Programmes", and search for "Coaches Day".
 
 Do visit out new website&nbsp;[here](https://coachsg.sportsingapore.gov.sg/)&nbsp;for the latest updates.
