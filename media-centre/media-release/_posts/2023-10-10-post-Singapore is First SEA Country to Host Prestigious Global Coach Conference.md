@@ -6,4 +6,4 @@ layout: post
 description: Global Coach Conference
 image: ""
 ---
-[Download Annex A]([Download Annex A](/files/Media%20Centre/Media%20Release/2023/October/icce-gcc-keynote-speakers-and-keynote-sessions.pdf)
+[Download Annex A](/files/Media%20Centre/Media%20Release/2023/October/icce-gcc-keynote-speakers-and-keynote-sessions.pdf)
