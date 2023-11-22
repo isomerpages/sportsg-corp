@@ -3,6 +3,7 @@ title: Guide
 permalink: /sport-leadership/game-for-life/guide/
 description: ""
 third_nav_title: Game For Life
+variant: markdown
 ---
 | -------- | -------- | 
 | ![Guide](/images/Sport%20Education/Sports%20Leadership/Game%20For%20Life/Guide/guide.gif)     | The Game for Life Guide equips you with know-how to integrate character and leadership development into the sport arena, which encompasses a skill practice drill, fitness activity, game play, match or competition training, and even an outdoor corporate training session.  |
@@ -45,6 +46,6 @@ You may visit this [link](https://www.rp.edu.sg/ace/short-course/Detail/game-fo
 *"Values education is not new in our school so I was not particularly excited when first approached by Sport Singapore. Upon closer understanding, I realised that the Framework, especially the Check-Act-Reinforce component, contains layers of insights for a richer learning experience for the students.The guidelines and templates provided are also handy when planning my classes."*  
 **P.E. Teacher, Temasek Secondary School**  
   
-Click [here](/files/Sport%20Education/Sports%20Leadership/Guide/GFL_-_Glory_Barnabas.pdf) to view the brochure for more details.  
+View [Game for Life brochure](/files/Sport%20Education/Sports%20Leadership/Guide/game%20for%20life%20brochure.pdf) for more details.
   
 [Contact us](mailto:eliza_sr_tan@sport.gov.sg) to find out more.
