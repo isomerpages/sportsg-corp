@@ -3,6 +3,7 @@ title: Testing Procedures & Statistics
 permalink: /our-work/anti-doping-singapore/testing-procedures-and-statistics/
 description: ""
 third_nav_title: Anti Doping Singapore
+variant: markdown
 ---
 ### **RIGHTS AND RESPONSIBILITIES**
 
@@ -206,3 +207,4 @@ Click on the following links to download our statistics:
 * [Financial Year 2019/2020 Doping Control Statistics](/files/Our%20Work/Anti%20Doping%20Singapore/Testing%20Statistics/FY2019_ADS_Testing_Statistics.pdf)
 * [Financial Year 2020/2021 Doping Control Statistics](/files/Our%20Work/Anti%20Doping%20Singapore/Testing%20Statistics/FY2020_ADS_Testing_Statistics.pdf)
 * [Financial Year 2021/2022 Doping Control Statistics](/files/Our%20Work/Anti%20Doping%20Singapore/Testing%20Statistics/FY2021_ADS_Testing_Statistics.pdf)
+* [Financial Year 2022/2023 Doping Control Statistics](/files/Our%20Work/Anti%20Doping%20Singapore/Testing%20Statistics/FY2022_ADS_Testing_Statistics.pdf)
