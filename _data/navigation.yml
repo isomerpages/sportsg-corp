@@ -10,12 +10,5 @@ links:
     resource_room: true
   - title: Sport Education
     collection: sports-education
-  - title: Careers
-    url: /careers/activesg-training-centre-atc/
-    sublinks:
-      - title: ActiveSG Training Centre (ATC)
-        url: /careers/activesg-training-centre-atc/
-      - title: Career Opportunities
-        url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Sport%20Singapore
-  - title: New single page
+  - title: Career Opportunities
     url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Sport%20Singapore
