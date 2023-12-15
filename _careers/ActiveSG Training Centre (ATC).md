@@ -63,5 +63,3 @@ Director ATC, Serene Chua, received NACE Gold Award in Apr 2022![](/images/About
 
 Click&nbsp;[here](https://www.sportsingapore.gov.sg/-/media/SSC/Corporate/Files/ActiveSG-E-Brochure/ATC-e-brochure.ashx?la=en&amp;hash=4871800D903BA8A60B043D35DF981AA26AF0B070)&nbsp;for our E-Brochure.
 
-
-[annex a](/files/annex%20a.pdf)
