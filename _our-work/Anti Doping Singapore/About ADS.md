@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Anti Doping Singapore
 variant: markdown
 ---
-![Be A True Winner](/images/Our%20Work/Anti%20Doping%20Singapore/ads_be%20a%20true%20winner.jpg)
+![](/images/Our%20Work/Anti%20Doping%20Singapore/Be_A_True_Winner.jpeg)
 
 The Government of Singapore was a signatory to the Copenhagen Declaration on Anti-Doping in Sport in 2003 and had also adopted the UNESCO International Convention Against Doping in Sport in 2005 by accession, thereby formally recognising Singapore's commitment to implement the [World Anti-Doping Code](https://www.wada-ama.org/en/resources/world-anti-doping-program/world-anti-doping-code) ("WAD Code").
 
@@ -26,4 +26,3 @@ ADS' mission is to ensure sport in Singapore is free of doping through the imple
 Every Singaporean athlete is a True Winner. 
    
 Find out the application forms for Therapeutic Use Exemption and other information on ADS's official website [here](https://www.antidopingsingapore.gov.sg/).
-
