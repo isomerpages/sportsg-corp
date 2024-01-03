@@ -3,6 +3,7 @@ title: Foundational Intermediate Sports Science Course Waivers
 permalink: /coaches-corner/singapore-coach-excellence/foundational-intermediate-sports-science-course-waivers/
 description: ""
 third_nav_title: Singapore Coach Excellence
+variant: markdown
 ---
 The Foundational Sports Science (FSS) course equips its participants with the sports science knowledge to coach novice participants in community and / or youth sport, while the Intermediate Sports Science (ISS) course equips its participants with the sports science knowledge to coach competitive athletes in their early years of competition.
 
@@ -36,6 +37,6 @@ The accreditation panel will review application for waiver of Sports Science cer
 
 If you are interested in seeking for accreditation for ISS via recognition of prior learning, please apply via this [link](https://go.gov.sg/rplapplicationform).
 
-There is no cost for the evaluation BUT please note that a certification fee of S$54.00 (including GST) will be charged If an ISS waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the FSS and ISS courses.
+There is no cost for the evaluation BUT please note that a certification fee of S$54.50 (including GST) will be charged If an ISS waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the FSS and ISS courses.
 
 Should applicants have further queries, please e-mail [sport_coaching@sport.gov.sg](mailto:sport_coaching@sport.gov.sg).
