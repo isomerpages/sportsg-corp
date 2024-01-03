@@ -3,6 +3,7 @@ title: SG Coach Theory Accreditation
 permalink: /coaches-corner/singapore-coach-excellence/sg-coach-theory-accreditation/
 description: ""
 third_nav_title: Singapore Coach Excellence
+variant: markdown
 ---
 Direct Waiver for the SG-Coach Level 1 Theory course is given to those who have graduated from the following local courses: 
 
@@ -26,7 +27,7 @@ For other candidates who do not possess the above qualifications, the two method
 
 If you are interested in seeking for accreditation for SG-Coach Theory via recognition of prior learning, please apply via this [link](https://go.gov.sg/rplapplicationform).
 
-There is no cost for the evaluation BUT please note that a certification fee of S$54.00 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applications, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via this [link](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports).
+There is no cost for the evaluation BUT please note that a certification fee of S$54.50 (including GST) will be charged if a waiver is granted. For unsuccessful applications, no administrative fee will be charged and applicant encouraged to enrol in the SG-Coach Theory course. For successful applications, the applicant will be required to attend a 1-day Values and Principles in Sports (VPS) workshop and produce the VPS certificate before receiving the SG-Coach Theory (Accreditation) certificate. Please register for VPS workshop via this [link](https://www.rp.edu.sg/ace/short-course/detail/values-principles-in-sports).
 
 Please refer to the [summary table](/files/Coaches%20Corner/Singapore%20Coach%20Excellence/SG%20Coach%20Theory%20Accreditation/sg-coach%20l2%20and%20l3%20theory%20accreditation%20criteria%20v1.pdf) on the award of SG-Coach Theory accreditations.
 
