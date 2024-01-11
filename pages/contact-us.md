@@ -28,8 +28,8 @@ contacts:
   - content:
       - phone: ""
       - email: sport_coaching@sport.gov.sg
-      - other: 'Please visit <a href="https://coachsg.sportsingapore.gov.sg/contact"
-          target="_blank">CoachSG</a>page. '
+      - other: Please visit <a href="https://coachsg.sportsingapore.gov.sg/contact"
+          target="_blank">CoachSG</a>page.
     title: National Registry of Coaches
   - content:
       - phone: ""
@@ -45,5 +45,12 @@ contacts:
           href="https://www.activesgcircle.gov.sg/facilities"
           target="_blank">ActiveSG Facilities</a>page.
     title: ActiveSG Sports Centres
+  - content:
+      - phone: ""
+      - email: ActiveSG_SwimSafer@sport.gov.sg
+      - other: 'Please visit <a
+          href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer"
+          target="_blank">Swimsafer</a>page. '
+    title: Swimsafer
 feedback: https://members.myactivesg.com/feedback
 ---
