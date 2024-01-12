@@ -28,12 +28,12 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 
 #### **SPORTS**
 ##### **ADIDAS**
-*   30% on all Adidas items is exclusively valid at:
-	*   Adidas Suntec City (BCS), unit #01-323/324
-	*   Adidas Vivo City L1 (BCS+), unit #01-73
+*   30% on all adidas items is exclusively valid at:
+	*   adidas Suntec City (BCS), unit #01-323/324
+	*   adidas Vivo City L1 (BCS+), unit #01-73
 	*   Vivo City B1 (OCS), unit #B1-06
-	*   Adidas Brand Centre Orchard 
-*  Offer cannot be used in conjunction with any other existing promotions or discounts at the Adidas Stores.
+	*   adidas Brand Centre Orchard 
+*  Offer cannot be used in conjunction with any other existing promotions or discounts at the adidas stores.
 * TS Rewards Card must be presented prior to payment for the discount to be valid.
 * This offer is only valid till 31 December 2024.
 
