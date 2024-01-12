@@ -13,7 +13,7 @@ On 13 January 2016, Singapore Sport Institute launched the Team Singapore Card f
 The Team Singapore rewards card was subsequently made available via the ActiveSG app as an electronic card (e-Card) to all newly carded and Major Games athletes from July 2019.
 
 **Our Card Partners include:**
-![Our Card Partners](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsg%20card%20partners%20for%202023%20-%20partners%20logo.jpg)
+![](/images/Singapore%20Sport%20Institute/Athlete%20Life/TeamSG_card_partners_for_2024___Jan_update.jpg)
 Singapore Sport Institute would like to thank our valued card partners for supporting our athletes in achieving their goals. Whether it is sports, lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits and privileges ranging from sporting apparel, footwear and accessories to lifestyle products. In addition, our athletes can enjoy up to 20% discount at selected dining choices at Kallang Wave Mall and Kallang Leisure Park which are ideally located within the Sport Hub. Some of the reward privileges also extend to various participating outlets across Singapore.
 
 <hr>
@@ -28,12 +28,12 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 
 #### **SPORTS**
 ##### **ADIDAS**
-*   30% on all Adidas items is exclusively valid at:
-	*   Adidas Suntec City (BCS), unit #01-323/324
-	*   Adidas Vivo City L1 (BCS+), unit #01-73
+*   30% on all adidas items is exclusively valid at:
+	*   adidas Suntec City (BCS), unit #01-323/324
+	*   adidas Vivo City L1 (BCS+), unit #01-73
 	*   Vivo City B1 (OCS), unit #B1-06
-	*   Adidas Brand Centre Orchard 
-*  Offer cannot be used in conjunction with any other existing promotions or discounts at the Adidas Stores.
+	*   adidas Brand Centre Orchard 
+*  Offer cannot be used in conjunction with any other existing promotions or discounts at the adidas stores.
 * TS Rewards Card must be presented prior to payment for the discount to be valid.
 * This offer is only valid till 31 December 2024.
 
@@ -88,7 +88,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 *   15% discount on all food &amp; beverages at Presotea at Kallang Leisure Park.
 *   TS Rewards Card must be presented prior to payment for the discount to be valid.
 *   Shiloh Remnant Pte Ltd reserves the right to amend the terms &amp; conditions without prior notice.
-*   Offer is valid from 01 Jun 2022 to 31 Dec 2024.
+*   Offer is valid till 31 Dec 2024.
 
 ##### **YU KEE SPECIALITIES**
 *   10% discount for all food and beverage items located at Yu Kee Specialities, level 2 of Kallang Wave Mall.
@@ -155,7 +155,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 3.  **30% off mouthguard with every purchase of stain removal cleaning package**
     *   All offers are extended to the card holder only and not to be used in conjunction with other promotions.
     *   TS Rewards Card must be presented prior to payment for the discount to be valid.
-    *   All offers are valid till 31 December 2023.
+    *   All offers are valid till 31 December 2024.
 
 ##### **RAFFLES MEDICAL**
 1.  GP Consultation from $20.60 (exclude the cost of medications, injections, procedure &amp; practice cost)
@@ -175,7 +175,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
 
 *   Price is in Singapore dollars and inclusive of GST.
 *   Price excludes practice cost and doctor's consultation charge.
-*   The quoted rates are not applicable for any ongoing credit card, corporate programmes, other benefits &amp; promotions.
+*   The quoted rates are not applicable for any ongoing corporate programmes.
 *   Items in the package are non-exchangeable and non-refundable, including unutilised portion.
 *   GP services are available at Raffles Medical Clinics in Singapore and Raffles Health Screeners and are not available at Raffles Executive Medical Centre and 24-Hour Emergency at Raffles Hospital.
 *   Prior appointment is required for health screening and vaccination services.
@@ -184,8 +184,8 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     <br>*   Price quoted does not include practice cost, costs of prescribed medications, injections, x-rays and other investigations.
     *   The price reflects types of services offered by the general dental practitioner, time spent on and complexity of the case. Patients will be informed before treatment if any fees to be charged differ from those listed above.
     *   Full payment will be collected before laboratory works (if any) can be processed.
-    *   Not to be used in conjunction with any other ongoing promotions, packages, or privileges.
-    *   Corporate discount does not apply to laboratory works, oral hygiene products, medication and other services by external vendors, etc. and specialist dental services.
+    *   Not to be used in conjunction with any other packages.
+    *   Does not apply to laboratory works, oral hygiene products, medication and other services by external vendors, etc. and specialist dental services.
     *   Consumables charge is applicable for every dental visit. Consumables charge are for items such as disposable gloves, gowns, cups and bibs, disinfectants, autoclaving pouches etc.
 *   Team Singapore Rewards Card/ E-Card must be presented by card holder and cardholder's family member prior to payment for the discount to be valid. Offer is extended to the card holder and card holders' family members only.
 *   Mode of payment - Cash/Credit Card/ NETS.

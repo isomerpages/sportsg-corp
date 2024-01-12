@@ -27,15 +27,30 @@ contacts:
     title: Quality Service Manager
   - content:
       - phone: ""
+      - email: sport_coaching@sport.gov.sg
+      - other: Please visit <a href="https://coachsg.sportsingapore.gov.sg/contact"
+          target="_blank">CoachSG</a>page.
+    title: National Registry of Coaches
+  - content:
+      - phone: ""
       - email: ""
-      - other: To report an incident related to abuse or harassment in Safe Sport, click
-          <a href="https://form.gov.sg/61a58d94e6d425001302b74a"
-          target="_blank">here</a>.
+      - other: To report an incident related to abuse or harassment in Safe Sport, use
+          this <a href="https://form.gov.sg/61a58d94e6d425001302b74a"
+          target="_blank">form</a>.
     title: Safe Sport Reporting
   - content:
       - phone: ""
       - email: ""
-      - other: To contact our Sports Centres directly, please click <a
-          href="http://www.myactivesg.com/facilities" target="_blank">here</a>.
+      - other: To contact our Sports Centres directly, please visit <a
+          href="https://www.activesgcircle.gov.sg/facilities"
+          target="_blank">ActiveSG Facilities</a>page.
     title: ActiveSG Sports Centres
+  - content:
+      - phone: ""
+      - email: ActiveSG_SwimSafer@sport.gov.sg
+      - other: 'Please visit <a
+          href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer"
+          target="_blank">Swimsafer</a>page. '
+    title: Swimsafer
+feedback: https://members.myactivesg.com/feedback
 ---
