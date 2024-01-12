@@ -13,7 +13,7 @@ On 13 January 2016, Singapore Sport Institute launched the Team Singapore Card f
 The Team Singapore rewards card was subsequently made available via the ActiveSG app as an electronic card (e-Card) to all newly carded and Major Games athletes from July 2019.
 
 **Our Card Partners include:**
-![Our Card Partners](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsg%20card%20partners%20for%202023%20-%20partners%20logo.jpg)
+![](/images/Singapore%20Sport%20Institute/Athlete%20Life/TeamSG_card_partners_for_2024___Jan_update.jpg)
 Singapore Sport Institute would like to thank our valued card partners for supporting our athletes in achieving their goals. Whether it is sports, lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits and privileges ranging from sporting apparel, footwear and accessories to lifestyle products. In addition, our athletes can enjoy up to 20% discount at selected dining choices at Kallang Wave Mall and Kallang Leisure Park which are ideally located within the Sport Hub. Some of the reward privileges also extend to various participating outlets across Singapore.
 
 <hr>
