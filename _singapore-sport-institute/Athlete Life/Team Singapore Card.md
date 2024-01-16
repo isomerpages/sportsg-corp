@@ -187,5 +187,6 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     *   Not to be used in conjunction with any other packages.
     *   Does not apply to laboratory works, oral hygiene products, medication and other services by external vendors, etc. and specialist dental services.
     *   Consumables charge is applicable for every dental visit. Consumables charge are for items such as disposable gloves, gowns, cups and bibs, disinfectants, autoclaving pouches etc.
-*   Team Singapore Rewards Card/ E-Card must be presented by card holder and cardholder's family member prior to payment for the discount to be valid. Offer is extended to the card holder and card holders' family members only.
+*   Team Singapore Rewards Card/ E-Card must be presented by cardholder and cardholder's family member prior to making payment. 
+*   Only valid for cardholder and cardholders' family members only.
 *   Mode of payment - Cash/Credit Card/ NETS.
