@@ -145,7 +145,7 @@ Enjoy these benefits and privileges from our valued card partners for TS Athlete
     *   Night Guard Soft
     *   Hard Acrylic
     *   Mouthguard
-2.  **Sign up for 2 sessions\* of stain removal cleaning @ a discounted rate of $165 (before 8% service fee)** which includes the following:
+2.  **Sign up for 2 sessions\* of stain removal cleaning @ a discounted rate of $165 (before 9% service fee)** which includes the following:
     *   Consultation
     *   Scaling
     *   Polishing
