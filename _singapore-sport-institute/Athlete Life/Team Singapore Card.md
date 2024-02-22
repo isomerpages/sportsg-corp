@@ -56,9 +56,13 @@ offered to holders of the TS Rewards Card and is non-transferable.</p>
 <p>Vivo City B1 (OCS), unit #B1-06</p>
 </li>
 <li>
-<p>adidas Brand Centre Orchard 270 Orchard Road</p>
+<p>adidas Brand Centre (270 Orchard Road)</p>
 </li>
 </ul>
+</li>
+<li>
+<p>Certain product exclusions apply. Please check with the in-store staff
+for more information.</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
