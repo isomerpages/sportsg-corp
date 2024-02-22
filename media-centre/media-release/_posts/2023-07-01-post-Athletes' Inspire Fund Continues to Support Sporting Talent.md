@@ -54,7 +54,7 @@ of equipment directly related to the sport.</p>
 Athletes’ Inspire Fund was formerly known as Temasek Foundation Inspire
 Fund. The fund is still supported by Temasek Foundation.</p>
 <p></p>
-<p><strong><u>Fact sheet on Athletes’ Inspire Fund (AIF)</u></strong>
+<p><strong><u>Fact sheet on Athletes’ Inspire Fund (AIF)</u></strong> 
 <br>
 </p>
 <p>There will be <u>six grant calls</u> for the Athletes’ Inspire Fund, with
