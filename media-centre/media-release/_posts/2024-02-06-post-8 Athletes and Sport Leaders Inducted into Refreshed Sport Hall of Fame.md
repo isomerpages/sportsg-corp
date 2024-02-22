@@ -85,7 +85,9 @@ part of the Singapore Swimming Association Water Polo Advisory Committee
 between 2017 and 2018.</p>
 <p></p>
 <p>More details on the awardees’ key sporting achievements and contributions
-can be found in <u>Annex A (athletes)</u> and <u>Annex B (sport leaders)</u>.</p>
+can be found in <a href="/files/Media Centre/Media Release/2023 &amp; 2024/Feb_2024_ANNEX_A___Key_sporting_achievements_and_contributions__athletes_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex A</u></a><u> (athletes)</u> and
+<a href="/files/Media Centre/Media Release/2023 &amp; 2024/Feb_2024_ANNEX_B___Key_sporting_contributions__sport_leaders_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex B</u>
+</a><u> (sport leaders)</u>.</p>
 <p><strong>Ms Joscelin Yeo, Singapore Sport Hall of Fame Awardee (Athlete) and former Team Singapore swimmer</strong>,
 said, “I am deeply honoured and humbled to receive this prestigious award
 today, standing alongside esteemed sporting figures who have left an indelible
@@ -112,7 +114,7 @@ sports too."</p>
 (NSAs) were received by the SportSG between 1 April and 31 May 2023, of
 which eight were selected to be inducted to the Sport Hall of Fame after
 an assessment by the Expert Panel and Selection Panel based on the selection
-criteria (<u>Annex C</u>).</p>
+criteria (<a href="/files/Media Centre/Media Release/2023 &amp; 2024/Feb_2024_ANNEX_C___Selection_criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex C</u></a>).</p>
 <p>Co-chaired by Mr Toh Boon Yi, Deputy Chief Executive Officer of SportSG
 and Mr Chris Chan, Secretary-General of the Singapore National Olympic
 Council (SNOC), the Expert Panel comprises former athletes, media personnel,
@@ -123,7 +125,7 @@ a shortlist to the Selection Panel. Based on the recommendations from the
 Expert Panel, the Selection Panel, chaired by Mr Kon Yin Tong, Chairman
 of SportSG, then made the final selection on the inductees to the Sport
 Hall of Fame (Composition of the Expert and Selection Panel can be found
-in <u>Annex D</u>).</p>
+in <a href="/files/Media Centre/Media Release/2023 &amp; 2024/Feb_2024_ANNEX_D___Composition_of_the_expert_and_selection_panel.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex D</u></a>).</p>
 <p>Established in 1985, the Singapore Sport Hall of Fame is designed to recognise
 outstanding Singaporeans who have left an indelible mark on the nation’s
 sporting landscape. This year marks the first Sport Hall of Fame Awards
