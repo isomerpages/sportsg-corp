@@ -4,7 +4,7 @@ permalink: /support-resources/sport-and-exercise-participation-in-singapore/
 description: Sport & Exercise Participation in Singapore
 variant: tiptap
 ---
-<p><strong>Sport &amp; Exercise Participation in Singapore</strong>
+<p><strong>Measuring Sport &amp; Exercise Participation in Singapore</strong>
 </p>
 <p>The National Sport &amp; Exercise Participation Survey is Singapore’s
 only annual national survey on sport and exercise participation among citizens
