@@ -15,7 +15,7 @@ in between the years, a smaller scale study “Sport Index” was deployed
 to capture annual data for trending analyses. Insights from the survey
 is used to shape the policies and strategies for sport programmes, initiatives,
 infrastructures, and campaigns for residents to stay active and well.</p>
-<p>In 2015, NSPS was converted to an annual survey with monthly interviews
+<p>In 2015, (NSPS) was converted to an annual survey with monthly interviews
 accumulating to a sample size of at least 4,500 per year. This shift enabled
 more robust representation of sport and exercise behaviours and trends
 across the year, together with insights on participation profiles, motivations
