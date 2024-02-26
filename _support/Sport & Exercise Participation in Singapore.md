@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Measuring Sport &amp; Exercise Participation in Singapore</strong>
 </p>
-<p>The National Sport &amp; Exercise Participation Survey NSPSis Singapore’s
+<p>The National Sport &amp; Exercise Participation Survey NSPS is Singapore’s
 only annual national survey on sport and exercise participation among citizens
 and permanent residents aged 13 years old and above. Data is captured via
 face-to-face interviews among randomly selected households from the Department
