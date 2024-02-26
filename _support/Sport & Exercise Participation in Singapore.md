@@ -24,4 +24,4 @@ from being active.</p>
 <p>NSPS annual results from 2015 are accessible on <a href="http://go.gov.sg/sportdexsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sportdexsg</a>
 </p>
 <p>Blackbox Research Pte Ltd has been appointed by Sport Singapore to conduct
-the survey among the general population.(</p>
+the survey among the general population</p>
