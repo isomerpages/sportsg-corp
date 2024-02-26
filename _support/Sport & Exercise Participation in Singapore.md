@@ -1,7 +1,7 @@
 ---
-title: Measuring Sport & Exercise Participation in Singapore
-permalink: /support-resources/measuring-sport-and-exercise-participation-in-singapore/
-description: Measuring Sport & Exercise Participation in Singapore
+title: Sport & Exercise Participation in Singapore
+permalink: /support-resources/sport-and-exercise-participation-in-singapore/
+description: Sport & Exercise Participation in Singapore
 variant: tiptap
 ---
 <p><strong>Sport &amp; Exercise Participation in Singapore</strong>
