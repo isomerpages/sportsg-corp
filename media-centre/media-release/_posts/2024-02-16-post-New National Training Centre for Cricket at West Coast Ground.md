@@ -9,10 +9,11 @@ description: The national cricket team will begin training at West Coast Ground
 image: ""
 variant: tiptap
 ---
-<p>16 February 2024 – The national cricket team will begin training at West
-Coast Ground by mid-2024. This new cricket training ground will be a dedicated
-training facility for the National Team to prepare for major competitions,
-which may include SEA Games, Asian Games and ICC ranking competitions.</p>
+<p><strong>Singapore, 16 February 2024</strong> – The national cricket team
+will begin training at West Coast Ground by mid-2024. This new cricket
+training ground will be a dedicated training facility for the National
+Team to prepare for major competitions, which may include SEA Games, Asian
+Games and ICC ranking competitions.</p>
 <p>The West Coast Ground will have a cricket pitch, cricket nets, gym and
 sheltered training area. The sheltered training area will allow the team
 to train even in rainy weather.</p>
