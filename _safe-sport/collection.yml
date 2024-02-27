@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Safe Sport.md
-      - Reporting.md
       - General Resources.md
