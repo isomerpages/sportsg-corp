@@ -24,4 +24,4 @@ Greater emphasis will also be placed on developing professional capabilities in 
   
 Said Minister Grace Fu, “Sport has the ability to raise self-esteem and to inspire. Never have we felt its potential greater than at the ASEAN Para Games when we were inspired by the achievements of the athletes. Through the Disability Sports Master Plan, we want to harness the potential of sport further by making it easier for those with disabilities to lead an active lifestyle. Today’s launch is an important first step for us. In time to come, Singapore will become a more inclusive society, where persons of all abilities can enjoy sports together.”  
   
-A copy of the Disability Sports Master Plan can be found at [MCCY](www.mccy.gov.sg).
+A copy of the Disability Sports Master Plan can be found at [MCCY](https://www.mccy.gov.sg).

@@ -91,7 +91,7 @@ The Singapore Sports Council aims to transform the nation through sport, by insp
 To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
 
 **About Singapore National Olympic Council (SNOC)**<br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [Singapore National Olympic Council](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [Singapore National Olympic Council](https://www.snoc.org.sg).
 
 Follow us on:<br>
 [28th SEA Games Website](http://www.seagames2015.com)<br>

@@ -69,4 +69,4 @@ Email: [Kenny@mileage.com.sg](mailto:Kenny@mileage.com.sg)
 <br>
 The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
 
-Please visit the SSC website at [www.ssc.gov.sg](www.ssc.gov.sg) for more information on SSC.
+Please visit the SSC website at [www.ssc.gov.sg](https://www.ssc.gov.sg) for more information on SSC.

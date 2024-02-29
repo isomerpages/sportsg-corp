@@ -42,7 +42,7 @@ Email: [christopherm@mindchamps.org](mailto:christopherm@mindchamps.org)
 ---
 
 **About Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) for more information.
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) for more information.
 
 **About MindChamps**
 <br>
@@ -50,4 +50,4 @@ MindChamps is a leading international educational institute dedicated to trainin
 
 Launched as a research centre in Sydney in 1998, MindChamps established its World Head Institute in Singapore in 2002. Its unique advanced learning programmes are developed through the work of a dedicated team of world-class professionals from 4 different continents (Asia, Australia, Europe and North America) and with years of extensive experience in the 4 domains of Education, Neuroscience, Psychology and Theatre.
 
-For more information, please visit [www.mindchamps.org](www.mindchamps.org).
+For more information, please visit [www.mindchamps.org](https://www.mindchamps.org).

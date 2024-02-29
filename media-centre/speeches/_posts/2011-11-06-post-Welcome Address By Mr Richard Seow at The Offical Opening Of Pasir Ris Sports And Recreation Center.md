@@ -72,7 +72,7 @@ Ladies and gentlemen
 
 15 The transformation you see before you today has evolved through years of consultation with various grassroots and other government agencies. Recently, SSC has embarked on a new initiative called Vision 2030, with the aim of creating a new sports master plan for the next 20 years.
 
-16 In alignment with Vision 2030, a new 20-year Sports Facilities Master Plan is also being created, with input gathered from Singaporeans across the board. We are committed to building spaces for our communities to live, play and bond. We are currently at the feedback phase, and I urge you to get involved in the conversation. Log onto our website: [www.vision2030.sg](www.vision2030.sg). Together, we can realise our shared future for Sporting Singapore.
+16 In alignment with Vision 2030, a new 20-year Sports Facilities Master Plan is also being created, with input gathered from Singaporeans across the board. We are committed to building spaces for our communities to live, play and bond. We are currently at the feedback phase, and I urge you to get involved in the conversation. Log onto our website: [www.vision2030.sg](https://www.vision2030.sg). Together, we can realise our shared future for Sporting Singapore.
 
 17 Moving forward, I'm confident that the diversity of sporting space will inspire you to embrace sport as part of your life. I hope that the Pasir Ris SRC will not only enrich your lives through sport, but become a place where families and residents gather to form life-long bonds of friendship.
 

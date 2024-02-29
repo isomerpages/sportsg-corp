@@ -39,7 +39,7 @@ A very good evening.
 
 7 Their road to international excellence is also a tribute to Singapore Sailing Federation, its pathway development programmes for athletes and its strong support from affiliates and sponsors. Anyone involved in the sailing world knows that sport is one of the most powerful tools to connect with employees and clients. SSC has been exploring ways to forge a closer relationship between sport and Corporate Singapore Our Vision 2030 project is mapping the value of sport to Singapore in the years to come and how the best principles of sport align with corporate strategy.
 
-8 Many of you here have invested personally in sport. I urge you to join the Vision 2030 conversation at our website: [www.vision2030.sg](www.vision2030.sg). Tell us what sport can do for you.
+8 Many of you here have invested personally in sport. I urge you to join the Vision 2030 conversation at our website: [www.vision2030.sg](https://www.vision2030.sg). Tell us what sport can do for you.
 
 8 I would like to commend this year's organisers, the Republic of Singapore Yacht Club for making the 18th SSR a success. As the oldest sailing club in Singapore, the RSYC has played an integral role in the history and development of sailing in Singapore.
 

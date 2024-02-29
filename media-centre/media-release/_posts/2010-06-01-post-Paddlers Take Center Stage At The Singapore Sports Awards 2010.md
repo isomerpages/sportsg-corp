@@ -149,12 +149,12 @@ Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
 ---
 
 **About Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics Games, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)

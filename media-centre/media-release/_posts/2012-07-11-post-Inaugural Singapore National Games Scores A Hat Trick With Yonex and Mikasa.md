@@ -65,17 +65,17 @@ Adlina JAFFAR
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About People's Association**
 <br>
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](www.pa.gov.sg) and [www.mycommunity.org.sg](www.mycommunity.org.sg).
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](https://www.pa.gov.sg) and [www.mycommunity.org.sg](https://www.mycommunity.org.sg).
 
 ![](/images/Media%20Centre/Media%20Release/2012/Jul/INAUGURALSINGAPORENATIONALGAMESSCORESAHATTRICKWITHYONEXANDMIKASAMainPar0042Imagegif.gif)
 
-Signing up for your favourite courses just got easier. Simply log on to [www.mycommunity.org.sg](www.mycommunity.org.sg) on your smartphone!
+Signing up for your favourite courses just got easier. Simply log on to [www.mycommunity.org.sg](https://www.mycommunity.org.sg) on your smartphone!
 
 **About Sunrise & Company Pte Ltd**
 <br>

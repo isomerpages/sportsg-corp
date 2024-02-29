@@ -43,9 +43,9 @@ Mr Lim Teck Yin, CEO of Sport Singapore shared that “The Standard Chartered Ma
 
 Registration for the marathon begins today from 10am at the race website, fees for all categories have remained the same as last year. Standard Chartered cardholders stand to enjoy 15% off registration fee across all categories.
 
-For more information, visit: [Standard Chartered Marathon Singapore (SCMS)](www.marathonsingapore.com)
+For more information, visit: [Standard Chartered Marathon Singapore (SCMS)](https://www.marathonsingapore.com)
 
 **Follow the race:**<br>
-Facebook: [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG)<br>
+Facebook: [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG)<br>
 Instagram: @MarathonSG <br> 
 Twitter: @MarathonSG

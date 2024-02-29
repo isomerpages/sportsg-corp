@@ -80,7 +80,7 @@ Team Singapore is a shared identity for all Singaporeans, where sport is the nat
 
 For further information on Team Singapore, please visit [Team Singapore](https://www.teamsingapore.sg/home)
 <br>
-Follow Team Singapore's action on Facebook at [facebook.com/TeamSG](www.facebook.com/TeamSG) and #ourteamsg on Instagram
+Follow Team Singapore's action on Facebook at [facebook.com/TeamSG](https://www.facebook.com/TeamSG) and #ourteamsg on Instagram
 
 **About Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympic Games, the Youth Olympic Games, the Asian Games, the Asian Youth Games, the Commonwealth Games and the Southeast Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894.

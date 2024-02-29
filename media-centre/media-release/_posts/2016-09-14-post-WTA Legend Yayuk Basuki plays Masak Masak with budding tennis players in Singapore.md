@@ -42,4 +42,4 @@ As a key recommendation of Vision 2030 – Singapore’s master plan for sports,
 **About WTA**<br>
 The WTA is the global leader in women’s professional sport with more than 2,500 players representing 92 nations competing for a record $130 million in prize money. The 2016 WTA competitive season includes 56 events and four Grand Slams in 33 countries. In 2015, The WTA was watched by 395 million fans on television and digital channels around the world. The 2016 WTA competitive season concludes with the BNP Paribas WTA Finals Singapore presented by SC Global, from 23-30 October 2016 and the WTA Elite Trophy in Zhuhai, China from 1-6 November 2016.
 
-Further information on the WTA can be found at [www.wtatennis.com](www.wtatennis.com), [facebook.com/WTA](facebook.com/WTA) and [twitter.com/WTA](twitter.com/WTA).
+Further information on the WTA can be found at [www.wtatennis.com](https://www.wtatennis.com), [facebook.com/WTA](facebook.com/WTA) and [twitter.com/WTA](twitter.com/WTA).

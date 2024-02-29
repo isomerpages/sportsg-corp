@@ -26,6 +26,6 @@ The closure of sports facilities will be based on 24-hour PSI readings.
 | West | Lim Chu Kang, Choa Chu Kang, Bukit Panjang, Tuas, Jurong East, Jurong West, Jurong Industrial Estate, Bukit Batok, Hillview, West Coast, Clementi |
 | Central | Thomson, Marymount, Sin Ming, Ang Mo Kio, Bishan, Serangoon Gardens, MacRitchie, Toa Payoh |
 
-For any updates, visit [NEA website](https://www.nea.gov.sg/), MSS website, the [haze microsite](https://www.haze.gov.sg/), mobile apps (myEnv and Weather@SG) or [NWA Facebook](www.facebook.com/NEASingapore) and NEA Twitter (@NEAsg). For information on the distribution of hotspots detected over the past fortnight in the region, please refer to the ASEAN Specialised Meteorological Centre (ASMC) website at [asmc.asean.org.](http://asmc.asean.org/home/)
+For any updates, visit [NEA website](https://www.nea.gov.sg/), MSS website, the [haze microsite](https://www.haze.gov.sg/), mobile apps (myEnv and Weather@SG) or [NWA Facebook](https://www.facebook.com/NEASingapore) and NEA Twitter (@NEAsg). For information on the distribution of hotspots detected over the past fortnight in the region, please refer to the ASEAN Specialised Meteorological Centre (ASMC) website at [asmc.asean.org.](http://asmc.asean.org/home/)
 
 *Updated as at 19 September 2019*

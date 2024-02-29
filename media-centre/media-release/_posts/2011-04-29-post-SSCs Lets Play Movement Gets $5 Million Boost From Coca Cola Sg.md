@@ -26,7 +26,7 @@ _SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commu
 
 8. Beginning with Netball at IMM on 29 - 30 April 2011 and Sengkang SRC on 1 May 2011, Singaporeans will get to try their hand at Netball and get tips from trainers present on ways to improve their techniques. Participants will also get a chance to enter a lucky draw to win a trip to the 26th SEA Games in Palembang, Indonesia this November to cheer on Team Singapore.
 
-9. Daily tickets to the Mission Foods World Netball Championships 2011 held at the Singapore Indoor Stadium from 3 - 10 July 2011 were also launched at the event. Beginning today, the public will be able to purchase daily tickets to catch the world's top netball teams battle it out, prices for daily tickets range from S$10 - S$160. Student prices are also available for students 25 years and under, holding a Singapore student pass. For more information on daily tickets and ticket packages, the public can visit [www.sistic.com.sg](www.sistic.com.sg).
+9. Daily tickets to the Mission Foods World Netball Championships 2011 held at the Singapore Indoor Stadium from 3 - 10 July 2011 were also launched at the event. Beginning today, the public will be able to purchase daily tickets to catch the world's top netball teams battle it out, prices for daily tickets range from S$10 - S$160. Student prices are also available for students 25 years and under, holding a Singapore student pass. For more information on daily tickets and ticket packages, the public can visit [www.sistic.com.sg](https://www.sistic.com.sg).
 
 10. Let's Play Non-Stop! is part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports. More information on Let's Play Non-Stop! can be found at [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport).
 
@@ -73,13 +73,13 @@ June Kong
 **About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Let's Play**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg).
+Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg).
 
 **About Coca-Cola**<br>
 Coca-Cola Singapore is the leader in nonalcoholic beverages in Singapore. In addition to the world's most valuable brand, Coca-Cola, Coca-Cola Singapore also produces, markets and distributes a total beverage portfolio of sparkling beverages, zero-sugar sparkling drinks (Coke light and Coke Zero), juice drinks (Minute Maid), teas (Heaven and Earth) and water (Dasani and vitaminwater).
@@ -88,4 +88,4 @@ Coca-Cola Singapore is committed to supporting programs and partnerships that en
 
 The Coca-Cola system in Singapore is a Gold award recipient of the Food Safety Awards for excellence in hygiene and food safety standards and maintaining an 'A' grade rating for 15 consecutive years. Coca-Cola was also awarded the Gold award in the 3R Packaging Awards 2010 for reducing packaging waste.
 
-For more information about The Coca-Cola Company or Coca-Cola Singapore, please visit [www.thecoca-colacompany.com](www.thecoca-colacompany.com) and [www.coca-cola.com.sg](www.coca-cola.com.sg).
+For more information about The Coca-Cola Company or Coca-Cola Singapore, please visit [www.thecoca-colacompany.com](https://www.thecoca-colacompany.com) and [www.coca-cola.com.sg](https://www.coca-cola.com.sg).

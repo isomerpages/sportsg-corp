@@ -49,7 +49,7 @@ image: ""
 
 DATE: 3-14 October 2010<br>
 VENUE: Delhi, India<br>
-WEBSITE: [www.thecgf.com/results/games/3046](www.thecgf.com/results/games/3046)
+WEBSITE: [www.thecgf.com/results/games/3046](https://www.thecgf.com/results/games/3046)
 
 NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 

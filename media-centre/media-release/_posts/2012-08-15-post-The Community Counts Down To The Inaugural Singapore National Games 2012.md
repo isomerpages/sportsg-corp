@@ -28,7 +28,7 @@ image: ""
 
 6\. Leading up to the Games, an island-wide Baton Relay will be held in conjunction with the One Community Walk (OCW), organised by the PA, the Community Sports Club Council and the Community Sports Clubs (CSCs), on Sunday, 26 August 2012. The OCW aims to foster community bonding by bringing residents of different ages, races and living in all estates together. A baton relay team, comprising 20 baton bearers will be walking a distance of about two to three kilometers in each constituency. In total, 1,740 baton bearers from 87 constituencies will kick off at the same time at the OCW. This signifies the community's involvement for the Games and encourages all community athletes and officials to bond and build friendships through sports.
 
-7\. To heighten the mood and celebrate a special five-day countdown to the start of the SNG, a 'Spot-the-Nila' contest will be held via SNG Facebook from 27 to 31 August 2012, where the public is invited to spot Nila or any of the 15 cluster mascots around Singapore and get a chance to win an exclusive SNG souvenir. Details of the contest are available at the SNG Facebook page at [www.facebook.com/NationalSchoolGames](www.facebook.com/NationalSchoolGames).
+7\. To heighten the mood and celebrate a special five-day countdown to the start of the SNG, a 'Spot-the-Nila' contest will be held via SNG Facebook from 27 to 31 August 2012, where the public is invited to spot Nila or any of the 15 cluster mascots around Singapore and get a chance to win an exclusive SNG souvenir. Details of the contest are available at the SNG Facebook page at [www.facebook.com/NationalSchoolGames](https://www.facebook.com/NationalSchoolGames).
 
 **Strong Support for SNG from Community**
 
@@ -90,13 +90,13 @@ The baton holder at its base is the heaviest part of the baton?s structure which
 
 Celebrating a special five-day countdown to the start of the Singapore National Games 2012, 15 cluster mascots will be making appearances around Singapore from 27 to 31 August 2012. Each of the mascots has been customised with accessories and graphics, based on the original Singapore National Games (SNG) mascot, Nila, to showcase the unique identify of each cluster participating in the SNG.
 
-To take part in the 'Spot the Nila' Contest, Singapore residents will need to capture their encounters with Nila and share the photograph on the official SNG Facebook fan page ([www.facebook.com/NationalSchoolGames](www.facebook.com/NationalSchoolGames)). Fans can also listen for daily hints on the whereabouts of the mascots on MediaCorp Radio station 987FM during the station's evening segment from 4.00pm to 8.00pm.
+To take part in the 'Spot the Nila' Contest, Singapore residents will need to capture their encounters with Nila and share the photograph on the official SNG Facebook fan page ([www.facebook.com/NationalSchoolGames](https://www.facebook.com/NationalSchoolGames)). Fans can also listen for daily hints on the whereabouts of the mascots on MediaCorp Radio station 987FM during the station's evening segment from 4.00pm to 8.00pm.
 
 The first 10 fans to submit their photographs to the SNG Facebook fan page each day will each win an exclusive SNG goodie bag. All winners will be notified via private message on how to collect their prizes.
 
-For more information on the 'Spot-the-Nila' contest, visit the SNG Facebook fan page at [www.facebook.com/NationalSchoolGames](www.facebook.com/NationalSchoolGames).
+For more information on the 'Spot-the-Nila' contest, visit the SNG Facebook fan page at [www.facebook.com/NationalSchoolGames](https://www.facebook.com/NationalSchoolGames).
 
-For photographs of Nila and the other 15 cluster mascots, please go to: [www.flickr.com/photos/ssc-sportsphotography/collections/72157630231650052](www.flickr.com/photos/ssc-sportsphotography/collections/72157630231650052)/
+For photographs of Nila and the other 15 cluster mascots, please go to: [www.flickr.com/photos/ssc-sportsphotography/collections/72157630231650052](https://www.flickr.com/photos/ssc-sportsphotography/collections/72157630231650052)/
 
 ---
 **For media enquiries, please contact:**
@@ -118,21 +118,21 @@ Adlina JAFFAR
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
+To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) and [Vision2030.sg](/about-us/vision-2030/)<br>
+Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About People's Association**
 <br>
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg ](www.pa.gov.sg )and [www.mycommunity.org.sg](www.mycommunity.org.sg).
+The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg ](https://www.pa.gov.sg )and [www.mycommunity.org.sg](https://www.mycommunity.org.sg).
 
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/THECOMMUNITYCOUNTSDOWNTOTHEINAUGURALSINGAPORENATIONALGAMES2012MainPar0042Imagegif.gif)
 
-Signing up for your favourite courses just got easier. Simply log on to [www.mycommunity.org.sg](www.mycommunity.org.sg) on your smartphone!
+Signing up for your favourite courses just got easier. Simply log on to [www.mycommunity.org.sg](https://www.mycommunity.org.sg) on your smartphone!
 
 **About Community Games**
 <br>
-The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](www.pacsc.org.sg) and [www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs](www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs).
+The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](https://www.pacsc.org.sg) and [www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs](https://www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs).
 
 **About the Community Sports Clubs**
 <br>

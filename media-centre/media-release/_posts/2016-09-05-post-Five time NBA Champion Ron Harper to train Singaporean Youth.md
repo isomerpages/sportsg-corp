@@ -24,7 +24,7 @@ The Jr. NBA complements the programme offerings provided by the recently launche
   
 As part of last year’s overseas NBA experience, the 2015 Jr. NBA All-Stars traveled to China to attend NBA Global Games 2015 in Shenzhen featuring the Hornets and L.A. Clippers. While in Shenzhen they met with NBA Global Ambassador and Hall of Famer Dikembe Mutombo, played in exhibition basketball games and toured the city. Details of the 2016 NBA experience will be announced at a later date.  
   
-Fans can follow the program on Facebook at [www.facebook.com/jrnbasingapore](www.facebook.com/jrnbasingapore). For all things NBA, visit [www.nba.com](www.nba.com).  
+Fans can follow the program on Facebook at [www.facebook.com/jrnbasingapore](https://www.facebook.com/jrnbasingapore). For all things NBA, visit [www.nba.com](https://www.nba.com).  
 
 ---
 

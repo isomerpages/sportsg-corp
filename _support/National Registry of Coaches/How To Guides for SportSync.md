@@ -6,7 +6,7 @@ third_nav_title: National Registry of Coaches
 ---
 SportSync launched in 2018 which includes features such as NROC membership e-card accessibility and updating of Continuing Coach Education records via e-Logbook. 
 
-CoachSG has since discontinued all physical copies of the membership card and logbook with effect from 1 April 2020. Please do logon to [www.sportsync.sg](www.sportsync.sg) for more information. Below are some guides to aid in accessing SportSync's function.
+CoachSG has since discontinued all physical copies of the membership card and logbook with effect from 1 April 2020. Please do logon to [www.sportsync.sg](https://www.sportsync.sg) for more information. Below are some guides to aid in accessing SportSync's function.
 
 * [How to renew/upgrade NROC membership?](/files/Support/National%20Registry%20of%20Coaches/How%20to%20Guides%20for%20Sport%20Sync/RenewUpgrade_Application.pdf)
 <br>[on mobile](/files/Support/National%20Registry%20of%20Coaches/How%20to%20Guides%20for%20Sport%20Sync/renewmobile.pdf)

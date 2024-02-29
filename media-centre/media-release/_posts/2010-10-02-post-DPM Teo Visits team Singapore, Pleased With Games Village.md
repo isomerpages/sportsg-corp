@@ -39,7 +39,7 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 
 To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)
 <br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
@@ -57,4 +57,4 @@ For further information, please visit [www.teamsingapore.sg](http://www.teamsing
 **About Commonwealth Games Singapore**<br>
 Singapore participates in the Commonwealth Games as Commonwealth Games Singapore. This is the same organisation as the Singapore National Olympic Council. Singapore's involvement in the Commonwealth Games started in 1958 where the Games were held in Cardiff, Wales.
 
-The Singapore National Olympic Council (SNOC) / Commonwealth Games Singapore (CGS) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) / Commonwealth Games Singapore (CGS) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).

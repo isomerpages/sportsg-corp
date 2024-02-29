@@ -28,7 +28,7 @@ _Most Categories are at Least 50% Filled Up; More Reasons to 'Run For Good' with
 
 7. Along with creating an event that involves the community on a whole, the SSC is looking to translate the growing involvement to having participants taking part in the race with an additional purpose. Charity has always been part of the event, but to encourage more runners to be involved with its 'Run for good' programme, the SSC has introduced a brand new concept hosted on the online platform GIVE.sg, the Official Charity Fundraising Platform for 2011.
 
-8. With GIVE.sg, runners can now nominate a charity of their choice and create a page on [www.give.asia](www.give.asia) to rally for funds. Alternatively they can raise funds for any of the 35 nominated beneficiaries[1]. Besides providing runners with the flexibility of choice, this platform also allows anyone in the world to donate using their credit or debit card in a safe and secure way. Local donors are entitled to a tax deduction of 2.5 times the donation amount when they donate to any organisations with Institution of Public Character (IPC) status. Runners can join the 'Run for good' charity programme at [www.singaporemarathon.com](https://singaporemarathon.com/).
+8. With GIVE.sg, runners can now nominate a charity of their choice and create a page on [www.give.asia](https://www.give.asia) to rally for funds. Alternatively they can raise funds for any of the 35 nominated beneficiaries[1]. Besides providing runners with the flexibility of choice, this platform also allows anyone in the world to donate using their credit or debit card in a safe and secure way. Local donors are entitled to a tax deduction of 2.5 times the donation amount when they donate to any organisations with Institution of Public Character (IPC) status. Runners can join the 'Run for good' charity programme at [www.singaporemarathon.com](https://singaporemarathon.com/).
 
 9. For further details of the SCMS 2011, please visit the Marathon's official website and Facebook page at [www.singaporemarathon.com](https://singaporemarathon.com/) and [www.facebook.com/SGmarathon](https://www.facebook.com/SGmarathon/).
 
@@ -53,8 +53,8 @@ Jemuel Fu
 **About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 

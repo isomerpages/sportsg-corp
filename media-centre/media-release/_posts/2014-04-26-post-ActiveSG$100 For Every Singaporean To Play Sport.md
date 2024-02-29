@@ -28,7 +28,7 @@ Open to all Singaporeans and Permanent Residents, each ActiveSG member will be g
 
 ![Children playing Flippa Ball](/images/Media%20Centre/Media%20Release/2014/April/Children%20playing%20Flippa%20Ball.jpeg)_Children playing Flippa Ball at Jurong West Sports Centre Open House_
 
-5\. Singaporeans and PRs can sign-up as an ActiveSG member via [www.myactivesg.com](www.myactivesg.com), or at any of the Sports Centres island-wide.
+5\. Singaporeans and PRs can sign-up as an ActiveSG member via [www.myactivesg.com](https://www.myactivesg.com), or at any of the Sports Centres island-wide.
 
 **Upcoming Open House Details**  
 

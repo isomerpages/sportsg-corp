@@ -33,7 +33,7 @@ The Sports Hub will be a fully integrated sports, entertainment and lifestyle hu
 <br>
 [Annex C: Sports Hub fact sheet](/files/Media%20Centre/Media%20Release/2006/July/31JulMRAnnexc.pdf)
 
-For more on the Sports Hub, please log on to [www.ssc.gov.sg](www.ssc.gov.sg).
+For more on the Sports Hub, please log on to [www.ssc.gov.sg](https://www.ssc.gov.sg).
 
 ---
 
