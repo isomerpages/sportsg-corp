@@ -1,0 +1,18 @@
+collections:
+  coaches-corner:
+    output: true
+    order:
+      - Singapore Coach Excellence/SG Coach Theory Accreditation.md
+      - Singapore Coach Excellence/.keep
+      - Singapore Coach Excellence/Foundational and Intermediate Sports Science
+        Courses.md
+      - Singapore Coach Excellence/Foundational Intermediate Sports Science
+        Course Waivers.md
+      - Singapore Coach Excellence/SG Coach Level 1 Theory Programme.md
+      - Singapore Coach Excellence/SG Coach Technical Programme Accreditation.md
+      - Singapore Coach Excellence/Replacement of Lost Certificate.md
+      - Continuing Coach Development/Coaching Learning Resources.md
+      - Continuing Coach Development/Continuing Coach Education (CCE).md
+      - Continuing Coach Development/.keep
+      - Funding/Coach Development Grant.md
+      - Funding/.keep

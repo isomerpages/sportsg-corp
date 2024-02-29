@@ -1,0 +1,5 @@
+collections:
+  safe-sport:
+    output: true
+    order:
+      - Safe Sport.md

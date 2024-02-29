@@ -1,0 +1,41 @@
+collections:
+  sports-education:
+    output: true
+    order:
+      - Overview.md
+      - History of SportSG/.keep
+      - History of SportSG/Introduction.md
+      - History of SportSG/Sports in Colonial Times.md
+      - History of SportSG/Sports in Independent Times.md
+      - History of SportSG/Singapore Sports Hub Library.md
+      - National Standards for Youth Sports.md
+      - Sporting Clubs/.keep
+      - Sporting Clubs/Chinese Swimming Club.md
+      - Sporting Clubs/Indian Association.md
+      - Sporting Clubs/Ladies Lawn Tennis Club.md
+      - Sporting Clubs/Singapore Cricket Club.md
+      - Sporting Clubs/Singapore Island Country Club.md
+      - Sporting Clubs/Singapore Polo Club.md
+      - Sporting Clubs/Singapore Recreation Club.md
+      - Sporting Clubs/Singapore Swimming Club.md
+      - Sporting Clubs/Swiss Club.md
+      - Sporting Clubs/YMCA.md
+      - Sporting Events/.keep
+      - Sporting Events/Grand Prix.md
+      - Sporting Events/National Fitness Exercise.md
+      - Sporting Events/Pesta Sukan.md
+      - Sports Education Programme.md
+      - Sports Leadership/.keep
+      - Sports Leadership/Game For Life.md
+      - Sports Leadership/Resources.md
+      - Sports Leadership/Past Works.md
+      - Sports Safety/.keep
+      - Sports Safety/Introduction.md
+      - Sports Safety/Haze Management at Sport Singapore.md
+      - Sports Safety/Heat Stress Management Plan For Sport Fraternity.md
+      - Sports Safety/Pool Water Quality.md
+      - Sports Safety/Safety Resources & Useful Links.md
+      - Sports Safety/Sports Safety Committee.md
+      - Sports Safety/Sports Safety & Health Check.md
+      - Sports Safety/Sports Safe U Guide.md
+      - Values & Principles in Sport.md

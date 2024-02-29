@@ -1,0 +1,11 @@
+collections:
+  sport-leadership:
+    output: true
+    order:
+      - Game For Life/Stories The Winning Edge.md
+      - Game For Life/Stories A Winning Mind.md
+      - Game For Life/.keep
+      - Game For Life/Stories Winning At Life.md
+      - Game For Life/Workshop and Training.md
+      - Game For Life/Guide.md
+      - Game For Life/Book.md
