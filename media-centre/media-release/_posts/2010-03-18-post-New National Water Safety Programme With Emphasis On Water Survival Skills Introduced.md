@@ -27,7 +27,7 @@ _SwimSafer to replace Learn-To-Swim Programme and National Survival Swimming Awa
 
 8. "As the lead agency for sports in Singapore, and the largest owner and operator of public swimming pools, the Singapore Sports Council continually strives to provide a safe and enjoyable swimming environment for the public. We see the immense value that the SwimSafer programme can bring to young Singaporeans-that is to allow them to be confident and safe in the waters," said Mr Kenneth Hui, Chief of Sports Facilities Group, SSC.
 
-9. For more information on the SwimSafer programme, the public can visit [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) or call the hotline at 6500 5439 (operational from 22 March 2010 onwards) from Monday to Friday, 9am to 6pm.
+9. For more information on the SwimSafer programme, the public can visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) or call the hotline at 6500 5439 (operational from 22 March 2010 onwards) from Monday to Friday, 9am to 6pm.
 
 ---
 
@@ -59,7 +59,7 @@ Your child will be required to perform strokes with greater ease, efficiency, po
 
 **About SwimSafer**
 <br>
-SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council and was launched on 18 March 2010. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg).
+SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council and was launched on 18 March 2010. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg).
 
 Have Fun, Swim Safe.
 
@@ -99,7 +99,7 @@ The NWSC was appointed by the Ministry of Community Development, Youth and Sport
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)

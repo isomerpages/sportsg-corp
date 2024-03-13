@@ -38,7 +38,7 @@ Name: Fauja Singh
 <br>Current place of residency: Essex, Ilford, England
 <br>Total number of full marathons: Nine
 <br>Marathon debut: London, Year 2000, at age 89
-<br>Running Group: Sikhs In The City - [www.sikhsinthecity.org](www.sikhsinthecity.org)
+<br>Running Group: Sikhs In The City - [www.sikhsinthecity.org](https://www.sikhsinthecity.org)
 <br>GiveAsia webpage: http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation 
 
 **World Records set:**

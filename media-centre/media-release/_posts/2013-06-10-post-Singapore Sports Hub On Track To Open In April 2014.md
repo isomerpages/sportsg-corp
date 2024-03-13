@@ -63,7 +63,7 @@ Located on a 35-hectare site in Kallang, the Singapore Sports Hub will include t
 * Daily community facilities and activities open for Singaporeans, including beach volleyball, hard courts for basketball, lawn bowls, skate park, climbing wall and running/cycling circuit
 * The Singapore Sports Hub, which is managed by SportsHub Pte. Ltd., is one of the largest sports facilities infrastructure Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and won the PFI award in London in 2011. The Singapore Sports Hub will open its doors in April 2014.
 
-For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](www.sportshub.com.sg)
+For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](https://www.sportshub.com.sg)
 
 The Public-Private Partnership includes:
 

@@ -32,7 +32,7 @@ Concludes Mr Oon Jin Teik, CEO of co-organiser Singapore Sports Council, "It's g
 **Ticketing Information**
 <br>
 "Field of Dreams - A Tribute to the National Stadium"<br>
-Tickets sold through SISTIC website (www.sistic.com.sg), authorized agents and telephone hotline (Tel: 6348 5555).
+Tickets sold through SISTIC website (https://www.sistic.com.sg), authorized agents and telephone hotline (Tel: 6348 5555).
 
 Pre-match day (29 May - 29 June 2007):<br>
 $15 Adult (excl. $1 SISTIC fee) / $8 Child/Student (excl. $1 SISTIC fee)

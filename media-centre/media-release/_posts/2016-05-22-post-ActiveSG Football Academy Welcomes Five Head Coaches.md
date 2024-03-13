@@ -9,7 +9,7 @@ image: ""
 
 ### **ActiveSG Football Academy Welcomes Five Head Coaches**
 
-In less than a week, the ActiveSG Football Academy will be kicking off the first run of its programme at five different ActiveSG venues around the country. Parents interested to find more information or sign their child up for the programme can do so online at [ActiveSG Football Academy](www.myactivesg.com/programmes/academy/football).
+In less than a week, the ActiveSG Football Academy will be kicking off the first run of its programme at five different ActiveSG venues around the country. Parents interested to find more information or sign their child up for the programme can do so online at [ActiveSG Football Academy](https://www.myactivesg.com/programmes/academy/football).
 
 Heading the programme at the various venues will be five new head coaches with a wealth of coaching experience under their belt, announced the ActiveSG Football Academy today.
 

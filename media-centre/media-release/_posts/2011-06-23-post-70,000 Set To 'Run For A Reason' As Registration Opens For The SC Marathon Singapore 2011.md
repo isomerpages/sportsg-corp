@@ -36,7 +36,7 @@ _SSC Committed to Enhance Race Day Experience for Participants and Supporters Al
 
 11. "With an increase in community engagement activities, the SSC is confident that the People's Race will continue to grow and play a vital role in helping to cultivate a vibrant sporting culture in Singapore. Said Mr Lim, "Sporting Singapore has always provided space for everyone who wants to play sports, and the Standard Chartered Marathon Singapore personifies this philosophy of inclusivity."
 
-12. The inaugural SCMS attracted a record 60,000 participants in 2010. For further details of the SCMS 2011, please visit [www.singaporemarathon.com](www.singaporemarathon.com) and [www.facebook.com/SGmarathon](www.facebook.com/SGmarathon).
+12. The inaugural SCMS attracted a record 60,000 participants in 2010. For further details of the SCMS 2011, please visit [www.singaporemarathon.com](https://www.singaporemarathon.com) and [www.facebook.com/SGmarathon](https://www.facebook.com/SGmarathon).
 
 ---
 
@@ -64,8 +64,8 @@ Tanty Nazlianah Rosli
 **About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 

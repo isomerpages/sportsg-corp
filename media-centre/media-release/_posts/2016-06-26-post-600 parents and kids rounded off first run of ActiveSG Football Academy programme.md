@@ -17,4 +17,4 @@ The next run of the junior programme will begin on 2 July and will span across 1
 
 Following the success of the academy’s junior programme, the academy is planning to extend their programme to youths aged 13 to 16 years old. Free trials will be conducted in July and August across the 5 venues for interested participants before the youth programme officially begins in September.  
   
-Parents interested to find out more information or sign their child up for the junior programme or free trials can do so online at [ActiveSG Football Academy](www.myactivesg.com/programmes/academy/football).
+Parents interested to find out more information or sign their child up for the junior programme or free trials can do so online at [ActiveSG Football Academy](https://www.myactivesg.com/programmes/academy/football).

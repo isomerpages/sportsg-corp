@@ -48,7 +48,7 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 
 To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)
 
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 

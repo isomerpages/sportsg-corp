@@ -101,7 +101,7 @@ The Singapore Sports Hub, which is managed by SportsHub Pte Ltd, is one of the l
 
 The Singapore Sports Hub will open its doors in April 2014.
 
-For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](www.sportshub.com.sg)
+For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](https://www.sportshub.com.sg)
 
 The Public-Private Partnership includes:
 ![](/images/Media%20Centre/Media%20Release/2013/Nov/FIRSTEVERTRICONTINGENTCEREMONYKICKSOFFTEAMSINGAPOREMAJORGAMESJOURNEYMainPar0064Imagegif.gif)

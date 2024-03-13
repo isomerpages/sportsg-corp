@@ -41,7 +41,7 @@ At the flag presentation ceremony, both Minister Teo Chee Hean and Mr Teo Ser Lu
 
 Singaporeans can get behind Team Singapore by sending their well-wishes and words of encouragement via sms to 77877. From now till 24 August 2008, five lucky supporters will stand to win limited edition Samsung SGH-F480 phones, MacDonald's vouchers, Johnson & Johnson hampers, Team Singapore merchandise and special Beijing Olympics memorabilia each week.
 
-Those who are interested in keeping abreast of Team Singapore's performance at the Games can sign up for a free SMS alert service through the Team Singapore website (www.teamsingapore.com.sg) from 23 July 2008.
+Those who are interested in keeping abreast of Team Singapore's performance at the Games can sign up for a free SMS alert service through the Team Singapore website (https://www.teamsingapore.com.sg) from 23 July 2008.
 
 The official send-off for Team Singapore contingent is on 2 August 2008. For more details on Team Singapore at the Beijing 2008 Olympic & Paralympic Games, please visit www.teamsingapore.com.sg.
 

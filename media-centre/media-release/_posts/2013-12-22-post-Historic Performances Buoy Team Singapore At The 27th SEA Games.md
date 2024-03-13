@@ -46,7 +46,7 @@ image: ""
 
 14. The journey to 2015 then kicked off with a multi-dimensional performance, put together by Creative and Music Director Mr Philip Tan and presented by some 50 performers comprising students and working professionals from Singapore SOKA Association, current and former Team Singapore athletes from Taekwondo and Gymnastics, and School of the Arts Singapore.
 
-15. Singapore also launched the official website (www.seagames2015.com) and Facebook page (www.facebook.com/seagames2015) for the 28th SEA Games today, and will be rolling out other key components like the theme song, mascot and logo starting from February next year.
+15. Singapore also launched the official website (https://www.seagames2015.com) and Facebook page (https://www.facebook.com/seagames2015) for the 28th SEA Games today, and will be rolling out other key components like the theme song, mascot and logo starting from February next year.
 
 Click [here](/files/Media%20Centre/Media%20Release/2013/Dec/HISTORIC%20PERFORMANCES%20BUOY%20TEAM%20SINGAPORE%20AT%20THE%2027TH%20SEA%20GAMESAnnexespdf.pdf) for Annexes: 
 * 27th SEA Games Medal Tally
@@ -82,7 +82,7 @@ The Singapore Sports Council aims to transform the nation through sport, by insp
 To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 **About Singapore National Olympic Council (SNOC)**<br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
 
 Follow us on:<br>
 [28th SEA Games Website](http://www.seagames2015.com)<br>

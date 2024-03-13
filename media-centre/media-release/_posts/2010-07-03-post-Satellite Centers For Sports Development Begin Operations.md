@@ -47,7 +47,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 | Certification: | After 10 weeks, participants will be at least half-way to achieving the yellow belt |
 | Next Steps: | The sessions will continue, allowing participants to work through the belt system |
 | Cost: | $85 per participant, 15 hours of instruction over 10 weeks |
-| Registration Details: | Registration may be completed online via the website (www.singaporewrestling.com), by phone (6280 4748) or walk-in at the National Wrestling Centre at 102 Upper Aljunied Road. |
+| Registration Details: | Registration may be completed online via the website (https://www.singaporewrestling.com), by phone (6280 4748) or walk-in at the National Wrestling Centre at 102 Upper Aljunied Road. |
 | Instructors: | Two qualified wrestling instructors |
 
 **Sailing Satellite Centre**
@@ -66,7 +66,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 | Certification: | Participants will receive certification on completion of the half-day session |
 | Next Steps: | Participants can follow the comprehensive Singapore Sailing Federation system. The next step would be to complete the 4-day SailSmart, based at the National Sailing Centre or basic sailing courses available at sailing clubs islandwide. |
 | Cost: | $50 per participant, 3.5 hours of instruction. (1 coach to 4 participants) |
-| Registration Details: | Registration may be completed online via the website (www.sailing.org.sg), by phone (6444 4555), e-mail ([gosailing@singaporesailing.org.sg](mailto:gosailing@singaporesailing.org.sg)), or walk-in to the National Sailing Centre at 1500 East Coast Parkway, Singapore 468963. |
+| Registration Details: | Registration may be completed online via the website (https://www.sailing.org.sg), by phone (6444 4555), e-mail ([gosailing@singaporesailing.org.sg](mailto:gosailing@singaporesailing.org.sg)), or walk-in to the National Sailing Centre at 1500 East Coast Parkway, Singapore 468963. |
 
 **Basketball Satellite Centre**
 
@@ -84,7 +84,7 @@ _Olympic Sports Brought To Singapore Youth As First Satellite Centres Are Rolled
 |Certification: | Participants will receive a certificate upon completion of the 10- week programme |
 | Next Steps: | Sessions will continue throughout the year. Participants can join in Singapore Basketball Association's other advance initiatives. |
 |Cost: | $180 for 12 weeks, 20 hours instruction.|
-| Registration Details: | Registration may be completed online via the website (www.bas.org.sg), by phone (6743 8425), e-mail ([benson@bas.org.sg](mailto:benson@bas.org.sg)) or walk-in to the Singapore Basketball Centre at 601 Aljunied Crescent, #01-04, Singapore 389862 |
+| Registration Details: | Registration may be completed online via the website (https://www.bas.org.sg), by phone (6743 8425), e-mail ([benson@bas.org.sg](mailto:benson@bas.org.sg)) or walk-in to the Singapore Basketball Centre at 601 Aljunied Crescent, #01-04, Singapore 389862 |
 
 ---
 

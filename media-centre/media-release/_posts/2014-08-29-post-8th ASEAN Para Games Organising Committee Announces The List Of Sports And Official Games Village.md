@@ -68,4 +68,4 @@ Facebook: [facebook.com/ASEANPARAGAMES2015](http://www.facebook.com/ASEANPARAGAM
 **About Marina Bay Sands Pte Ltd**<br>
 Marina Bay Sands is the leading business, leisure and entertainment destination in Asia. It features large and flexible convention and exhibition facilities, 2,560 hotel rooms and suites, the rooftop Sands SkyPark, the best shopping mall in Asia, world-class celebrity chef restaurants and an outdoor event plaza. Its two theatres showcase a range of leading entertainment performances including world-renowned Broadway shows. Completing the line-up of attractions is ArtScience Museum at Marina Bay Sands, which plays host to permanent and marquee exhibitions.
 
-For more information, please visit [Marina Bay Sands](www.marinabaysands.com).
+For more information, please visit [Marina Bay Sands](https://www.marinabaysands.com).

@@ -33,4 +33,4 @@ Said Ms Ho Soon Eng, Director for Higher Education, SIM Global Education: “Thi
   
 Local athletes will be able to train and compete and at the same time pursue their degree aspirations by taking advantage of the flexible and modular nature of the Stirling programme offered locally through SIM Global Education.”  
   
-More information on the course can be found on the SIM Global Education website at [SIM Global Education](www.simge.edu.sg). Athletes who are keen to find out more about the scholarship can write in to Ms Eunice Tan at [eunicetan@nysi.org.sg](eunicetan@nysi.org.sg) or Ms Denise Lian at [deniselian@sim.edu.sg](deniselian@sim.edu.sg).
+More information on the course can be found on the SIM Global Education website at [SIM Global Education](https://www.simge.edu.sg). Athletes who are keen to find out more about the scholarship can write in to Ms Eunice Tan at [eunicetan@nysi.org.sg](eunicetan@nysi.org.sg) or Ms Denise Lian at [deniselian@sim.edu.sg](deniselian@sim.edu.sg).

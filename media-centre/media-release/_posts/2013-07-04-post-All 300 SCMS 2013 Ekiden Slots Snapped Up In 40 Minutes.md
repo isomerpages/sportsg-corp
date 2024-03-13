@@ -16,7 +16,7 @@ image: ""
 
 2. "We are very encouraged with the continued strong response to the Standard Chartered Marathon Singapore, especially for the Ekiden race category where all slots have been taken up. It reinforces the marathon as the pinnacle running event in Singapore. As the only IAAF Gold Label event in Singapore, we will strive to ensure another quality event come 1 December 2013," said Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council (SSC) and Chairman of the SCMS 2013 Organising Committee.
 
-3. SCMS 2013 has made provision for 62,000 slots - up from 60,000 offered last year - with the Half Marathon category accounting for the additional 2,000 slots being made available. When the launch event registration closed at 4pm today, more than 2,500 runners have already registered their participation. Online registration will commence at 6pm today (Thursday, 4 July 2013) on the official SCMS website [www.marathonsingapore.com](www.marathonsingapore.com)
+3. SCMS 2013 has made provision for 62,000 slots - up from 60,000 offered last year - with the Half Marathon category accounting for the additional 2,000 slots being made available. When the launch event registration closed at 4pm today, more than 2,500 runners have already registered their participation. Online registration will commence at 6pm today (Thursday, 4 July 2013) on the official SCMS website [www.marathonsingapore.com](https://www.marathonsingapore.com)
 
 4. The launch was officiated by Guest-of-Honour, Acting Minister for Culture, Community and Youth, Mr Lawrence Wong, who, together with Mr Richard Seow, Chairman, SSC; Mr Lim Teck Yin, Chief Executive Officer, SSC; and Mr Ray Ferguson, Chief Executive, Standard Chartered Bank, Singapore, released helium-filled golden balloons - with encouraging messages attached - into a specially constructed giant tree-shaped cone structure. This was proceeded by hundreds more green and blue balloons filling the cone structure, each with messages written by participants waiting in line to register.
 
@@ -40,7 +40,7 @@ image: ""
 
 11. Added Mr Lim: "SportCares was set up to improve access and opportunities for people who lacked the resources to participate in and grow through well-designed sport. With the money raised, we will be able to do more through our SportCares' programmes to help people push beyond the limits of their experience and discover their true potential. I hope that SCMS 2013 will lead the way and inspire more individuals and future sports events organisers to support the SportCares movement."
 
-12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com](www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](www.marathonsingapore.com).
+12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com](https://www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](https://www.marathonsingapore.com).
 
 ---
 
@@ -84,7 +84,7 @@ Since being established in 1881, SEIKO has contributed to society with one revol
 
 Today, SEIKO is a true 'manufacture,' making all its own components, from advanced IC's to balance springs, and it is the only 'manufacture' with a variety of watchmaking technologies, mechanical, quartz, Kinetic, Spring Drive and GPS Solar. Through watches, SEIKO seeks to share the passion and pride in production, to deliver exceptional products that represent innovation and perfection to watch lovers all over the world.
 
-Visit [www.thongsia.com.sg](www.thongsia.com.sg) to find out more.
+Visit [www.thongsia.com.sg](https://www.thongsia.com.sg) to find out more.
 
 **5\. About Tiger Balm Active**<br>
 Introducing Tiger Balm ACTIVE, the range of muscle rubs, gels and sprays, specially formulated by Tiger Balm, the name you can trust. Designed for the active individual with an active lifestyle, Tiger Balm ACTIVE is what you need for warm-ups, cool-downs, as well as relief of your muscular aches, pains and strains. So go on. Step up and get Active!
@@ -105,7 +105,7 @@ Launched in 2000, StarHub has become one of Singapore's most innovative info-com
 For more details, please visit [http://www.starhub.com](http://www.starhub.com).
 
 **7\. About Volvo**<br>
-As the Official Car Sponsor of Standard Chartered Marathon 2013, Volvo is proud to provide a fleet of cars that reflect the common athletic traits of agility, performance and excellence. The presence of these Volvo cars at the event will echo both the dynamism and energy of Standard Chartered Marathon 2013. For more information, please visit [www.volvocars.com/sg](www.volvocars.com/sg) or the Volvo showroom at 249 Alexandra Road today.
+As the Official Car Sponsor of Standard Chartered Marathon 2013, Volvo is proud to provide a fleet of cars that reflect the common athletic traits of agility, performance and excellence. The presence of these Volvo cars at the event will echo both the dynamism and energy of Standard Chartered Marathon 2013. For more information, please visit [www.volvocars.com/sg](https://www.volvocars.com/sg) or the Volvo showroom at 249 Alexandra Road today.
 
 **8\. About Nathan Performance Gear**<br>
 Inspiration.
@@ -130,7 +130,7 @@ For more details, please visit [http://shotz.sg](http://shotz.sg).
 **10\. About Give.Asia**<br>
 GIVE is Singapore's leading online charity fundraising platform that allows people to donate or fundraise for the charity of their choice in a simple, fun and easy way. Tens of thousands of people use GIVE regularly to do good to support hundreds of charities that are listed on the platform.
 
-To learn more, visit [www.giveasia.org](www.giveasia.org).
+To learn more, visit [www.giveasia.org](https://www.giveasia.org).
 
 ---
 

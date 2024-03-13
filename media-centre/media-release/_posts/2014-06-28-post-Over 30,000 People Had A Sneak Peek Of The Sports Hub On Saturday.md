@@ -34,7 +34,7 @@ _Fun-filled activities for participants of all ages_
 
 6\. Nearly 50,000\* people visited the Sports Hub during the two-day Community Open House on Friday and Saturday. Members of the public not only got a chance to view the facilities and surrounding areas which included the OCBC Aquatic Centre, OCBC Arena, Beach Volleyball Court, and Kallang Wave Mall, but also enjoyed various activities at the facilities for free.
 
-7\. From 30 June to 31 July, the public will be able to enjoy several of these world-class facilities for free. For information, go to [www.sportshub.com.sg](www.sportshub.com.sg).
+7\. From 30 June to 31 July, the public will be able to enjoy several of these world-class facilities for free. For information, go to [www.sportshub.com.sg](https://www.sportshub.com.sg).
 
 
 _\*50,000 people exclude the attendance for the events held in the evening at the National Stadium and the Singapore Indoor Stadium._
@@ -77,4 +77,4 @@ Located on a 35-hectare site in Kallang, the Singapore Sports Hub will include t
 
 The Singapore Sports Hub, which is managed by SportsHub Pte Ltd, is one of the largest sporting Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and has won the PFI award in London in 2011 and the World Architecture Festival Award for Best Future Project in the leisure-led development category in 2013.
 
-For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](www.sportshub.com.sg)
+For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](https://www.sportshub.com.sg)

@@ -48,7 +48,7 @@ _Largest Contingent To Feature At The Asian Games Will Take Part In 22 Of 42 Spo
 
 17. Apart from providing 'live' feeds during major Games, SingaporeSports.tv will also feature major sporting events such as the upcoming Singapore Cricket Club Rugby 7s taking place from 5 November to 7 November, as well as the Standard Chartered Marathon Singapore on 5 December.
 
-18. Members of the public can also follow Team Singapore's recently launched Facebook page (www.facebook.com/TeamSG) which provides fans with minute by minute updates during key events at the Games, quotes, results and photographs of Team Singapore?s athletes in action. For mobile-friendly fans, the Team Singapore iPhone application is available for free, to provide event schedules, news, updates and results on the move. The free SMS alert service that provides updates will still be available through the Team Singapore website at www.teamsingapore.com.sg.
+18. Members of the public can also follow Team Singapore's recently launched Facebook page (https://www.facebook.com/TeamSG) which provides fans with minute by minute updates during key events at the Games, quotes, results and photographs of Team Singapore?s athletes in action. For mobile-friendly fans, the Team Singapore iPhone application is available for free, to provide event schedules, news, updates and results on the move. The free SMS alert service that provides updates will still be available through the Team Singapore website at www.teamsingapore.com.sg.
 
 ---
 
@@ -536,14 +536,14 @@ Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a h
 
 To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
 <br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)
 <br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
 <br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About the Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
 
 **About Team Singapore**<br>
 Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.

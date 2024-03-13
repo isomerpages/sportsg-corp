@@ -26,7 +26,7 @@ The Singapore Sports Council (SSC) and Singapore Tennis Association (STA) have j
 
 8\. Interested youths can download the application form from the STA website and send in their registration by 13 March 2014. Registered participants can head down to the Open Recruitment Drive on 15 and 16 March 2014 at the Kallang Tennis Centre from 9am-12pm.
 
-9\. For more information on the Singapore Ballkids Programme 2014, please visit [www.singtennis.org.sg](www.singtennis.org.sg).
+9\. For more information on the Singapore Ballkids Programme 2014, please visit [www.singtennis.org.sg](https://www.singtennis.org.sg).
 
 ---
 

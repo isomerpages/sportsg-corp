@@ -47,7 +47,7 @@ content to a wider audience and enhance the sports viewership experience of Sing
 
 SuperSports 360 will air at 7pm every day on SuperSports Arena with a repeat at 11pm and the following day at 7am. The programme will premiere on 10 October 2013 with a 'live' interview with Ng Ser Miang, International Olympic Committee (IOC) Member and Singapore National Olympic Council's Vice President, on a range of topics such as the IOC Presidential Election and plans to develop an original sports event in Singapore with global appeal.
 
-15. For more information on SuperSports Arena, please visit [www.starhub.com/supersportsarena](www.starhub.com/supersportsarena).
+15. For more information on SuperSports Arena, please visit [www.starhub.com/supersportsarena](https://www.starhub.com/supersportsarena).
 
 ---
 

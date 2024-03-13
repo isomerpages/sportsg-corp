@@ -14,7 +14,7 @@ image: ""
 
 3. Although these fields will be closed to all bookings for sports activities, members of the public may still continue using the running tracks during the stadiums' normal operating hours, unless advised otherwise.
 
-4. The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg). Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
+4. The affected public facilities and their designated schedule for use in support of the GE are listed in Annex A below. For a full list of SSC facilities and their respective operating hours, please visit the SSC website at [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). Members of the public can also call SSC's Service Quality Hotline at 1800 344 1177 during office hours should they have any queries.
 
 ---
 
@@ -40,7 +40,7 @@ Jemuel Fu
 **About the Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](www.twitter.com/singaporesports)<br>
+To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
+Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
 Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
 For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)

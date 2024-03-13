@@ -25,7 +25,7 @@ image: ""
 
 8. The contingent and guests were treated to a special photo exhibition presented by CANON, featuring the works of winners of the Canon SEA Games Photo Contest, jointly organised with The Straits Times. Photographers, Mr Wee Keng Hor and Mr Suhaimi Bin Abdullah, bagged the top prize of the competition and were in Vientiane, Laos, to capture key moments of Team Singapore competing at the Games. A selected collection of the photographs depicting highlights of the 25th SEA Games were on display at the MAP Awards tonight.
 
-9. For more information on Team Singapore at the 25th SEA Games, please visit [www.teamsingapore.sg](www.teamsingapore.sg).
+9. For more information on Team Singapore at the 25th SEA Games, please visit [www.teamsingapore.sg](https://www.teamsingapore.sg).
 
 ---
 
@@ -171,7 +171,7 @@ For further information, please visit [www.teamsingapore.sg](http://www.teamsing
 
 **About the Singapore National Olympic Council**
 <br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](www.snoc.org.sg).
+The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
 
 **About the Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at [www.sportsingapore.gov.sg](www.sportsingapore.gov.sg) for more information.
+The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. The SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, the SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg) for more information.

@@ -29,7 +29,7 @@ image: ""
 
 9\. The first 1,000 registrants at Raffles Place Park received a limited edition SCMS goodie bag each, and stood a chance to win attractive prizes from the race's sponsors, such as a Seiko watch worth S$645 and Pure Fitness memberships worth up to S$2,500.
 
-10\. Runners can also register online via the official website (www.marathonsingapore.com) from 11am on 6 July 2012, and at Toa Payoh Sports & Recreation Centre (SRC) from 10am on 7 July 2012 onwards. More information is available on SCMS' official website.
+10\. Runners can also register online via the official website (https://www.marathonsingapore.com) from 11am on 6 July 2012, and at Toa Payoh Sports & Recreation Centre (SRC) from 10am on 7 July 2012 onwards. More information is available on SCMS' official website.
 
 ---
 
@@ -77,7 +77,7 @@ Shotz Sports Nutrition
 Journey Fitness Company
 
 Official Website: [www.singaporemarathon.com](https://singaporemarathon.com/)  
-Official YouTube Channel: [www.youtube.com/SCMarathonSingapore](www.youtube.com/SCMarathonSingapore) 
+Official YouTube Channel: [www.youtube.com/SCMarathonSingapore](https://www.youtube.com/SCMarathonSingapore) 
 Enquiries: info@marathonsingapore.com /6643 9191 (Operating hours: 8:30am - 6pm, Monday to Friday
 
 **Race Categories:**

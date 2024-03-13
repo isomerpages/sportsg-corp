@@ -47,9 +47,9 @@ image: ""
 
 15. The 28th SEA Games will be held in Singapore from 5 June to 16 June 2015.
 
-For further information on the 28th SEA Games Singapore, please visit [www.seagames2015.com](www.seagames2015.com)
+For further information on the 28th SEA Games Singapore, please visit [www.seagames2015.com](https://www.seagames2015.com)
 
-Follow the 28th SEA Games Singapore 2015 on Facebook at [www.facebook.com/SEAGAMES2015](www.facebook.com/SEAGAMES2015) and @seagames2015 on Twitter.
+Follow the 28th SEA Games Singapore 2015 on Facebook at [www.facebook.com/SEAGAMES2015](https://www.facebook.com/SEAGAMES2015) and @seagames2015 on Twitter.
 
 Annex A:
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0055Imagegif.gif)
