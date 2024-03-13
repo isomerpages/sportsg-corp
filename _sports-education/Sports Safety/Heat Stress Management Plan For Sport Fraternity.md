@@ -30,11 +30,11 @@ in outdoor activities especially during heightened levels of heat stress.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/Heat_Stress_Mgmt_Plan_summary_13_Dec_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Heat Stress Management Plan Summary</a>
+<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/3_phase_approach_Heat_Stress_Mgmt_Plan_13_Mar_24_5pm_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Heat Stress Management Plan Summary</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/Heat_Stress_Mgmt_Plan_13_Dec_23_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Heat Stress Management Plan</a>
+<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/Heat_Stress_Mgmt_Plan_13_Mar_24_FINAL_5pm_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Heat Stress Management Plan</a>
 </p>
 </li>
 </ul>
