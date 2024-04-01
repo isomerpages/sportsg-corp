@@ -2,7 +2,6 @@ collections:
   support:
     output: true
     order:
-      - Publication of Whistleblowing policy.md
       - Overview.md
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/ActiveSG Programme Partnership.md
@@ -36,3 +35,4 @@ collections:
       - SportSG ED.md
       - Sport & Exercise Participation in Singapore.md
       - Support for Sport Businesses (Grants).md
+      - Publication of Whistleblowing policy.md
