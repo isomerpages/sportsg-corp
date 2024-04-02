@@ -90,15 +90,15 @@ Manager hotline or Human Capital respectively instead.</p>
 <h4><strong><u>Reporting Structure</u></strong></h4>
 <p>SportSG takes whistleblowing seriously. Whistleblowers may raise any concerns
 or make any disclosures about improper practices in SportSG to the Internal
-Audit department via the dedicated <u>email address</u> at <a href="mailto:SPORT_Fraud_Report@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SPORT_Fraud_Report@sport.gov.sg</a>.</p>
+Audit department via the dedicated email address at <a href="mailto:SPORT_Fraud_Report@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_fraud_report@sport.gov.sg</a>.</p>
 <p>All reports must be made formally in writing via email with full details
 and background information of the allegations addressed to the Head of
 Internal Audit.</p>
 <p>The following information should be provided, if available.</p>
-<p><strong>a) </strong>Brief description of the fraud/ corruption/ other
+<p><strong>a) </strong>Brief description of the fraud / corruption / other
 wrongdoing committed.</p>
-<p><strong>b) </strong>The date, location and how the alleged fraud/ corruption/wrongdoing
-was committed.</p>
+<p><strong>b) </strong>The date, location and how the alleged fraud / corruption
+/ wrongdoing was committed.</p>
 <p><strong>c) </strong>Identity of the alleged party.</p>
 <p><strong>d) </strong>Particulars of witnesses, if any.</p>
 <p><strong>e) </strong>Supporting evidence and/or documents.</p>
@@ -109,7 +109,7 @@ to make a statement or provide evidence as part of the investigative process
 or in reporting the matter to any relevant law enforcement authority.</p>
 <h4><strong><u>Confidentiality and Protection for Whistleblowers</u></strong></h4>
 <p>SportSG will not tolerate any harassment or victimisation of the whistleblower
-because of a report made in good faith, and/or evidence provided during
+because of a report made in good faith, and / or evidence provided during
 an investigation.</p>
 <p>The whistleblower is assured protection against unfair treatment, such
 as intimidation and threats of dismissal or disciplinary action taken against
