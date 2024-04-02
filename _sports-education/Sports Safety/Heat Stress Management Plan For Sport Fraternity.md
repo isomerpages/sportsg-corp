@@ -34,7 +34,7 @@ in outdoor activities especially during heightened levels of heat stress.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/Heat_Stress_Mgmt_Plan_13_Mar_24_FINAL_5pm_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Heat Stress Management Plan</a>
+<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/Heat_Stress_Mgmt_Plan_2_Apr_24_FINAL_8am_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Heat Stress Management Plan</a>
 </p>
 </li>
 </ul>
