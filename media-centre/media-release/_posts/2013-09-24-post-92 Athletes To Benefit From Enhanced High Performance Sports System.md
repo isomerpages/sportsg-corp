@@ -5,16 +5,17 @@ date: 2013-09-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **92 Athletes To Benefit From Enhanced High Performance Sports System**
 
 
-**Singapore, 24 September 2013** - The High Performance Sports (HPS) Steering Committee awarded 66 athletes across 15 sports the inaugural Sports Excellence Scholarship (spexScholarship) today. In addition, 26 athletes from nine sports who have demonstrated potential to progress to the level of a spexScholar in the future have been identified for targeted support.
+**Singapore, 24 September 2013** - The High Performance Sports (HPS) Steering Committee awarded 61^ athletes across 14 sports at the inaugural Sports Excellence Scholarship (spexScholarship) today. In addition, 26 athletes from nine sports who have demonstrated potential to progress to the level of a spexScholar in the future have been identified for targeted support.
 ![](/images/Media%20Centre/Media%20Release/2013/Sep/92ATHLETESTOBENEFITFROMENHANCEDHIGHPERFORMANCESPORTSSYSTEMMainPar0042Imagegif.gif)
 
 2. The spexScholarship was announced earlier in March to provide enhanced support for highly talented Singaporean athletes with demonstrated potential for international sporting achievements. It will also increase the level of the support given through the existing HPS System.
 
-3. In all, the Singapore Sports Institute (SSI) received 218 nominations across 28 sports by the end of April 2013, of which 152 athletes from 20 sports were shortlisted for interviews. Following the interviews, the HPS Selection & Performance Sub-Committee and the HPS Steering Committee reviewed the shortlisted candidates and confirmed the list of spexScholars.
+3. In all, the Singapore Sports Institute (SSI) received 218 nominations across 28 sports by the end of April 2013, of which 152 athletes from 20 sports were shortlisted for interviews. Following the interviews, the HPS Selection &amp; Performance Sub-Committee and the HPS Steering Committee reviewed the shortlisted candidates and confirmed the list of spexScholars.
 
 4. The SSI is in the process of working out training programmes with the respective spexScholars and their NSAs and will be starting off these programmes progressively over the next three to four months.
 
@@ -27,6 +28,8 @@ image: ""
 7. These 26 athletes from nine sports will be given targeted support such as overseas training camps, competitions and equipment to enable them to maximise their potential. At the same time, they will continue to be eligible, just like all other athletes in the carding system, to the spexGrants support provided by the SSI.
 
 8. Nominations for the second intake of spexScholars will take place in April 2014.
+
+^ The updated athlete numbers reflect the five athletes who did not accept the spexScholarship offers in 2013.
 
 ---
 
@@ -84,20 +87,17 @@ image: ""
 <br>Scott Glen Sydney
 <br>Lim Min Kimberly
 <br>Savannah Siew Kiah Hui
-<br>Chan Jing Hua Victoria
 <br>Lo Jun Han Ryan
 * **Shooting**
 <br>Ser Xiang Wei Jasmine
 <br>Lim Yee Xien
 <br>Yang Shuet Hwei
-<br>Teh Xiu Yi
 * **Silat**
 <br>Muhammad Shakir Bin Juanda
 <br>Muhammad Iqbal Bin Abdul Rahman
 <br>Muhammad Nur Alfian Bin Juma?en
 * **Swimming**
 <br>Joseph Schooling
-<br>Quah Zheng Wen
 <br>Tao Li
 <br>Lim Xiang Qi Amanda
 <br>Danny Yeo Kai Quan
@@ -111,8 +111,6 @@ image: ""
 <br>Li Hu
 * **Waterski**
 <br>Sasha Siew Hoon Christian
-* **Wushu**
-<br>Samuel Tan
 
 **Annex B: Athletes with Future Potential for spexScholarship 2013**
 
@@ -199,17 +197,17 @@ The increase in programme depth is achieved by supporting highly talented athlet
 <br>
  The main point of entry into the selection process is through nomination by the respective NSAs. Singapore Sports Institute (SSI) can also introduce candidates into the selection process through its own channel of identifying talented athletes for the scheme.
  
-All candidates were shortlisted and selected through an interview by a selection panel. Candidates who were successful in this round were then forwarded to the HPS Selection & Performance Sub-Committee for support before they were floated to the HPS Steering Committee for final approval. Athletes who are not successful in the selection will continue to receive spexGrant support under the HPS pathway.
+All candidates were shortlisted and selected through an interview by a selection panel. Candidates who were successful in this round were then forwarded to the HPS Selection &amp; Performance Sub-Committee for support before they were floated to the HPS Steering Committee for final approval. Athletes who are not successful in the selection will continue to receive spexGrant support under the HPS pathway.
  
- The key principles of selection are to select athletes with demonstrated potential for podium success, training commitment as well as good attitude & behaviour.
+ The key principles of selection are to select athletes with demonstrated potential for podium success, training commitment as well as good attitude &amp; behaviour.
 
 **The candidates were assessed on the following:**
 <br>
 a. Training Commitment:
-<br>Training volume profile (> 12 months) of the athlete will be benchmarked against the volume of a full-time training load i.e., 10 sessions / week or about 30hrs/week
+<br>Training volume profile (&gt; 12 months) of the athlete will be benchmarked against the volume of a full-time training load i.e., 10 sessions / week or about 30hrs/week
 
 b. Sports Performance:
-<br>Sports performance track record (>12 months) will be benchmarked against the standards of the medallists (Gold, Silver and Bronze) at the respective major Games. For example, an athlete at the Asian Games level will be benchmarked against the standards at the Asian Games or equivalent competition. The benchmark standards are derived from an international sports database that we subscribe to (Infostrada). The type of measurement we use for benchmarking will be unique to each sport (e.g., world ranking, positions over a series of competitions, timings, distance etc)
+<br>Sports performance track record (&gt;12 months) will be benchmarked against the standards of the medallists (Gold, Silver and Bronze) at the respective major Games. For example, an athlete at the Asian Games level will be benchmarked against the standards at the Asian Games or equivalent competition. The benchmark standards are derived from an international sports database that we subscribe to (Infostrada). The type of measurement we use for benchmarking will be unique to each sport (e.g., world ranking, positions over a series of competitions, timings, distance etc)
 
 c. Attitude and Behaviour:
 <br>This will come in the form of character reference from Coaches / administrators / peers and, if necessary, independent character reference. Our Sport Psychologists will also be involved in the selection process and present during interviews.
@@ -311,12 +309,12 @@ Be a role model for the youths of Singapore
 <br>President, Special Olympics
 
 * **Gary Pryke**
-<br>MD, Corporate & Finance, Drew & Napier
+<br>MD, Corporate &amp; Finance, Drew &amp; Napier
 <br>Master Athlete, Runner and Ultra Distance Swimmer
 
 * **Ho Ren Hua**
 <br>Executive Director and Country Head, China, Banyan Tree Holdings Ltd
-<br>Top School Track & Field athlete
+<br>Top School Track &amp; Field athlete
 <br>Triathlete
 
 * **C Kunalan**
