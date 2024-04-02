@@ -28,36 +28,35 @@ under the following categories. This list is non-exhaustive and serves
 to demonstrate examples of fraud, corruption and other wrongdoings.</p>
 <p><strong>(a)</strong>  <strong><u>Fraud</u></strong>
 </p>
-<p><strong>(i)</strong> Deliberate error(s) in the preparation, evaluation,
-review, audit of financial accounts and records;</p>
-<p><strong>(ii) </strong>Misrepresentation and other falsehood statements
+<p>(i) Deliberate error(s) in the preparation, evaluation, review, audit
+of financial accounts and records;</p>
+<p>(ii)<strong> </strong>Misrepresentation and other falsehood statements
 in revenue contracting, procurement, grant and other financial related
 matters;</p>
-<p><strong>(iii)</strong> Theft, forgery or alteration of cheques;</p>
-<p><strong>(iv) </strong>Stealing of cash/assets;</p>
-<p><strong>(v)</strong> Pocketing money from customers;</p>
-<p><strong>(vi) </strong>Making unsubstantiated claims for overtime and transport
-allowance;</p>
-<p><strong>(vii) </strong>Accessing customers’ personal records for purposes
-of committing identity theft;</p>
-<p><strong>(viii) </strong>Unauthorised use/wrongful disclosure of privileged
-or confidential information such as personal data and restricted information
-maintained by SportSG.</p>
+<p>(iii) Theft, forgery or alteration of cheques;</p>
+<p>(iv) Stealing of cash/assets;</p>
+<p>(v) Pocketing money from customers;</p>
+<p>(vi) Making unsubstantiated claims for overtime and transport allowance;</p>
+<p>(vii) Accessing customers’ personal records for purposes of committing
+identity theft;</p>
+<p>(viii) Unauthorised use/wrongful disclosure of privileged or confidential
+information such as personal data and restricted information maintained
+by SportSG.</p>
 <p><strong>(b)</strong>  <strong><u>Corruption</u></strong>
 </p>
-<p><strong>(i)</strong> Bribery;</p>
-<p><strong>(ii)</strong> Engaging in business transactions with an undisclosed
-conflict of interest; and</p>
-<p><strong>(iii)</strong> Extortion which involves obtaining a favour or money
-by intimidation, violence or misuse of influence or authority.</p>
+<p>(i) Bribery;</p>
+<p>(ii) Engaging in business transactions with an undisclosed conflict of
+interest; and</p>
+<p>(iii) Extortion which involves obtaining a favour or money by intimidation,
+violence or misuse of influence or authority.</p>
 <p><strong>(c)</strong>  <strong><u>Other Wrongdoings</u></strong>
 </p>
-<p><strong>(i)</strong> Deliberate circumvention of established financial
-policies and procedures; and</p>
-<p><strong>(ii)</strong> Money laundering, etc.</p>
-<p><strong>(iii) </strong>Any other non-related complaints or feedback (e.g
-feedback on SportSG’s facilities, staff grievances etc) should be directed
-to the Quality Service Manager hotline or Human Capital respectively instead.</p>
+<p>(i) Deliberate circumvention of established financial policies and procedures;
+and</p>
+<p>(ii) Money laundering, etc.</p>
+<p>(iii) Any other non-related complaints or feedback (e.g feedback on SportSG’s
+facilities, staff grievances etc) should be directed to the Quality Service
+Manager hotline or Human Capital respectively instead.</p>
 <h4><strong><u>Reporting Structure</u></strong></h4>
 <p>4. SportSG takes whistleblowing seriously. Whistleblowers may raise any
 concerns or make any disclosures about improper practices in SportSG to
