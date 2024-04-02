@@ -52,7 +52,6 @@ variant: markdown
 <br>Suzanne Seah
 <br>Chen Jiemei Sarah
 <br>Chen Jiexian Stephenie
-<br>Lee Yang Jing Wilona
 <br>Ng Xiang Ru Annabelle
 * **Cuesports**
 <br>Peter Edward Gilchrist
