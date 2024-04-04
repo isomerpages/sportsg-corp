@@ -52,7 +52,7 @@ and book prizes.</p>
 <p>The MOU is for a period of five years, with the opportunity for the two
 parties to extend it.</p>
 <hr>
-<p><strong>About Singapore Sports Council</strong>
+<p><strong>About Singapore Sports Council</strong> 
 <br>Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing
 a holistic sports culture for the nation. The SSC creates opportunities
 for people to excel in sports; opportunities for people to be engaged in
@@ -63,13 +63,12 @@ we now have an enhanced national identity thanks to our sports participation
 programmes; greater national pride as a result of high performance results
 at international and regional games; and more diversified economic stability
 through our vibrant sports industry initiatives.</p>
-<p>To find out more, visit our website <a href="https://www.sportsingapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.sportsingapore.gov.sg</a>
-<br>Join SSC on Twitter at: <a href="https://www.twitter.com/singaporesports" rel="noopener noreferrer nofollow" target="_blank">www.twitter.com/singaporesports</a>
-<br>Join Singaporesports.sg on Facebook at: <a href="https://www.facebook.com/sportsingapore" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/livebetterthroughsport</a>
+<p>To find out more, visit our website <a href="https://www.sportsingapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.sportsingapore.gov.sg</a> 
+<br>Join Singaporesports.sg on Facebook at: <a href="https://www.facebook.com/sportsingapore" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/sportsingapore</a> 
 <br>For a range of photographs, search for "Singapore Sports Council" on
 <a href="http://www.flickr.com/photos/ssc-sportsphotography" rel="noopener noreferrer nofollow" target="_blank">www.flickr.com/photos/ssc-sportsphotography</a>
 </p>
-<p><strong>About Republic Polytechnic</strong>
+<p><strong>About Republic Polytechnic</strong> 
 <br>The first educational institution in Singapore to adopt the Problem-Based
 Learning approach for all its diploma programmes, Republic Polytechnic
 (RP) has six schools and one centre offering thirty four courses in Information
