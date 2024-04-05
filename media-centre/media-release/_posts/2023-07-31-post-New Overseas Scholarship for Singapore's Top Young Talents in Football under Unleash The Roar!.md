@@ -68,8 +68,8 @@ to the eight recipients.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The eight UTR! Overseas Scholarship recipients – Ardhra Arul Ganeswaran,
 Chloe Koh, Irsalina Irwan, Kyra Taylor, Loo Kai Sheng, Seri Ayu Natasha
-Naszri, Uchenna Eziakor, and Yasmine Zaharin (refer to Annex A for profiles)
-– represent the best talents of their cohort. &nbsp;</p>
+Naszri, Uchenna Eziakor, and Yasmine Zaharin (refer to <a href="Jul_2023___ANNEX_A___Profiles_of_Recipients_of_the_Inaugural_UTR__Overseas_Scholarship" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> for
+profiles) – represent the best talents of their cohort. &nbsp;</p>
 <p></p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The scholarship recipients were endorsed by a selection panel led by UTR!
