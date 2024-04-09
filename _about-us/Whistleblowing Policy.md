@@ -1,8 +1,8 @@
 ---
-title: Whistleblower Policy
-permalink: /whistleblower-policy/
+title: Whistleblowing Policy
+permalink: /whistleblowing-policy/
 variant: tiptap
-description: Whistleblower Policy
+description: Whistleblowing Policy
 ---
 <p>Sport Singapore (“SportSG”) is committed to high standards of corporate
 governance and accountability in its affairs. It recognises the importance
@@ -14,19 +14,19 @@ cases of fraud, corruption, and other wrongdoings, in relation to SportSG’s
 affairs.</p>
 <h3><strong><u>Objective</u></strong></h3>
 <p>1. The Policy aims to achieve the following objectives:</p>
-<p><strong>(a)</strong> Provide a channel for reporting of alleged or suspected
-fraud, corruption, or other wrongdoings.</p>
-<p><strong>(b)</strong> Provide guidance for reporting structure and established
-timelines for reporting.</p>
-<p><strong>(c)</strong> Provide assurance to whistleblowers on protection
-from all acts of harassment, retaliation, victimisation, and recrimination
-for reports made in good faith.</p>
+<p>(a) Provide a channel for reporting of alleged or suspected fraud, corruption,
+or other wrongdoings.</p>
+<p>(b) Provide guidance for reporting structure and established timelines
+for reporting.</p>
+<p>(c) Provide assurance to whistleblowers on protection from all acts of
+harassment, retaliation, victimisation, and recrimination for reports made
+in good faith.</p>
 <h4><strong><u>Scope of Policy</u></strong></h4>
 <p>2. This Policy applies to all SportSG employees and external parties.</p>
 <p>3. Whistleblowers may raise concerns or make reports on suspected incidences
 under the following categories. This list is non-exhaustive and serves
 to demonstrate examples of fraud, corruption and other wrongdoings.</p>
-<p><strong>(a)</strong>  <strong><u>Fraud</u></strong>
+<p>(a) <strong><u>Fraud</u></strong>
 </p>
 <p>(i) Deliberate error(s) in the preparation, evaluation, review, audit
 of financial accounts and records;</p>
@@ -42,14 +42,14 @@ identity theft;</p>
 <p>(viii) Unauthorised use/wrongful disclosure of privileged or confidential
 information such as personal data and restricted information maintained
 by SportSG.</p>
-<p><strong>(b)</strong>  <strong><u>Corruption</u></strong>
+<p>(b) <strong><u>Corruption</u></strong>
 </p>
 <p>(i) Bribery;</p>
 <p>(ii) Engaging in business transactions with an undisclosed conflict of
 interest; and</p>
 <p>(iii) Extortion which involves obtaining a favour or money by intimidation,
 violence or misuse of influence or authority.</p>
-<p><strong>(c)</strong>  <strong><u>Other Wrongdoings</u></strong>
+<p>(c) <strong><u>Other Wrongdoings</u></strong>
 </p>
 <p>(i) Deliberate circumvention of established financial policies and procedures;
 and</p>
@@ -65,14 +65,13 @@ the Internal Audit department via the dedicated email address at <a href="mailto
 and background information of the allegations addressed to the Head of
 Internal Audit.</p>
 <p>6. The following information should be provided, if available.</p>
-<p><strong>(a)</strong> Brief description of the fraud / corruption / other
-wrongdoing committed.</p>
-<p><strong>(b)</strong> The date, location and how the alleged fraud / corruption
-/ wrongdoing was committed.</p>
-<p><strong>(c)</strong> Identity of the alleged party.</p>
-<p><strong>(d)</strong> Particulars of witnesses, if any.</p>
-<p><strong>(e)</strong> Supporting evidence and/or documents.</p>
-<p><strong>(f) </strong>Other details deemed to be useful for review or investigation.</p>
+<p>(a) Brief description of the fraud / corruption / other wrongdoing committed.</p>
+<p>(b) The date, location and how the alleged fraud / corruption / wrongdoing
+was committed.</p>
+<p>(c) Identity of the alleged party.</p>
+<p>(d) Particulars of witnesses, if any.</p>
+<p>(e) Supporting evidence and/or documents.</p>
+<p>(f) Other details deemed to be useful for review or investigation.</p>
 <p>7. Where possible, the whistleblower is encouraged to disclose his/ her
 personal details (i.e name and contact details) as the reporting party
 may be required to make a statement or provide evidence as part of the
@@ -101,12 +100,12 @@ makes any such report.</p>
 SportSG will review and conduct investigations, if necessary.</p>
 <p>15. Depending on the nature of the concern raised or information provided,
 the investigation may involve one or more of the following persons or entities:</p>
-<p><strong>(a)</strong> The Audit Committee;</p>
-<p><strong>(b)</strong> The External and Internal Auditor;</p>
-<p><strong>(c)</strong> Forensic Professionals;</p>
-<p><strong>(d)</strong> The Police or Commercial Affairs Department;</p>
-<p><strong>(e)</strong> The Corrupt Practices Investigation Bureau and/or;</p>
-<p><strong>(f)</strong> Ministry of Finance (MOF).</p>
+<p>(a) The Audit Committee;</p>
+<p>(b) The External and Internal Auditor;</p>
+<p>(c) Forensic Professionals;</p>
+<p>(d) The Police or Commercial Affairs Department;</p>
+<p>(e) The Corrupt Practices Investigation Bureau and/or;</p>
+<p>(f) Ministry of Finance (MOF).</p>
 <p>16. Investigation and follow-up action taken for all cases will be reported
 to the Audit Committee.</p>
 <p></p>
