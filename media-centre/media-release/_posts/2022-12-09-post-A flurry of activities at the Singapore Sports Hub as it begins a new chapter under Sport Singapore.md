@@ -54,8 +54,7 @@ Qatar 2022 matches. Refer to Annex A for information on these activities.</p>
 such as Christmas carolling, meeting with Santa, or going on a carnival
 ride at Kallang Wonderland during the month of December. There are also
 programmes including lion dance performances and writing red spring couplets,
-lined up for the Lunar New Year celebrations in January 2023. Visit <a href="https://change.sportshub.com.sg/" rel="noopener noreferrer nofollow" target="_blank">change.sportshub.com.sg</a> to
-keep up to date with the events line-up.</p>
+lined up for the Lunar New Year celebrations in January 2023.</p>
 <p>c) <strong>New official FIFA World Cup match ball exhibit:</strong> To commemorate
 the World Cup season, football fans can view “Al Rihla”, the official match
 ball of the FIFA World Cup Qatar 2022 at the “adidas Fifa World Cup official
@@ -93,8 +92,7 @@ Singaporeans from all walks of life. I am excited about the team we are
 building to execute on the vision and the tremendous opportunities that
 lie ahead for Kallang Alive. We look forward to working closely with our
 partners to make this a truly remarkable destination for all Singaporeans,
-residents
-<br>and visitors,” he said.</p>
+residents and visitors,” he said.</p>
 </li>
 </ol>
 <p></p>
