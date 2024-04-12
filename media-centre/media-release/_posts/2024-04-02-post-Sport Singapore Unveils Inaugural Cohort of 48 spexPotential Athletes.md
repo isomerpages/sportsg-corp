@@ -11,6 +11,10 @@ description: 48 inaugural spexPotential athletes part of new programme to
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="spexScholarship and spexPotential Presentation Ceremony" src="/images/FY24_spexScholars___spexPotential_athletes.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>103 spexScholars across 26 sports inducted into the programme this year, marking a steady increase since the inaugural batch of 61 spexScholars.</em>
