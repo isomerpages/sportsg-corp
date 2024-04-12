@@ -13,13 +13,12 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>103 spexScholars across 26 sports inducted into the programme this year,
-marking a steady increase since the inaugural batch of 61 spexScholars.</p>
+<p><em>103 spexScholars across 26 sports inducted into the programme this year, marking a steady increase since the inaugural batch of 61 spexScholars.</em>
+</p>
 </li>
 <li>
-<p>48 inaugural spexPotential athletes part of new programme to strengthen
-the youth-to-senior athlete transition and nurture promising athletes early
-for sustained sporting success.</p>
+<p><em>48 inaugural spexPotential athletes part of new programme to strengthen the youth-to-senior athlete transition and nurture promising athletes early for sustained sporting success.</em>
+</p>
 </li>
 </ul>
 <p><strong>Singapore, 2 April 2024</strong> – The Sport Excellence Scholarship
@@ -27,7 +26,7 @@ for sustained sporting success.</p>
 programmes offered by Sport Singapore (SportSG) provide an enhanced level
 of support for athletes within Singapore’s High Performance Sports (HPS)
 system. Today, the <em>spex</em>Scholarship programme adds 103 new <em>spex</em>Scholars
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup>
+<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup> 
 </a>across 26 sports. Additionally, the new <em>spex</em>Potential programme
 inducts its inaugural batch of 48 athletes across 22 sports.</p>
 <p></p>
