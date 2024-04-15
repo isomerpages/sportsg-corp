@@ -21,8 +21,7 @@ please visit <a href="https://www.sportsingapore.gov.sg/support-resources/suppor
 </tbody>
 </table>
 <h3><strong>Sports Resilience Package to boost industry capabilities and help businesses stay ahead of the curve</strong></h3>
-<p><a href="/files/Media%20Centre/Media%20Release/2020/November/Media%20StatementSports%20Resilience%20Package%20to%20boost%20industry%20capabilities%20and%20help%20businesses%20stay.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Media Release</a>
-</p>
+<p></p>
 <p>Following the announcement of the S$50 million Sports Resilience Package
 (SRP) on 15 October, Sport Singapore (SportSG) has announced the full details
 of the grant framework and eligibility criteria for both businesses and
