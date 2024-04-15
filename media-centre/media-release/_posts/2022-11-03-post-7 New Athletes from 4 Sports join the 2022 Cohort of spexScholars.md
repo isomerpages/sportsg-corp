@@ -1,0 +1,25 @@
+---
+title: 7 New Athletes from 4 Sports join the 2022 Cohort of spexScholars
+permalink: /media-centre/media-release/7-new-athletes-from-4-sports-join-the-2022-cohort-of-spexscholars/
+date: 2022-11-03
+layout: post
+description: ""
+image: ""
+---
+### **7 New Athletes from 4 Sports join the 2022 Cohort of spexScholars**
+
+In its continuous effort to review and support the athletes, Sport Singapore (SportSG) has announced that the Sport Excellence Scholarship (spexScholarship) programme will be welcoming another seven new athletes from four sports in its year 2022 cohort, bringing the total number of spexScholars to 77 athletes across 23 sports (see [Annex A](/files/Media%20Centre/Media%20Release/2022/Annex%20A.pdf) for the list of new spexScholars and their key achievements), including 17 athletes who joined the programme earlier this year. These seven athletes applied for the 2022 spexScholarship last year. 
+
+Mr Kon Yin Tong, Chairman of the spexScholarship Selection Committee and Chairman of SportSG, said, “The spexScholarship identifies, develops and optimises the performance of athletes within the high-performance sport pathway, and supports their sporting aspirations. We have seen outstanding performances from several Team Singapore athletes since the beginning of this year in Major Games and international competitions, and it’s only apt that we offer these athletes the spexScholarship now to provide them an increased level of support to motivate them to achieve their performance goals, and better prepare for their upcoming competitions.”
+
+This is the first time SportSG did a second round of assessment of spexScholars within a year. This assessment considered the dynamic international competition calendars such as major sport championships, with fresh data arising from recent competitions that allow the organisation to update an athlete’s performance trajectory.
+
+The seven new spexScholars include Singapore sprint queen Shanti Pereira, who set a new national record in the 100m and 200m heats at the 2022 Commonwealth Games, as well as 2022 Commonwealth Games mixed doubles gold medallists Terry Hee and Tan Wei Han, who started off the year well with their first Super 500 title in the 2022 India Open. These athletes were among the 49 nominations received by the Singapore Sport Institute (SSI) for FY2022, of which 17 were selected to join the programme earlier this year.
+
+Team Singapore sprinter Shanti Pereira, who was formerly a spexScholar between 2016 and 2018, said, “Extremely ecstatic to be returning as this was one of the goals my coach and I set out for me – to be awarded the spexScholarship once again. We have been working really hard, finding ways to develop a better mindset, focusing on recovery, nutrition and what works best for my body, while putting in quality sessions for better performance, amidst gruelling and hectic work schedules off the track. It has been a tough seven few years trying to gain my confidence back, but I’m glad that all the hard work has paid off so far, and I’m excited for what’s to come in the next couple of years together with SSI and the spexScholarship. For other athletes who may not be doing so well now, I think it’s important to realise that ultimately, it’s your own journey and you’re the only person that can determine what you do with it. Sacrifices must be made, but as long as you focus on that and the goals you want to achieve, the results will come in due time.”
+
+Setting very clear goals for himself while feeling excited about being the spexScholar, Team Singapore shuttler Terry Hee said, “My current goal will be 2024 Paris Olympics and leading up to it we will need to participate in many competitions in order to gain ranking points. This scholarship will enable us to participate in more competitions and perhaps overseas training to improve our level of play. I believe as long as you do well enough, your achievements will be recognised, so one thing I always tell myself is to work hard in silence, and let your success be the noise.”
+
+17-year-old Team Singapore foil fencer Cheung Kemei said, “I am incredibly honoured and grateful to be one of the youngest spexScholars this year. The spexScholarship will definitely provide me with more support to train and compete internationally as I prepare for the 2024 Paris Olympics, and I will do my best to make Singapore proud.”
+
+Among the rest of the 53 spexScholars who joined prior to 2022, four athletes including Contessa Loh (Archery), Reuben Rainer Lee (Athletics), Marc Brian Louis (Athletics) and Quah Ting Wen (Swimming), had their contracts renewed from the previous cycle, while the remaining 49 athletes’ contracts are not yet due for renewal (see [Annex B](/files/Media%20Centre/Media%20Release/2022/Annex%20B.pdf) for list of existing spexScholars). Three athletes – Goh Choon Huat (Cycling), Tessa Neo (Shooting) and Feng Tianwei (Table Tennis) had completed their scholarship on 30 September 2022.

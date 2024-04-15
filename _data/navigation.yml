@@ -1,0 +1,14 @@
+logo: /images/sportsg logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Work
+    collection: our-work
+  - title: Support & Resources
+    collection: support
+  - title: Media Centre
+    resource_room: true
+  - title: Sport Education
+    collection: sports-education
+  - title: Career Opportunities
+    url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Sport%20Singapore
