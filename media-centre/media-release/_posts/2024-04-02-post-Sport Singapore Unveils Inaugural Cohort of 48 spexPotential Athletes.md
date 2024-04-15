@@ -25,10 +25,9 @@ variant: tiptap
 (<em>spex</em>Scholarship) and the new Sport Excellence Potential (<em>spex</em>Potential)
 programmes offered by Sport Singapore (SportSG) provide an enhanced level
 of support for athletes within Singapore’s High Performance Sports (HPS)
-system. Today, the <em>spex</em>Scholarship programme adds 103 new <em>spex</em>Scholars
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup> 
-</a>across 26 sports. Additionally, the new <em>spex</em>Potential programme
-inducts its inaugural batch of 48 athletes across 22 sports.</p>
+system. Today, the <em>spex</em>Scholarship programme adds 103 new <em>spex</em>Scholars<sup>[1] </sup>across
+26 sports. Additionally, the new <em>spex</em>Potential programme inducts
+its inaugural batch of 48 athletes across 22 sports.</p>
 <p></p>
 <p><strong><em><u>spex</u></em><u>Scholarship – a key pillar of Singapore’s HPS system</u></strong>
 </p>
@@ -113,12 +112,8 @@ for these competitions. As we begin a new milestone with the introduction
 of <em>spex</em>Potential this year, we hope that more promising talents
 will perceive sports as a viable career option and strive for sustained
 sporting excellence on the world sporting stage.”</p>
-<p>
-<br>
-</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> This
-includes 10 athletes across nine sports, who are receiving the scholarship
-for the first time.</p>
+<p>[1] This includes 10 athletes across nine sports, who are receiving the
+scholarship for the first time.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
