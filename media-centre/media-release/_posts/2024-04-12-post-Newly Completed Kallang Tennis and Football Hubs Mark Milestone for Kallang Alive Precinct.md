@@ -129,6 +129,9 @@ editions of the WTA Finals.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kallang Tennis Hub" src="/images/Media Centre/Media Release/2024/Kallang_Tennis_Hub_Aerial_view__Image_credit__Kallang_Alive_Sport_Management_.jpg">
+</div>
 <p></p>
 <p><strong><u>Kallang Football Hub</u></strong>
 </p>
@@ -147,4 +150,8 @@ and sports science capabilities.</p>
 <p>Outdoor 100m running track which is made from recycled shoe granules.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kallang Football Hub" src="/images/Media Centre/Media Release/2024/Kallang_Football_Hub_Aerial_View__Image_credit__Kallang_Alive_Sport_Management_.jpg">
+</div>
 <p></p>
