@@ -5,6 +5,7 @@ date: 2007-05-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Fields of Dreams: A Tribute to the National Stadium**
 
@@ -24,7 +25,7 @@ Providing the kits for the Singapore teams in both matches, sponsor Nike has pro
 
 "Nike celebrates this momentous event in Singapore's sporting history with our specially-designed Blue Heritage Jersey, which is reminiscent of Singapore's first national football jersey. These will be donned by our football veterans in the match between Singapore and Malaysia. In addition, we have also produced a set of commemorative t-shirts, available in both Red and White which reinforces our support for the nation's love of sports," says Magdalene Ew, Marketing Manager of Nike Singapore.
 
-After the last ball has been kicked, the closing ceremony will commence, hosted by Brian and Mark Richmond. Many will remember the father and son team for their football commentary when matches were telecast 'live', and they will reminisce about their experiences at the stadium. There will also be a march-in featuring Team Singapore athletes, a song performance from Kit Chan, a ceremonial dousing of the flame and a fireworks & light display. Right after the closing ceremony, the "field of dreams" will be transformed into a giant disco with a dance party on the pitch.
+After the last ball has been kicked, the closing ceremony will commence, hosted by Brian and Mark Richmond. Many will remember the father and son team for their football commentary when matches were telecast 'live', and they will reminisce about their experiences at the stadium. There will also be a march-in featuring Team Singapore athletes, a song performance from Kit Chan, a ceremonial dousing of the flame and a fireworks &amp; light display. Right after the closing ceremony, the "field of dreams" will be transformed into a giant disco with a dance party on the pitch.
 
 Concludes Mr Oon Jin Teik, CEO of co-organiser Singapore Sports Council, "It's going to be a night to remember. And we invite the public to come together, relive memories, and bid a final goodbye to the stadium. She has served us well for 34 years, and the entire event is a fitting tribute to close one chapter and open the next."
 
@@ -42,23 +43,3 @@ $20 Adult (excl. $2 SISTIC fee) / $12 Child/Student (excl. $1 SISTIC fee)
 
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Susmita Dayanandan
-<br>
-Senior Executive, (Corporate & Marketing Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9661
-<br>
-Fax: 6345 2541
-<br>
-Email: [susmita_dayanandan@ssc.gov.sg](mailto:susmita_dayanandan@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
