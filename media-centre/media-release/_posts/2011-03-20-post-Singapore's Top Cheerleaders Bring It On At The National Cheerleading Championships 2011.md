@@ -46,12 +46,3 @@ _SP Gusto Crowned Overall Champions for the 2011 Edition, as 2000 Fans Pack Juro
 | COMPETITIVE - PRIMARY                 | 1ST - St Hilda's Shooting Stars (St Hilda's Primary School) <br>2ND - MG Dazzlers (Methodist Girls' Primary School) <br>3RD - Kranji Kougars (Kranji Primary School) |
 | COMPETITIVE - HIGH SCHOOL             | 1ST - SP Gusto (Singapore Polytechnic) <br>2ND - Magnum Force (Ngee Ann Polytechnic) <br>3RD - RP Rexaz (Republic Polytechnic)                                       |
 | COMPETITIVE - OPEN                    | 1ST - Wildcards  <br>2ND - KR Steppers (Kent Ridge Hall - National University of Singapore) <br>3RD - NTU Aces (Nanyang Technological University)                    |
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-
-**About Let's Play**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg).
