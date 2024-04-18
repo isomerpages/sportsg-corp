@@ -5,6 +5,7 @@ date: 2011-07-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SwimSafer Programme Further Enhanced with Re-Certification Courses and Water Safety Workshops for Instructors**
 
@@ -30,7 +31,7 @@ image: ""
 
 10. "The SwimSafer re-certification course offers a useful recap of the concepts and skills of the SwimSafer programme for instructors like me. It also provides me a great opportunity to explore with other fellow instructors new ways of teaching our students about water safety," said Mr Garett Lee, a SwimSafer instructor with 15 years of coaching experience.
 
-11. For more information on SwimSafer, the public can visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme) or contact the SSC SwimSafer Division via email at [sport_swimsafer@sport.gov.sg](sport_swimsafer@sport.gov.sg).
+11. For more information on SwimSafer, contact the SSC SwimSafer Division via email at [sport_swimsafer@sport.gov.sg](sport_swimsafer@sport.gov.sg).
 
 [1] Based on statistics from the Singapore Life Saving Society's Annual Reports (from 2006 to 2010) for cases heard in the Coroner's Court
 
@@ -91,41 +92,15 @@ Answering theoretical questions on the open water environment, marine animals, a
 | Eligibility for Participation | Generally recommended for children who are six (6) years and above  | Children who have obtained the SwimSafer Bronze qualification, and are at least eight (8) years of age |
 | Qualification of Instructors  | Instructors must:<br> \* Have successfully completed the SwimSafer Instructor Course (SSIC)<br> \* Be a member of the National Registry Of Coaches (NROC)<br> \* Have obtained both certifications in the NCAP Theory conducted by the SSC and the NCAP Technical Course conducted by the Singapore Swimming Association<br> \* Be CPR and first-aid certified | Instructors must:<br> \* Have successfully completed the SwimSafer Instructor Course (SSIC)<br> \* Be a member of the National Registry Of Coaches (NROC)<br> \* Have obtained both certifications in the NCAP Theory conducted by the SSC and the NCAP Technical Course conducted by the Singapore Swimming Association<br> \* Be CPR and first-aid certified<br> \* Have obtained a Bronze Cross award<br> \* Have successfully completed the SwimSafer Open Water Instructor Course |
 | Number of Instructors To Date | 811 | 22 |
-| Lesson Venue(s) | <br> \* SSC Swimming Complexes<br> \* Private pools & swimming clubs | <br> \* Changi Beach<br> \* East Coast Park  |
+| Lesson Venue(s) | <br> \* SSC Swimming Complexes<br> \* Private pools &amp; swimming clubs | <br> \* Changi Beach<br> \* East Coast Park  |
 | Number of Participants To Date | 50,000 | NA |
 
 
 ---
 
-**For media enquiries, please contact:**<br>
-Derrick Chee<br>
-Secretariat, National Water Safety Council<br>
-Ministry of Community Development, Youth and Sports<br>
-DID: 6354 8246<br>
-Email: derrick_chee@mcys.gov.sg 
-
-Jemuel Fu<br>
-Executive, Media Relations<br>
-Singapore Sports Council<br>
-DID: 6500 5245<br>
-Email: jemuel_fu@ssc.gov.sg
-
----
-
 **About SwimSafer**<br>
-SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme).
-
+SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme.  
 Have Fun, Swim Safe.
 
 **About the National Water Safety Council, Singapore**<br>
 The National Water Safety Council, Singapore (NWSC) was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council recently launched the Code of Practice for the Design and Management of Aquatic Facilities with the Building and Construction Authority (BCA) to promote safe water facilities for the public.
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
