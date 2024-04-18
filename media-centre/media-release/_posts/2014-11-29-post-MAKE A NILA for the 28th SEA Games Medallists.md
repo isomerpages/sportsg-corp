@@ -5,6 +5,7 @@ date: 2014-11-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **MAKE-A-NILA for the 28th SEA Games Medallists**
 
@@ -24,35 +25,3 @@ Giving a twist to the mascot that accompanies the coveted SEA Games medals, the 
 
 7. The first Make-a-NILA roadshow was held today at the Sports Hub Kallang Wave Mall from 12pm to 8pm and will continue on Sunday from 12pm to 8pm. The next roadshow will be on 13 December (Saturday) at Sengkang Sports Centre from 3pm - 7pm.
 
-8. Details on subsequent roadshows can be found at [SEA Games](http://www.seagames2015.com).
-
----
-
-**Related Link**:
-
-[Opening Remarks By Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOCat Make-A-Nila Launch Event](/media-centre/speeches/make-a-nila-launch-event/)
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-Rachel Ang<br>
-Senior Executive, Public Relations & Strategic Communications<br>
-Community & Corporate Outreach, SINGSOC<br>
-Tel: +65 6500 5245<br>
-HP: +65 9729 3700<br>
-Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
-
-S. Parameswaran<br>
-Assistant Director, Public Relations & Strategic Communications<br>
-Community & Corporate Outreach, SINGSOC<br>
-Tel: +65 6500 5236<br>
-HP: +65 9839 1974<br>
-Email: [parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
-
-Winston Ng<br>
-Manager, Corporate Communications<br>
-NTUC Fairprice Co-operative Ltd<br>
-Tel: 6424 7895<br>
-Email: [winston.ng@fairprice.com.sg](mailto:Winston.ng@fairprice.com.sg)
