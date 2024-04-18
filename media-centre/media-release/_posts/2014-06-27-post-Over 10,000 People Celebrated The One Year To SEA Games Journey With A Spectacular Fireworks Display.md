@@ -6,6 +6,7 @@ date: 2014-06-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Over 10,000 People Celebrated The One Year To SEA Games Journey With A Spectacular Fireworks Display**
 
@@ -18,7 +19,7 @@ The 28th SEA Games officially marked its one year to the Games at the Singapore 
 2\. The Singapore Southeast Asian Games Organising Committee (SINGSOC) also announced the largest sponsor for the 28th SEA Games to date, Singapore Telecommunications Limited (SingTel), with over S$15million in next-generation multimedia solutions and technological infrastructure for the Games.
 
 ![](/images/Media%20Centre/Media%20Release/2014/June/LR%20Mr%20Johan%20Buse%20Mr%20Richard%20Seow%20Mr%20Lawrence%20Wong%20Nila%20Mascot%20Mr%20Yuen%20Kuan%20Moon%20Mr%20Lim%20Teck%20Yin.jpeg)
-*L-R: Mr Johan Buse, Vice President, Consumer Marketing, SingTel, Mr Richard Seow, Chairman of Sponsorship and Marketing Advisory Sub-Committee, SINGSOC, Guest-of-Honour Mr Lawrence Wong, Minister for Culture, Community and Youth, Second Minister for Communications and Information & Chairman, Steering Committee for SINGSOC, 28th SEA Games Mascot, Nila, Mr Yuen Kuan Moon, CEO, Consumer Singapore, SingTel, Mr Lim Teck Yin, Chairman of Executive Committee, SINGSOC*
+*L-R: Mr Johan Buse, Vice President, Consumer Marketing, SingTel, Mr Richard Seow, Chairman of Sponsorship and Marketing Advisory Sub-Committee, SINGSOC, Guest-of-Honour Mr Lawrence Wong, Minister for Culture, Community and Youth, Second Minister for Communications and Information &amp; Chairman, Steering Committee for SINGSOC, 28th SEA Games Mascot, Nila, Mr Yuen Kuan Moon, CEO, Consumer Singapore, SingTel, Mr Lim Teck Yin, Chairman of Executive Committee, SINGSOC*
 
   
 3\. Minister in the Prime Minister’s Office, and Singapore Southeast Asian Games Organising Committee (SINGSOC) Advisory Committee Member, Mr Lim Swee Say, and Minister for Culture, Community and Youth and Chairman, Steering Committee of SINGSOC, Mr Lawrence Wong, flagged off the “One Year to SEA Games” Walk-a-Jog along a scenic sunset 2km and 3.5km route around the Sports Hub to enjoy the view of the mega multi-sport structure. Over 6,000 people of all ages participated in the Walk-a-Jog.
@@ -37,34 +38,12 @@ The 28th SEA Games officially marked its one year to the Games at the Singapore 
 
   
 5\. Tomorrow, on 28 June (Saturday), visitors can experience the Sports Hub Community Open House and be one of the first to play at the OCBC Arena, try out SEA Games sports including Basketball, Taekwondo, Tennis and “Equestrian”. Members of the public will get a chance to view the facilities and surrounding areas which included the OCBC Aquatic Centre. OCBC Arena, Beach Volleyball Court, and Kallang Wave Mall, and enjoy the various activities at the facilities for free. 
-  
-6\. For more information, please log on to: [Sports Hub Community Open House](http://www.seagames2015.com/get-involved/sports-hub-community-open-house)
-  
-7\. Interested parties can also sign up as a SEA Games 2015 volunteer and be part of the team to make this a historic event for Singapore at the open house or [here](http://www.seagames2015.com/get-involved/be-a-volunteer).
-  
----
 
-**For media enquiries, please contact:**
-<br>
   
-Rachel Ang,<br>
-Media Relations, SINGSOC<br>
-[rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)<br>
-Tel: (65) 6500 5245<br>
-HP: (65) 9729 3700  
-  
-S. Parameswaran<br>
-Media Relations, SINGSOC<br>
-[parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)<br>
-Tel: (65) 65005236<br>
-HP: (65) 9839 1974
+6\. Interested parties can also sign up as a SEA Games 2015 volunteer and be part of the team to make this a historic event for Singapore at the open house.
+
 
 ---
 
 **About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
-
-Follow us on:<br>
-[28th SEA Games Website](http://www.seagames2015.com)<br>
-[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
-[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
