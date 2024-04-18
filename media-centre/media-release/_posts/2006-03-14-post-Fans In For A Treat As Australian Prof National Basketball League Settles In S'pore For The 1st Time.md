@@ -6,6 +6,7 @@ date: 2006-03-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Fans in for a Treat as Australian Professional National Basketball League Settles in Singapore for the First Time**
 
@@ -13,13 +14,13 @@ Come September this year, basketball fans will be in for a treat as they get to 
 
 In the most significant move in its 28-year history, the NBL will also be including a Singapore-based team as of the 2006/07 season. The initiative is spearheaded by an Australian private sector-led ownership group, Singapore Basketball Enterprises (SBE), in a bid to bring the thriving Australian NBL to Asia. The Singapore Indoor Stadium will be the home base for the team.
 
-This latest initiative follows hot on the heels of three similar successful basketball events held for the first time in Singapore in 2005 - the NBL matches between Sydney Kings & Perth Wildcats (January 2005) and the Perth Wildcats & Brisbane Bullets (November 2005) as well as the inaugural Singapore Cup (regional title involving league champions from Australia, China, Jordan and Korea, May 2005). These three events attracted a total of more than 6,000 spectators at each event and introduced a new dimension of sports entertainment to basketball fans.
+This latest initiative follows hot on the heels of three similar successful basketball events held for the first time in Singapore in 2005 - the NBL matches between Sydney Kings &amp; Perth Wildcats (January 2005) and the Perth Wildcats &amp; Brisbane Bullets (November 2005) as well as the inaugural Singapore Cup (regional title involving league champions from Australia, China, Jordan and Korea, May 2005). These three events attracted a total of more than 6,000 spectators at each event and introduced a new dimension of sports entertainment to basketball fans.
 
 After signing a 5-year hire contract with the venue, the arrival of this new team in Singapore will also mark another regional first. The Singapore Indoor Stadium will be the first venue in Asia to boast a professional basketball team as an anchor tenant. This will mean local fans and visiting supporters can look forward to a complete season of international sports entertainment - with season tickets offering courtside action and corporate hospitality.
 
 Said SSC CEO Oon Jin Teik: "Today's announcement is yet another significant step in our push to bring basketball fever to the masses in Singapore. For a little more than the price of a movie ticket, Singaporeans will not only be able to catch live world-class basketball action right on home soil, but also be able to participate in a whole new form of sports entertainment that is wholesome and exciting, much like what we see today on TV at NBA basketball matches. In time to come, we hope this event will become another key marquee event in Singapore's ever-growing and vibrant sports calendar."
 
-Wee Siew Kim, President of the Basketball Association of Singapore (BAS) added: "The basketball community is very excited with this new initiative. It complements BAS' ongoing programmes to make basketball the 'Team Sport of Choice' in Singapore. To achieve this goal, all three areas of sports excellence, participation and industry must develop in tandem as each feeds on the other. Given the combined marketing and promotional strengths of the NBL and SSC, as well as the proven sports management track record of the people behind SBE, and the high entertainment value of top-level basketball worldwide, we firmly believe that this event will appeal to a mass Singaporean audience. The three similar successful basketball events held for the first time in Singapore in 2005 - the NBL matches between Sydney Kings & Perth Wildcats and the Perth Wildcats & Brisbane Bullets as well as the inaugural Singapore Cup - demonstrated to us that there is keen interest amongst Singaporeans that will fuel the growth of a vibrant basketball sports industry. With the right marketing and positioning, basketball can generate fantastic revenues for teams, players and sponsors."
+Wee Siew Kim, President of the Basketball Association of Singapore (BAS) added: "The basketball community is very excited with this new initiative. It complements BAS' ongoing programmes to make basketball the 'Team Sport of Choice' in Singapore. To achieve this goal, all three areas of sports excellence, participation and industry must develop in tandem as each feeds on the other. Given the combined marketing and promotional strengths of the NBL and SSC, as well as the proven sports management track record of the people behind SBE, and the high entertainment value of top-level basketball worldwide, we firmly believe that this event will appeal to a mass Singaporean audience. The three similar successful basketball events held for the first time in Singapore in 2005 - the NBL matches between Sydney Kings &amp; Perth Wildcats and the Perth Wildcats &amp; Brisbane Bullets as well as the inaugural Singapore Cup - demonstrated to us that there is keen interest amongst Singaporeans that will fuel the growth of a vibrant basketball sports industry. With the right marketing and positioning, basketball can generate fantastic revenues for teams, players and sponsors."
 
 "This is a truly historic day for the NBL and the Philips Championship," said NBL Commissioner Rick Burton. "For three long years we have been putting in place the necessary preparation and planning to successful seed a team in Asia. I am ecstatic this hard work has come to fruition and we can now take the NBL into a new era where it plays across three countries. Asia is the future for world sport and we are proud to be the first major pro sports league to set up operations in the thriving and cosmopolitan market that is Singapore. "This historic move would not have been possible without the vision of the NBL Board, FIBA, Basketball Australia and the Basketball Association of Singapore and I would like to thank them for their unilateral support of this giant leap forward for our sport."
 
@@ -39,26 +40,3 @@ This latest initiative has also gotten the local basketball community in Singapo
 
 Added Koh Meng Koon, a Singapore National Men Team Player, "This is certainly a good development which will allow our players to gain a exposure to higher level basketball games. If an NBL team takes in one or two players from our National Team, it will definitely encourage more youngsters to fight for a place in the National Team to get that chance to play professionally. This way, the standard of our National Team will definitely improve."
 
----
-
-**For media enquiries, please contact:**
-<br>
-Alvin Hang
-<br>
-Assistant Director
-<br>
-(Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340-9590
-<br>
-Mobile: 9222-1010
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the worldwide web: [https://www.sportsingapore.gov.sg/](https://www.sportsingapore.gov.sg/).
