@@ -25,7 +25,3 @@ variant: markdown
 | ------------------------------------------------------| ------------- |
 | SSC Facilities Designated for Use as Rally Sites <br>from 28 April-5 May 2011 <br>(7am-10am, 12pm-3pm, 7pm-10pm) | Bedok Stadium<br>Bishan Stadium <br>Bukit Gombak Stadium <br>Delta Hockey Field <br>Choa Chu Kang Stadium <br>Clementi Stadium <br>Jurong East Stadium <br>Jurong West Stadium <br>Serangoon Stadium <br>Tampines Stadium <br>Toa Payoh Stadium <br>Woodlands Stadium <br>Yio Chu Kang Stadium <br>Yishun Stadium |
  
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
