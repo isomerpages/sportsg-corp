@@ -6,6 +6,7 @@ date: 2006-07-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Record Participation Expected for 5th Year of Standard Chartered Singapore Marathon**
 
@@ -31,54 +32,3 @@ Lim Cheng Teck, Chief Executive, Standard Chartered Bank Singapore, said, "The S
 For the third year running, Singapore is the second leg of The Greatest Race on Earth (GROE) marathon series and elite participants have the chance to compete in Nairobi, Mumbai and Hong Kong as well. It's the first of its kind in the marathon race circuit and features one of the biggest prize purses in the professional athletics scene - US$1.5 million. Also since the introduction of the Elite Runners programme and GROE to the Singapore Marathon, it has seen race records having been broken almost every year.
 
 Issued on behalf of Standard Chartered Singapore Marathon Organising Committee
-
----
-
-**For media enquiries, please contact:**
-<br>
-Ronda Ng
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 5293
-<br>
-Mobile: 9152 2842
-<br>
-Email:[rng@fulfordpr.com](mailto:rng@fulfordpr.com)
-
-Koh Wei Ling
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 2260
-<br>
-Mobile: 9847 6949
-<br>
-Email: [wlkoh@fulfordpr.com](mailto:wlkoh@fulfordpr.com)
-
----
-
-**About SSC**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
-
-**About Standard Chartered Bank**<br>
-_Standard Chartered - leading the way in Asia, Africa and the Middle East_
-
-Standard Chartered PLC is listed on both the London Stock Exchange and the Stock Exchange of Hong Kong and is ranked in the top 25 among FTSE-100 companies, by market capitalisation.
-
-Standard Chartered has a history of over 150 years in banking and is in many of the world's fastest growing markets. It has an extensive global network of over 1,200 branches (including subsidiaries, associates and joint ventures) in 56 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas. As one of the world's most international banks, Standard Chartered employs almost 44,000 people, representing 89 nationalities, worldwide.
-
-Standard Chartered's strengths lie in its breadth, diversity and balance and is trusted across its network for its standard of governance and corporate responsibility. The Bank is committed to all its stakeholders by living its values in its approach to managing its people, exceeding expectations of its customers, making a difference in the communities that we operate in and working with its regulators.
-
-Standard Chartered uniquely derives 95% of profits from Asia, Africa and the Middle East. Serving both Consumer and Wholesale Banking customers, the Bank combines deep local knowledge with global capability to offer a wide range of innovative products and services as well as award winning solutions.
-
-Some of the major awards won in 2005 by the Bank include:
-1. IFR Asia's Domestic Bond House of the Year
-2. Finance Asia's Best Local Currency Bond House & Best Securitisation House
-3. Asia Risk's Interest Rates Derivatives House of the Year
-4. Trade Finance's Best Trade Finance Bank in Sub Saharan Africa
-5. Global Custodian's Best Agent Bank in Asia
-6. The Asset's Best Cash Management Bank for South Asia
-7. Retail Banker International's Best Retail Bank in Asia Pacific.
-
-For more information on Standard Chartered, please log on to [www.standardchartered.com](https://www.sc.com/sg/).
