@@ -29,23 +29,3 @@ _2011 Edition to Feature Team Singapore Youth Athletes and Alternative Viewing P
 8. Weekly highlights of the NSG 2011 will also be made available through mobile devices running on Android and Apple's iOS mobile operating systems. Users can now download the weekly episodes for free via applications that are available on the Android Marketplace as well as Apple's App Store on the following Monday after the first TV broadcast of each episode. The applications, entitled 'National School Games 2011' are proudly supported by Vue Cube - a new media platform operated by Vue Networks - and will be available later this month.
 
 9. The NSG is the umbrella event of the National Inter-School Championships for the 29 sports on the Singapore Schools Sports Council's Sporting Calendar. It is one of the highlight events for Singapore's school athletes. Approximately 34,000 student athletes from 183 schools will be competing for 174 national championship titles. About 2,600 sports officials, 1,800 school officials, 29 organisers and 16 sports advisors will also be involved.
-
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-
-**About the Ministry of Education, Singapore**<br>
-The Singapore Ministry of Education (MOE) formulates and implements education policies and programmes in consultation with its stakeholders. These policies and programmes aim to help all students discover their talents, realise their potential, and develop a passion for learning that lasts through life. MOE also oversees the development and management of the Government and Government-aided primary schools, secondary schools and junior colleges.
-
-
-**About Singapore Schools Sports Council**<br>
-The Singapore Schools Sports Council (SSSC) started in 1959 and comes under the administration of the Ministry of Education. It is a Council of principals who actively work to promote and develop sports in schools. The council oversees a vibrant sports competition framework that caters to 29 sports and provides opportunities for development and recognition for our young sporting talents in schools. In addition, SSSC also provides development pathways for our young school athletes by providing them with the necessary exposure to competitions that would up their level of play. Today, the Council plays an increasingly important role in the current education landscape which emphasises holistic education, of which, sports is an important component.
-
-
-**About StarHub**<br>
-StarHub is Singapore's fully-integrated info-communication company, offering a full range of information, communications and entertainment services for both consumer and corporate markets. StarHub operates Singapore's fastest two-way HSPA+ mobile network that delivers up to 21Mbps for downlink to complement its nation-wide GSM network, and an island-wide HFC network that delivers multi-channel cable TV services (including High Definition Television and on-demand services) as well as ultra-high speed residential broadband services. StarHub also operates an extensive fixed business network that provides a wide range of data, voice and wholesale services. Over Singapore?s fibre-based Next Generation Nationwide Broadband Network, StarHub offers a broad range of home and business broadband plans along with a host of advanced media-rich value-added services.
-
-Launched in 2000, StarHub has become one of Singapore's most innovative info-communications providers, and the pioneer in 'hubbing' - the ability to deliver unique integrated and converged services to all its customers. StarHub, listed on the main board of the Singapore Exchange since October 2004, is a component stock of the Straits Times Index and the MCSI Singapore Free Index.
