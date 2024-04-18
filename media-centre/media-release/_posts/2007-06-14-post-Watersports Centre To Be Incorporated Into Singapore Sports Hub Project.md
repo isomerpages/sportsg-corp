@@ -5,6 +5,7 @@ date: 2007-06-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Watersports Centre To Be Incorporated Into Singapore Sports Hub Project**
 
@@ -23,29 +24,3 @@ Mr Oon Jin Teik, CEO of SSC, said: "As a part of the Sports Hub, the watersports
 [Annex B: Singapore Sports Hub Consortium Team List](/files/Media%20Centre/Media%20Release/2007/June/SportsHubWaterSportsCentreAnnexB.pdf)
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Alvin Hang
-<br>
-Assistant Director (Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9671
-<br>
-HP: 9222 1010
-<br>
-Fax: 6345 2541
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
----
-
-**About the Sports Hub**
-<br>
-Scheduled to be completed in 2011, the Sports Hub will be a cluster of world-class venues to cater to international sporting and entertainment events and a lifestyle hub with sports as a theme. Occupying an area of over 34 hectares, the Sports Hub will include a 55,000-seater National Stadium with a retractable roof, an Aquatic cum Water Leisure Centre with a seating capacity of up to 6,000 seats, a 3,000 seater multi-purpose indoor arena to accommodate multi-sport elite training and competitions, the existing 12,000 seater Indoor Stadium and supporting commercial developments.
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: [sportsingapore.gov.sg](http://sportsingapore.gov.sg/)
