@@ -5,6 +5,7 @@ date: 2007-04-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singaporeans Poised to Rise with Extreme and Adventure Sports Activities**
 
@@ -30,43 +31,3 @@ Dr. Bervyn Lee, Director, Youth Sport Development division, Singapore Sports Cou
 "I am delighted that the SSC has expanded the Xtreme Singapore series to various locations in Singapore to allow more people to understand the sports better and to experience the exhilarating fun and excitement of the sport," added Ng Chee Keong, 25 years old, who came in 27th out of the 45 competitors for the international BMX biking Metro Jam competition held in Singapore recently.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Calvin Koh
-<br>
-Fulford Public Relations
-<br>
-Account Manager
-<br>
-Tel: +65 6324 9316
-<br>
-Mp: +65 9794 8354
-<br>
-E-mail: [ckoh@fulfordpr.com](mailto:ckoh@fulfordpr.com)
-
-Nadia Daeng
-<br>
-Fulford Public Relations
-<br>
-Senior Account Executive
-<br>
-Tel: +65 6324 2534
-<br>
-Mp: +65 9798 9506
-<br>
-E-mail: [ndaeng@fulfordpr.com](mailto:ndaeng@fulfordpr.com)
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
-
-**About Xtreme Singapore**
-<br>
-Xtreme Singapore is an annual extreme sports competition organised by the Singapore Sports Council to provide youths with more opportunities for sustained sports participation through alternative sports. This year, Xtreme Singapore returns with a series of extreme sports competition held in five zonal areas island-wide, participants will compete in a series of extreme sports categories such as skateboarding, aggressive inline skating and BMX biking. Participants and the public can also engage in various extreme sports such as motocross, inline skating and skateboarding. Participants will gain points from their performance and participation in the series. The 40 participants with the most points in the series will compete in the grand finale in December 2007 where the Xtreme Singapore champion will be crowned.
-
-**About Adventure Singapore**
-<br>
-Adventure Singapore is an annual adventure race and carnival organised by Singapore Sports Council to provide youths and young adults with a variety of adventure sports for sustained participation in sports. Held on 16 June 2007, Adventure Singapore includes an adventure race around Singapore and a carnival at Takashimaya Civic Plaza where Singaporeans will be treated to a series of spectacular stunts and activities. Activities planned include the first Rail Jam in Asia, music-inspired Skate Jam and even an adventure sports spectacular by avid sportsman and popular MediaCorp artiste, Ix Shen.
