@@ -6,6 +6,7 @@ date: 2014-08-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **8TH ASEAN Para Games Organising Committee Announces The List Of Sports And Official Games Village**
 
@@ -35,37 +36,9 @@ Please refer to [Annex A](/files/Media%20Centre/Media%20Release/2014/August/8th%
 
 ---
 
-**For media enquiries, please contact:**
-<br>
-
-Rachel Ang<br>
-Senior Executive, Public Relations<br>
-Communications & Engagement Division<br>
-Tel: +65 6500 5217<br>
-HP: +65 9729 3700<br>
-Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
-
-S. Parameswaran<br>
-Assistant Director, Communications & Engagement Division<br>
-Tel: +65 6500 5236<br>
-HP: +65 9839 1974<br>
-Email: [parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
-
-Dawn Wang<br>
-Senior Manager, Communications<br>
-Marina Bay Sands<br>
-Tel” +65 6688 0042<br>
-Email: [dawn.wang@marinabaysands.com](mailto:dawn.wang@marinabaysands.com)
-
----
-
 **About the 8th ASEAN Para Games**<br>
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 2,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.
 
-Website: [aseanparagames2015.com](http://www.aseanparagames2015.com)<br>
-Facebook: [facebook.com/ASEANPARAGAMES2015](http://www.facebook.com/ASEANPARAGAMES2015)
 
 **About Marina Bay Sands Pte Ltd**<br>
 Marina Bay Sands is the leading business, leisure and entertainment destination in Asia. It features large and flexible convention and exhibition facilities, 2,560 hotel rooms and suites, the rooftop Sands SkyPark, the best shopping mall in Asia, world-class celebrity chef restaurants and an outdoor event plaza. Its two theatres showcase a range of leading entertainment performances including world-renowned Broadway shows. Completing the line-up of attractions is ArtScience Museum at Marina Bay Sands, which plays host to permanent and marquee exhibitions.
-
-For more information, please visit [Marina Bay Sands](https://www.marinabaysands.com).
