@@ -46,24 +46,10 @@ _SSC Teams Up with Coca-Cola to Bring More Sporting Opportunities to Local Commu
 | October   | Table Tennis   | Tampines Mall       | Toa Payoh SRC                | October 8 &amp; 9      | October 22        |
 | November  | Multi - Sports | IMM                 | Pasir Ris SRC                | October 29 &amp; 30    | November 5        |
 
-**Annex B - Fact Sheet on World Netball Championships**
+---
 
+**Annex B - Fact Sheet on World Netball Championships**
+ 
 [Fact Sheet on World Netball Championships.pdf ](/files/Media%20Centre/Media%20Release/2011/Apr/Fact%20Sheet%20on%20World%20Netball%20Championshipspdf.pdf)[126 Kb]
 
 ---
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-
-**About Let's Play**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg).
-
-**About Coca-Cola**<br>
-Coca-Cola Singapore is the leader in nonalcoholic beverages in Singapore. In addition to the world's most valuable brand, Coca-Cola, Coca-Cola Singapore also produces, markets and distributes a total beverage portfolio of sparkling beverages, zero-sugar sparkling drinks (Coke light and Coke Zero), juice drinks (Minute Maid), teas (Heaven and Earth) and water (Dasani and vitaminwater).
-
-Coca-Cola Singapore is committed to supporting programs and partnerships that encourage Singaporeans to be more physically active, such as the Youth Olympic Games. Coca-Cola Singapore introduced the Step With It, Singapore! program in 2003 which has benefited over 120 primary schools and 350,000 Singaporeans. The local football team Home United has also been supported by Coca-Cola since 2002, in a commitment that exceeds SGD2.5 million.
-
-The Coca-Cola system in Singapore is a Gold award recipient of the Food Safety Awards for excellence in hygiene and food safety standards and maintaining an 'A' grade rating for 15 consecutive years. Coca-Cola was also awarded the Gold award in the 3R Packaging Awards 2010 for reducing packaging waste.
-
-For more information about The Coca-Cola Company or Coca-Cola Singapore, please visit [www.thecoca-colacompany.com](https://www.thecoca-colacompany.com) and [www.coca-cola.com.sg](https://www.coca-cola.com.sg).
