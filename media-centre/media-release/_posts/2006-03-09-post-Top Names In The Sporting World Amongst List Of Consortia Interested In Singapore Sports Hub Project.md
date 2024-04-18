@@ -6,6 +6,7 @@ date: 2006-03-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Top Names In The Sporting World Amongst List Of Consortia Interested In Singapore Sports Hub Project**
 
@@ -21,19 +22,5 @@ The Sports Hub will be a fully integrated sports, entertainment and lifestyle hu
 
 **Issued by**
 <br>
-Ministry Of Community Development, Youth And Sports &<br>
+Ministry Of Community Development, Youth And Sports &amp;<br>
 Singapore Sports Council
-
-**For media enquiries, please contact:**
-<br>
-Name: Mr Harold Lim
-<br>
-DID: 6354 8174
-<br>
-Email: [harold_lim@mcys.gov.sg](mailto:harold_lim@mcys.gov.sg)
-
-Name: Mr Alvin Hang
-<br>
-DID: 6340 9590
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
