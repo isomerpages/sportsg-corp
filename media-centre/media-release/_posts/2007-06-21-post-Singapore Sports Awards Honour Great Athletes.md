@@ -5,6 +5,7 @@ date: 2007-06-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Sports Awards Honour Great Athletes**
 
@@ -27,21 +28,3 @@ Minister Teo and Minister Balakrishnan also presented the 2007 IOC "Sport and Pr
 The International Olympic Committee (IOC) aims to reward individuals who have promoted Olympism and its values, particularly those of "excellence, respect and friendship" at a national or international level.
 
 The Singapore Sports Awards 2007 has rounded up a fantastic 2006 for sports in Singapore, and signalled the beginning of another journey for Team Singapore towards this year's Southeast Asian Games in Thailand and the next pinnacle: Beijing Olympics 2008.
-
----
-
-**For media enquiries, please contact:**
-<br>
-Charlotte Ong
-<br>
-Manager, Marketing Communications
-<br>
-(Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9663
-<br>
-HP: 9151 6992
-<br>
-Email: [charlotte_ong@ssc.gov.sg](mailto:charlotte_ong@ssc.gov.sg)
