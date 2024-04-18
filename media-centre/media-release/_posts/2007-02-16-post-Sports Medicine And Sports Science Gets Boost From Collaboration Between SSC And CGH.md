@@ -6,6 +6,7 @@ date: 2007-02-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Sports Medicine And Sports Science Gets Boost From Collaboration Between SSC And CGH**
 
@@ -25,37 +26,3 @@ While SSC through its Sports Medicine Research Centre (SMRC) offers multiple yea
 
 CGH's CEO, Mr T K Udairam said, "SSC and CGH share the same vision for sports medicine in Singapore and we will continue to work together to meet the athletes' needs. By coming together with SMRC, we can concentrate our resources in research, clinical care and teaching so as to achieve the vision for Singapore to be a centre of sporting excellence."
 
-
----
-
-**For media enquiries, please contact:**
-<br>
-**Singapore Sports Council:**
-<br>
-Charlotte Ong
-<br>
-Manager, Marketing Communications
-<br>
-Tel: 6340 9663, Mobile: 9151 6992
-<br>
-Email: [charlotte_ong@ssc.gov.sg](mailto:charlotte_ong@ssc.gov.sg)
-
-
-**Changi General Hospital:**
-<br>
-Tasha Tan
-<br>
-Executive, Corporate Affairs
-<br>
-Tel: 6850 2732, Mobile: 8126 2139
-<br>
-Email: [tasha_tan@cgh.com.sg](mailto:tasha_tan@cgh.com.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Its vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
-
-
-**About Changi General Hospital**<br>
-Changi General Hospital (CGH) is a 797-bed restructured hospital in eastern Singapore, CGH is a member of SingHealth, the eastern public healthcare cluster. CGH is the first hospital in the SingHealth cluster to receive the prestigious international JCI accreditation on 11 June 2005, which recognises the hospital'' performance in complying with international health care quality standards. CGH offers a comprehensive range of clinical specialities. These include accident and emergency (A&E), anaesthesia, cardiology, dermatology, Ear Nose and Throat (ENT), Gastroenterology, general medicine, general surgery, geriatric medicine, multiphasic health screening, neurology, neurosurgery, obstetrics & gynaecology (O&G), oral & maxillofacial surgery, orthopaedic surgery, psychological medicine, radiology, rehabilitation medicine, sports medicine and urology.
