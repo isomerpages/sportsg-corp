@@ -5,6 +5,7 @@ date: 2007-09-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Sports Safety Committee Unveils Its Detailed Report**
 
@@ -18,7 +19,7 @@ The Sports Safety Committee's review has covered five key areas:
 2. Public education
 3. Safe sports facilities
 4. Medical coverage for sports events
-5. Surveillance, evaluation & follow up (Please see Annex B for details on the recommendations.)
+5. Surveillance, evaluation &amp; follow up (Please see Annex B for details on the recommendations.)
 
 Mr Teo Ser Luck, Parliamentary Secretary for Ministry of Community, Youth and Sports (MCYS) added, "Singapore is on track to becoming a world-class sports hub. More events, both local and international, are seeing higher participation than ever before. It is important that the sports safety guidelines are in place for NSAs, sports events organizers, schools and other organizations to ensure that everyone plays safely and sport is beneficial to health."
 
@@ -30,41 +31,3 @@ SSC will be launching a month-long online public consultation on 26 September 20
 
 **Related Links and Downloads**<br>
 [Download Sports Safety Committee Report](/files/Media%20Centre/Media%20Release/2007/September/SportsSafetyCommittee26SEPO7.pdf)
-
----
-
-**For media enquiries, please contact:**
-<br>
-Mr Quah Soon Aun
-<br>
-Manager, Group Communications
-<br>
-DID: 6340 9663
-<br>
-HP: 9762 7601
-<br>
-Email: [quah_soon_aun@ssc.gov.sg](mailto:quah_soon_aun@ssc.gov.sg)
-
-Gayle Wong
-<br>
-Assistant Director
-<br>
-Group Communications, Singapore Sports Council
-<br>
-DID: 6340 9820
-<br>
-HP: 9753 3273
-<br>
-E-mail: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
-
----
-
-**Sports Safety Committee**
-<br>
-Formed in July 2007, the sports safety committee was appointed by MCYS and SSC to review sports safety practices in Singapore and make recommendations to minimise the incidence and consequences of catastrophic injuries, and sudden unexpected death during sports participation, be it during training or competition.
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
-
-Please visit the SSC website at www.ssc.gov.sg for more information on SSC.
