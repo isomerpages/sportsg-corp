@@ -5,6 +5,7 @@ date: 2014-06-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore To Host The 8th ASEAN Para Games From 3 to 9 December 2015**
 
@@ -22,28 +23,8 @@ The Singapore ASEAN Para Games Organising Committee (SAPGOC) announced today tha
 
 7\. Starting from September this year, members of the public can look forward to pre-Games activities which include an ASEAN Invitational Games in the City, carnivals, an art exhibition at the Athletes Village as well as a Community Torch Relay.
 
----
-
-**For media enquiries, please contact:**
-<br>
-
-Rachel Ang<br>
-Senior Executive, Public Relations<br>
-Communications & Engagement Division<br>
-Tel: +65 6500 5245<br>
-HP: +65 9729 3700<br>
-Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
-
-Joyce Poon<br>
-Senior Manager, Corporate Communications<br>
-Ministry of Culture, Community and Youth<br>
-Tel: 6837 8433<br>
-HP: +65 6837 8433<br>
-Email:[joyce_poon@mccy.gov.sg](mailto:joyce_poon@mccy.gov.sg)
 
 ---
 
 **About the 8th ASEAN Para Games**<br>
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 2,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.
-
-[8th ASEAN Para Games Facebook](http://www.facebook.com/ASEANPARAGAMES2015)
