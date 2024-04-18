@@ -33,13 +33,4 @@ _'FUN Start MOVE Smart!' - The First in a Series of Resources by the SSC to Set 
 
 10. The SSC is currently in the process of developing similar resources for parents and coaches, which will be launched in 2012 and 2013 respectively.
 
-11. The 'FUN Start MOVE Smart!' is developed as part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports.
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-
-**About Let's Play**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit SingaporeSports.sg.
+11. The 'FUN Start MOVE Smart!' is developed as part of the Let's Play movement, an initiative by the SSC to encourage all Singaporeans to embrace sports as a lifestyle choice, be it through playing, watching, cheering or volunteering for sports. 
