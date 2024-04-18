@@ -5,6 +5,7 @@ date: 2007-06-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Thanks for the Memories**
 
@@ -39,24 +40,3 @@ And once the lights were out, revellers took to the pitch for LightsOut - The Na
 Said Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports, "It was fantastic to be part of the Kallang Roar and Kallang Wave at this occasion. This was a fitting finale to celebrate the stadium's life, which over the years has seen many great moments in the fields of sports, culture and entertainment. Whilst we are sad to see her go, we look forward to a new chapter in Sporting Singapore when the Sports Hub is ready."
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-
-S. Parameswaran
-<br>
-Manager, (Corporate & Marketing Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9671
-<br>
-Fax: 6345 2541
-<br>
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. SSC's address on the world wide web: <!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->[www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/).
