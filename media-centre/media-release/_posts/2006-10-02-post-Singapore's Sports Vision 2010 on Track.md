@@ -5,6 +5,7 @@ date: 2006-10-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore's Sports Vision 2010 on Track**
 
@@ -28,7 +29,7 @@ The SSC is developing an integrated events strategy that will provide a long-ter
 
 Said Oon: "This framework will help to put all sports partners on the same page, right from the start and agreeing how a sports event can contribute meaningfully to participation, excellence and industry over the long haul instead of over a year or worst still, on an ad hoc basis. With this systematic approach, we will be able to allocate limited resources more effectively and eventually establish a unique value proposition for Singapore as the sports events destination in Asia and a preferred location for international and regional sports federations. We can look forward to a wider variety of exciting sports events coming to our shores for a longer period of time, which actively and simultaneously promote participation, excellence and industry. We look forward to getting feedback from our partners on how to best operationalise this strategy to all parties' benefit. "
 
-**Strengthening Integration of Sports Participation and Excellence Programmes for Children & Youth**
+**Strengthening Integration of Sports Participation and Excellence Programmes for Children &amp; Youth**
 <br>
 
 SSC will be strengthening the integration of sports participation and excellence programmes for children and youths in the coming years. The aim is to ensure Singapore maximises its sporting talent pool amongst children and youths who form the base for future potential sports champions and to promote an active sports culture amongst the young. This initiative will see SSC working closely with key sports partners including NSAs, education institutions, the Co-Curricular Activities Branch (CCAB) of the Ministry of Education, and sports service providers to engage children/youth, identify talent and map out a pathway during their formative years starting from developing motor skills, to learning a sport early, participating in it actively throughout his/her teenage years and eventually channelling him/her into the sports excellence pathway. SSC has started and will continue to engage its partners over the next few months to get feedback on this initiative. It will come up with identified pathways for a few sports in the first quarter of 2007 to pilot test this concept. It will also launch programmes in the coming months to encourage youths to participate in sports.
@@ -38,41 +39,6 @@ In line with SSC's focus on strengthening and integrating sports participation a
 ---
 
 **Enclosures**<br>
-[Sports Participation Rate and Major Games Medal Tally & Ranking](/files/Media%20Centre/Media%20Release/2006/October/2OctMREnc.pdf)
+[Sports Participation Rate and Major Games Medal Tally &amp; Ranking](/files/Media%20Centre/Media%20Release/2006/October/2OctMREnc.pdf)
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Alvin Hang
-<br>
-Assistant Director
-<br>
-(Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340-9590
-<br>
-Mobile: 9222-1010
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
-Sharon Liew
-<br>
-Manager
-<br>
-(Corporate & Marketing Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340-9862
-<br>
-Mobile: 9761-4124
-<br>
-Email: [sharon_liew@ssc.gov.sg](mailto:sharon_liew@ssc.gov.sg)
-
----
-
-**About SSC**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.
