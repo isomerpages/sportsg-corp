@@ -46,10 +46,4 @@ variant: markdown
 
 14. The SSC will be introducing two new shared services - Travel Management and Public Relations and Media Relations - to further raise the professionalism of the NSAs. Moreover, by relieving the NSAs of generic administrative functions, they can focus more on sports development. The Travel Management shared service will be made available to interested NSAs with charity status, by the second half of FY 2011. NSAs will also be able to tap on shared services for Public and Media Relations, a service which many NSAs have requested for over the last two financial years.
 
-15. The above shared services complement the two other shared services - Audit and Finance &amp; Accounting, which were introduced in FY 2010. To date, the Audit shared service has been used by 26 NSAs while Finance &amp; Accounting has been used by eight NSAs.
-
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
+15. The above shared services complement the two other shared services - Audit and Finance &amp; Accounting, which were introduced in FY 2010. To date, the Audit shared service has been used by 26 NSAs while Finance &amp; Accounting has been used by eight NSAs. 
