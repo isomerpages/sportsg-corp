@@ -5,6 +5,7 @@ date: 2007-11-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Team Singapore Gears Up For 24th SEA Games and 4th Para Games**
 
@@ -36,87 +37,9 @@ Supporting Singapore's push for gold at the 24th SEA Games will be a team from t
 
 For the 4th ASEAN Para Games contingent, Dr Janet Fung will be leading the medical support, accompanied by three dedicated physiotherapists.
 
-Singaporeans can get behind Team Singapore by sending their well-wishes and words of encouragement via sms to 77877. Lucky supporters also stand to win Team Singapore merchandise starting from 21 November - 16 December 2007. For more information on Team Singapore's participation at the 24th SEA Games and 4th ASEAN Para Games, please visit www.teamsingapore.com.sg.
+Singaporeans can get behind Team Singapore by sending their well-wishes and words of encouragement via sms to 77877. Lucky supporters also stand to win Team Singapore merchandise starting from 21 November - 16 December 2007. For more information on Team Singapore's participation at the 24th SEA Games and 4th ASEAN Para Games, please visit www.teamsingapore.sg.
 
 The official send-off for the Team Singapore contingent headed for the 24th SEA Games is at 8.30am on 3 December 2007 at Changi Airport Terminal 2 (in front of the Starbucks café).
 
 Supporters are also invited to join in the official send-off for the Team Singapore contingent headed for the 4th ASEAN Para Games on 16 January 2008 at Changi Airport.
 
----
-
-**For media enquiries, please contact:**
-<br>
-Sheila Thomas(Ms)
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 5289
-<br>
-Mobile: 9670 0849
-<br>
-Email: [sthomas@fulfprdpr.com](mailto:sthomas@fulfprdpr.com)
-
-Edwin Seah(Ms)
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 5286
-<br>
-Mobile: 9847 1045
-<br>
-Email: [eseah@fulfordpr.com](mailto:eseah@fulfordpr.com)
-
-Quah Soon Aun (Mr)
-<br>
-Manager, Marketing Communications
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9663
-<br>
-Mobile: 9762 7601
-<br>
-Email: [quah_soon_aun@ssc.gov.sg](mailto:quah_soon_aun@ssc.gov.sg)
-
-Gayle Wong (Ms)
-<br>
-Assistant Director, Group Communications
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9820
-<br>
-Mobile: 9753 3273
-<br>
-Email: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
-
-Kelly Fan (Ms)
-<br>
-Manager, Corporate Communications
-<br>
-Singapore Disability Sports Council
-<br>
-Tel: 6342 3503
-<br>
-Mobile: 9007 8669
-<br>
-Email: [kelly.fan@sdsc.org.sg](mailto:kelly.fan@sdsc.org.sg)
-
----
-
-**About Singapore National Olympic Council**
-<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
-
-
-**About Singapore Disability Sports Council**
-<br>
-SDSC is the national sports body for the disabled in Singapore. It is the only local organization that caters sports for persons across all kinds of disabilities. It aims to help the disabled lead full and independent lives through sports. Besides providing sporting opportunities for them to realize their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. For more information, please visit http://www.sdsc.org.sg.
-
-**About Team Singapore**
-<br>
-On 20 April 2001, Team Singapore was launched by Deputy Prime Minister Dr Tony Tan. Team Singapore is the approach through which the Singapore sporting fraternity works together to realise our vision of a sporting Singapore. Team Singapore is about putting aside personal or organisational interests and working together as a team. It is about Singaporeans striving together for sporting excellence for the nation. At the heart of Team Singapore lies three core values - Fighting Spirit, National Pride and Teamwork - stressing the notion that by working together, the whole can be greater than the sum of its parts. Team Singapore is the means through which Singaporeans can foster closer relations when rallying support for our athletes when they compete for top sporting accolades. Through sports, Team Singapore helps to build a cohesive and resilient society. Visit www.teamsingapore.com.sg for more information.
