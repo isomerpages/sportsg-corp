@@ -35,20 +35,3 @@ _Most Categories are at Least 50% Filled Up; More Reasons to 'Run For Good' with
 
 [1] More charities will be added to the list for the 'Run for good' programme*
 
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-
-**About Standard Chartered Bank in Singapore**<br>
-Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
-
-It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
-
-Standard Chartered has a history of more than 150 years in Singapore, opening its first branch here in 1859 and in October 1999 was among the first international banks to receive a Qualifying Full Bank (QFB) licence, an endorsement of the Group's long-standing commitment to its businesses in the country.
-
-It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
-
-The Bank employs over 7,000 people in Singapore and has a network of 19 branches, 30 ATMs, and 7 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology &amp; Operations function.
