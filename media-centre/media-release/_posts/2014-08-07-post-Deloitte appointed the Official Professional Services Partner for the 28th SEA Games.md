@@ -6,6 +6,7 @@ date: 2014-08-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Deloitte appointed the Official Professional Services Partner for the 28th SEA Games**
 
@@ -39,38 +40,12 @@ Deloitte Singapore’s employees include Derek Wong, Singapore’s current top b
 
 ---
 
-**For media enquiries, please contact:**
-<br>
-
-Marie Li<br>
-Marketing & Communications Manager, Deloitte Singapore<br>
-Tel: +65 6531 5024<br>
-Mobile: +65 9847 3503
-
-Carie-Anne Bak<br>
-Marketing & Communications Assistant Manager, Deloitte Singapore<br>
-Tel: +65 6531 5203<br>
-Mobile: +65 9622 7163<br>
-Email: [cabak@deloitte.com](mailto:cabak@deloitte.com)
-
-Rachel Ang<br>
-Public Relations & Strategic Communications, SINGSOC<br>
-Tel: +65 6500 5217<br>
-Mobile: +65 9279 3700<br>
-Email: [rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
-
----
-
 **About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
-Follow us on:<br>
-[28th SEA Games Website](http://www.seagames2015.com)<br>
-[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
-[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
 
 **About Deloitte**<br>
-Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as “Deloitte Global”) does not provide services to clients. Please see www.deloitte.com/about for a more detailed description of DTTL and its member firms.
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as “Deloitte Global”) does not provide services to clients. 
 
 Deloitte provides audit, tax, consulting, and financial advisory services to public and private clients spanning multiple industries. With a globally connected network of member firms in more than 150 countries and territories, Deloitte brings world-class capabilities and high-quality service to clients, delivering the insights they need to address their most complex business challenges. Deloitte’s more than 200,000 professionals are committed to becoming the standard of excellence.
 
