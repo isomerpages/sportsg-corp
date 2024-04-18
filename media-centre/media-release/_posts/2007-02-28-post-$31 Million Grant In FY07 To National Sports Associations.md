@@ -25,4 +25,3 @@ The three strategic thrusts are:<br>
 * Industry Development - wide-ranging international sports event
 
 These strategic thrusts are specially developed with the aim of creating optimum impact towards achieving the Committee on Sporting Singapore (CoSS) objectives.
-
