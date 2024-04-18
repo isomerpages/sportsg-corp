@@ -5,6 +5,7 @@ date: 2007-07-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Committee Formed To Enhance Sports Safety**
 
@@ -23,17 +24,3 @@ SSC's Chief Executive Officer, Mr Oon Jin Teik, added, "The Sports Safety Commit
 
 The Committee will put up its report to SSC in August 2007.
 
----
-
-**For media enquiries, please contact:**
-<br>
-
-Gayle Wong
-<br>
-Assistant Director (Marketing Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9820
-<br>
-Email: [gayle_wong@ssc.gov.sg](mailto:gayle_wong@ssc.gov.sg)
