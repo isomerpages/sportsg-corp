@@ -5,6 +5,7 @@ date: 2015-11-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Kick starting the final countdown to the 8th ASEAN Para Games**
 
@@ -36,8 +37,3 @@ For the first time, we have transformed a whole level of hotel rooms in Tower 3 
 
 **About the 8th ASEAN Para Games**<br>
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
-
-Facebook: [ASEANParaGames2015](https://www.facebook.com/ASEANPARAGAMES2015)<br>
-Twitter & Instagram: @APG_2015<br>
-YouTube: [youtube.com/singaporesports](http://www.youtube.com/singaporesports)<br>
-Backup APG: #BackupAPG2015
