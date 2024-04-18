@@ -5,6 +5,7 @@ date: 2014-06-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SingTel Pledges Over S$15 million For 28th SEA Games**
 
@@ -29,30 +30,8 @@ Singapore Telecommunications Limited (SingTel) today announced its contribution 
 
 ---
 
-**For media enquiries, please contact:**
-<br>
-
-**SingTel:**<br>
-Tricia Lee, SingTel Corporate Communications<br>
-Tel: +65 6838 3065<br>
-Email: [tricialee@singtel.com](mailto:tricialee@singtel.com)
-
-**Media**<br>
-Emily Poon, Ogilvy Public Relations<br>
-Tel: +65 6213 7875<br>
-Email: [emily.poon@ogilvy.com](mailto:emily.poon@ogilvy.com)
-
-Lynette Lim, Public Relations & Strategic Communications, SINGSOC<br>
-Tel: +65 6500 5225<br>
-Email: [lynette_lim@sport.gov.sg](mailto:lynette_lim@sport.gov.sg)
-
 **About SingTel**<br>
 SingTel is Asia's leading communications group providing a portfolio of services including voice and data solutions over fixed, wireless and Internet platforms as well as infocomm technology and pay TV. The Group has presence in Asia and Africa with over 500 million mobile customers in 25 countries, including Bangladesh, India, Indonesia, the Philippines and Thailand. It also has a vast network of offices throughout Asia Pacific, Europe and the United States.
 
 **About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us. 
-
-Follow us on:<br>
-[28th SEA Games Website](http://www.seagames2015.com)<br>
-[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
-[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
