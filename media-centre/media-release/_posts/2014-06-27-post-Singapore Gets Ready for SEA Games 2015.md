@@ -5,6 +5,7 @@ date: 2014-06-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Gets Ready for SEA Games 2015**
 
@@ -36,13 +37,13 @@ With one year to the 28th SEA Games, organisers are already deep into the prepar
 
 **Getting the interest to experience the Games**
 
-11\. As part of SINGSOC’s effort to involve the community, early birds can register from today their interest for SEA Games tickets through the SEA Games 2015 website at [ticketing](http://www.seagames2015.com/get-involved/ticketing) and receive priority to purchase tickets in October before they are released to the public in November. Priced as low as S$10, nearly 50 percent of the events will be free-of-charge.
+11\. As part of SINGSOC’s effort to involve the community, early birds can register from today their interest for SEA Games tickets through the SEA Games 2015 website and receive priority to purchase tickets in October before they are released to the public in November. Priced as low as S$10, nearly 50 percent of the events will be free-of-charge.
 
 **Getting Corporate Singapore onboard**
 
 12\. SINGSOC is heartened to have received interest from many companies wanting to partner us for the SEA Games; either by sponsoring the Games or participating in the Games outreach and volunteer programmes. This includes traditional Olympic sponsors, local and international companies.
 
-13\. We recently announced our partnership with NTUC FairPrice & FairPrice Foundation and today we signed with SingTel. In addition, we have ATOS, a traditional Olympic sponsor partnering with us to deliver a state of the art Games management system and the latest technology for timing and systems for all sports.
+13\. We recently announced our partnership with NTUC FairPrice &amp; FairPrice Foundation and today we signed with SingTel. In addition, we have ATOS, a traditional Olympic sponsor partnering with us to deliver a state of the art Games management system and the latest technology for timing and systems for all sports.
 
 14\. With more sponsorship announcements on the horizon, Mr Lim said, “We believe that such strong support from companies effectively demonstrates the trust that companies have on Singapore hosting the Games, their belief in the power and value of sport adding value to their brands and the unique selling proposition of the SEA Games. These companies are willing and committed to support SINGSOC’s strive to deliver an extraordinary Games to the entire Southeast Asian community.”
 
@@ -60,32 +61,9 @@ With one year to the 28th SEA Games, organisers are already deep into the prepar
 
 ---
 
-**For media enquiries, please contact:**
-<br> 
-
-Rachel Ang<br>
-Senior Executive, Public Relations<br>
-Communications & Engagement Division<br>
-Tel: +65 6500 5245<br>
-HP: +65 9729 3700<br>
-Email:[rachel_ang@sport.gov.sg](mailto:rachel_ang@sport.gov.sg)
-
-S. Parameswaran<br>
-Assistant Director,<br>
-Communications & Engagement Division<br>
-Tel: +65 6500 5236<br>
-HP: +65 9839 1974<br>
-Email:[parames_seenivasagam@sport.gov.sg](mailto:parames_seenivasagam@sport.gov.sg)
-
----
-
 **About the 28th SEA Games**<br>
 The 28th SEA Games will be held from 5 -16 June 2015, with Singapore Sports Hub as the main venue for the Games. Organised by the Singapore Southeast Asian Games Organising Committee (SINGSOC), the Games is held in conjunction with Singapore’s 50th anniversary and will host more than 7,000 athletes and officials from 36 sports. Adopting the theme of Celebrate the Extraordinary, the Games will celebrate triumph of human spirit - be it in sports or daily lives; in success or in the grit to try again and again; in winning or in merely being at the start line. The 28th SEA Games will show the people of the Southeast Asia that success ultimately comes to ordinary people with extraordinary dreams. It’s not about having a champion, but inspiring the champion that is inside each of us.
 
-Follow us on:<br>
-[28th SEA Games Website](http://www.seagames2015.com)<br>
-[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
-[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
 
 **About Singapore50**<br>
-Singapore is celebrating the 50th anniversary of its independence in 2015. To commemorate and celebrate this major milestone in our nation’s history, Singaporeans will not only have a say in how the nation celebrates its Golden Jubilee, they will also be invited to plan and organise activities. To guide and coordinate the plans for the 50th anniversary celebrations, a Steering Committee chaired by Minister for Education Heng Swee Keat has been formed. Named the Singapore50 (SG50) Steering Committee, it comprises representatives from the public, private and people sectors. For more information on SG50, please visit [Singapore50 (SG50)](http://www.singapore50.sg).
+Singapore is celebrating the 50th anniversary of its independence in 2015. To commemorate and celebrate this major milestone in our nation’s history, Singaporeans will not only have a say in how the nation celebrates its Golden Jubilee, they will also be invited to plan and organise activities. To guide and coordinate the plans for the 50th anniversary celebrations, a Steering Committee chaired by Minister for Education Heng Swee Keat has been formed. Named the Singapore50 (SG50) Steering Committee, it comprises representatives from the public, private and people sectors.
