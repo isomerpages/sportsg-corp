@@ -39,4 +39,3 @@ Singaporeans who are not quite as sporty or adventurous to get themselves wet ca
 
 **Enclosures**<br>
 [Annex A: Waterfront Lifestyle Development Milestones](/files/Media%20Centre/Media%20Release/2007/July/WaterFestPressReleaseFINALAnnexA.pdf)
-
