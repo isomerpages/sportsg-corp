@@ -5,6 +5,7 @@ date: 2015-11-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singaporeans to enjoy extended period for utilisation of ActiveSG$**
 
@@ -39,5 +40,3 @@ As a key recommendation of Vision 2030 – Singapore’s master plan for sports,
 
 **About Sport Singapore**<br>
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport.
-
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
