@@ -6,6 +6,7 @@ date: 2007-09-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Orchard Road Packed With Action As 4000 Women Gather At Biggest-ever AMORE Women's Day Out**
 
@@ -32,45 +33,3 @@ The sporting spirit of the Amore Women's Day Out continues on 2 September at the
 **Enclosures**<br>
 [Annex 1: Amore Women's Day Out 2007 Fact Sheet](/files/Media%20Centre/Media%20Release/2007/September/Annex1AWDOFactsheet.pdf)<br>
 [Annex 2: Amore Women's Day Out 2007 Sponsors](/files/Media%20Centre/Media%20Release/2007/September/Annex2AWDOsponsors.pdf)
-
----
-
-**For media enquiries, please contact:**
-<br>
-Soh Li Sar
-<br>
-Associate
-<br>
-The Advocate Group
-<br>
-Tel: 6396 5470
-<br>
-HP: 8322 7283
-<br>
-Email: lisar@theadvocategroup.com.sg
-
-Michelle Liew
-<br>
-Manager (Marketing Communications)
-<br>
-Singapore Sports Council
-<br>
-Tel: 6340 9886
-<br>
-E-mail: [michelle_liew@ssc.gov.sg](michelle_liew@ssc.gov.sg)
-
----
-
-**About the Sport A New You Campaign**
-<br>
-The Sport A New You campaign aims to encourage women, especially those aged 35 and above who have to juggle career and family, to lead a more active and sporting lifestyle. The campaign runs from 1 July to 31 October 2007. Throughout the four months, the SSC will organise key events and activities to encourage the targeted women segments in sports participation.
-
-Other key events under the campaign include the Great Singapore Shopathon, Heartland Flashes, Ladies Escapade, 101 Active Women Tips and an all-female Bowling carnival coming up in October.
-
-For more information about the Sport A New You campaign and its activities, please visit [http://www.womenandsports.sg](http://www.womenandsports.sg).
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) was formed on 1 October 1973 as a statutory board of the Government of Singapore, established by an Act of Parliament under the SSC Act of 1973. It comes under the umbrella of the Ministry of Community Development, Youth and Sports. The SSC operates various sports facilities located all over Singapore, and its main function is to promote sports participation to all Singaporeans.
-
-Please visit the SSC website at [www.ssc.gov.sg](https://www.ssc.gov.sg) for more information on SSC.
