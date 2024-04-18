@@ -5,6 +5,7 @@ date: 2011-02-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Team Singapore Athletes Rewarded For Medal Haul**
 
@@ -24,7 +25,7 @@ _DPM Teo Chee Hean Issues Rallying Call for Singaporeans to Back Team Singapore 
 
 7. "Looking forward, I am certain that our athletes and every facet of support behind them - from their coaches, to their sparring partners, to their medical and support teams - are already putting together the final pieces as Singapore gears towards this year's SEA Games and London 2012. It will take a national effort - not just for the athletes, but also for every one of us, to rally together and back our athletes as they aim to do Singapore proud and put us on the podium again. It is thus important that everyone, every agency - the NSAs, the SSC, the SNOC, our media partners and Singaporeans - rally around each other as our athletes begin their sporting journey," he added.
 
-8. The sponsors and corporate partners of Team Singapore and the SNOC - Adecco Personnel Private Limited, Canon Singapore Private Limited, Changi Airport Group (Singapore) Private Limited, MediaCorp Private Limited, the National Library Board, Nestle Singapore Private Limited, NTUC FairPrice Foundation Limited, Singapore Press Holdings, Singapore Totalisator Board & Singapore Pools (Private) Limited, Sunrise & Company (Private) Limited, and StarHub Limited - were each presented with appreciation plaques to honour their generous and continued support of Team Singapore.
+8. The sponsors and corporate partners of Team Singapore and the SNOC - Adecco Personnel Private Limited, Canon Singapore Private Limited, Changi Airport Group (Singapore) Private Limited, MediaCorp Private Limited, the National Library Board, Nestle Singapore Private Limited, NTUC FairPrice Foundation Limited, Singapore Press Holdings, Singapore Totalisator Board &amp; Singapore Pools (Private) Limited, Sunrise &amp; Company (Private) Limited, and StarHub Limited - were each presented with appreciation plaques to honour their generous and continued support of Team Singapore.
 
 ---
 
@@ -134,27 +135,10 @@ Total MAP Award: $2,340,000.00
 | 6.  | Nestle (Singapore) Private Limited                              |
 | 7.  | NTUC FairPrice Foundation Limited                               |
 | 8.  | Singapore Press Holdings Limited                                |
-| 9.  | Singapore Totalisator Board & Singapore Pools (Private) Limited |
-| 10. | Sunrise & Company (Private) Limited                             |
+| 9.  | Singapore Totalisator Board &amp; Singapore Pools (Private) Limited |
+| 10. | Sunrise &amp; Company (Private) Limited                             |
 | 11. | StarHub Limited                                                 |
 
----
-
-**For media enquiries, please contact:**
-<br>
-Tanty Nazlianah Rosli
-<br>Senior Manager
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5241
-<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
-Patricia Yee
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
 
 ---
 
@@ -162,10 +146,7 @@ Patricia Yee
 <br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
+
 
 **About the Singapore National Olympic Council**<br>
 The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
@@ -177,7 +158,3 @@ Originally mooted by the then-Ministry of Community Development and Sports, and 
 The three core Team Singapore attributes are Pride, Performance and Perseverance. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world?s sporting stage.
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit [www.teamsingapore.sg](https://www.teamsingapore.sg).
-<br>
-Follow Team Singapore on Facebook at: [www.facebook.com/TeamSG](https://www.facebook.com/TeamSG).
