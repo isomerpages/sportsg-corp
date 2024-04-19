@@ -5,6 +5,7 @@ date: 2012-02-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Long Term Athlete Development Plans Set To Produce More Sporting Heroes**
 
@@ -17,7 +18,7 @@ _Singapore Sports Institute to Undertake Holistic National Athlete Development, 
 2. The SSI has identified three strategies. They are:
 High performance sports framework
 Building strong internal core capabilities and
-Harnessing science & technology.
+Harnessing science &amp; technology.
 
 **High Performance Sports Framework**
 
@@ -51,7 +52,7 @@ Harnessing science & technology.
 
 **Harnessing Science and Technology**
 
-12. With SSI's core capabilities and delivery system in place, the Institute?s winning edge for the athletes will be its ability to intelligently exploit and apply science and technology (S&T) to its systems and processes. Although the SSI currently has S&T initiatives in place, it could benefit from a dedicated programme that will seed and drive sports S&T initiatives.
+12. With SSI's core capabilities and delivery system in place, the Institute?s winning edge for the athletes will be its ability to intelligently exploit and apply science and technology (S&amp;T) to its systems and processes. Although the SSI currently has S&amp;T initiatives in place, it could benefit from a dedicated programme that will seed and drive sports S&amp;T initiatives.
 
 13. One of the strategies is to promote sports related research not only in SSI, but also in institutions of higher learning and research institutions in Singapore. This will be done through a dedicated research grant to promote SSM research to support our athletes and the local sports industry.
 
@@ -89,26 +90,3 @@ Fast Fact on SSI's Sports Medicine:
 * Provides approximately 1,200 rehabilitation session a year
 
 ---
-
-**For media enquiries, please contact:**<br>
-Patricia Yee<br>
-Executive, Media Relations<br>
-Singapore Sports Council<br>
-Email: patricia_yee@ssc.gov.sg
-
-Tanty Nazlianah<br>
-Senior Manager, Media Relations<br>
-Singapore Sports Council<br>
-Email: tanty_nazlianah@ssc.gov.sg
-
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
