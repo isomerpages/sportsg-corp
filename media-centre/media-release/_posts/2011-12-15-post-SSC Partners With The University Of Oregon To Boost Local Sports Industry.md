@@ -5,6 +5,7 @@ date: 2011-12-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SSC Partners With The University Of Oregon To Boost Local Sports Industry**
 
@@ -103,11 +104,6 @@ The School of Law has been a member of the Association of American Law Schools s
 <br>
 The School of Music is the largest professional music school in the Pacific Northwest and one of the most significant in the western U.S. The school has more than 20 performing groups, ranging from a symphonic orchestra to a gospel choir.
 
-For more information on the University of Oregon please visit the following links:
-* http://www.uoregon.edu
-* http://admissions.uoregon.edu/profile.html
-* http://uoregon.edu/sports
-* www.goDucks.com
 
 **Campus Profile**
 <br>
@@ -135,7 +131,7 @@ Men's Sports<br>
 Baseball, Basketball, Cross country, Football, Golf, Tennis, Track and field
 
 Women's Sports<br>
-Acrobatics & Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softball, Tennis, Track and field, Volleyball
+Acrobatics &amp; Tumbling, Basketball, Cross country, Golf, Lacrosse, Soccer, Softball, Tennis, Track and field, Volleyball
 
 **Club Sports**
 
@@ -192,31 +188,3 @@ His comments on the industry have appeared in numerous publications including th
 Prior to the Warsaw Centre, Swangard was an award-winning sports journalist and freelance broadcaster. He is also considered as one of the United State's top track and field public address announcers having called dozens of major meets including the US Track and Field Indoor and Outdoor Championships, the Millrose games, Prefontaine Classic (IAAF Samsung Diamond League), adidas Grand Prix (IAAF Samsung Diamond League) and the USA Olympic Track and Field trials. A Eugene native, Swangard received his bachelors in Broadcast Journalism from the University of Oregon in 1990 and his MBA with a concentration in Sports Business from the University of Oregon in 1999.
 
 ---
-
-**For media enquiries, please contact:**<br>
-Patricia Yee
-<br>
-Executive, Media Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-
-S. Parameswaran (Parames)
-<br>
-Assistant Director, Media Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
-
-**About the Singapore Sports Council**
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
