@@ -6,6 +6,7 @@ date: 2011-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Team Singapore's Outing At The 26th SEA Games:42 Gold, 45 Silver And 73 Bronze In Tow**
 
@@ -183,7 +184,7 @@ image: ""
 | 126   | Bronze | Sailing               | Women's Mistral                  | Amanda Ng Ling Kai                      | 19-Nov |
 | 127   | Bronze | Silat                 | Tanding Class E                  | Mohd Saifullah Mohd Julaimi             | 15-Nov |
 | 128   | Bronze | Silat                 | Tanding Class I                  | Mohd Shakir Juanda                      | 15-Nov |
-| 129   | Bronze | Silat                 | Men's Artistic Double            | Muhd Azri Abdullah & Muhd Danial Azlani | 15-Nov |
+| 129   | Bronze | Silat                 | Men's Artistic Double            | Muhd Azri Abdullah &amp; Muhd Danial Azlani | 15-Nov |
 | 130   | Bronze | Softball              | Men's Softball                   | Men's Team                              | 18-Nov |
 | 131   | Bronze | Sport Climbing        | Women's Boulder                  | Chung Sue Ann                           | 13-Nov |
 | 132   | Bronze | Sport Climbing        | Men's Speed Track Individual     | Adriel Choo Weng Khit                   | 14-Nov |
@@ -212,6 +213,6 @@ image: ""
 | 155   | Bronze | Taekwondo             | Men's Fly Weight 54kg            | Jason Tan Junwei                        | 15-Nov |
 | 156   | Bronze | Waterski              | Men's Wakeboard                  | Matthew Keng Christian                  | 16-Nov |
 | 157   | Bronze | Waterski              | Women's Waterski Overall         | Sasha Siew Hoon Christian               | 18-Nov |
-| 158   | Bronze | Wushu                 | Women's Taijiquan & Taijijian    | Valerie Wee Ling En                     | 19-Nov |
+| 158   | Bronze | Wushu                 | Women's Taijiquan &amp; Taijijian    | Valerie Wee Ling En                     | 19-Nov |
 | 159   | Bronze | Wrestling             | Men's 60kg                       | Aaron Koh Sheng Min                     | 16-Nov |
 | 160   | Bronze | Wushu                 | Men's Duilian                    | Fung Jin Jie <br> Jaryl Tay Wei Sheng <br> Samuel Seah Kah Yeap | 21-Nov |
