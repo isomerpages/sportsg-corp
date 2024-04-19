@@ -5,6 +5,7 @@ date: 2007-03-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Sports Council Launches Singapore's 1st Sports Scholarship**
 
@@ -14,36 +15,15 @@ The scholarships are part and parcel of initiatives to strengthen SSC's and the 
 
 * Sports Science
 * Sports Management / Marketing
-* Sports Media & Broadcasting
+* Sports Media &amp; Broadcasting
 
 These areas have been identified as critical human capital capability areas that the Singapore Sports Industry needs to build up over the next few years in tandem with sports developments in Singapore, including the upcoming mega sports infrastructure project - the Sports Hub.
 
 Alex Chan, Chairman of the Singapore Sports Council, said: "Sports in Singapore has entered a very exciting growth phase. In tandem with our successes in the sports participation and excellence front, where we saw historical best performances in our last three major multi-sport games outings, we are beginning to see the spillover effects into the area of sports industry. As the sports industry continues to grow over the years as we lead up to the completion of the Sports Hub, more demands will be placed on human capital expertise to help us fully leverage on the growth potential of the sports industry. The introduction of Singapore's first sports scholarship signals our serious commitment to tap the full growth potential of the sports industry."
 
-The Sports scholarship will cater to students proceeding on to pursue undergraduate studies in the fields of Sports Science, Sports Management/ Marketing and Sports Media and Broadcasting. Two local and two overseas scholarship packages will be open for application.
+The sports scholarship will cater to students proceeding on to pursue undergraduate studies in the fields of Sports Science, Sports Management/ Marketing and Sports Media and Broadcasting. Two local and two overseas scholarship packages will be open for application.
 
 Successful applicants can look forward to exciting careers in SSC and the sports industry in such areas as sports marketing and events management, industry development, sports medicine and sports science, high-performance development, business development, and communications. They will also have attachment opportunities with sports-related organisations including commercial partners to provide them a holistic view of sports and the sports industry.
 
 Added Chan: "We're looking for people who are passionate about sports, people who possess the X-factor and believe in the vision of a very bright and exciting future for sports industry development in Singapore."
 
----
-
-**For media enquiries, please contact:**
-<br>
-Alvin Hang
-<br>
-Assistant Director (Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9590
-<br>
-Mobile: 9222 1010
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.

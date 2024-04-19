@@ -5,6 +5,7 @@ date: 2011-05-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **DPM Teo: Sport Is Our Opportunity To Unite As One**
 
@@ -113,41 +114,3 @@ The diversity of sports represented by the winners is a telling comment of how f
 | 23  | Meritorious Awards (Event)        | National Sailing Optimist Team (World Cup) <br>Ryan Lo Jun Han <br>Kimberly Lim Min <br>Bryan Lee Teik Leung <br>Jillian Lee Sook Ying <br>Elisa Yukie Yokoyama | Sailing      |
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Patricia Yee
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-  
-Tanty Nazlianah Rosli
-<br>Senior Manager
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5241
-<br>Email:[tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
----
-
-**About the Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About Team Singapore**<br>
-Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
-
-The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit [www.teamsingapore.sg](https://www.teamsingapore.sg) and [www.facebook.com/TeamSG](https://www.facebook.com/TeamSG).

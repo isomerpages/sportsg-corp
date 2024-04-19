@@ -5,6 +5,7 @@ date: 2007-01-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Sports Hub Consortiums Beef Up Teams In Lead Up To Bid Submissions Deadline**
 
@@ -19,9 +20,9 @@ Oon Jin Teik, CEO of the Singapore Sports Council, said, "As we approach the fin
 **The consortiums have added the following new partners:**
 * Alpine Consortium (led by Alpine Mayreder Bau GmbH/ Alpine Bau Deutscheland AG/ AFP)
 * Tim Hupe Architects Germany (Lead architect/ master planner)
-* Squire Mech Pte Ltd (M&E engineer)
+* Squire Mech Pte Ltd (M&amp;E engineer)
 * Dalkia (Facility management)
-* Alpine, Babcock & Brown and Great Eastern (Funding partner)
+* Alpine, Babcock &amp; Brown and Great Eastern (Funding partner)
 * Ashurst International Lawyers (Legal advisor)
 * The Singapore Gold consortium (led by Macquire Group)
 * John Laing Infrastructure Ltd (Funding partner)
@@ -31,13 +32,13 @@ Oon Jin Teik, CEO of the Singapore Sports Council, said, "As we approach the fin
 * CICADA (Landscape architect)
 * DHI Water and Environment (Environmental consultant)
 * Duffill Watts (Traffic consultant)
-* Faithful & Gould (Technical advisor)
+* Faithful &amp; Gould (Technical advisor)
 * Global Spectrum (Comcast Spectator - PICO - Venue management, Event programming and marketing)
 * World Sport Group (Event promoter)
 * ARM (Sport consultant)
 * Knight Frank (Retail/ Commercial advisor)
-* Ernst & Young (Taxes advisor)
-* Rajah & Tann (Legal advisor)
+* Ernst &amp; Young (Taxes advisor)
+* Rajah &amp; Tann (Legal advisor)
 * Norton Rose (PPP legal advisor)
 * AON (Insurance advisor)
 
@@ -57,26 +58,3 @@ Added Oon: "Forty percent of the evaluation will focus on the strength of the co
 [ANNEX C Singapore Sports Hub Fact Sheet](/files/Media%20Centre/Media%20Release/2007/January/25Jan07MRAnnexc.pdf)
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Sharon Liew<br>
-Manager<br>
-(Corporate Marketing & Communications)<br>
-DID: 6340 9862<br>
-Mobile: 9761 4124<br>
-Email: [sharon_liew@ssc.gov.sg](mailto:sharon_liew@ssc.gov.sg
-
-Alvin Hang<br>
-Assistant Director<br>
-(Group Communications)<br>
-Singapore Sports Council<br>
-DID: 6340 9590<br>
-Mobile: 9222 1010<br>
-Email: [alvin_hang@ssc.gov.sg](alvin_hang@ssc.gov.sg)[alvin_hang@ssc.gov.sg]
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports.

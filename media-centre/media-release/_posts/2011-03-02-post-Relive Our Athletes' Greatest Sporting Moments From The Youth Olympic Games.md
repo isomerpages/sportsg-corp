@@ -5,14 +5,15 @@ date: 2011-03-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Relive Our Athletes' Greatest Sporting Moments From The Youth Olympic Games**
 
-_SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photography Exhibition & Workshops_
+_SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photography Exhibition &amp; Workshops_
 
 **Singapore, 2 March 2011** - To relive the success stories and historic moments from Team Singapore's endeavour at the inaugural Singapore 2010 Youth Olympic Games (YOG), the Singapore Sports Council (SSC) is proud to present the third edition of the Inspiring Sporting Singapore Photography Exhibition entitled "Reliving YOG Moments", an inspirational showcase featuring our nation's YOG medallists, and other young Team Singapore athletes in action during the games.
 
-2. The exhibition will be held from 2 March 2011 to 2 May 2011 at 17 SSC Sports & Recreation Centres (SRCs) nationwide (see Annex A) and will showcase 34 colour images of Team Singapore athletes in competition at the YOG. Through this exhibition, the SSC aims to inspire Singaporeans to participate in sports.
+2. The exhibition will be held from 2 March 2011 to 2 May 2011 at 17 SSC Sports &amp; Recreation Centres (SRCs) nationwide (see Annex A) and will showcase 34 colour images of Team Singapore athletes in competition at the YOG. Through this exhibition, the SSC aims to inspire Singaporeans to participate in sports.
 
 3. "Every historic moment of the YOG undoubtedly lives on in the hearts and minds of every athlete who has participated in this inaugural competition, and what better way to pay tribute to the enduring spirit of our young Team Singapore athletes than to capture their once-in-a-lifetime experiences on camera," said Mr Richard Seow, Chairman, Singapore Sports Council, who has contributed three images from his own collection to the exhibition, including a close-up shot of YOG silver medallist Rainer Ng in the 50m backstroke swimming event.
 
@@ -34,7 +35,7 @@ _SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photo
 
 ---
 
-**Annex A - List of 17 SSC Sports & Recreation Centres**
+**List of 17 SSC Sports &amp; Recreation Centres**
 
 **1. Ang Mo Kio Swimming Complex**
 <br>1771 Ang Mo Kio Ave 1 (569978)
@@ -87,27 +88,10 @@ _SSC Commemorates Team Singapore Athletes' Achievements at YOG with Sports Photo
 **17. Yishun Swimming Complex**
 <br>351 Yishun Ave 3 (769057)
 
-**Annex B - Selected Photos for Exhibition**
-<br>[Annex B - Selected Photos for Exhibition](/files/Media%20Centre/Media%20Release/2011/March/Annex%20B%20%20Selected%20Photos%20for%20Exhibitionpdf.pdf) [344 Kb]
+---
 
-**Annex C - Schedule of Sports Photography Workshops**
 
-Trainer: **Russell Boyce - Chief Photographer, Asia (Reuters)**
-<br>Date: Saturday, 5 March 2011
-<br>Time: 9am - 12pm
-<br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
-
-Trainer: **Mindy Tan - Multi-award Winning Photographer**
-<br>Date: Saturday, 19 March 2011
-<br>Time: 9am - 12pm
-<br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
-
-Trainer: **Jeremy Lee - Photographer and Sub-Editor, Action Images**
-<br>Date: Saturday, 26 March 2011
-<br>Time: 9am - 12pm
-<br>Venue: Jalan Besar Stadium (Level 2 Boardroom)
-
-**Annex D - Profiles of Sports Photography Workshop Trainers**
+**Profiles of Sports Photography Workshop Trainers**
 
 **Russell Boyce - Chief Photographer, Asia (Reuters)**
 <br>
@@ -134,38 +118,3 @@ Tapping on his uncanny knack for perfect imagery, Jeremy ventured into the world
 In 2009, his love for sports and photography came to fruition as he moved to Action Images - a division of Reuters Media. Within this division, Jeremy was able to infuse his experience in commercial photography into editing high profile assignments for Action Images involving Wayne Rooney for Coca Cola UK and sport governing bodies such as FIFA on many of their global tournaments, ranging from beach soccer to 2010 FIFA World Cup in South Africa. Jeremy's most recent photography assignment was the Barclays Singapore Open 2010 - the most prestigious Asian tour golf tournament and the globally renowned Asian Soccerex Forum 2010 in Singapore.
 
 Even though sport has become a popular vocation to many photographers in recent years, very few have the experience and expertise to interpret a brief with flair and originality. In 2010, Jeremy was instrumental in managing the photography assignments for SSC, notably the inaugural Youth Olympic Games. The objective is to capture the young Team Singapore athletes in action during the Games. This project created a large collection of inspiring images which was pivotal to the "Reliving YOG Moments" photography exhibition.
-
----
-
-**For media enquiries, please contact:**
-<br>
-Patricia Yee
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Office: (65) 6500 5246
-<br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About Team Singapore**<br>
-Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
-
-The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit [www.teamsingapore.sg](https://www.teamsingapore.sg).
-<br>
-Follow Team Singapore's action on Facebook at: [www.facebook.com/TeamSG](https://www.facebook.com/TeamSG)
-
-**About Let's Play**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg).

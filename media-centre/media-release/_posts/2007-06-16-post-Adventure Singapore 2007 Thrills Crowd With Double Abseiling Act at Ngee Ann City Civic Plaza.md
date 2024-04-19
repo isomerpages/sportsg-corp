@@ -6,6 +6,7 @@ date: 2007-06-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Adventure Singapore 2007 Thrills Crowd With Double Abseiling Act at Ngee Ann City Civic Plaza**
 
@@ -21,7 +22,7 @@ All this action was captured by a camera crew trailing the racers for a direct f
 **Adventure Carnival**<br>
 The public was treated to a series of spectacular stunts and activities at the fun-filled and exciting day-long adventure carnival at Ngee Ann City Civic Plaza. These activities included the first Downtown Wakeboard Rail Jam in Asia where wakeboard athletes from Holland, China, Hong Kong, Malaysia, Philippines and Thailand brought wakeboarding to land for the very first time right in the heart of Orchard Road. The music-inspired Skate Jam performed by world- renowned skateboarder, Chris Haslam, along with Billabong professional skateboarders also entertained the 5000 spectators present. Free Style Motor Cross riders also performed sky rocketing stunts in front of the familiar Ngee Ann City Civic Plaza façade.
 
-Alongside Adventure Singapore is Xtreme Singapore, whose second circuit stop was held in conjunction with Adventure Singapore today. Xtreme Singapore features inline skating, skateboarding and BMX biking competition and it continues with its other pit-stops at &ast;scape Skate Park, Tampines and Downtown East on 4 August, 6 October and December respectively after today's event.
+Alongside Adventure Singapore is Xtreme Singapore, whose second circuit stop was held in conjunction with Adventure Singapore today. Xtreme Singapore features inline skating, skateboarding and BMX biking competition and it continues with its other pit-stops at *scape Skate Park, Tampines and Downtown East on 4 August, 6 October and December respectively after today's event.
 
 "I am thrilled with today's carnival and adventure race as it adds more vibrancy and excitement to Singapore's sporting calendar, " said Mr. Teo Ser Luck, Parliamentary Secretary (MCYS). " This bodes well for our extreme and adventure sports enthusiasts as they can now look forward to more opportunities to take part in challenging as well as adrenaline pumping sports. We are also looking to our private sector partners to grow such sports events to an international stature that will put Singapore on the world map as a sports hub. "
 
@@ -104,35 +105,3 @@ DJ Ritz
 <br>
 3rd Fabian Lao
 
-
----
-
-**For media enquiries, please contact:**
-<br>
-Jenny Kwok
-<br>
-Senior Executive (Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9881
-<br>
-HP: 9066 2792
-<br>
-Fax: 6345 2541
-<br>
-Email: [jenny_kwok@ssc.gov.sg](mailto:jenny_kwok@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**
-<br>
-The Singapore Sports Council (SSC) is Singapore?s lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports (MCYS).
-
-**About Xtreme Singapore**
-<br>
-Xtreme Singapore is an annual extreme sports competition organised by the Singapore Sports Council to provide youths with more opportunities for sustained sports participation through alternative sports. This year, Xtreme Singapore returns with a series of extreme sports competition held in five zonal areas island-wide, participants will compete in a series of extreme sports categories such as skateboarding, aggressive inline skating and BMX biking. Participants and the public can also engage in various extreme sports such as motocross, inline skating and skateboarding. Participants will gain points from their performance and participation in the series. The 40 participants with the most points in the series will compete in the grand finale in December 2007 where the Xtreme Singapore champion will be crowned.
-
-**About Adventure Singapore**
-<br>
-Adventure Singapore is an annual adventure race and carnival organised by Singapore Sports Council to provide youths and young adults with a variety of adventure sports for sustained participation in sports. Held on 16 June 2007, Adventure Singapore includes an adventure race around Singapore and a carnival at Takashimaya Civic Plaza where Singaporeans will be treated to a series of spectacular stunts and activities. Activities planned include the first Rail Jam in Asia, music-inspired Skate Jam and even an adventure sports spectacular by avid sportsman and popular MediaCorp artiste, Ix Shen.

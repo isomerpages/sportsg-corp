@@ -5,6 +5,7 @@ date: 2006-07-31
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Launches Invitation to Tender for Sports Hub PPP Project**
 
@@ -12,7 +13,7 @@ The Singapore government today launched the Invitation to Tender (ITT) for the m
 
 The evaluation criteria for the project has been published to guide the consortiums in their bid proposals. The largest weightage will be on the ability of the consortium to attract and host major sports, entertainment and leisure programmes in the Sports Hub. Design and functionality, together with financial and legal strength, will be given equal weightage. Facilities management will also be a factor of consideration in the evaluation.
 
-Commenting on the ITT launch, Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports & 2nd Minister for Information Communication and the Arts said: "Today's launch represents a very significant milestone for the Sports Hub's project. This will be an icon of sports, entertainment and lifestyle activities for all Singaporeans. The Sports Hub will also help to position Singapore as a preferred venue for premium sports and entertainment events in the region."
+Commenting on the ITT launch, Dr Vivian Balakrishnan, Minister for Community Development, Youth and Sports &amp; 2nd Minister for Information Communication and the Arts said: "Today's launch represents a very significant milestone for the Sports Hub's project. This will be an icon of sports, entertainment and lifestyle activities for all Singaporeans. The Sports Hub will also help to position Singapore as a preferred venue for premium sports and entertainment events in the region."
 
 "Various government agencies including the Singapore Sports Council, the Economic Development Board, Singapore Tourism Board and the Urban Redevelopment Authority will work in tandem to ensure its success." added Dr Balakrishnan.
 
@@ -32,27 +33,3 @@ The Sports Hub will be a fully integrated sports, entertainment and lifestyle hu
 [Annex B: Project timeline](/files/Media%20Centre/Media%20Release/2006/July/31JulMRANNEXBSportsHub.pdf)
 <br>
 [Annex C: Sports Hub fact sheet](/files/Media%20Centre/Media%20Release/2006/July/31JulMRAnnexc.pdf)
-
-For more on the Sports Hub, please log on to [www.ssc.gov.sg](https://www.ssc.gov.sg).
-
----
-
-**For media enquiries, please contact:**
-<br>
-Alvin Hang
-<br>
-Assistant Director
-<br>
-(Group Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340-9590
-<br>
-Mobile: 9222-1010
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
-
-**About The Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Issued by the Singapore Sports Council on 31 July 2006.

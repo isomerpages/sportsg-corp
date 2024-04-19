@@ -5,6 +5,7 @@ date: 2007-07-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **WaterFest 2007: Redefining Waterfront Sporting Lifestyle!**
 
@@ -24,7 +25,7 @@ WaterFest is thus also the ideal time to synergise on what the various governmen
 
 "We have lined up many exciting recreational and sporting activities which both the young and old can either watch or participate in," said Mr Yazed Osman, Event Director of WaterFest Singapore 2007. "Through these activities, WaterFest hopes to show Singaporeans how they can make better and more creative use of these water resources to further enrich their urban lifestyles in an enjoyable and sustainable way."
 
-WaterFest will begin at the Marina Bay floating platform with its kickoff event, WaterFest by the Bay 2007, on 25 & 26 August. The two-day event will provide a snapshot of all activities that will take place throughout the rest of the festival and will also feature water sports performances by overseas enthusiasts and professionals.
+WaterFest will begin at the Marina Bay floating platform with its kickoff event, WaterFest by the Bay 2007, on 25 &amp; 26 August. The two-day event will provide a snapshot of all activities that will take place throughout the rest of the festival and will also feature water sports performances by overseas enthusiasts and professionals.
 
 Highlights include awe-inspiring performances by the China ALL STAR Water Ski team who is here for the first time, and breathtaking stunts by world-class wakeboarding professionals at the larger and more exciting Rail Jam. Spectators will also witness heart-stopping water craft races at the inaugural Jetsports Supercourse Challenge. The public can also have their go at getting wet while having fun at the Splash Battle Zone, where they will have to pit their skills against each other in shooting down targets using water guns, the first of its kind in Singapore.
 
@@ -37,55 +38,4 @@ Singaporeans who are not quite as sporty or adventurous to get themselves wet ca
 ---
 
 **Enclosures**<br>
-[Annex A](/files/Media%20Centre/Media%20Release/2007/July/WaterFestPressReleaseFINALAnnexA.pdf)
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-Sabrina Chan
-<br>
-Asia PR Werkz Pte Ltd
-<br>
-Tel: 6536 6881
-<br>
-Hp: 9819 3727
-<br>
-Email: [sabrina@asiaprwerkz.com](mailto:sabrina@asiaprwerkz.com)
-
-Jonathan Wong
-<br>
-Asia PR Werkz Pte Ltd
-<br>
-Tel: 6536 6881
-<br>
-Hp: 9272 1117
-<br>
-Email:[jonathan@asiaprwerkz.com](mailto:jonathan@asiaprwerkz.com)
-
-Matthew Loh
-<br>
-Asia PR Werkz Pte Ltd
-<br>
-Tel: 6536 6881
-<br>
-Hp: 9170 2541
-<br>
-Email: [matthew@asiaprwerkz.com](mailto:matthew@asiaprwerkz.com)
-
-Evelyn Liu
-<br>
-Manager (Marketing Communications)
-<br>
-Singapore Sports Council
-<br>
-DID: 6340 9669
-<br>
-Email: [evelyn_liu@ssc.gov.sg](mailto:evelyn_liu@ssc.gov.sg)
-
----
-
-**About WaterFest Singapore 2007**
-<br>
-The WaterFest Singapore 2007 is Singapore's only international water-sports festival that encompasses competitive and lifestyle events that are fun and exhilarating. The 6-week long festival is into its third year running and will kick off on 25-26 August with events extending till 7 Oct. WaterFest Singapore aims to raise the profile of water sports and water-related recreational activities and bring Singaporeans closer to the various water locales all over the island. Encompassing fun and exhilarating events, WaterFest Singapore hopes to get Singaporeans to experience and enjoy our water facilities and integrate water-related culture and sport into their lifestyles.
+[Annex A: Waterfront Lifestyle Development Milestones](/files/Media%20Centre/Media%20Release/2007/July/WaterFestPressReleaseFINALAnnexA.pdf)

@@ -6,6 +6,7 @@ date: 2007-11-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **All Systems Go as Organisers and 40,000 Runners Make Final Preparations for Standard Chartered Singapore Marathon 2007**
 
@@ -21,55 +22,3 @@ Mr Yazed Osman, Event Director for the Standard Chartered Singapore Marathon 200
 
 One thing that is familiar and has remained unchanged is the charity element of the event. In keeping with a tradition first started in 2003, runners are encouraged to "run for a cause" for the marathon's official charity and this year, organisers have adopted the Autism Association (Singapore) as the official beneficiary of the event. S$200,000 has been raised so far and the funds will go towards the building of a new school for the Association.
 
----
-
-**For media enquiries, please contact:**
-<br>
-Sheila Thomas
-<br>
-Fulford Public Relations
-<br>
-Tel: +65 6324 5289
-<br>
-Email: [sthomas@fulfordpr.com](sthomas@fulfordpr.com)
-
-Ronda Ng Doswell
-<br>
-Fulford Public Relations
-<br>
-Tel: +65 6324 5293
-<br>
-Email: [rng@fulfordpr.com](rng@fulfordpr.com)
-
-
-Evelyn Liu
-<br>
-Manager (Marketing Communications)
-<br>
-Group Communications Division
-<br>
-Sports Marketing Group
-<br>
-Singapore Sports Council
-<br>
-Tel: +65 6500 5238
-<br>
-Email: [evelyn_liu@ssc.gov.sg](evelyn_liu@ssc.gov.sg)
-
----
-
-**About The Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports.
-
-**About Standard Chartered Bank**<br>
-_Standard Chartered - leading the way in Asia, Africa and the Middle East_
-
-Standard Chartered employs 38,000 people in 950 locations in more than 50 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas. Standard Chartered is one of the world's most international banks, with employees representing 80 nationalities.
-
-Standard Chartered PLC is listed on both the London Stock Exchange and the Stock Exchange of Hong Kong and is in the top 25 FTSE-100 companies, by market capitalisation.
-
-It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
-
-Standard Chartered is well-established in growth markets and aims to be the right partner for its customers. The Bank combines deep local knowledge with global capability.
-
-The Bank is trusted across its network for its standard of governance and corporate responsibility as well as its commitment to making a difference in the communities in which it operates.

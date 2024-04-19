@@ -6,6 +6,7 @@ date: 2011-06-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **70,000 Set To 'Run For A Reason' As Registration Opens For The Standard Chartered Marathon Singapore 2011**
 
@@ -22,9 +23,9 @@ _SSC Committed to Enhance Race Day Experience for Participants and Supporters Al
 
 5. Guest-of-Honour Major General (NS) Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, was also present at the launch event to witness the commencement of registration for Singapore's favourite running event, which has increased its capacity to a record 70,000 participants this year.
 
-6. Commenting on the event, Mr Ray Ferguson, Regional CEO, Singapore & Southeast Asia Standard Chartered Bank said, "The passion, courage, and determination of the runners each year resonate strongly with what we stand for as an organisation. Together in partnership with the SSC, we have created many reasons for Singaporeans to run; whether they are experienced marathoners trying to better their time or running to stay fit. The increase in the number of participants we expect this year is testimony to that."
+6. Commenting on the event, Mr Ray Ferguson, Regional CEO, Singapore &amp; Southeast Asia Standard Chartered Bank said, "The passion, courage, and determination of the runners each year resonate strongly with what we stand for as an organisation. Together in partnership with the SSC, we have created many reasons for Singaporeans to run; whether they are experienced marathoners trying to better their time or running to stay fit. The increase in the number of participants we expect this year is testimony to that."
 
-**More Runners & Community Engagement Activities**
+**More Runners &amp; Community Engagement Activities**
 
 7. Apart from familiar features like the iconic routes through the heart of Singapore, a new 5km Fun Run has been introduced, probably making it the most inclusive Marathon in Singapore. The new 5km Fun Run will give Singaporeans more incentive to Run for a Reason, adding to the expansive range of 10km, 21km, 42km and Kids Dash race distances.
 
@@ -46,36 +47,3 @@ _SSC Committed to Enhance Race Day Experience for Participants and Supporters Al
 
 ---
 
-**For media enquiries, please contact:**
-<br>
-Ronda Ng
-<br>Fulford PR
-<br>DID: 6324 5293
-<br>Email:[rng@fulfordpr.com](mailto:rng@fulfordpr.com)
-
-Tanty Nazlianah Rosli
-<br>Senior Manager, Media Relations
-<br>Singapore Sports Council
-<br>Office: 6500 5241
-<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About Standard Chartered Bank in Singapore**<br>
-Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
-
-It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
-
-Standard Chartered has a history of more than 150 years in Singapore, opening its first branch here in 1859 and in October 1999 was among the first international banks to receive a Qualifying Full Bank (QFB) licence, an endorsement of the Group's long-standing commitment to its businesses in the country.
-
-It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
-
-The Bank employs over 7,000 people in Singapore and has a network of 19 branches, 30 ATMs, and 7 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
