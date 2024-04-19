@@ -5,6 +5,7 @@ date: 2011-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Team Singapore Exemplifies The Singapore Spirit**
 
@@ -55,45 +56,4 @@ _Team Singapore Will Take Part in 33 Sports at the 26th SEA Games and Five Sport
 [Annex E - Profile of CDM Dr Tan Eng Liang](/files/Media%20Centre/Media%20Release/2011/November/Annex%20E%20%20Profile%20of%20CDM%20Dr%20Tan%20Eng%20Liangpdf.pdf) [213 Kb]<br>
 [Annex F - Profile of CDM Ee Tiang Hwee ](/files/Media%20Centre/Media%20Release/2011/November/Annex%20F%20%20Profile%20of%20CDM%20Ee%20Tiang%20Hweepdf.pdf)[233 Kb]
 
----
-
-**For media enquiries, please contact:**
-<br>
-Lin Kuek<br>
-Hill & Knowlton (SEA) Pte Ltd<br>
-Email: [lin.kuek@hillandknowlton.com.sg](mailto:lin.kuek@hillandknowlton.com.sg)
-
-Patricia Yee<br>
-Executive, Media Relations<br>
-Singapore Sports Council<br>
-Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
-
-**About the Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
-
-**About Team Singapore**<br>
-Originally mooted by the then-Ministry of Community Development and Sports, and launched on 20 April 2001 by then-Deputy Prime Minister Dr Tony Tan, Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport Games and identified international competitions.
-
-The three core attributes of Pride, Performance and Perseverance anchor that which is the collective Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information, please visit [www.teamsingapore.sg](https://www.teamsingapore.sg) and [www.facebook.com/TeamSG](https://www.facebook.com/TeamSG).
-
-**About the Singapore National Paralympic Council**<br>
-Formed on 23 June 2008, the Singapore National Paralympic Council (SNPC) is the sole national body recognised by the International Paralympic Committee (IPC) to represent disability sports in Singapore. The SNPC takes over the reins of selecting elite athletes with disability for IPC-sanctioned competitions from the Singapore Disability Sports Council (SDSC), such as the Paralympic Games, Commonwealth Games, Asian Para Games and ASEAN Para Games.
-
-**About the Singapore Disability Sports Council**<br>
-The Singapore Disability Sports Council (SDSC) is the only organisation in Singapore that caters sports for persons across all kinds of disabilities. It aims to help people with disability lead full and independent lives through sports. Besides providing sporting opportunities for them to realise their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. Find out more at [www.sdsc.org.sg](https://www.sdsc.org.sg).
+--- 

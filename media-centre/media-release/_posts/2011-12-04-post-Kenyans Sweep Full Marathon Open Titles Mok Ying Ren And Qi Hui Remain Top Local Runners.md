@@ -6,6 +6,7 @@ date: 2011-12-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Kenyans Sweep Full Marathon Open Titles; Mok Ying Ren And Qi Hui Remain Top Local Runners At The Standard Chartered Marathon Singapore 2011**
 
@@ -25,7 +26,7 @@ image: ""
 
 6. The SCMS 2011 took off at three different start points at Orchard Road, Sentosa and Esplanade Drive, bringing participants through the unique and iconic sights and sounds of the Garden City such as Chinatown, Universal Studios Singapore, Gardens by the Bay, the Marina Bay area before finishing against a spectacular backdrop of the Padang. Acting Minister for Community Development Youth and Sports, Chan Chun Sing, flagged off the Full Marathon at 5.00am at Orchard Road; Chairman, Singapore Sports Council, Richard Seow, flagged off the Half-marathon at 6.30 am at Sentosa while the 10KM and 5KM Fun Run was flagged off at 7.15am by Deputy Speaker of Parliament, Chairman, Government Parliamentary Committee for Community Development Youth and Sports, and Member of Parliament for Marine Parade GRC, Seah Kian Peng, on the Esplanade Bridge.
 
-7. LIVE broadcast was also available for the public to watch the race from the comforts of their own home, with a same day telecast at 7pm on StarHub SuperSports Arena (Channel 201). Race coverage was also available on [SingaporeSports.tv](https://www.youtube.com/SingaporeSports) from 4.30am to 10.00am.
+7. LIVE broadcast was also available for the public to watch the race from the comforts of their own home, with a same day telecast at 7pm on StarHub SuperSports Arena (Channel 201). 
 
 8. For further information on the Standard Chartered Marathon Singapore 2011 please visit [www.singaporemarathon.com](https://singaporemarathon.com/).
 
