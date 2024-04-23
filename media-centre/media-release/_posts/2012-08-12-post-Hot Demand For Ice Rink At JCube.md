@@ -5,6 +5,7 @@ date: 2012-08-12
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ## **Hot Demand For Ice Rink At JCube**
 
@@ -41,48 +42,18 @@ Photo by Singapore Sports Council and CapitaMalls Asia
 
 [1] The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). Schools eligible for SEP are Primary, Secondary, JCs, Centralised Institution and Special Education Schools. Under SEP, each school is provided with a $10,000 dollar-to-dollar matching grant for them to take up sports programmes from an endorsed list.
 
-[2] In 2003, the Urban Redevelopment Authority introduced the Civic & Community Institution (C&CI) scheme and guidelines for the integration of community facilities in private commercial developments. Under this scheme, the proposed uses must be compatible with commercial development and intended for public and community usage and not profit driven. The scheme was subsequently revised on 2005 and 2008 to include selected public sports uses ("Community/Sports Facilities Scheme").*
+[2] In 2003, the Urban Redevelopment Authority introduced the Civic &amp; Community Institution (C&amp;CI) scheme and guidelines for the integration of community facilities in private commercial developments. Under this scheme, the proposed uses must be compatible with commercial development and intended for public and community usage and not profit driven. The scheme was subsequently revised on 2005 and 2008 to include selected public sports uses ("Community/Sports Facilities Scheme").*
 
 ---
 
 **Annex A: Guests Involved in Ice Hockey Shootout**
 
-1\. Mr Tharman Shanmugaratnam, Deputy Prime Minister & Minister for Finance & Member of Parliament for Jurong GRC
-<br>2\. Ms Grace Fu, Minister in the Prime Minister's Office & Second Minister for Environment and Water Resources & Second Minister for Foreign Affairs & Member of Parliament for Yuhua SMC
-<br>3\. Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports & Member of Parliament for Jurong GRC 
+1\. Mr Tharman Shanmugaratnam, Deputy Prime Minister &amp; Minister for Finance &amp; Member of Parliament for Jurong GRC
+<br>2\. Ms Grace Fu, Minister in the Prime Minister's Office &amp; Second Minister for Environment and Water Resources &amp; Second Minister for Foreign Affairs &amp; Member of Parliament for Yuhua SMC
+<br>3\. Mdm Halimah Yacob, Minister of State for Community Development, Youth and Sports &amp; Member of Parliament for Jurong GRC 
 <br>4\.  Mr Ang Wei Neng, Member of Parliament for Jurong GRC
 <br>5\.  Mr Desmond Lee, Member of Parliament for Jurong GRC
 <br>6\.  Mr David Ong, BBM, Member of Parliament for Jurong GRC
-<br>7\.  Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Sembawang GRC
-<br>8\.  Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports & Member of Parliament for Chua Chu Kang GRC
+<br>7\.  Mr Vikram Nair, Government Parliamentary Committee member for Community Development, Youth and Sports &amp; Member of Parliament for Sembawang GRC
+<br>8\.  Mr Alex Yam, Government Parliamentary Committee member for Community Development, Youth and Sports &amp; Member of Parliament for Chua Chu Kang GRC
  
-**For media enquiries, please contact:**
-<br>
-Jemuel Fu
-<br>Executive, Media Relations
-<br>Singapore Sports Council
-<br>Email: [jemuel_fu@ssc.gov.sg](mailto:jemuel_fu@ssc.gov.sg)
-
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
-
-**About CapitaMalls Asia**
-<br>
-CapitaMalls Asia Limited is one of the largest listed shopping mall developers, owners and managers in Asia by total property value of assets and geographic reach. CapitaMalls Asia has an integrated shopping mall business model encompassing retail real estate investment, development, mall operations, asset management and fund management capabilities. It has interests in and manages a pan-Asian portfolio of 97 shopping malls across 52 cities in the five countries of Singapore, China, Malaysia, Japan and India, with a total property value of approximately S$30.7 billion and a total GFA of approximately 91.6 million sq ft.
-
-Shopping malls in the portfolio include ION Orchard and Plaza Singapura - which are located in one of the world's most famous shopping streets, Orchard Road - Raffles City Singapore and Clarke Quay in Singapore. Our landmark shopping malls in China are CapitaMall Crystal in Beijing; Hongkou Plaza in Shanghai and Raffles City Shanghai; and CapitaMall Jinniu in Chengdu. The portfolio also includes Gurney Plaza in Penang, Malaysia; Vivit Square in Tokyo, Japan; as well as Forum Value Mall in Bangalore, India.
-
-CapitaMalls Asia's principal business strategy is to invest in, develop and manage a diversified portfolio of real estate used primarily for retail purposes in Asia, and to strengthen its market position as a leading developer, owner and manager of shopping malls in Asia.
-
-**About JCube**
-<br>
-Nestled in the heart of the up and coming Jurong Lake District, JCube is an ultra-hip mall with Singapore's only Olympic-size ice rink and IMAX cinema in the suburbs. The mall boasts a unique faceted facade inspired by an ice cube, reflecting natural light by day and sparkling by night. JCube has been awarded the Building and Construction Authority's highest green accolade - Green Mark Platinum - for its environmentally friendly features.
-
-Located close to Jurong East MRT interchange and bus interchange, JCube, which replaces the former Jurong Entertainment Centre, has a net lettable area of 210,000 sq ft in its five levels of retail, dining and entertainment options. There are two levels of basement parking and a rooftop terrace-cum-event space on Level 5, called JStage. With its new-to-market brands and extended dining options, JCube is set to be the preferred leisure and entertainment destination for youth, PMEBs and residents who live and work in Singapore's West.
