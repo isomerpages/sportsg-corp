@@ -54,40 +54,49 @@ medicine, sports analytics and sports technology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>| | |</p>
-<p>| | |</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2013" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Annual_Symposium_2013.jpeg">
 </div>
-<p>| <strong>SSI ANNUAL SYMPOSIUM 2013</strong> 
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SSI ANNUAL SYMPOSIUM 2013</strong> 
 <br>The SSI Annual Symposium 2013 was held on the 11-12 July 2013 at Concorde
 Hotel, Singapore. Distinguished keynote speakers were: Dr Ken van Someren,
 Director of R&amp;D, GSK Human Performance Lab UK Prof Takashi Katsuta,
 Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2013/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> |
-|</p>
+<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2013/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI INSTITUTIONAL REVIEW BOARD" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_IRB.png">
 </div>
-<p>| <strong>SSI INSTITUTIONAL REVIEW BOARD</strong> 
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SSI INSTITUTIONAL REVIEW BOARD</strong> 
 <br>In accordance with the “Research involving Human Subject: Guidelines for
 IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004,
 SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety
 of human research subjects involved in SSI’s research programmes.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-institutional-review-board/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> |
-|</p>
-<p></p>
+<br><a href="/singapore-sport-institute/science-and-technology/ssi-institutional-review-board/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Science_and_Technology_SSI.jpeg">
 </div>
-<p>| <strong>SINGAPORE SPORT SCIENCE &amp; TECHNOLOGY RESEARCH GRANT</strong> 
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SINGAPORE SPORT SCIENCE &amp; TECHNOLOGY RESEARCH GRANT</strong> 
 <br>2017 GRANT CALL
-<br><a href="/singapore-sport-institute/science-and-technology/singapore-sport-science-technology-research-grant/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> |</p>
+<br><a href="/singapore-sport-institute/science-and-technology/singapore-sport-science-technology-research-grant/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
