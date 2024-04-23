@@ -6,6 +6,7 @@ date: 2012-05-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SSI Forms Partnership With Regional Institutes In Preparation For Rio 2016 And Beyond**
 
@@ -18,7 +19,7 @@ image: ""
 
 3\. Established just two years ago, the SSI will certainly benefit from the vast experience of these well-established institutes, some of which have produced multiple Olympic champions. Areas of collaboration include cooperation in sports science and medicine research and development, sharing of data and research methodology, athlete and coach training exchange programmes, as well as specialist exchange and development programmes.
 
-**Sports Science and Medicine Research & Development**
+**Sports Science and Medicine Research &amp; Development**
 
 4\. The China Institute of Sports Science (CISS) is the country's oldest and largest sports research institute. With 50 years of experience under its belt, CISS has extensive knowledge in the area of elite sports science research. They are also very well versed in applying scientific research to enhance their athlete training systems. The SSI is certainly looking to tap into their expertise to further develop our nation's capabilities in this area. CISS is also very much experienced in using traditional Chinese medicine (TCM) to treat sports injuries. This is a niche area of expertise that the SSI can look into to better serve our Team Singapore athletes.
 
@@ -39,31 +40,3 @@ image: ""
 10\.  Mylene Ong, a Team Singapore swimmer who will be starting university in January 2013 welcomes the new scheme. She said, "At the Singapore Sports School, classes were arranged around my training schedule. However, I will not have this luxury once I start university next year. As I plan to continue training full time, a scholarship will certainly give me the financial help and flexibility in timing that I need to effectively balance school and training."
 
 11\. Ultimately, the aim of the SSI is to provide Team Singapore athletes with structured multidimensional training programmes by incorporating all aspects of sports science and medicine. Through the athlete services unit, the Institute looks to continue to develop a support system that takes care of the holistic development of the athlete, nurturing them into well-rounded individuals.
-
----
-
-**For media enquiries, please contact:**
-<br>
-Patricia Yee
-<br>
-Executive, Media Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-
-Tanty Nazlianah
-<br>
-Senior Manager, Media Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
