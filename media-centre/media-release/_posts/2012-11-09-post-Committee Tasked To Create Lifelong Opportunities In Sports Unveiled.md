@@ -5,6 +5,7 @@ date: 2012-11-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Committee Tasked To Create Lifelong Opportunities In Sports Unveiled**
 ![](/images/Media%20Centre/Media%20Release/2012/Nov/nsys.jpeg)
@@ -85,18 +86,3 @@ Mr Lim Teck Yin, Chief Executive Officer, Singapore Sports Council
 * Ms Deborah Tan, Principal, Singapore Sports School
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Siti Nurhidayati
-<br>Senior Executive, Media Relations
-<br>Corporate Communications & Relations
-<br>Singapore Sports Council
-<br>Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
-
----
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
