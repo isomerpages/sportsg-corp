@@ -64,7 +64,7 @@ medicine, sports analytics and sports technology.
 Hotel, Singapore. Distinguished keynote speakers were: Dr Ken van Someren,
 Director of R&amp;D, GSK Human Performance Lab UK Prof Takashi Katsuta,
 Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2013/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2013/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
 IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004,
 SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety
 of human research subjects involved in SSI’s research programmes.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-institutional-review-board/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<br><a href="/singapore-sport-institute/science-and-technology/ssi-institutional-review-board/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
