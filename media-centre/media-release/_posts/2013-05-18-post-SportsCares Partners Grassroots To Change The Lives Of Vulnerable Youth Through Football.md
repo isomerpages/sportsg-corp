@@ -141,7 +141,4 @@ Sports recommendations, our mandate goes beyond driving participation and
 winning medals. At SSC, we use sport to create resilient, tenacious people,
 an appreciation for teamwork, a commitment to purpose, strong united communities
 and national pride.</p>
-<p>To find out more, visit our websites <a href="/about-us/vision-2030/" rel="noopener noreferrer nofollow" target="_blank">Vision2030.sg</a> and <a href="https://www.sportsingapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sportsingapore.gov.sg</a>.
-<br>Follow us on Facebook and Flickr at: <a href="https://www.facebook.com/livebetterthroughsport" rel="noopener noreferrer nofollow" target="_blank">facebook.com/livebetterthroughsport</a> and
-<a href="https://wwww.flickr.com/ssc-sportsphotography" rel="noopener noreferrer nofollow" target="_blank">flickr.com/ssc-sportsphotography</a>
-</p>
+<p></p>
