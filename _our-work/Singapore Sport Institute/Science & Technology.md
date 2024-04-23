@@ -24,14 +24,7 @@ to support the performance of our Team Singapore coaches and athletes.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>SSI ANNUAL SYMPOSIUM 2018</strong> 
-<br>This year’s Singapore Sport Science Symposium is held together with the
-ASIA (Associations of Sports Institutes in Asia) Congress where member
-countries such as Japan, Qatar, Hong Kong and Singapore will come together
-for its Annual General Meeting and Congress with the aim of enhancing the
-future of high performance sport in Asia. The theme for the Congress is
-'Sport Integrity'.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2018/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+<p><strong>SSI ANNUAL SYMPOSIUM 2018 <br>This year’s Singapore Sport Science Symposium is held together with the ASIA (Associations of Sports Institutes in Asia) Congress where member countries such as Japan, Qatar, Hong Kong and Singapore will come together for its Annual General Meeting and Congress with the aim of enhancing the future of high performance sport in Asia. The theme for the Congress is 'Sport Integrity'. <br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2018/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></strong>
 </p>
 </th>
 </tr>
