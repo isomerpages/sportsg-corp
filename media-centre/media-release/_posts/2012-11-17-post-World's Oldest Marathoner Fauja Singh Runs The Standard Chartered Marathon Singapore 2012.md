@@ -56,10 +56,7 @@ a difference to those in need." said Mr Toh Boon Yi, Chief, Strategic Developmen
 &amp; Marketing Group, Singapore Sports Council and Deputy Chairman of
 the SCMS 2012 organising committee. "Fauja personifies the Vision 2030
 philosophy that people can live better through sports."</p>
-</li>
-<li>
-<p>Donors who would like to contribute to Fauja's cause may do so at: <a href="http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation" rel="noopener noreferrer nofollow" target="_blank">http://www.giveasia.org/movement/worlds_oldest_marathoner_fauja_singh_runs_for_sportcares_foundation</a>
-</p>
+<p></p>
 </li>
 </ol>
 <hr>
