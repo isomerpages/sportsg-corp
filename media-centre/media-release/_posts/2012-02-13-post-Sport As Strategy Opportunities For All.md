@@ -5,10 +5,11 @@ date: 2012-02-13
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Sport As Strategy, Opportunities For All**
 
-_Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace & Competitive Sport_
+_Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace &amp; Competitive Sport_
 
 **Singapore, 13 February 2012** - After seven months of consultation with some 2500 people from the public, private and people sectors, the Vision 2030 Committee released its preliminary recommendations on how sport can be a key strategy to serve Singapore. The recommendations call for more opportunities and access for Singaporeans to play more sports in school, the community and the workplace. Sports capabilities will also be enhanced to support the anticipated growth in quantity and quality of sports programmes.
 
@@ -26,7 +27,7 @@ _Vision 2030 Tackles Fundamental Challenges in School, Community, Workplace & Co
 
 7. 'Opportunities' looks at increasing and sustaining engagement in sport so that people can experience the value of sport throughout their lives. Said Singapore Sports Council's Chief Executive Officer Lim Teck Yin, "Everyone we met spoke of the power of sport to improve lives, and they wanted more opportunities to play sport. Parents, in particular, told us that they wanted more opportunities for children and youth to play more sport in schools. They believe it will help them stay healthy and learn valuable lessons that will make them better persons and more prepared for the workforce and life."
 
-8. A key recommendation to provide more opportunities for sports participation, particularly in schools, is the proposed 'Sports Pathways Committee' to better coordinate the efforts of various stakeholders to strengthen and align sports pathways (i.e. participation opportunities & development). The Ministry of Education (MOE) welcomes the proposal to form this committee, which will better coordinate the efforts of various stakeholders to strengthen and align sports pathways.
+8. A key recommendation to provide more opportunities for sports participation, particularly in schools, is the proposed 'Sports Pathways Committee' to better coordinate the efforts of various stakeholders to strengthen and align sports pathways (i.e. participation opportunities &amp; development). The Ministry of Education (MOE) welcomes the proposal to form this committee, which will better coordinate the efforts of various stakeholders to strengthen and align sports pathways.
 
 9. The initial phase will focus on youth sports development but will consider other aspects of the participation pathway in the post-school years further downstream. The committee will comprise members from Ministry of Community Development, Youth and Sports (MCYS), MOE, Singapore Armed Forces, People's Association, National Trades Union Congress, tertiary institutions, Singapore Sports School and the Singapore Sports Council.
 
@@ -63,7 +64,7 @@ Appropriate incentives and recognition for companies that support Sporting Singa
 * Masterplan a good mix and density of sports facilities across Singapore, with the regional facilities as the nucleus for the Super Sports Clubs. The regional facilities would be supported by a network of school and * community facilities to cater to the sporting needs of residents
 * Work with MOE to expand the number and types of Dual Use Facilities to maximise public access e.g. open air basketball, tennis and volleyball courts.
 * Determine opportunities for co-location with People's Association and other government agencies
-* Explore the innovative use of space for sports with planning agencies such as the Urban Redevelopment Authority, Housing & Development Board and National Parks Board
+* Explore the innovative use of space for sports with planning agencies such as the Urban Redevelopment Authority, Housing &amp; Development Board and National Parks Board
 * Enhance SSC sports facilities through the use of universal design principles to provide better access for the elderly, people with disabilities and people with small children
 
 22. The Committee also recommends a 'SportCares Movement' to use sport to inculcate stronger social values among Singaporeans and to improve the wellbeing of vulnerable segments of our society. The committee is studying the possibility of setting up a foundation to anchor the 'SportCares Movement'.
@@ -88,7 +89,7 @@ Appropriate incentives and recognition for companies that support Sporting Singa
 
 ---
 
-**Annex A - About Vision 2030**
+**About Vision 2030**
 
 Vision 2030 is a joint project led by the Singapore Sports Council and the Ministry of Community Development, Youth and Sports with active participation from the public, people and private sectors. From July 2011, the Vision 2030 Team engaged in discussions with people from all walks of life, from executives to parents to youth to civil servants. We met with sports leaders, urban planners, teachers, volunteers, doctors, retirees and stay-at-home mums. We began every conversation with a basic question: How could sport best serve Singapore in the coming decades?
 
@@ -98,13 +99,10 @@ By its very nature, sport develops the attributes that we want and need to compe
 
 This is the spirit of Vision 2030. Live better through sports.
 
-**Annex B - Vision 2030 Preliminary Recommendations**
 
-Click [here](https://www.sportsingapore.gov.sg/News%20Updates/Media%20Releases/2012/2/Vision%202030%20Preliminary%20Recommendations) to view the recommendations.
+**Vision 2030 Engagements**
 
-**Annex C - Vision 2030 Engagements**
-
-1. 3 & 6 August 2011<br>
+1. 3 &amp; 6 August 2011<br>
 Dialogue session with active senior citizens (aged 45 and above)
 
 2. 9 August 2011<br>
@@ -152,21 +150,21 @@ Breakfast dialogue session hosted by Acting Minister, MCYS, with news editors
 16. 12 February 2012<br>
 Engagement session with corporate organisations, Voluntary Welfare Organisations and NSAs
 
-**Annex D - Vision 2030 Steering Committee Members**
+**Vision 2030 Steering Committee Members**
 
 | No | Name and Designation                                                                                  |
 | -- | ----------------------------------------------------------------------------------------------------- |
-| 1  | Mr Chan Chun Sing (Chairman)<br >Acting Minister, Ministry of Community Development, Youth and Sports |
-| 2  | Mr Teo Ser Luck (Deputy Chairman)<br>Minister of State, Ministry of Trade & Industry                  |
+| 1  | Mr Chan Chun Sing (Chairman)<br>Acting Minister, Ministry of Community Development, Youth and Sports |
+| 2  | Mr Teo Ser Luck (Deputy Chairman)<br>Minister of State, Ministry of Trade &amp; Industry                  |
 | 3  | Ms Yeoh Chee Yan<br>Second Permanent Secretary, Ministry of Education                                 |
 | 4  | Mr Ng Wai Choong<br>Deputy Secretary (Policy), Ministry of Finance                                    |
 | 5  | Mr Yam Ah Mee<br>Chief Executive Director, People's Association                                       |
 | 6  | Mr Ang Hak Seng<br>Chief Executive Officer, Health Promotion Board                                    |
 | 7  | Mr Ng Lang<br>Chief Executive Officer, Urban Redevelopment Authority                                  |
-| 8  | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing & Development Board                           |
+| 8  | Dr Cheong Koon Hean<br>Chief Executive Officer, Housing &amp; Development Board                           |
 | 9  | Mr Richard Seow<br>Chairman, Singapore Sports Council                                                 |
 | 10 | Mr Tan Soo Nan<br>Chief Executive of Singapore Totalisator Board                                      |
-| 11 | Mr Ray Ferguson<br>Regional Chief Executive, Singapore & South-East Asia, Standard Chartered Bank     |
+| 11 | Mr Ray Ferguson<br>Regional Chief Executive, Singapore &amp; South-East Asia, Standard Chartered Bank     |
 | 12 | Mr Tan Tong Hai<br>Chief Operating Officer, Starhub                                                   |
 | 13 | Mr Antonio Del Rosario<br>General Manager, Coca-Cola Singapore                                        |
 | 14 | Dr Aymeric Lim<br>Chairman, Medical Board, National University Hospital                               |
@@ -177,29 +175,8 @@ Engagement session with corporate organisations, Voluntary Welfare Organisations
 | 19 | Dr Teo Ho Pin<br>Mayor, North-West District                                                           |
 | 20 | Mr Zainudin Nordin<br>President, Football Association of Singapore                                    |
 | 21 | Mr Tan Wearn Haw<br>Chief Executive Officer, Singapore Sailing Federation                             |
-| 22 | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer & Philanthropy Centre                 |
+| 22 | Mr Laurence Lien<br>Chief Executive Officer, National Volunteer &amp; Philanthropy Centre                 |
 | 23 | Mr Leslie Tan<br>Founder and Editor, Red Sports                                                       |
 | 24 | Ms Asmah Hanim binte Mohamad<br>Honorary Assistant Secretary, Singapore Athletic Association          |
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-S. Parameswaran (Parames)<br>
-Assistant Director, Corporate Communications & Relations<br>
-Singapore Sports Council<br>
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
-Alvin Hang<br>
-Director, Corporate Communications & Relations<br>
-Singapore Sports Council<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
----
-
-**About the Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)

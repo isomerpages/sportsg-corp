@@ -5,6 +5,7 @@ date: 2012-04-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Greater Opportunities For The Community To Play Sports On Ice**
 
@@ -42,51 +43,8 @@ _SkateStar Programme to Introduce Ice Skating to the Heartlands_
 
 ---
 
-[1] In 2003, the Urban Redevelopment Authority introduced the Civil & Community Institution (C&CI) scheme and guidelines for the integration of community facilities in private commercial developments. Under this scheme, the proposed uses must be compatible with commercial development and intended for public and community usage and not profit driven. The scheme was subsequently revised on 2005 and 2008 to include selected public sports uses ("Community/Sports Facilities Scheme").
+[1] In 2003, the Urban Redevelopment Authority introduced the Civil &amp; Community Institution (C&amp;CI) scheme and guidelines for the integration of community facilities in private commercial developments. Under this scheme, the proposed uses must be compatible with commercial development and intended for public and community usage and not profit driven. The scheme was subsequently revised on 2005 and 2008 to include selected public sports uses ("Community/Sports Facilities Scheme").
 
 [2] Free skating for the first 50 guests is from 2.15pm - 5.00pm on 2 April. From 3-5 April, free skating is from 12.45pm - 2.45pm. Guests can bring their own socks and gloves, or purchase them at The Rink.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Jemuel Fu<br>
-Executive, Media Relations<br>
-Singapore Sports Council<br>
-Email: [jemuel_fu@ssc.gov.sg](mailto:jemuel_fu@ssc.gov.sg)
-
-Sharon Foong<br>
-Marketing Communications Manager<br>
-JCube<br>
-Email: [sharon.foong@capitaland.com](mailto:sharon.foong@capitaland.com)
-
-Maggie Chua<br>
-Marketing Communications Manager<br>
-JCube<br>
-Email: [maggie.chua@capitaland.com](mailto:maggie.chua@capitaland.com)
-
----
-
-**About the Singapore Sports Council**
-<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-Under a new initiative called Vision 2030, SSC and the Ministry of Community Development, Youth and Sports are engaging people from all walks of life, the business community and the public sector to explore and develop proposals on how sport can best serve Singapore's future needs. Vision 2030 will look at how sport can be used as strategy to develop individuals, our communities, our economy and our nation. Members of the public who wish to share ideas, experience and information are invited to post on the official website [Vision2030.sg](/about-us/vision-2030/).
-
-**About CapitaMalls Asia**
-<br>
-CapitaMalls Asia Limited is one of the largest listed shopping mall developers, owners and managers in Asia by total property value of assets and geographic reach. CapitaMalls Asia has an integrated shopping mall business model encompassing retail real estate investment, development, mall operations, asset management and fund management capabilities. It has interests in and manages a pan-Asian portfolio of 97 shopping malls across 51 cities in the five countries of Singapore, China, Malaysia, Japan and India, with a total property value of approximately S$29.4 billion and a total GFA of approximately 87.4 million sq ft.
-
-Shopping malls in the portfolio include ION Orchard and Plaza Singapura - which are located in one of the world's most famous shopping streets, Orchard Road - Raffles City Singapore and Clarke Quay in Singapore. Our landmark shopping malls in China are CapitaMall Crystal in Beijing; Hongkou Plaza in Shanghai and Raffles City Shanghai; and CapitaMall Jinniu in Chengdu. The portfolio also includes Gurney Plaza in Penang, Malaysia; Vivit Square in Tokyo, Japan; as well as Forum Value Mall in Bangalore, India.
-
-CapitaMalls Asia's principal business strategy is to invest in, develop and manage a diversified portfolio of real estate used primarily for retail purposes in Asia, and to strengthen its market position as a leading developer, owner and manager of shopping malls in Asia.
-
-**About JCube**
-<br>
-Nestled in the heart of the up and coming Jurong Lake District, JCube is an ultra-hip mall with Singapore's only Olympic-size ice rink and IMAX cinema in the suburbs. The mall boasts a unique faceted facade inspired by an ice cube, reflecting natural light by day and sparkling by night. JCube has been awarded the Building and Construction Authority's highest green accolade - Green Mark Platinum - for its environmentally friendly features.
-
-Located close to Jurong East MRT interchange and bus interchange, JCube, which replaces the former Jurong Entertainment Centre, has a net lettable area of 210,000 sq ft in its five levels of retail, dining and entertainment options. There are two levels of basement parking and a rooftop terrace-cum-event space on Level 5, called JStage. With its new-to-market brands and extended dining options, JCube is set to be the preferred leisure and entertainment destination for youth, PMEBs and residents who live and work in Singapore's West.

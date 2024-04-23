@@ -5,6 +5,7 @@ date: 2012-02-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Celebrates 1000th BCA Green Mark Building Project**
 
@@ -67,8 +68,3 @@ BCA Green Mark Schemes (Within Buildings)
 [Key Green Features at Pasir Ris Sports and Recreation Centre](/files/Media%20Centre/Media%20Release/2012/Feb/Annex_C_Key_Green_Features_at_Pasir_Ris_Sports_and_Recreation_Centrepdf.pdf)
 
 ---
-
-**About Building and Construction Authority**<br>
-The Building and Construction Authority (BCA) of Singapore champions the development of an excellent built environment for Singapore. At BCA, our mission is to shape a safe, high quality, sustainable and friendly built environment, as these are four key elements where BCA has a significant influence. In doing so, we aim to differentiate Singapore's built environment from those of other cities and contribute to a better quality of life for everyone in Singapore. Hence, our vision is to have "the best built environment for Singapore, our distinctive global city". BCA works closely with its education hub, the BCA Academy of the Built Environment, and industry partners to develop skills and expertise that help shape the best built environment for Singapore.
-
-For more information, visit [www.bca.gov.sg](https://www.bca.gov.sg).
