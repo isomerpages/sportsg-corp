@@ -5,6 +5,7 @@ date: 2012-09-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **An Inclusive Sports Festival That Bonded Communities**
 
@@ -33,8 +34,6 @@ image: ""
 10\. Mr Poon Choong Meng, Badminton player for Toa Payoh East CSC, Bishan - Toa Payoh Cluster agreed: "Our members have been playing together for years and jumped at the opportunity to participate together as a team for the SNG. It has since become a community gathering for us and we have become great friends."
 
 11\. The SNG is jointly organised by the SSC, the PA and its grassroots organisations, the community sports clubs, as well as the National Sports Associations of the 10 participating sports, namely Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. The SNG aims to bridge communities in Singapore, where people of all ages, races and estates can participate and bond through competitive sports.
-
-12\. For more information, please visit [www.singaporenationalgames.sg](https://www.singaporenationalgames.sg).
 
 ---
 
@@ -123,54 +122,15 @@ The inaugural SNG saw community teams pitting against each other in ten sports. 
 
 The Community Games (CG), which is organised annually, will serve as the qualifying round for the SNG in the years when it is held. For 2012, CG was held from April to July and the SNG was held from 1 to 9 September.
 
-The ten sports featured in 2012 were: Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. To bring the competitions to the heart of the community, the 2012 Games was held at various venues around Singapore, including Sports & Recreation Centres, Community Clubs, schools, the Bedok Reservoir and the Singapore Sports School. Teams were formed according to geographical clusters. Winners were each awarded a medal, with trophies being awarded to the winning teams.
+The ten sports featured in 2012 were: Athletics, Badminton, Basketball, Bowling, Dragon Boat, Football, Netball, Sepak Takraw, Swimming and Table Tennis. To bring the competitions to the heart of the community, the 2012 Games was held at various venues around Singapore, including Sports &amp; Recreation Centres, Community Clubs, schools, the Bedok Reservoir and the Singapore Sports School. Teams were formed according to geographical clusters. Winners were each awarded a medal, with trophies being awarded to the winning teams.
 
 Participation was opened to Singapore Citizens as well as non-Citizens, including Singapore Permanent Residents. National athletes were also eligible to compete. However in general, National athletes and non-citizens made up at most 20% of the team size, or one member of the team, whichever was higher. In order to encourage wide participation from all age groups and races, as well as residents living in both public and private estates, team composition for all sports had been formulated through discussion with the respective NSAs. With various team mix requirements, it was intended that more enthusiasts with different abilities would be able to be part of this nation-wide competition.
 
 Earlier this year, close to 10,000 residents took part in the annual Community Games, which served as the qualifying round for seven out of the 10 participating sports for the SNG in the years when it is held. More than 300 teams made up of Singaporeans, permanent residents and expatriates who reside in Singapore had qualified to compete in the Games. From 1 to 9 September, we saw more than 5,000 community athletes competing in the SNG.
 
-For full information (full listings, venues and dates) on the Singapore National Games and the final medal tally for all the clusters, please visit SNG official site [nsg.moe.edu.sg](nsg.moe.edu.sg).
 
 **Annex D: Fact Sheet on Clusters and Teams**
 
 The Singapore National Games saw more than 5,000 community athletes from 15 clusters competing across 10 sports from 1 to 9 September 2012. Each cluster was led by the respective Head of Delegation.
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0059Imagegif.gif)
 
----
-**For media enquiries, please contact:**
-<br>
-U-Lynn LEE
-<br>Fulford Public Relations 
-<br>Email: [ullee@fulfordpr.com](mailto:ullee@fulfordpr.com)
-
-Tanty Nazlianah ROSLI 
-<br>Singapore Sports Council 
-<br>Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
-Adlina JAFFAR
-<br>People's Association
-<br>Email: [adlina_jaffar@pa.gov.sg](mailto:adlina_jaffar@pa.gov.sg)
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About People's Association**
-<br>
-The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 grassroots organisations, five Community Development Councils, the National Youth Council, National Community Leadership Institute, Outward Bound Singapore and Water-Venture. More information at [www.pa.gov.sg](https://www.pa.gov.sg) and [www.mycommunity.org.sg](https://www.mycommunity.org.sg).
-
-![](/images/Media%20Centre/Media%20Release/2012/Sep/ANINCLUSIVESPORTSFESTIVALTHATBONDEDCOMMUNITIESMainPar0042Imagegif.gif)
-
-Signing up for your favourite courses just got easier. Simply log on to [www.mycommunity.org.sg](https://www.mycommunity.org.sg) on your smartphone!
-
-**About Community Games**
-[www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs](https://www.pa.gov.sg/our-network/grassroots-organisations/community-sports-clubs)<br>
-The Community Games (CG) 2012 is a multi-sports competition to be held across the island from April to July, bringing the Games to the heart of the community and connecting residents of different ages, races and living across estates. The CG 2012 will serve as the qualifying round for the inaugural Singapore National Games which will be held from 1 to 9 September 2012. For more information, please visit [www.pacsc.org.sg](https://www.pacsc.org.sg) and [www.facebook.com/communitysportsclub](https://www.facebook.com/communitysportsclub)
-
-**About the Community Sports Clubs**
-<br>
-The Community Sports Clubs (CSCs) are part of the PA network of grassroots organisations. There are 87 constituencies in Singapore and there is a CSC in each constituency. The 87 CSCs are managed by volunteers who work with the PA to organise sports activities to facilitate the residents' participation and involvement as to build an active, vibrant and socially connected community where residents are bonded and communities are connected through community sports.
