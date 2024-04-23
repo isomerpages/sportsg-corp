@@ -5,6 +5,7 @@ date: 2012-07-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SEA Games 2015 - The People's Games**
 
@@ -28,7 +29,7 @@ image: ""
 
 8\. "The 28th SEA Games will provide a good opportunity for our youth to venture beyond the classroom and participate in meaningful activities that provide real life learning experiences. There are many ways to participate, such as volunteering as helpers, supporting our athletes at the Games and even cheerleading. We look forward to our youth stepping forward to get involved in SEA Games 2015," said Mr Lawrence Wong, Minister of State for Defence and Education.
 
-9\. Anticipating the need for a large number of volunteers to support the Games, Mr Stanley Tan, Chairman of National Volunteer & Philanthropy Centre, said, "We will be welcoming our friends from Southeast Asia to Singapore in 2015. Volunteers will be our frontline ambassadors and the face of Singapore during the Games. We will work with the organising committee to develop a good volunteers' programme so that volunteers will have a meaningful and positive experience."
+9\. Anticipating the need for a large number of volunteers to support the Games, Mr Stanley Tan, Chairman of National Volunteer &amp; Philanthropy Centre, said, "We will be welcoming our friends from Southeast Asia to Singapore in 2015. Volunteers will be our frontline ambassadors and the face of Singapore during the Games. We will work with the organising committee to develop a good volunteers' programme so that volunteers will have a meaningful and positive experience."
 
 10\. "Sport is a ready-made vehicle for companies to drive brand awareness and equity. The inclusion of several business-centric members in the Committee highlights the importance the Committee places on corporate support for the Games - through sponsorship, marketing, branding or corporate social responsibility initiatives," said Mr Leonard Tan, Founder and Chief Executive Officer, PurpleClick Media.
 
@@ -76,7 +77,7 @@ Mr Chan Chun Sing
 <br>14\. Mr Leonard Tan
 <br>Founder and Chief Executive Officer, PurpleClick Media Pte Ltd
 <br>15\. Mr Stanley Tan
-<br>Chairman, National Volunteer & Philanthropy Centre
+<br>Chairman, National Volunteer &amp; Philanthropy Centre
 <br>16\. Mrs Josephine Teo
 <br>Minister of State, Ministry of Finance and Ministry of Transport
 <br>17\. Mr Teo Ser Luck
@@ -87,36 +88,3 @@ Mr Chan Chun Sing
 <br>Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
 
 ---
-**For media enquiries, please contact:**
-<br>
-Jemuel Fu
-<br>Executive, Media Relations
-<br>Singapore Sports Council
-<br>Email: [jemuel_fu@ssc.gov.sg](mailto:jemuel_fu@ssc.gov.sg) 
-
-S. Parameswaran
-<br>Assistant Director, Media Relations
-<br>Singapore Sports Council
-<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
-Roy Teo
-<br>Manager
-<br>CIRD, MCYS
-<br>Email: [roy_teo@mcys.gov.sg](mailto:roy_teo@mcys.gov.sg)
-
-For further information on the 28th SEA Games Singapore, please visit [www.singaporeolympics.com/sea-games](https://www.singaporeolympics.com/sea-games/).
-<br>
-Follow the 28th SEA Games Singapore 2015 on Facebook at [www.facebook.com/28thSEAGAME2015](https://www.facebook.com/28thSEAGAME2015) and @seagames2015 on Twitter.
-
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About the Singapore National Olympic Council**
-<br>
-The Singapore National Olympic Council (SNOC) is a non-profit government organisation that coordinates the selection of Singaporean athletes for competition at major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information on Singapore's expression of the Olympic Spirit, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
