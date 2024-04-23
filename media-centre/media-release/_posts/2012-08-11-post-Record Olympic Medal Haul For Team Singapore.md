@@ -5,6 +5,7 @@ date: 2012-08-11
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ## **Record Olympic Medal Haul For Team Singapore**
 
@@ -44,45 +45,3 @@ image: ""
 
 ![](/images/Media%20Centre/Media%20Release/2012/Aug/RECORDOLYMPICMEDALHAULFORTEAMSINGAPOREMainPar0051Imagegif.gif)
 
-**For media enquiries, please contact:**
-<br>
-In Singapore:
-<br>Lin Kuek
-<br>Hill+Knowlton Strategies
-<br>Email: [lin.kuek@hkstrategies.com](mailto:lin.kuek@hkstrategies.com)
-
-Patricia Yee
-<br>Executive
-<br>Media Relations
-<br>Singapore Sports Council
-<br>Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-
-In London:
-<br>Antony Lee
-<br>Singapore National Olympic Council
-<br>Email: [antonylee@snoc.org.sg](mailto:antonylee@snoc.org.sg)
-
-**About Team Singapore**
-<br>
-On 20 April 2001, the current President and then-Deputy Prime Minister Dr Tony Tan united Singapore's top athletes, coaches and officials under one banner as Team Singapore. The Team has ever since flown the Singapore flag proudly at major multi-sport Games and international competitions.
-
-The three core attributes of Pride, Performance and Perseverance anchor that which is collectively Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information on Team Singapore, please visit [www.teamsingapore.sg](https://www.teamsingapore.sg)
-<br>
-Follow Team Singapore's action on Facebook at: [www.facebook.com/TeamSG](https://www.facebook.com/TeamSG)
-
-**About the Singapore National Olympic Council**
-<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information on Singapore's expression of the Olympic Spirit, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-(https://www.flickr.com/photos/ssc-sportsphotography)
