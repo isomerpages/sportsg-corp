@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>SportsCares Partners Grassroots To Change The Lives Of Vulnerable Youth Through Football</strong></h3>
+<h3><strong>SportCares Partners Grassroots to Change the Lives of Vulnerable Youth Through Football</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media%20Centre/Media%20Release/2013/May/SSCANDSMUJOINFORCESTOINSTILLVALUESINYOUTHTHROUGHSPORTSMainPar0061Imagegif.gif">
 </div>
@@ -115,30 +115,5 @@ reach out to more communities. She said: "We look forward to introducing
 the programme to other regions in Singapore. In the longer term, we also
 hope to adapt the programme for other sports such as basketball or floorball."</p>
 </li>
-<li>
-<p>For more information on how to contribute to SportCares as a partner or
-volunteer, please send an email to <a href="mailto:sportcares@ssc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sportcares@ssc.gov.sg</a>.</p>
-</li>
 </ol>
-<p>If you wish more details on our activities, please visit <a href="https://www.facebook.com/sportsingapore" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/sportsingapore</a>.</p>
-<p>If you wish to make a financial donation, please go to www.sggives.org/sportcares.</p>
-<hr>
-<p><strong>For media enquiries, please contact:</strong> 
-<br>Siti Nurhidayati
-<br>Senior Executive, Media Relations
-<br>Corporate Communications &amp; Relations
-<br>Tel: 6500 5246
-<br>Email: <a href="mailto:siti_nurhidayati@ssc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhidayati@ssc.gov.sg</a>
-</p>
-<hr>
-<p><strong>About Singapore Sports Council</strong> 
-<br>The Singapore Sports Council aims to transform the nation through sport,
-by inspiring people and uniting communities. As the national sports agency,
-we work with a vast network of public-private-and people sector partners
-to create access, opportunities and capabilities for individuals to live
-better through sports. As detailed in the Vision 2030 Live Better Through
-Sports recommendations, our mandate goes beyond driving participation and
-winning medals. At SSC, we use sport to create resilient, tenacious people,
-an appreciation for teamwork, a commitment to purpose, strong united communities
-and national pride.</p>
 <p></p>
