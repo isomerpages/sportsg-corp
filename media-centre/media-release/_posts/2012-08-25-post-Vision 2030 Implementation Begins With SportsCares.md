@@ -5,6 +5,7 @@ date: 2012-08-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Vision 2030 Implementation Begins With SportsCares**
 
@@ -30,7 +31,7 @@ image: ""
 
 8\. "Going forward, SportCares can serve as a useful conduit through which it can, on the one hand, harness Singapore's spirit of volunteerism, philanthropy and donor funding, and on the other hand, establish a distribution channel which would ensure that both monetary and non-monetary resources are made available to the various sporting institutions to enable them to run sustainable sporting programmes," said Associate Professor Mohan Menon, President, Singapore Disability Sports Council.
 
-9\. Charitable and interest groups, public and private organisations, as well as members of the community are welcome to join the SportCares Movement by emailing: [sportcares@ssc.gov.sg](mailto:sportcares@ssc.gov.sg).
+9\. Charitable and interest groups, public and private organisations, as well as members of the community are welcome to join the SportCares Movement.
 
 **New 20th Recommendation Included in Finalised Vision 2030 Report**
 
@@ -57,26 +58,3 @@ SportCares
 <br>Seeding Hope. Creating Opportunities.
 <br>Growing Capabilities. Giving Back. Changing Lives.
 
-Join the SportCares Movement by emailing: [sportcares@ssc.gov.sg](mailto:sportcares@ssc.gov.sg)
-
----
-**For media enquiries, please contact:**
-
-Jemuel Fu
-<br>Executive, Media Relations
-<br>Singapore Sports Council
-<br>Email: [jemuel_fu@ssc.gov.sg](mailto:jemuel_fu@ssc.gov.sg)
-
-S. Parameswaran (Parames)
-<br>Assistant Director, Media Relations
-<br>Singapore Sports Council
-<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
