@@ -18,7 +18,7 @@ to support the performance of our Team Singapore coaches and athletes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2018" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI-Symposium-2018.jpeg">
 </div>
-<p>| <strong>SSI ANNUAL SYMPOSIUM 2018</strong>
+<p>| <strong>SSI ANNUAL SYMPOSIUM 2018</strong> 
 <br>This year’s Singapore Sport Science Symposium is held together with the
 ASIA (Associations of Sports Institutes in Asia) Congress where member
 countries such as Japan, Qatar, Hong Kong and Singapore will come together
@@ -30,7 +30,7 @@ future of high performance sport in Asia. The theme for the Congress is
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2014" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Symposium_2014.jpeg">
 </div>
-<p>| <strong>SSI ANNUAL SYMPOSIUM 2014</strong>
+<p>| <strong>SSI ANNUAL SYMPOSIUM 2014</strong> 
 <br>The SSI Annual Symposium 2014 will be held at the newly opened Sports
 Hub on 10 &amp; 11 Nov 2014. This year’s theme is “New Frontiers in Elite
 Sport Performance”. Renowned regional and international speakers will share
@@ -41,7 +41,7 @@ medicine, sports analytics and sports technology.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2013" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Annual_Symposium_2013.jpeg">
 </div>
-<p>| <strong>SSI ANNUAL SYMPOSIUM 2013</strong>
+<p>| <strong>SSI ANNUAL SYMPOSIUM 2013</strong> 
 <br>The SSI Annual Symposium 2013 was held on the 11-12 July 2013 at Concorde
 Hotel, Singapore. Distinguished keynote speakers were: Dr Ken van Someren,
 Director of R&amp;D, GSK Human Performance Lab UK Prof Takashi Katsuta,
@@ -51,7 +51,7 @@ Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI INSTITUTIONAL REVIEW BOARD" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_IRB.png">
 </div>
-<p>| <strong>SSI INSTITUTIONAL REVIEW BOARD</strong>
+<p>| <strong>SSI INSTITUTIONAL REVIEW BOARD</strong> 
 <br>In accordance with the “Research involving Human Subject: Guidelines for
 IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004,
 SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety
@@ -62,6 +62,6 @@ of human research subjects involved in SSI’s research programmes.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Science_and_Technology_SSI.jpeg">
 </div>
-<p>| <strong>SINGAPORE SPORT SCIENCE &amp; TECHNOLOGY RESEARCH GRANT</strong>
+<p>| <strong>SINGAPORE SPORT SCIENCE &amp; TECHNOLOGY RESEARCH GRANT</strong> 
 <br>2017 GRANT CALL
 <br><a href="/singapore-sport-institute/science-and-technology/singapore-sport-science-technology-research-grant/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> |</p>
