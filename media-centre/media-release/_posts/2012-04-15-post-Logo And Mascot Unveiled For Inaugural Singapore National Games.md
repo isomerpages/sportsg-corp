@@ -5,6 +5,7 @@ date: 2012-04-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Logo And Mascot Unveiled For Inaugural Singapore National Games**
 
@@ -57,9 +58,9 @@ Participation will be open to Singapore Citizens as well as non-Citizens, includ
 Registration for the seven sports for CG 2012 Badminton, Basketball, Bowling, Football, Netball, Sepak Takraw and Table Tennis has closed. Interested residents can still register for the remaining three sports:
 Athletics, Dragon Boat and Swimming
 Registration opens on 18 April to 31 May 2012
-Find out more at: [nsg.moe.edu.sg](nsg.moe.edu.sg)
 
-**Annex B: Winning Mascot & Logo Designs for Singapore National Games Fact Sheet**
+
+**Annex B: Winning Mascot &amp; Logo Designs for Singapore National Games Fact Sheet**
 <img src="/images/Media%20Centre/Media%20Release/2012/Apr/SinagporeNationalGames.gif" style="width:200px;">
 
 Designer: Yong Wen Yeu<br>

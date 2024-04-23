@@ -5,6 +5,7 @@ date: 2012-06-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ## **Team Singapore Heads To London 2012**
 
@@ -92,7 +93,7 @@ NO. OF SPORTS COMPETED AT 2012 SUMMER OLYMPLIC GAMES: 26 Sports (39 disciplines)
 | Weightlifting | 28 July - 7 August 2012| 
 | Wrestling | 5  August - 12 August 2012 |  
 
-TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS: 18 Athletes & 33 Officials
+TOTAL NUMBER OF TEAM SINGAPORE ATHLETES &amp; OFFICIALS: 18 Athletes &amp; 33 Officials
 <br>
 CHEF DE MISSION TO LONDON 2012 OLYMPICS: Mrs Jessie Phua
 <br>TEAM SINGAPORE FLAG BEARER: Feng Tian Wei (Table Tennis)
