@@ -14,30 +14,56 @@ in Singapore for application in Sports and Coaching performance.&nbsp;</p>
 <p>The end-state is to develop the application of S&amp;T as part of a holistic
 solution and deliver integrated, state-of-the-art S&amp;T capabilities
 to support the performance of our Team Singapore coaches and athletes.</p>
-<p>| -------- | -------- | |</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2018" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI-Symposium-2018.jpeg">
 </div>
-<p>| <strong>SSI ANNUAL SYMPOSIUM 2018</strong> 
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>SSI ANNUAL SYMPOSIUM 2018</strong> 
 <br>This year’s Singapore Sport Science Symposium is held together with the
 ASIA (Associations of Sports Institutes in Asia) Congress where member
 countries such as Japan, Qatar, Hong Kong and Singapore will come together
 for its Annual General Meeting and Congress with the aim of enhancing the
 future of high performance sport in Asia. The theme for the Congress is
 'Sport Integrity'.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2018/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> |
-|</p>
+<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2018/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2014" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Symposium_2014.jpeg">
 </div>
-<p>| <strong>SSI ANNUAL SYMPOSIUM 2014</strong> 
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SSI ANNUAL SYMPOSIUM 2014</strong> 
 <br>The SSI Annual Symposium 2014 will be held at the newly opened Sports
 Hub on 10 &amp; 11 Nov 2014. This year’s theme is “New Frontiers in Elite
 Sport Performance”. Renowned regional and international speakers will share
 the world leading knowledge and applications of sports science, sports
 medicine, sports analytics and sports technology.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2014/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> |
-|</p>
+<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2014/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>| | |</p>
+<p>| | |</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2013" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Annual_Symposium_2013.jpeg">
 </div>
