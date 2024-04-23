@@ -5,6 +5,7 @@ date: 2012-05-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Named Asia's Ultimate Sports City**
 ![SINGAPORENAMEDASIASULTIMATESPORTSCITYMainPar0040Imagegif](/images/Media%20Centre/Media%20Release/2012/May/SINGAPORENAMEDASIASULTIMATESPORTSCITYMainPar0040Imagegif.gif)
@@ -28,22 +29,3 @@ image: ""
 9\. The Republic also hosted one of the continent's most prestigious golf events, the Barclay's Singapore Open, the world short course swimming series, the FINA World Cup, and the Standard Chartered Marathon Singapore achieved the IAAF Gold standard in 2011.
 
 10\. "Over the past decade, Sporting Singapore has made great progress in establishing its brand and presence globally. With the Singapore Sports Hub due to be completed in 2014; our long-term future looks even brighter than ever," added Mr Lim.
-
-END
-
-**For media enquiries, please contact:**
-<br>To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-Patricia Yee
-Executive, Media Relations
-Singapore Sports Council
-Email: [patricia_yee@ssc.gov.sg](mailto:patricia_yee@ssc.gov.sg)
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, visit [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
