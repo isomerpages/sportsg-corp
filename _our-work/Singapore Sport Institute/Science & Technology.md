@@ -18,15 +18,23 @@ to support the performance of our Team Singapore coaches and athletes.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2018" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI-Symposium-2018.jpeg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>SSI ANNUAL SYMPOSIUM 2018 <br>This year’s Singapore Sport Science Symposium is held together with the ASIA (Associations of Sports Institutes in Asia) Congress where member countries such as Japan, Qatar, Hong Kong and Singapore will come together for its Annual General Meeting and Congress with the aim of enhancing the future of high performance sport in Asia. The theme for the Congress is 'Sport Integrity'. <br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2018/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SSI ANNUAL SYMPOSIUM 2014</strong> 
+<br>This year's Singapore Sport Science Symposium is held together with the
+ASIA (Associations of Sports Institutes in Asia) Congress where member
+countries such as Japan, Qatar, Hong Kong and Singapore will come together
+for its Annual General Meeting and Congress with the aim of enhancing the
+future of high performance sport in Asia. The theme for the Congress is
+'Sport Integrity'.</p>
+<p></p>
+<p><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2018/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,8 +48,9 @@ to support the performance of our Team Singapore coaches and athletes.</p>
 Hub on 10 &amp; 11 Nov 2014. This year’s theme is “New Frontiers in Elite
 Sport Performance”. Renowned regional and international speakers will share
 the world leading knowledge and applications of sports science, sports
-medicine, sports analytics and sports technology.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2014/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+medicine, sports analytics and sports technology.</p>
+<p></p>
+<p><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2014/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -57,7 +66,9 @@ medicine, sports analytics and sports technology.
 Hotel, Singapore. Distinguished keynote speakers were: Dr Ken van Someren,
 Director of R&amp;D, GSK Human Performance Lab UK Prof Takashi Katsuta,
 Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2013/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+<br>
+</p>
+<p><a href="/singapore-sport-institute/science-and-technology/ssi-annual-symposium-2013/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -73,7 +84,9 @@ Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
 IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004,
 SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety
 of human research subjects involved in SSI’s research programmes.
-<br><a href="/singapore-sport-institute/science-and-technology/ssi-institutional-review-board/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+<br>
+</p>
+<p><a href="/singapore-sport-institute/science-and-technology/ssi-institutional-review-board/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -86,7 +99,9 @@ of human research subjects involved in SSI’s research programmes.
 <td rowspan="1" colspan="1">
 <p><strong>SINGAPORE SPORT SCIENCE &amp; TECHNOLOGY RESEARCH GRANT</strong> 
 <br>2017 GRANT CALL
-<br><a href="/singapore-sport-institute/science-and-technology/singapore-sport-science-technology-research-grant/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+<br>
+</p>
+<p><a href="/singapore-sport-institute/science-and-technology/singapore-sport-science-technology-research-grant/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
