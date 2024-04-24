@@ -5,6 +5,7 @@ date: 2012-10-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Local Online Drug Database For Sports Launched**
 
@@ -28,25 +29,6 @@ image: ""
 8\. The SSC oversees the Anti-Doping Singapore (ADS), which is responsible of advocating drug-free sports and administering policies and strategies through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules in compliance with the World Anti-Doping Code.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Eric Ong
-<br>Manager, Media Relations
-<br>Singapore Sports Council
-<br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
-
-Estelle Koh 
-<br>Health Sciences Authority
-<br>Email: [estelle_koh@hsa.gov.sg](mailto:estelle_koh@hsa.gov.sg)
-
-**About the Singapore Sports Council**
-<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sport recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)  and [Vision2030.sg](/about-us/vision-2030/)<br>
-Follow us on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports) and Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](https://www.flickr.com/photos/ssc-sportsphotography)
 
 **About Anti-Doping Singapore**
 <br>

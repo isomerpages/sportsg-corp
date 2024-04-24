@@ -5,6 +5,7 @@ date: 2012-09-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Re-Appointments And New Appointments To Singapore Sports Council**
 
@@ -12,7 +13,7 @@ image: ""
 
 **Re-appointments**
 * Chairman - Mr Richard Seow, Director, Pacific Heights Investments Pte Ltd. Chairman, Republic Polytechnic and ACS Board of Governors
-* Deputy Chairman - Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle & Carriage Limited
+* Deputy Chairman - Mr Cheah Kim Teck, Chief Executive Officer, Group Motor Operations, Jardine Cycle &amp; Carriage Limited
 * Member - Mr Bernard Tan, Managing Director, DBS Bank. Commissioner, DBS Indonesia
 * Member - Ms Liew Wei Li, Director, Student Development Curriculum, Ministry of Education
 * Member - Mr Low Teo Ping, Vice-President, Singapore National Olympic Committee
@@ -25,34 +26,20 @@ image: ""
 * Member - Mr Lim Eng Lee, Chief Operating Officer, NTUC Club
 * Member - Mr Hugh Lim, Deputy Secretary-designate, Ministry of Culture, Community and Youth
 * Member - Mr Razali Saad, Former Captain, National Football Team; General Manager, J Oasis Logistics Pte Ltd
-* Member - Prof Tan Cheng Han, Professor & immediate past Dean NUS Faculty of Law. Advisor Singapore Taekwondo
+* Member - Prof Tan Cheng Han, Professor &amp; immediate past Dean NUS Faculty of Law. Advisor Singapore Taekwondo
 * Member - Ms Jessica Tan Soon Neo, General Manager, Microsoft (Asia Pacific). President, Netball Singapore
 
 **Out-going members**
 * Member - BG Chia Choon Hoong, Commander 9 Div/Chief Infantry Officer, Ministry of Defence
-* Member - Dr Janice Khoo, General Practitioner, The Rafflesian Clinic & Surgery
-* Member - Mr Lee Hong Chuan, Manager, Disaster Recovery & System Operations, IBM Singapore
+* Member - Dr Janice Khoo, General Practitioner, The Rafflesian Clinic &amp; Surgery
+* Member - Mr Lee Hong Chuan, Manager, Disaster Recovery &amp; System Operations, IBM Singapore
 * Member - Ms Ong Toon Hui, Deputy Secretary, Ministry of Community Development, Youth and Sports
 * Member - Dr Saiful Nizam bin Subari, Family physician, National Healthcare Group General Practitioners
 * Member - Dr Benedict Tan, Sports physician, Head/Senior consultant, Changi General Hospital Sports Medicine Centre and President, Singapore Sailing
 
-2\. MCYS and SSC welcome the new Council members and express their appreciation to all outgoing members for their invaluable service. The composition of the new Council is at Annex.
+2\. MCYS and SSC welcome the new Council members and express their appreciation to all outgoing members for their invaluable service. The composition of the new Council is in the Annex (below).
 
 ---
 
 **Annex**
 ![](/images/Media%20Centre/Media%20Release/2012/Sep/REAPPOINTMENTSANDNEWAPPOINTMENTSTOSINGAPORESPORTSCOUNCILMainPar0044Imagegif.gif)
-
-**For media enquiries, please contact:**
-<br>
-Ms Nur Diana Jamaludin
-<br>Assistant Director (Media Relations)
-<br>Communications and International Relations Division
-<br>Ministry of Community Development, Youth and Sports
-<br>Email: [Nur_Diana_JAMALUDIN@mcys.gov.sg](mailto:Nur_Diana_JAMALUDIN@mcys.gov.sg)
-		
-S. Parameswaran
-<br>Assistant Director, Media Relations
-<br>Corporate Communications & Relations
-<br>Singapore Sports Council
-<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
