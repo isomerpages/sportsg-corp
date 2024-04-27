@@ -29,34 +29,18 @@ testing and monitoring, applied research and education.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPORT BIOMECHANICS" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/biomechanics.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORT BIOMECHANICS</strong>
+<p><strong>SPORT BIOMECHANICS</strong> 
 <br>Biomechanics is the study of professional athletic performance. Sophisticated
 mathematics and computer modelling techniques help the developing athlete
 and coach to assess performance relative to an ideal model or performance
 target.</p>
-<p><a href="/singapore-sport-institute/sport-science/sport-biomechanics/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<p><a href="/singapore-sport-institute/sport-science/sport-biomechanics/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -67,7 +51,7 @@ target.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORT NUTRITION</strong>
+<p><strong>SPORT NUTRITION</strong> 
 <br>Without the proper fuel, an athlete's body cannot achieve peak performance.
 <br>
 <br>This is why the Sport Nutrition Unit helps our athletes to plan their
@@ -87,7 +71,7 @@ as well.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORT PHYSIOLOGY</strong>
+<p><strong>SPORT PHYSIOLOGY</strong> 
 <br>Sport Physiology analyses your body’s response to training. Physiologists
 monitor the body’s response to exertion of different intensities.</p>
 <p><a href="/singapore-sport-institute/sport-science/sport-physiology/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
@@ -101,7 +85,7 @@ monitor the body’s response to exertion of different intensities.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORT PSYCHOLOGY</strong>
+<p><strong>SPORT PSYCHOLOGY</strong> 
 <br>Sport Psychology analyses mental and motivational factors that limit sporting
 performance. Sport Psychology Unit performs consultative and rehabilitation
 programmes for developing athletes.</p>
@@ -116,11 +100,11 @@ programmes for developing athletes.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>STRENGTH &amp; CONDITIONING</strong>
+<p><strong>STRENGTH &amp; CONDITIONING</strong> 
 <br>Sport Psychology analyses mental and motivational factors that limit sporting
 performance. Sport Psychology Unit performs consultative and rehabilitation
 programmes for developing athletes.</p>
-<p><a href="/singapore-sport-institute/sport-science/strength-conditioning/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<p><a href="/singapore-sport-institute/sport-science/strength-conditioning/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -131,7 +115,7 @@ programmes for developing athletes.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MAJOR GAMES PREPARATION</strong>
+<p><strong>MAJOR GAMES PREPARATION</strong> 
 <br>The Major Games Preparation Unit enhances athletes’ performance at major
 games such as Southeast Asian, Commonwealth, Asian and Olympic Games.</p>
 <p><a href="/singapore-sport-institute/sport-science/major-games-preparation/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
