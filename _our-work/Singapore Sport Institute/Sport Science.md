@@ -29,9 +29,9 @@ testing and monitoring, applied research and education.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPORT BIOMECHANICS" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/biomechanics.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Work/Singapore Sports Institute/Sport Science/biomechanics.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +45,7 @@ target.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPORT NUTRITION" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/sportnutrition.jpg">
 </div>
@@ -65,7 +65,7 @@ as well.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPORT PHYSIOLOGY" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/Sport-Physiology.jpg">
 </div>
@@ -79,7 +79,7 @@ monitor the body’s response to exertion of different intensities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPORT PSYCHOLOGY" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/Sport-psychology.jpg">
 </div>
@@ -94,7 +94,7 @@ programmes for developing athletes.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STRENGTH  CONDITIONING" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/Strength.jpg">
 </div>
@@ -109,7 +109,7 @@ programmes for developing athletes.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MAJOR GAMES PREPARATION" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Science/majorgames1.jpg">
 </div>
@@ -120,6 +120,26 @@ programmes for developing athletes.</p>
 games such as Southeast Asian, Commonwealth, Asian and Olympic Games.</p>
 <p><a href="/singapore-sport-institute/sport-science/major-games-preparation/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
