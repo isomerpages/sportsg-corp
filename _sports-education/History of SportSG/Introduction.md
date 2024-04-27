@@ -26,7 +26,7 @@ in the early days.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORTS IN COLONIAL TIMES</strong>
+<p><strong>SPORTS IN COLONIAL TIMES</strong> 
 <br>Sports in Singapore can be traced back to the 19th Century, during the
 colonial period when the Colonials turned to sport to make bearable the
 long wait for news from the United Kingdom.</p>
@@ -41,10 +41,10 @@ long wait for news from the United Kingdom.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORTS IN INDEPENDENT SINGAPORE</strong>
+<p><strong>SPORTS IN INDEPENDENT SINGAPORE</strong> 
 <br>When Singapore attained independence in 1965, the Government called on
 the nation to build a rugged and robust society through sports participation.</p>
-<p><a href="/sports-education/history-of-sportsg/sports-in-independent-times/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<p><a href="/sports-education/history-of-sportsg/sports-in-independent-times/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ the nation to build a rugged and robust society through sports participation.</p
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORTING EVENTS</strong>
+<p><strong>SPORTING EVENTS</strong> 
 <br>Some of the major sports events organized by the Government to promote
 a sporting culture and to “build a rugged society” in those early independence
 years are featured in this segment.</p>
@@ -70,7 +70,7 @@ years are featured in this segment.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPORTS CLUB</strong>
+<p><strong>SPORTS CLUB</strong> 
 <br>Development of sports in the early days was due in no small measure to
 the ethnic clubs -- Swiss Club, Chinese Swimming Club, Singapore Recreation
 Club , British Club, Malay Football Club, Indian Association, Ceylon Sports
