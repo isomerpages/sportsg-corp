@@ -18,7 +18,7 @@ to support the performance of our Team Singapore coaches and athletes.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="7">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2018" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI-Symposium-2018.jpeg">
 </div>
@@ -37,7 +37,7 @@ future of high performance sport in Asia. The theme for the Congress is
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="7">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2014" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Symposium_2014.jpeg">
 </div>
@@ -55,7 +55,7 @@ medicine, sports analytics and sports technology.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="7">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI ANNUAL SYMPOSIUM 2013" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_Annual_Symposium_2013.jpeg">
 </div>
@@ -73,7 +73,7 @@ Coach &amp; Coach Educator; Japan Olympic Committee &amp; Japan Sport Council
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="7">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSI INSTITUTIONAL REVIEW BOARD" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/SSI_IRB.png">
 </div>
@@ -91,7 +91,7 @@ of human research subjects involved in SSI’s research programmes.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="7">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Science_and_Technology_SSI.jpeg">
 </div>
@@ -103,6 +103,32 @@ of human research subjects involved in SSI’s research programmes.
 </p>
 <p><a href="/singapore-sport-institute/science-and-technology/singapore-sport-science-technology-research-grant/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
