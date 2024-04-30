@@ -44,25 +44,32 @@ offered to holders of the TS Rewards Card and is non-transferable.</p>
 <h5><strong>ADIDAS</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>30% on all adidas items is exclusively valid at:</p>
+<p>30% on all adidas items is exclusively valid at these selected adidas
+retail stores only:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>adidas Suntec City (BCS), unit #01-323/324</p>
-</li>
-<li>
-<p>adidas Vivo City L1 (BCS+), unit #01-73</p>
-</li>
-<li>
-<p>Vivo City B1 (OCS), unit #B1-06</p>
-</li>
-<li>
 <p>adidas Brand Centre (270 Orchard Road)</p>
+</li>
+<li>
+<p>adidas Suntec City, unit #01-323/324</p>
+</li>
+<li>
+<p>adidas VivoCity L1 (Performance), unit #01-73</p>
+</li>
+<li>
+<p>adidas VivoCity B1 (Originals), unit #B1-06</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Certain product exclusions apply. Please check with the in-store staff
-for more information.</p>
+<p>Offer is valid across selected products.</p>
+</li>
+<li>
+<p>Certain product exclusions apply. Excluded categories include, but not
+limited to, newly launched Campaign products, Gazelle (everything including
+Indoor), Samba (everything including Sambaes), Spezials, Adizero Adios
+Pro 3, Adizero Prime X 2 Strung and all Hype products. Please check with
+the in-store staff for more information.</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
