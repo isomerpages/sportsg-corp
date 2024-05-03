@@ -100,7 +100,7 @@ and Cancellations” feature to be rolled out at a later stage in direct
 response to public feedback.</p>
 </li>
 </ul>
-<p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Sport Singapore
+<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Sport Singapore
 is committed to ensuring that ActiveSG members have access to public sport
 facilities, and are able to do so with ease on a secure platform. We are
 thankful for our members’ feedback over the years regarding our current
@@ -114,7 +114,7 @@ time for our members to familiarise themselves with the new app, and also
 give ourselves room to make further adjustments based on usage patterns
 and more feedback from our members as additional features are progressively
 introduced,” said Alan Goh, CEO, Sport Singapore.&nbsp;</p>
-<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyActiveSG+
+<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyActiveSG+
 is developed in partnership with Open Government Products (“OGP”), and
 supported by the Government Technology Agency of Singapore (“GovTech”).
 ActiveSG has been working with OGP and GovTech to build, test and improve
@@ -122,12 +122,12 @@ ActiveSG Beta. Since the start of development, the team has consulted,
 considered feedback, and observed usage patterns of over 2,000 citizens.</p>
 <p><strong>PROGRESSIVE TRANSITION TO MYACTIVESG+</strong>
 </p>
-<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since its introduction
+<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since its introduction
 in March, ActiveSG has steadily increased the number of facilities available
 for booking on ActiveSG Beta so more members can onboard, try the new platform,
 and provide feedback on an ongoing basis. The transition to MyActiveSG+
 from 15 June will take on a similar progressive approach.</p>
-<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following
+<p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following
 key implementation milestones are:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -149,7 +149,7 @@ and gyms are available for purchase.</p>
 the current system will remain accessible till 1 October 2024.</p>
 <p><strong>MIGRATION OF ACTIVESG CREDITS</strong>
 </p>
-<p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Members’ ActiveSG Credits will be migrated in batches</strong> from
+<p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Members’ ActiveSG Credits will be migrated in batches</strong> from
 the existing system to MyActiveSG+ between 15 and 30 June. <u>During this period</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -170,24 +170,24 @@ by 1 July. In addition, there will be an <u>automatic extension</u> of all
 ActiveSG credits to 31 December 2025.&nbsp;</p>
 <p><strong>DECOMMISSIONING OF ACTIVE WALLET – MYCASH</strong>
 </p>
-<p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Active Wallet - MyCash will be decommissioned in mid-August</strong>.
+<p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Active Wallet - MyCash will be decommissioned in mid-August</strong>.
 Top-up from MyCash will cease on 15 May. From now till 14 August, ActiveSG
 members with MyCash balance in their Active Wallet can continue to utilise
 it as per normal. Any remaining MyCash funds will be refunded to users
 via Paynow-NRIC-linked bank account by 31 August.</p>
-<p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members may refer to <strong><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/myactivesgplus-intro</a></strong> for
+<p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members may refer to <strong><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/myactivesgplus-intro</a></strong> for
 information about the transition to MyActiveSG+. &nbsp;</p>
 <p></p>
 <p><strong>TRANSITION SUPPORT FOR ACTIVESG MEMBERS</strong>
 </p>
-<p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ActiveSG understands that
+<p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ActiveSG understands that
 some members may have queries on the new MyActiveSG+ or may need technical
 support. ActiveSG will be ramping up support for users during this transition
 period, such as having on-site assistance at sport centres, as well as
 extended contact centre operating hours, reachable at <strong>1800 344 1177</strong>.
 These will be in addition to the standard feedback channels available online: <strong><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/myactivesgplus-contact</a></strong>
 </p>
-<p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ActiveSG would like to thank its
+<p>13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ActiveSG would like to thank its
 members for their patience and understanding during this transition.</p>
 <p></p>
 <hr>
