@@ -36,9 +36,10 @@ which was introduced to members on a trial basis since 1 March 2024.</p>
 can look forward to the following updates on MyActiveSG+:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>A fairer and more transparent system for booking facilities</u></strong>
 </p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Singpass app verification: </strong>Members
-are required to use Singpass for sign up and login to MyActiveSG+. This
-feature:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singpass app verification: </strong>Members are required to use
+Singpass for sign up and login to MyActiveSG+. This feature:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>prevents people from holding multiple accounts for booking and balloting;</p>
@@ -48,7 +49,9 @@ feature:</p>
 who hold multiple accounts created using email address, or bots and scripters.</p>
 </li>
 </ul>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Peak hour<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> facility ballot:</strong>&nbsp;
+</li>
+<li>
+<p><strong>Peak hour<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> facility ballot:</strong>&nbsp;
 MyActiveSG+ will have a balloting feature for peak hour slots that remains
 open for 24 hours, 14 days prior to date of play (D-14, closing at 11.59pm),
 to allow everyone to have a fair chance of booking their preferred slot,
@@ -67,26 +70,36 @@ i.e. 12 days before the date of use, along with all other slots (i.e. non-peak
 hour slots).</p>
 </li>
 </ul>
+</li>
+</ul>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As of end-April, close to 30% of confirmed
 bookings done through balloting on ActiveSG Beta were by members who did
 not book a facility in the past year.</p>
 <p><strong><u>User-centric features &nbsp;</u></strong>
 </p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Web-based platform:</strong> The
-web-based platform will keep users up-to-date at all times and across devices.
-Users will no longer need to install and regularly update an app on their
-mobile devices.</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Easy-to-navigate user interface: </strong>MyActiveSG+
-features a more intuitive navigation, cleaner layout, and utilises a responsive
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Web-based platform:</strong> The web-based platform will keep users
+up-to-date at all times and across devices. Users will no longer need to
+install and regularly update an app on their mobile devices.</p>
+</li>
+<li>
+<p><strong>Easy-to-navigate user interface: </strong>MyActiveSG+ features
+a more intuitive navigation, cleaner layout, and utilises a responsive
 design that adapts seamlessly to different devices, whether mobile or web.</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Seamless linking of children through supplementary accounts: </strong>Parents
+</li>
+<li>
+<p><strong>Seamless linking of children through supplementary accounts: </strong>Parents
 or legal guardians will soon be able to link their children (who are below
 15 years old) to both their accounts through Singpass. In time to come,
 ActiveSG will be introducing ‘family accounts’ on the new platform.</p>
-<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Refunds and cancellations</strong> 
-<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a><strong>: </strong>ActiveSG is developing a new “Refunds and Cancellations”
-feature to be rolled out at a later stage in direct response to public
-feedback.</p>
+</li>
+<li>
+<p><strong>Refunds and cancellations</strong>  <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a><strong>: </strong>ActiveSG is developing a new “Refunds
+and Cancellations” feature to be rolled out at a later stage in direct
+response to public feedback.</p>
+</li>
+</ul>
 <p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Sport Singapore
 is committed to ensuring that ActiveSG members have access to public sport
 facilities, and are able to do so with ease on a secure platform. We are
@@ -116,14 +129,22 @@ and provide feedback on an ongoing basis. The transition to MyActiveSG+
 from 15 June will take on a similar progressive approach.</p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following
 key implementation milestones are:</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>From 15 June</strong>:
-Members can start to login to MyActiveSG+. As part of ActiveSG’s 10<sup>th</sup> anniversary
-celebrations, members who login anytime between <u>15 June and 31 August</u> will
-receive a one-time top up of $10 ActiveSG Anniversary Credits.</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>From 15 July</strong>:
-All facilities and programmes<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> will be available for booking on MyActiveSG+.</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>From 15 August</strong>:
-Seasonal and day passes to swimming pools and gyms are available for purchase.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>From 15 June</strong>: Members can start to login to MyActiveSG+.
+As part of ActiveSG’s 10<sup>th</sup> anniversary celebrations, members
+who login anytime between <u>15 June and 31 August</u> will receive a one-time
+top up of $10 ActiveSG Anniversary Credits.</p>
+</li>
+<li>
+<p><strong>From 15 July</strong>: All facilities and programmes<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> will be available
+for booking on MyActiveSG+.</p>
+</li>
+<li>
+<p><strong>From 15 August</strong>: Seasonal and day passes to swimming pools
+and gyms are available for purchase.</p>
+</li>
+</ul>
 <p>While all key features will be available on MyActiveSG+ by 15 August,
 the current system will remain accessible till 1 October 2024.</p>
 <p><strong>MIGRATION OF ACTIVESG CREDITS</strong>
