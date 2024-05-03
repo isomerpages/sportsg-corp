@@ -8,10 +8,12 @@ description: MyActiveSG+, refreshed membership and booking platform to be
 image: ""
 variant: tiptap
 ---
-<p><em>•	MyActiveSG+ aims to provide members with a fairer &amp; more transparent system for facility booking and more user centric features</em>
-</p>
-<p><em>•	Members to receive $10 ActiveSG Anniversary Credits upon logging in to the platform</em>
-</p>
+<blockquote>
+<p>MyActiveSG+ aims to provide members with a fairer &amp; more transparent
+system for facility booking and more user centric features</p>
+<p>Members to receive $10 ActiveSG Anniversary Credits upon logging in to
+the platform</p>
+</blockquote>
 <p><strong>SINGAPORE, 2 MAY 2024</strong> – Coming off ActiveSG’s 10th year
 anniversary celebrations last month, Sport Singapore (“SportSG”) will be
 introducing a refreshed web-based membership and booking platform, MyActiveSG+,
@@ -81,7 +83,7 @@ design that adapts seamlessly to different devices, whether mobile or web.</p>
 or legal guardians will soon be able to link their children (who are below
 15 years old) to both their accounts through Singpass. In time to come,
 ActiveSG will be introducing ‘family accounts’ on the new platform.</p>
-<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Refunds and cancellations</strong>
+<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Refunds and cancellations</strong> 
 <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a><strong>: </strong>ActiveSG is developing a new “Refunds and Cancellations”
 feature to be rolled out at a later stage in direct response to public
 feedback.</p>
@@ -166,9 +168,7 @@ These will be in addition to the standard feedback channels available online: <s
 </p>
 <p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ActiveSG would like to thank its
 members for their patience and understanding during this transition.</p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <p><strong><em><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a></em></strong><em> Introduced on 1 March, </em><strong><em>ActiveSG Beta</em></strong><em> is the beta version of the upcoming booking system that includes a new balloting feature for peak hour slots. Users of the ActiveSG Beta would receive a one-off $5 ActiveSG credit if they tried out the beta version between 1 March and 14 June 2024.</em>
 </p>
@@ -178,3 +178,5 @@ members for their patience and understanding during this transition.</p>
 </p>
 <p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>  <em>Booking window opens 14 days in advance from date of facility use or programme commencement. For example, members can book programmes that start on 15 July from 1 July.</em>
 </p>
+<hr>
+<p></p>
