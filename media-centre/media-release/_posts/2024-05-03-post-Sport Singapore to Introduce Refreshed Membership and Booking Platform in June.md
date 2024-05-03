@@ -14,7 +14,7 @@ system for facility booking and more user centric features</p>
 <p>Members to receive $10 ActiveSG Anniversary Credits upon logging in to
 the platform</p>
 </blockquote>
-<p><strong>SINGAPORE, 2 MAY 2024</strong> – Coming off ActiveSG’s 10th year
+<p><strong>SINGAPORE, 3 MAY 2024</strong> – Coming off ActiveSG’s 10th year
 anniversary celebrations last month, Sport Singapore (“SportSG”) will be
 introducing a refreshed web-based membership and booking platform, MyActiveSG+,
 to its members from <strong><u>15 June</u></strong>.</p>
