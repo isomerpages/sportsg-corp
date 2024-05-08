@@ -146,7 +146,7 @@ special event invitations)</p>
 <p>&nbsp;</p>
 <p>For more information, please contact:</p>
 <p>Amy Chong, Head (Communications, Marketing &amp; Sponsorship)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">amy_chong@sport.gov.sg</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">amy_chong@sport.gov.sg</a>
 </p>
 <p>Kennie Chang</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">kennie.chang@img.com</a>
@@ -154,6 +154,10 @@ special event invitations)</p>
 <p></p>
 <p><strong>About World Aquatics Championships – Singapore 2025 (WAC2025)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="World Aquatics Championships – Singapore 2025" src="/images/Support/World Aquatics Championships/World_Aquatics_Championships.png">
+</div>
 <p>The World Aquatics Championships is World Aquatic’s flagship event which
 brings together the six sports of swimming, water polo, diving, artistic
 swimming, open water swimming and high diving. Singapore will host the
