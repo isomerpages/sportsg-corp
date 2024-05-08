@@ -146,8 +146,10 @@ special event invitations)</p>
 <p>&nbsp;</p>
 <p>For more information, please contact:</p>
 <p>Amy Chong, Head (Communications, Marketing &amp; Sponsorship)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">amy_chong@sport.gov.sg</a> /
-<a rel="noopener noreferrer nofollow" target="_blank">SPORT_wac2025@sport.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">amy_chong@sport.gov.sg</a> 
+</p>
+<p>Kennie Chang</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kennie.chang@img.com</a>
 </p>
 <p></p>
 <p><strong>About World Aquatics Championships – Singapore 2025 (WAC2025)</strong>
