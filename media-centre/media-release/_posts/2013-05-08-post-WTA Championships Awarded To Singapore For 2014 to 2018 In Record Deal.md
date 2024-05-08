@@ -5,6 +5,7 @@ date: 2013-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **WTA Championships Awarded To Singapore For 2014-2018 In Record Deal**
 
@@ -16,7 +17,7 @@ image: ""
 	
 **St. Petersburg, Fl, USA, 8 May 2013** - The Women's Tennis Association announced today that Singapore will host the 2014-2018 WTA Championships, the most prestigious event on the WTA calendar. Under terms of the record-setting five-year agreement, the Top 8 singles players and - for the first time - the Top 8 doubles teams will compete for a record prize money purse of US$ 6.5 million at the WTA Championships. The announcement follows an extensive global search and bidding process conducted by the WTA that elicited 43 expressions of interest from international cities that was narrowed to three finalists - Tianjin, China; Monterrey, Mexico; and Singapore.
 
-2. "It gives me great pleasure to announce that the sensational city of Singapore has won the right to host the WTA Championships, the WTA's crown-jewel season finale for the next five years, from 2014 to 2018," said Stacey Allaster, Chairman & CEO of the WTA. "This is the largest and most significant WTA Championships partnership in our history. It's a record-breaker."
+2. "It gives me great pleasure to announce that the sensational city of Singapore has won the right to host the WTA Championships, the WTA's crown-jewel season finale for the next five years, from 2014 to 2018," said Stacey Allaster, Chairman &amp; CEO of the WTA. "This is the largest and most significant WTA Championships partnership in our history. It's a record-breaker."
 
 3. "Singapore is exciting. It's state-of-the-art and we love the people. I am very much looking forward to the Championships in Singapore in 2014," Allaster added.
 
@@ -42,51 +43,4 @@ image: ""
 
 14. The record WTA Championships deal in Singapore follows on the record broadcast deal signed by the WTA with Perform in 2012, the signing of six new sponsors over the past three years, milestones in attendance, tournament expansion in China and Brazil, and record broadcast and digital exposure for women's tennis.
 
-15. The Sports Consultancy, a leading sports bid management consultancy, managed the WTA's global tender process, the first time in the WTA's history that it had conducted an international tender process, resulting in today's landmark Championships deal.
-
----
-
-**Media Links:**
-
-WTA LIVE press conference announcement: http://www.youtube.com/watch?v=taXSmKlUGJc
-
-Singapore Sports Hub image: https://www.yousendit.com/download/UVJqZm1RYTJGOFJWeHNUQw
-
-WTA Player congratulatory video: http://youtu.be/vlepn4PqVwA
-
----
-
-**For media enquiries, please contact:**<br>
-
-Andrew Walker, WTA<br>
-HP: +44 7825 152 361 <br>
-Email: [awalker@wtatennis.com](mailto:awalker@wtatennis.com)
-
-Chris Wallace, WTA<br>
-HP: +1.727.502.1234 <br>
-Email: [cwallace@wtatennis.com](mailto:cwallace@wtatennis.com)
-
-Shyamala Velappan, WSG<br>
-HP: +65 6826 2688
-Email: [s.velappan@wsgworld.com](mailto:s.velappan@wsgworld.com)
-
----
-
-**About the WTA**<br>
-The WTA is the global leader in women's professional sport with more than 2,500 players representing 92 nations competing for more than $100 million in prize money at the WTA's 54 events and four Grand Slams in 33 countries. More than 5.4 million people attended women's tennis events in 2012 with millions more watching on television and digital channels around the world. The 2013 WTA competitive season concludes with the TEB BNP Paribas WTA Championships in Istanbul, Turkey, October 22-27, and the Qatar Airways Tournament of Champions in Sofia, Bulgaria, October 29- November 3.
-
-Further information on the WTA can be found on [www.wtatennis.com](https://www.wtatennis.com), [facebook.com/WTA](facebook.com/WTA)and [twitter.com/WTA](twitter.com/WTA).
-
-WTA
-<br>100 Second Avenue
-<br>South, Suite 1100-S
-<br>St. Petersburg, FL 33701
-<br>USA
-<br>TEL +1 727 895 5000
-<br>FAX +1 727 894 1982
-<br>[www.wtatennis.com](https://www.wtatennis.com)
-
-**About the Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
+15. The Sports Consultancy, a leading sports bid management consultancy, managed the WTA's global tender process, the first time in the WTA's history that it had conducted an international tender process, resulting in today's landmark Championships deal. 
