@@ -137,12 +137,23 @@ marketing objectives and showcase your support for this landmark event.</p>
 </table>
 <p>In recognition of your sponsorship or partnership amount, we are pleased
 to offer <strong>sponsorship rights</strong>, which may include the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Official Status &amp; Category</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of Mark(s)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Branding opportunities</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Marketing activation opportunities</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hospitality benefits (VIP access,
-special event invitations)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Official Status &amp; Category</p>
+</li>
+<li>
+<p>Use of Mark(s)</p>
+</li>
+<li>
+<p>Branding opportunities</p>
+</li>
+<li>
+<p>Marketing activation opportunities</p>
+</li>
+<li>
+<p>Hospitality benefits (VIP access, special event invitations)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>For more information, please contact:</p>
 <p>Amy Chong, Head (Communications, Marketing &amp; Sponsorship)</p>
