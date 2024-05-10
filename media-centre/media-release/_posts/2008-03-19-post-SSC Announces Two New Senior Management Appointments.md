@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 _New appointments will beef up senior management team as SSC gears up for next wave of growth in sports sector_
 
 Singapore, 19 March 2008 - The Singapore Sports Council (SSC) announced today the appointment of two members to its senior management team as the organisation gears up for the next wave of growth in the sports sector.
