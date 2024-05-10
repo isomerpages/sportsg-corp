@@ -5,9 +5,8 @@ date: 2008-08-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-### **Rousing Welcome For Team Singapore Olympic Contingent**
-
 Women's Table Tennis Players To Be Conferred Meritorious Service Medals For Historic Achievement
 
 Team Singapore returned home today with new found confidence after creating sporting histories at the Beijing 2008 Olympic Games. To mark the country's most successful Olympic Games yet, the Singapore Sports Council (SSC) and the Singapore National Olympic Council (SNOC) held a celebration at Raffles City Shopping Centre this afternoon to commemorate Singapore's historic win and recognize this significant milestone in Singapore's sporting history.
@@ -30,46 +29,6 @@ Mr Oon Jin Teik, Chief Executive Officer, SSC commented, "Today's event celebrat
 
 "All the athletes who represented the country have much to be proud of and will move forward to achieve even greater success. Team Singapore has pushed new boundaries at the Beijing 2008 Olympic Games. It is a significant milestone and our first step to achieving even greater sporting accomplishments at future major games and competitions. Now that we are all back from Beijing, it is time to regroup, reflect and build on these achievements as we prepare for London 2012," Mr Oon added.
 
-For more information on Team Singapore at the Beijing 2008 Olympic Games, please visit www.teamsingapore.com.sg.
+For more information on Team Singapore at the Beijing 2008 Olympic Games, please visit www.teamsingapore.sg.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-
-Lorna Campbell
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 2285
-<br>
-Mobile: 9116 4804
-<br>
-Email: lcampbell@fulfordpr.com
-
-Darrelle Eng
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 5288
-<br>
-Mobile: 9737 0769
-<br>
-Email: deng@fulfordpr.com
-
-Hazwani Hasni
-<br>
-Executive, Marketing Communications
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5246
-<br>
-Mobile: 9272 0112
-<br>
-Email: Hazwani_hasni@ssc.gov.sg
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
