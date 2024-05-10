@@ -5,9 +5,8 @@ date: 2008-10-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-### **Team Singapore Driver Set To Make History At The World Touring Car Championship**
-
 _Driver Melvin Choo Becomes The First Singaporean To Participate in WTCC_
 
 **Singapore (14 October 2008)** - Team Singapore driver, Melvin Choo is ready to battle it out with some of the best touring car drivers at the upcoming World Touring Car Championship (WTCC) this October. He is the first Southeast Asian driver to compete in the annual Championship, organised by the Fédération Internationale de l'Automobile (FIA).
@@ -25,33 +24,3 @@ This year has proven to be Choo's busiest and most successful year yet, competin
 David Sonenscher, CEO of Motorsport Asia Ltd, the organizer of the Asian Festival Of Speed, the Asian Touring Car Series and Porsche Carrera Cup Asia, commented on Choo's participation in the WTCC, saying, "Having Melvin compete in the World Touring Car Championship is a great indication of his talent and the level of racing in the Asian Touring Car Series. His participation will open up doors for more Asians to try their level best and to rise from the Asian level competition to the World stage. We wish the best for Melvin and will be cheering him on".
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-
-Winson Ow
-<br>
-Vice President (Automobile Sport)
-<br>
-Singapore Motor Sports Association
-<br>
-DID: 6227 7889
-<br>
-Mobile: 9817 1800
-<br>
-Email: [winsonow@smsa.org.sg](mailto:winsonow@smsa.org.sg)
-
-Hazwani Hasni Executive, Marketing Communications
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5246
-<br>
-Mobile: 9272 0112
-<br>
-Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the umbrella of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
