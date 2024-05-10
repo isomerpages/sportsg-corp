@@ -2,6 +2,7 @@
 title: DOW Chemical Participates in TeamUP
 permalink: /dow-chemical-participates-in-teamup/
 description: ""
+variant: markdown
 ---
 Singapore , 03 May 2017
 
@@ -12,6 +13,5 @@ On 17 and 24 March '17, staff from DOW Chemical participated in ActiveSG's TeamU
 
 Conducted at Toa Payoh Sports Hall, the team which consists of staff from different departments within the multinational company (MNC) participated in 2 half days of sporting activities where they participated in Goalball and Captain’s Ball respectively. In conjunction with facilitated conversations interwoven into the sport activities, the sessions aim to help the staff connect their learnings from sport back to work.
 
-Find out more about the programme [here](https://www.myactivesg.com/news/2017/3/upping-the-game-in-team-building)!
 
 [Back to Sport Leadership Page](/sports-education/sports-leadership/past-works/)
