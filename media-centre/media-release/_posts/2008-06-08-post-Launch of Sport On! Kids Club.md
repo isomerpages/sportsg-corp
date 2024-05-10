@@ -5,9 +5,8 @@ date: 2008-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-### **Launch of Sport On! Kids Club**
-
 **Keeping the FUN in Sports!**<br>
 
 The Singapore Sports Council launched its first children's sports club, Sport On! Kids Club, at IMM, Level 3, Garden Plaza today. Sport On! Kids Club also pledged its support for the Team Singapore athletes at today's launch which inaugurated the well-wishing campaign for the Team at the Beijing 2008 Olympic Games. Targeting children between the ages of 3 to 12 years old, the club aims to promote sports as an active and healthy lifestyle choice for children and their families.
@@ -20,33 +19,8 @@ As part of the celebrations for the launch of Sport On! Kids Club, children whos
 
 "Sport On! Kids Club helps facilitate sporting opportunities for children, as young as 3 years old, as sports is not solely an activity for the adults or the athletically gifted. Sports can be a way of life for anyone, everyone. As we encourage Singaporeans of all ages to embrace and participate in sports, Sport On! Kids Club extends its wholesome and fun activities for the entire family too! This will foster and increase parent involvement in their child's sport participation," said Dr Bervyn Lee, Director, Sports Culture Division, Sports Marketing Group, Singapore Sports Council.
 
-A website - www.sportonkids.com.sg has also been developed, to offer an integrated experience with its wide variety of sporting resources through linking up with various chatrooms, blogs, forums for children and their parents to share their views and information on sports-related matters.
+A website has also been developed, to offer an integrated experience with its wide variety of sporting resources through linking up with various chatrooms, blogs, forums for children and their parents to share their views and information on sports-related matters.
 
 Sport On! Kids Club was officially launched today, 8 June Sunday, at IMM, Level 3, Garden Plaza.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-
-**Singapore Sports Council**
-<br>
-Ms Alexis Cai
-<br>
-Executive (Marketing Communications)
-<br>
-Tel:(65) 6500 5247
-<br>
-Email: [alexis_cai@ssc.gov.sg](mailto:alexis_cai@ssc.gov.sg)
-
-**Asia PR Werkz**
-<br>
-Ms Imin Teo
-<br>
-Associate
-<br>
-Tel:(65) 6536 6881
-<br>
-HP:(65) 9431 3381
-<br>
-Email: [imin@asiaprwerkz.com](mailto:imin@asiaprwerkz.com)

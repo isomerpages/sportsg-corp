@@ -6,8 +6,9 @@ date: 2008-09-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-### **Team Singapore's Outstanding Achievements Recognised at Beijing 2008 Olympic Games MAP Award**
+
 
 Team Singapore came together this evening at the Multi-Million Dollar Award Programme (MAP) and Team Singapore (TS) Appreciation Dinner to celebrate its outstanding achievements at the Beijing 2008 Olympic Games. The event, held at the Singapore Flyer, was attended by athletes, coaches, officials, partners and sponsors to commemorate Singapore's historic win in clinching its second Olympic medal in history.
 
@@ -21,41 +22,6 @@ The contingent's exceptional performance at this Olympic Games cap an unpreceden
 
 At the event, appreciation plaques were also presented to sponsors and supporters of Team Singapore to thank them for their unflagging support during the Beijing 2008 Olympic games. They included Tote Board, Singapore Pools Pte Ltd, CapitaLand Retail Limited and Singapore Airlines.
 
-For more information on Team Singapore at the Beijing 2008 Olympic Games, please visit www.teamsingapore.com.sg
+For more information on Team Singapore at the Beijing 2008 Olympic Games, please visit www.teamsingapore.sg
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-
-Ronda Ng Doswell
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 5293
-<br>
-Mobile: 9152 2842
-<br>
-Email: [rng@fulfordpr.com](mailto:rng@fulfordpr.com)
-
-Darrelle Eng
-<br>
-Fulford Public Relations
-<br>
-DID: 6324 5288
-<br>
-Mobile: 9737 0769
-<br>
-Email: [deng@fulfordpr.com](mailto:deng@fulfordpr.com)
-
-Hazwani Hasni
-<br>
-Executive, Marketing Communications
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5246
-<br>
-Mobile: 9272 0112
-<br>
-Email: [Hazwani_hasni@ssc.gov.sg](mailto:Hazwani_hasni@ssc.gov.sg)

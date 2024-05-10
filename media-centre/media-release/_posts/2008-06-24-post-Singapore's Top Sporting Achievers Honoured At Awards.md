@@ -5,10 +5,9 @@ date: 2008-06-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-### **Singapore's Top Sporting Achievers Honoured At Awards**
-
-**Gao Ning and Tao Li Named Sportsman & Sportswoman of the Year**<br>
+**Gao Ning and Tao Li Named Sportsman &amp; Sportswoman of the Year**<br>
 
 Over 60 Team Singapore athletes and coaches received the highest accolades in Singapore sports for their outstanding performances in 2007 at Singapore's most prestigious sports recognition event, the Singapore Sports Awards 2008 this evening.
 
@@ -22,46 +21,10 @@ Guest of Honour, Dr Vivian Balakrishnan, Minister for Community Development, You
 
 "Singapore sports delivered a sterling performance in 2007. Our Team Singapore athletes not only raised Singapore's flag high at the 24th SEA Games with a record medal haul of 43 gold medals, they have also made their presence felt at international events by climbing higher on the world rankings. All the winners of the coveted Singapore Sports Awards have truly epitomised Singapore's sporting spirit. My heartfelt congratulations to all the winners!" said Mr Chris Chan, Secretary General, Singapore National Olympic Council.
 
-Also honoured at the event were the Sportsboy of the Year, shooter Jonathan Koh and the Sportsgirl of the Year, bowler Jazreel Tan, both of whom brought home a Gold and Silver medal respectively at the 24th SEA Games in Thailand. The National Table Tennis Women's Team, comprising of Li Jiawei, Wang Yuegu, Sun Beibei, Tan Paey Fern and Yu Mengyu were also given special mention this evening as the winner of the Team of the Year (Team Events) award. (For the complete list of SSA winners for 2008, please refer to the list at Annex D).
+Also honoured at the event were the Sportsboy of the Year, shooter Jonathan Koh and the Sportsgirl of the Year, bowler Jazreel Tan, both of whom brought home a Gold and Silver medal respectively at the 24th SEA Games in Thailand. The National Table Tennis Women's Team, comprising of Li Jiawei, Wang Yuegu, Sun Beibei, Tan Paey Fern and Yu Mengyu were also given special mention this evening as the winner of the Team of the Year (Team Events) award.
 
 "2007 was indeed a stellar year for Singapore sports. Behind every award presented here today is an athlete whose tremendous courage, determination and perseverance have overcome numerous challenges in order to bring glory to Singapore. Their exemplary achievements have done us proud and will be an inspiration to young athletes," said Mr Oon Jin Gee, Chairman of Singapore Sports Award 2008, Organising Committee.
 
 Minister Teo also presented the 2008 International Olympic Committee (IOC) "Sport and Youth" Trophy to the Ministry of Education (MOE) for its efforts in promoting a range of sports initiatives in line with the Olympic ideals for youths as part of a well-balanced education. MOE is the first Ministry to be conferred the IOC Award since the Awards' inception in 1986.
 
 The Singapore Sports Awards 2008 captured the pinnacle of Singapore's sports in 2007, and signalled the beginning of another great journey for Team Singapore towards this year's Beijing Olympics in August.
-
----
-
-**For media enquiries, please contact:**
-<br>
-Ms Hazwani Hasni
-<br>
-Executive
-<br>
-Marketing Communications Division,
-<br>
-Singapore Sports Council
-<br>
-Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
-<br>
-Office: 65005246
-<br>
-Mobile: 9272 0112
-
-Mr Robert Conceicao
-<br>
-Majic Communications Pte Ltd
-<br>
-Email: [robert@majic.sg](mailto:robert@majic.sg)
-<br>
-Office: 65385132
-<br>
-Mobile: 9841 9354
-
----
-
-**About Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organization that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council (SSC) is Singapore's lead agency tasked with developing sports in Singapore. Our vision is to create a Sporting Singapore where Sports is a way of life. SSC aims to develop sports champions and create enjoyable sporting experiences for Singapore through the three strategic thrusts of cultivating a sporting culture, achieving sports excellence and creating a vibrant sports industry. Formed on 1 October 1973, SSC is a statutory board under the purview of the Ministry of Community Development, Youth and Sports. Please visit the SSC website at www.ssc.gov.sg for more information.
