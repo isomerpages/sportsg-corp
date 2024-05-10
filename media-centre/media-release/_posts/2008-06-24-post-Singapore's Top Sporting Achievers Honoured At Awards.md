@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 **Gao Ning and Tao Li Named Sportsman &amp; Sportswoman of the Year**<br>
 
 Over 60 Team Singapore athletes and coaches received the highest accolades in Singapore sports for their outstanding performances in 2007 at Singapore's most prestigious sports recognition event, the Singapore Sports Awards 2008 this evening.
