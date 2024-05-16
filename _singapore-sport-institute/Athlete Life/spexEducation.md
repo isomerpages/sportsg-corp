@@ -3,6 +3,7 @@ title: spexEducation
 permalink: /singapore-sport-institute/athlete-life/spexeducation/
 description: ""
 third_nav_title: Athlete Life
+variant: markdown
 ---
 ![](/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexEducation/spexEducation-15-Apr.png)
 **Singapore Sport Institute (SSI)** and the National Youth Sports Institute (NYSI) are the nation’s premier institutes for the development of high performance sports and nurturing of elite athletes and elite student-athletes. Athlete Life carries out SSI’s and NYSI’s mission of developing Singapore’s athletes and student-athletes holistically in key areas of education, career, life skills and developing them to be Athlete Ambassadors for Team Singapore. 
@@ -53,16 +54,16 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 | Institutions | Scholarships |
 | -------- | -------- | 
 | Singapore Sports School	| [https://www.sportsschool.edu.sg/admissions/scholarships](https://www.sportsschool.edu.sg/admissions/scholarships)   |
-|  Institute of Technical Education		| [https://www.ite.edu.sg/admissions/scholarships-award-and-bursaries](https://www.ite.edu.sg/admissions/scholarships-award-and-bursaries)   |
+|  Institute of Technical Education		| [https://www.ite.edu.sg/admissions/scholarships-awards-and-bursaries/scholarships](https://www.ite.edu.sg/admissions/scholarships-awards-and-bursaries/scholarships)  |
 |Ngee Ann Polytechnic|[https://www.np.edu.sg/admissions/Pages/scholarships.aspx#](https://www.np.edu.sg/admissions/Pages/scholarships.aspx#)|
 | Nanyang Polytechnic| [https://www.nyp.edu.sg/admissions/full-time-diploma/scholarships-study-awards.html](https://www.nyp.edu.sg/admissions/full-time-diploma/scholarships-study-awards.html)|
 |Republic Polytechnic| [https://www.rp.edu.sg/student-support/scholarships-awards](https://www.rp.edu.sg/student-support/scholarships-awards)|
 |Singapore Polytechnic|	 https://www.sp.edu.sg/sp/student-services/ssc-overview/student-support/scholarships/sp-sports-arts-scholarship|
-| \*Temasek Polytechnic| [https://www.tp.edu.sg/fees-and-financial-matters/scholarships](https://www.tp.edu.sg/fees-and-financial-matters/scholarships)|
+| \*Temasek Polytechnic| [https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html](https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html](https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html)|
 | \*International Sports Academy| IMC Sports Diploma Study Award <br>[https://www.isa.edu.sg](https://www.isa.edu.sg)<br>(please contact ISAat [info@isa.edu.sg](mailto:info@isa.edu.sg) for more information)|
 |&nbsp;James Cook University| [https://www.jcu.edu.sg](https://www.jcu.edu.sg)|
-|\*National University of Singapore|NUS Sports Scholarship<br>[http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship](http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship)<br>NUS Sports Scholarship (Mid-Term)<br>[http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term)](http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term))|
-| \*Nanyang Technological University	| [http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx](http://www.ntu.edu.sg/has/SnR/Awards_Grants/Pages/SportsGrants.aspx)<br>(for existing students)|
+|\*National University of Singapore|NUS Sports Scholarship<br>[https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-citizens/nus-sports-scholarship](https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-citizens/nus-sports-scholarship)<br>NUS Sports Scholarship (Mid-Term)<br>[http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term)](http://www.nus.edu.sg/osa/resources/funding/nus-sports-scholarship-(mid-term))|
+| \*Nanyang Technological University	| [https://www.ntu.edu.sg/admissions/undergraduate/scholarships/existing-student](https://www.ntu.edu.sg/admissions/undergraduate/scholarships/existing-student)<br>(for existing students)|
 | SIM Global Education| Scholarship application details will be emailed out to all carded athlete in April/May.<br>University of Stirling courses:<br>• Bachelor of Arts (Honours) in Sports Studies and Marketing<br>• Bachelor of Arts (Honours) in Events Management<br>• Bachelor of Arts (Honours) in Marketing<br>• Bachelor of Arts (Honours) in Retail Marketing<br>• Bachelor of Arts (Honours) in Digital Media|
 |&nbsp;\*Singapore Management University|Yip Pin Xiu Scholarship<br>[https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship](https://admissions.smu.edu.sg/scholarships/yip-pin-xiu-scholarship)|
 | Singapore Institute of Technology	| [https://www.singaporetech.edu.sg/undergrad/scholarships](https://www.singaporetech.edu.sg/undergrad/scholarships)
