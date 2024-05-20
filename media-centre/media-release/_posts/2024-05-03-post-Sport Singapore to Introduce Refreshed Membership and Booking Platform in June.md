@@ -70,12 +70,12 @@ i.e. 12 days before the date of use, along with all other slots (i.e. non-peak
 hour slots).</p>
 </li>
 </ul>
+<p>As of end-April, close to 30% of confirmed bookings done through balloting
+on ActiveSG Beta were by members who did not book a facility in the past
+year.</p>
 </li>
 </ul>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As of end-April, close to 30% of confirmed
-bookings done through balloting on ActiveSG Beta were by members who did
-not book a facility in the past year.</p>
-<p><strong><u>User-centric features &nbsp;</u></strong>
+<p>b. <strong><u>User-centric features &nbsp;</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
