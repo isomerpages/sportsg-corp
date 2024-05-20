@@ -23,7 +23,7 @@ joined in the record setting effort, which was organised as part of ActiveSG’s
 <p>2 Beyond April’s celebration festivities, ActiveSG will open its swimming
 pools and gyms to all members of the public for free on the tenth of every
 month, from May to December 2024.&nbsp;</p>
-<p>3ActiveSG was launched in 2014 as Sport Singapore’s mass participation
+<p>3 ActiveSG was launched in 2014 as Sport Singapore’s mass participation
 arm. It currently holds a membership base of 2.5 million. Since 2014, Singapore
 Citizens and Permanent Residents who sign up for ActiveSG membership are
 given free $100 ActiveSG Credits that can be used to offset the cost of
