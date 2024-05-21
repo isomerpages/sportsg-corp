@@ -11,7 +11,7 @@ description: With 10 days of activation islandwide, the urban sports & fitness
 image: ""
 variant: tiptap
 ---
-<h4>The 10-day festival (23 August to 1 September) will feature a mix of activities, including street dance, fitness racing, parkour, obstacle laser run among others. </h4>
+<h4>The 10-day festival (23 August to 1 September) will feature a mix of activities, including street dance, fitness racing, parkour, obstacle laser run among others.</h4>
 <p></p>
 <h4>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community and Youth &amp; Ministry of Social and Family Development attended the launch of SGUSFF and tried out activities including the obstacle laser run by Singapore Modern Pentathlon Association and the rowing machine at HYROX’s showcase.</h4>
 <p></p>
@@ -110,10 +110,10 @@ said Mr Charlz Ng, Founder of Hybrid Group.</p>
 Fitness Festival can contact the team at <a href="mailto:majorevents@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">majorevents@sport.gov.sg</a>.</p>
 <p>12) More information about the event calendar for USFF can be found in
 Annex A (accurate as of 18 May 2024). For more details on SGUSFF, please
-visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/usff. </a>
+visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/usff.</a>
 </p>
 <hr>
-<p><strong><u>Annex A</u></strong>
+<p><strong><u>ANNEX A</u></strong>
 </p>
 <p><strong>Singapore Urban Sports &amp; Fitness Festival 2024 </strong>
 <br>Events Calendar (as at 18 May 2024)</p>
@@ -174,11 +174,14 @@ visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Skateboarding, BMX, Parkour
+<p>BMX,
+<br>Skateboarding,
+<br>Parkour
 <br>Competitions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jurong Lake Gardens,
+<br>
 <br>Singapore Expo Hall 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +201,8 @@ visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Broken Wing</p>
+<p>Operation
+<br>Broken Wing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tbc</p>
@@ -222,7 +226,8 @@ visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target
 <p>Obstacle Laser Run</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KA13 Joo Chiat</p>
+<p>KA13
+<br>Joo Chiat</p>
 <p>Singapore Expo Hall 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,8 +316,8 @@ visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target
 <p>HYROX</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Expo Halls
-<br>3 &amp; 4</p>
+<p>Singapore Expo
+<br>Halls 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fitness</p>
@@ -331,12 +336,11 @@ visit <a href="https://go.gov.sg/usff" rel="noopener noreferrer nofollow" target
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>FWE
-<br>(Fitness Wellness Expo)</p>
+<p>Fitness Wellness Expo (FWE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Expo Halls
-<br>3 &amp; 4</p>
+<p>Singapore Expo
+<br>Halls 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fitness</p>
