@@ -11,9 +11,11 @@ description: With 10 days of activation islandwide, the urban sports & fitness
 image: ""
 variant: tiptap
 ---
+<blockquote>
 <h4>The 10-day festival (23 August to 1 September) will feature a mix of activities, including street dance, fitness racing, parkour, obstacle laser run among others.</h4>
-<p></p>
+<h4></h4>
 <h4>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community and Youth &amp; Ministry of Social and Family Development attended the launch of SGUSFF and tried out activities including the obstacle laser run by Singapore Modern Pentathlon Association and the rowing machine at HYROX’s showcase.</h4>
+</blockquote>
 <p></p>
 <p><strong>Singapore, 18 May 2024</strong> - Sport Singapore (SportSG) announced
 the launch of the first edition of Singapore Urban Sports &amp; Fitness
