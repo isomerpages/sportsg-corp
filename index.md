@@ -27,7 +27,7 @@ sections:
       title: Serving Through Sport With Passion And Pride
       description: Under MCCY, Sport Singapore (SportSG) inspires and transforms
         Singapore through innovative, fun and meaningful sporting experiences.
-      button: Learn more
+      button: Our core values
       url: /about-us/our-core-values/
   - infopic:
       title: Start Your Fitness Journey With Sport
@@ -46,11 +46,11 @@ sections:
   - infopic:
       title: Develop A Love For Sport
       subtitle: Sport Education
-      button: Learn More
+      button: Sport Heritage
       alt: Develop A Love For Sport
       url: /sports-education/history-of-sportsg/introduction/
       image: /images/Sport Education/Value & Principles in Sport/NSYS generic.jpeg
   - resources:
       title: Media Centre
-      button: Read more
+      button: More media releases
 ---
