@@ -6,6 +6,7 @@ date: 2010-03-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **New National Water Safety Programme With Emphasis On Water Survival Skills Introduced**
 
@@ -64,42 +65,3 @@ SwimSafer is a new national water safety programme initiated by the National Wat
 Have Fun, Swim Safe.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Derrick Chee
-<br>
-Secretariat,
-<br>
-National Water Safety Council
-<br>
-Ministry of Community Development, Youth and Sports
-<br>
-DID: 6354 8246
-<br>
-Email: [derrick_chee@mcys.gov.sg](mailto:derrick_chee@mcys.gov.sg)
-		
-Tanty Nazlianah Rosli
-<br>
-Manager,
-<br>
-Public & Media Relations
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5241
-<br>
-Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
----
-
-**About the National Water Safety Council, Singapore (NWSC)**<br>
-The NWSC was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council is currently working with SPRING Singapore and other agencies to develop a Code of Practice for Aquatic Facilities to promote safe water facilities for the public.
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
