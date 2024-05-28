@@ -5,6 +5,7 @@ date: 2010-11-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Named World's Best Sport City**
 
@@ -35,31 +36,3 @@ _Singapore Beats Strong European Contenders To Clinch Award_
 **Annex B - [ABOUT THE INTERNATIONAL SPORTS EVENT MANAGEMENT (ISEM) AWARDS](/files/Media%20Centre/Media%20Release/2010/Nov/Singapore%20named%20Worlds%20Best%20Sport%20City%20%20Annex%202pdf.pdf)** [54 Kb]
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-
-Dominic Tay
-<br>Senior Manager
-<br>Public and Media Relations
-<br>Singapore Sports Council
-<br>Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
-
-Jose Raymond
-<br>Deputy Director
-<br>Media Relations and Social Media
-<br>Singapore Sports Council
-<br>Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
-<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)
-<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
-<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
