@@ -6,6 +6,7 @@ date: 2010-07-03
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **More Than 10,000 Students To Embark On Swimsafer As Programme Rolls Out At All Public Pools**
 
@@ -30,47 +31,3 @@ _National Water Safety Programme To Be Instructed At All Of SSC's 24 Swimming Co
 9. For more information on the SwimSafer programme, the public can visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme) or call the hotline at 6500 5439, Monday to Friday, 9am to 6pm.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Derrick Chee
-<br>
-Secretariat, National Water Safety Council
-<br>
-Ministry of Community Development,
-<br>
-Youth and Sports
-<br>
-DID: 6354 8246
-<br>
-Email: [derrick_chee @mcys.gov.sg](mailto:derrick_chee @mcys.gov.sg)
-
-Tanty Nazlianah Rosli
-<br>
-Manager
-<br>
-Public & Media Relations
-<br>
-Singapore Sports Council
-<br>
-DID: 6500 5241
-<br>
-Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
----
-
-**About SwimSafer**<br>
-SwimSafer is a new national water safety programme initiated by the National Water Safety Council, in collaboration with the Singapore Sports Council. The six-stage progressive programme will help children of all ages and abilities develop water safety and swimming skills at their own pace through a positive, fun learning experience. SwimSafer is an improvement of the existing National Survival Swimming Award (NASSA) and Learn-To-Swim (LTS) Programme. For more information on the programme, please visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme).
-
-Have Fun, Swim Safe.
-
-**About the National Water Safety Council, Singapore (NWSC)**<br>
-The NWSC was appointed by the Ministry of Community Development, Youth and Sports (MCYS) in 2007 to oversee water safety matters in Singapore. Helmed by Dr Teo Ho Pin, Mayor of North West Community Development Council and Honorary Advisor to the Singapore Life Saving Society, the NWSC is the national coordinating body in driving and sustaining initiatives overseeing water safety. The Council, appointed on a two-year term, comprises members from the people, private and public sectors. Prior to the SwimSafer, the NWSC had collaborated with the Ministry of Education and Singapore Sports Council to introduce the Learn-To-Swim Programme for primary school students. The Council recently launched the Code of Practice for the Design and Management of Aquatic Facilities with the Building and Construction Authority (BCA) to promote safe water facilities for the public.
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports[www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
