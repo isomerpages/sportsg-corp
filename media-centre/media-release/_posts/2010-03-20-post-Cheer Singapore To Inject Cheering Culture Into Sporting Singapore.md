@@ -5,6 +5,7 @@ date: 2010-03-20
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Cheer Singapore To Inject Cheering Culture Into Sporting Singapore**
 
@@ -121,24 +122,3 @@ All winning cheerleading teams will receive trophies and medals.
 **Note:** All participants will receive certificates of participation. All winning teams for both the cheering and cheerleading categories will have a chance to perform at the YOG pre-show and selected competition venues during Singapore 2010 Youth Olympic Games. They will also performance at cheer outreach roadshows between April to August 2010.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Hazwani Hasni<br>
-Singapore Sports Council<br>
-Office: 6500 5246<br>
-Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About Let's Play**
-<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg).
