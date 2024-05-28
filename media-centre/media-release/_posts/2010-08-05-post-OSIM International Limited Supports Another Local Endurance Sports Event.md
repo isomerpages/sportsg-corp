@@ -5,6 +5,7 @@ date: 2010-08-05
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **OSIM International Limited Supports Another Local Endurance Sports Event**
 
@@ -23,38 +24,3 @@ _Premier Home-Grown Brand Supports Standard Chartered Marathon Singapore 2010, I
 6. Through this sponsorship, OSIM aims to strengthen its dynamic association with major sporting events in Singapore. The OSIM brand is already synonymous with fitness and the promotion of a healthy lifestyle through the company's long-standing association with the OSIM Singapore International Triathlon which celebrates its 10th anniversary in 2011.
 
 7. "As the No.1 Healthy Lifestyle Brand in Asia, OSIM is happy to support the Standard Chartered Marathon Singapore as a sign of our commitment to promoting fitness and well-being to all people," said Mr Ron Sim, Chief Executive Officer of OSIM International Limited.
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-Linda Fulford<br>
-Fulford PR<br>
-DID: 6324 2268<br>
-Email: [lfulford@fulfordpr.com](mailto:lfulford@fulfordpr.com)
-
-Jemuel Fu<br>
-Executive<br>
-Public & Media Relations<br>
-Singapore Sports Council<br>
-DID: 6500 5245<br>
-Email: [jemuel_fu@ssc.gov.sg](mailto:jemuel_fu@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
-
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)
-
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
-
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About OSIM International Ltd**<br>
-SGX mainboard-listed OSIM is a global leader in well-being and healthy lifestyle products and is the official co-sponsor of the Standard Chartered Marathon Singapore 2010. Established in 1980, OSIM has over 30 years of experience and uncompromising dedication in developing innovative and quality products. As an IP developer, OSIM controls its brands, designs, technologies and concepts. It's unique and holistic approach to well-being is based on four complementary focuses - Health, Hygiene, Fitness and Nutrition, each carrying the fundamental theme of well-being, lifestyle and positive attitude. Ranked as Number 1 and the most preferred brand in healthy lifestyle products across Asia today, OSIM operates a global point-of-sales network through the 4 major brands of OSIM, Richlife, GNC and Brookstone, with more than 1,000 outlets in 217 cities across 29 countries in Asia, Oceania, Africa, the Middle East, Europe and North America.
-
-For more information, please visit [www.sg.osim.com](https://sg.osim.com/).
