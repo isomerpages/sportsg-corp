@@ -5,6 +5,7 @@ date: 2010-05-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SSC And The National Basketball Association Get Set To Slam-Dunk**
 
@@ -22,40 +23,12 @@ _Historic Partnership will bring Basketball without Borders to Singapore for the
 
 6. Basketball without Borders will feature NBA players and personnel as coaches for the top 60 youth basketball players from across Asia as selected by the NBA, FIBA, and participating federations, including the Basketball Association of Singapore. The camp will also feature extensive community outreach through NBA Cares, the league's global social responsibility initiative. Efforts will focus on grassroots basketball development and health-related issues with a focus on youth fitness. The camp will also feature a product donation to local community-based organisations that will include school supplies, clothing, sports equipment, and other items.
 
----
-
-**For media enquiries, please contact:**
-<br>
-Jose Raymond<br>
-Deputy Director<br>
-Media Relations and Social Media<br>
-Singapore Sports Council<br>
-Office: 6500 5289<br>
-Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
-
-Rachel Walsh<br>
-Coordinator<br>
-International Communications<br>
-NBA New York<br>
-DID: (212) 407 - 8058<br>
-Email: [rwalsh@nba.com](mailto:rwalsh@nba.com)
-
-Kam Hung Ip<br>
-Senior Manager<br>
-International Communications<br>
-NBA Hong Kong<br>
-DID: (852) 2843 9628<br>
-Email: [khip@nba.com](mailto:khip@nba.com)
 
 ---
 
 **About Singapore Sports Council**<br>
 Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
 
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
 
 **About the NBA**<br>
 The NBA, founded in 1946, is a professional sports league and global business that features 30 teams in the United States and Canada. During the 2009-10 season, NBA games will reach 215 countries and territories in 41 languages. The league's worldwide reach is also displayed in the 79 international players from 35 countries and territories on NBA rosters. NBA merchandise is sold in more than 100,000 stores in 100 countries on six continents. NBA.com averages more than 26 million page views per day, with more than 50 percent of the site's visitors coming from outside of North America. Through NBA Cares, the league, its teams and players have donated more than $130 million to charity, provided more than one million hours of hands-on service to communities around the world, and created more than 465 places where kids and families can live, learn, or play, including 85 places in 21 countries on five continents internationally.
