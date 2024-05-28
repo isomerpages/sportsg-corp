@@ -5,6 +5,7 @@ date: 2010-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Pillars Of Community Sports Recognised**
 
@@ -31,36 +32,3 @@ _26 Individuals, Coaches And Organisations Emerge Winners Of The POSB Everyday C
 Winners will each receive a trophy, a certificate and tickets to watch the inaugural Youth Olympic Games with their friends or loved ones.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Connie Ong<br>
-The Advocate Group<br>
-Office: 6278 7022<br>
-Email: [connie@theadvocategroup.com.sg](mailto:connie@theadvocategroup.com.sg)
-
-Dominic Tay<br>
-Assistant Director<br>
-Media and Public Relations<br>
-Singapore Sports Council<br>
-Office: 6500 5247<br>
-Email: [dominic_tay@ssc.gov.sg](mailto:dominic_tay@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About "Let's Play"**<br>
-Let's Play is a nation-wide movement by the Singapore Sports Council to encourage everyone in Singapore to embrace sports as a lifestyle choice. Sports, while also fun, offers health and social benefits. Let's Play seeks to connect, energise and enrich everyone from all walks of life through the many aspects of sports, be it playing, watching, cheering or volunteering. For more information on Let's Play, please visit www.singaporesports.sg.
-
-**About POSB**<br>
-A part of the DBS Group, POSB is the largest local bank in Singapore with 4 million customers. Having served generations of Singaporeans for the past 132 years, it is known as the "People's Bank", and prides itself in being "neighbours first, bankers second".
-With a good understanding of Singaporeans through the years, POSB offers products and services that are relevant to the savings, borrowing, investment and insurance needs of all Singaporeans. With 52 branches conveniently located islandwide, and close to 1,000 ATMs and Cash Acceptance Machines across the island, POSB?s distribution network is the largest in Singapore.
-
-POSB acknowledges the passion, commitment and can-do spirit in each of its staff. For more information, please visit www.posb.com.sg.
