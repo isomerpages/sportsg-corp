@@ -5,6 +5,7 @@ date: 2023-06-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **FIBA International Cup Draw completed in Singapore**
 
@@ -47,12 +48,7 @@ As the national sports agency, Sport Singapore’s core purpose is to inspire th
 
 To find out more, visit SportSG’s websites at [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [www.circle.myactivesg.com/stories](http://www.circle.myactivesg.com/stories)
 
-Follow SportSG on:  
-Facebook – [https://www.facebook.com/livebetterthroughsport/](https://www.facebook.com/livebetterthroughsport/)
 
-Instagram – [www.instagram.com/sport\_singapore/](http://www.instagram.com/sport_singapore/)
-
-YouTube – [www.youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports)
 
 
 **About Singapore Sports Hub**

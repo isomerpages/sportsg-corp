@@ -6,6 +6,7 @@ date: 2010-03-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **More Race Officials To Return To The Track For 2010 Formula 1 Singtel Singapore Grand Prix**
 
@@ -26,29 +27,3 @@ _About 60% Of Race Officials From Past Two Races To Volunteer For This Year's On
 7. In preparation for this year's race, some of the senior race officials will be involved in several training stints in Australia. Their first stop will be the 2010 Clipsal500 V8 Supercar Race Meet in Adelaide, Australia, followed by the Melbourne 2010 FORMULA 1 QANTAS AUSTRALIAN GRAND PRIX in late-March and SKYCITY Triple Crown, Darwin V8 Supercars Race Meet in June.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Hazwani Hasni
-<br>
-Singapore Sports Council
-<br>
-Office: 6500 5246
-<br>
-Email: [hazwani_hasni@ssc.gov.sg](mailto:hazwani_hasni@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
-
-**About the FORMULA 1 SINGTEL SINGAPORE GRAND PRIX**<br>
-Singapore has successfully hosted the only night race in Grand Prix history and Asia's only street race on the FORMULA ONE calendar on a street circuit of public roads in downtown Singapore for two years since the inaugural race in 2008. The 2010 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX, with its signature mix of lights, glamour, and non-stop action, returns to the heart of the city at the Marina Bay Street Circuit from 24 to 26 September 2010. For more information, visit [www.singaporegp.sg](https://www.singaporegp.sg).
-
-**About Singapore GP Pte Ltd**<br>
-Singapore GP Pte Ltd is the race promoter for the Singapore Grand Prix. It holds five-year renewable rights to stage the Singapore Grand Prix, beginning with the 2008 Season. The company is a partnership between Komoco Motors and regional events company Lushington Entertainments, via its parent company Reef Enterprises.
