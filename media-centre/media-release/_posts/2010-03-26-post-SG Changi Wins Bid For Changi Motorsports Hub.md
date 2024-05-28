@@ -5,6 +5,7 @@ date: 2010-03-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SG Changi Wins Bid For Changi Motorsports Hub**
 
@@ -39,28 +40,3 @@ image: ""
 
 ---
 
-**For media enquiries, please contact:**
-<br>
-S. Parameswaran (Parames)<br>
-Senior Manager<br>
-Corporate Communications & Relations<br>
-Singapore Sports Council<br>
-Office: 6500 5236<br>
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
-Alvin Hang<br>
-Director<br>
-Corporate Communications & Relations<br>
-Singapore Sports Council<br>
-Office: 6500 5164<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg)<br>
-Join SSC on Twitter at: [www.twitter.com/singaporesports](https://www.twitter.com/singaporesports)<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
