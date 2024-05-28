@@ -6,10 +6,11 @@ date: 2010-09-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Target 2016: NSAs To Focus On Creating A Pipeline For High Performance Excellence**
 
-_NSAs To Review And Update Multi-Year Sports Plans To Supply & Sustain Local Sports_ 
+_NSAs To Review And Update Multi-Year Sports Plans To Supply &amp; Sustain Local Sports_ 
 
 **Singapore, 22 September 2010** - Slightly more than a week after the Singapore Sports Council (SSC) announced its target of garnering at least six medals at the 2016 Olympic Games in Rio de Janeiro, the National Sports Associations (NSAs) were today told of the key role they will play in helping Singapore achieve its targets which have been set for Singapore in 2016.
 
@@ -32,35 +33,3 @@ _NSAs To Review And Update Multi-Year Sports Plans To Supply & Sustain Local Spo
 8. In order to be eligible for ANGE funding from FY 2011 onwards, NSAs have to register for charity status by 31 December 2010. This requirement was announced by the SSC in October 2009 in a bid to elevate NSAs' standards of governance, which will bolster their fund-raising efforts and enhance public and corporate confidence in them. In addition, with charity status, the NSAs will enjoy automatic income and property tax exemptions for premises used exclusively for charitable purposes, as well as gain access to the VWOs-Charities Capability Fund (VCF), which is made available to all charities until 31 March 2012. About one-third of the NSAs are already in the final stage of Charity registration/obtained Charity status.
 
 9. Concluded Mr Oon, "With the investments by the Government put into the Youth Olympic Games (YOG), the Olympic Pathway Programme, the Singapore Sports School and the mainstream schools, we strongly advocate NSAs to work with the SSC and other sporting partners to come up with a comprehensive multi-year strategy in order to achieve a sustained podium success at Major Games and world championships."
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-Tanty Nazlianah Rosli<br>
-Senior Manager<br>
-Public & Media Relations<br>
-Singapore Sports Council<br>
-Office: 65005241<br>
-Email: [tanty_nazlianah@ssc.gov.sg](mailto:tanty_nazlianah@ssc.gov.sg)
-
-Jose Raymond<br>
-Deputy Director<br>
-Media Relations & Social Media<br>
-Singapore Sports Council<br>
-Office: 6500 5289<br>
-Email: [jose_raymond@ssc.gov.sg](mailto:jose_raymond@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-Formed in 1973, the Singapore Sports Council (SSC) is tasked with developing a holistic sports culture for the nation. The SSC creates opportunities for people to excel in sports; opportunities for people to be engaged in sports as, coaches, officials, volunteers or fans; and opportunities for people to do business in sports as sponsors and investors. The SSC has changed the way Singaporeans view and participate in sports. Through sports, we now have an enhanced national identity thanks to our sports participation programmes; greater national pride as a result of high performance results at international and regional games; and more diversified economic stability through our vibrant sports industry initiatives.
-
-To find out more, visit our website [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
-<br>
-Join SSC on Twitter at: www.twitter.com/singaporesports
-<br>
-Join Singaporesports.sg on Facebook at: [www.facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport)
-<br>
-For a range of photographs, search for "Singapore Sports Council" on [www.flickr.com/photos/ssc-sportsphotography](http://www.flickr.com/photos/ssc-sportsphotography)
