@@ -5,6 +5,7 @@ date: 2013-07-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **All 300 SCMS 2013 Ekiden Slots Snapped Up In 40 Minutes**
 
@@ -89,11 +90,11 @@ Visit [www.thongsia.com.sg](https://www.thongsia.com.sg) to find out more.
 **5\. About Tiger Balm Active**<br>
 Introducing Tiger Balm ACTIVE, the range of muscle rubs, gels and sprays, specially formulated by Tiger Balm, the name you can trust. Designed for the active individual with an active lifestyle, Tiger Balm ACTIVE is what you need for warm-ups, cool-downs, as well as relief of your muscular aches, pains and strains. So go on. Step up and get Active!
 
-* **Tiger Balm ACTIVE Muscle Rub**<br>Non-greasy feel<br>Good for muscle aches, pains & strains<br>Also effective for pre-sports warm up
+* **Tiger Balm ACTIVE Muscle Rub**<br>Non-greasy feel<br>Good for muscle aches, pains &amp; strains<br>Also effective for pre-sports warm up
 
-* **Tiger Balm ACTIVE Muscle Gel**<br>Non-sticky feel<br>Combats fatigued muscles & aids muscle recovery<br>Also good for post-sports cool down.
+* **Tiger Balm ACTIVE Muscle Gel**<br>Non-sticky feel<br>Combats fatigued muscles &amp; aids muscle recovery<br>Also good for post-sports cool down.
 
-* **Tiger Balm ACTIVE Muscle Spray**<br>For fast & easy application<br>Relieving sore and aching muscles in hard to reach areas
+* **Tiger Balm ACTIVE Muscle Spray**<br>For fast &amp; easy application<br>Relieving sore and aching muscles in hard to reach areas
 
 For more details, please visit [http://www.tigerbalm.com/sg/range/20](http://www.tigerbalm.com/sg/range/20).
 
@@ -133,35 +134,3 @@ GIVE is Singapore's leading online charity fundraising platform that allows peop
 To learn more, visit [www.giveasia.org](https://www.giveasia.org).
 
 ---
-
-**For media enquiries, please contact:**<br>
-
-Munirah Razak<br>
-Fulford PR<br>
-DID: 6324 2284 <br>
-Mob: 9137 4157 <br>
-Email:[mrazak@fulfordpr.com](mailto:mrazak@fulfordpr.com)
-
-Abraham Christopher<br>
-Fulford PR<br>
-DID: 6327 6177<br>
-Mob: 9127 3751<br>
-Email: [achristopher@fulfordpr.com](mailto:achristopher@fulfordpr.com)
-
----
-
-**About the Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About Standard Chartered Bank in Singapore**<br>
-Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
-
-It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
-
-Standard Chartered has a history of more than 150 years in Singapore, opening its first branch here in 1859 and in October 1999 was among the first international banks to receive a Qualifying Full Bank (QFB) licence, an endorsement of the Group's long-standing commitment to its businesses in the country.
-
-It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
-
-The Bank employs over 7,600 people in Singapore and has a network of 19 branches, 31 ATMs, and 7 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
