@@ -5,17 +5,18 @@ date: 2014-02-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Thousands Joined The Singapore 2015 Launch Party**
 
 ![SEA_Games_Launch_Party](/images/Media%20Centre/Media%20Release/2014/February/800_SEA_Games_Launch_Party.jpeg)
 
-Team Singapore athletes, dignitaries from the SEA Games Federation & ASEAN Para Sports Federation, sport volunteers, and members of the public were treated to an evening of sports and musical extravaganza to mark the beginning of the 28th SEA Games and 8th ASEAN Para Games journey.
+Team Singapore athletes, dignitaries from the SEA Games Federation &amp; ASEAN Para Sports Federation, sport volunteers, and members of the public were treated to an evening of sports and musical extravaganza to mark the beginning of the 28th SEA Games and 8th ASEAN Para Games journey.
 
 2. President Tony Tan Keng Yam and Chairman of the Singapore Southeast Asian Games (SINGSOC) Steering Committee, Mr Lawrence Wong, unveiled the official logos for both Games through a special launch mechanism by Team Singapore athletes at 8:15pm, or 2015 hrs. The Games tagline “Celebrate the Extraordinary” was also introduced. It encapsulates the celebration of the human spirit and the call for everyone to share their own experience in overcoming challenges.
 
 ![Launch of the official Logos with President Tony Tan](/images/Media%20Centre/Media%20Release/2014/February/600_Launch%20of%20the%20official%20Logos%20with%20President%20Tony%20Tan.jpeg)
-*Caption: Guest-of-Honour President Tony Tan Keng Yam, , Mr Lawrence Wong, Chairman of Steering Committee SINGSOC, Mr Sam Tan Senior Parliamentary Secretary of MFA and MCCY, A/P Mohan Menon Chairman of Singapore National Paralympic Council, Mr Tan Eng Liang, VP of Singapore National Olympic Council launched the official logos, mascot and theme of the 28th SEA Games & 8th ASEAN Para Games*
+*Caption: Guest-of-Honour President Tony Tan Keng Yam, , Mr Lawrence Wong, Chairman of Steering Committee SINGSOC, Mr Sam Tan Senior Parliamentary Secretary of MFA and MCCY, A/P Mohan Menon Chairman of Singapore National Paralympic Council, Mr Tan Eng Liang, VP of Singapore National Olympic Council launched the official logos, mascot and theme of the 28th SEA Games &amp; 8th ASEAN Para Games*
 
 3. The event which took place at Gardens by the Bay, The Meadow, from 5:30pm till 11pm, involved Team Singapore athletes and their supporters who came together to be part of the celebrations in a welcome-back party from the 1st Special Olympics Asia Pacific Games in Australia, 27th SEA Games and 7th ASEAN Para Games in Myanmar.
 
@@ -29,10 +30,10 @@ Team Singapore athletes, dignitaries from the SEA Games Federation & ASEAN Para 
 ![Members of Public signing up to be volunteers for the SEA Games](/images/Media%20Centre/Media%20Release/2014/February/600_Members%20of%20Public%20signing%20up%20to%20be%20volunteers%20for%20the%20SEA%20Games.jpeg)
 _Caption: Members of public signing up to be a volunteer for the 28th SEA Games_
 
-6. Nila, a familiar face to the Singapore sporting scene was also introduced as the mascot for the 28th SEA Games & 8th ASEAN Para Games. Nila was first introduced as the Singapore National Games mascot in 2012, and subsequently expanded his role into the mascot for Sporting Singapore. Nila is back, trimmer and fitter, and equipped with a brand new wardrobe. He is all set to ignite the passion of fans at the Games!
+6. Nila, a familiar face to the Singapore sporting scene was also introduced as the mascot for the 28th SEA Games &amp; 8th ASEAN Para Games. Nila was first introduced as the Singapore National Games mascot in 2012, and subsequently expanded his role into the mascot for Sporting Singapore. Nila is back, trimmer and fitter, and equipped with a brand new wardrobe. He is all set to ignite the passion of fans at the Games!
 
 ![Athletes powering up to the launch of the official logos](/images/Media%20Centre/Media%20Release/2014/February/300_Athletes%20powering%20up%20to%20the%20launch%20of%20the%20official%20logos.jpeg)
-_Caption: Nila the official mascot of the 28th SEA Games & 8th ASEAN Para Games at Singapore 2015 Launch Party_
+_Caption: Nila the official mascot of the 28th SEA Games &amp; 8th ASEAN Para Games at Singapore 2015 Launch Party_
 
 7. Original compositions from local artistes under the guidance of Music Director, Dr Sydney Tan to the theme of the Games, were also performed at the event:
 
@@ -66,34 +67,3 @@ Please credit photos to Singapore Sports Council.
 [Speech By Mr Lawrence Wong, Acting Minister For Culture, Community And Youth, And Senior Minister Of State For Communications And Information, At The Singapore 2015 Launch Party](/media-centre/speeches/the-singapore-2015-launch-party/)
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Rachel Ang<br>
-Senior Executive, Media Relations<br>
-Singapore Sports Council<br>
-Tel: (65) 6500 5246<br>
-HP: (65) 9729 3700<br>
-Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
-
-S. Parameswaran<br>
-Assistant Director, Media Relations<br>
-Singapore Sports Council<br>
-Tel: (65) 6500 5236<br>
-HP: (65) 9839 1974<br>
-Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About Singapore National Olympic Council (SNOC)**<br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [Singapore National Olympic Council](http://www.snoc.org.sg).
-
-Follow us on:<br>
-[28th SEA Games Website](http://www.seagames2015.com)<br>
-[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
-[8th ASEAN Para Games Facebook Page](http://www.facebook.com/ASEANPARAGAMES2015)
