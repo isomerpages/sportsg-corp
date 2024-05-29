@@ -5,6 +5,7 @@ date: 2013-05-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **28th SEA Games To Open On 5th Jun 2015 In Singapore**
 
@@ -40,11 +41,11 @@ image: ""
 
 **Opportunities for Local Businesses**
 
-13. SINGSOC will commence the tender process for various services, such as Information, Communication & Technology (ICT), accommodation, catering, logistics and transport, among others in the coming months. Given the unique branding of SEA Games, organisers believe that there will be good opportunities for sponsorships and partnerships with Corporate Singapore. This will provide opportunities for local businesses to contribute towards the success of the games and be a part of the celebrations.
+13. SINGSOC will commence the tender process for various services, such as Information, Communication &amp; Technology (ICT), accommodation, catering, logistics and transport, among others in the coming months. Given the unique branding of SEA Games, organisers believe that there will be good opportunities for sponsorships and partnerships with Corporate Singapore. This will provide opportunities for local businesses to contribute towards the success of the games and be a part of the celebrations.
 
 **Advisory Sub-Committees**
 
-14. SINGSOC also announced the formation of three Advisory Sub-Committees (See Annex A) to map out critical areas in the lead up to the games. They are Community Engagement & Outreach, headed by Mr Stanley Tan; National Olympic Committees & Sport, headed by Dr Tan Eng Liang and, Sponsorship & Marketing, headed by Mr Richard Seow. These sub-committees will play a critical role in advising SINGSOC on
+14. SINGSOC also announced the formation of three Advisory Sub-Committees (See Annex A) to map out critical areas in the lead up to the games. They are Community Engagement &amp; Outreach, headed by Mr Stanley Tan; National Olympic Committees &amp; Sport, headed by Dr Tan Eng Liang and, Sponsorship &amp; Marketing, headed by Mr Richard Seow. These sub-committees will play a critical role in advising SINGSOC on
 activating and forging strong partnerships with various public and people sector groups, such as community/social clubs, grassroots organisations, volunteer groups, schools and business associations the requirements of the SEA Games Federation, the NOCs of Southeast Asia and local National Sports Associations together with the Singapore National Olympic Council (SNOC)
 creating opportunities for corporate sponsorship as well as enhancing and promoting the 28th SEA Games brand
 
@@ -61,27 +62,3 @@ Follow the 28th SEA Games Singapore 2015 on Facebook at www.facebook.com/SEAGAME
 ![](/images/Media%20Centre/Media%20Release/2013/May/28thSEAGAMESTOOPENON5JUNE2015INSINGAPOREMainPar0049Imagegif.gif)
 
 ---
-
-**For media enquiries, please contact:**
-
-Siti Nurhidayati
-<br>Senior Executive, Media Relations
-<br>Corporate Communications & Relations
-<br>Tel: +65 6500 5246
-<br>Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
-
-S. Parameswaran 
-<br>Assistant Director, Media Relations 
-<br>Corporate Communications & Relations
-<br>Tel: +65 6500 5236
-<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About the Singapore National Olympic Council**<br>
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
