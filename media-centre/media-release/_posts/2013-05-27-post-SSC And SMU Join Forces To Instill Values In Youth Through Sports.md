@@ -5,6 +5,7 @@ date: 2013-05-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SSC And SMU Join Forces To Instill Values In Youth Through Sports**
 
@@ -52,23 +53,6 @@ LifeLessons to develop life-long skills and attitudes
 18. SMU LifeLessons is values-based, and goes beyond sports and values. That is, the programme seeks to develop the sensitivity and sensibility around values being the under-pinning force of our decisions and choices. Soft skills such as people management, motivating teams and managing conflict, event organisation will also be taught against the backdrop of values.
 
 19. The programme will be opened to the first year students (incoming cohort) in year 2013 (AY2013/2014) and rolled-out in phases.
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-Bridgitte Lee
-<br>Senior Executive, Media Relations
-<br>Singapore Sports Council
-<br>Tel: +65 6500 5249
-<br>Email: [bridgitte_lee@ssc.gov.sg](mailto:bridgitte_lee@ssc.gov.sg)
-
-Kong Hwee Ting
-<br>Senior Manager, Corporate Communications
-<br>Singapore Management University
-<br>Tel: +65 6808 5238
-<br>Email: [htkong@smu.edu.sg](mailto:htkong@smu.edu.sg)
 
 ---
 
@@ -173,14 +157,3 @@ A descriptive assessment in the form of active participation, demonstration of r
 
 ---
  
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About the Singapore Management University**<br>
-A premier university in Asia, the Singapore Management University (SMU) is internationally recognised for its world class research and distinguished teaching. Established in 2000, SMU's mission is to generate leading edge research with global impact and produce broad-based, creative and entrepreneurial leaders for the knowledge-based economy. It is known for its interactive and technologically-enabled pedagogy of seminar-style teaching in small class sizes.
-
-Home to about 8,000 students, SMU comprises six schools: School of Accountancy, Lee Kong Chian School of Business, School of Economics, School of Information Systems, School of Law and School of Social Sciences, offering a wide range of bachelor's, master's and PhD degree programmes in various disciplines.
-
-With an emphasis on generating rigorous, high impact cross-disciplinary research that addresses Asian issues of global relevance, SMU faculty collaborates with leading foreign researchers as well as partners in the business community and public sector through its research institutes and centres.

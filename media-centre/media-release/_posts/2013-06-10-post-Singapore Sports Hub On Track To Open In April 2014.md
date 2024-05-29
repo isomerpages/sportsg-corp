@@ -5,6 +5,7 @@ date: 2013-06-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Sports Hub On Track To Open In April 2014**
 
@@ -35,44 +36,3 @@ image: ""
 10. The construction project is also expected to reach various notable milestones this year. These include the completion of both the fixed and retractable roofs of the National Stadium, along with some key milestones for some of the community facilities as well.
 
 ---
-
-**For media enquiries, please contact:**<br>
-Sam Eatwell
-<br>Communications Manager
-<br>SportsHub Pte. Ltd.
-<br>DID: +65 6340 9233
-<br>Mobile: +65 9397 5288
-<br>Email:[ sam.eatwell@sportshub.com.sg]( mailto:sam.eatwell@sportshub.com.sg)
-
----
-
-**About Singapore Sports Hub**<br>
-The Singapore Sports Hub will be Singapore's premier sports, entertainment and lifestyle hub with integrated community programming.
-
-Consisting of a unique cluster development of integrated world-class sports facilities within the city, it will play a critical role in accelerating the development of sports industry, excellence and participation, and will take sports to the next level in Singapore.
-
-Located on a 35-hectare site in Kallang, the Singapore Sports Hub will include the following facilities:
-* A new 55,000-capacity National Stadium with a retractable roof
-* A 6,000-capacity indoor Aquatic Centre that meets world tournament standards
-* A 3,000-capacity Multi-Purpose Indoor Arena which will be scalable and flexible in layout
-* A Water Sports Centre featuring dragon boating, kayaking, and canoeing
-* 41,000 sq m Retail & Waterfront
-* The iconic Singapore Indoor Stadium
-* Sports Museum
-* Sports Library
-* Daily community facilities and activities open for Singaporeans, including beach volleyball, hard courts for basketball, lawn bowls, skate park, climbing wall and running/cycling circuit
-* The Singapore Sports Hub, which is managed by SportsHub Pte. Ltd., is one of the largest sports facilities infrastructure Public-Private Partnership (PPP) project in the world. It is also Singapore's largest flagship PPP project of this nature, and won the PFI award in London in 2011. The Singapore Sports Hub will open its doors in April 2014.
-
-For more information, please visit the Singapore Sports Hub website: [www.sportshub.com.sg](https://www.sportshub.com.sg)
-
-The Public-Private Partnership includes:
-
-![](/images/Media%20Centre/Media%20Release/2013/June/SINGAPORESPORTSHUBONTRACKTOOPENINAPRIL2014MainPar0046Imagegif.gif)
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About Dragages Singapore**<br>
-An engineering and construction company active in Singapore since 1984, member of Bouygues Construction group. Dragages is responsible for the design and construction of the venues and an equity partner of SportsHub Pte. Ltd.

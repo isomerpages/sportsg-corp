@@ -5,6 +5,7 @@ date: 2013-07-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Two-Year Ban For Silat Exponent Saiedah Said Upheld**
 
@@ -25,20 +26,3 @@ image: ""
 8. Under the ADS Anti-Doping rules, results management and appeals process, which are consistent with the World Anti-Doping Agency (WADA) Code, Singapore Silat Federation is required to enforce the sanctions on Saiedah immediately.
 
 ---
-
-**For media enquiries, please contact:**<br>
-Eric Ong
-<br>Manager, Media Relations
-<br>Singapore Sports Council
-<br>Tel: +65 6500 5014
-<br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
-
----
-
-**About the Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About Anti-Doping Singapore**<br>
-As the National Anti-Doping Organisation for Singapore, Anti-Doping Singapore (ADS) was formed on 15 March 2010 to promote a sporting environment in Singapore that is free of doping. ADS is responsible for all anti-doping strategies in Singapore, including planning and conducting doping control tests, accrediting doping control officers, identifying possible anti-doping rule violations and anti-doping education. Integral to this, ADS works closely with relevant Government agencies on various anti-doping initiatives, as well as the Singapore National Olympic Council and the National Sports Associations in Singapore to ensure they comply with the World Anti- Doping Code through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules.

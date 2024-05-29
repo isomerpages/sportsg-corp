@@ -5,6 +5,7 @@ date: 2014-02-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Team Singapore Athletes Inspire 41SAR Battalion**
 
@@ -23,17 +24,3 @@ Team Singapore athletes visited the 41st Battalion, Singapore Armoured Regiment 
 5\. Other activities for the morning included demonstration of Floorball, sports clinics by judo-ka Ho Han Boon, Gary Chow and Timothy Loh, Silat practitioners Muhammadd Iqbal Abdul Rahman and Muhammad Nur Alfian Juma’en, Boccia players, Neo Kah Whye, and paralympian Nurulasyiqah Bte Mohammad Taha.
 
 ---
-
-**For media enquiries, please contact:**
-<br>
-Rachel Ang<br>
-Senior Executive, Media Relations<br>
-Singapore Sports Council<br>
-Tel: (65) 6500 5246<br>
-HP: (65) 9729 3700<br>
-Email:[rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)

@@ -328,17 +328,3 @@ Be a role model for the youths of Singapore
 <br>Triathlete and Advocate for Corporate Sports
 
 ---
-
-**For media enquiries, please contact:**<br>
-Eric Ong
-<br>Manager, Media Relations
-<br>Singapore Sports Council
-<br>Tel: (65) 6500 5014
-<br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)

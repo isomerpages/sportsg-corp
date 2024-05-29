@@ -5,6 +5,7 @@ date: 2013-06-12
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Update On Changi Motorsports Hub Project**
 
@@ -16,26 +17,10 @@ image: ""
 
 4. In July 2012, SSC conducted a seven-month long international and local market sounding and RFI exercise. A four-month market sounding exercise assessed the level of continued interest by potential investors and possible motorsports and sports and lifestyle concepts for the 41-hectare site in Changi. This was then followed by the RFI, which took place from November 2012 till January 2013, and whole-of-government deliberations that took slightly more than four months.
 
-5. During the RFI, the SSC had received seven proposals from six consortia, the majority of which were motorsports-related. The proposed motorsports ideas included a FIA grade 2 or 3 circuit, CIK graded karting circuit, racing academy, drag strip and bonded warehousing, while non motorsports-related ideas included a theme park and watersports marina. Common ideas cutting across the majority of the proposals include retail and F&B.
+5. During the RFI, the SSC had received seven proposals from six consortia, the majority of which were motorsports-related. The proposed motorsports ideas included a FIA grade 2 or 3 circuit, CIK graded karting circuit, racing academy, drag strip and bonded warehousing, while non motorsports-related ideas included a theme park and watersports marina. Common ideas cutting across the majority of the proposals include retail and F&amp;B.
 
 6.  Following the decision not to re-tender, SSC will proceed to reinstate the land and work with the authorities on the feasibility of early handover of the land back to the authorities for alternative uses.
 
 7. Added Lim: "While we work towards handing the site back to the authorities, SSC is also actively working with the relevant agencies on possible interim uses for the site for motorsports-related activities such as karting for the community."
 
 ---
-
-**For media enquiries, please contact:**<br>
-Alvin Hang 
-<br>
-Director, Corporate Communications & Relations
-<br>
-Singapore Sports Council
-<br>
-Email: [alvin_hang@ssc.gov.sg](mailto:alvin_hang@ssc.gov.sg)
-
----
-
-**About the Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
