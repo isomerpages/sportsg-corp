@@ -5,6 +5,7 @@ date: 2013-08-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Shaifulhaq Ahmad Ishak Guilty Of Violating Terms Of Sanction**
 
@@ -31,19 +32,3 @@ image: ""
 \*Under Anti-Doping Singapore's (ADS) Anti-Doping Rules, the National Anti-Doping Disciplinary Committee (NADC) decides on the sanctions on athletes who have violated the doping rules and regulations. The respective NSAs must implement the sanctions accordingly. All athletes were given a period to appeal to the National Anti-Doping Appeals Committee (NAAC) following NADC's decision. After this period, no one, including the ADS and the NSAs, has the right to lift the ban.
 
 ---
-
-**For media enquiries, please contact:**<br>
-Eric Ong
-<br>Manager, Media Relations
-<br>Singapore Sports Council
-<br>Email: [eric_ong@ssc.gov.sg](mailto:eric_ong@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-**About Anti-Doping Singapore**<br>
-As the National Anti-Doping Organisation for Singapore, Anti-Doping Singapore (ADS) was formed on 15 March 2010 to promote a sporting environment in Singapore that is free of doping. ADS is responsible for all anti-doping strategies in Singapore, including planning and conducting doping control tests, accrediting doping control officers, identifying possible anti-doping rule violations and anti-doping education. Integral to this, ADS works closely with relevant Government agencies on various anti-doping initiatives, as well as the Singapore National Olympic Council and the National Sports Associations in Singapore to ensure they comply with the World Anti-Doping Code through the implementation of the Anti-Doping Policy of Singapore and the ADS Anti-Doping Rules.
