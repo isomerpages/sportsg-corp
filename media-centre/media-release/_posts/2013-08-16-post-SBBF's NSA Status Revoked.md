@@ -5,6 +5,7 @@ date: 2013-08-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SBBF's NSA Status Revoked**
 
@@ -21,17 +22,3 @@ image: ""
 6. "The leadership of SBBF has consistently shown its inability to lead the sport of bodybuilding - morally and operationally. The blatant doping violations and administrative incompetence has caused fragmentation within the bodybuilding fraternity. This decision is made to start to restore credibility and to rebuild the sport of bodybuilding," said Bob Gambardella, Chief of Sports Development Group, SSC.
 
 ---
-
-**For media enquiries, please contact:**<br>
-S. Parameswaran
-<br>Assistant Director
-<br>Singapore Sports Council
-<br>Tel: +65 6500 5236
-<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
