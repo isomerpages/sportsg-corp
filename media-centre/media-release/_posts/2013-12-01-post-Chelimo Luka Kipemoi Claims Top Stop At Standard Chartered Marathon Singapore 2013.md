@@ -6,6 +6,7 @@ date: 2013-12-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Chelimo Luka Kipemoi Claims Top Stop At Standard Chartered Marathon Singapore 2013**
 
@@ -43,45 +44,3 @@ _Sharon Cherop Wins Women's Open By A Split Second_
 15. "We are thrilled with today's event and the general feedback thus far has been overwhelmingly positive. The weather gods also did us a favour and provided some more comfortable temperatures for runners," said Mr Chris Robb, Managing Director, Spectrum Worldwide. After months of planning, it was fantastic to see all the hard work come to fruition and to witness the thousands of smiling faces as they crossed the finish line," Robb added.
 
 ---
-
-**For media enquiries, please contact:**
-
-Munirah Razak
-<br>Fulford PR
-<br>DID: 6324 2284 
-<br>Mob: 9137 4157 
-<br>Email: mrazak@fulfordpr.com
-
-Abraham Christopher
-<br>Fulford PR
-<br>DID: 6327 6177
-<br>Mob: 9127 3751
-<br>Email: achristopher@fulfordpr.com
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [sportsingapore.gov.sg](https://www.sportsingapore.gov.sg). <br>Follow us on Facebook and Flickr at: [facebook.com/livebetterthroughsport](https://www.facebook.com/livebetterthroughsport) and [flickr.com/ssc-sportsphotography](https://wwww.flickr.com/ssc-sportsphotography)
-
-
-**About Standard Chartered Bank in Singapore**<br>
-Standard Chartered in Singapore is part of an international banking group with an extensive network of over 1,700 branches and outlets in more than 70 countries in the Asia Pacific Region, South Asia, the Middle East, Africa, the United Kingdom and the Americas.
-
-It is committed to building a sustainable business over the long term and is trusted worldwide for upholding high standards of corporate governance, social responsibility, environmental protection and employee diversity. The Bank's heritage and values are expressed in its brand promise, 'Here for good'.
-
-Standard Chartered has a history of more than 150 years in Singapore, opening its first branch here in 1859 and in October 1999 was among the first international banks to receive a Qualifying Full Bank (QFB) licence, an endorsement of the Group's long-standing commitment to its businesses in the country.
-
-It serves both Consumer and Wholesale Banking customers. Consumer Banking provides credit cards, personal loans, mortgages, deposit taking and wealth management services to individuals and small to medium sized enterprises. Wholesale Banking provides corporate and institutional clients with services in trade finance, cash management, lending, securities services, foreign exchange, debt capital markets and corporate finance.
-
-The Bank employs over 7,600 people in Singapore and has a network of 19 branches, 31 ATMs, and 7 Priority Banking centres. Standard Chartered is the only international bank to offer NETS service, giving its customers access to EFTPOS at over 17,000 outlets islandwide. The Bank's global businesses - Consumer and Wholesale Banking - are managed out of Singapore, as is its global Technology & Operations function.
-
-**About Spectrum Worldwide**<br>
-Spectrum Worldwide is a leading event management and experiential marketing company operating throughout the Asia Pacific region. For more than 20 years, Spectrum Worldwide has created and managed tailored experiences that not only bring to life our clients' brands, but also provide opportunities for companies to showcase their core values in a memorable and compelling way.
-
-Through long-standing partnerships with multi-national companies throughout the region, Spectrum Worldwide has consistently delivered groundbreaking, iconic events including OCBC Cycle Singapore and OCBC Cycle Malaysia, the Standard Chartered Marathon, Red Bull Flugtag Singapore, and the Singapore Red Bull Speed Street Singapore and KL. Spectrum is also expanding its footprint across the region and cementing its foothold in the cycling market following the launch of Cycle Asia, a network of premier cycling events across Asia.
-
-Spectrum's approach centres on understanding clients' needs, and designing and delivering the best event solutions based on our years of experience.
-
-For more information, go to: [www.sww.com.sg](https://www.sww.com.sg)
