@@ -48,6 +48,10 @@ Module</p>
 Science (Top-Up) offered in partnership with PSB Academy</p>
 </li>
 <li>
+<p>Edith Cowan University, Bachelor of Science (Exercise and Sports Science)
+offered in partnership with PSB Academy</p>
+</li>
+<li>
 <p>PSB Academy's Diploma in Sport and Exercise Sciences</p>
 </li>
 <li>
