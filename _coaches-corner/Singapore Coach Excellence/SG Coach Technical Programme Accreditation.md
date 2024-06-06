@@ -332,9 +332,10 @@ Canoe Sprint</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Full Integration</p>
+<p>(from June 2022)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Full Integration (from June 2023)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
