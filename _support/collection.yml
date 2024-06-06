@@ -2,6 +2,7 @@ collections:
   support:
     output: true
     order:
+      - Industry Development/Overview.md
       - Industry Development/.keep
       - Overview.md
       - ActiveSG Programme Partnership/.keep
