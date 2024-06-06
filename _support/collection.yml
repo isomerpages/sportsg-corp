@@ -2,10 +2,10 @@ collections:
   support:
     output: true
     order:
-      - Industry Development/Support & Grants.md
       - Industry Development/.keep
       - Industry Development/Overview.md
       - Industry Development/Spotlight.md
+      - Industry Development/Support & Grants.md
       - Overview.md
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/ActiveSG Programme Partnership.md
