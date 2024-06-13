@@ -50,3 +50,6 @@ is on:</p>
 <p>Time: 2.30pm - 3.00pm</p>
 <p>Click <a href="http://go.gov.sg/innogrant-inforeg" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 register to the session.</p>
+<p></p>
+<p>For enquiries, you may reach out to us at <a href="mailto:innogrant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">innogrant@sport.gov.sg</a>.</p>
+<p>Already have an innovative idea? Apply for the InnoGrant <a href="https://go.gov.sg/innogrant-appln" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
