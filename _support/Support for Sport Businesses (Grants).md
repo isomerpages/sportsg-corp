@@ -43,5 +43,10 @@ engine(s) for sport and fitness industry</p>
 <p>Gamification and Active Virtual Sport Technology</p>
 </li>
 </ul>
-<p>More details coming soon, stay tuned for updates. For inquiries, you may
-reach out to us at innogrant@sport.gov.sg.</p>
+<p></p>
+<p>Want to find out more? Our upcoming InnoGrant Virtual Information Session
+is on:</p>
+<p>Date: 20 June 2024</p>
+<p>Time: 2.30pm - 3.00pm</p>
+<p>Click <a href="http://go.gov.sg/innogrant-inforeg" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+register to the session.</p>
