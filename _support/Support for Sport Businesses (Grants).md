@@ -47,7 +47,7 @@ engine(s) for sport and fitness industry</p>
 <p>Want to find out more? Our upcoming InnoGrant Virtual Information Session
 is on:</p>
 <p>Date: 20 June 2024</p>
-<p>Time: 2.30pm - 3.00pm</p>
+<p>Time: 2.30pm - 3.30pm</p>
 <p>Click <a href="http://go.gov.sg/innogrant-inforeg" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 register to the session.</p>
 <p></p>
