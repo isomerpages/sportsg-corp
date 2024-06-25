@@ -3,6 +3,7 @@ title: SG Coach Level 1 Theory Programme
 permalink: /coaches-corner/singapore-coach-excellence/sg-coach-level-1-theory-programme/
 description: ""
 third_nav_title: Singapore Coach Excellence
+variant: markdown
 ---
 The SG-Coach Programme aims to prepare aspiring coaches with the knowledge and skills of 'how to coach' and guide one to understand 'why you coach' through the introduction of values education and principles in sport within the local ecosystem. The course contents include theories which are supported by evidence-based research and practical approaches for coaches to apply their learning on the field.
 
@@ -19,7 +20,7 @@ This curriculum is designed for learners taking the blended SG-Coach Theory Leve
 
 **Course Information and Registration**
 
-For more information OR to register your interest, please visit [https://www.rp.edu.sg/ace/short-course](https://www.rp.edu.sg/ace/short-course). You may also email at [ace@rp.edu.sg](mailto:ace@rp.edu.sg).
+For more information OR to register your interest, please visit (https://stms.polite.edu.sg/student/ihlcourse/detail/91359a11-c4ff-4d20-ba4b-bb87f36f30c4). You may also email at [ace@rp.edu.sg](mailto:ace@rp.edu.sg).
 
 **SG-Coach Level 1 Theory Waiver / Accreditation**
 
