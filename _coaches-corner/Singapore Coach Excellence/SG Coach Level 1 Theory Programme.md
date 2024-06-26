@@ -20,7 +20,7 @@ This curriculum is designed for learners taking the blended SG-Coach Theory Leve
 
 **Course Information and Registration**
 
-For more information OR to register your interest, please visit (https://stms.polite.edu.sg/student/ihlcourse/detail/91359a11-c4ff-4d20-ba4b-bb87f36f30c4). You may also email at [ace@rp.edu.sg](mailto:ace@rp.edu.sg).
+For more information OR to register your interest, please visit [SG-Coach Theory Level 1 course webpage] (https://stms.polite.edu.sg/student/ihlcourse/detail/91359a11-c4ff-4d20-ba4b-bb87f36f30c4). You may also email at [ace@rp.edu.sg](mailto:ace@rp.edu.sg).
 
 **SG-Coach Level 1 Theory Waiver / Accreditation**
 
