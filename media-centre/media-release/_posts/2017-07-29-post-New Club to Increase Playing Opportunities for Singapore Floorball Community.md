@@ -5,6 +5,7 @@ date: 2017-07-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **New Club to Increase Playing Opportunities For Singapore Floorball Community**  
    
@@ -32,5 +33,4 @@ While the ActiveSG Floorball Club will provide facility support to drive the ope
    
 Mr Kenneth Ho, President of the Singapore Floorball Association said, “Our partnership with the ActiveSG Floorball Club will help us build on the strong foundations that are already set in place and gradually expose more people to Floorball. With more opportunities for Singaporeans to learn, play and develop  
 their passion for the sport, we hope to amass not just a pool of players that can rival Asia’s best in the near future; but also a spectatorship that can match the other popular sports in the country.”  
-   
-To find out more or register for your interest for the programme, you can visit [ActiveSG Floorball Club](http://myactivesg.com/academy/floorball).
+  
