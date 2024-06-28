@@ -6,6 +6,7 @@ date: 2020-03-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Considering its patrons’ safety and wellbeing, SportSG enhances precautionary measures**
 
@@ -46,7 +47,7 @@ SportSG has advised all partners, including National Sport Associations to adher
 
 **Exercise personal hygiene and social responsibility**
 
-Members of the public are encouraged to stay healthy while observing good personal hygiene and socially responsible practices. They may take reference from [SG Clean](https://www.gov.sg/article/sg-clean). During this time, Singaporeans must join efforts to overcome the challenges arising from COVID-19 and work together to keep our families and each other safe.
+Members of the public are encouraged to stay healthy while observing good personal hygiene and socially responsible practices. They may take reference from SG Clean. During this time, Singaporeans must join efforts to overcome the challenges arising from COVID-19 and work together to keep our families and each other safe.
 
 Members of the public may do simple exercises at home to keep themselves in shape, referring to videos developed by SportSG at [http://bit.ly/2wZvDUs](http://bit.ly/2wZvDUs) and [http://bit.ly/2IJXD1c](http://bit.ly/2IJXD1c)<br>
 https://youtu.be/H_hhpCrDNuc?fbclid=IwAR0CMpSs1Exga2aF-mpn9F2kz5O_iRbh-upQS-khoCcEqZ7vXdK80JifZQg
