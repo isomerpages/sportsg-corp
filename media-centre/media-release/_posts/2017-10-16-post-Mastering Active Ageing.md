@@ -5,6 +5,7 @@ date: 2017-10-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Mastering Active Ageing**
 ![](/images/Media%20Centre/Media%20Release/2017/October/Participants%20taking%20part%20in%20a%20Pound%20workout%203Photo%20Credit%20to%20Reuters.jpeg)
@@ -35,4 +36,4 @@ The ActiveSG Masters Club enriches the lives of their participants by offering t
 
 Mr Lai Chin Kwang, Chief, ActiveSG said, “When you get older, you bring with you a wealth of experience that the younger generation can learn much from. Through the club, we hope to develop role models out of our Masters and give them an outlet where they will be able to pass down their knowledge and celebrate living with the younger generation.”
 
-To join or find out more about the ActiveSG Masters Club’s programmes, visit [ActiveSG Masters Club](http://www.myactivesg.com/academy/masters). To volunteer or find out about upcoming volunteer opportunities, visit [Volunteers.sg](http://www.volunteers.sg/). Members of public can also head down to their nearest sport centre to speak to the guest officers for more information.
+To join or find out more about the ActiveSG Masters Club’s programmes, visit ActiveSG Masters Club. To volunteer or find out about upcoming volunteer opportunities, visit Volunteers.sg. Members of public can also head down to their nearest sport centre to speak to the guest officers for more information.
