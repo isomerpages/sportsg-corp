@@ -29,7 +29,7 @@ All six teams will be in action on Sunday, 24 September, for the classification 
 
 The venue for all 9 games is the Singapore Indoor Stadium at Singapore Sports Hub.
 
-Tickets for the FIBA Intercontinental Cup 2023 games go on sale on July 19 and ticket prices start from $10. Fans can register their interest on the [Singapore Sports Hub website](https://www.sportshub.com.sg/events/fiba-intercontinental-cup-singapore-2023) from June 20.
+Tickets for the FIBA Intercontinental Cup 2023 games go on sale on July 19 and ticket prices start from $10. Fans can register their interest on the Singapore Sports Hub website from June 20.
 
 The Intercontinental Cup has included four teams in four of the last five years - only BCL champions San Pablo Burgos and BCLA winners Quimsa participated in 2021 - but the field has expanded to six teams for 2023, the most since eight clubs were in the field in 1987.
 
