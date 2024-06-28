@@ -28,7 +28,7 @@ The GASG Workout 2021 aims to reach out, engage and uplift the community. This y
 Kiddolympics 2021 is a campaign open to all preschools and families to participate. Registered preschools and families will gain access to themed challenge activity resources, which will equip educators and parents with useful knowledge, to engage the pre-schoolers with exciting Fundamental Movement Skills activities infused with modified sport elements. The finale, which will take place on 5 Aug 2021 via a virtual platform, will begin with the National Day Observance Ceremony, Kiddolympics torch relay, GASG 2021 Workout – Dance of the Nation, and conclude with the grand finale activities.
 
 **Seniors’ Sports Day (Inaugural)**<br>
-Seniors’ Sports Day, for those aged 40 years and above (for masters and seniors), will see the community coming together to pledge to achieve 56,000 minutes of physical activity. More than 20,000 minutes and counting, let us keep the spirit up and rally on! All masters and seniors are welcome to join the National Day Observance Ceremony and perform the GASG Workout on 7 August 2021 from 9.00am to 10.00am. Online workshops for pickleball, qi gong and table tennis (TTX), will also be available. For more information, please visit: [https://circle.myactivesg.com/getactive2021/events/seniors-sport-day](https://circle.myactivesg.com/getactive2021/events/seniors-sport-day).
+Seniors’ Sports Day, for those aged 40 years and above (for masters and seniors), will see the community coming together to pledge to achieve 56,000 minutes of physical activity. More than 20,000 minutes and counting, let us keep the spirit up and rally on! All masters and seniors are welcome to join the National Day Observance Ceremony and perform the GASG Workout on 7 August 2021 from 9.00am to 10.00am. Online workshops for pickleball, qi gong and table tennis (TTX), will also be available. 
 
 **GameOn Nila**<br>
 Adventure seekers and nature lovers can participate in GASG through GameOn Nila, the in-app game within the ActiveSG app. Participants can redeem up to $5000 worth of prizes by completing tasks at selected nature discovery trails in Singapore including hiking at MacRitchie and East Coast parks, kayaking and cycling around the island.
@@ -39,21 +39,3 @@ All GASG participants are encouraged to share memorable sporting memories on soc
 
 **Get Behind Our Athletes**<br>
 As Singaporeans get up, and get active, and connect with one another, we recognise that this is a significant period, where 33 of our athletes will be striving to put Singapore on the most prestigious sporting pedestal – Tokyo Olympics 2020 and Tokyo Paralympics 2020. “Our Team Singapore athletes have shown much perseverance and resilience in taking on and overcoming the challenges of COVID-19, to represent us at the Olympics and Paralympics. Let us unite as one voice and one spirit to root for our athletes as a show of support and solidarity. This is made more special as it coincides with National Day and together, we can look forward to celebrating our nation’s birthday, in a meaningful manner,” added Mr Lim.
-
-**Information on Team Singapore athletes participating:**
-* Singapore National Olympic Council Instagram(@SGOlmypics) and Facebook Singapore National Olympic Council
-* [https://www.teamsingapore.sg/major-games/olympics/tokyo-2020/athletes](https://www.teamsingapore.sg/major-games/olympics/tokyo-2020/athletes)
-
-**Watch Team Singapore in action**
-* [https://www.mediacorp.sg/en/tokyo2020/#summary](https://www.mediacorp.sg/en/tokyo2020/#summary)
-* Singtel TV or Cast
-
-
-**Schedule of Team Singapore athletes competing**
-* Team Singapore Facebook
-* Team Singapore Instagram (@TeamSingapore)
-* [https://www.mediacorp.sg/en/tokyo2020/sg-schedule](https://www.mediacorp.sg/en/tokyo2020/sg-schedule)
-
-
-**Daily news and photo coverage of Team Singapore athletes at Tokyo**
-* Team Singapore Facebook and Instagram
