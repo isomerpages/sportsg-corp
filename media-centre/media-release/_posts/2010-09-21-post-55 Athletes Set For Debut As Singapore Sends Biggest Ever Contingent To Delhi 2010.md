@@ -6,6 +6,7 @@ date: 2010-09-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **55 Athletes Set For Debut As Singapore Sends Biggest Ever Contingent To Delhi 2010**
 
@@ -21,7 +22,7 @@ image: ""
 
 6. "The Commonwealth Games is an important facet of our sporting history. The story of Singapore's participation in the Commonwealth Games is a story of perseverance through ups and downs, in 14 editions of the Games so far. I am proud to state that over the last few editions, our progress has been on the up," said DPM Teo. "To all Team Singapore athletes going to Delhi, thank you for putting in the hard work. Do your best in the true spirit of sportsmanship, and continue to uphold the Team Singapore's values of pride, performance and perseverance. At all times keep the Singapore flag flying high."
 
-**Team Singapore athletes & debutants to show their prowess at the 19th Commonwealth Games Delhi 2010**
+**Team Singapore athletes &amp; debutants to show their prowess at the 19th Commonwealth Games Delhi 2010**
 
 7. For the very first time, Team Singapore is sending a representative - Gayle Esther Lee - to compete in the Synchronised Swimming event in the Commonwealth Games. Gayle, who is a student at Stanford University in California, had represented Singapore in the 13th FINA World Championships in July 2010 as well as the Japan and Swiss Open in 2007. "I love both swimming and artistic gymnastics, so I took up synchronised swimming as it's a combination of these two sports. It's a dream come true to represent Singapore for the first time in the Commonwealth Games and I am looking forward to competing against some of the world's finest synchronised swimmers."
 
@@ -49,9 +50,9 @@ image: ""
 
 DATE: 3-14 October 2010<br>
 VENUE: Delhi, India<br>
-WEBSITE: [www.thecgf.com/results/games/3046](https://www.thecgf.com/results/games/3046)
 
-NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
+
+NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports &amp; 4 Para-Sports
 
 | Event | Name | 
 | --- | --- | 
@@ -61,7 +62,7 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Aquatics - Swimming | 4-9 October 2010
 | Aquatics - Synchronised Swimming | 6-7 October 2010
 | Archery | 4-10 October 2010
-| Athletics - Track & Field | 6-12 October 2010
+| Athletics - Track &amp; Field | 6-12 October 2010
 | Athletics - Marathon | 14 October 2010
 | Athletics - Walk | 9 October 2010
 | Badminton | 4-14 October 2010
@@ -76,7 +77,7 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Rugby Sevens | 11-12 October 2010
 | Shooting - Clay Target | 6-13 October 2010
 | Shooting - Full Bore | 9-13 October 2010
-| Shooting - Pistol & Small Bore | 5-13 October 2010 <br>PARASPORTS
+| Shooting - Pistol &amp; Small Bore | 5-13 October 2010 <br>PARASPORTS
 | Shooting - Clay Target | 6-13 October 2010
 | Squash | 4-13 October 2010
 | Table Tennis | 4-114 October 2010
@@ -90,15 +91,15 @@ NO. OF SPORTS COMPETED AT CWG 2010: 17 Sports & 4 Para-Sports
 | Table Tennis | 10-14 October 2010
 | Powerlifting | 12 October 2010
 
-TOTAL NUMBER OF TEAM SINGAPORE ATHLETES & OFFICIALS:
+TOTAL NUMBER OF TEAM SINGAPORE ATHLETES &amp; OFFICIALS:
 <br>
-68 Athletes & 34 Officials
+68 Athletes &amp; 34 Officials
 <br>
 CHEF DE MISSION FOR TEAM SINGAPORE: Ms Annabel Pennefather
 <br>
 TEAM SINGAPORE FLAG BEARER: Feng Tian Wei (Table Tennis)
 
-TEAM SINGAPORE'S PARTICIPATION: 8 Sports & 3 Parasports
+TEAM SINGAPORE'S PARTICIPATION: 8 Sports &amp; 3 Parasports
 
 | Sport | Date | 
 | --- | --- | 
