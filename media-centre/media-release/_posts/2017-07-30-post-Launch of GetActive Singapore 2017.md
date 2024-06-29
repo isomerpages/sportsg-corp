@@ -5,6 +5,7 @@ date: 2017-07-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Launch of GetActive Singapore 2017**
 
@@ -39,7 +40,7 @@ Members of the public can also look out for Sports Festivals in their neighbourh
 <br>- Launch of GASG on 30 July
 * Singapore Sports Hub (5,6 Aug)
 <br>- Finale of GASG on 8 Aug
-* Sentosa Island (29 - 30 July & 5 -6 Aug)
+* Sentosa Island (29 - 30 July &amp; 5 -6 Aug)
 * Our Tampines Hub, (29 -30 July)
 * Field next to Punggol MRT (29 – 30 July)
 * Field next to Tampines MRT (29 – 30 July)
@@ -47,13 +48,12 @@ Members of the public can also look out for Sports Festivals in their neighbourh
 * Field next to Jurong East MRT (5 – 6 Aug)
 * Field next to Djitsun mall at Ang Mo Kio (5 – 6 Aug)
 
-For more information on the events, log on to [GetActive! Singapore Events](http://www.myactivesg.com/getactivesingapore/events).
 
-**Sports Competitions – National Youth, Corporate & Masters Games**
+**Sports Competitions – National Youth, Corporate &amp; Masters Games**
 
-As a prelude to the biennial Singapore National Games, this will be the very first National Youth, Corporate & Masters Games to be held during GetActive! Singapore 2017.
+As a prelude to the biennial Singapore National Games, this will be the very first National Youth, Corporate &amp; Masters Games to be held during GetActive! Singapore 2017.
 
-So far, this National Youth, Corporate & Masters Games has seen over 13,000 sign-ups, with over 3,000 sign-ups from corporates across 20 sports and 10 para sports.
+So far, this National Youth, Corporate &amp; Masters Games has seen over 13,000 sign-ups, with over 3,000 sign-ups from corporates across 20 sports and 10 para sports.
 
 | S/N | Sport            | S/N | Sport             |
 | --- | ---------------- | --- | ----------------- |
