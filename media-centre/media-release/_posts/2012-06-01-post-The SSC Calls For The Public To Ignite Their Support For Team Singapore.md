@@ -91,7 +91,7 @@ submit their well-wishes for their favourite athletes. The contest will
 close on 30th June 2012.</p>
 <p>13. Two winners will be picked from the well-wishes collected from the
 well-wishing boxes islandwide at McDonald's, NLBs, ITEs and Velocity; and
-one winner will be chosen from the well-wishing mobile portal at <a href="https://www.supporteamsingapore.sg" rel="noopener noreferrer nofollow" target="_blank">www.supporteamsingapore.sg</a>.</p>
+one winner will be chosen from the well-wishing mobile portal.</p>
 <p>14. The 2012 Olympic Games will be held in London, from 27 July to 12
 August 2012 and the 2012 Paralympic Games will take place between 29 August
 and 9 September 2012.</p>
