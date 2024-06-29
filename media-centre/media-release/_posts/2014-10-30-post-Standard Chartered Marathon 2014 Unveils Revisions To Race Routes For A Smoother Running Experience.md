@@ -6,6 +6,7 @@ date: 2014-10-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Standard Chartered Marathon Singapore 2014 Unveils Revisions To Race Routes For A Smoother Running Experience**
 
@@ -26,20 +27,3 @@ Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 can look f
 7\. Marathon participants will also be happy to note that with the revised route, they will have the opportunity to run very close to and take in the magnificent sights around the Sports Hub.
 
 8\. Registrations remain open for all categories until midnight on 31 October 2014. Late entries will still be accepted after this date but participants will pay a $20 late fee and will not receive a personalised race bib.
-
-9\. For all SCMS 2014 registration details please visit [Standard Chartered Marathon Singapore (SCMS)](http://www.marathonsingapore.com).
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-PeiRu Ng<br>
-Full Circle PR<br>
-Mobile: 9839 0905<br>
-Email: [peiru@fullcirclepr.co](mailto:peiru@fullcirclepr.co)
-
-Ronda Ng Doswell<br>
-Full Circle PR<br>
-Mobile: 9152 2842<br>
-Email: [ronda@fullcirclepr.co](mailto:ronda@fullcirclepr.co)
