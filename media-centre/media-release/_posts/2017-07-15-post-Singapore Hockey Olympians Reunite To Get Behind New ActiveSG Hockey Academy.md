@@ -26,4 +26,4 @@ I am optimistic that this academy will increase the talent pool of hockey player
   
 Ms Toh Limin, coach for a private academy, Hockey Innovative Academy, said, “I believe the new academy will heighten the interest in the sport leading to an increase in demand for hockey programmes, which can only benefit private academies. We look forward to potential opportunities to work together.”  
   
-To find out more or register for your interest for the programme, you can visit Hockey Innovative Academy.  The academy can also conduct one-day clinic or tailored programmes for schools. 
+To find out more or register for your interest for the programme, you can visit Hockey Innovative Academy.  The academy can also conduct one-day clinic or tailored programmes for schools.
