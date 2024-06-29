@@ -68,7 +68,6 @@ If you are, or someone you know is experiencing family violence, you can contact
 * Big Love: 6445 0400<br>
 * HEART@Fei Yue: 6819 9170<br>
 * ComCare Call at 1800 222 0000<br>
-* [http://www.stopfamilyviolence.sg](http://www.stopfamilyviolence.sg)
 
 However, in the event that a life is in danger, call the Police immediately.
 
