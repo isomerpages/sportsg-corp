@@ -5,6 +5,7 @@ date: 2017-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **ActiveSG Joins Hands with UPAS to Grow the Sport of Flying Disc in Singapore**
 
@@ -30,6 +31,6 @@ To start off, the ActiveSG Flying Disc Club will be organising regular social pl
 
 Keeping to its intent of providing opportunities and access to Singaporeans to play and live better through sport, Mr Lai Chin Kwang, Chief of ActiveSG said, “Flying Disc is one of the sports that has no or less barriers to learn and play. It can be played at open spaces by anyone regardless of age or fitness level. It brings families and friends together to have fun and allows people to make friends. Most importantly, ActiveSG Flying Disc Club gives another opportunity for Singaporeans to play and stay active.”
 
-To find out more information or to sign up for the ActiveSG Disc Sports Club, visit [ActiveSG Disc Sports Club](http://www.myactivesg.com/academy/Flying-Disc-Club)
+To find out more information or to sign up for the ActiveSG Disc Sports Club, visit ActiveSG Disc Sports Club.
 
 ![](/images/Media%20Centre/Media%20Release/2017/June/Min%20Grace%20Fu%20with%20the%20local%20Flying%20Disc%20fraternity.jpeg)
