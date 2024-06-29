@@ -5,6 +5,7 @@ date: 2016-12-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Let’s Get Real About Family Violence**
 
@@ -80,4 +81,4 @@ SportCares Foundation is the philanthropic arm of Sport Singapore (SportSG) and 
 MSF has launched a three-year campaign, called “Break the Silence - Against Family Violence.” This targets all persons who witness or know about accounts of family violence. More details on the campaign can be found in Annex A.  
   
 **About U.S. Embassy Singapore**<br>
-The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at [U.S. Embassy Singapore](http://singapore.usembassy.gov).
+The U.S. Embassy Singapore consists of 19 U.S. Federal Government agencies working in Singapore and the region. Through the U.S. Embassy, the United States maintains a strong bilateral relationship with the Government of Singapore and stands ready to assist the more than 30,000 American citizens in Singapore, many of whom work for American businesses with offices in this country. Additional information about the U.S. Embassy Singapore can be found at U.S. Embassy Singapore.
