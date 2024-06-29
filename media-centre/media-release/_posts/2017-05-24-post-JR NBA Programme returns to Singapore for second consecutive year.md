@@ -5,6 +5,7 @@ date: 2017-05-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **JR NBA Programme returns to Singapore for second consecutive year**  
 _Registration Now Open for Clinics, Coaches Workshop and Regional Training Programme_  
@@ -20,5 +21,3 @@ The Jr. NBA Singapore 2017 will be held from 16 June to 13 August and will teach
 The Jr. NBA programme is free and open to boys and girls ages 5-14. Players between the ages of 10-14 will be eligible for top selection during the regional training programme to advance to the National Training Camp.  
   
 The Jr. NBA, teaches the fundamental skills as well as the core values of the game at the grassroots level in an effort to help grow and improve the youth basketball experience for players, coaches and parents. During the 2016-17 season, the NBA will reach more than 18 million youth in 53 countries through its youth participation initiatives.  
-  
-Visit [Jr. NBA Singapore](http://www.jrnba.asia/singapore) to learn more about the Jr. NBA Singapore 2017 and to register for the open clinics or the regional training programme. Coaches can register for the coaches workshop through the ActiveSG website at [My ActiveSG](http://www.myactivesg.com/). Follow the Jr. NBA Singapore on Facebook at [Jr. NBA Singapore](http://www.facebook.com/jrnbasingapore) and ActiveSG Basketball Academy at [ActiveSG Basketball Academy](http://www.facebook.com/activesgba).
