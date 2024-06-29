@@ -28,6 +28,5 @@ _National Water Safety Programme To Be Instructed At All Of SSC's 24 Swimming Co
 
 8. Veteran swim instructor and trainer for people with special needs, Danny Ong said, "Proper water safety and survival training is an extremely important and valuable skill that every individual should possess. SwimSafer gives everyone the opportunity, even those with special needs, to master this crucial life skill through a structured and thorough programme."
 
-9. For more information on the SwimSafer programme, the public can visit [www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme) or call the hotline at 6500 5439, Monday to Friday, 9am to 6pm.
 
 ---
