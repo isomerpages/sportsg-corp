@@ -126,7 +126,6 @@ We are a sports nutrition company developing and manufacturing state of the art 
 **WHAT WE ARE NOT.**
 We are not a marketing company with mediocre products.<br>
 It is important to know the difference.<br>
-For more details, please visit [http://shotz.sg](http://shotz.sg).
 
 **10\. About Give.Asia**<br>
 GIVE is Singapore's leading online charity fundraising platform that allows people to donate or fundraise for the charity of their choice in a simple, fun and easy way. Tens of thousands of people use GIVE regularly to do good to support hundreds of charities that are listed on the platform.
