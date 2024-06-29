@@ -6,6 +6,7 @@ date: 2014-07-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **New Integrated Complex At Bedok Town Hub Promises A Total Wellness Experience For Residents**
 
@@ -13,7 +14,7 @@ _Multiple agencies work together to promote holistic wellness of the body and mi
 
 Bedok residents will enjoy a whole new total wellness experience at the upcoming Bedok Integrated Complex (BIC) at Bedok Town Centre when it opens in 2017. The Groundbreaking Ceremony for the BIC will take place on Saturday, 26 July 2014. It will be witnessed by more than 1,500 residents and grassroots leaders (GRLs). Joining the residents and GRLs are Grassroots Advisers to East Coast GRC Grassroots Organisations (GROs), Minister Lim Swee Say, Senior Minister of State Mr Lee Yi Shyan and Minister of State Dr Mohd Maliki Osman.
 
-2\. GRLs from Kampong Chai Chee GROs had embarked on a series of consultation exercises with residents since plans for the BIC was announced in 2011 as part of the “Remaking Our Heartlands” plan for the East Coast area by the Housing & Development Board. The GRLs created various communications platforms for residents to voice their ideas, views and needs. Some 11,000 residents were eventually surveyed.  The GRLs also gave feedback to co-locating partners so that the facilities and programmes that would eventually be launched would meet the different needs of residents and serve them better.
+2\. GRLs from Kampong Chai Chee GROs had embarked on a series of consultation exercises with residents since plans for the BIC was announced in 2011 as part of the “Remaking Our Heartlands” plan for the East Coast area by the Housing &amp; Development Board. The GRLs created various communications platforms for residents to voice their ideas, views and needs. Some 11,000 residents were eventually surveyed.  The GRLs also gave feedback to co-locating partners so that the facilities and programmes that would eventually be launched would meet the different needs of residents and serve them better.
 
 3\. “Feedback from our GRLs suggests that our residents much prefer a single location for family activities. In this way, parents with kids, grandchildren and grandparents can all come together as families to enjoy themselves. Hence in the design of the BIC, we endeavoured to incorporate amenities that cater to all age groups and are family-friendly. We hope in this way our Bedok residents can strengthen their bonds together,” said Mr Lee Yi Shyan, Adviser to East Coast GRC GROs.
 
@@ -56,4 +57,4 @@ Bedok residents will enjoy a whole new total wellness experience at the upcoming
 
 Please refer to "[Factsheet on groundbreaking ceremony for Bedok Integrated Complex](/files/Media%20Centre/Media%20Release/2014/July/Factsheets.pdf)" for more information.
 
-\[Updated April 2016\] Find out more about [Heartbeat@Bedok](http://www.heartbeatbedok.sg/) (Bedok Integrated Complex).
+\[Updated April 2016\] Find out more about Heartbeat@Bedok (Bedok Integrated Complex).
