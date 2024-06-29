@@ -5,6 +5,7 @@ date: 2017-07-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Hockey Olympians Reunite To Get Behind New ActiveSG Hockey Academy**
 ![](/images/Media%20Centre/Media%20Release/2017/July/DPM%20Tharman%20with%20National%20Olympians-min.jpeg)
@@ -25,6 +26,4 @@ I am optimistic that this academy will increase the talent pool of hockey player
   
 Ms Toh Limin, coach for a private academy, Hockey Innovative Academy, said, “I believe the new academy will heighten the interest in the sport leading to an increase in demand for hockey programmes, which can only benefit private academies. We look forward to potential opportunities to work together.”  
   
-To find out more or register for your interest for the programme, you can visit [Hockey Innovative Academy](http://www.myactivesg.com/academy/hockey).  
-  
-The academy can also conduct one-day clinic or tailored programmes for schools. Interested schools can email [activesg_hockey@sport.gov.sg](mailto:activesg_hockey@sport.gov.sg).
+To find out more or register for your interest for the programme, you can visit Hockey Innovative Academy.  The academy can also conduct one-day clinic or tailored programmes for schools. 
