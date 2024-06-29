@@ -6,6 +6,7 @@ date: 2016-11-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Project Heart 2016 by Singapore Heart Foundation trained and certified close to 1,000 sport volunteers from Team Nila at its CPR and AED training session**
 
@@ -28,7 +29,5 @@ Team Nila volunteers equipped with CPR & AED skills will not only improve their 
 Individuals certified in CPR and AED are encouraged to download the myResponder mobile application, and register themselves as an active responder to cardiac arrest cases.  
   
 In the event a cardiac arrest victim is reported, Singapore Civil Defence Force’s 995 Ops Centre will send an alert to volunteers located within 400 metres of the incident. Volunteers may choose to respond to the incident and offer assistance before an ambulance arrives. The myResponder mobile application also highlights available AEDs nearby.  
-  
-myResponder mobile application is available for download on the [IOS app store](https://apps.apple.com/sg/app/myresponder/id983494391) and [Google Play store](https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp&hl=en_SG&gl=US&pli=1) for free.
 
-\[1\]Singapore Civil Defence Force, [myResponder mobile application](https://www.scdf.gov.sg/content/scdf_internet/en/community-and-volunteers/mobile_phone_technology.html).
+
