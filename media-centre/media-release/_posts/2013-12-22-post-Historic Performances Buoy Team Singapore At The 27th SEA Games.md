@@ -5,6 +5,7 @@ date: 2013-12-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Historic Performances Buoy Team Singapore At The 27th SEA Games**
 
@@ -46,55 +47,5 @@ image: ""
 
 14. The journey to 2015 then kicked off with a multi-dimensional performance, put together by Creative and Music Director Mr Philip Tan and presented by some 50 performers comprising students and working professionals from Singapore SOKA Association, current and former Team Singapore athletes from Taekwondo and Gymnastics, and School of the Arts Singapore.
 
-15. Singapore also launched the official website (https://www.seagames2015.com) and Facebook page (https://www.facebook.com/seagames2015) for the 28th SEA Games today, and will be rolling out other key components like the theme song, mascot and logo starting from February next year.
+15. Singapore also launched the official website and Facebook page for the 28th SEA Games today, and will be rolling out other key components like the theme song, mascot and logo starting from February next year.
 
-Click [here](/files/Media%20Centre/Media%20Release/2013/Dec/HISTORIC%20PERFORMANCES%20BUOY%20TEAM%20SINGAPORE%20AT%20THE%2027TH%20SEA%20GAMESAnnexespdf.pdf) for Annexes: 
-* 27th SEA Games Medal Tally
-* 27th SEA Games Team Singapore's Medal Tally
-* Team Singapore Highlights from 27th SEA Games
-* Records
-* Personal Bests
-* List of Medal Winners
-
----
-
-**For media enquiries, please contact:**
-
-Adrienne Ser
-<br>GolinHarris
-<br>Singapore Sports Council
-<br>Tel: (65) 6551 5433
-<br>HP: (65) 8571 6855
-<br>Email: [aser@golinharris.com](aser@golinharris.com)
-
-Siti Nurhidayati
-<br>Senior Executive, Media Relations
-<br>Singapore Sports Council
-<br>Tel: (65) 6500 5246
-<br>HP: (65) 9647 7432
-<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
-
-**About Singapore National Olympic Council (SNOC)**<br>
-The Singapore National Olympic Council (SNOC) is the national non-profit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit [www.snoc.org.sg](https://www.snoc.org.sg).
-
-Follow us on:<br>
-[28th SEA Games Website](http://www.seagames2015.com)<br>
-[28th SEA Games Facebook Page](http://www.facebook.com/SEAGAMES2015)<br>
-[8th ASEAN Para Games Facebook Page](http://www.facebook.com/inclusivesportsg)
-
-**About Team Singapore**<br>
-Originally mooted by the then Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by the then Deputy Prime Minister Dr Tony Tan. Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions.
-
-Pride, Performance and Perseverance are the three attributes of Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world’s sporting stage.
-
-Team Singapore inspires our nation’s athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information on Team Singapore, please visit [Team Singapore](http://www.teamsingapore.com.sg/) and [ourteamsg.com](http://www.ourteamsg.com/) <br>
-Follow Team Singapore's action on Facebook at [facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.

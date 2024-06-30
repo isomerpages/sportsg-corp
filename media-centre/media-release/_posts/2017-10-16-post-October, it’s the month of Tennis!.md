@@ -5,6 +5,7 @@ date: 2017-10-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **October, it’s the month of Tennis!**
 ![](/images/Media%20Centre/Media%20Release/2017/October/Singapore%20Tennis%20Festival.jpeg)
@@ -29,7 +30,7 @@ For those without experience in tennis, the tour can also be tailored to introdu
 
 Mr Lai Chin Kwang, Chief, ActiveSG said, “There is no better way to find out why Tennis is one of the most popular sports around than to pick up a racquet and experience it first-hand. The Singapore Tennis Festival Experience Tour will give participants the chance to enjoy Tennis and hopefully inspire them to see the sport as one which they will love to play and watch regularly.”
 
-To find out more info about the Singapore Tennis Festival and the Experience Tour, visit [Singapore Tennis Festival](http://www.tennisfest.sg/)
+To find out more info about the Singapore Tennis Festival and the Experience Tour, visit Singapore Tennis Festival.
 
 **Augmenting visitor experience at the 2017 WTA Finals Singapore through STB’s Courtside@CHIJMES lifestyle programme**
 

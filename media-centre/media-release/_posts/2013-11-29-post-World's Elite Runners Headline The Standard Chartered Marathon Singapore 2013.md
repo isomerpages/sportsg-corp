@@ -31,6 +31,6 @@ variant: markdown
 
 11. Chris Robb, Managing Director, Spectrum Worldwide, commented on the overwhelming public response for this year's event: "The registration numbers are testament to the outstanding reputation the event has built over the years. Having been contracted as the event's official event organiser, it's vitally important that we not only continue the Standard Chartered Marathon Singapore's great legacy but build on it for this year and the future editions to follow. We are confident that the Standard Chartered Marathon Singapore 2013 will be another outstanding event and we look forward to seeing everyone on the start line this coming Sunday morning."
 
-12. For all event information, please visit [http://marathonsingapore.com/.](http://marathonsingapore.com)
+
 
 ---

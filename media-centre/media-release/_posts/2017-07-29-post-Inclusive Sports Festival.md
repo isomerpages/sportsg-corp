@@ -5,6 +5,7 @@ date: 2017-07-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **A weekend of inclusive sports activities at the soft-launch of sports facilities at Our Tampines Hub**
 ![](/images/Media%20Centre/Media%20Release/2017/July/InclusiveSportsFestivals2017%2007%2029Photo%20by%20Dyan%20Tjhia2web.jpeg)
@@ -15,16 +16,16 @@ Minister Grace Fu with wheelchair rugby players at the Inclusive Sports Festival
 ![](/images/Media%20Centre/Media%20Release/2017/July/InclusiveSportsFestivals2017%2007%2029Photo%20by%20Dyan%20Tjhia3web.jpeg)
 Sailing try-outs at the swimming pool on the 6th floor of Our Tampines Hub.
 
-Minister for Culture, Community & Youth, Ms Grace Fu said, “Sport has the ability to build up resilience and confidence in people. Communities are beginning to embrace sport, because the benefits go beyond physical wellness. Parents are also taking their children to try out sports because it enables them to be more sociable and emotionally strong. This is why I’m very happy that we have the inaugural Inclusive Sports Festival at Our Tampines Hub. Through this Festival, we see people of all ages and abilities playing inclusive sports; it’s also a way of bringing communities and families together.”
+Minister for Culture, Community &amp; Youth, Ms Grace Fu said, “Sport has the ability to build up resilience and confidence in people. Communities are beginning to embrace sport, because the benefits go beyond physical wellness. Parents are also taking their children to try out sports because it enables them to be more sociable and emotionally strong. This is why I’m very happy that we have the inaugural Inclusive Sports Festival at Our Tampines Hub. Through this Festival, we see people of all ages and abilities playing inclusive sports; it’s also a way of bringing communities and families together.”
 
-The Inclusive Sports Festival will take place at Our Tampines Hub on Saturday & Sunday, 29 – 30 July at Our Tampines Hub from 10am to 7pm.
+The Inclusive Sports Festival will take place at Our Tampines Hub on Saturday &amp; Sunday, 29 – 30 July at Our Tampines Hub from 10am to 7pm.
 
 ![](/images/Media%20Centre/Media%20Release/2017/July/InclusiveSportsFestivals2017%2007%2029Photo%20by%20Dyan%20Tjhia4web.jpeg)
 _Minister Grace Fu trying out Zero Point at the ISF._
 
 Our Tampines Hub is first of five Regional Sports Centres to be ready under the Sports Facilities Master Plan. 
 
-Find out more about GetActive! Singapore 2017 at [GetActive! Singapore](http://www.myactivesg.com/getactivesingapore).
+Find out more about GetActive! Singapore 2017 at GetActive! Singapore.
 
 ---
 

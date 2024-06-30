@@ -37,7 +37,6 @@ _Launch of New Multi-Sports Festival That Will Serve as A Bridge Between Sports 
 
 12. Registration for the Games will be in two phases as some sports will not need a qualifying round. Registration for the Community Games 2012 will open in January 2012 for seven sports, while registration for the remaining three sports for the SNG 2012 will open in May 2012.
 
-13. For more information regarding the Games, please visit the PA and SSC websites: ([www.pacsc.org.sg](https://www.pacsc.org.sg)) and ([www.ssc.gov.sg](https://www.ssc.gov.sg)). Public enquiries regarding in the Games can be directed to the following Hotline: 6238 2058
 
 ---
 

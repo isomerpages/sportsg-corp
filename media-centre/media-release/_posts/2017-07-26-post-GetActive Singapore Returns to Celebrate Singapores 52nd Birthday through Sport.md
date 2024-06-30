@@ -5,6 +5,7 @@ date: 2017-07-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **GetActive Singapore Returns to Celebrate Singapores 52nd Birthday through Sport**
 There’s something for everyone at this year’s GetActive! Singapore (GASG) which takes place from 29 July to 9 August 2017. GASG aims to attract all Singaporeans to celebrate National Day with a spectrum of sporting activities across the island.
@@ -21,11 +22,11 @@ The Superhero mass walk at Sports Hub and a functional fitness routine for senio
 
 Modified sports events for people with disabilities will be held at the **_Inclusive Sports Festival_** at Our Tampines Hub on 29 – 30 July.
 
-President of Outdoor Learning & Adventure Education Association (OLAE), Mr Lye Yen Kai shared his thoughts on several of the organisations under the association being selected to be part of GetActive! Singapore’s Active Enabler Programme.
+President of Outdoor Learning &amp; Adventure Education Association (OLAE), Mr Lye Yen Kai shared his thoughts on several of the organisations under the association being selected to be part of GetActive! Singapore’s Active Enabler Programme.
 
 ”OLAE is excited to partner GetActive! Singapore. It is indeed a meaningful platform for families and individuals to experience outdoor activities, especially when many may be trying outdoor activities for the first time. We hope that outdoor adventure will play a part in building an active Singapore and there are endless teachable and memorable moments in our activities.”
 
-Outdoor enthusiasts and budding adventurers can participate in the following events: Adventure Life Hacks, Connecting with Nature, Start Right with Camping Outdoors, Archery Combat Challenge & Laser Combat Challenge, Ed-Venture Outdoor Experience Challenge and Augmented Climbing.
+Outdoor enthusiasts and budding adventurers can participate in the following events: Adventure Life Hacks, Connecting with Nature, Start Right with Camping Outdoors, Archery Combat Challenge &amp; Laser Combat Challenge, Ed-Venture Outdoor Experience Challenge and Augmented Climbing.
 
 **Sports Festivals**
 
@@ -35,7 +36,7 @@ Across nine key locations, the Sports Festivals will take place over the two wee
 <br>- Launch of GASG on 30 July
 *   Singapore Sports Hub (5, 6 Aug)
 <br>- Closing of GASG on 8 Aug
-*   Sentosa Island (29 - 30 July & 5 -6 Aug)
+*   Sentosa Island (29 - 30 July &amp; 5 -6 Aug)
 *   Our Tampines Hub, (29 -30 July)
 *   Field next to Punggol MRT (29 – 30 July)
 *   Field next to Tampines MRT (29 – 30 July)
@@ -45,9 +46,9 @@ Across nine key locations, the Sports Festivals will take place over the two wee
 
 _(Refer to Annex for more details)_
 
-**Sports Competitions – National Youth, Corporate & Masters Games**
+**Sports Competitions – National Youth, Corporate &amp; Masters Games**
 
-As a prelude to the biennial Singapore National Games, this will be the very first National Youth, Corporate & Masters Games to be held during GetActive! Singapore.
+As a prelude to the biennial Singapore National Games, this will be the very first National Youth, Corporate &amp; Masters Games to be held during GetActive! Singapore.
 
 The competitive sports enthusiasts have come out in strength to support the National Youth, Corporate and Masters Games. This year has seen over 12,000 sign-ups, with over 3,000 sign-ups from corporates across the various sports.
 
@@ -70,7 +71,7 @@ GetActive! Singapore will also be celebrating 50 years of National Service (NS50
 
 In celebration of NS50, national servicemen and their family and friends will receive complimentary access to ActiveSG Swimming Complexes and Gyms from 5 – 6 August when they present their SAF/SPF/SCDF 11B or SAFRA/HomeTeamNS membership cards upon entry.
 
-Find out more about GetActive! Singapore 2017 at [GetActive! Singapore](https://www.myactivesg.com/getactivesingapore).
+Find out more about GetActive! Singapore 2017 at GetActive! Singapore.
 
 ---
 
