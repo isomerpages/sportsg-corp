@@ -40,4 +40,4 @@ Dual-Use Scheme Facilities:
 
 View our [Sport Centres](https://www.activesgcircle.gov.sg/facilities/sport-centres) for a detailed list. 
 
-To book a facility, please login to [myactivesg+](https://www.activesg.gov.sg/).
+To book a facility, please visit myactivesg+ at [https://www.activesg.gov.sg/](https://www.activesg.gov.sg/).
