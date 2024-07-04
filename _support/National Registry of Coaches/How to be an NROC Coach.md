@@ -7,12 +7,22 @@ variant: tiptap
 ---
 <p><strong>Admission Requirements</strong>
 </p>
-<p>There are two categories of NROC memberships, namely provisional and full
-membership. Coaches need to&nbsp;<a href="http://www.sportsync.sg/" rel="noopener noreferrer nofollow" target="_blank">submit an online application</a>&nbsp;with
+<p><strong><em>With effect from 1st July 2024, NEW applications for NROC Provisional Coach Membership will be ceased. To register for NROC, do ensure you have the necessary certifications to be a Full NROC Member.&nbsp;</em></strong>
+</p>
+<p>Coaches with provisional coach memberships need to attain full NROC membership
+within three years of their provisional coach registration. They can do
+so by attending an <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener noreferrer nofollow" target="_blank">integrated SG-Coach programme</a> if
+it is offered by their NSA, or attain it by fulfilling all the full membership
+requirements.</p>
+<p>Coaches need to&nbsp;<a href="http://www.sportsync.sg/" rel="noopener noreferrer nofollow" target="_blank">submit an online application</a>&nbsp;with
 the following requirements:</p>
 <p><strong>NROC Full Membership requirement</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,16 +33,6 @@ the following requirements:</p>
 <p><strong>Entry Requirements</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Provisional Coach</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/" rel="noopener noreferrer nofollow" target="_blank">Valid Standard First Aid (SFA) including Automated External Defibrillator (AED) Certificate</a>
-<br><a href="/sports-education/value-and-principles-in-sport/" rel="noopener noreferrer nofollow" target="_blank">Values and Principles in Sport (VPS) Certificate&nbsp;or its equivalent</a>#
-<br>Record of playing or coaching the sports</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,16 +91,6 @@ are SG-Coach Theory Level 1 Certificate which includes the VPS module,
 National Standards in Youth Sports for Coaching in Singapore Schools Certificate
 and Certificate of Attendance for Building Capacity of Coaches and Instructors
 (BCCI)’ Workshop.</p>
-<p>The provisional membership allows existing and aspiring sport coaches
-to participate in academic, educational and professional development activities
-to improve their coaching practice as they work toward completing all requirements
-of full NROC membership.</p>
-<p>Over a 3-year provisional membership period, they could be given priority
-enrolment into various coaching courses and activities organised by Sport
-Singapore, their respective&nbsp;National Sports Association&nbsp;and other
-organisations. The aim is to prepare them to obtain the necessary certification
-to become a full member within the NROC and to stay current in the practice
-of sport coaching as a profession.</p>
 <p><strong>Application Process</strong>
 </p>
 <p>Please&nbsp;apply&nbsp;for NROC membership online&nbsp;through&nbsp;
@@ -124,12 +114,6 @@ that the person is authorised to offer coaching services.</p>
 <p><strong>Membership Fees</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>For Provisional Membership,&nbsp;no membership fee is required during
-the three-year term. A coach may convert to full NROC membership once he/she
-had attained the required certification before the expiry of the provisional
-membership. &nbsp;</p>
-</li>
 <li>
 <p>For full Membership,&nbsp;no membership fee is required for the initial
 three-year term. A renewal fee of $60.00 applies for subsequent blocks

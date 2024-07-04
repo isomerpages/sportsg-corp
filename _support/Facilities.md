@@ -2,6 +2,7 @@
 title: Facilities
 permalink: /support-resources/facilities/
 description: ""
+variant: markdown
 ---
 Sport Singapore believes that well-designed and efficiently run sports facilities will significantly open up opportunities for a more sporting, recreational and wellness lifestyle for all Singaporeans. 
 
@@ -39,4 +40,4 @@ Dual-Use Scheme Facilities:
 
 View our [Sport Centres](https://www.activesgcircle.gov.sg/facilities/sport-centres) for a detailed list. 
 
-To book a facility, please login to [ActiveSG membership system](https://members.myactivesg.com/).
+To book a facility, please visit myactivesg+ at [https://www.activesg.gov.sg/](https://www.activesg.gov.sg/).
