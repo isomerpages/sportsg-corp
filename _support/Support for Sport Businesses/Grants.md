@@ -12,7 +12,7 @@ third_nav_title: Support for Sport Businesses
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Enterprise Innovation and Capability (InnoGrant 2.0)</strong>
+<p><strong>The Enterprise Innovation and Capability (InnoGrant 2)</strong>
 <br>Sport Singapore's enhanced Enterprise Innovation and Capability Development
 Grant (InnoGrant 2.0) is designed to catalyse the development of stronger
 growth engines within Singapore's sport and fitness industry. The grant
