@@ -108,12 +108,6 @@ that the person is authorised to offer coaching services.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For Provisional Membership,&nbsp;no membership fee is required during
-the three-year term. A coach may convert to full NROC membership once he/she
-had attained the required certification before the expiry of the provisional
-membership. &nbsp;</p>
-</li>
-<li>
 <p>For full Membership,&nbsp;no membership fee is required for the initial
 three-year term. A renewal fee of $60.00 applies for subsequent blocks
 of each three-year terms. All fees paid are not refundable.</p>
