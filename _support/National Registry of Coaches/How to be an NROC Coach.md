@@ -7,12 +7,15 @@ variant: tiptap
 ---
 <p><strong>Admission Requirements</strong>
 </p>
-<p>There are two categories of NROC memberships, namely provisional and full
-membership. Coaches need to&nbsp;<a href="http://www.sportsync.sg/" rel="noopener noreferrer nofollow" target="_blank">submit an online application</a>&nbsp;with
+<p>Coaches need to&nbsp;<a href="http://www.sportsync.sg/" rel="noopener noreferrer nofollow" target="_blank">submit an online application</a>&nbsp;with
 the following requirements:</p>
 <p><strong>NROC Full Membership requirement</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,16 +26,6 @@ the following requirements:</p>
 <p><strong>Entry Requirements</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Provisional Coach</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/" rel="noopener noreferrer nofollow" target="_blank">Valid Standard First Aid (SFA) including Automated External Defibrillator (AED) Certificate</a>
-<br><a href="/sports-education/value-and-principles-in-sport/" rel="noopener noreferrer nofollow" target="_blank">Values and Principles in Sport (VPS) Certificate&nbsp;or its equivalent</a>#
-<br>Record of playing or coaching the sports</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,16 +84,6 @@ are SG-Coach Theory Level 1 Certificate which includes the VPS module,
 National Standards in Youth Sports for Coaching in Singapore Schools Certificate
 and Certificate of Attendance for Building Capacity of Coaches and Instructors
 (BCCI)’ Workshop.</p>
-<p>The provisional membership allows existing and aspiring sport coaches
-to participate in academic, educational and professional development activities
-to improve their coaching practice as they work toward completing all requirements
-of full NROC membership.</p>
-<p>Over a 3-year provisional membership period, they could be given priority
-enrolment into various coaching courses and activities organised by Sport
-Singapore, their respective&nbsp;National Sports Association&nbsp;and other
-organisations. The aim is to prepare them to obtain the necessary certification
-to become a full member within the NROC and to stay current in the practice
-of sport coaching as a profession.</p>
 <p><strong>Application Process</strong>
 </p>
 <p>Please&nbsp;apply&nbsp;for NROC membership online&nbsp;through&nbsp;
