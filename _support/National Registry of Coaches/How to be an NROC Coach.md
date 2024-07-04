@@ -7,6 +7,13 @@ variant: tiptap
 ---
 <p><strong>Admission Requirements</strong>
 </p>
+<p><strong><em>With effect from 1st July 2024, NEW applications for NROC Provisional Coach Membership will be ceased. To register for NROC, do ensure you have the necessary certifications to be a Full NROC Member.&nbsp;</em></strong>
+</p>
+<p>Coaches with provisional coach memberships need to attain full NROC membership
+within three years of their provisional coach registration. They can do
+so by attending an <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener noreferrer nofollow" target="_blank">integrated SG-Coach programme</a> if
+it is offered by their NSA, or attain it by fulfilling all the full membership
+requirements.</p>
 <p>Coaches need to&nbsp;<a href="http://www.sportsync.sg/" rel="noopener noreferrer nofollow" target="_blank">submit an online application</a>&nbsp;with
 the following requirements:</p>
 <p><strong>NROC Full Membership requirement</strong>
