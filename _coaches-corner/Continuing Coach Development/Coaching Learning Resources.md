@@ -5,20 +5,6 @@ description: ""
 third_nav_title: Continuing Coach Development
 variant: tiptap
 ---
-<h4><strong>Foreword</strong></h4>
-<p>Dear Coaches,</p>
-<p>The COVID-19 situation has been a challenging time for all of us as face-to-face
-trainings and sports events are cancelled. Home-based learning (HBL) has
-become a new norm as schools are engaging their students through online
-lessons and many industries are also engaging their clients through online
-video-conferencing. As such, more than ever as coaches we need to adapt
-to the changing situations and equip ourselves with the necessary skills
-and resources to conduct coaching online. We believe that when this season
-is over, the upskilling that we commit ourselves to during this time will
-enable us to be more adept at adopting multi-pronged approaches in engaging
-our athletes through both offline and online means. We have prepared some
-resources that we hope will get your started on / enhance your online coaching
-practice and experience:</p>
 <h4><strong>Getting Started to Coach Online</strong></h4>
 <h5><strong>1. Guides for Online Coaching Practice</strong></h5>
 <p><strong>A. Quick-Starter Guide on Using Video-Conferencing Tools for E-Coaching</strong>
@@ -76,19 +62,6 @@ learning and training for all-round physical literacy.</p>
 </ol>
 <p><a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/CoachSG_HBL_Videos_Directory_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">CoachSG HBL Videos Directory</a>
 </p>
-<p><strong>Sports Resilience Package (SRP)</strong>
-</p>
-<p>In October 2020, the Ministry of Culture, Community and Youth (MCCY) announced
-the roll-out of the S$50 million&nbsp;<a href="https://circle.myactivesg.com/industry/support/sports-resilience-package?utm_campaign=Sports%20Resilience%20Package&amp;utm_source=sportsg-corp&amp;utm_medium=website" rel="noopener noreferrer nofollow" target="_blank">Sports Resilience Package (SRP)</a>&nbsp;to
-support critical players in our sports ecosystem, preserve core capabilities
-in athlete pathway and pipeline development, and catalyze industry to provide
-innovative sports formats for Singaporeans to continue to stay active during
-the pandemic. Within the SRP, S$2.5 million has been set aside for Continuing
-Coach Education (CCE) Training Allowance. Please click&nbsp;<a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/SRP_Coaching_Grant_-_Terms_and_Conditions_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-read the terms and conditions of this allowance.</p>
-<p>A separate CCE Training Allowance terms and conditions document for fitness
-instructors is available <a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/SRP_CCE_Training_Allowance_-_Terms_and_Conditions_(for_Fitness_Instructors).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <p><strong>Online Continuing Coach Education (CCE) Resources</strong>
 </p>
 <p>NROC coaches may consider attending the following online courses to accumulate
@@ -110,10 +83,6 @@ SportSync account to claim CCE hours for the course.</p>
 <p><a href="https://www.sportsingapore.gov.sg/athletes-coaches/coachsg/conference-2017/resources" rel="noopener noreferrer nofollow" target="_blank">CoachSG Conference 2017</a>
 </p>
 <p><a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Presentation_Materials_from_Past_CCE_Workshops_v7.pdf" rel="noopener noreferrer nofollow" target="_blank">Workshop Videos and Presentation Materials from Past Continuing Coach Education (CCE) Workshops</a>
-</p>
-<p>25 Feb 2023 - <a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Hamstring_Rehabilitation_-_From_Injury_to_Performance.pdf" rel="noopener noreferrer nofollow" target="_blank">Hamstring Rehabilitation - From Injury to Performance</a>
-</p>
-<p><a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Sports_Hub_Library.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Hub Library</a>
 </p>
 <p><strong>Research Articles</strong>
 </p>
