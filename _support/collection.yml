@@ -2,10 +2,6 @@ collections:
   support:
     output: true
     order:
-      - Support for Sport Businesses/.keep
-      - Support for Sport Businesses/Grants.md
-      - Support for Sport Businesses/The Enterprise Innovation and Capability
-        (InnoGrant 2).md
       - Overview.md
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/ActiveSG Programme Partnership.md
@@ -36,4 +32,8 @@ collections:
       - Sport Data Exchange Singapore.md
       - SportSG ED.md
       - Sport & Exercise Participation in Singapore.md
+      - Support for Sport Businesses/.keep
+      - Support for Sport Businesses/Grants.md
+      - Support for Sport Businesses/The Enterprise Innovation and Capability
+        (InnoGrant 2).md
       - World Aquatics Championships 2025 Singapore.md
