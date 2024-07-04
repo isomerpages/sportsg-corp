@@ -60,5 +60,11 @@ will evaluate each application based on the following evaluation criteria:</p>
 </ul>
 <p><strong><u>Contact Details</u></strong>
 </p>
-<p>For inquiries, you may reach out to TAY Fu Zhong at <a href="mailto:Tay_Fu_Zhong@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_fu_zhong@sport.gov.sg.</a>
+<p>For enquiries, you may reach out to TAY Fu Zhong at <a href="mailto:Tay_Fu_Zhong@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_fu_zhong@sport.gov.sg.</a>
+</p>
+<p></p>
+<p><strong><u>How to Apply</u></strong>
+</p>
+<p>Please fill up the <a href="/files/Support/Support for Sport Businesses/Leagues_and_Competitions_Grant.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a> and
+email it back to TAY Fu Zhong at <a href="mailto:Tay_Fu_Zhong@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_fu_zhong@sport.gov.sg.</a>
 </p>
