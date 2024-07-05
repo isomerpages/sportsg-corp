@@ -11,10 +11,10 @@ third_nav_title: Support for Sport Businesses
 <h4><strong>New Grant Scheme For Leagues and Competitions - Open For Application</strong></h4>
 <p><strong>Application Period : Monday 8 July 24 – Monday 12 August 24, 11.59pm</strong>
 </p>
-<p>To nurture the next generation of aspiring young athletes, it is important
-to galvanise the sport sector with the collective expertise, resources
-and networks that can be instrumental to further scale and enrich the leagues
-and competitions' landscape.</p>
+<p>Partner us to nurture the next generation of aspiring young athletes.
+This grant aims to galvanise the collective expertise, resources and networks
+of the sport sector to grow and further enrich the leagues and competitions’
+landscape for children and youth.</p>
 <p><strong><u>What this grant supports</u></strong>
 </p>
 <p><strong>NEW</strong> initiatives/projects on leagues and competitions for
