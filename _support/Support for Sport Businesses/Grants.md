@@ -24,10 +24,10 @@ offers financial support of up to S$1,000,000 per project.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>New Grant Scheme For Leagues and Competition - Open For Application</strong>
-<br>To nurture the next generation of aspiring young athletes, it is important
-to galvanise the sport sector with the collective expertise, resources
-and networks that can be instrumental to further scale and enrich the leagues
-and competitions' landscape.</p>
+<br>Partner us to nurture the next generation of aspiring young athletes.
+This grant aims to galvanise the collective expertise, resources and networks
+of the sport sector to grow and further enrich the leagues and competitions’
+landscape for children and youth.</p>
 <p><a href="/support-resources/support-for-sport-businesses/grants/new-grant-scheme-for-leagues-competitions/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
