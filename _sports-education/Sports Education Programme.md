@@ -179,5 +179,5 @@ by schools. Compliance with the checklist must be clearly indicated in
 the programme submission.</p>
 <p>Please refer to the appended&nbsp;<a href="/files/Sport%20Education/Sport%20Education%20Programmes/Compliance%20Checklists%20for%20Procurement%20of%20OAL%20Activities_version%204%20Feb%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a> for
 the compliance checklists which service providers must submit to schools.</p>
-<p>For further clarifications, please contact: <a href="mailto:ong_chee_wee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chee_wee@moe.gov.sg</a>, <a href="mailto:jonathan_jong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_jong@moe.gov.sg</a>
+<p>For further clarifications, please contact: <a href="mailto:sport_sep@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_sep@sport.gov.sg</a>
 </p>
