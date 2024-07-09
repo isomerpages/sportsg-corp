@@ -55,7 +55,7 @@ We currently have 17 Institutes of Higher Learning who have come on board as our
 | -------- | -------- | 
 | Singapore Sports School	| [https://www.sportsschool.edu.sg/admissions/scholarships](https://www.sportsschool.edu.sg/admissions/scholarships)   |
 |  Institute of Technical Education		| [https://www.ite.edu.sg/admissions/scholarships-awards-and-bursaries/scholarships](https://www.ite.edu.sg/admissions/scholarships-awards-and-bursaries/scholarships)  |
-|Ngee Ann Polytechnic|[https://www.np.edu.sg/admissions/Pages/scholarships.aspx#](https://www.np.edu.sg/admissions/Pages/scholarships.aspx#)|
+|Ngee Ann Polytechnic|[https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/scholarships-awards](https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/scholarships-awards)|
 | Nanyang Polytechnic| [https://www.nyp.edu.sg/admissions/full-time-diploma/scholarships-study-awards.html](https://www.nyp.edu.sg/admissions/full-time-diploma/scholarships-study-awards.html)|
 |Republic Polytechnic| [https://www.rp.edu.sg/student-support/scholarships-awards](https://www.rp.edu.sg/student-support/scholarships-awards)|
 |Singapore Polytechnic|	 https://www.sp.edu.sg/sp/student-services/ssc-overview/student-support/scholarships/sp-sports-arts-scholarship|
