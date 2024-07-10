@@ -8,12 +8,12 @@ description: Sport Singapore's enhanced Enterprise Innovation and Capability
   grant offers financial support of up to S$1,000,000 per project.
 third_nav_title: Support for Sport Businesses
 ---
-<h4><strong>The Enterprise Innovation and Capability Development Grant (InnoGrant 2.0)</strong></h4>
+<h4><strong>The Enterprise Innovation and Capability Development Grant (InnoGrant)</strong></h4>
 <p>Sport Singapore's enhanced Enterprise Innovation and Capability Development
-Grant (InnoGrant 2.0) is designed to catalyse the development of stronger
-growth engines within Singapore's sport and fitness industry. The grant
-offers financial support of up to S$1,000,000 per project.</p>
-<p>The objectives of the InnoGrant 2.0 are to:</p>
+Grant (InnoGrant) is designed to catalyse the development of stronger growth
+engines within Singapore's sport and fitness industry. The grant offers
+financial support of up to S$1,000,000 per project.</p>
+<p>The objectives of the InnoGrant are to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Build capability and/or capacity of enterprise in the development and
