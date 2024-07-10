@@ -48,9 +48,9 @@ engine(s) for sport and fitness industry</p>
 </li>
 </ul>
 <p></p>
-<p>The FAQ for the InnoGrant will be available soon. Please come back again
-to check for updates. Thank you for your patience.</p>
-<p></p>
-<p>For enquiries, you may reach out to us at <a href="mailto:innogrant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">innogrant@sport.gov.sg</a>.</p>
-<p>Already have an innovative idea? Apply for the InnoGrant <a href="https://go.gov.sg/innogrant-appln" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Have a question?&nbsp;Read the Frequently Asked Questions (FAQs) about
+the&nbsp;InnoGrant&nbsp;<strong><a href="/files/Support/Support for Sport Businesses/InnoGant_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</strong>&nbsp;</p>
+<p>Have a question not answered by the FAQs? You may reach out to us at
+<a href="mailto:innogrant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">innogrant@sport.gov.sg</a>.</p>
+<p>Already have an innovative idea? Apply for the InnoGrant <strong><a href="https://go.gov.sg/innogrant-appln" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p></p>
