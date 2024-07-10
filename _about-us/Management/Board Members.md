@@ -3,6 +3,7 @@ title: Board Members
 permalink: /about-us/management/board-members/
 description: ""
 third_nav_title: Management
+variant: markdown
 ---
 The Ministry of Culture, Community and Youth has appointed the following members from the public, private and people sectors to the Sport Singapore Board for a period of three years from October 2023 to September 2026.
 
@@ -45,7 +46,7 @@ Mr Michael Palmer
 Director, Quahe Woo &amp; Palmer LLC     
 
 Mr Pan Kit Kuan  
-Vice President, Oracle Netsuite JAPAC 
+CEO, MVGX 
 
 Ms Theresa Sim  
 Partner, PricewaterhouseCoopers LLP 
