@@ -1,9 +1,9 @@
 ---
-title: The Enterprise Innovation and Capability (InnoGrant)
+title: The Enterprise Innovation and Capability Development Grant (InnoGrant)
 permalink: /support-resources/support-for-sport-businesses/grants/the-enterprise-innovation-and-capability/
 variant: tiptap
 description: Sport Singapore's enhanced Enterprise Innovation and Capability
-  Development Grant (InnoGrant 2.0) is designed to catalyse the development of
+  Development Grant (InnoGrant) is designed to catalyse the development of
   stronger growth engines within Singapore's sport and fitness industry. The
   grant offers financial support of up to S$1,000,000 per project.
 third_nav_title: Support for Sport Businesses
@@ -49,8 +49,11 @@ engine(s) for sport and fitness industry</p>
 </ul>
 <p></p>
 <p>Have a question?&nbsp;Read the Frequently Asked Questions (FAQs) about
-the&nbsp;InnoGrant&nbsp;<strong><a href="https://go.gov.sg/innogrant-faq" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>&nbsp;</p>
+the&nbsp;InnoGrant&nbsp;<strong><a href="https://go.gov.sg/innogrant-faq" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+</p>
 <p>Have a question not answered by the FAQs? You may reach out to us at
-<a href="mailto:innogrant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">innogrant@sport.gov.sg</a>.</p>
-<p>Already have an innovative idea? Apply for the InnoGrant <strong><a href="https://go.gov.sg/innogrant-appln" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<a href="mailto:innogrant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">innogrant@sport.gov.sg</a>
+</p>
+<p>Already have an innovative idea? Apply for the InnoGrant <strong><a href="https://go.gov.sg/innogrant-appln" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+</p>
 <p></p>
