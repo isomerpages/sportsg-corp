@@ -68,3 +68,8 @@ will evaluate each application based on the following evaluation criteria:</p>
 <p>Please fill up the <a href="/files/Support/Support for Sport Businesses/Leagues_and_Competitions_Grant.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a> and
 email it back to TAY Fu Zhong at <a href="mailto:Tay_Fu_Zhong@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_fu_zhong@sport.gov.sg.</a>
 </p>
+<p></p>
+<p><strong><u>Register your Interest</u></strong>
+</p>
+<p>Please register your interest by emailing us your name, company, contact
+information to the grant email.</p>
