@@ -232,7 +232,7 @@ para sports) and four signature events such as the Vertical Challenge and
 the Round Island Bike Adventure, promoting camaraderie through friendly
 competitions and encouraging future generations to live better through
 sport.</p>
-<p>his year’s edition also includes the Pesta Sukan Community Championship,
+<p>This year’s edition also includes the Pesta Sukan Community Championship,
 where participants from various districts and neighbourhoods in Singapore
 come together to celebrate unity and camaraderie through sport. Organised
 in conjunction with People’s Association (PA), the competition will see
