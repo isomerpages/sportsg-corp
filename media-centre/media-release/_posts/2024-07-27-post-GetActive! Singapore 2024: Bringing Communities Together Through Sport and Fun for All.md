@@ -103,7 +103,6 @@ of persons with disabilities, fostering a more inclusive society.&nbsp;</p>
 SportSG is also working closely with key partners on events for specific
 demographics and interest groups. These seek to empower and encourage these
 communities to pursue active living, even beyond GASG.</p>
-<p></p>
 <p><strong>Lion City Dance Convention (27 July to 4 August)*</strong>
 </p>
 <p>A platform for Singapore’s vibrant street dance community to come together,
@@ -129,19 +128,16 @@ the event with a local preschool anchor operator. This allowed early childhood
 educators to be actively involved in designing the activities, having gone
 through capability development workshops with SportSG on how to integrate
 movement as a way of life for preschoolers.</p>
-<p></p>
 <p>Nurture Kids Day Out is a culmination of all the skills they have gathered,
 with more than 3,200 preschoolers, educators and parents coming together
 to experience fun and enjoyable movement and play experiences. Happening
 on 30 July at OCBC Arena, the event will showcase innovative movement strategies
 and activity ideas, incorporating National Day elements.</p>
-<p></p>
 <p>The co-organised event was developed on the back of the ‘Fun Start Move
 Smart – Learning to Move, Moving to Learn’ Resource Guide, launched by
 SportSG in August 2023, and the capability development initiatives that
 early childhood educators use to emphasise the importance of getting children
 to move anytime, anywhere and throughout the day.</p>
-<p></p>
 <p><strong>Sport Festival for Youths — Youth@Play (6 August)*</strong>
 </p>
 <p>At this all-new annual sport festival for youths, Youth@Play promises
@@ -149,7 +145,6 @@ an exciting day of sport tryouts and opportunities for participants to
 showcase their talent. Happening at the Singapore Sports Hub on 6 August,
 youths aged 16 to 27 will be able to explore new sports experiences, ignite
 their interest in active sport participation, and socialise with peers.</p>
-<p></p>
 <p>Sport workshops available for youths to try out include dragon boat and
 kayak, pickleball, rock climbing and bouldering, skateboarding and street
 dance.</p>
@@ -198,7 +193,6 @@ their scores against Team Singapore athletes in five key areas of physical
 fitness – cardiovascular fitness, agility, balance, strength and power
 – while also learning more about how these components are important for
 day-to-day living.</p>
-<p></p>
 <p>Those who complete at least three stations can redeem a free Active Health
 FitPack (while stocks last), for them to take home and continue their fitness
 journey. Packed with fun physical challenges that can be done both indoors
@@ -206,13 +200,11 @@ and outdoors, these FitPacks also include QR codes that can be scanned
 to learn more about various types of exercises. Through the online platform,
 users can then select exercises from each of the five areas of physical
 fitness to curate a personalised, all-rounded exercise circuit.&nbsp;</p>
-<p></p>
 <p>Anchored in sport-science and taking an evidence-based approach, the Active
 Health Community Fitness Challenge serves to educate participants on the
 different components of health through movement teasers and sporting activities.
 The challenge will also empower participants and provide them with the
 skills and resources to better their overall health and fitness.</p>
-<p></p>
 <p><strong>‘Together We Play’ Interactive Running Game (27 July to 11 August)*</strong>
 </p>
 <p>Those enjoying the festivities at the Singapore Sports Hub can also participate
@@ -240,8 +232,7 @@ para sports) and four signature events such as the Vertical Challenge and
 the Round Island Bike Adventure, promoting camaraderie through friendly
 competitions and encouraging future generations to live better through
 sport.</p>
-<p></p>
-<p>This year’s edition also includes the Pesta Sukan Community Championship,
+<p>his year’s edition also includes the Pesta Sukan Community Championship,
 where participants from various districts and neighbourhoods in Singapore
 come together to celebrate unity and camaraderie through sport. Organised
 in conjunction with People’s Association (PA), the competition will see
@@ -249,7 +240,6 @@ teams from different Group Representation Constituencies (GRCs) compete
 and showcase their skills in a wide array of sports such as badminton and
 pickleball. The Community Championship Final is set to take place on 4
 August at the Singapore Sports Hub.</p>
-<p></p>
 <p><strong>Heartland Festivals (10 August)</strong>
 </p>
 <p>SportSG will host sport and Active Health activities within the five National
@@ -260,12 +250,9 @@ can enjoy a wide range of sport activities such as sport try-outs, fitness
 challenges, traditional kampung games, and inclusive sports activities.
 Participants can also dance their hearts out to the vibrant beats and colourful
 movements of the Dance of the Nation 2024 workout.</p>
-<p></p>
 <p>The Active Health Community Fitness Challenge, where visitors can test
 their fitness levels through sport-specific fitness challenges, will also
 be available for the public to try out.</p>
-<p></p>
 <p>For more information on GASG 2024, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/getactive-singapore</a>.</p>
-<p></p>
 <p><em>*A Majulah Fiesta event/initiative taking place at Singapore Sports Hub.</em>
 </p>
