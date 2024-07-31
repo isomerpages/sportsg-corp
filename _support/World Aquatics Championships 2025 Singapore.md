@@ -159,8 +159,8 @@ to offer <strong>sponsorship rights</strong>, which may include the following:</
 <p>Amy Chong, Head (Communications, Marketing &amp; Sponsorship)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">amy_chong@sport.gov.sg</a>
 </p>
-<p>Kennie Chang</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">kennie.chang@img.com</a>
+<p>Neoh Wee Lee, Director (Global Partnerships &amp; Business Development)</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">weelee.neoh@img.com</a>
 </p>
 <p></p>
 <p><strong>About World Aquatics Championships – Singapore 2025 (WAC2025)</strong>
