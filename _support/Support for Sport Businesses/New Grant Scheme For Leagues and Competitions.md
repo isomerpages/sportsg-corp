@@ -9,7 +9,7 @@ description: To nurture the next generation of aspiring young athletes, it is
 third_nav_title: Support for Sport Businesses
 ---
 <h4><strong>New Grant Scheme For Leagues and Competitions - Open For Application</strong></h4>
-<p><strong>Application Period : Monday 8 July 24 – Monday 12 August 24, 11.59pm</strong>
+<p><strong>Application Period : Monday 8 July 24 – Monday 16 August 24, 11.59pm</strong>
 </p>
 <p>Partner us to nurture the next generation of aspiring young athletes.
 This grant aims to galvanise the collective expertise, resources and networks
@@ -66,7 +66,7 @@ will evaluate each application based on the following evaluation criteria:</p>
 <p><strong><u>How to Apply</u></strong>
 </p>
 <p>Please fill up the <a href="/files/Support/Support for Sport Businesses/Leagues_and_Competitions_Grant.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a> and
-email it back to TAY Fu Zhong at <a href="mailto:Sport_LC_grant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sport_LC_grant@sport.gov.sg</a> 
+email it back to TAY Fu Zhong at <a href="mailto:Sport_LC_grant@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sport_LC_grant@sport.gov.sg</a>
 </p>
 <p></p>
 <p><strong><u>Register your Interest</u></strong>
