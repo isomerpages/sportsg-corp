@@ -59,10 +59,10 @@ variant: tiptap
 </p>
 <p><em>(Bottom row) Members of the public participating in shooting and wheelchair rugby inclusive sport tryouts (Photo Credit: SportSG).</em>
 </p>
-<p><strong>, 17 August 2024 </strong>– The second day of Play Inclusive,
-Singapore’s largest inclusive sport competition, kicked off at the OCBC
-Arena this morning, where close to 500 participants, including athletes
-and their unified partners, competed in five sports – 3x3 basketball, floorball,
+<p><strong>17 August 2024 </strong>– The second day of Play Inclusive, Singapore’s
+largest inclusive sport competition, kicked off at the OCBC Arena this
+morning, where close to 500 participants, including athletes and their
+unified partners, competed in five sports – 3x3 basketball, floorball,
 basketball and football skills challenge, and soundball.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>Play Inclusive 2024 saw a record turnout of over 2,200 participants, including
