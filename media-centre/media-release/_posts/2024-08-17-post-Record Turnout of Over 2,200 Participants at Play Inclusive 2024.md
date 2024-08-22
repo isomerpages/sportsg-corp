@@ -55,7 +55,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Singapore, 17 August 2024 </strong>– The second day of Play Inclusive,
+<p><em>(Top row) Athlete and unified partner participating in boccia and relay run sport competition.</em>
+</p>
+<p><em>(Bottom row) Members of the public participating in shooting and wheelchair rugby inclusive sport tryouts (Photo Credit: SportSG).</em>
+</p>
+<p><strong>, 17 August 2024 </strong>– The second day of Play Inclusive,
 Singapore’s largest inclusive sport competition, kicked off at the OCBC
 Arena this morning, where close to 500 participants, including athletes
 and their unified partners, competed in five sports – 3x3 basketball, floorball,
@@ -83,3 +87,5 @@ to celebrate National Day through engagement in sports and ultimately encourage
 Singaporeans to stay healthy and lead healthier lives. For more information
 on Play Inclusive 2024, kindly visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/playinclusive-activesgcircle</a>.
 For more information on GetActive! Singapore 2024, kindly visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/getactive-singapore</a>.</p>
+<p></p>
+<p></p>
