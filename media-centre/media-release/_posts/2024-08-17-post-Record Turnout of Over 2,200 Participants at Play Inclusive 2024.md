@@ -31,7 +31,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,6 +39,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Centre/Media Release/2024/Members_of_the_public_participating_in_shooting_inclusive_sport_tryouts__Photo_Credit__SportSG_.jpg">
