@@ -5,6 +5,7 @@ date: 2013-11-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Call For Singaporeans To Go Red In Support Of National Athletes**
 
@@ -30,56 +31,3 @@ _Giordano the first to say "I AM RED" with the launch of limited edition Team Si
 8. Summing up the Giordano's support for Team Singapore and sports for the greater good, Mr Patrick Yeo, Director of South East Asia Operations, said: "Giordano is thrilled about this first ever sports collaboration with SSC. We would like to pledge our support for Team Singapore on their journey to bring glory to our nation through the launch of 'I AM RED' range of limited edition tees and our contribution to the SportCares Foundation. We would hence like to urge all Singaporeans to buy one of these tees and join us in creating a red wave of support for Team Singapore."
 
 ---
-
-**For media enquiries, please contact:**
-
-Adrienne Ser
-<br>GolinHarris
-<br>Tel: +65 6551 5433
-<br>HP: +65 8571 6855
-<br>Email: [aser@golinharris.com](aser@golinharris.com)
-
-Siti Nurhidayati
-<br>Senior Executive, Media Relations
-<br>Corporate Communications & Relations
-<br>Tel: +65 6500 5246
-<br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
-
----
-
-**About Team Singapore**<br>
-Originally mooted by the then Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by the then Deputy Prime Minister Dr Tony Tan. Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions.
-
-Pride, Performance and Perseverance are the three attributes of Team Singapore. Underscoring the traits of a winning team, these attributes are the important elements of sportsmanship and excellence that propel the nation forward to succeed on the world's sporting stage.
-
-Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
-
-For further information on Team Singapore, please visit www.teamsingapore.com.sg
-
-**Pledge your support for Team Singapore**<br>
-Follow Team Singapore's action on Facebook at www.facebook.com/TeamSG and #ourteamsg on Instagram.
-
-**About Singapore Sports Council**
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
-
-**About Giordano**<br>
-Giordano is a leading international retailer of men's, women's and children's apparel. Established in 1981, Giordano now operates 3,000 stores and counters worldwide. The pursuit of simplicity is at the core of the Giordano culture. The company's unwavering commitment to providing simple, clean lines, quality workmanship, and attentive customer service has helped built a strong loyal following throughout the world.
-
-In Singapore, Giordano has 51 stores island-wide, affirming her position as a leading fashion retailer. Her biggest flagship in South East Asia is now opened at Suntec City. Spanning over 8,000 sqft, it features state of the art sound and lighting systems. The flagship is also wi-fi enabled and carries a selection of exclusive range of merchandise only found at this store.
-
-**About SportCares**<br>
-At the heart of SportCares is the steadfast belief that sport can be a force for social good. Sport can be activated to improve the lives of Singaporeans who are struggling with poverty, living in high-risk situations or simply lack the resources needed to realise higher goals in life.
-
-However with planning and design, sport can change lives.
-
-SportCares was established by Singapore Sports Council to provide opportunities for people to change behaviour and, ultimately, life patterns. SportCares is a foundation and a movement, linking donors, volunteers and recipients. Through a united approach, we can create different pathways to success and social mobility and strengthen the integration of our communities.
-
-Through great coaching, programmes and support, sport can develop people with a winning spirit, an appreciation for teamwork, a commitment to purpose, an understanding of leadership and a love of country.
-
-**SportCares
-<br>Seeding Hope. Creating Opportunities.
-<br>Growing Capabilities. Giving Back. Changing Lives.**
-
-Join the SportCares Movement by emailing: [sportcares@ssc.gov.sg](sportcares@ssc.gov.sg)
