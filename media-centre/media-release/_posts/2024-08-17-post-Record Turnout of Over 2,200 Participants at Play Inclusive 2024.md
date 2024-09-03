@@ -85,7 +85,7 @@ period for athletes and their unified partners.</p>
 Singapore 2024 to bring Singapore residents across all backgrounds together
 to celebrate National Day through engagement in sports and ultimately encourage
 Singaporeans to stay healthy and lead healthier lives. For more information
-on Play Inclusive 2024, kindly visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/playinclusive-activesgcircle</a>.
-For more information on GetActive! Singapore 2024, kindly visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/getactive-singapore</a>.</p>
+on Play Inclusive 2024, kindly visit <a href="https://go.gov.sg/playinclusive-activesgcircle" rel="noopener nofollow" target="_blank">https://go.gov.sg/playinclusive-activesgcircle</a>.
+For more information on GetActive! Singapore 2024, kindly visit <a href="https://www.activesgcircle.gov.sg/getactive-singapore" rel="noopener nofollow" target="_blank">https://www.activesgcircle.gov.sg/getactive-singapore</a>.</p>
 <p></p>
 <p></p>
