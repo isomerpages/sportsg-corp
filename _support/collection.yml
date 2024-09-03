@@ -2,6 +2,7 @@ collections:
   support:
     output: true
     order:
+      - Facilities/Facilities.md
       - Facilities/.keep
       - Payment & Late Charges.md
       - Overview.md
