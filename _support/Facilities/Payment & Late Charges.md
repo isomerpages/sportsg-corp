@@ -1,6 +1,6 @@
 ---
 title: Payment & Late Charges
-permalink: /payment-late-charges/
+permalink: /support-resources/payment-late-charges/
 variant: tiptap
 description: Late payment charges will be imposed on outstanding arrears.
 third_nav_title: Facilities
