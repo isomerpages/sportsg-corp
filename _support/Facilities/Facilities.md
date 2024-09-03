@@ -3,6 +3,7 @@ title: Facilities
 permalink: /support-resources/facilities/
 description: ""
 variant: markdown
+third_nav_title: Facilities
 ---
 Sport Singapore believes that well-designed and efficiently run sports facilities will significantly open up opportunities for a more sporting, recreational and wellness lifestyle for all Singaporeans. 
 
