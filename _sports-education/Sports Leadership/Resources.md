@@ -53,5 +53,4 @@ resources.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PCA" src="/images/Sport%20Education/Sports%20Leadership/Resource/PCA_logo.jpeg">
 </div>
-<p><em>(Impact Analysis Report will be available soon)</em>
-</p>
+<p></p>
