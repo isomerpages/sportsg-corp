@@ -89,7 +89,7 @@ learning around the world.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jZK2x-qPFZk"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OeMst-G-Pw4?si=s9pQHeMn3f3BtLwS"></iframe>
 </div>
 <h4><strong>Game For Life Workshops</strong></h4>
 <p>If you are keen to incorporate the framework into your existing sport
@@ -132,20 +132,9 @@ a keen interest in CLDS (eg. values inculcation in sport) and is currently
 also implementing CLDS practices in his/her teaching/coaching. The Game
 For Life CoP is also for any previous participant of the Game For Life
 workshop who would like to continue learning about CLDS.&nbsp;</p>
-<p><strong>When is the next GFL CoP session?</strong>
-</p>
-<p>The next GFL CoP session is on&nbsp;<strong>23 June (Wed), 7pm - 9pm</strong>.
-The session will be held on&nbsp;<strong>Zoom</strong>. The theme of this
-session is&nbsp;<strong>"Innovative Character and Leadership Development through Sport"</strong>.</p>
-<p>You may sign up for the session&nbsp;<a href="https://form.gov.sg/609b58944610f70011044cea" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Where are the GFL CoP sessions held?</strong>
-</p>
-<p>The GFL CoP sessions are previously held on Sport Singapore's premise
-at Singapore Sports Hub. In view of the pandemic situation, GFL CoP sessions
-will be held virtually until further notice as per COVID-19 government
-advisories.&nbsp;</p>
-<p>Please&nbsp;<a href="mailto:hong_xue_en@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact us</a>&nbsp;if
-you have any questions.</p>
+<p>Community of Practice Sessions are organised about twice a year.</p>
+<p>Please&nbsp;<a href="mailto: eliza_sr_tan@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact us</a>&nbsp;if
+you are interested in being part of the COP.</p>
 <p><strong>Resources:</strong>
 </p>
 <p><a href="/sport-leadership/game-for-life/stories-winning-at-life/" rel="noopener noreferrer nofollow" target="_blank">Stories - Winning At Life</a>
