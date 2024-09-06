@@ -60,6 +60,16 @@ dance enthusiasts across the region, with the youngest being 11 years old.</p>
 <p>More photos of the event can be found below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Centre/Media Release/2024/Overview_of_the_Wall_Balls_Station_at_HYROX__Credit__SportSG_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Centre/Media Release/2024/Participant_at_the_MASS_Skateboarding_Competition__Credits__Kenji_Hurata_from_Millennial_Events_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Centre/Media Release/2024/HYROX_Youngstars_Participants_at_the_Rowing_Station__Credit__SportSG_.jpg">
 </div>
 <p>HYROX Youngstars Participants at the Rowing Station</p>
