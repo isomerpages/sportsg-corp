@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Sports Leadership
 variant: tiptap
 ---
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OeMst-G-Pw4?si=lNHTxNmEoFn1sFuo"></iframe>
+</div>
 <p>Sport offers a parallel pathway to success as it helps people develop
 the skills sets and principles valued by society. Sport can be a powerful
 vehicle if it is designed, structured and delivered with care and forethought.
@@ -34,7 +38,7 @@ educational institutions will be equipped with future skill sets and principles.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coaches</p>
+<p>Sport Coaches</p>
 </li>
 <li>
 <p>Physical and Sport Educators</p>
@@ -83,14 +87,11 @@ in character development through sport using the framework in their coaching.
 This collaboration is also published on RADO's internal shared platform.</p>
 </li>
 <li>
-<p>Game For Life Toolkit is integrated into the&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Latest/2017/3/Game-for-Life-Toolkit-is-featured-in-Olympic-Values-Education-Program-Digital-Toolkit" rel="noopener noreferrer nofollow" target="_blank">Olympic Values Education Programme (OVEP) 2.0 Digital Resource Library</a>,
-which&nbsp;help to reinforce the showcasing and implementation of values-based
-learning around the world.</p>
+<p>Game For Life Toolkit is integrated into the&nbsp;Olympic Values Education
+Programme (OVEP) 2.0 Digital Resource Library, which&nbsp;help to reinforce
+the showcasing and implementation of values-based learning around the world.</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jZK2x-qPFZk"></iframe>
-</div>
 <h4><strong>Game For Life Workshops</strong></h4>
 <p>If you are keen to incorporate the framework into your existing sport
 lessons and trainings, the Game for Life Workshop will equip sport educators&nbsp;with
@@ -132,31 +133,17 @@ a keen interest in CLDS (eg. values inculcation in sport) and is currently
 also implementing CLDS practices in his/her teaching/coaching. The Game
 For Life CoP is also for any previous participant of the Game For Life
 workshop who would like to continue learning about CLDS.&nbsp;</p>
-<p><strong>When is the next GFL CoP session?</strong>
-</p>
-<p>The next GFL CoP session is on&nbsp;<strong>23 June (Wed), 7pm - 9pm</strong>.
-The session will be held on&nbsp;<strong>Zoom</strong>. The theme of this
-session is&nbsp;<strong>"Innovative Character and Leadership Development through Sport"</strong>.</p>
-<p>You may sign up for the session&nbsp;<a href="https://form.gov.sg/609b58944610f70011044cea" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Where are the GFL CoP sessions held?</strong>
-</p>
-<p>The GFL CoP sessions are previously held on Sport Singapore's premise
-at Singapore Sports Hub. In view of the pandemic situation, GFL CoP sessions
-will be held virtually until further notice as per COVID-19 government
-advisories.&nbsp;</p>
-<p>Please&nbsp;<a href="mailto:hong_xue_en@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact us</a>&nbsp;if
-you have any questions.</p>
+<p>Community of Practice Sessions are organised about twice a year.</p>
+<p>Please&nbsp;<a href="mailto: eliza_sr_tan@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact us</a>&nbsp;if
+you are interested in being part of the COP.</p>
 <p><strong>Resources:</strong>
 </p>
-<p><a href="/sport-leadership/game-for-life/stories-winning-at-life/" rel="noopener noreferrer nofollow" target="_blank">Stories - Winning At Life</a>
-</p>
-<p><a href="/sport-leadership/game-for-life/stories-a-winning-mind/" rel="noopener noreferrer nofollow" target="_blank">Stories - A Winning Mind</a>
-</p>
-<p><a href="/sport-leadership/game-for-life/the-winning-edge/" rel="noopener noreferrer nofollow" target="_blank">Stories - A Winning Edge</a>
+<p><a href="https://coachsg.sportsingapore.gov.sg/game-for-life-series" rel="noopener nofollow" target="_blank">Game for Life Documentary Series</a>
 </p>
 <p><a href="/sports-education/sports-leadership/workshop-and-training/" rel="noopener noreferrer nofollow" target="_blank">Workshop and Training</a>
 </p>
 <p><a href="/sport-leadership/game-for-life/guide/" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
+<p></p>
 <p><a href="/sport-leadership/game-for-life/book/" rel="noopener noreferrer nofollow" target="_blank">Book</a>
 </p>
