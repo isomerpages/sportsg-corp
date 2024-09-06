@@ -62,11 +62,14 @@ dance enthusiasts across the region, with the youngest being 11 years old.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Centre/Media Release/2024/Overview_of_the_Wall_Balls_Station_at_HYROX__Credit__SportSG_.jpg">
 </div>
+<p>HYROX Singapore and other SGUSFF activations in Singapore Expo</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Centre/Media Release/2024/Participant_at_the_MASS_Skateboarding_Competition__Credits__Kenji_Hurata_from_Millennial_Events_.jpg">
 </div>
+<p>Participant at the MASS Skateboarding Competition (Photo credit: Kenji
+Hurata from Millennial&nbsp;Events)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
