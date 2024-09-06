@@ -34,7 +34,7 @@ educational institutions will be equipped with future skill sets and principles.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coaches</p>
+<p>Sport Coaches</p>
 </li>
 <li>
 <p>Physical and Sport Educators</p>
@@ -83,9 +83,9 @@ in character development through sport using the framework in their coaching.
 This collaboration is also published on RADO's internal shared platform.</p>
 </li>
 <li>
-<p>Game For Life Toolkit is integrated into the&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Leadership/Latest/2017/3/Game-for-Life-Toolkit-is-featured-in-Olympic-Values-Education-Program-Digital-Toolkit" rel="noopener noreferrer nofollow" target="_blank">Olympic Values Education Programme (OVEP) 2.0 Digital Resource Library</a>,
-which&nbsp;help to reinforce the showcasing and implementation of values-based
-learning around the world.</p>
+<p>Game For Life Toolkit is integrated into the&nbsp;Olympic Values Education
+Programme (OVEP) 2.0 Digital Resource Library, which&nbsp;help to reinforce
+the showcasing and implementation of values-based learning around the world.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
@@ -137,15 +137,12 @@ workshop who would like to continue learning about CLDS.&nbsp;</p>
 you are interested in being part of the COP.</p>
 <p><strong>Resources:</strong>
 </p>
-<p><a href="/sport-leadership/game-for-life/stories-winning-at-life/" rel="noopener noreferrer nofollow" target="_blank">Stories - Winning At Life</a>
-</p>
-<p><a href="/sport-leadership/game-for-life/stories-a-winning-mind/" rel="noopener noreferrer nofollow" target="_blank">Stories - A Winning Mind</a>
-</p>
-<p><a href="/sport-leadership/game-for-life/the-winning-edge/" rel="noopener noreferrer nofollow" target="_blank">Stories - A Winning Edge</a>
+<p><a href="https://coachsg.sportsingapore.gov.sg/game-for-life-series" rel="noopener nofollow" target="_blank">Game for Life Documentary Series</a>
 </p>
 <p><a href="/sports-education/sports-leadership/workshop-and-training/" rel="noopener noreferrer nofollow" target="_blank">Workshop and Training</a>
 </p>
 <p><a href="/sport-leadership/game-for-life/guide/" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
+<p></p>
 <p><a href="/sport-leadership/game-for-life/book/" rel="noopener noreferrer nofollow" target="_blank">Book</a>
 </p>
