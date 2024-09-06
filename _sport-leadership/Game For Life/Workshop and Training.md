@@ -35,4 +35,4 @@ Participants who wish to take a step further in their development as a values-dr
 
 The programme is anchored on Sport Singapore’s Game-for-Life (GFL) framework as the approach for the intentional design of sport for character development (CLDS). Mentoring is a key feature of this programme whereby interested coaches will be matched to an experienced mentor to guide them over a period of about 4 months on effectively layering the affective domain as part of their coaching process before being assessed for their competency.
 
-Find out more [here.](https://coachsg.sportsingapore.gov.sg/game-for-life-mentoring) 
+Find out more [here.](https://coachsg.sportsingapore.gov.sg/game-for-life-mentoring)
