@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Sports Leadership
 variant: tiptap
 ---
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OeMst-G-Pw4?si=lNHTxNmEoFn1sFuo"></iframe>
+</div>
 <p>Sport offers a parallel pathway to success as it helps people develop
 the skills sets and principles valued by society. Sport can be a powerful
 vehicle if it is designed, structured and delivered with care and forethought.
@@ -88,9 +92,6 @@ Programme (OVEP) 2.0 Digital Resource Library, which&nbsp;help to reinforce
 the showcasing and implementation of values-based learning around the world.</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OeMst-G-Pw4?si=s9pQHeMn3f3BtLwS"></iframe>
-</div>
 <h4><strong>Game For Life Workshops</strong></h4>
 <p>If you are keen to incorporate the framework into your existing sport
 lessons and trainings, the Game for Life Workshop will equip sport educators&nbsp;with
