@@ -65,11 +65,9 @@ retail stores only:</p>
 <p>Offer is valid across selected products.</p>
 </li>
 <li>
-<p>Certain product exclusions apply. Excluded categories include, but not
-limited to, newly launched Campaign products, Gazelle (everything including
-Indoor), Samba (everything including Sambaes), Spezials, Adizero Adios
-Pro 3, Adizero Prime X 2 Strung and all Hype products. Please check with
-the in-store staff for more information.</p>
+<p>Certain product exclusions apply. Excluded product categories are based
+on membership CRM voucher exclusions. Please check with the in-store staff
+for more information.</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
@@ -81,6 +79,40 @@ be valid.</p>
 </li>
 <li>
 <p>This offer is only valid till 31 December 2024.</p>
+</li>
+</ul>
+<h5><strong>F45 @ Tanjong Rhu</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>$35 for 2 weeks trial and 10% off membership packages.</p>
+</li>
+<li>
+<p>Offer is only valid at F45 at #02-03, Kallang Wave Mall and cannot be
+used in conjunction with any other existing promotions or discounts.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>This offer is only valid till 31 December 2025.</p>
+</li>
+</ul>
+<h5><strong>F45 @ Tanjong Rhu</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>$35 for 2 weeks trial and 10% off membership packages.</p>
+</li>
+<li>
+<p>Offer is only valid at F45 at #02-03, Kallang Wave Mall and cannot be
+used in conjunction with any other existing promotions or discounts.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>This offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>UNDER ARMOUR</strong></h5>
