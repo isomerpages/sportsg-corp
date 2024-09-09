@@ -81,7 +81,7 @@ be valid.</p>
 <p>This offer is only valid till 31 December 2024.</p>
 </li>
 </ul>
-<h5><strong>F45 @ Tanjong Rhu</strong></h5>
+<h5><strong>F45 @ TANJONG RHU</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>$35 for 2 weeks trial and 10% off membership packages.</p>
