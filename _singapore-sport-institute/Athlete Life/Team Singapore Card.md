@@ -457,7 +457,28 @@ HYDRAGUN website, please click&nbsp;<a href="/files/Our%20Work/Singapore%20Sport
 at the store unless otherwise stated.</p>
 </li>
 <li>
-<p>Offer is valid till 31 Dec 2024.</p>
+<p>Offer is valid till 31 December 2024.</p>
+</li>
+</ul>
+<h5><strong>KSKIN KOREAN EXPRESS FACIAL</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>For every combo facial of $50, $10 will be discounted at Kskin Korean
+Express Facial, located at #01-36, Kallang Wave Mall.</p>
+</li>
+<li>
+<p>Not valid for products.</p>
+</li>
+<li>
+<p>Offer cannot be used in conjunction with any existing promotions or discounts
+at the store.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>OSIM</strong></h5>
