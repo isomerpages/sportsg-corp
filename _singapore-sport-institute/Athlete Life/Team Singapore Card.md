@@ -19,8 +19,9 @@ ActiveSG app as an electronic card (e-Card) to all newly carded and Major
 Games athletes from July 2019.</p>
 <p><strong>Our Card Partners include:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore%20Sport%20Institute/Athlete%20Life/TeamSG_card_partners_for_2024___Jan_update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Sep_update.jpg">
 </div>
 <p>Singapore Sport Institute would like to thank our valued card partners
 for supporting our athletes in achieving their goals. Whether it is sports,
