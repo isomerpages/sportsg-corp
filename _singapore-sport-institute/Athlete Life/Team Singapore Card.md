@@ -142,8 +142,8 @@ in Under Armour Brand Houses at:</p>
 </ul>
 </li>
 <li>
-<p>* Discount is not valid for all&nbsp;<a href="https://www.underarmour.com.sg/en-sg/p/accessories-facemasks-hoods-gaiters/ua_sportsmask_featherweight/1372228.html" rel="noopener noreferrer nofollow" target="_blank">UA Sportsmask</a>,&nbsp;
-<a href="https://www.underarmour.com.sg/en-sg/c/project-rock/" rel="noopener noreferrer nofollow" target="_blank">Project Rock collection</a>&nbsp;and&nbsp;<a href="https://www.underarmour.com.sg/en-sg/t/curry-brand/" rel="noopener noreferrer nofollow" target="_blank">Curry Brand collection</a>.</p>
+<p>* Discount is not valid for the latest Project Rock, Curry Brand and Slip
+Speed Mega Footwear.</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
@@ -155,6 +155,23 @@ be valid.</p>
 </li>
 <li>
 <p>Offer is only valid till 31 December 2024.</p>
+</li>
+</ul>
+<h5><strong>XUAN SPORTS</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% off new sign-ups.</p>
+</li>
+<li>
+<p>Offer is only valid at Xuan Sports at #02-01, Kallang Wave Mall and cannot
+be used in conjunction with any other existing promotions or discounts.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>This offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <hr>
