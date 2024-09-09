@@ -500,6 +500,27 @@ to TS athletes via email.</p>
 </ul>
 <hr>
 <h4><strong>HEALTHCARE</strong></h4>
+<h5><strong>BMJ PHYSIOTHERAPY, SPORTS MASSAGE &amp; SPORTS PERFORMANCE CLINIC</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% off Ala carte services at BMJ Physiotherapy, Sports Massage &amp;
+Sports Performance Clinic at #01-79 at Kallang Wave Mall.</p>
+</li>
+<li>
+<p>Valid for use on weekdays only.</p>
+</li>
+<li>
+<p>Offer cannot be used in conjunction with any existing promotions or discounts
+at the store.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
+</li>
+</ul>
 <h5><strong>NEWPORT DENTAL</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
