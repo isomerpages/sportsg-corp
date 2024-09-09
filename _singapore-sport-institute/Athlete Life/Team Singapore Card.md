@@ -19,8 +19,9 @@ ActiveSG app as an electronic card (e-Card) to all newly carded and Major
 Games athletes from July 2019.</p>
 <p><strong>Our Card Partners include:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore%20Sport%20Institute/Athlete%20Life/TeamSG_card_partners_for_2024___Jan_update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Sep_update.jpg">
 </div>
 <p>Singapore Sport Institute would like to thank our valued card partners
 for supporting our athletes in achieving their goals. Whether it is sports,
@@ -65,11 +66,9 @@ retail stores only:</p>
 <p>Offer is valid across selected products.</p>
 </li>
 <li>
-<p>Certain product exclusions apply. Excluded categories include, but not
-limited to, newly launched Campaign products, Gazelle (everything including
-Indoor), Samba (everything including Sambaes), Spezials, Adizero Adios
-Pro 3, Adizero Prime X 2 Strung and all Hype products. Please check with
-the in-store staff for more information.</p>
+<p>Certain product exclusions apply. Excluded product categories are based
+on membership CRM voucher exclusions. Please check with the in-store staff
+for more information.</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
@@ -81,6 +80,40 @@ be valid.</p>
 </li>
 <li>
 <p>This offer is only valid till 31 December 2024.</p>
+</li>
+</ul>
+<h5><strong>F45 @ TANJONG RHU</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>$35 for 2 weeks trial and 10% off membership packages.</p>
+</li>
+<li>
+<p>Offer is only valid at F45 at #02-03, Kallang Wave Mall and cannot be
+used in conjunction with any other existing promotions or discounts.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>This offer is only valid till 31 December 2025.</p>
+</li>
+</ul>
+<h5><strong>NEUE FIT</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy 10% off all Neue Fit martial arts and fitness packages.</p>
+</li>
+<li>
+<p>Offer is only valid at Neue Fit at #02-07, Kallang Wave Mall and cannot
+be used in conjunction with any other existing promotions or discounts.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>This offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>UNDER ARMOUR</strong></h5>
@@ -110,8 +143,8 @@ in Under Armour Brand Houses at:</p>
 </ul>
 </li>
 <li>
-<p>* Discount is not valid for all&nbsp;<a href="https://www.underarmour.com.sg/en-sg/p/accessories-facemasks-hoods-gaiters/ua_sportsmask_featherweight/1372228.html" rel="noopener noreferrer nofollow" target="_blank">UA Sportsmask</a>,&nbsp;
-<a href="https://www.underarmour.com.sg/en-sg/c/project-rock/" rel="noopener noreferrer nofollow" target="_blank">Project Rock collection</a>&nbsp;and&nbsp;<a href="https://www.underarmour.com.sg/en-sg/t/curry-brand/" rel="noopener noreferrer nofollow" target="_blank">Curry Brand collection</a>.</p>
+<p>* Discount is not valid for the latest Project Rock, Curry Brand and Slip
+Speed Mega Footwear.</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
@@ -125,13 +158,30 @@ be valid.</p>
 <p>Offer is only valid till 31 December 2024.</p>
 </li>
 </ul>
+<h5><strong>XUAN SPORTS</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% off new sign-ups.</p>
+</li>
+<li>
+<p>Offer is only valid at Xuan Sports at #02-01, Kallang Wave Mall and cannot
+be used in conjunction with any other existing promotions or discounts.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>This offer is only valid till 31 December 2025.</p>
+</li>
+</ul>
 <hr>
 <h4><strong>DINING</strong></h4>
 <h5><strong>CHEFS' PLAYGROUND</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>10% discount off his/her total bill at Chefs' Playground, located at Kallang
-Leisure Park (#01-30).</p>
+<p>10% discount off his/her total bill (excluding set meals) at Chefs' Playground,
+located at Kallang Leisure Park (#01-30).</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
@@ -149,7 +199,7 @@ for the discount to be valid.</p>
 <h5><strong>CHICHA SAN CHEN</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>5% discount off Food &amp; Beverages items at CHICHA San Chen at level
+<p>10% discount off Food &amp; Beverages items at CHICHA San Chen at level
 1 of Kallang Wave Mall</p>
 </li>
 <li>
@@ -196,25 +246,48 @@ be valid.</p>
 <p>Offer is valid till 31 December 2024.</p>
 </li>
 </ul>
-<h5><strong>PLAY @ DPS</strong></h5>
+<h5><strong>PASTAMANIA</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>20% discount off selected Food and Beverages items at PLAY @ DPS at EXP
-Esports Experience Centre, level 2 of Kallang Wave Mall.</p>
+<p>10% discount on Ala carte items, at PastaMania, located at #01-21/K10
+of Kallang Wave Mall.</p>
 </li>
 <li>
-<p>Discount is not valid for all alcoholic drinks.</p>
+<p>Promotion is not valid in conjunction with any other discounts, privileges,
+benefits, or rewards redemptions including TriplePlus programme.</p>
 </li>
 <li>
 <p>TS Rewards Card must be presented prior to payment for the discount to
 be valid.</p>
 </li>
 <li>
-<p>Offer cannot be used in conjunction with any existing promotions or discounts
-at the store unless otherwise stated.</p>
+<p>PastaMania reserves the rights to amend or change any of the terms &amp;
+conditions without prior notice.</p>
 </li>
 <li>
-<p>Offer is valid till 31 December 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
+</li>
+</ul>
+<h5><strong>POPEYES LOUISIANA KITCHEN</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% off on weekdays, 10AM to 4PM (excluding Public Holidays) at Popeyes
+Louisiana Kitchen, located at #02-02, of Kallang Wave Mall.</p>
+</li>
+<li>
+<p>Promotion is not valid in conjunction with any other discounts, offers
+and/or privileges.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Popeyes Singapore Management reserves the rights to amend or change any
+of the terms &amp; conditions without prior notice.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>PRESOTEA</strong></h5>
@@ -233,6 +306,79 @@ without prior notice.</p>
 </li>
 <li>
 <p>Offer is valid till 31 Dec 2024.</p>
+</li>
+</ul>
+<h5><strong>SUKI-YA</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>15% off regular buffet at Suki-Ya, located at #01-35, of Kallang Wave
+Mall.</p>
+</li>
+<li>
+<p>Not valid on weekends and event days, public holidays, special occasions,
+and their respective eve of.</p>
+</li>
+<li>
+<p>Offer is valid on regular buffet only and is not applicable for additional
+top-ups (e.g. premium meat top-up) or Ala carte drinks (e.g. beer, sake
+and mineral water).</p>
+</li>
+<li>
+<p>Valid for dine-in only, not applicable for private events, take-away or
+bookings of more than 10 pax.</p>
+</li>
+<li>
+<p>Limited to one redemption per bill per table, no splitting of bills/tables
+allowed.</p>
+</li>
+<li>
+<p>Promotion is not valid in conjunction with any other discounts, offers,
+privileges, and vouchers in the same bill.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Management reserves the rights to amend menu, prices, discount and/or
+terms &amp; conditions without any prior notice.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
+</li>
+</ul>
+<h5><strong>TYPHOON CAFE</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>15% off Ala carte items at Typhoon Cafe, located at #01-35, of Kallang
+Wave Mall.</p>
+</li>
+<li>
+<p>Not valid on weekends and event days, public holidays, special occasions,
+and their respective eve of.</p>
+</li>
+<li>
+<p>Valid for dine-in only, not applicable for private events, take-away or
+bookings of more than 10 pax.</p>
+</li>
+<li>
+<p>Limited to one redemption per bill per table, no splitting of bills/tables
+allowed.</p>
+</li>
+<li>
+<p>Promotion is not valid in conjunction with any other discounts, offers,
+privileges, and vouchers in the same bill.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Management reserves the rights to amend menu, prices, discount and/or
+terms &amp; conditions without any prior notice.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>YU KEE SPECIALITIES</strong></h5>
@@ -312,7 +458,28 @@ HYDRAGUN website, please click&nbsp;<a href="/files/Our%20Work/Singapore%20Sport
 at the store unless otherwise stated.</p>
 </li>
 <li>
-<p>Offer is valid till 31 Dec 2024.</p>
+<p>Offer is valid till 31 December 2024.</p>
+</li>
+</ul>
+<h5><strong>KSKIN KOREAN EXPRESS FACIAL</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>For every combo facial of $50, $10 will be discounted at Kskin Korean
+Express Facial, located at #01-36, Kallang Wave Mall.</p>
+</li>
+<li>
+<p>Not valid for products.</p>
+</li>
+<li>
+<p>Offer cannot be used in conjunction with any existing promotions or discounts
+at the store.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>OSIM</strong></h5>
@@ -334,6 +501,27 @@ to TS athletes via email.</p>
 </ul>
 <hr>
 <h4><strong>HEALTHCARE</strong></h4>
+<h5><strong>BMJ PHYSIOTHERAPY, SPORTS MASSAGE &amp; SPORTS PERFORMANCE CLINIC</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% off Ala carte services at BMJ Physiotherapy, Sports Massage &amp;
+Sports Performance Clinic at #01-79 at Kallang Wave Mall.</p>
+</li>
+<li>
+<p>Valid for use on weekdays only.</p>
+</li>
+<li>
+<p>Offer cannot be used in conjunction with any existing promotions or discounts
+at the store.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
+</li>
+</ul>
 <h5><strong>NEWPORT DENTAL</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
