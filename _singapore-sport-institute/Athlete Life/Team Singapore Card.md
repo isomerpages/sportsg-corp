@@ -346,6 +346,40 @@ terms &amp; conditions without any prior notice.</p>
 <p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
+<h5><strong>TYPHOON CAFE</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>15% off Ala carte items at Typhoon Cafe, located at #01-35, of Kallang
+Wave Mall.</p>
+</li>
+<li>
+<p>Not valid on weekends and event days, public holidays, special occasions,
+and their respective eve of.</p>
+</li>
+<li>
+<p>Valid for dine-in only, not applicable for private events, take-away or
+bookings of more than 10 pax.</p>
+</li>
+<li>
+<p>Limited to one redemption per bill per table, no splitting of bills/tables
+allowed.</p>
+</li>
+<li>
+<p>Promotion is not valid in conjunction with any other discounts, offers,
+privileges, and vouchers in the same bill.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Management reserves the rights to amend menu, prices, discount and/or
+terms &amp; conditions without any prior notice.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
+</li>
+</ul>
 <h5><strong>YU KEE SPECIALITIES</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
