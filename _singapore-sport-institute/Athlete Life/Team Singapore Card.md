@@ -267,6 +267,28 @@ conditions without prior notice.</p>
 <p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
+<h5><strong>POPEYES LOUISIANA KITCHEN</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% off on weekdays, 10AM to 4PM (excluding Public Holidays) at Popeyes
+Louisiana Kitchen, located at #02-02, of Kallang Wave Mall.</p>
+</li>
+<li>
+<p>Promotion is not valid in conjunction with any other discounts, offers
+and/or privileges.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>Popeyes Singapore Management reserves the rights to amend or change any
+of the terms &amp; conditions without prior notice.</p>
+</li>
+<li>
+<p>Offer is valid till 31 December 2025.</p>
+</li>
+</ul>
 <h5><strong>PRESOTEA</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
