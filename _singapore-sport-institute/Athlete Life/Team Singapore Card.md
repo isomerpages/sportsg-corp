@@ -179,8 +179,8 @@ be valid.</p>
 <h5><strong>CHEFS' PLAYGROUND</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>10% discount off his/her total bill at Chefs' Playground, located at Kallang
-Leisure Park (#01-30).</p>
+<p>10% discount off his/her total bill (excluding set meals) at Chefs' Playground,
+located at Kallang Leisure Park (#01-30).</p>
 </li>
 <li>
 <p>Offer cannot be used in conjunction with any other existing promotions
@@ -198,7 +198,7 @@ for the discount to be valid.</p>
 <h5><strong>CHICHA SAN CHEN</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>5% discount off Food &amp; Beverages items at CHICHA San Chen at level
+<p>10% discount off Food &amp; Beverages items at CHICHA San Chen at level
 1 of Kallang Wave Mall</p>
 </li>
 <li>
@@ -245,25 +245,26 @@ be valid.</p>
 <p>Offer is valid till 31 December 2024.</p>
 </li>
 </ul>
-<h5><strong>PLAY @ DPS</strong></h5>
+<h5><strong>PASTAMANIA</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>20% discount off selected Food and Beverages items at PLAY @ DPS at EXP
-Esports Experience Centre, level 2 of Kallang Wave Mall.</p>
+<p>10% discount on Ala carte items, at PastaMania, located at #01-21/K10
+of Kallang Wave Mall.</p>
 </li>
 <li>
-<p>Discount is not valid for all alcoholic drinks.</p>
+<p>Promotion is not valid in conjunction with any other discounts, privileges,
+benefits, or rewards redemptions including TriplePlus programme.</p>
 </li>
 <li>
 <p>TS Rewards Card must be presented prior to payment for the discount to
 be valid.</p>
 </li>
 <li>
-<p>Offer cannot be used in conjunction with any existing promotions or discounts
-at the store unless otherwise stated.</p>
+<p>PastaMania reserves the rights to amend or change any of the terms &amp;
+conditions without prior notice.</p>
 </li>
 <li>
-<p>Offer is valid till 31 December 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>PRESOTEA</strong></h5>
