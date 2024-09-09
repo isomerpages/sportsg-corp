@@ -98,14 +98,14 @@ be valid.</p>
 <p>This offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
-<h5><strong>F45 @ Tanjong Rhu</strong></h5>
+<h5><strong>NEUE FIT</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>$35 for 2 weeks trial and 10% off membership packages.</p>
+<p>Enjoy 10% off all Neue Fit martial arts and fitness packages.</p>
 </li>
 <li>
-<p>Offer is only valid at F45 at #02-03, Kallang Wave Mall and cannot be
-used in conjunction with any other existing promotions or discounts.</p>
+<p>Offer is only valid at Neue Fit at #02-07, Kallang Wave Mall and cannot
+be used in conjunction with any other existing promotions or discounts.</p>
 </li>
 <li>
 <p>TS Rewards Card must be presented prior to payment for the discount to
