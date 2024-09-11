@@ -26,22 +26,14 @@ topics.&nbsp;</p>
 <p>Besides organising coach development programmes, CoachSG also manages
 the&nbsp;<a href="/support-resources/activesg-programme-partnership/nroc-sports/" rel="noopener noreferrer nofollow" target="_blank">National Registry of Coaches</a>&nbsp;(NROC)&nbsp;who
 are accredited and committed to abide by its Code of Ethics.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Support/Covid%2019/covid19-support.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="3">
-<p><strong>COVID-19 SUPPORT</strong>
-<br>This page is a compilation of COVID-19 support measures that Singapore
-coaches may find useful in this period.</p>
-<p><a href="/support-resources/covid-19/covid-19-support/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -97,7 +89,7 @@ needs by providing courses to upgrade coaching skills.</p>
 <p><strong>CONTINUING COACH DEVELOPMENT</strong>
 <br>Never underestimate the importance of a coach to an athlete. Coaches play
 a vital role in the development of both athletes and individuals.</p>
-<p><a href="/support-resources/coaches-corner/continuing-coach-development/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<p><a href="/support-resources/coaches-corner/continuing-coach-development/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -124,7 +116,7 @@ of recognition for coaches in Singapore.</p>
 <td rowspan="1" colspan="3">
 <p><strong>FEATURED COACH</strong>
 </p>
-<p><a href="/support-resources/coaches-corner/featured-coach/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<p><a href="/support-resources/coaches-corner/featured-coach/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
@@ -138,7 +130,7 @@ of recognition for coaches in Singapore.</p>
 <p><strong>FUNDING</strong>
 <br>Sport Singapore offers a number of grants and funds, providing financial
 assistance for coaches looking for professional skills and development.</p>
-<p><a href="/support-resources/coaches-corner/funding/" rel="noopener noreferrer nofollow" target="_blank">Read more</a> 
+<p><a href="/support-resources/coaches-corner/funding/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
