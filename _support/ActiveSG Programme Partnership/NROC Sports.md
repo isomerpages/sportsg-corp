@@ -111,8 +111,8 @@ the following links:</p>
 </ul>
 <p><strong>Where to find an NROC coach?</strong>&nbsp;</p>
 <p>NROC coaches who maintain an Active membership, and who choose to have
-their profiles published, would be listed on our myActiveSG website called
-"<a href="https://www.myactivesg.com/Sports/Find-a-Coach" rel="noopener noreferrer nofollow" target="_blank">Find a Coach</a>".</p>
+their profiles published, would be listed on the <a href="https://coachsg.sportsingapore.gov.sg/nroc/find-a-coach" rel="noopener nofollow" target="_blank">Find a Coach</a> section
+on our CoachSG website.</p>
 <p><strong>Benefits for NROC Members (Coaches)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -130,8 +130,8 @@ a mini-guide on e-card, and <a href="/files/Support/National%20Registry%20of%20C
 e-logbook)</p>
 </li>
 <li>
-<p>Profile available for search on "<a href="https://www.myactivesg.com/Sports/Find-a-Coach" rel="noopener noreferrer nofollow" target="_blank">Find a Coach</a>"
-- an&nbsp;online database of NROC coaches</p>
+<p>Profile available for search on <a href="https://coachsg.sportsingapore.gov.sg/nroc/find-a-coach" rel="noopener nofollow" target="_blank">Find a Coach</a> -
+an&nbsp;online database of NROC coaches</p>
 </li>
 <li>
 <p>Eligible to apply for <a href="/support-resources/coaches-corner/funding/" rel="noopener noreferrer nofollow" target="_blank">Coach Capability Development Grant</a>
