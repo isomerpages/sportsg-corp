@@ -76,12 +76,7 @@ SportSync account to claim CCE hours for the course.</p>
 </p>
 <h5><strong>Other Resources</strong></h5>
 <p><strong>CoachSG Events</strong>:</p>
-<p><a href="https://www.sportsingapore.gov.sg/Athletes-Coaches/CoachSG/Conference-2019/Resources" rel="noopener noreferrer nofollow" target="_blank">CoachSG Conference 2019</a>
-</p>
-<p><a href="https://www.sportsingapore.gov.sg/Athletes-Coaches/CoachSG/Conference-2018/Resources" rel="noopener noreferrer nofollow" target="_blank">CoachSG Conference 2018</a>
-</p>
-<p><a href="https://www.sportsingapore.gov.sg/athletes-coaches/coachsg/conference-2017/resources" rel="noopener noreferrer nofollow" target="_blank">CoachSG Conference 2017</a>
-</p>
+<p></p>
 <p><a href="/files/Support/Coaches'%20Corner/Continuing%20Coach%20Development/Coaching%20Learning%20Resources/Presentation_Materials_from_Past_CCE_Workshops_v7.pdf" rel="noopener noreferrer nofollow" target="_blank">Workshop Videos and Presentation Materials from Past Continuing Coach Education (CCE) Workshops</a>
 </p>
 <p><strong>Research Articles</strong>
