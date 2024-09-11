@@ -2,7 +2,6 @@ collections:
   sports-education:
     output: true
     order:
-      - Test.md
       - Overview.md
       - History of SportSG/.keep
       - History of SportSG/Introduction.md
