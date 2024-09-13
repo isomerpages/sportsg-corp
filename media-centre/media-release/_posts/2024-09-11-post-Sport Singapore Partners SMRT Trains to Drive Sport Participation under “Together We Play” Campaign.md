@@ -110,7 +110,9 @@ the website <strong><a href="https://www.activesgcircle.gov.sg/together-we-play"
 <p></p>
 <p><strong><u>Annexes</u></strong>
 </p>
-<p>Annex A: Details on ActiveSG SMRT Zumba Fitness Workouts</p>
-<p>Annex B: Snapshot of topline findings from the 2023 NSPS</p>
+<p>Annex A: <a href="/files/Media Centre/Media Release/2023 &amp; 2024/Annex_A___Details_on_ActiveSG_SMRT_Zumba_Fitness_Workouts.pdf" rel="noopener noreferrer nofollow" target="_blank">Details on ActiveSG SMRT Zumba Fitness Workouts</a>
+</p>
+<p>Annex B: <a href="/files/Media Centre/Media Release/2023 &amp; 2024/Annex_B___Snapshot_of_topline_findings_from_the_2023_NSPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Snapshot of topline findings from the 2023 NSPS</a>
+</p>
 <p></p>
 <p></p>
