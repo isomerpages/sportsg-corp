@@ -14,7 +14,7 @@ The Get Active Questionnaire (GAQ) is designed for individuals to find out more 
 
 Click the links below to access the GAQ in your preferred language:
 
-*[Get Active Questionnaire (English)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/ENG_10688_GAQ_Flyers_FINAL__17_Sept_.pdf) 
+* [Get Active Questionnaire (English)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/ENG_10688_GAQ_Flyers_FINAL__17_Sept_.pdf)
 * [Get Active Questionnaire (Chinese)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/CHN_10688A_Get_Active_Questionaire_FINAL__17_Sept_.pdf)
 * [Get Active Questionnaire (Malay)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/MAL_10688D_Get_Active_Questionaire_FINAL__17_Sept_.pdf)
 * [Get Active Questionnaire (Tamil)](/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/TML_10688C_Get_Active_Questionaire_FINAL__17_Sept_.pdf)
