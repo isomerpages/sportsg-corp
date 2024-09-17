@@ -68,19 +68,19 @@ that all sports activities can be enjoyed safely.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/ENG-10688_GAQ_Flyers_20Mar19_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Get Active Questionnaire (ENGLISH)</a>
+<p><a href="/files/Sport Education/Sport Safety/Resources &amp; Useful Links/ENG_10688_GAQ_Flyers_FINAL__17_Sept_.pdf" rel="noopener nofollow" target="_blank">Get Active Questionnaire (English)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/CHN-10688A_Get%20Active%20Questionaire_22Apr20_1245pm_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Get Active Questionnaire (CHINESE)</a>
+<p><a href="/files/Sport Education/Sport Safety/Resources &amp; Useful Links/CHN_10688A_Get_Active_Questionaire_FINAL__17_Sept_.pdf" rel="noopener nofollow" target="_blank">Get Active Questionnaire (Chinese)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/MAL-10688D_Get%20Active%20Questionaire_22Apr20_105pm_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Get Active Questionnaire (MALAY)</a>
+<p><a href="/files/Sport Education/Sport Safety/Resources &amp; Useful Links/MAL_10688D_Get_Active_Questionaire_FINAL__17_Sept_.pdf" rel="noopener nofollow" target="_blank">Get Active Questionnaire (Malay)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Sports%20Safe%20U%20Guide/TML-10688C_Get%20Active%20Questionaire_8Apr20_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Get Active Questionnaire (TAMIL)</a>
+<p><a href="/files/Sport Education/Sport Safety/Resources &amp; Useful Links/TML_10688C_Get_Active_Questionaire_FINAL__17_Sept_.pdf" rel="noopener nofollow" target="_blank">Get Active Questionnaire (Tamil)</a>
 </p>
 </li>
 <li>
