@@ -62,7 +62,7 @@ For FY 2025, the nomination period is from 16 September 2024 to 16 October
 <p><strong>Submission Guidelines:</strong>
 </p>
 <p>Please read the Singapore High Performance Sport Handbook carefully, more
-detail is shared in the circulati</p>
+detail is shared in the circulation.</p>
 <p>Incomplete and/or self-nominations will not be considered.</p>
 <p><a href="/files/Singapore_High_Performance_Sport_Handbook_Version_11.pdf" rel="noopener nofollow" target="_blank">Singapore High Performance Sport Handbook Version 11</a>
 </p>
