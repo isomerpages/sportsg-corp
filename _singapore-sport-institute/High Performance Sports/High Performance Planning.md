@@ -44,7 +44,7 @@ the athlete’s profile / potential to achieve at the Major games or its
 equivalent. Performance is assessed based on the athlete’s holistic achievement
 profile and not on just a single point of achievement during the assessment
 period.</p>
-<p><strong>Sport Excellence Scholarship (<em>spex</em>Scholarship) and Sport Excellence Potential (<em>spex</em>Potential) Programmes </strong>
+<p><strong>Sport Excellence Scholarship (<em>spex</em>Scholarship) and Sport Excellence Potential (<em>spex</em>Potential) Programmes</strong>
 </p>
 <p>The <em>spex</em>Scholarship and the <em>spex</em>Potential programmes provide
 an enhanced level of support for athletes within the High Performance Sports
@@ -64,9 +64,5 @@ For FY 2025, the nomination period is from 16 September 2024 to 16 October
 <p>Please read the Singapore High Performance Sport Handbook carefully, more
 detail is shared in the circulati</p>
 <p>Incomplete and/or self-nominations will not be considered.</p>
-<p><a href="/files/Our%20Work/Singapore%20Sports%20Institute/High%20Performance%20Planning/2024singapore%20high%20performance%20sports%20handbook%20version10%20.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 HPS handbook</a>
-</p>
-<p><a href="/files/Our%20Work/Singapore%20Sports%20Institute/High%20Performance%20Planning/fy24%20spexpotential%20nomination%20guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">FY24 spexPotential nomination</a>
-</p>
-<p><a href="/files/Our%20Work/Singapore%20Sports%20Institute/High%20Performance%20Planning/fy24%20spexscholarship%20nomination%20guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">FY24 spexscholarship nomination</a>
+<p><a href="/files/Singapore_High_Performance_Sport_Handbook_Version_11.pdf" rel="noopener nofollow" target="_blank">Singapore High Performance Sport Handbook Version 11</a>
 </p>
