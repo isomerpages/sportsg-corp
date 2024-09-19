@@ -115,10 +115,10 @@ is also a Singapore Sport Hall of Famer, and <strong>Ms Quek Soo Teng </strong>(
 who have been appointed as Ordinary Members.</p>
 </li>
 <li>
-<p>Former national footballer <strong>Mr Sudhershen Hariram</strong> and current
-water polo athlete <strong>Mr Koh Jian Ying</strong> who have been appointed
-as Legal Members. The latter served as an Ordinary Member during the inaugural
-term.</p>
+<p>Former professional footballer <strong>Mr Sudhershen Hariram</strong> and
+current water polo athlete <strong>Mr Koh Jian Ying</strong> who have been
+appointed as Legal Members. The latter served as an Ordinary Member during
+the inaugural term.</p>
 </li>
 <li>
 <p>New Legal Member <strong>Mr Eugene Quah</strong>, partner at Matthew Chiong
