@@ -19,10 +19,6 @@ variant: tiptap
 <p><a href="/files/Media Centre/Annual Reports/23_24b.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report 23/24 (Part 2)</a>
 </p>
 </li>
-<li>
-<p><a href="/files/Media Centre/Annual Reports/23_24c.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report 23/24 (Part 3)</a>
-</p>
-</li>
 </ul>
 </li>
 <li>
