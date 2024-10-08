@@ -7,5 +7,8 @@ description: Explore Sport Singapore's corporate structure, including key
 third_nav_title: Management
 variant: tiptap
 ---
-![Sport Singapore Organisational Chart](/images/About%20Us/Management/sportsg%20org%20chart%20d1%20260423-02.jpg)
-<small>As at 3 April 2023</small>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sport Singapore Organisational Chart" src="/images/About Us/Management/Sport_Singapore_Organisational_Chart.jpg">
+</div>
+<p>As at 1 October 2024</p>
