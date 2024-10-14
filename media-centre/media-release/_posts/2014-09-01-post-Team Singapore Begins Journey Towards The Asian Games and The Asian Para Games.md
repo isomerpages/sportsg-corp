@@ -5,6 +5,7 @@ date: 2014-09-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Team Singapore Begins Journey Towards The Asian Games and The Asian Para Games**
 Close to 300 Team Singapore athletes and officials gathered at a flag presentation ceremony to commemorate their journey towards inspiring the nation at the Asian Games and the Asian Para Games between September and October 2014 in Incheon, Korea.
@@ -90,7 +91,7 @@ For more information, please visit [Singapore National Olympic Council](https://
 **About Sport Singapore**<br>
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport. 
 
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/@SingaporeSports](https://www.youtube.com/@SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 **About Singapore National Paralympic Council**<br>
 Formed on 23 June 2008, the Singapore National Paralympic Council (SNPC) is the sole national body recognised by the International Paralympic Committee (IPC) to represent disability sports in Singapore. The SNPC takes over the reins of selecting elite athletes with disability for IPC-sanctioned competitions from the Singapore Disability Sports Council (SDSC), such as the Paralympic Games, Commonwealth Games, Asian Para Games, ASEAN Para Games and Asian Para Games.
