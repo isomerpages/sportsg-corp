@@ -15,6 +15,7 @@ description: The GetActive! Singapore (GASG) 2023, the annual national day
   in the festivities as the nation celebrates Singapore’s 58 years of
   independence through sport and active play.
 image: ""
+variant: markdown
 ---
 Celebrating National Day through sport and active play, with more exciting offerings in partnership with NDP at the GetActive!SG Heartland Festivals and 12-days of Majulah Fiesta sporting fun at the Singapore Sports Hub.
 
@@ -28,7 +29,7 @@ ___Something for everyone at GASG 2023___
 
 **GASG Sport Festivals and Heartland Festivals**
 
-A Sport Festival extravaganza will take place on the weekends between 29 July to 6 August at five ActiveSG Sport Centres<sup>1</sup>. On 29th and 30th July, water sport enthusiasts can take part in various water sports and fitness activities at the GASG Sport Festivals organised by Team Nila volunteers. Participants can challenge themselves to complete the swimming challenge and water obstacle course or try their hand at canoeing, stand-up paddling, water rock climbing, aqua aerobics and many more. There will also be food and beverage booths and goodie bags up for grabs! On 5th and 6th August, keep fit and have fun at the GASG Heartland Festivals<sup>2</sup> – this collaboration with NDP will include sports try-outs, exhibitions, performances, and activities for families. Check out the festivals here: [Sport Festivals](https://www.activesgcircle.gov.sg/getactive-singapore/sport-festivals) and [Heartland Festivals](https://www.activesgcircle.gov.sg/getactive-singapore/heartland-festivals)
+A Sport Festival extravaganza will take place on the weekends between 29 July to 6 August at five ActiveSG Sport Centres<sup>1</sup>. On 29th and 30th July, water sport enthusiasts can take part in various water sports and fitness activities at the GASG Sport Festivals organised by Team Nila volunteers. Participants can challenge themselves to complete the swimming challenge and water obstacle course or try their hand at canoeing, stand-up paddling, water rock climbing, aqua aerobics and many more. There will also be food and beverage booths and goodie bags up for grabs! On 5th and 6th August, keep fit and have fun at the GASG Heartland Festivals<sup>2</sup> – this collaboration with NDP will include sports try-outs, exhibitions, performances, and activities for families. 
 
 **Pesta Sukan**
 
@@ -38,7 +39,7 @@ Pesta Sukan will continue to promote camaraderie through friendly competitions a
 
 At the GASG showcase at the Kallang Wave Mall Atrium from 29 July to 8 August, visitors can gain useful knowledge and understand the benefits of measuring up at Active Health’s ‘Measuring is Knowing’ campaign. They will learn more about their fitness and health status and find their own “Active Health Web”. Backed by sport science, the Active Health Web aims to guide participants on where they stand in the five fitness components of cardiorespiratory fitness, muscular strength, balance, muscular power, and agility. Upon completion, participants will receive digital resource to help them improve on their identified component to work on, including a simple self-guided assessment they can perform on a regular basis to track their progress. 
 
-At the Active Health experiential zone, visitors who have completed the Active Health Web will be issued a pass to qualify and compete in the “Active Health Challenge” where they will also learn how the different components of physical fitness relate to everyday activities. Find out more about the [Active Health Experience](https://www.activesgcircle.gov.sg/getactive-singapore/active-health).   
+At the Active Health experiential zone, visitors who have completed the Active Health Web will be issued a pass to qualify and compete in the “Active Health Challenge” where they will also learn how the different components of physical fitness relate to everyday activities. 
 
 **GetActive! Workout 2023: Dance Of The Nation**
 
@@ -69,7 +70,7 @@ ___Going Green at GASG 2023___
 In support of the Singapore Green Plan for a resilient future and sustainable living, SportSG will continue to prioritise eco-friendly options and drive outreach efforts to raise environmental awareness. At GASG 2023, organisers will reduce single use plastic bottles reuse, and recycle venue pressing and sports equipment, amongst other 
 sustainability efforts. 
 
-For more information on GASG 2023, visit: [GetActive!SG 2023](https://circle.myactivesg.com/getactive-singapore). More details of GASG key events can be found in 
+For more information on GASG 2023, visit: [GetActive!SG](https://www.activesgcircle.gov.sg/getactive-singapore). More details of GASG key events can be found in 
 [Annex A](/files/annex%20a.pdf).
 
 
