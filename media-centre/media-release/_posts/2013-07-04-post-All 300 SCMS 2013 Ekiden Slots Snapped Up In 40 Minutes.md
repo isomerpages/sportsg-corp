@@ -41,7 +41,7 @@ variant: markdown
 
 11. Added Mr Lim: "SportCares was set up to improve access and opportunities for people who lacked the resources to participate in and grow through well-designed sport. With the money raised, we will be able to do more through our SportCares' programmes to help people push beyond the limits of their experience and discover their true potential. I hope that SCMS 2013 will lead the way and inspire more individuals and future sports events organisers to support the SportCares movement."
 
-12. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com](https://www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](https://www.marathonsingapore.com).
+12. For further details of the SCMS 2013, including race registration, please visit the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.marathonsingapore.com](https://www.marathonsingapore.com).
 
 ---
 

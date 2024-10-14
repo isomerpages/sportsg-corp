@@ -26,7 +26,15 @@ testing and monitoring, applied research and education.</p>
 <p>Strength and Conditioning</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
@@ -52,14 +60,8 @@ target.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPORT NUTRITION</strong> 
-<br>Without the proper fuel, an athlete's body cannot achieve peak performance.
-<br>
-<br>This is why the Sport Nutrition Unit helps our athletes to plan their
-diets, ensuring that they are getting the proper nutrition during training,
-competition and recovery. Nutritional needs vary with each phase of training,
-and sport nutrition promotes healthy, responsible eating at all times.
-This includes advising our athletes about their nutritional supplements
-as well.</p>
+<br>Our Sport Nutrition team works with athletes, coaches and other stakeholders
+to fuel their potential through education on eating for their sport.</p>
 <p><a href="/singapore-sport-institute/sport-science/sport-nutrition/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
@@ -101,9 +103,10 @@ programmes for developing athletes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>STRENGTH &amp; CONDITIONING</strong> 
-<br>Sport Psychology analyses mental and motivational factors that limit sporting
-performance. Sport Psychology Unit performs consultative and rehabilitation
-programmes for developing athletes.</p>
+<br>Strength and Conditioning prepares athletes for the physical demands of
+their sport. In addition to conducting training sessions, our team conducts
+Research and Development to develop new methodologies, such as novel training
+and warm up methods, for enhancing athletic performance.</p>
 <p><a href="/singapore-sport-institute/sport-science/strength-conditioning/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>

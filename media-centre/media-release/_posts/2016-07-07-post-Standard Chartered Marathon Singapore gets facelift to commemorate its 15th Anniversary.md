@@ -6,6 +6,7 @@ date: 2016-07-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Standard Chartered Marathon Singapore gets facelift to commemorate its 15th Anniversary**
 
@@ -42,8 +43,6 @@ Organisers will also be giving away 100 entry slots and 1,000 anniversary tees t
 Mr Lim Teck Yin, CEO of Sport Singapore shared that “The Standard Chartered Marathon Singapore has played a pivotal role in developing the local sporting and running landscape. The Marathon has matured, and we hope to leverage the strong foundations and work closely with new organisers Ironman Asia to enhance the event and race experience.”
 
 Registration for the marathon begins today from 10am at the race website, fees for all categories have remained the same as last year. Standard Chartered cardholders stand to enjoy 15% off registration fee across all categories.
-
-For more information, visit: [Standard Chartered Marathon Singapore (SCMS)](https://www.marathonsingapore.com)
 
 **Follow the race:**<br>
 Facebook: [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG)<br>

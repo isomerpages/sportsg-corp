@@ -5,6 +5,7 @@ date: 2015-10-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore lifts 317,000kg in support of Team Singapore Powerlifters**
 
@@ -25,6 +26,6 @@ The public will be able to catch Kalai Vanen and Melvyn Yeo representing Singapo
 The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games is held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of **Celebrate the Extraordinary**, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through sport, to promote and develop sport for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through sport.
 
 **Facebook**: [ASEANParaGames2015](https://www.facebook.com/ASEANPARAGAMES2015)<br>
-**Twitter & Instagram**: @APG\_2015<br>
-**YouTube**: [youtube.com/singaporesports](http://www.youtube.com/singaporesports)<br>
+**Twitter &amp; Instagram**: @APG\_2015<br>
+**YouTube**: [youtube.com/@singaporesports](http://www.youtube.com/@singaporesports)<br>
 **Backup APG**: #BackupAPG2015

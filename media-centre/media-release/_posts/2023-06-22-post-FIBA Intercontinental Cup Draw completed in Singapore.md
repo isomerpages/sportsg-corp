@@ -46,7 +46,7 @@ For further information about FIBA, visit [fiba.basketball](http://www.fiba.bas
 
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. Sport Singapore works with a vast network of public-private-people sector partners for individuals to live better through sport.
 
-To find out more, visit SportSG’s websites at [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [www.circle.myactivesg.com/stories](http://www.circle.myactivesg.com/stories)
+To find out more, visit SportSG’s websites at [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [www.activesgcircle.gov.sg/read](https://www.activesgcircle.gov.sg/read)
 
 
 

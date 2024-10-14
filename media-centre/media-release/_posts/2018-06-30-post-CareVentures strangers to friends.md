@@ -5,6 +5,7 @@ date: 2018-06-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **CareVentures – Strangers to Friends**
 
@@ -35,4 +36,4 @@ Ms Michelle Tan, Head of Fitness and Health, CCA at Delta Senior School shared, 
 
 Mohammad Syahiran Bin Mohamed Salleh, 17, from ITE College West shared his experience from this combined camp, “I felt like the other campers and I knew each other for a long time although we only got to know each other for a short time. In the camp, we had to guide each other along the way and although one of the students from Delta Senior School was timid at the beginning, he eventually opened up to me and we started talking. This programme was like training for me to be more confident. I shared with some of my friends here that if you take small steps, you can accomplish big things.”
 
-Interested parties can log on to [www.sportcares.sg](http://www.sportcares.sg/) or email [sportcares@sport.gov.sg](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2018/6/CareVentures-Strangers-to-friends#) for more details.
+Interested parties can log on to [https://sportcares.sportsingapore.gov.sg/](https://sportcares.sportsingapore.gov.sg/) or email [sportcares@sport.gov.sg](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2018/6/CareVentures-Strangers-to-friends#) for more details.

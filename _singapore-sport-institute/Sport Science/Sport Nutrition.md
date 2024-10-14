@@ -3,18 +3,56 @@ title: Sport Nutrition
 permalink: /singapore-sport-institute/sport-science/sport-nutrition/
 description: ""
 third_nav_title: Sport Science
+variant: tiptap
 ---
-
-![sportnutrition](/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Nutrition/sportnutrition.jpg)
-Without the proper fuel, an athlete's body cannot achieve peak performance.
-
-This is why the Sport Nutrition Unit helps our athletes to plan their diets, ensuring that they are getting the proper nutrition during training, competition and recovery. Nutritional needs vary with each phase of training, and sport nutrition promotes healthy, responsible eating at all times. This includes advising our athletes about their nutritional supplements as well.
-
-The services available at the Sport Nutrition Unit include:
-
-* Individual dietary assessment, counselling and menu planning
-* Anthropometric profiling (an assessment of body composition)
-* Practical skill development sessions, including cooking skills, understanding food labels and menu planning
-* Interactive education, talks and workshops
-* Application of research results in new training methods, products and strategies to enhance athletic performance
-* Analysis of diets, recipes and food records
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sportnutrition" src="/images/Our%20Work/Singapore%20Sports%20Institute/Sport%20Nutrition/sportnutrition.jpg">
+</div>
+<p>Our Sport Nutrition team recognises that food isn’t just a recipe for
+health, but the key ingredient to supporting peak performance. They appreciate
+the amazing qualities of food and strive to elevate Team Singapore through
+translating evidence-based science into practice with athletes, coaches,
+and National Sporting Associations.</p>
+<p>Our Sport Nutrition team adopts a “Food-First” approach for all athletes,
+which prioritises whole foods over supplements. As compared to highly refined
+supplements, foods contain a wider variety of beneficial nutrients that
+promote the health and performance of athletes. Where appropriate, the
+team educates athletes on safe and proven supplement use to gain a competitive
+edge.</p>
+<p>A major task of our Sport Dietitians is educating athletes on nutrition
+strategies to optimise training adaptations and achieve peak performance
+through proper fueling and recovery across their training cycle. This is
+necessary as nutritional needs vary according to training phases, and helping
+athletes and coaches understand this is a key first step. The team also
+works with athletes to improve sleep and advise on travel nutrition to
+ensure that they are properly fueled on the go.</p>
+<p>On top of professional development to keep updated on scientific developments
+in nutrition, the team also conducts research and collaborates with local
+and overseas universities to identify cutting-edge science suitable for
+use with our athletes.</p>
+<p>The support provided by our Sport Nutrition team include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dietary assessment, counselling, and menu planning</p>
+</li>
+<li>
+<p>Analysis of diets, recipes, and food records</p>
+</li>
+<li>
+<p>Anthropometric profiling (an assessment of body composition)</p>
+</li>
+<li>
+<p>Practical skill development such as including cooking skills and understanding
+food labels</p>
+</li>
+<li>
+<p>Interactive and targeted education such as talks and workshops</p>
+</li>
+<li>
+<p>Application of evidence-based research in new training methods, products
+and strategies to enhance athletic performance</p>
+</li>
+</ul>
+<p> </p>
+<p></p>
+<p></p>
