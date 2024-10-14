@@ -59,7 +59,7 @@ Siti Nurhidayati
 **About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [myactivesg.com](http://www.activesgcircle.gov.sg/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [activesgcircle.gov.sg](http://www.activesgcircle.gov.sg/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 **About Team Singapore**<br>
 Originally mooted by the then Ministry of Community Development and Sports, Team Singapore was launched on 20 April 2001 by the then Deputy Prime Minister Dr Tony Tan. Team Singapore is the united identity of elite athletes, coaches and officials from Singapore that represents the country in major multi-sport games and identified international competitions.
