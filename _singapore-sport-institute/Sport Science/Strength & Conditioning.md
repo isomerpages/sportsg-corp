@@ -14,7 +14,7 @@ coaches work alongside national sport coaches to design programs that are
 evidence-based, performance focused, and tailored to the needs of the sport/athlete/team.
 The utility of innovative methods and technology for coaching and training
 monitoring facilitate the development of athletes’ sports-specific skills.</p>
-<p>The support provided by our S&amp;C team include:</p>
+<p>The support provided by our Strength and Conditioning team include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Improving the strength base of our athletes</p>
