@@ -5,6 +5,7 @@ date: 2014-04-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **ActiveSG$100 For Every Singaporean To Play Sport**
 
@@ -14,7 +15,7 @@ _30,000 people activated their membership on the first day_
 
 _Vice President of Singapore National Olympic Council Mr Ng Ser Miang, Acting Minister for Culture, Community and Youth, Mr Lawrence Wong and Sport Singapore Chairman, Mr Richard Seow commencing the launch of ActiveSG with Team Singapore Archer_  
 
-Open to all Singaporeans and Permanent Residents, each ActiveSG member will be given ActiveSG$100 to sign up for sports programmes, and enter into swimming pools and gyms at the various Sports Centres island-wide. Membership is free. Acting Minister for Culture, Community & Youth, Mr Lawrence Wong announced these when he officially launched ActiveSG at Jurong West Sports Centre this evening.  
+Open to all Singaporeans and Permanent Residents, each ActiveSG member will be given ActiveSG$100 to sign up for sports programmes, and enter into swimming pools and gyms at the various Sports Centres island-wide. Membership is free. Acting Minister for Culture, Community &amp; Youth, Mr Lawrence Wong announced these when he officially launched ActiveSG at Jurong West Sports Centre this evening.  
 
 2\. “Singaporeans from all walks of life, regardless of age, skill level, or physical ability can lead an active lifestyle through sports. They can come together to learn, train, compete in a range of sports,” said Mr Wong. “We will credit all ActiveSG members with ActiveSG$100 to help kick-start their fitness routine. I hope that Singaporeans will come onboard to embrace this movement and share this with their family and friends too so that we can all get active and Live Better Through Sport.”
 
@@ -47,4 +48,4 @@ As a key recommendation of Vision 2030 – Singapore’s master plan for sports,
 **About Sport Singapore**<br>
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, wework with a vast network of public-private-people sector partners for individuals to live better through sports.
 
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/@SingaporeSports](https://www.youtube.com/@SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
