@@ -31,7 +31,7 @@ variant: markdown
 
 7\. Among the new social development concepts that have been created by SportCares are the Saturday Night Lights community football programme for youth and the Young Mentors programme, which teaches student leaders to use sport to inculcate good values and character in children.
 
-8\. For further details of the SCMS 2013, including the Registration Launch and race registration, please visit the Marathon's official website at [www.marathonsingapore.com](https://www.marathonsingapore.com) and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.facebook.com/sportcaresSG](https://www.facebook.com/sportcaresSG).
+8\. For further details of the SCMS 2013, including the Registration Launch and race registration, please visit the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG). For more details on SportCares activities, please visit [www.facebook.com/sportcaresSG](https://www.facebook.com/sportcaresSG).
 
 ---
 
