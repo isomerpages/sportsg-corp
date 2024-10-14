@@ -703,7 +703,7 @@ Short Track Speed Skating</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.perses.org/" rel="noopener noreferrer nofollow" target="_blank">Sepaktakraw</a>
+<p><a href="https://www.facebook.com/SingaporeSepaktakrawFederationPerses" rel="noopener noreferrer nofollow" target="_blank">Sepak Takraw</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
