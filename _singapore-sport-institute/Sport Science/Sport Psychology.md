@@ -3,42 +3,47 @@ title: Sport Psychology
 permalink: /singapore-sport-institute/sport-science/sport-psychology/
 description: ""
 third_nav_title: Sport Science
+variant: tiptap
 ---
-
-Sport Psychology plays a critical role in performance enhancement and in developing and maintaining athletes’ wellbeing within the competitive sports environment. 
-
-**Our Services**
-
-SSI strives to deliver comprehensive, holistic and evidence-based psychology services to enable individuals and teams achieve peak performance.  
-We aim to equip athletes with an understanding of their psychological functioning. SSI also works to build athletes’ ability to employ a range of psychological strategies to thrive under pressure, such as: 
-
-*   Psychological skills to reach performance potential
-*   Self-regulation of Cognition, Emotions and Behaviour
-*   Competition Preparation - Optimal Performance States 
-*   Psychological Recovery and Injury Management
-
-**Athlete Assessment and Profiling**
-
-We perform athlete profiling through an in-depth analysis of key psychological attributes for high performance sport.
-
-SSI uses the Vienna Test System (VTS), a leading computerised psychological assessment tool with over 120 cognitive, motor skill, reaction time, and personality tests. 
-
-VTS ensures the highest possible level of objectivity and precision and the ability to establish longitudinal data of norms within Singapore Sport.
-
-**Emotional Regulation – Biofeedback**
-
-Biofeedback is the process of gaining greater awareness of our physiological functions such as brainwaves, muscle tone, breathing rate, skin conductance and heart rate and learning how to manipulate them at will.
-
-Our psychologists use Thought Technology's Pro Comp biofeedback systems, which provide the optimal tool for understanding stress, relaxation training and teaching emotional regulation.
-
-All elite athletes will experience fear, anxiety and worries at some point during major competition. By equipping athletes with the psychological skills required to perform well under pressure, our psychologists are able to provide athletes with the understanding of how to achieve their optimal state for competition.
-
-**Psychological Recovery and Wellbeing**
-
-Recovery is a crucial aspect of an athlete’s ability to attain optimal performance state during competition.
-
-Relaxation, positive mood and quality of sleep are key components of recovery.
-
-Our psychologists harness technology to monitor these components. An example is Actiwatch, a device used to measure the quality of sleep. It is a rugged, reliable, and unobtrusive actigraphy device that is waterproof and equipped with a light sensor and event marker to record when events of significance occur.
-
-In the near future, the mental performance laboratory will also be equipped with facilities which will focus on simulation training.
+<p></p>
+<p>Sport psychology contributes to enhancing performance, developing, and
+maintaining athletes’ well-being, and promoting recovery within the competitive
+sports environment. Our Sport Psychology team provides coaches, athletes,
+and teams with comprehensive, holistic, and evidence-based psychology support
+to empower every individual to achieve peak performance.</p>
+<p>In helping our athletes to constantly maintain a competitive edge in training
+and competitions, our sport psychologists explore evidence-based interventions
+and conduct applied sport psychology research aimed at helping athletes
+to maximize their performance. Working closely with the coaches towards
+building a solid team culture that includes goals, values, attitudes, and
+beliefs is also critical to the work that we do with our athletes.</p>
+<p>Our Sport Psychology team aims to ensure that our athletes are well supported
+and empowered with strategies even outside their sporting environments.
+This is done by equipping our athletes with an understanding of their psychological
+functioning and helping them to build their ability to employ a range of
+psychological strategies to thrive under pressure. By journeying through
+the Mind Inspire, Mind Gym and Mind Grow spaces, the team also aims to
+create a safe environment for our athletes and coaches to feel inspired
+and committed towards learning, reflect about mental excellence, and challenges
+them to take action.</p>
+<p>The support provided by our sport psychology team include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Psychological skills to reach performance potential</p>
+</li>
+<li>
+<p>Self-regulation of Cognition, Emotions and Behaviour</p>
+</li>
+<li>
+<p>Competition Preparation – Optimal Performance States</p>
+</li>
+<li>
+<p>Psychological Recovery, Relaxation Strategies, and Injury Management</p>
+</li>
+<li>
+<p>Utilization of technology such as the Vienna Test System (VTS) and the
+Dynavision (D2) to help athletes enhance their sport performance.</p>
+</li>
+</ul>
+<p> </p>
+<p></p>
