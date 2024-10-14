@@ -103,9 +103,10 @@ programmes for developing athletes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>STRENGTH &amp; CONDITIONING</strong> 
-<br>Sport Psychology analyses mental and motivational factors that limit sporting
-performance. Sport Psychology Unit performs consultative and rehabilitation
-programmes for developing athletes.</p>
+<br>Strength and Conditioning prepares athletes for the physical demands of
+their sport. In addition to conducting training sessions, our team conducts
+Research and Development to develop new methodologies, such as novel training
+and warm up methods, for enhancing athletic performance.</p>
 <p><a href="/singapore-sport-institute/sport-science/strength-conditioning/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
