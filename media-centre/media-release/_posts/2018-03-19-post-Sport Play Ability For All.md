@@ -5,6 +5,7 @@ date: 2018-03-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Sport Play Ability For All**
 
@@ -38,6 +39,6 @@ _Pilot programme by Temasek Foundation Cares and SportCares enables persons with
 
 2. Jared Chew, a student volunteer from ITE College West shared his experience on volunteering for the programme. Being new to interacting with a participant with intellectual disabilities, Jared shared about some of his challenges and how he learnt to overcome this. “On the first day when I got to know the participant I was assigned to, I was a bit lost on how to talk to him. I even got quite frustrated when he did not want to listen to me. Once I realised that he took to certain words and counting from 1 to 3 calmed him down and helped him to pay attention, things got easier. I feel like we are friends now and we get along really well.”  
 
-3. Interested parties can log on to [www.sportcares.sg](http://www.sportcares.sg/) or email [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg) for more details.
+3. Interested parties can log on to [https://sportcares.sportsingapore.gov.sg/](https://sportcares.sportsingapore.gov.sg/) or email [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg) for more details.
 
 *Dual-Use Scheme (DUS) is a collaboration between Ministry of Education and Sport Singapore where school fields, indoor sports halls and running tracks are open for booking on the weekends for members of public to use.*
