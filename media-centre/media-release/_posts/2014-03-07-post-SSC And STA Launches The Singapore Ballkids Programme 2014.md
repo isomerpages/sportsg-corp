@@ -5,6 +5,7 @@ date: 2014-03-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Singapore Sports Council And Singapore Tennis Association Launches The Singapore Ballkids Programme 2014**
 
@@ -52,7 +53,7 @@ Email: [gregtan@singtennis.org.sg](mailto:gregtan@singtennis.org.sg)
 **About Singapore Sports Council**<br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
 
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/SingaporeSports](http://www.youtube.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/@SingaporeSports](https://www.youtube.com/@SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 **About Singapore Tennis Association**<br>
 The Singapore Tennis Association is committed to promoting the continuous development of tennis and its community in Singapore. We are passionate about tennis. We aim to deliver more tennis to our whole tennis community and see the standard of tennis raised for all players. Ultimately, we strive for excellence so that Singapore tennis can compete at the highest international levels.
