@@ -26,7 +26,15 @@ testing and monitoring, applied research and education.</p>
 <p>Strength and Conditioning</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
@@ -52,14 +60,8 @@ target.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPORT NUTRITION</strong> 
-<br>Without the proper fuel, an athlete's body cannot achieve peak performance.
-<br>
-<br>This is why the Sport Nutrition Unit helps our athletes to plan their
-diets, ensuring that they are getting the proper nutrition during training,
-competition and recovery. Nutritional needs vary with each phase of training,
-and sport nutrition promotes healthy, responsible eating at all times.
-This includes advising our athletes about their nutritional supplements
-as well.</p>
+<br>Our Sport Nutrition team works with athletes, coaches and other stakeholders
+to fuel their potential through education on eating for their sport.</p>
 <p><a href="/singapore-sport-institute/sport-science/sport-nutrition/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 </td>
