@@ -5,9 +5,8 @@ date: 2018-07-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
-
 ### **12,388 people launched GASG at Car Free Sunday SG**
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Minister%20Grace%20Fu%20and%20Speaker%20Tan%20Chuan%20Jin%20flags%20off%20Nila%20Walk%20with%20ActiveSG%20Football%20Academy.jpeg)
@@ -28,4 +27,4 @@ Ms Fu said, “Sport brings people together. I am happy to see so many people of
 
 ![](/images/Media%20Centre/Media%20Release/2018/July/Kids%20participating%20in%20the%20Kids%20Strider%20Race.jpeg)
 
-Sporting activities that took place during Car-Free Sunday SG included a McDonald’s Family Day, the Epson Youth Challenge football finals as well as free spinning classes in the dark for members of public. For more information on the activities taking place during the week-long GetActive! Singapore, you can visit [www.getactive.sg](http://www.getactive.sg/).
+Sporting activities that took place during Car-Free Sunday SG included a McDonald’s Family Day, the Epson Youth Challenge football finals as well as free spinning classes in the dark for members of public. For more information on the activities taking place during the week-long GetActive! Singapore, you can visit [https://www.activesgcircle.gov.sg/getactive-singapore](https://www.activesgcircle.gov.sg/getactive-singapore).
