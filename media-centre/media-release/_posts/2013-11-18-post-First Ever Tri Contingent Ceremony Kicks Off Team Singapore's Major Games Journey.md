@@ -6,6 +6,7 @@ date: 2013-11-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **First Ever Tri-Contingent Ceremony Kicks Off Team Singapore's Major Games Journey**
 
@@ -69,7 +70,7 @@ Adrienne Ser
 
 Siti Nurhidayati
 <br>Senior Executive, Media Relations
-<br>Corporate Communications & Relations
+<br>Corporate Communications &amp; Relations
 <br>Tel: +65 6500 5246
 <br>Email: [siti_nurhidayati@ssc.gov.sg](siti_nurhidayati@ssc.gov.sg)
 <br>On 1st Special Olympics Asia Pacific Games:
@@ -88,7 +89,7 @@ Stefanie Pitchian
 <br>Email: stefanie.pitchian@sdsc.org.sg
 
 Joy Lee
-<br>Sports & Admin Executive
+<br>Sports &amp; Admin Executive
 <br>Tel: +65 6346 1158
 <br>Email: joy_lee@snpc.org.sg
 
@@ -102,13 +103,13 @@ Pride, Performance and Perseverance are the three attributes of Team Singapore. 
 
 Team Singapore inspires our nation's athletic talents to continually evolve the level of elite sports in Singapore, while galvanising and connecting the community in support of their sporting endeavours.
 
-For further information on Team Singapore, please visit [Team Singapore](http://www.teamsingapore.com.sg/) and [ourteamsg.com](http://www.ourteamsg.com/) <br>Follow Team Singapore's action on Facebook at [facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.
+For further information on Team Singapore, please visit [Team Singapore](http://www.teamsingapore.com.sg/). <br>Follow Team Singapore's action on Facebook at [facebook.com/TeamSG](http://www.facebook.com/TeamSG) and #ourteamsg on Instagram.
 
 **About Singapore Sports Council**
 <br>
 The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride. 
 
-To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+To find out more, visit our websites [Vision2030.sg](/about-us/vision-2030/) and [activesg circle](http://www.activesgcircle.gov.sg/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 **About Singapore Disability Sports Council**<br>
 SDSC is the only organisation in Singapore that caters to sports for persons across all kinds of disabilities. It aims to help persons with disability lead full and independent lives through sports. Besides providing sporting opportunities for them to realise their potential, SDSC trains talents to represent Singapore and pursue excellence at regional and international competitions. Find out more at [www.sdsc.org.sg](https://www.sdsc.org.sg)
