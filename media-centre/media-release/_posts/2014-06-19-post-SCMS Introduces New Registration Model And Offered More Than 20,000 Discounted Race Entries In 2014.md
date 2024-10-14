@@ -6,6 +6,7 @@ date: 2014-06-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **SCMS Introduces New Registration Model And Offered More Than 20,000 Discounted Race Entries In 2014**
 
@@ -24,8 +25,6 @@ Participants in the Standard Chartered Marathon Singapore (SCMS) 2014 will enjoy
 6\. Spectrum Worldwide, along with event owner Sport Singapore and title sponsor Standard Chartered Bank, are aiming to significantly increase the amount of funds raised for charity at SCMS 2014. In order to do so, the Ekiden has been identified as the ideal platform to drive the event’s fundraising efforts. All six-member teams must commit to raising a minimum of S$500 (or approximately $84 per runner) on GIVE Asia for the local charity of their choice before Monday, 27 October in order to qualify for the Ekiden on race day. This is in addition to the existing partnership with GIVE Asia where every SCMS 2014 participant is encouraged to raise funds for a cause close to their heart.
 
 7\. “The new Ekiden fundraising format and the introduction of the registration roadshows are both key elements of SCMS’ enhanced community engagement in 2014,” said Robb. “Increasing the amount of funds raised for charity has long been a focus for SCMS and we are determined to make significant strides this year. We trust that the Ekiden teams, as well as all other participants, will go the extra mile for charity and use their fundraising as added motivation on race day. We’re also thrilled to be taking our registration roadshows across the island, further reaching out to the running communities to be part of SCMS 2014. This community engagement will also extend beyond registration and we look forward to announcing those exciting details at our official launch on 16 July.”
-
-8\. For all SCMS 2014 registration details please visit [Standard Chartered Marathon Singapore (SCMS)](http://www.marathonsingapore.com).
 
 **Event Launch Details**
 
@@ -69,13 +68,13 @@ It provides credit cards, personal loans, auto loans, mortgages, deposit taking 
 
 The Bank employs over 7,400 people in Singapore and has a network of 19 branches, 8 Priority Banking centres and 31 ATMs. Standard Chartered is the only international bank to offer NETS service, giving its clients access to EFTPOS at over 17,000 outlets island-wide.
 
-The Bank’s global business is managed out of Singapore, as is its global Technology & Operations function.
+The Bank’s global business is managed out of Singapore, as is its global Technology &amp; Operations function.
 
 
 **About Singapore Sports Council**<br>
 As the national sports agency, Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. At Sport Singapore, we work with a vast network of public-private-people sector partners for individuals to live better through sport. 
 
- To find out more, visit our websites [Vision2030.sg](http://www.vision2030.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
+ To find out more, visit our websites [Vision2030.sg](http://www.vision2030.sg/) and [activesgcircle.gov.sg](http://www.activesgcircle.gov.sg/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
 
 **About Spectrum Worldwide**<br>
 Spectrum Worldwide is a leading event management and experiential marketing company operating throughout the Asia Pacific region. For more than 20 years, Spectrum Worldwide has created and managed tailored experiences that not only bring to life our clients’ brands, but also provide opportunities for companies to showcase their core values in a memorable and compelling way.
