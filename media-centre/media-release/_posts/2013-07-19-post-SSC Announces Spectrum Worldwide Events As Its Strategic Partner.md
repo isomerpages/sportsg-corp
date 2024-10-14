@@ -18,6 +18,6 @@ variant: markdown
 
 4. Spectrum has a comprehensive track record in managing mass participation sporting events in the region. They were involved with the organisation of past editions of the SCMS, and had demonstrated keen understanding of the complexities of organising an event of such scale.
 
-5. This year's SCMS is scheduled to take place on 1 December 2013. To date, 34,709 runners have registered for the event. For further details of the SCMS 2013, including race registration, please visit the Marathon's official website at [www.marathonsingapore.com ](https://www.marathonsingapore.com )and the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG).
+5. This year's SCMS is scheduled to take place on 1 December 2013. To date, 34,709 runners have registered for the event. For further details of the SCMS 2013, including race registration, please visit the Marathon's Official Facebook Page at [www.facebook.com/MarathonSG](https://www.facebook.com/MarathonSG).
 
 ---
