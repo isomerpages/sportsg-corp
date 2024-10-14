@@ -18,8 +18,7 @@ which prioritises whole foods over supplements. As compared to highly refined
 supplements, foods contain a wider variety of beneficial nutrients that
 promote the health and performance of athletes. Where appropriate, the
 team educates athletes on safe and proven supplement use to gain a competitive
-edge. Refer SSI and National Youth Sport Institute’s Joint Policy on supplement
-intake.</p>
+edge.</p>
 <p>A major task of our Sport Dietitians is educating athletes on nutrition
 strategies to optimise training adaptations and achieve peak performance
 through proper fueling and recovery across their training cycle. This is
