@@ -99,6 +99,34 @@ be valid.</p>
 <p>This offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
+<h5><strong>LUNABLYS</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% discount off total bill at <a href="https://lunablys.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Lunablys</u></a> online store and physical
+studio at Macpherson. &nbsp;</p>
+</li>
+<li>
+<p>For online purchases, athletes must first create an account at <a href="https://lunablys.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://lunablys.com/account/register</u></a> and
+upload a picture/screenshot of their TS Rewards Card (physical card or
+eCard) via any of the following methods for the discount to be valid:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email <a href="https://lunablys.com/" rel="noopener noreferrer nofollow" target="_blank"><u>hello@lunablys.com</u></a>
+</p>
+</li>
+<li>
+<p>Message @Lunablys on Instagram</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Offer can be used in conjunction with any existing promotions or discounts
+at the store unless otherwise stated.</p>
+</li>
+<li>
+<p>Offer is only valid till 31 December 2025.</p>
+</li>
+</ul>
 <h5><strong>NEUE FIT</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
