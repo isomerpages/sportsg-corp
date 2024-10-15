@@ -20,8 +20,9 @@ Games athletes from July 2019.</p>
 <p><strong>Our Card Partners include:</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Sep_update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Oct_update.jpg">
 </div>
 <p>Singapore Sport Institute would like to thank our valued card partners
 for supporting our athletes in achieving their goals. Whether it is sports,
@@ -97,6 +98,34 @@ be valid.</p>
 </li>
 <li>
 <p>This offer is only valid till 31 December 2025.</p>
+</li>
+</ul>
+<h5><strong>LUNABLYS</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>10% discount off total bill at <a href="https://lunablys.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Lunablys</u></a> online store and physical
+studio at Macpherson. &nbsp;</p>
+</li>
+<li>
+<p>For online purchases, athletes must first create an account at <a href="https://lunablys.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://lunablys.com/account/register</u></a> and
+upload a picture/screenshot of their TS Rewards Card (physical card or
+eCard) via any of the following methods for the discount to be valid:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email <a href="https://lunablys.com/" rel="noopener noreferrer nofollow" target="_blank"><u>hello@lunablys.com</u></a>
+</p>
+</li>
+<li>
+<p>Message @Lunablys on Instagram</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Offer can be used in conjunction with any existing promotions or discounts
+at the store unless otherwise stated.</p>
+</li>
+<li>
+<p>Offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>NEUE FIT</strong></h5>
@@ -501,27 +530,6 @@ to TS athletes via email.</p>
 </ul>
 <hr>
 <h4><strong>HEALTHCARE</strong></h4>
-<h5><strong>BMJ PHYSIOTHERAPY, SPORTS MASSAGE &amp; SPORTS PERFORMANCE CLINIC</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>10% off Ala carte services at BMJ Physiotherapy, Sports Massage &amp;
-Sports Performance Clinic at #01-79 at Kallang Wave Mall.</p>
-</li>
-<li>
-<p>Valid for use on weekdays only.</p>
-</li>
-<li>
-<p>Offer cannot be used in conjunction with any existing promotions or discounts
-at the store.</p>
-</li>
-<li>
-<p>TS Rewards Card must be presented prior to payment for the discount to
-be valid.</p>
-</li>
-<li>
-<p>Offer is valid till 31 December 2025.</p>
-</li>
-</ul>
 <h5><strong>NEWPORT DENTAL</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
