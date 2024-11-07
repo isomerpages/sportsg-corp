@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Success Stories from Team Singapore Athletes</p>
-<h5><strong>Kacy Lim, Team Singapore Athlete (Water Polo) </strong></h5>
+<h5><strong>Kacy Lim, Team Singapore Athlete (Water Polo)</strong></h5>
 <p>Meet Kacy Lim, a dedicated Team Singapore (TeamSG) Water Polo player who
 recently participated at the Malaysia Milo Invitation Age Group Championships
 in Kuala Lumpur. With aspirations to surpass SEA competitors, especially
@@ -68,48 +68,78 @@ and experiences.</p>
 the <em>spex</em>Business programme, Kacy can gain meaningful experiences
 that align with her athletic commitments.</p>
 <hr>
-<h5><strong>Chelsea Ann Sim, Team Singapore Athlete (Taekwondo) Graduate, SMU (Business Management) Intern, Deloitte (Clients and Markets Department)</strong></h5>
-<p>A three-time SEA Games medallist, Team Singapore Taekwondo Exponent Chelsea
-Ann Sim stands as testimony to how the spexBusiness initiative benefits
-both student-athletes and athlete-employees. Having been on both ends of
-the coin, she is now on her second internship placement via the initiative,
-her first having been with the Corporate Business division in OSIM International.
-Currently, Chelsea is interning with the Clients and Markets Department
-in Deloitte, in view towards full-time conversion.</p>
+<h5><strong>Nicholas Ting, Team Singapore Athlete (Water Polo) </strong></h5>
+<p>With just 2.5 years under his belt, Nicholas Ting, the resilient goalkeeper
+for the Singapore Men’s National Water Polo Team, has already&nbsp;made
+a significant impact on&nbsp;the team.&nbsp;His journey, marked by dedication
+and hard work, has seen him compete in prestigious tournaments like the
+Asian Championships and World University Championships. Nicholas’s&nbsp;focus
+has always been on consistent participation, personal improvement, and
+contributing to the&nbsp;team’s&nbsp;success. Now a member of Team A, Nicholas
+aspires to push Team Singapore to new heights on the international water
+polo stage while excelling in his professional career.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TaeKwonDo_David_Chew_" src="/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/TaeKwonDo_David_Chew_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/IMG_20241009_WA0005_1_.jpg">
 </div>
-<p>Fully cognisant of the greater flexibility experienced by student-athletes,
-Chelsea was slightly apprehensive about transitioning to an athlete-employee
-fearing that the hours and rigour of a regular office job would cut into
-her training time and competition opportunities.</p>
-<p>Deloitte showed Chelsea that these worries were unfounded through the
-provision of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Understanding partners that provided Chelsea the support she needed to
-balance work and her sport</p>
-</li>
-<li>
-<p>Flexible working hours that allowed her to head to training straight after
-work</p>
-</li>
-<li>
-<p>A competition-friendly leave scheme that catered different tiers of leave
-according to the level of the competition, including fully-paid special
-leave for major competitions</p>
-</li>
-</ul>
-<p>Chelsea had previously expressed fears of entering the workforce with
-the lack of work experience putting her at a disadvantage at hiring. However,
-both internships have since assured Chelsea of a pathway of continuity
-and transition post-sports. Without the stress and anxiety of having to
-search for a job that would accommodate her hectic schedule, Chelsea was
-thus able to turn her complete focus to her sport, proudly flying the Singapore
-flag and mounting the podium across two consecutive SEA Games claiming
-a Gold and a Bronze to her name.</p>
-<p><em>“I got my internships through spexBusiness. I’m very appreciative of such an initiative, as it has supported me both in my sporting endeavours and career development. It has shown me that there are ways for athletes to plan a life after sport, and we have a future beyond our sporting careers. I’m very grateful to both spexBusiness and Deloitte for providing me with the opportunity to pursue excellence in my sport, and at the same time, pave the road for my future career.”</em>Chelsea
-Ann Sim</p>
+<p>Balancing a demanding training schedule with career aspirations is no
+easy feat.&nbsp;Nicholas trains every Tuesday, Wednesday, and Thursday,
+with two sessions each Saturday and Sunday.&nbsp;This intense schedule
+often leaves little room for recovery, let alone a full-time job.&nbsp;Finding
+a company that&nbsp;not only understands these commitments but also aligns
+with his career goals has been a significant challenge for Nicholas.&nbsp;However,&nbsp;Nicholas’s&nbsp;determination
+and strategic approach to his career have led him to opportunities that
+accommodate his athletic and professional pursuits.</p>
+<p>Nicholas first learned about the <em>spex</em>Business program through
+an email invitation to a networking session designed to connect national
+athletes with potential employers. Curious, he attended the session alongside
+a teammate, and that decision changed the course of his career. Through <em>spex</em>Business,
+Nicholas has secured internships at some of&nbsp;Singapore’s leading companies,
+including KPMG and DBS. The programme played an instrumental role in connecting
+him with organisations that value the discipline, teamwork, and resilience
+that athletes bring to the workplace.</p>
+<p>During his internship at KPMG as a Digital Trust Intern, Nicholas had
+the opportunity to significantly enhance his expertise in&nbsp;digital
+security and compliance.&nbsp;He was actively involved in transformative
+business projects and industry applications, gaining invaluable insights
+into real-world challenges. One of his achievements was leading a team
+of interns to victory in an Environmental, Social and Governance (ESG)
+case challenge. Under his leadership, the team crafted innovative strategies
+that focused on boosting sustainability, creating jobs and improving key
+performance metrics, showcasing the firm's commitment to nurturing talent
+and fostering impactful solutions. At DBS, Nicholas took on the role of
+a Risk Analytics Intern,&nbsp;where he developed climate scenario analyses
+for regulatory reporting and spearheaded research initiatives. His ability
+to juggle these demanding roles with his rigorous training schedule is
+a testament to his exceptional time management and commitment.&nbsp;</p>
+<p>Currently, Nicholas is interning at ByteDance as a Risk Insights Analyst,
+where he analyses trends in advertising content and provides data-driven
+insights to optimize content strategies.&nbsp;Each&nbsp;of these roles&nbsp;has
+pushed&nbsp;Nicholas’s&nbsp;abilities, setting him up for success in&nbsp;both&nbsp;his
+athletic and professional endeavours.</p>
+<p>Both KPMG and DBS were incredibly supportive of&nbsp;Nicholas’s&nbsp;sporting
+commitments. They offered flexible work&nbsp;hours, and&nbsp;remote work&nbsp;options,&nbsp;and
+even supported his participation in overseas training trips and competitions.
+When Nicholas needed to be away for training or competitions, the KPMG
+team would offer flexible workhours and remote working options, ensuring
+seamless coverage during his absence.&nbsp;This level of understanding
+and accommodation allowed Nicholas to give his hundred percent to&nbsp;both
+his training and his&nbsp;work,&nbsp;without compromising on either front.</p>
+<p>To fellow athletes navigating the job market, Nicholas advises being upfront
+about your sporting commitments. Seek out companies that recognize the
+unique skills&nbsp;you’ve&nbsp;developed through sports—discipline, teamwork,
+resilience, and time management. The <em>spex</em>Business programme can
+be invaluable in bridging the gap between athletic and professional careers.</p>
+<p><em>“Balancing a demanding training schedule with a professional career is undeniably challenging, but&nbsp;it’s&nbsp;also what sets you apart,”&nbsp;</em>Nicholas
+shares.&nbsp;<em>“These qualities are what make you stand out.&nbsp;They’re&nbsp;not obstacles;&nbsp;they’re&nbsp;your strengths. Embrace them, let them shine in your job search, and trust that the right opportunities will come to those who remain committed, both on and off the field.”</em>
+</p>
+<p>Looking ahead, Nicholas continues to rely on the <em>spex</em>Business
+team for support as he prepares for life beyond sports. The Athlete365
+Career+ Workshops and networking sessions have been particularly beneficial
+in helping him navigate the transition from athlete to professional.</p>
+<p>As Nicholas Ting continues to guard the net for Singapore, he also stands
+as a beacon of resilience and determination for athletes striving to balance
+their sporting and professional aspirations. His journey is a testament
+to the power of perseverance, both in the pool and the workplace.</p>
 <hr>
 <h5><strong>Jaslyn Hooi, Team Singapore Athlete (Badminton) Final Year Student, Ngee Ann Polytechnic (Business Studies - Entrepreneurship Management) Investment Analyst Intern, Quest Ventures</strong></h5>
 <p>Poised, determined and unfazed, Jaslyn Hooi, a TeamSG badminton player
@@ -181,6 +211,49 @@ her training schedules</p>
 </li>
 </ul>
 <p>- Jaslyn Hooi, Team Singapore Athlete (Badminton)</p>
+<hr>
+<h5><strong>Chelsea Ann Sim, Team Singapore Athlete (Taekwondo) Graduate, SMU (Business Management) Intern, Deloitte (Clients and Markets Department)</strong></h5>
+<p>A three-time SEA Games medallist, Team Singapore Taekwondo Exponent Chelsea
+Ann Sim stands as testimony to how the spexBusiness initiative benefits
+both student-athletes and athlete-employees. Having been on both ends of
+the coin, she is now on her second internship placement via the initiative,
+her first having been with the Corporate Business division in OSIM International.
+Currently, Chelsea is interning with the Clients and Markets Department
+in Deloitte, in view towards full-time conversion.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TaeKwonDo_David_Chew_" src="/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/TaeKwonDo_David_Chew_.jpeg">
+</div>
+<p>Fully cognisant of the greater flexibility experienced by student-athletes,
+Chelsea was slightly apprehensive about transitioning to an athlete-employee
+fearing that the hours and rigour of a regular office job would cut into
+her training time and competition opportunities.</p>
+<p>Deloitte showed Chelsea that these worries were unfounded through the
+provision of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understanding partners that provided Chelsea the support she needed to
+balance work and her sport</p>
+</li>
+<li>
+<p>Flexible working hours that allowed her to head to training straight after
+work</p>
+</li>
+<li>
+<p>A competition-friendly leave scheme that catered different tiers of leave
+according to the level of the competition, including fully-paid special
+leave for major competitions</p>
+</li>
+</ul>
+<p>Chelsea had previously expressed fears of entering the workforce with
+the lack of work experience putting her at a disadvantage at hiring. However,
+both internships have since assured Chelsea of a pathway of continuity
+and transition post-sports. Without the stress and anxiety of having to
+search for a job that would accommodate her hectic schedule, Chelsea was
+thus able to turn her complete focus to her sport, proudly flying the Singapore
+flag and mounting the podium across two consecutive SEA Games claiming
+a Gold and a Bronze to her name.</p>
+<p><em>“I got my internships through spexBusiness. I’m very appreciative of such an initiative, as it has supported me both in my sporting endeavours and career development. It has shown me that there are ways for athletes to plan a life after sport, and we have a future beyond our sporting careers. I’m very grateful to both spexBusiness and Deloitte for providing me with the opportunity to pursue excellence in my sport, and at the same time, pave the road for my future career.” </em>Chelsea
+Ann Sim</p>
 <hr>
 <h5><strong>Derek Wong (Team Singapore Athlete, Badminton) Research Specialist with Deloitte Singapore</strong></h5>
 <p>Derek joined Deloitte in July 2014 as a Research Specialist in the Clients
