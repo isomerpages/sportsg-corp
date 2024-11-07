@@ -157,34 +157,21 @@ at all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jaslyn_Hooi_Badminton" src="/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/SpexBusiness/SpexBusiness%20Athlete%20Stories/Jaslyn_Hooi-_Badminton.jpeg">
 </div>
-<p>“In June 2020, the spexBusiness team was able to advise and help me secured
-my internship through the network despite the COVID-19 situation then.
-I am very thankful for the help that the team has given so far. They really
-helped me to find the perfect internship which I really enjoy because I
-don’t have to compromise on my training to reap the best out of my internship.”</p>
+<p><em>“In June 2020, the spexBusiness team was able to advise and help me secured my internship through the network despite the COVID-19 situation then. I am very thankful for the help that the team has given so far. They really helped me to find the perfect internship which I really enjoy because I don’t have to compromise on my training to reap the best out of my internship.”</em>
+</p>
 <p>To Jaslyn, her internship experience was like a roller-coaster ride; it
 was scary yet exhilarating. Most of the time, she was challenged out of
 her comfort zone, but nevertheless it had been a super rewarding journey.
 It is a fast-paced on-the-job training environment where she got to learn
-so much more. As Jaslyn quipped, “I want to start my own company in the
-future and this internship experience gave me a good head-start in doing
-so!"</p>
+so much more. As Jaslyn quipped, <em>“I want to start my own company in the future and this internship experience gave me a good head-start in doing so!"</em>
+</p>
 <p>With the moral support from her coach, management team in Singapore Badminton
 Association, close friends and family members, Jaslyn was able to fulfil
 her training and competition requirement, as well as complete her internship
-in 30 weeks. As Jaslyn added, “They try their best to understand what I
-am going through and support me when I am too torn between my sport performance
-and work responsibilities. I am also thankful to Quest Ventures for providing
-me with a flexible working schedule that allows me to have the luxury to
-plan my working schedule around my training and physio appointments. Besides
-that, my direct supervisor is very supportive of my competition schedule.
-For instance, during the week of the National Open Championship 2021 (30
-Jan to 7 Feb), he allowed me to take the whole week off to focus on my
-competition.</p>
-<p>"We are outcome-driven. So long as work is done and deadlines are met,
-it does not matter how much (or how little) time one puts in.” shared James
-Tan, Managing Partner at Quest Ventures. Quest Ventures recognises that
-athletes are high performers and are willing to support their sporting
+in 30 weeks. As Jaslyn added, <em>“They try their best to understand what I am going through and support me when I am too torn between my sport performance and work responsibilities. I am also thankful to Quest Ventures for providing me with a flexible working schedule that allows me to have the luxury to plan my working schedule around my training and physio appointments. Besides that, my direct supervisor is very supportive of my competition schedule. For instance, during the week of the National Open Championship 2021 (30 Jan to 7 Feb), he allowed me to take the whole week off to focus on my competition</em>."</p>
+<p><em>"We are outcome-driven. So long as work is done and deadlines are met, it does not matter how much (or how little) time one puts in.”</em> shared
+James Tan, Managing Partner at Quest Ventures. Quest Ventures recognises
+that athletes are high performers and are willing to support their sporting
 aspirations if they deliver their work. This is synonymous with their company
 culture, which is very start-up at heart.</p>
 <p>It is with such unwavering support system in place, as well as her own
