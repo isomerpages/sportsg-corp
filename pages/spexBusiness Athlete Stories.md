@@ -136,8 +136,8 @@ shares.&nbsp;<em>“These qualities are what make you stand out.&nbsp;They’re&
 team for support as he prepares for life beyond sports. The Athlete365
 Career+ Workshops and networking sessions have been particularly beneficial
 in helping him navigate the transition from athlete to professional.</p>
-<p>As Nicholas Ting continues to guard the net for Singapore, he also stands
-as a beacon of resilience and determination for athletes striving to balance
+<p>As Nicholas continues to guard the net for Singapore, he also stands as
+a beacon of resilience and determination for athletes striving to balance
 their sporting and professional aspirations. His journey is a testament
 to the power of perseverance, both in the pool and the workplace.</p>
 <hr>
