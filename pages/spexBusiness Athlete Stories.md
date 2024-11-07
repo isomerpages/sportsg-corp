@@ -68,7 +68,7 @@ and experiences.</p>
 the <em>spex</em>Business programme, Kacy can gain meaningful experiences
 that align with her athletic commitments.</p>
 <hr>
-<h5><strong>Nicholas Ting, Team Singapore Athlete (Water Polo) </strong></h5>
+<h5><strong>Nicholas Ting, Team Singapore Athlete (Water Polo)</strong></h5>
 <p>With just 2.5 years under his belt, Nicholas Ting, the resilient goalkeeper
 for the Singapore Men’s National Water Polo Team, has already&nbsp;made
 a significant impact on&nbsp;the team.&nbsp;His journey, marked by dedication
