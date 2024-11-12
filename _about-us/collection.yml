@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example 1.md
       - Management/.keep
       - Management/Corporate Structure.md
       - Management/Board Members.md

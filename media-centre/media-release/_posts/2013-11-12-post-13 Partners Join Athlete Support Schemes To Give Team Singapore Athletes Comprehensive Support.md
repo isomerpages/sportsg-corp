@@ -6,6 +6,7 @@ date: 2013-11-12
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **13 Partners Join Athlete Support Schemes To Give Team Singapore Athletes Comprehensive Support**
 
@@ -19,11 +20,11 @@ image: ""
 
 3. The Spex Career Scheme promotes a flexible work environment combined with a comprehensive support system that will allow athletes to balance their pursuit of high performance sports with career aspirations. This scheme was developed to ensure a more comprehensive framework to manage both employer and employee expectations and understanding in the area of high performance sports. Flexible workplace practices for these athletes will include the provision of flexi-time work arrangements, flexi-leave and flexi-place work arrangements such as carrying out one's responsibilities at a location other than the official workplace.
 
-4. Seven companies from a diverse range of industries have agreed to be part of this landmark career scheme, which will be driven by a strong network of businesses in Singapore known as the Sports Excellence Business Network for Athletes. The network pioneers are Adecco, Charles & Keith, KPMG, MOH Holdings, MSIG Insurance, Resorts World Sentosa and StarHub.
+4. Seven companies from a diverse range of industries have agreed to be part of this landmark career scheme, which will be driven by a strong network of businesses in Singapore known as the Sports Excellence Business Network for Athletes. The network pioneers are Adecco, Charles &amp; Keith, KPMG, MOH Holdings, MSIG Insurance, Resorts World Sentosa and StarHub.
 
 5. "Through this business network, we hope to interest companies including SMEs, to share our beliefs in the value of athletes as valuable employees by offering them career development support in jobs and apprenticeship. This support will allow our national athletes to achieve their aspirations in sports and a second career after sports," said Mr Teo. "I urge more companies to join us in this journey to support our Team Singapore athletes."
 
-6. Mr Stephen Tjoa, Partner for People, Performance & Culture at KPMG Singapore agrees and believes that there are mutual benefits for athletes and businesses. "Our athletes help to inject more vibrancy to our firm's efforts to develop a supportive environment that plays a key role in motivating and empowering young talents. It also emphasises the importance of achieving an optimal and harmonious relationship between pursuing sports professionally and fulfilling one's individual aspirations and potential."
+6. Mr Stephen Tjoa, Partner for People, Performance &amp; Culture at KPMG Singapore agrees and believes that there are mutual benefits for athletes and businesses. "Our athletes help to inject more vibrancy to our firm's efforts to develop a supportive environment that plays a key role in motivating and empowering young talents. It also emphasises the importance of achieving an optimal and harmonious relationship between pursuing sports professionally and fulfilling one's individual aspirations and potential."
 
 **Sports Excellence (Spex) Education Scheme**
 
@@ -45,16 +46,6 @@ image: ""
 
 **Annex**: 
 [Fact Sheet on Sports Excellence Education Scheme and the Sports Excellence Career Scheme ](/files/Media%20Centre/Media%20Release/2013/Nov/Fact%20Sheet%20%20Spex%20Education%20%20Career%20Schemespdf.pdf) 
-
----
-
-**For media enquiries, please contact:**
-<br>
-Eric Ong
-<br>Manager, Media Relations
-<br>Singapore Sports Council
-<br>Tel: (65) 6500 5014
-<br>Email: [eric_ong@ssc.gov.sg](eric_ong@ssc.gov.sg)
 
 ---
 
