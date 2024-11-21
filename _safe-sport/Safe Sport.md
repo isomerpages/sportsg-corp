@@ -23,4 +23,4 @@ As a member of the Safe Sport Programme administered by the [Safe Sport Commiss
 
 ![](/images/Safe%20Sport/image2.png)
 
-For more information on Safe Sport and to Report a Concern, do visit our [Safe Sport website](https://www.safesport.sg/).
+For more information on Safe Sport and to Report a Concern, do visit our [Safe Sport website](https://www.safesport.sg/)
