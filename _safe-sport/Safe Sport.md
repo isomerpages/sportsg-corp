@@ -2,8 +2,8 @@
 title: Safe Sport
 permalink: /safe-sport/
 description: ""
+variant: markdown
 ---
-
 ![](/images/Safe%20Sport/Global_Coach_Conference_2023_Singapore_CardLandscape.jpeg)
 **Why is Safe Sport important?**
 
@@ -23,4 +23,4 @@ As a member of the Safe Sport Programme administered by the [Safe Sport Commiss
 
 ![](/images/Safe%20Sport/image2.png)
 
-For more information on Safe Sport and to Report a Concern, do visit our [Safe Sport website](https://www.safesport.sg/)
+For more information on Safe Sport and to Report a Concern, do visit our [Safe Sport website](https://www.safesport.sg/).
