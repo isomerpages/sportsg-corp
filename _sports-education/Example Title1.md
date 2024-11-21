@@ -4,3 +4,4 @@ permalink: /example-title1/
 variant: tiptap
 description: ""
 ---
+<p>Example</p>
