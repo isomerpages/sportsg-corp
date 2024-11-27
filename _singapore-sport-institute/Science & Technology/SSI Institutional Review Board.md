@@ -10,7 +10,9 @@ variant: tiptap
 <p>In accordance with the “Research involving Human Subject: Guidelines for
 IRBs” released by the Bioethics Advisory Committee (BAC) in November 2004,
 SSI-IRB was formalised in 2012 to safeguard the rights, welfare and safety
-of human research subjects involved in SSI’s research programmes.</p>
+of human research subjects involved in SSI’s research programmes. The SSI-IRB
+is also compliant to the <a href="https://www.moh.gov.sg/others/health-regulation/regulation-of-human-biomedical-research" rel="noopener nofollow" target="_blank">Ministry of Health’s Human Biomedical Research</a> (HBR)
+framework.</p>
 <hr>
 <h5><strong>SSI Institutional Review Board (IRB)</strong></h5>
 <p>The SSI-IRB is comprised of a Chairperson and 9 members from Sport Singapore
@@ -19,28 +21,20 @@ Science, for a 2-year term. The list of the current SSI-IRB members (commencing
 October 2021 to 30 September 2023) is shown below:</p>
 <p><strong><em>Chairman</em></strong>
 </p>
-<p><strong>Dr Jason Chia</strong> 
-<br>Head &amp; Senior Consultant
-<br>Sports Medicine &amp; Surgery Clinic
-<br>Tan Tock Seng Hospital</p>
+<p><strong>Dr Ivy Lim</strong> 
+<br>Changi General Hospital
+<br>Associate Consultant
+<br>Changi Sports Medicine Centre</p>
 <p><strong><em>Members</em></strong>
 </p>
-<p><strong>Prof. Michael Chia</strong> 
-<br>Dean
-<br>Faculty Affairs
-<br>National Institute of Education</p>
-<p><strong>Dr Ivy Lim</strong> 
-<br>Director &amp; Consultant
-<br>Sport &amp; Exercise Medicine
-<br>Changi General Hospital</p>
+<p><strong>Dr Jason Chia</strong> 
+<br>Tan Tock Seng Hospital
+<br>Head &amp; Senior Consultant
+<br>Sports Medicine &amp; Surgery Clinic</p>
 <p><strong>A/Prof. Chow Jia Yi</strong> 
 <br>Associate Dean
 <br>Programme &amp; Student Development
 <br>National Institute of Education</p>
-<p><strong>Ms Tan Bee Lian</strong> 
-<br>Director&nbsp;
-<br>Sports
-<br>Singapore Sports School</p>
 <p><strong>Mr&nbsp;Matthew James Wylde</strong> 
 <br>Head
 <br>Sport Science
@@ -49,18 +43,27 @@ October 2021 to 30 September 2023) is shown below:</p>
 <br>Head
 <br>Intellectual Property, Sports &amp; Gaming
 <br>Rajah &amp; Tann Singapore LLP</p>
-<p><strong>Dr Ong Joo Haw</strong> 
-<br>Consultant
-<br>Sport Medicine Centre
-<br>Khoo Tech Puat Hospital</p>
 <p><strong>Dr Alex Ong</strong> 
 <br>Assistant Director / Principal Lecturer
 <br>Capability &amp; Industry / Industry
 <br>Republic Polytechnic</p>
-<p><strong>Dr Marcus Lee</strong> 
+<p><strong>Dr Suriya Prakaash</strong> 
+<br>Head, Solider Development Branch
+<br>Centre of Excellence for Soldier Performance
+<br>Ministry of Defence</p>
+<p><strong>Dr Low Chee Yong</strong> 
 <br>Head
 <br>Sport Science and Medicine Centre
 <br>Singapore Sport Institute</p>
+<p><strong>Dr Abdul Rashid Aziz</strong> 
+<br>Senior Technical Staff, Sport Physiology
+<br>Sport Science and Medicine Centre
+<br>Singapore Sport Institute</p>
+<p><strong>Dr Danny Lum</strong> 
+<br>Team Lead, Strength and Conditioning
+<br>Sport Science and Medicine Centre
+<br>Singapore Sport Institute</p>
+<p></p>
 <p><strong>Quorum for IRB Meeting</strong>
 </p>
 <p>At least 5 Members present</p>
@@ -129,7 +132,12 @@ with the changes highlighted.</p>
 <h4><strong>Forms and Guidelines</strong></h4>
 <p><strong>Study pre-approval</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -275,7 +283,12 @@ Participant Under 21]</p>
 </table>
 <p><strong>Study post-approval</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -339,7 +352,12 @@ Participant Under 21]</p>
 </table>
 <p><strong>Guidelines</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -453,7 +471,12 @@ Participant Under 21]</p>
 <p>For more information on MOH Guidelines on HBRA, please click&nbsp;<a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Sharing Session</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
