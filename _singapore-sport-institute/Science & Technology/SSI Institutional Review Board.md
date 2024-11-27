@@ -18,7 +18,7 @@ framework.</p>
 <p>The SSI-IRB is comprised of a Chairperson and 9 members from Sport Singapore
 (SportSG), as well as external agencies/institutions involved in Sport
 Science, for a 2-year term. The list of the current SSI-IRB members (commencing
-October 2021 to 30 September 2023) is shown below:</p>
+October 2023 to 30 September 2025) is shown below:</p>
 <p><strong><em>Chairman</em></strong>
 </p>
 <p><strong>Dr Ivy Lim</strong> 
