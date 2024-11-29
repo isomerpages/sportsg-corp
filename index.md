@@ -49,7 +49,7 @@ sections:
       button: Sport Heritage
       alt: Develop A Love For Sport
       url: /sports-education/history-of-sportsg/introduction/
-      image: /images/Sport Education/Value & Principles in Sport/NSYS generic.jpeg
+      image: /images/SEP.jpg
   - resources:
       title: Media Centre
       button: More media releases
