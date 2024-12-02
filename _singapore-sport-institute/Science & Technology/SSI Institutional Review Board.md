@@ -133,7 +133,7 @@ with the changes highlighted.</p>
 <p>The Principal Investigator (PI) is responsible to provide a status update
 to the SSI-IRB Secretariat every 6 months (the last week of January and
 July each year). SSI-IRB Secretariat will provide email reminders when
-the reporting date is due. Click here for more information on <a href="/files/Our%20Work/Singapore%20Sports%20Institute/Science%20and%20Technology/Research%20Monitoring/Research_Monitoring_Guide%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Periodic Update of Research</a>.</p>
+the reporting date is due. Click here for more information on <a href="/files/Our Work/Singapore Sports Institute/Science and Technology/Forms and Guidelines/Research_Monitoring_Guide_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Periodic Update of Research</a>.</p>
 <hr>
 <p><strong>Contact Us</strong>
 </p>
