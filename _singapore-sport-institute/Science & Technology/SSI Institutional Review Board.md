@@ -22,15 +22,15 @@ October 2023 to 30 September 2025) is shown below:</p>
 <p><strong><em>Chairman</em></strong>
 </p>
 <p><strong>Dr Ivy Lim</strong> 
-<br>Changi General Hospital
 <br>Associate Consultant
-<br>Changi Sports Medicine Centre</p>
+<br>Changi Sports Medicine Centre
+<br>Changi General Hospital</p>
 <p><strong><em>Members</em></strong>
 </p>
 <p><strong>Dr Jason Chia</strong> 
-<br>Tan Tock Seng Hospital
 <br>Head &amp; Senior Consultant
-<br>Sports Medicine &amp; Surgery Clinic</p>
+<br>Sports Medicine &amp; Surgery Clinic
+<br>Tan Tock Seng Hospital</p>
 <p><strong>A/Prof. Chow Jia Yi</strong> 
 <br>Associate Dean
 <br>Programme &amp; Student Development
