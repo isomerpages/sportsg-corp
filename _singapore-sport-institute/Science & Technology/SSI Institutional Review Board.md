@@ -45,10 +45,10 @@ October 2023 to 30 September 2025) is shown below:</p>
 <br>Rajah &amp; Tann Singapore LLP</p>
 <p><strong>Dr Alex Ong</strong> 
 <br>Assistant Director / Principal Lecturer
-<br>Capability &amp; Industry / Industry
+<br>Capability Development / Industry
 <br>Republic Polytechnic</p>
 <p><strong>Dr Suriya Prakaash</strong> 
-<br>Head, Solider Development Branch
+<br>Head, Soldier Development Branch
 <br>Centre of Excellence for Soldier Performance
 <br>Ministry of Defence</p>
 <p><strong>Dr Low Chee Yong</strong> 
