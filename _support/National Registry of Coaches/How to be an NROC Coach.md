@@ -102,7 +102,7 @@ please click&nbsp;<a href="https://www.sportsync.sg/App/System/FAQ" rel="noopene
 <p>For technical assistance, please visit&nbsp;<a href="https://www.sportsync.sg/App/Login/Contact" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
 <p>All applicants will be notified of the results of applications via email.</p>
 <p>Please note that due to a high volume of applications, it may take between
-3 to 4 weeks for your application to be processed (this may take longer
+5 to 6 weeks for your application to be processed (this may take longer
 if your application was found to be incomplete).</p>
 <p>For general NROC enquiries, you may email us at&nbsp;<a href="mailto:sport_coaching@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_coaching@sport.gov.sg</a>.</p>
 <p><strong>Foreign Coaches</strong>
