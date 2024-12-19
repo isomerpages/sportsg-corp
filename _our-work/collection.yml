@@ -2,9 +2,9 @@ collections:
   our-work:
     output: true
     order:
-      - Industry Development/Major Events.md
-      - Industry Development/Introduction.md
       - Industry Development/.keep
+      - Industry Development/Introduction.md
+      - Industry Development/Major Events.md
       - Overview.md
       - ActiveSG.md
       - ActiveSG Academies and Clubs.md
