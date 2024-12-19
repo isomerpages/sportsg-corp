@@ -2,10 +2,10 @@ collections:
   our-work:
     output: true
     order:
-      - Industry Development/Sport & Fitness Technology.md
       - Industry Development/.keep
       - Industry Development/Introduction.md
       - Industry Development/Major Events.md
+      - Industry Development/Sport & Fitness Technology.md
       - Overview.md
       - ActiveSG.md
       - ActiveSG Academies and Clubs.md
