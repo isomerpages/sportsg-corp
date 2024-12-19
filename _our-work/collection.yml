@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Industry Development/Sport & Fitness Technology.md
       - Industry Development/.keep
       - Industry Development/Introduction.md
       - Industry Development/Major Events.md
