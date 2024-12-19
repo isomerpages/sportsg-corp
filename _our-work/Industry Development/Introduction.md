@@ -35,7 +35,7 @@ athletic excellence and lifelong success.&nbsp;</p>
 Sports Events Fund (MSEF), creating compelling experiences for participants,
 spectators, and fans while driving the growth of Singapore's sports and
 entertainment landscape.</p>
-<p><a href="/our-work/singapore-sport-institute/athlete-life/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/major-events/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ sector are driven through initiatives like the Enterprise Innovation and
 Capability Development Grant (InnoGrant) and strategic partnerships. These
 efforts foster a thriving ecosystem and position Singapore as a leading
 hub for sports technology and innovation.</p>
-<p><a href="/our-work/singapore-sport-institute/athlete-life/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/sport-fitness-technology/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
