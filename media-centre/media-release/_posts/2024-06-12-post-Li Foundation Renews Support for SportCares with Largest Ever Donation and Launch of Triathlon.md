@@ -14,7 +14,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p> <em>Li Foundation contributes S$500,000 – its largest contribution to the SportCares&nbsp;– Li Foundation Multi Sport Programme</em>
+<p><em>Li Foundation contributes S$500,000 – its largest contribution to the SportCares&nbsp;– Li Foundation Multi Sport Programme</em>
 </p>
 </li>
 <li>
@@ -73,6 +73,7 @@ their passion for excellence through sport.” said <strong>Mr Lionel Li, Chairm
 <p>Quotes from participants of the triathlon and SportCares Multi Sport coaches
 can be found in <strong>Annex B and C </strong>respectively<strong>.</strong>
 </p>
+<hr>
 <p></p>
 <p><strong>ANNEX A</strong>
 </p>
@@ -284,7 +285,7 @@ can be found in <strong>Annex B and C </strong>respectively<strong>.</strong>
 </p>
 <p><em>"When these young participants first trained, many were unsure of their abilities and lacked confidence. But through regular training for the race, I've witnessed a transformation in them. Their bodies have become stronger and for some, their minds have focused, pushing through the workouts. For many of the youth, self-doubt has given way to the belief that they can complete the race, definitely important life lessons for them.” </em>~ <strong>Mr Sunny Gan, 57 year old, SportCares Multi-Sport Coach</strong>
 </p>
-<p><em>“Our young participants have come a long way – they have shown determination and for the older children, an appreciation of the training journey. This is not uncommon in the sport of triathlon where participants train to overcome tiredness and build mental toughness. I am honoured to guide them along and see their growth."</em> ~ <strong>Ms Marinna Masjudi, 50 year old, SportCares Multi-Sport Coach </strong>
+<p><em>“Our young participants have come a long way – they have shown determination and for the older children, an appreciation of the training journey. This is not uncommon in the sport of triathlon where participants train to overcome tiredness and build mental toughness. I am honoured to guide them along and see their growth."</em> ~ <strong>Ms Marinna Masjudi, 50 year old, SportCares Multi-Sport Coach</strong>
 </p>
 <p></p>
 <p></p>
