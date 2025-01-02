@@ -768,7 +768,7 @@ cardholder's family member prior to making payment.</p>
 <h5><strong>ROYCE DENTAL GROUP AND DENTICARE</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>TS Athletes and immediate ·family members will enjoy 10% off clinic walk
+<p>TS Athletes and immediate family members will enjoy 10% off clinic walk
 in rates for basic dental services. TS athletes will have to show their
 TS Rewards card to enjoy this. Applicable to immediate family members.</p>
 </li>
