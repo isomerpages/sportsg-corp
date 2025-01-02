@@ -769,8 +769,8 @@ cardholder's family member prior to making payment.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>TS Athletes and immediate family members will enjoy 10% off clinic walk
-in rates for basic dental services. TS athletes will have to show their
-TS Rewards card to enjoy this. Applicable to immediate family members.</p>
+in rates for basic dental services. TS athletes and immediate family members
+will have to show their TS Rewards card to enjoy the offer.</p>
 </li>
 <li>
 <p>Basic dental services include:</p>
