@@ -13,6 +13,4 @@ Since **Vision 2030** was published in 2012, we have seen change take root in ou
 
 The people in the pages of this issue embody the Singapore spirit through their tenacity, resilience, and care for others. Some may be familiar to you as they are medal winners, while others, especially those that serve behind the scenes – coaches, officials, volunteer photographers, student athletes and parents, will be new to you. In their different ways, they all believe in the power of sport.
 
-[Download LIVE Issue 5](/files/Media%20Centre/Publication/LIVE_Issue_5.pdf)
-
 [Download LIVE Issue 5](/files/Media%20Centre/Publication/LIVE_Issue_5_compressed.pdf)
