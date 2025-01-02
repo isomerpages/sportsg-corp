@@ -545,6 +545,30 @@ to TS athletes via email.</p>
 <p>Offer for the OSIM eDM Flash Sales will be valid till 31 December 2025.</p>
 </li>
 </ul>
+<h5><strong>STRETCHFLO</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Redeem 40% discount off first stretch session via this <a href="https://app.acuityscheduling.com/catalog/00fb499b/?productId=1872650&amp;clearCart=true" rel="noopener nofollow" target="_blank">link</a>
+</p>
+</li>
+<li>
+<p>Offer is extended to the card holder only and not to be used in conjunction
+with other promotions.</p>
+</li>
+<li>
+<p>Offer is only valid for first-time customers to Stretchflo.</p>
+</li>
+<li>
+<p>Booking is subject to availability and must be made in advance.</p>
+</li>
+<li>
+<p>TS Rewards Card must be presented prior to payment for the discount to
+be valid.</p>
+</li>
+<li>
+<p>All offers are valid till 31 December 2025.</p>
+</li>
+</ul>
 <hr>
 <h4><strong>HEALTHCARE</strong></h4>
 <h5><strong>NEWPORT DENTAL</strong></h5>
@@ -739,6 +763,60 @@ cardholder's family member prior to making payment.</p>
 </li>
 <li>
 <p>Mode of payment - Cash/Credit Card/ NETS.</p>
+</li>
+</ul>
+<h5><strong>ROYCE DENTAL GROUP AND DENTICARE</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>TS Athletes and immediate ·family members will enjoy 10% off clinic walk
+in rates for basic dental services. TS athletes will have to show their
+TS Rewards card to enjoy this. Applicable to immediate family members.</p>
+</li>
+<li>
+<p>Basic dental services include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Consultation</p>
+</li>
+<li>
+<p>Scaling and Polishing</p>
+</li>
+<li>
+<p>Fluoride Treatment</p>
+</li>
+<li>
+<p>Dental Fillings</p>
+</li>
+<li>
+<p>Extractions</p>
+</li>
+<li>
+<p>Retainers</p>
+</li>
+<li>
+<p>Wisdom Tooth Surgery</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Patient is required to pay GST at the prevailing GST rate.</p>
+</li>
+<li>
+<p>For other dental treatments not listed here, patient will be charged separately
+at the clinic’s prevailing walk-in rates.</p>
+</li>
+<li>
+<p>Consumables are chargeable at Denticare clinics.</p>
+</li>
+<li>
+<p>Appointments are required via email or phone calls.</p>
+</li>
+<li>
+<p>Only applicable for Royce Dental and Denticare Clinics. Locations can
+be found here: <a href="https://roycedental.com.sg/locations/" rel="noopener noreferrer nofollow" target="_blank"><u>https://roycedental.com.sg/locations/</u></a> and
+<a href="https://roycedental.com.sg/locations/" rel="noopener noreferrer nofollow" target="_blank"><u>https://denticare.com.sg/locations/</u>
+</a>
+</p>
 </li>
 </ul>
 <p></p>
