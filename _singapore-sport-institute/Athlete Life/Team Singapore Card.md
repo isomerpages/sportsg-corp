@@ -622,7 +622,7 @@ the following:</p>
 </ul>
 </li>
 <li>
-<p><strong>Sign up for 2 sessions* of stain removal cleaning @ a discounted rate of $165 (before 9% service fee)</strong> which
+<p><strong>Sign up for 2 sessions* of stain removal cleaning @ a discounted rate of $175 (before 9% service fee)</strong> which
 includes the following:</p>
 <ul data-tight="true" class="tight">
 <li>
