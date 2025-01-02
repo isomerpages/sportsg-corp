@@ -20,9 +20,8 @@ Games athletes from July 2019.</p>
 <p><strong>Our Card Partners include:</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Oct_update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Dec_update.jpg">
 </div>
 <p>Singapore Sport Institute would like to thank our valued card partners
 for supporting our athletes in achieving their goals. Whether it is sports,
@@ -80,7 +79,7 @@ or discounts at the adidas stores.</p>
 be valid.</p>
 </li>
 <li>
-<p>This offer is only valid till 31 December 2024.</p>
+<p>This offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>F45 @ TANJONG RHU</strong></h5>
@@ -164,27 +163,39 @@ in Under Armour Brand Houses at:</p>
 <p>Parkway Parade, unit #01-37</p>
 </li>
 <li>
-<p>Funan, unit #01-09/10</p>
+<p>Funan Mall, unit #01-09/10</p>
 </li>
 <li>
 <p>VivoCity, unit #02-21</p>
 </li>
+<li>
+<p>Junction 8 , #01-03/04</p>
+</li>
 </ul>
 </li>
 <li>
-<p>* Discount is not valid for the latest Project Rock, Curry Brand and Slip
-Speed Mega Footwear.</p>
+<p>* Discount is not valid:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>on Project Rock footwear, Curry footwear, and the Uncrushable Stealthform
+Cap.</p>
 </li>
 <li>
-<p>Offer cannot be used in conjunction with any other existing promotions
-or discounts at the Under Armour stores.</p>
+<p>at Factory Houses (UA IMM &amp; UA Changi City Point) &amp; Store-In-Store
+(UA Takashimaya)</p>
+</li>
+<li>
+<p>in conjunction with any other existing promotions or discounts at the
+Under Armour stores.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>TS Rewards Card must be presented prior to payment for the discount to
 be valid.</p>
 </li>
 <li>
-<p>Offer is only valid till 31 December 2024.</p>
+<p>Offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>XUAN SPORTS</strong></h5>
@@ -222,7 +233,7 @@ code must be keyed in during the checking out process of the QR code ordering
 for the discount to be valid.</p>
 </li>
 <li>
-<p>Offer is valid till 31 December 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>CHICHA SAN CHEN</strong></h5>
@@ -240,7 +251,7 @@ or discounts at CHICHA San Chen</p>
 be valid.</p>
 </li>
 <li>
-<p>Offer is valid till 31 December 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>FUN TOAST</strong></h5>
@@ -258,7 +269,7 @@ or discounts.</p>
 be valid.</p>
 </li>
 <li>
-<p>Offer is only valid till 31 December 2024.</p>
+<p>Offer is only valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>MY KAMPUNG</strong></h5>
@@ -272,7 +283,7 @@ Wave Mall.</p>
 be valid.</p>
 </li>
 <li>
-<p>Offer is valid till 31 December 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>PASTAMANIA</strong></h5>
@@ -322,7 +333,7 @@ of the terms &amp; conditions without prior notice.</p>
 <h5><strong>PRESOTEA</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>15% discount on all food &amp; beverages at Presotea at Kallang Leisure
+<p>10% discount on all food &amp; beverages at Presotea at Kallang Leisure
 Park.</p>
 </li>
 <li>
@@ -334,7 +345,7 @@ be valid.</p>
 without prior notice.</p>
 </li>
 <li>
-<p>Offer is valid till 31 Dec 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>SUKI-YA</strong></h5>
@@ -417,6 +428,9 @@ terms &amp; conditions without any prior notice.</p>
 level 2 of Kallang Wave Mall.</p>
 </li>
 <li>
+<p>Offer is only valid for cash payment.</p>
+</li>
+<li>
 <p>Offer cannot be used in conjunction with any other existing promotions
 or discounts at Yu Kee Specialities.</p>
 </li>
@@ -429,7 +443,7 @@ be valid.</p>
 prior notice.</p>
 </li>
 <li>
-<p>Offer is valid till 31 Dec 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <hr>
@@ -451,6 +465,9 @@ the exception of the accessory products stated below:</p>
 </li>
 <li>
 <p>Supertub Water Balancing Supplies</p>
+</li>
+<li>
+<p>Products on the Bundle page</p>
 </li>
 </ul>
 </li>
@@ -487,7 +504,7 @@ HYDRAGUN website, please click&nbsp;<a href="/files/Our%20Work/Singapore%20Sport
 at the store unless otherwise stated.</p>
 </li>
 <li>
-<p>Offer is valid till 31 December 2024.</p>
+<p>Offer is valid till 31 December 2025.</p>
 </li>
 </ul>
 <h5><strong>KSKIN KOREAN EXPRESS FACIAL</strong></h5>
@@ -525,7 +542,7 @@ with other OSIM retail shop offers.</p>
 to TS athletes via email.</p>
 </li>
 <li>
-<p>Offer for the OSIM eDM Flash Sales will be valid till 31 December 2024.</p>
+<p>Offer for the OSIM eDM Flash Sales will be valid till 31 December 2025.</p>
 </li>
 </ul>
 <hr>
@@ -615,7 +632,7 @@ conjunction with other promotions.</p>
 be valid.</p>
 </li>
 <li>
-<p>All offers are valid till 31 December 2024.</p>
+<p>All offers are valid till 31 December 2025.</p>
 </li>
 </ul>
 </li>
@@ -627,7 +644,7 @@ be valid.</p>
 procedure &amp; practice cost)</p>
 </li>
 <li>
-<p>Health Screening Packages from $117.72</p>
+<p>Health Screening Packages from $122.40</p>
 </li>
 <li>
 <p>Flu (4-in-1) Vaccination @ $32.37; Pneumococcal (Pneumovax 23) Vaccination
@@ -638,10 +655,10 @@ procedure &amp; practice cost)</p>
 <p>Specialist Outpatient Consultation:-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>First Consultation from $154.02</p>
+<p>First Consultation from $169.71</p>
 </li>
 <li>
-<p>Subsequent Consultation from $107.91 <em>(exclude the cost of medications, injections, operations, special procedures, laboratory tests, if any)</em>
+<p>Subsequent Consultation from $117.72 <em>(exclude practice cost, medications, injections, operations, special procedures, laboratory tests, if any)</em>
 </p>
 </li>
 </ul>
@@ -666,9 +683,6 @@ procedure &amp; practice cost)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Price is in Singapore dollars and inclusive of GST.</p>
-</li>
-<li>
-<p>Price excludes practice cost and doctor's consultation charge.</p>
 </li>
 <li>
 <p>The quoted rates are not applicable for any ongoing corporate programmes.</p>
