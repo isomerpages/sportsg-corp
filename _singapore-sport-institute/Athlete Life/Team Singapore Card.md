@@ -770,7 +770,7 @@ cardholder's family member prior to making payment.</p>
 <li>
 <p>TS Athletes and immediate family members will enjoy 10% off clinic walk
 in rates for basic dental services. TS athletes and immediate family members
-will have to show their TS Rewards card to enjoy the offer.</p>
+will have to show their TS Rewards card to enjoy this</p>
 </li>
 <li>
 <p>Basic dental services include:</p>
@@ -797,6 +797,9 @@ will have to show their TS Rewards card to enjoy the offer.</p>
 <p>Wisdom Tooth Surgery</p>
 </li>
 </ul>
+</li>
+<li>
+<p>Treatments are done by GPs only.</p>
 </li>
 <li>
 <p>Patient is required to pay GST at the prevailing GST rate.</p>
