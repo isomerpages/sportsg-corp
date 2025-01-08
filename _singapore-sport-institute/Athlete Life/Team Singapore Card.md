@@ -772,7 +772,7 @@ cardholder's family member prior to making payment.</p>
 basic dental services. TS athletes and immediate family members will have
 to show their TS Rewards card to enjoy this.</p>
 </li>
-</ul>
+<li>
 <p>Basic dental services include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -797,8 +797,7 @@ to show their TS Rewards card to enjoy this.</p>
 <p>Wisdom Tooth Surgery</p>
 </li>
 </ul>
-<p></p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>The corporate rates are as follows:</p>
 </li>
