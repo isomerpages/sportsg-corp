@@ -79,7 +79,7 @@ or discounts at the adidas stores.</p>
 be valid.</p>
 </li>
 <li>
-<p>This offer is only valid till 31 December 2025.</p>
+<p>This offer is only valid till 31 December 2024.</p>
 </li>
 </ul>
 <h5><strong>F45 @ TANJONG RHU</strong></h5>
@@ -768,9 +768,9 @@ cardholder's family member prior to making payment.</p>
 <h5><strong>ROYCE DENTAL GROUP AND DENTICARE</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>TS Athletes and immediate family members will enjoy 10% off clinic walk
-in rates for basic dental services. TS athletes and immediate family members
-will have to show their TS Rewards card to enjoy this</p>
+<p>TS Athletes and immediate family members will enjoy corporate prices for
+basic dental services. TS athletes and immediate family members will have
+to show their TS Rewards card to enjoy this.</p>
 </li>
 <li>
 <p>Basic dental services include:</p>
@@ -797,6 +797,86 @@ will have to show their TS Rewards card to enjoy this</p>
 <p>Wisdom Tooth Surgery</p>
 </li>
 </ul>
+</li>
+<li>
+<p>The corporate rates are as follows:</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Corporate Price</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Consultation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$18 - $45</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scaling and Polishing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$54 - $126</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fluoride Treatment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$31.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dental Fillings</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$45 - $162</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Extractions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$58.5 - $360</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Retainers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From $270</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wisdom Tooth Surgery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$382.5 - $1,350</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Prices listed are in Singapore dollars.</p>
 </li>
 <li>
 <p>Treatments are done by GPs only.</p>
