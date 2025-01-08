@@ -79,7 +79,7 @@ or discounts at the adidas stores.</p>
 be valid.</p>
 </li>
 <li>
-<p>This offer is only valid till 31 December 2025.</p>
+<p>This offer is only valid till 31 December 2024.</p>
 </li>
 </ul>
 <h5><strong>F45 @ TANJONG RHU</strong></h5>
