@@ -1,0 +1,4 @@
+collections:
+  sportcares:
+    output: true
+    order: []
