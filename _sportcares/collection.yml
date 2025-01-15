@@ -1,4 +1,5 @@
 collections:
   sportcares:
     output: true
-    order: []
+    order:
+      - Programmes/.keep
