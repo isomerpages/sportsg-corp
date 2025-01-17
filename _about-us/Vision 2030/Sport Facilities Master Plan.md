@@ -41,7 +41,7 @@ create a vibrant social space and offer greater convenience to residents</p>
 Complex that will be redeveloped into a Wet Play Field that will comprise
 modern wet features such as an adventure sports pool with a floating playground.</p>
 <p></p>
-<p><strong>Sport Facilities in the community</strong>
+<p><strong>Sport in Precinct programme</strong>
 </p>
 <p>At the community level, new spaces and facilities will be created in the
 neighbourhood for sports and recreation as part of the Sports in Precinct
