@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vision 2030/.keep
       - Management/.keep
       - Management/Corporate Structure.md
       - Management/Board Members.md
