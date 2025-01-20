@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Vision 2030/Sport Facilities Master Plan.md
       - Vision 2030/Vision 2030.md
       - Vision 2030/.keep
       - Management/.keep
