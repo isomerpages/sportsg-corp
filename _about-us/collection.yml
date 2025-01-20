@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Vision 2030.md
       - Management/.keep
       - Management/Corporate Structure.md
       - Management/Board Members.md
       - Management/Senior Management.md
       - Mission and Core Values.md
       - Our Logo.md
+      - Vision 2030.md
       - Whistleblowing Policy.md
