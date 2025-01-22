@@ -2,12 +2,12 @@ collections:
   support:
     output: true
     order:
-      - About ADS.md
       - Overview.md
       - ActiveSG Programme Partnership/.keep
       - ActiveSG Programme Partnership/ActiveSG Programme Partnership.md
       - ActiveSG Programme Partnership/NROC Sports.md
       - ActiveSG Programme Partnership/Other Sports.md
+      - About ADS.md
       - Facilities/.keep
       - Facilities/Facilities.md
       - Facilities/Payment & Late Charges.md
