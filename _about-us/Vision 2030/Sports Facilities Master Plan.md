@@ -26,8 +26,11 @@ of competitive sports and events and will be integrated with Punggol's
 waterways and co-located with the SAFRA clubhouse. This new Regional Sports
 Centre will be able to host sports activities and events for the community
 of Punggol.</p>
-<p></p>
 </li>
+</ul>
+<p></p>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p>A new Town Sports and Recreation Centre that will be part of a community
 hub in Sembawang that will combine sporting and community facilities to
