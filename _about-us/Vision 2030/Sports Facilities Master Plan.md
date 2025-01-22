@@ -39,6 +39,11 @@ of Punggol.</p>
 hub in Sembawang that will combine sporting and community facilities to
 create a vibrant social space and offer greater convenience to residents.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sembawang Sport and Recreational Centre" src="/images/About Us/Vision 2030/Sembawang_Sport_and_Recreational_Centre.png">
+</div>
+<p></p>
 </li>
 <li>
 <p>Amongst the current facilities, which include swimming pools and water
@@ -47,8 +52,13 @@ a sheltered pool and new sport facilities, including a gym, fitness studios,
 futsal court, 3x3 basketball court and multi-sport courts. To provide safe
 and enjoyable spaces for younger residents, there will also be a new water
 play area and two children’s play courts.</p>
-<p></p>
 </li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ang Mio Kio Swimming Complex" src="/images/About Us/Vision 2030/Ang_Mo_Kio_Swimming_Complex.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p>At the community level, new sports and recreational facilities are developed
 in the neighbourhood as part of the Sport-in-Precinct (SIP) programme.
@@ -60,4 +70,12 @@ thereby bringing new sporting spaces closer to residents.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Whampoa SIP at McNair Road" src="/images/About Us/Vision 2030/Whampoa_SIP_at_McNair_Road.jpg">
+</div>
+<p>Whampoa SIP at McNair Road</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mountbatten SIP at Jalan Tiga" src="/images/About Us/Vision 2030/Mountbatten_SIP_at_Jalan_Tiga.jpg">
+</div>
+<p>Mountbatten SIP at Jalan Tiga</p>
