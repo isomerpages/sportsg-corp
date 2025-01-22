@@ -64,7 +64,7 @@ that all sports activities can be enjoyed safely.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Resources%20&amp;%20Useful%20Links/SSC_Concussion_Guide_2019_0810B_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Concussion Guide</a>
+<p><a href="/files/Concussion_Guide_Booklet_Digital_Copy_22_Jan_25.pdf" rel="noopener nofollow" target="_blank">Sports Concussion Guide</a>
 </p>
 </li>
 <li>
