@@ -19,5 +19,27 @@ Code”).&nbsp;</p>
 of Community Development, Youth and Sports as the national anti-doping
 authority for Singapore and is responsible for the implementation and management
 of the Anti-Doping Programme for sport in Singapore.</p>
+<p>ADS’ primary responsibilities are to:
+<br>(a) Plan, coordinate and implement an effective doping control programme;
+<br>(b) Advocate doping-free sport in Singapore through education programmes;
+<br>(c) Monitor National Sports Associations for their compliance with the
+Anti-Doping Policy of Singapore, the ADS Anti-Doping Rules, and the WADA
+Code;
+<br>(d) Pursue all potential anti-doping rule violations within its jurisdiction;
+<br>(e) Encourage reciprocal testing between national anti-doping organisations;
+and
+<br>(f) Promote anti-doping research.</p>
+<p></p>
+<p><strong>MISSION</strong>
+</p>
+<p>ADS’ mission is to ensure sport in Singapore is free of doping through
+the implementation of effective education, detection, research and international
+co-operation initiatives. We work together with the sport bodies to protect
+the right of Athletes to participate in clean sport.</p>
+<p><strong>VISION</strong>
+</p>
+<p>Every Singaporean athlete is a True Winner.</p>
+<p>Find out the application forms for Therapeutic Use Exemption and other
+information on ADS’s official website&nbsp;<a href="https://www.antidopingsingapore.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
