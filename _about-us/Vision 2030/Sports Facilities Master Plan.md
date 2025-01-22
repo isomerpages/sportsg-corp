@@ -29,6 +29,9 @@ of Punggol.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Punngol Regional Sport Centre" src="/images/About Us/Vision 2030/Punggol_Regional_Sport_Centre.png">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
