@@ -1,5 +1,0 @@
-collections:
-  sportcares:
-    output: true
-    order:
-      - Programmes/.keep
