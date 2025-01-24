@@ -12,10 +12,10 @@ Vision 2030 sports master plan, aims to provide greater access to quality,
 affordable sports facilities and enable wider participation in sports.
 As part of the SFMP, SportSG will continue to develop and rejuvenate quality
 infrastructure to cater to the diverse and evolving sporting needs, interests
-and aspirations of Singapore's population. Our goal is to provide Singaporeans
-with innovative, accessible, affordable and relevant sports facilities
-within a 10-minute walk from their homes by approximately 2030 - creating
-a network of world-class sporting facilities in the heartlands.</p>
+and aspirations of Singapore's population. Our aim is to provide Singaporeans
+with innovative, accessible, affordable and relevant sports facilities,
+with a majority within a 10-minute walk from their homes by around 2030
+– creating a network of quality sporting facilities in our heartlands.</p>
 <p>The first phase of the Masterplan will include a mix of new facilities
 as well as a rejuvenation of the existing ones, with innovative new features</p>
 <p>New facilities to be built include:</p>
