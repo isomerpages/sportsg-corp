@@ -9,8 +9,8 @@ third_nav_title: Vision 2030
 must address these trends in how we create space for sports in Singapore.
 The Sports Facilities Master Plan (SFMP), a key recommendation under the
 Vision 2030 sports master plan, aims to provide greater access to quality,
-affordable sports facilities and enable wider participation in sports.
-As part of the SFMP, SportSG will continue to develop and rejuvenate quality
+affordable sports facilities and enable wider participation in sport. As
+part of the SFMP, SportSG will continue to develop and rejuvenate quality
 infrastructure to cater to the diverse and evolving sporting needs, interests
 and aspirations of Singapore's population. Our aim is to provide Singaporeans
 with innovative, accessible, affordable and relevant sports facilities,
@@ -21,9 +21,9 @@ as well as a rejuvenation of the existing ones, with innovative new features</p>
 <p>New facilities to be built include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A new Regional Sports Centre in Punggol that will cater to a wider range
+<p>A new Regional Sport Centre in Punggol that will cater to a wider range
 of competitive sports and events and will be integrated with Punggol's
-waterways and co-located with the SAFRA clubhouse. This new Regional Sports
+waterways and co-located with the SAFRA clubhouse. This new Regional Sport
 Centre will be able to host sports activities and events for the community
 of Punggol.</p>
 </li>
@@ -35,7 +35,7 @@ of Punggol.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A new Town Sports and Recreation Centre that will be part of a community
+<p>A new Town Sport and Recreation Centre that will be part of a community
 hub in Sembawang that will combine sporting and community facilities to
 create a vibrant social space and offer greater convenience to residents.</p>
 <p></p>
