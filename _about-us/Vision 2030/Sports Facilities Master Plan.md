@@ -35,9 +35,9 @@ of Punggol.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A new Town Sport and Recreation Centre that will be part of a community
-hub in Sembawang that will combine sporting and community facilities to
-create a vibrant social space and offer greater convenience to residents.</p>
+<p>A new Town Sport Centre that will be part of a community hub in Sembawang
+that will combine sporting and community facilities to create a vibrant
+social space and offer greater convenience to residents.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -60,13 +60,13 @@ play area and two children’s play courts.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>At the community level, new sports and recreational facilities are developed
-in the neighbourhood as part of the Sport-in-Precinct (SIP) programme.
-These SIP facilities are located conveniently within HDB estates and offer
-a range of amenities including sheltered multi-purpose courts, playground
-and fitness corners. With ten SIP facilities completed, Singaporeans can
-look forward to more such facilities such as the ones at Whampoa and Mountbatten,
-thereby bringing new sporting spaces closer to residents.</p>
+<p>At the community level, new sport facilities are developed in the neighbourhood
+as part of the Sport-in-Precinct (SIP) programme. These SIP facilities
+are located conveniently within HDB estates and offer a range of amenities
+including sheltered multi-purpose courts, playground and fitness corners.
+With ten SIP facilities completed, Singaporeans can look forward to more
+such facilities such as the ones at Whampoa and Mountbatten, thereby bringing
+new sporting spaces closer to residents.</p>
 </li>
 </ul>
 <p></p>
