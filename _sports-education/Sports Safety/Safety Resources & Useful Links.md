@@ -48,11 +48,11 @@ that all sports activities can be enjoyed safely.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Resources%20&amp;%20Useful%20Links/11079H_594x841mm_Poster_27Apr20_5pm_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Get Active Questionanaire</a>
+<p><a href="/files/Sport Education/Sport Safety/Resources &amp; Useful Links/SportSG_FA_5Feb_25.pdf" rel="noopener nofollow" target="_blank">GAQ Poster 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sport%20Education/Sport%20Safety/Resources%20&amp;%20Useful%20Links/SportSG-FA.pdf" rel="noopener noreferrer nofollow" target="_blank">SportSG-FA</a>
+<p><a href="/files/Sport Education/Sport Safety/Resources &amp; Useful Links/11079H_594x841mm_Poster_5_Feb_25.pdf" rel="noopener nofollow" target="_blank">GAQ Poster 2</a>
 </p>
 </li>
 </ul>
