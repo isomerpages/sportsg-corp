@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-### **FIBA International Cup Draw completed in Singapore**
+### **FIBA Intercontinental Cup Draw completed in Singapore**
 
 ![](/images/Media%20Centre/Media%20Release/2023/June/FIBA%20International%20Cup%20Draw/photo%20credit_%20singapore%20sports%20hub.jpg)
 
@@ -33,7 +33,7 @@ Tickets for the FIBA Intercontinental Cup 2023 games go on sale on July 19 and t
 
 The Intercontinental Cup has included four teams in four of the last five years - only BCL champions San Pablo Burgos and BCLA winners Quimsa participated in 2021 - but the field has expanded to six teams for 2023, the most since eight clubs were in the field in 1987.
 
-[FIBA and Sport Singapore reached an agreement](https://www.fiba.basketball/news/singapore-to-host-fiba-intercontinental-cup-under-three-year-partnership-as-competition-reaches-asia-in-historical-first) in March 2023 that the island nation will host the Intercontinental Cup for the next three years, expanding the competition to include Asian teams for the first time.
+FIBA and Sport Singapore reached an agreement in March 2023 that the island nation will host the Intercontinental Cup for the next three years, expanding the competition to include Asian teams for the first time.
 
 **About FIBA**
 
