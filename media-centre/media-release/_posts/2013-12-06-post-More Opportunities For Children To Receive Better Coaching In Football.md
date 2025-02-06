@@ -94,44 +94,5 @@ unique Problem-based Learning (PBL) pedagogy.</p>
 <p><a href="/files/Media%20Centre/Media%20Release/2013/Dec/Annex.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex</a>:
 Bio Profile of Samuel Schweingruber</p>
 <hr>
-<p><strong>For media enquiries, please contact:</strong>
-</p>
-<p>Jemuel Fu
-<br>Senior Executive, Media Relations
-<br>Singapore Sports Council
-<br>Tel: (65) 6500 5245
-<br>HP: (65) 9616 7279
-<br>Email: jemuel_fu@ssc.gov.sg</p>
-<p>Alan Chiang
-<br>Assistant Manager, Corporate Affairs and Strategic Development
-<br>Football Association of Singapore
-<br>Tel: (65) 6880 3104
-<br>HP: (65) 9660 9852
-<br>Email: alan@fas.org.sg</p>
-<hr>
-<p><strong>About Football Association of Singapore</strong>
-<br>The Football Association of Singapore is responsible for developing and
-advancing the game at all levels. Providing a structure for the game to
-flourish and governing the running of football in Singapore, the FAS also
-ensures that the Laws of the Game are adhered to, from the professional
-S.League to amateur leagues.</p>
-<p>Organising and running league and cup competitions, the stewardship of
-international teams, the establishment of a youth development, women's
-football, refereeing and coaching frameworks are some of the affairs of
-the FAS. Mass participation and the appeal that crosses divides makes football
-the most popular sport in Singapore.</p>
-<p><strong>About Singapore Sports Council</strong>
-<br>The Singapore Sports Council aims to transform the nation through sport,
-by inspiring people and uniting communities. As the national sports agency,
-we work with a vast network of public-private-and people sector partners
-to create access, opportunities and capabilities for individuals to live
-better through sports. As detailed in the Vision 2030 Live Better Through
-Sports recommendations, our mandate goes beyond driving participation and
-winning medals. At SSC, we use sport to create resilient, tenacious people,
-an appreciation for teamwork, a commitment to purpose, strong united communities
-and national pride.</p>
-<p>To find out more, visit our websites <a href="http://www.sportsingapore.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sportsingapore.gov.sg</a> and
-<a href="http://www.myactivesg.com/" rel="noopener noreferrer nofollow" target="_blank">myactivesg.com</a>.
-<br>Follow us at <a href="http://www.facebook.com/SingaporeSports" rel="noopener noreferrer nofollow" target="_blank">facebook.com/SingaporeSports</a> and
-<a href="https://www.youtube.com/@SingaporeSports" rel="noopener noreferrer nofollow" target="_blank">youtube.com/@SingaporeSports</a>.
+<p>
 <br>For photographs, go to <a href="http://www.flickr.com/ssc-sportsphotography" rel="noopener noreferrer nofollow" target="_blank">SSC Sports Photography</a>.a</p>
