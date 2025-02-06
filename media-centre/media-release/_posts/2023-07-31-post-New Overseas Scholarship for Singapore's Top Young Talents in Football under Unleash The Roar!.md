@@ -33,8 +33,7 @@ aspirations for Singapore football.</p>
 The UTR! Overseas Scholarship recipients will be heading to two of the
 world’s top institutions for developing young football talents. Five will
 be attending the IMG Academy’s programme in Florida, United States of America
-(USA), and three will be enrolling at ESC LaLiga &amp; NBA in Madrid, Spain
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>.</p>
+(USA), and three will be enrolling at ESC LaLiga &amp; NBA in Madrid, Spain.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 IMG has produced world stars such as AC Milan’s Christian Pulisic, the
@@ -149,12 +148,3 @@ the scholarship recipients will contribute back to the Singapore football
 ecosystem, including representing Singapore in international competitions.</p>
 <p></p>
 <p></p>
-<p></p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>  <u>About IMG Academy</u>
-</p>
-<p>For more information about IMG Academy, please visit <a href="https://www.imgacademy.com/boarding-school/soccer" rel="noopener noreferrer nofollow" target="_blank">www.imgacademy.com/boarding-school/soccer</a>
-</p>
-<p><u>About ESC LaLiga &amp; NBA</u>
-</p>
-<p>For more information about ESC LaLiga Academy, please visit <a href="https://www.laligagrassroots.com/en/academy" rel="noopener noreferrer nofollow" target="_blank">www.laligagrassroots.com/en/academy</a>&nbsp;</p>
