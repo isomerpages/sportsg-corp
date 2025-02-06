@@ -5,9 +5,10 @@ date: 2013-10-03
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **$50 Million Sponsorship Target For 28th SEA Games**
-![](/images/Media%20Centre/Media%20Release/2013/October%202013/SEA%20Games%20logo.jpeg)
+
 
 *Regional event profile, link to Singapore's 50th anniversary celebrations and long term brand building offer compelling sponsorship opportunities*
 
@@ -27,7 +28,7 @@ image: ""
 
 6. The 28th SEA Games is expected to be one of the biggest regional sports events in 2015. Over 7,000 athletes and officials are expected at this event which will take place over 10 days during the June 2015 school holidays. To be held across multiple venues in Singapore including Singapore's new Singapore Sports Hub, organisers are committed to deliver a differentiated and unforgettable experience for everyone, in partnership with other partners and stakeholders.
 
-7. The 28th SEA Games will have something for everyone, and not just sport aficionados. Programmes and activities would include F&B, entertainment as well as other elements for the whole family. The ticketing and pricing strategy will be carefully designed to ensure that the Games is accessible to all.
+7. The 28th SEA Games will have something for everyone, and not just sport aficionados. Programmes and activities would include F&amp;B, entertainment as well as other elements for the whole family. The ticketing and pricing strategy will be carefully designed to ensure that the Games is accessible to all.
 
 8. Ms Lim Sau Hoong, Chief Executive Officer and Executive Creative Director, 10AM Communications, who is also a member of the Sponsorship and Marketing Advisory Sub-Committee said: "SEA Games 2015 doesn't just bring sportsmen and fans together, it is an opportune moment to connect brands with their audience. Leveraging on a viewership that reaches out to the region, brands can strengthen their position and aim to expand their presence. Ultimately, the SEA Games champions unity and camaraderie - whether it's between nations, athletes and their fans, or brands and their supporters."
 
@@ -37,7 +38,7 @@ image: ""
 
 11. Another member of the SINGSOC Sponsorship and Marketing Advisory Sub-Committee, Mr John Vamvakitis, Head of Sport, Google Asia Pacific: "Digital provides a powerful and cost effective platform that will extend sponsors' reach beyond traditional channels. How far we can go using digital is limited only by our imagination. With the SEA region boasting one of the fastest growing digital adopters, digital will play a crucial role in engaging consumers during the games. Digital will also enable participants to enjoy the games in more ways than one for example through the use of second screens, mobile applications as well as social media."
 
-12. The Games will be held in conjunction with Singapore's 50th anniversary - a major milestone in the Republic's history. The 28th SEA Games has been identified as one of the official major events that will be part of the 50th anniversary celebrations. Acting Minister for Culture, Community and Youth, Mr Lawrence Wong, who is also the SINGSOC Steering Committee Chairman, is co-chairing the Culture & Community Committee under the Singapore 50 (SG50) Steering Committee.
+12. The Games will be held in conjunction with Singapore's 50th anniversary - a major milestone in the Republic's history. The 28th SEA Games has been identified as one of the official major events that will be part of the 50th anniversary celebrations. Acting Minister for Culture, Community and Youth, Mr Lawrence Wong, who is also the SINGSOC Steering Committee Chairman, is co-chairing the Culture &amp; Community Committee under the Singapore 50 (SG50) Steering Committee.
 
 **Big Names in Sponsorship and Marketing Advisory Sub-Committee**
 
@@ -57,7 +58,7 @@ Annex A:
 Annex B:
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0059Imagegif.gif)
 
-Asia Facebook subscribers are for December 31, 2012. (3) Population estimates are based mainly on data from the [US Census Bereau](http://www.census.gov/). (4) The most recent usage comes mainly from data published by [Nielson Online](http://www.nielsen-online.com/), [ITU](http://www.itu.int/), Facebook, official country statistics and other trustworthy local sources. (5) Data consolidated from [Internet World Stats](http://www.internetworldstats.com/). (6) Alex Balfour, Head of New Media, LOCOG at eConsultancy's JUMP2012 event.
+Asia Facebook subscribers are for December 31, 2012. (3) Population estimates are based mainly on data from the [US Census Bereau](http://www.census.gov/). (4) The most recent usage comes mainly from data published by [Nielson Online](http://www.nielsen-online.com/), [ITU](http://www.itu.int/), Facebook, official country statistics and other trustworthy local sources. (5) Data consolidated from Internet World Stats. (6) Alex Balfour, Head of New Media, LOCOG at eConsultancy's JUMP2012 event.
 <br>
 *All figures based on year of 2012 data 
 
@@ -66,33 +67,3 @@ Asia Facebook subscribers are for December 31, 2012. (3) Population estimates ar
 ![](/images/Media%20Centre/Media%20Release/2013/October%202013/50MILLIONSPONSORSHIPTARGETFOR28thSEAGAMESMainPar0063Imagegif.gif)
 
 ---
-
-**For media enquiries, please contact:**<br>
-
-Siti Nurhidayati
-<br>Senior Executive, Media Relations
-<br>Singapore Sports Council
-<br>Tel: 6500 5246
-<br>Email: [siti_nurhidayati@ssc.gov.sg](mailto:siti_nurhidayati@ssc.gov.sg)
-
-Rachel Ang
-<br>Senior Executive, Media Relations
-<br>Singapore Sports Council
-<br>Tel: +65 6500 5249
-<br>Email: [rachel_ang@ssc.gov.sg](mailto:rachel_ang@ssc.gov.sg)
-
-S. Parameswaran 
-<br>Assistant Director, Media Relations
-<br>Singapore Sports Council
-<br>Tel: +65 6500 5236
-<br>Email: [parames_seenivasagam@ssc.gov.sg](mailto:parames_seenivasagam@ssc.gov.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
- To find out more, visit our websites [Vision2030.sg](http://www.vision2030.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
- 
-**About Singapore National Olympic Council (SNOC)**
-The Singapore National Olympic Council (SNOC) is the national nonprofit organisation that coordinates the selection of Singaporean athletes for competition at the major games such as the Olympics, the Asian Games, the Commonwealth Games and the South East Asian Games. Singapore's involvement in the Games is resolutely anchored in the Olympic ideals that were first espoused by Baron Pierre de Coubertin, the founder of the modern Olympic Games, in 1894. For more information, please visit www.snoc.org.sg.
