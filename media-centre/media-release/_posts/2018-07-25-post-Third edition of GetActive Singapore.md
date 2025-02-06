@@ -5,6 +5,7 @@ date: 2018-07-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### **Third edition of GetActive Singapore**
 
@@ -51,5 +52,3 @@ Welcoming the new partner on board, Mr Lim said, “We are happy to partner Grea
 The biennial Singapore National Games will also return this year as athletes from all over Singapore will come together once again to compete against one another. So far, the registration has more than 15,000 sign-ups for a total of 22 sports and eight para sports. This is the highest since it was started in 2014. This year’s prize money will also be the largest with a total of S$250,000.
 
 Additionally, this year’s Singapore National Games also welcomes the all-new Public Sports Challenge. The challenge is open for individuals as well as for families and friends who prefer to sign up as a team. Participants will have to complete gruelling challenges over a period of time to win attractive prizes.
-
-To sign-up or find out more information on GetActive! Singapore, you can visit [www.getactive.sg](http://www.getactive.sg/).
