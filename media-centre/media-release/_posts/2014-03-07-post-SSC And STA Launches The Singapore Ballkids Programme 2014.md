@@ -28,32 +28,3 @@ The Singapore Sports Council (SSC) and Singapore Tennis Association (STA) have j
 8\. Interested youths can download the application form from the STA website and send in their registration by 13 March 2014. Registered participants can head down to the Open Recruitment Drive on 15 and 16 March 2014 at the Kallang Tennis Centre from 9am-12pm.
 
 9\. For more information on the Singapore Ballkids Programme 2014, please visit [www.singtennis.org.sg](https://www.singtennis.org.sg).
-
----
-
-**For media enquiries, please contact:**
-<br>
-
-Bridgitte Lee<br>
-Senior Executive, Media Relations<br>
-Singapore Sports Council<br>
-Tel: (65) 6500 5249<br>
-HP: (65) 9711 3764<br>
-Email: [bridgitte_lee@ssc.gov.sg](mailto:bridgitte_lee@ssc.gov.sg)
-
-Gregory Tan<br>
-General Manager<br>
-Singapore Tennis Association<br>
-Tel: (65) 6295 2283<br>
-HP: (65) 9118 1589<br>
-Email: [gregtan@singtennis.org.sg](mailto:gregtan@singtennis.org.sg)
-
----
-
-**About Singapore Sports Council**<br>
-The Singapore Sports Council aims to transform the nation through sport, by inspiring people and uniting communities. As the national sports agency, we work with a vast network of public-private-and people sector partners to create access, opportunities and capabilities for individuals to live better through sports. As detailed in the Vision 2030 Live Better Through Sports recommendations, our mandate goes beyond driving participation and winning medals. At SSC, we use sport to create resilient, tenacious people, an appreciation for teamwork, a commitment to purpose, strong united communities and national pride.
-
-To find out more, visit our websites [sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/) and [myactivesg.com](http://www.myactivesg.com/).<br>Follow us at [facebook.com/SingaporeSports](http://www.facebook.com/SingaporeSports) and [youtube.com/@SingaporeSports](https://www.youtube.com/@SingaporeSports).<br>For photographs, go to [SSC Sports Photography](http://www.flickr.com/ssc-sportsphotography).
-
-**About Singapore Tennis Association**<br>
-The Singapore Tennis Association is committed to promoting the continuous development of tennis and its community in Singapore. We are passionate about tennis. We aim to deliver more tennis to our whole tennis community and see the standard of tennis raised for all players. Ultimately, we strive for excellence so that Singapore tennis can compete at the highest international levels.
