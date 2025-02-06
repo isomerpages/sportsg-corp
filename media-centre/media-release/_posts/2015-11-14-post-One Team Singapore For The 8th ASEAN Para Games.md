@@ -32,13 +32,3 @@ Says CDM Raja Singh, “Our Team Singapore athletes have always been giving us e
 Beaming with pride, Team Singapore athlete Yip Pin Xiu said, “It is a great honour to be the flag bearer for Singapore at the 8th ASEAN Para Games as this is the first time that we are competing at this level on home ground. It is also going to be the first time that most Singaporeans can get to experience a para games. All of us are training hard and we hope to see Singapore get behind us, dressed up in red to support us at the games and beyond.”
 
 The contingent of 157 athletes and 91 officials will be the largest contingent Singapore has ever fielded for a major para Games.
-
----
-
-**About the 8th ASEAN Para Games**<br>
-The 8th ASEAN Para Games will be held from 3 to 9 December 2015, with Singapore Sports Hub as the main venue for the Games. The Games are held in conjunction with Singapore’s 50th anniversary and will host more than 3,000 athletes and officials from the region. Adopting the theme of Celebrate the Extraordinary, the Games aims to promote friendship and solidarity amongst persons with disabilities in the ASEAN region through Sports, to promote and develop Sports for the differently abled, and rehabilitate and integrate persons with disabilities into mainstream society through Sports.
-
-Facebook: [ASEANParaGames2015](https://www.facebook.com/ASEANPARAGAMES2015)<br>
-Twitter &amp; Instagram: @APG\_2015<br>
-YouTube: [www.youtube.com/@singaporesports](http://www.youtube.com/@singaporesports)<br>
-Backup APG: #BackupAPG2015
