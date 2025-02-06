@@ -86,50 +86,7 @@ several Open houses at the following Sports Centres from 9am to 6pm</p>
 </li>
 <li>
 <p>10 May (Saturday): Pasir Ris Sports Centre</p>
+<p></p>
 </li>
 </ul>
-<hr>
-<p><strong>For media enquiries, please contact:</strong>
-<br>
-</p>
-<p>Rachel Ang
-<br>Senior Executive, Media Relations
-<br>Corporate Communications &amp; Relations
-<br>Tel: +65 6500 5245
-<br>HP: +65 9729 3700
-<br>Email:<a href="mailto:rachel_ang@ssc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_ang@ssc.gov.sg</a>
-</p>
-<p>S. Parameswaran
-<br>Assistant Director
-<br>Corporate Communications &amp; Relations
-<br>Tel: +65 6500 5236
-<br>HP: +65 9839 1974
-<br>Email:<a href="mailto:parames_seenivasagam@ssc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">parames_seenivasagam@ssc.gov.sg</a>
-</p>
-<hr>
-<p><strong>About ActiveSG</strong>
-<br>As a key recommendation of Vision 2030 – Singapore’s master plan for sports,
-ActiveSG was launched in April 2014 as the national movement for sport.
-ActiveSG aims to create a sporting ecosystem that provides innovative and
-experiential sport related programmes at sports centres island wide. This
-movement will act as an enabler to build a community for individuals, families
-and organisations from different zones where Singaporeans can come together
-to learn, train, compete and host a range of sports. Working together with
-communities, National Sports Associations (NSAs), schools, corporations,
-public agencies and interest groups, ActiveSG aims to co-create programmes
-that are affordable and inclusive for all skill levels and age groups.</p>
-<p><strong>About Sport Singapore</strong>
-<br>As the national sports agency, Sport Singapore’s core purpose is to inspire
-the Singapore spirit and transform Singapore through sport. Through innovative,
-fun and meaningful sporting experiences, our mission is to reach out and
-serve communities across Singapore with passion and pride. With Vision
-2030 – Singapore’s sports master plan, our mandate goes beyond winning
-medals. Sport Singapore uses sport to create greater sporting opportunities
-and access, more inclusivity and integration as well as broader development
-of capabilities. At Sport Singapore, wework with a vast network of public-private-people
-sector partners for individuals to live better through sports.</p>
-<p>To find out more, visit our websites <a href="http://www.sportsingapore.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sportsingapore.gov.sg</a> and
-<a href="http://www.myactivesg.com/" rel="noopener noreferrer nofollow" target="_blank">myactivesg.com</a>.
-<br>Follow us at <a href="http://www.facebook.com/SingaporeSports" rel="noopener noreferrer nofollow" target="_blank">facebook.com/SingaporeSports</a> and
-<a href="https://www.youtube.com/@SingaporeSports" rel="noopener noreferrer nofollow" target="_blank">youtube.com/@SingaporeSports</a>.
-<br>For photographs, go to <a href="http://www.flickr.com/ssc-sportsphotography" rel="noopener noreferrer nofollow" target="_blank">SSC Sports Photography</a>.</p>
+<p></p>
