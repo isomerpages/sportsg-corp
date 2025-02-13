@@ -36,7 +36,7 @@ allows the public to have easy access to <a href="https://coachsg.sportsingapore
 </p>
 </li>
 <li>
-<p><a href="/sports-education/value-and-principles-in-sport/" rel="noopener noreferrer nofollow" target="_blank">Values and Principles in Sport (VPS)</a> Certificate
+<p><a href="https://coachsg.sportsingapore.gov.sg/value-and-principles-in-sport-certification" rel="noopener noreferrer nofollow" target="_blank">Values and Principles in Sport (VPS)</a> Certificate
 or its equivalent<sup>1</sup>
 </p>
 </li>
