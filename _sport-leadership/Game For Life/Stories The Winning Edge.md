@@ -3,6 +3,7 @@ title: Stories The Winning Edge
 permalink: /sport-leadership/game-for-life/the-winning-edge/
 description: ""
 third_nav_title: Game For Life
+variant: markdown
 ---
 ### **The Winning Edge**
 
@@ -14,4 +15,4 @@ Richard attributes his courage to compete in business to the life lessons learnt
   
 He also draws parallels between his work and badminton, another sport he loves and thoroughly enjoys. "The difference between a good businessman and a mediocre one is that the former will persist until he succeeds. It was badminton that trained me to have the stamina to push on, even after the first years of entering business."  
   
-Click [here](/sports-education/sports-leadership/game-for-life/book) to find out more about this story.
+Click [here](https://www.sportsingapore.gov.sg/sport-leadership/game-for-life/book/) to find out more about this story.
