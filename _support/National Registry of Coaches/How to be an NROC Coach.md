@@ -79,7 +79,7 @@ SG-Coach Integrated Level 3 course
 </p>
 <p><em>^Coaches who presents NCAP Theory certificate are exempted from FSS/ISS course</em>
 </p>
-<p><em>Refer to&nbsp;<a href="/sports-education/value-and-principles-in-sport/" rel="noopener noreferrer nofollow" target="_blank">Value &amp; Principles in Sport</a>&nbsp;for list of equivalent certificates</em>
+<p><em>Refer to&nbsp;<a href="https://coachsg.sportsingapore.gov.sg/value-and-principles-in-sport-certification" rel="noopener noreferrer nofollow" target="_blank">Value &amp; Principles in Sport</a>&nbsp;for list of equivalent certificates</em>
 </p>
 <p><strong>Values and Principles in Sport (VPS) or its equivalent1:</strong>&nbsp;The
 VPS workshop is a module within the SG-Coach Theory Level 1 course which
