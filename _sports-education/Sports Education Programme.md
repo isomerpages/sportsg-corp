@@ -91,7 +91,7 @@ Excellence (SG-Coach) Theory Level One Programme and exemption of attendance
 from the VPS can be sought. You may click here to find out more information
 on&nbsp;<a href="/support-resources/coaches-corner/singapore-coach-excellence-sg-coach-programme/" rel="noopener noreferrer nofollow" target="_blank">the SG-Coach Programmes</a>.</p>
 <p>For registration and more information on the VPS workshop, please visit&nbsp;the&nbsp;
-<a href="/sports-education/value-and-principles-in-sport/" rel="noopener noreferrer nofollow" target="_blank">VPS page</a>.</p>
+<a href="https://coachsg.sportsingapore.gov.sg/value-and-principles-in-sport-certification" rel="noopener noreferrer nofollow" target="_blank">VPS page</a>.</p>
 <p><strong>4. STANDARD FIRST AID</strong>
 </p>
 <p>Instructor(s) / coach(es) are required to be equipped with a valid recognised
