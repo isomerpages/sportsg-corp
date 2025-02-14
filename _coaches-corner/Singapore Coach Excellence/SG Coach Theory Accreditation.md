@@ -7,7 +7,7 @@ variant: markdown
 ---
 Direct Waiver for the SG-Coach Level 1 Theory course is given to those who have graduated from the following local courses: 
 
-1.  National Institute of Education's Diploma / Postgraduate Diploma / Degree in Physical Education **(MOE Teachers holding these certificates still need to apply for [VPS Accreditation](/https://coachsg.sportsingapore.gov.sg/value-and-principles-in-sport-certification/) from CoachSG)**
+1.  National Institute of Education's Diploma / Postgraduate Diploma / Degree in Physical Education **(MOE Teachers holding these certificates still need to apply for [VPS Accreditation](https://coachsg.sportsingapore.gov.sg/value-and-principles-in-sport-certification/) from CoachSG)**
 2.  Republic Polytechnic's Diploma in Sport and Exercise Science (VPS Integrated)\*
 3.  Republic Polytechnic's Diploma in Sports Coaching (VPS Integrated)\*
 4.  Republic Polytechnic's Part-Time Diploma in Sports (Coaching) (VPS Integrated)\*
