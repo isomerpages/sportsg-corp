@@ -40,7 +40,7 @@ in outdoor activities especially during heightened levels of heat stress.</p>
 </ul>
 <p><strong>Attached is the Heat Stress Management Poster for the Sports Fraternity</strong>
 </p>
-<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/SPC24_6867_Sports_SG_X_HRPC_A3_Poster_R3_10_Feb_25.pdf" rel="noopener nofollow" target="_blank">Heat Stress Management Poster</a>
+<p><a href="/files/Sport Education/Sport Safety/Heat Stress Management Plan/SPC24_6867_Sports_SG_X_HRPC_A3_Poster_R5__1__19_Feb_25.pdf" rel="noopener nofollow" target="_blank">Heat Stress Management Poster</a>
 </p>
 <p>For more information on heat stress, do also refer to Meteorological Service
 Singapore (MSS) website:&nbsp; <a href="https://safe.menlosecurity.com/http://www.weather.gov.sg/learn-heat-stress/" rel="noopener noreferrer nofollow" target="_blank">http://www.weather.gov.sg/learn-heat-stress/</a>
