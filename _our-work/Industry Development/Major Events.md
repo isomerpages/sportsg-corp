@@ -127,11 +127,9 @@ positioning Singapore at the forefront of sports event innovation.</p>
 </ol>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Since its implementation, the MSEF has played a key role in fuelling the
 growth of Singapore's sporting landscape and is one of the several factors
 contributing to the 30% increase in sports, entertainment, and lifestyle
@@ -139,15 +137,10 @@ event days in 2023 compared to pre-COVID levels in 2019. Notable achievements
 include hosting the inaugural Olympic Esports Week in 2023 and creating
 the Urban Sports &amp; Fitness Festival, which attracted over 70,000 participants
 in its first year.</p>
-<p></p>
 <p>The MSEF is not merely a funding mechanism but a catalyst for Singapore's
 vision of becoming a global sports hub, playing a crucial role in shaping
 Singapore’s sporting future and its position on the world stage.</p>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Discover full list of upcoming sport and fitness events in Singapore at
 <a href="https://www.activesgcircle.gov.sg/things-to-do/events" rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/things-to-do/events</a>
 </p>
