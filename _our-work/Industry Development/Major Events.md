@@ -63,7 +63,9 @@ stage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Standard Chartered Singapore Marathon" src="/images/Our Work/Industry Development/SCSM_Start_Line.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ol start="2" data-tight="true" class="tight">
@@ -111,7 +113,9 @@ across various sectors, from hospitality to retail.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PTO Asian Open 2023" src="/images/Our Work/Industry Development/PTO_Asian_OPEN_2023_Singapore_AG_race_AM_jpeg_69__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ol start="5" data-tight="true" class="tight">
