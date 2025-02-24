@@ -47,5 +47,5 @@ hub for sports technology and innovation.</p>
 <p>We partner with government agencies to repurpose state land for sport
 and fitness. This allows private operators to create high-quality sports
 facilities, transforming spaces into active hubs.</p>
-<p>More about <a href="LAND PLANNING   We partner with government agencies to repurpose state land for sport and fitness. This allows private operators to create high-quality sports facilities, transforming spaces into active hubs.   Read more (link to Land Planning page)" rel="noopener nofollow" target="_blank">Land Planning</a>
+<p>More about <a href="/our-work/industry-development/land-planning/" rel="noopener nofollow" target="_blank">Land Planning</a>
 </p>
