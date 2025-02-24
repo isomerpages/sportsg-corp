@@ -40,7 +40,7 @@ sector are driven through initiatives like the Enterprise Innovation and
 Capability Development Grant (InnoGrant) and strategic partnerships. These
 efforts foster a thriving ecosystem and position Singapore as a leading
 hub for sports technology and innovation.</p>
-<p>More about <a href="/sport-and-fitness-technology/" rel="noopener nofollow" target="_blank">Sport and Fitness Technology</a>
+<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/land-planning/sport-and-fitness-technology/" rel="noopener nofollow" target="_blank">Sport and Fitness Technology</a>
 </p>
 <p><strong>LAND PLANNING</strong>
 </p>
