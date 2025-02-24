@@ -42,3 +42,10 @@ efforts foster a thriving ecosystem and position Singapore as a leading
 hub for sports technology and innovation.</p>
 <p>More about <a href="/sport-and-fitness-technology/" rel="noopener nofollow" target="_blank">Sport and Fitness Technology</a>
 </p>
+<p><strong>LAND PLANNING</strong>
+</p>
+<p>We partner with government agencies to repurpose state land for sport
+and fitness. This allows private operators to create high-quality sports
+facilities, transforming spaces into active hubs.</p>
+<p>More about <a href="LAND PLANNING   We partner with government agencies to repurpose state land for sport and fitness. This allows private operators to create high-quality sports facilities, transforming spaces into active hubs.   Read more (link to Land Planning page)" rel="noopener nofollow" target="_blank">Land Planning</a>
+</p>
