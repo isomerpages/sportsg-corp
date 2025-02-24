@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Industry Development/.keep
       - Overview.md
       - ActiveSG.md
       - ActiveSG Academies and Clubs.md
@@ -17,6 +16,7 @@ collections:
       - Singapore Sport Institute/Sport Medicine.md
       - Singapore Sport Institute/Innovation.md
       - Singapore Sport Institute/Science & Technology.md
+      - Industry Development/.keep
       - SportCares.md
       - Team Nila.md
       - Team Singapore.md
