@@ -38,4 +38,73 @@ Sports. The grant offers financial support of up to S$1,000,000 per project.</p>
 <p>Discover key industry problem statements that highlight real challenges
 and opportunities for innovation and connect with leaders who are actively
 seeking solutions to overcome them.</p>
+<p>In collaboration with key industry players like the Global Sport Innovation
+Center, SportSG kickstarted the initiative to gather industry problem statements
+in 2023 to identify needs in the sport and fitness industry and bridge
+the gap between real-world challenges and innovative solutions. This initiative
+is also a strategic effort to catalyse innovation and foster collaboration
+between technology providers and various industry players.</p>
+<p>This platform serves to facilitate ongoing collaboration between problem
+statement owners and solution providers, accelerate the adoption of cutting-edge
+technologies, provide increased visibility for local innovators to engage
+with international corporations, and nurture a dynamic ecosystem for sport
+and fitness technology innovation. Through this initiative, SportSG and
+our industry partners continue to drive meaningful partnerships, foster
+economic growth, and solidify Singapore's position as a hub for innovation
+in sport and fitness.</p>
+<p>The industry problem statements are grouped into four categories:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Engagement &amp; Experience Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovations that revolutionise how fans interact with and experience sports.
+These solutions create immersive, interactive experiences for spectators,
+both in-person and remotely</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gamification &amp; Active Virtual Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A blend of physical activity, digital technology and/or game mechanics
+to create engaging sporting experiences. This includes virtual and augmented-reality
+sports, as well as solutions that use game-like elements to encourage physical
+activity.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performance Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cutting-edge solutions designed to optimise athletic performance, training,
+and recovery, including wearable devices, AI-driven analytics, and advanced
+equipment to provide data-driven insights to athletes and coaches.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainability Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovations in energy-efficient sporting facilities, sustainable materials
+for equipment and apparel, waste reduction technologies, and solutions
+for minimising the carbon footprint of sporting events.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Download to view the <a href="https://go.gov.sg/ps-list" rel="noopener nofollow" target="_blank">industry problem statements</a>
+</p>
+<p>Looking for a solution to your industry challenge? <a href="https://go.gov.sg/ps-submit" rel="noopener nofollow" target="_blank">Submit your problem statement</a> 
+</p>
 <p></p>
