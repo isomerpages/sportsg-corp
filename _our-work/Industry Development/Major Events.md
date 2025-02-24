@@ -46,7 +46,9 @@ events in Singapore.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Smash 2023" src="/images/Our Work/Industry Development/2023_03_16_SingaporeSmash_Photo_By_Ron_Low__004.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
@@ -76,7 +78,9 @@ firsthand.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Asia Oceania Floorball" src="/images/Our Work/Industry Development/2023_10_10_Asia_Oceania_Floorball_Photo_By_Ron_Low__0080.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
@@ -91,7 +95,9 @@ performance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Work/Industry Development/ML20240504_150.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ol start="4" data-tight="true" class="tight">
