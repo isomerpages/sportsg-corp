@@ -33,4 +33,9 @@ categories: Performance Technology, Engagement and Experience Technology,
 Material Technology, Sustainability and Gamification and Active Virtual
 Sports. The grant offers financial support of up to S$1,000,000 per project.</p>
 <p>Read more about <a href="https://www.sportsingapore.gov.sg/support-resources/support-for-sport-businesses/grants/the-enterprise-innovation-and-capability/" rel="noopener nofollow" target="_blank">Enterprise and Capability Development Grant</a>.</p>
+<p><strong>Industry Problem Statements</strong>
+</p>
+<p>Discover key industry problem statements that highlight real challenges
+and opportunities for innovation and connect with leaders who are actively
+seeking solutions to overcome them.</p>
 <p></p>
