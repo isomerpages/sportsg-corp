@@ -62,7 +62,8 @@ in sport and fitness.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Engagement &amp; Experience Technology</p>
+<p><strong>Engagement &amp; Experience Technology</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Innovations that revolutionise how fans interact with and experience sports.
@@ -72,7 +73,8 @@ both in-person and remotely</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gamification &amp; Active Virtual Sports</p>
+<p><strong>Gamification &amp; Active Virtual Sports</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A blend of physical activity, digital technology and/or game mechanics
@@ -83,7 +85,8 @@ activity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performance Technology</p>
+<p><strong>Performance Technology</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cutting-edge solutions designed to optimise athletic performance, training,
@@ -93,7 +96,8 @@ equipment to provide data-driven insights to athletes and coaches.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sustainability Technology</p>
+<p><strong>Sustainability Technology</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Innovations in energy-efficient sporting facilities, sustainable materials
@@ -105,6 +109,6 @@ for minimising the carbon footprint of sporting events.</p>
 </table>
 <p>Download to view the <a href="https://go.gov.sg/ps-list" rel="noopener nofollow" target="_blank">industry problem statements</a>
 </p>
-<p>Looking for a solution to your industry challenge? <a href="https://go.gov.sg/ps-submit" rel="noopener nofollow" target="_blank">Submit your problem statement</a> 
+<p>Looking for a solution to your industry challenge? <a href="https://go.gov.sg/ps-submit" rel="noopener nofollow" target="_blank">Submit your problem statement</a>
 </p>
 <p></p>
