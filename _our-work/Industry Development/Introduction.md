@@ -31,7 +31,7 @@ athletic excellence and lifelong success.</p>
 Sports Events Fund (MSEF), creating compelling experiences for participants,
 spectators, and fans while driving the growth of Singapore's sports and
 entertainment landscape.</p>
-<p>More about <a href="https://www.sportsingapore.gov.sg/major-events/" rel="noopener nofollow" target="_blank">Major Events</a>
+<p>More about <a href="/major-events/" rel="noopener nofollow" target="_blank">Major Events</a>
 </p>
 <p><strong>SPORT AND FITNESS TECHNOLOGY</strong>
 </p>
