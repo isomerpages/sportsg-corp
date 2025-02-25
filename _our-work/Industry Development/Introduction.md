@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Industry Development
 ---
-<p>The Industry Development division is at the forefront of fostering growth
+<p>The Industry Development Group is at the forefront of fostering growth
 and innovation in Singapore’s sport and fitness ecosystem. The division
 plays a pivotal role in enhancing the sector's capacity, capability, and
 innovative potential, while simultaneously positioning Singapore as a leading
@@ -25,7 +25,7 @@ and Capability Development Grant (InnoGrant). Together, these efforts inspire
 the Singapore spirit, enhance Singaporeans’ lives through sports, create
 inclusive mass participation opportunities, and nurture champions by promoting
 athletic excellence and lifelong success.</p>
-<p><strong>MAJOR EVENTS</strong>
+<p><strong>SUPPORTING MAJOR EVENTS</strong>
 </p>
 <p>International events are anchored in Singapore by leveraging the Major
 Sports Events Fund (MSEF), creating compelling experiences for participants,
@@ -33,7 +33,7 @@ spectators, and fans while driving the growth of Singapore's sports and
 entertainment landscape.</p>
 <p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/major-events/" rel="noopener nofollow" target="_blank">Major Events</a>
 </p>
-<p><strong>SPORT AND FITNESS TECHNOLOGY</strong>
+<p><strong>DEVELOPING SPORT AND FITNESS TECHNOLOGY ECOSYSTEM</strong>
 </p>
 <p>Innovation and technological advancements in Singapore's sport and fitness
 sector are driven through initiatives like the Enterprise Innovation and
@@ -42,7 +42,7 @@ efforts foster a thriving ecosystem and position Singapore as a leading
 hub for sports technology and innovation.</p>
 <p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/land-planning/sport-and-fitness-technology/" rel="noopener nofollow" target="_blank">Sport and Fitness Technology</a>
 </p>
-<p><strong>LAND PLANNING</strong>
+<p><strong>ACTIVATING LAND FOR SPORT AND FITNESS USE</strong>
 </p>
 <p>We partner with government agencies to repurpose state land for sport
 and fitness. This allows private operators to create high-quality sports
