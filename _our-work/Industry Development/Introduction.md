@@ -31,7 +31,7 @@ athletic excellence and lifelong success.</p>
 Sports Events Fund (MSEF), creating compelling experiences for participants,
 spectators, and fans while driving the growth of Singapore's sports and
 entertainment landscape.</p>
-<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/major-events/" rel="noopener nofollow" target="_blank">Major Events</a>
+<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/supporting-major-events/" rel="noopener nofollow" target="_blank">Supporting Major Events</a>
 </p>
 <p><strong>DEVELOPING SPORT AND FITNESS TECHNOLOGY ECOSYSTEM</strong>
 </p>
@@ -40,12 +40,13 @@ sector are driven through initiatives like the Enterprise Innovation and
 Capability Development Grant (InnoGrant) and strategic partnerships. These
 efforts foster a thriving ecosystem and position Singapore as a leading
 hub for sports technology and innovation.</p>
-<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/land-planning/sport-and-fitness-technology/" rel="noopener nofollow" target="_blank">Sport and Fitness Technology</a>
+<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/developing-sport-and-fitness-technology-ecosystem/" rel="noopener nofollow" target="_blank">Developing Sport and Fitness Technology Ecosystem</a>
 </p>
+<p></p>
 <p><strong>ACTIVATING LAND FOR SPORT AND FITNESS USE</strong>
 </p>
 <p>We partner with government agencies to repurpose state land for sport
 and fitness. This allows private operators to create high-quality sports
 facilities, transforming spaces into active hubs.</p>
-<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/land-planning/" rel="noopener nofollow" target="_blank">Land Planning</a>
+<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/activating-land-for-sport-fitness-use/" rel="noopener nofollow" target="_blank">Activating Land for Sport and Fitness Use</a> 
 </p>
