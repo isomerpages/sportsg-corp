@@ -24,7 +24,7 @@ sport.</p>
 <br>Mr Tan Hock Leong</p>
 <p><strong>Chief, Sport Development Group</strong>
 <br>Mr Marcus Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Chief, Industry Development, Technology &amp; Innovation Group</strong>
+<p><strong>Chief, Industry Development Group</strong>
 <br>Mr Roy Teo</p>
 <p><strong>Chief, Assurance &amp; Corporate Excellence Group</strong>
 <br>Mr Muhammad Rostam Umar</p>
