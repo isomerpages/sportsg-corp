@@ -48,5 +48,5 @@ hub for sports technology and innovation.</p>
 <p>We partner with government agencies to repurpose state land for sport
 and fitness. This allows private operators to create high-quality sports
 facilities, transforming spaces into active hubs.</p>
-<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/activating-land-for-sport-fitness-use/" rel="noopener nofollow" target="_blank">Activating Land for Sport and Fitness Use</a> 
+<p>More about <a href="https://www.sportsingapore.gov.sg/our-work/industry-development/activating-land-for-sport-fitness-use/" rel="noopener nofollow" target="_blank">Activating Land for Sport and Fitness Use</a>
 </p>
