@@ -3,18 +3,17 @@ title: Introduction
 permalink: /sports-education/sports-safety/introduction/
 description: ""
 third_nav_title: Sports Safety
+variant: markdown
 ---
-The Sports Safety Working Committee was formed in the first quarter of 2008 and comprises Sport Singapore and 14 organisations that manage mass sports events and operate sports venues as well as medical institutions. The Committee aims to promote sports safety in Singapore holistically through a multi-year, multi-prong Sports Safety Plan.
+Sports Safety is integral in our promotion of a sporting culture among Singaporeans. In 2007, the Sport Safety Committee released a comprehensive report with detailed findings on sports safety standards and systems aligned with international best practices to the public. Since then, the report had undergone further reviews in 2014 and 2019. 
 
-In detail, the Sports Safety Working Committee: 
-*   Studies implementation issues 
-*   Puts into operation the recommendations of the Sports Safety Committee
-*   Promotes sports safety across different sports
-*   Assists National Sports Associations in developing and implementing sports safety practices and various information, materials, guides and templates for the public 
+The 2019 Sport Safety Committee Report provides practical guidelines and international best practices to improve sport safety. They cover a wide range of settings, including competitive and school sport, recreation, and fitness activities, and addresses the risks and challenges to good safety practice that we have encountered in recent years. The Report advocates a strong proactive approach to managing risks, especially with the desire to increase sport participation across all demographics. 
 
-Below is a report on the 'OVERVIEW AND RECOMMENDATIONS FOR SPORTS SAFETY IN SINGAPORE'  done by the Sports Safety Committee.
+The 2019 Sport Safety Committee Report was subsequently translated into Singapore Standard SS681: 2022 Code of Practice for Sport Safety. 
 
-The Sport Safety Committee Report 2019 has since been translated into a Singapore Standard, SS681:2022 Code of Practice for Sport Safety
+Since the, the following Singapore Standards were also developed:
+SS700:2023 Code of Practice for Water Safety - Aquatic Facilities
+SS701 2024 Code of Practice for Inland and Open Water Sporting Activities
 
 #### **Committee Report**
 * [Download the 2019 Sports Safety Committee Report](/files/Sport%20Education/Sport%20Safety/2019_Sports_Safety_Committee_Report_30Oct19(4).pdf)
@@ -33,7 +32,7 @@ The Sports S.A.F.E U Guide is a comprehensive guide for active individuals. It i
 <br>
 [Read more](/sports-education/sports-safety/sports-safe-u-guide/)
 
-**SPORTS SAFETY & HEALTH CHECK**
+**SPORTS SAFETY &amp; HEALTH CHECK**
 <br>
 Sport Singapore encourages appropriate safety and personal health measures so as to ensure a fun, invigorating and safe sporting experience. Here are some good practices for everyone to observe
 <br>
@@ -51,7 +50,7 @@ The Sports Safety Working Committee is responsible for looking into the implemen
 <br>
 [Read more](/sports-education/sports-safety/sports-safety-committee/)
 
-**SAFETY RESOURCES & USEFUL LINKS**
+**SAFETY RESOURCES &amp; USEFUL LINKS**
 <br>
 Information and guidebooks for everyone to play sports safely.
 <br>
