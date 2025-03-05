@@ -13,6 +13,7 @@ The 2019 Sport Safety Committee Report was subsequently translated into Singapor
 
 Since the, the following Singapore Standards were also developed:
 SS700:2023 Code of Practice for Water Safety - Aquatic Facilities
+
 SS701 2024 Code of Practice for Inland and Open Water Sporting Activities
 
 #### **Committee Report**
