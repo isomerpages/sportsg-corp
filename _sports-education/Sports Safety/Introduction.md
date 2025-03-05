@@ -12,6 +12,7 @@ The 2019 Sport Safety Committee Report provides practical guidelines and interna
 The 2019 Sport Safety Committee Report was subsequently translated into Singapore Standard SS681: 2022 Code of Practice for Sport Safety. 
 
 Since then, the following Singapore Standards were also developed:
+
 SS700:2023 Code of Practice for Water Safety - Aquatic Facilities
 
 SS701:2024 Code of Practice for Inland and Open Water Sporting Activities
