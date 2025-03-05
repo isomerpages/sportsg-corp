@@ -14,9 +14,9 @@ for the benefits of Team Singapore Athletes, in supporting them to achieve
 excellence in their sporting journey.</p>
 <p>On 13 January 2016, Singapore Sport Institute launched the Team Singapore
 Card for Team Singapore Athletes.</p>
-<p>The Team Singapore rewards card was subsequently made available via the
-ActiveSG app as an electronic card (e-Card) to all newly carded and Major
-Games athletes from July 2019.</p>
+<p>The Team Singapore rewards card was subsequently made available via FileSG
+as an electronic card (e-Card) to all newly carded and Major Games athletes
+from July 2024.</p>
 <p><strong>Our Card Partners include:</strong>
 </p>
 <p></p>
