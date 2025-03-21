@@ -7,21 +7,23 @@ variant: tiptap
 ---
 <p><strong>Background</strong>
 </p>
-<p>Since 2016, the Homefront (i.e., ministries/statutory boards) has relied
-on a Heatwave Contingency Plan that was based on temperatures reaching
-up to 35°C over a prolonged period. &nbsp;However, learning from the severity
-of 2022’s heatwave episodes in Europe and China and more severe climate
-change projections, MSE has formed a workgroup comprising representatives
-from MOE, MOH, MOM, NEA, MCCY, PA, SportSG, to review and align contingency
-plans for the Homefront. SportSG has since updated the Heat Stress Management
-Plan for reference and use by the sports fraternity.</p>
+<p>Based on Singapore’s Third National Climate Change (V3) projections coupled
+with Singapore’s long term temperature records, there is a clear warming
+trend brought on by climate change. In addition, we also see climate drivers
+like the El Nino driving higher temperatures in Singapore from time to
+time. Therefore, whole of government has been stepping up heat response
+measures, including the launch of the heat stress advisory (HSA) in April
+2023 which is a jointly managed by the National Environment Agency (NEA),
+Ministry of Manpower (MOM), Ministry of Health (MOH) and the Workplace
+Safety and Health Council (WSHC). This advisory system provides the public
+with information about heat stress risk levels and recommended precautionary
+measures to raise awareness of heat stress and provide the public with
+real-time information. The public can access these advisories through the
+myENV mobile app or the NEA website, helping them plan outdoor activities
+and take appropriate precautions during periods of high heat stress risk.</p>
 <p><strong>Climate Change</strong>
 </p>
-<p>Many countries in the world including Singapore, are seeing rising temperatures.
-According to NEA, the last ten years from 2013 to 2022 was Singapore’s
-warmest decade on record. On 13 May 2023, Ang Mo Kio recorded a 37 degrees
-Celsius air temperature, similar to the record set on 17 April 1983. It
-is therefore important for the sporting fraternity to prepare and adapt
+<p>It is therefore important for the sporting fraternity to prepare and adapt
 to rising temperatures. This Plan aims to help the sporting fraternity
 better prepare, plan and respond during severe hot weather and reduce heat
 injury risks in sport. It also provides information for persons participating
