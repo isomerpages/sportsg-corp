@@ -26,15 +26,14 @@ amongst students.</p>
 <h3><strong>Coach Criteria</strong></h3>
 <p><strong>1. NROC SPORTS</strong>
 </p>
-<p>Sports Providers offering&nbsp;<a href="/coaches-corner/singapore-coach-excellence/sg-coach-technical-programme-accreditation/" rel="noopener noreferrer nofollow" target="_blank">NROC Sports</a>&nbsp;will
+<p>Service Providers offering <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC Sports</a> will
 need to have their instructors/coaches registered under the National Registry
-of Coaches (NROC). During the&nbsp;two-year endorsement period, instructors/coaches
-will also be invited to attend clinics, workshops, and conferences as part
-of the NROC requirement on continuing education (CCE).</p>
-<p>For application details on NROC, please visit&nbsp;<a href="/support-resources/activesg-programme-partnership/nroc-sports/" rel="noopener noreferrer nofollow" target="_blank">NROC Registration</a>.
-Sports Service Providers are strongly advised to inform your coaches and
-instructors to obtain regular updates and information from the&nbsp;
-<a href="/support-resources/activesg-programme-partnership/nroc-sports/" rel="noopener noreferrer nofollow" target="_blank">Coaches page</a>.</p>
+of Coaches (NROC). For application details on NROC, please visit the NROC
+website. Service Providers are strongly advised to inform your coaches
+and instructors to obtain regular updates and information from the <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener nofollow" target="_blank">NROC website</a> too.</p>
+<p>This is the full list of <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC sports with SG-Coach coaching courses</a>.
+To verify if your programme sport is recognized under NROC, please contact:
+<a href="mailto:SPORT_Coaching@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SPORT_Coaching@sport.gov.sg</a>for more details.</p>
 <p></p>
 <p><strong>2. VALUES AND PRINCIPLES IN SPORTS (VPS)</strong>
 </p>
