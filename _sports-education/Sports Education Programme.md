@@ -72,11 +72,11 @@ and choking are strictly not allowed. This must be clearly indicated in
 the programme submission and will be further evaluated by the panel.</p>
 <p><strong>2.&nbsp;SWIMMING PROGRAMMES UNDER SEP</strong>
 </p>
-<p>All Sports Providers offering swimming programmes will require their instructors/coaches
-to be&nbsp;<strong>SwimSafer</strong>&nbsp;<strong>Certified</strong>&nbsp;in
-addition to meeting the requirements of having the&nbsp;minimum NCAP Theory
-Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent)
-and a valid recognised first aid certification.</p>
+<p>All Service Providers offering swimming programmes will require their
+instructors/coaches to be <strong>SwimSafer Certified</strong> in addition
+to meeting the requirements of having the minimum NCAP Theory Level 1 (or
+its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid
+recognised first aid certification.</p>
 <p><strong>Instructor to Student Ratio at 1:10</strong>
 </p>
 <p>Instructor to student ratio for all swimming programmes must be kept at
