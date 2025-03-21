@@ -53,10 +53,9 @@ Standard First Aid Certificate at point of submission and at point of conduct
 of programme. Please view the&nbsp;<a href="/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/" rel="noopener noreferrer nofollow" target="_blank">list of SportSG-recognised First Aid courses</a>.</p>
 <p><strong>4. COACH ACKNOWLEDGEMENT FORM</strong>
 </p>
-<p>Sports providers with the exception of individuals are required to have
-their instructor(s) / coach(es) listed in their submitted SEP programmes
-to&nbsp;complete the Instructor's Coach's Acknowledgement Form&nbsp;(valid
-for the endorsed year).</p>
+<p>Service Providers except for individuals are required to have their instructor(s)
+/ coach(es) listed in their submitted SEP programmes to complete the Instructor's
+Coach's Acknowledgement Form (valid for the endorsed year).</p>
 <h4><strong>Programme Criteria</strong></h4>
 <p>For a programme to be recognised as a sport activity endorsed under SEP,
 the programme should reflect activities that not only include a physical
