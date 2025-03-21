@@ -26,15 +26,14 @@ amongst students.</p>
 <h3><strong>Coach Criteria</strong></h3>
 <p><strong>1. NROC SPORTS</strong>
 </p>
-<p>Sports Providers offering&nbsp;<a href="/coaches-corner/singapore-coach-excellence/sg-coach-technical-programme-accreditation/" rel="noopener noreferrer nofollow" target="_blank">NROC Sports</a>&nbsp;will
+<p>Service Providers offering <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC Sports</a> will
 need to have their instructors/coaches registered under the National Registry
-of Coaches (NROC). During the&nbsp;two-year endorsement period, instructors/coaches
-will also be invited to attend clinics, workshops, and conferences as part
-of the NROC requirement on continuing education (CCE).</p>
-<p>For application details on NROC, please visit&nbsp;<a href="/support-resources/activesg-programme-partnership/nroc-sports/" rel="noopener noreferrer nofollow" target="_blank">NROC Registration</a>.
-Sports Service Providers are strongly advised to inform your coaches and
-instructors to obtain regular updates and information from the&nbsp;
-<a href="/support-resources/activesg-programme-partnership/nroc-sports/" rel="noopener noreferrer nofollow" target="_blank">Coaches page</a>.</p>
+of Coaches (NROC). For application details on NROC, please visit the NROC
+website. Service Providers are strongly advised to inform your coaches
+and instructors to obtain regular updates and information from the <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener nofollow" target="_blank">NROC website</a> too.</p>
+<p>This is the full list of <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC sports with SG-Coach coaching courses</a>.
+To verify if your programme sport is recognized under NROC, please contact:
+<a href="mailto:SPORT_Coaching@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SPORT_Coaching@sport.gov.sg</a>for more details.</p>
 <p></p>
 <p><strong>2. VALUES AND PRINCIPLES IN SPORTS (VPS)</strong>
 </p>
@@ -54,10 +53,9 @@ Standard First Aid Certificate at point of submission and at point of conduct
 of programme. Please view the&nbsp;<a href="/support-resources/national-registry-of-coaches/accredited-standard-first-aid-with-aed-courses/" rel="noopener noreferrer nofollow" target="_blank">list of SportSG-recognised First Aid courses</a>.</p>
 <p><strong>4. COACH ACKNOWLEDGEMENT FORM</strong>
 </p>
-<p>Sports providers with the exception of individuals are required to have
-their instructor(s) / coach(es) listed in their submitted SEP programmes
-to&nbsp;complete the Instructor's Coach's Acknowledgement Form&nbsp;(valid
-for the endorsed year).</p>
+<p>Service Providers except for individuals are required to have their instructor(s)
+/ coach(es) listed in their submitted SEP programmes to complete the Instructor's
+Coach's Acknowledgement Form (valid for the endorsed year).</p>
 <h4><strong>Programme Criteria</strong></h4>
 <p>For a programme to be recognised as a sport activity endorsed under SEP,
 the programme should reflect activities that not only include a physical
@@ -74,11 +72,11 @@ and choking are strictly not allowed. This must be clearly indicated in
 the programme submission and will be further evaluated by the panel.</p>
 <p><strong>2.&nbsp;SWIMMING PROGRAMMES UNDER SEP</strong>
 </p>
-<p>All Sports Providers offering swimming programmes will require their instructors/coaches
-to be&nbsp;<strong>SwimSafer</strong>&nbsp;<strong>Certified</strong>&nbsp;in
-addition to meeting the requirements of having the&nbsp;minimum NCAP Theory
-Level 1 (or its equivalent), NCAP Technical Level 1 (or its equivalent)
-and a valid recognised first aid certification.</p>
+<p>All Service Providers offering swimming programmes will require their
+instructors/coaches to be <strong>SwimSafer Certified</strong> in addition
+to meeting the requirements of having the minimum NCAP Theory Level 1 (or
+its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid
+recognised first aid certification.</p>
 <p><strong>Instructor to Student Ratio at 1:10</strong>
 </p>
 <p>Instructor to student ratio for all swimming programmes must be kept at
