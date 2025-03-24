@@ -24,7 +24,7 @@ in schools. The programmes also&nbsp;promote team spirit and character
 building, and aim to arouse interest in continual sports participation
 amongst students.</p>
 <h3><strong>Coach Criteria</strong></h3>
-<p><strong>1. NROC SPORTS</strong>
+<p><strong>1. NROC REGISTERED</strong>
 </p>
 <p>Service Providers offering <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC Sports</a> will
 need to have their instructors/coaches registered under the National Registry
