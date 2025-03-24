@@ -56,7 +56,7 @@ of programme. Please view the&nbsp;<a href="/support-resources/national-registry
 <p>Service Providers except for individuals are required to have their instructor(s)
 / coach(es) listed in their submitted SEP programmes to complete the Instructor's
 Coach's Acknowledgement Form (valid for the endorsed year).</p>
-<h4><strong>Programme Criteria</strong></h4>
+<h3><strong>Programme Criteria</strong></h3>
 <p>For a programme to be recognised as a sport activity endorsed under SEP,
 the programme should reflect activities that not only include a physical
 exertion and the development of a skill, but is also governed by a set
