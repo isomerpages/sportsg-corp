@@ -24,4 +24,4 @@ in their coaching knowledge and skills.</p>
 <p>Through NROC, Sport Singapore aims to give recognition to coaches who
 have been certified and deemed competent by a national body. Doing so also
 allows the public to have easy access to qualified coaches.</p>
-<p>Learn more about NROC from CoachSG’s official website.</p>
+<p>Learn more about NROC from <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener nofollow" target="_blank">CoachSG's official website</a>.</p>
