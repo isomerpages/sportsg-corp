@@ -13,7 +13,13 @@ professionals and field experts within and together.</p>
 <h4><strong>Why SportSG-ED?</strong></h4>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
