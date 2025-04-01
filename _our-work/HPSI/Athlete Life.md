@@ -60,8 +60,8 @@ their academic aspirations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>spex</em>Business</strong>
-<br>The <em>spex</em>Business scheme provides an effective career support system
+<p><strong><em>spex</em>Career</strong>
+<br>The <em>spex</em>Career scheme provides an effective career support system
 to help our athletes pursue high performance sports without compromising
 their career aspirations.</p>
 <p><a href="/singapore-sport-institute/athlete-life/spexbusiness/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
