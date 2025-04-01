@@ -16,7 +16,7 @@ with other life goals. By integrating the demands of high-performance sports
 with ALM, we prepare the athlete for a successful sports career and life
 after competitive sports.</p>
 <p>ALM has three main components: Athlete Life Coaching,&nbsp;<em>spex</em>Education
-and&nbsp;<em>spex</em>Business</p>
+and&nbsp;<em>spex</em>Career</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
