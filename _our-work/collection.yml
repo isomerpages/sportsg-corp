@@ -2,21 +2,13 @@ collections:
   our-work:
     output: true
     order:
-      - High Performance Sport Institute.md
       - Overview.md
       - ActiveSG.md
       - ActiveSG Academies and Clubs.md
       - Active Health.md
       - Active Parents.md
       - CoachSG.md
-      - Singapore Sport Institute/.keep
-      - Singapore Sport Institute/Introduction.md
-      - Singapore Sport Institute/High Performance Sports.md
-      - Singapore Sport Institute/Athlete Life.md
-      - Singapore Sport Institute/Sport Science.md
-      - Singapore Sport Institute/Sport Medicine.md
-      - Singapore Sport Institute/Innovation.md
-      - Singapore Sport Institute/Science & Technology.md
+      - High Performance Sport Institute.md
       - Industry Development/.keep
       - Industry Development/Introduction.md
       - Industry Development/Supporting Major Events.md
@@ -26,3 +18,11 @@ collections:
       - Team Nila.md
       - Team Singapore.md
       - YouthCreates.md
+      - Singapore Sport Institute/.keep
+      - Singapore Sport Institute/Introduction.md
+      - Singapore Sport Institute/High Performance Sports.md
+      - Singapore Sport Institute/Athlete Life.md
+      - Singapore Sport Institute/Sport Science.md
+      - Singapore Sport Institute/Sport Medicine.md
+      - Singapore Sport Institute/Innovation.md
+      - Singapore Sport Institute/Science & Technology.md
