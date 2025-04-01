@@ -8,12 +8,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Team Singapore Card" src="/images/Our%20Work/Singapore%20Sports%20Institute/Athlete%20Life/Team%20Singapore%20Card/teamsg%20card%20partners%20for%202023%20-%20jun%20update.jpg">
 </div>
-<p>Singapore Sport Institute collaborates with corporate companies and retail
-outlets to provide various forms of privileged discounts and incentives
-for the benefits of Team Singapore Athletes, in supporting them to achieve
-excellence in their sporting journey.</p>
-<p>On 13 January 2016, Singapore Sport Institute launched the Team Singapore
-Rewards Card for Team Singapore Athletes.</p>
+<p><strong>High Performance Sport Institute (HPSI)</strong> collaborates with
+corporate companies and retail outlets to provide various forms of privileged
+discounts and incentives for the benefits of Team Singapore Athletes, in
+supporting them to achieve excellence in their sporting journey.</p>
+<p>On 13 January 2016, the Team Singapore Rewards Card was launched for Team
+Singapore Athletes.</p>
 <p>The Team Singapore rewards electronic card (eCard) became available through
 FileSG from July 2024 onwards to all carded and Major Games athletes.</p>
 <p><strong>Our Card Partners include:</strong>
@@ -22,14 +22,15 @@ FileSG from July 2024 onwards to all carded and Major Games athletes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Sport Institute/Athlete Life/TeamSG_card_partners_for_2024___Dec_update.jpg">
 </div>
-<p>Singapore Sport Institute would like to thank our valued card partners
-for supporting our athletes in achieving their goals. Whether it is sports,
-lifestyle or dining, Team Singapore Athletes can enjoy up to 30% benefits
-and privileges ranging from sporting apparel, footwear and accessories
-to lifestyle products. In addition, our athletes can enjoy up to 20% discount
-at selected dining choices at Kallang Wave Mall and Kallang Leisure Park
-which are ideally located within the Sport Hub. Some of the reward privileges
-also extend to various participating outlets across Singapore.</p>
+<p><strong>High Performance Sport Institute (HPSI)</strong> would like to
+thank our valued card partners for supporting our athletes in achieving
+their goals. Whether it is sports, lifestyle or dining, Team Singapore
+Athletes can enjoy up to 30% benefits and privileges ranging from sporting
+apparel, footwear and accessories to lifestyle products. In addition, our
+athletes can enjoy up to 20% discount at selected dining choices at Kallang
+Wave Mall and Kallang Leisure Park which are ideally located within the
+Sport Hub. Some of the reward privileges also extend to various participating
+outlets across Singapore.</p>
 <hr>
 <h3><strong>Benefits and Privileges</strong></h3>
 <p>Enjoy these benefits and privileges from our valued card partners for
