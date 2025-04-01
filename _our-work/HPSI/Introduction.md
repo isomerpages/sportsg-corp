@@ -101,13 +101,14 @@ associated with athletic training and participation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SSI Innovation" src="/images/Our%20Work/Singapore%20Sports%20Institute/Introduction/SSI_NEW.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPSI_Black_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>INNOVATION</strong>
-<br>SSI recognises that embracing innovation is a critical component staying
+<br>HPSI recognises that embracing innovation is a critical component staying
 ahead of the curve in the face of an ever-changing sport eco-system.</p>
 <p><a href="/our-work/singapore-sport-institute/innovation/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
