@@ -16,6 +16,9 @@ third_nav_title: Facilities
 <li>
 <p>8.0% per annum from 1 October 2024 to 31 March 2025.</p>
 </li>
+<li>
+<p>7.2% per annum from 1 April 2025 to 30 September 2025</p>
+</li>
 </ul>
 <p>The rate is reviewed bi-annually. Late payment charges will continue to
 be imposed based on the outstanding arrears at the end of every month and
