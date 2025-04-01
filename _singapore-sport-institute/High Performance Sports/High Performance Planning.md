@@ -10,7 +10,7 @@ Team Singapore athletes so that they can fulfil their sporting aspirations
 and to inspire the Singapore Spirit.</p>
 <p><strong>Periodisation Programme</strong>
 </p>
-<p>A key element of the High Performance Sports system is the periodisation
+<p>A key element of the High Performance Sport system is the periodisation
 programme, which drives training and competition profiles over a four-year
 Olympic cycle. These training cycles take into consideration the interphases
 between an athlete’s peak performance and recovery periods to achieve their
@@ -39,11 +39,10 @@ system.</p>
 system.</p>
 <p><strong>Multiple Achievements:</strong>
 </p>
-<p>Consideration for High-Performance Sports pathway support is based on
-the athlete’s profile / potential to achieve at the Major games or its
-equivalent. Performance is assessed based on the athlete’s holistic achievement
-profile and not on just a single point of achievement during the assessment
-period.</p>
+<p>Consideration for High-Performance Sport pathway support is based on the
+athlete’s profile / potential to achieve at the Major Games or its equivalent.
+Performance is assessed based on the athlete’s holistic achievement profile
+and not on just a single point of achievement during the assessment period.</p>
 <p><strong>Sport Excellence Scholarship (<em>spex</em>Scholarship) and Sport Excellence Potential (<em>spex</em>Potential) Programmes</strong>
 </p>
 <p>The <em>spex</em>Scholarship and the <em>spex</em>Potential programmes provide
