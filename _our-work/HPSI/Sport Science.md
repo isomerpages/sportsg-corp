@@ -2,7 +2,7 @@
 title: Sport Science
 permalink: /our-work/singapore-sport-institute/sport-science/
 description: ""
-third_nav_title: Singapore Sport Institute
+third_nav_title: HPSI
 variant: tiptap
 ---
 <p>Our Sport Science Centre is committed to helping talented athletes optimise

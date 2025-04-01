@@ -2,7 +2,7 @@
 title: Athlete Life
 permalink: /our-work/singapore-sport-institute/athlete-life/
 description: ""
-third_nav_title: Singapore Sport Institute
+third_nav_title: HPSI
 variant: tiptap
 ---
 <p>At the Singapore Sport Institute (SSI), we believe in empowering athletes

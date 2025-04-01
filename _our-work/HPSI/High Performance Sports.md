@@ -2,7 +2,7 @@
 title: High Performance Sports
 permalink: /our-work/singapore-sport-institute/high-performance-sports/
 description: ""
-third_nav_title: Singapore Sport Institute
+third_nav_title: HPSI
 variant: tiptap
 ---
 <p>The High Performance Sports Department supports carded athletes in the

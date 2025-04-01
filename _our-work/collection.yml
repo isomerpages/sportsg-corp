@@ -8,14 +8,14 @@ collections:
       - Active Health.md
       - Active Parents.md
       - CoachSG.md
-      - Singapore Sport Institute/.keep
-      - Singapore Sport Institute/Introduction.md
-      - Singapore Sport Institute/High Performance Sports.md
-      - Singapore Sport Institute/Athlete Life.md
-      - Singapore Sport Institute/Sport Science.md
-      - Singapore Sport Institute/Sport Medicine.md
-      - Singapore Sport Institute/Innovation.md
-      - Singapore Sport Institute/Science & Technology.md
+      - HPSI/.keep
+      - HPSI/Introduction.md
+      - HPSI/Athlete Life.md
+      - HPSI/High Performance Sports.md
+      - HPSI/Innovation.md
+      - HPSI/Science & Technology.md
+      - HPSI/Sport Medicine.md
+      - HPSI/Sport Science.md
       - Industry Development/.keep
       - Industry Development/Introduction.md
       - Industry Development/Supporting Major Events.md
@@ -25,3 +25,4 @@ collections:
       - Team Nila.md
       - Team Singapore.md
       - YouthCreates.md
+      - Singapore Sport Institute/.keep

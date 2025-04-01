@@ -2,7 +2,7 @@
 title: Science & Technology
 permalink: /our-work/singapore-sport-institute/science-technology/
 description: ""
-third_nav_title: Singapore Sport Institute
+third_nav_title: HPSI
 variant: tiptap
 ---
 <p>Sport Singapore&nbsp;recognises the importance of R&amp;D in promoting
