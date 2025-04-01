@@ -13,10 +13,7 @@ Athletes looking for jobs may check out the opportunities available with our cor
 
 Check out the video for a recap of the 2018 activities and to find out how our *spex*Business partners have benefitted from the *spex*Business network.
 
-```
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Qqgx2vu7rCg?si=C6Em2-RhxVJlvu0y" height="315" width="560"></iframe>
-```
-
 
 ### **emPower - a *spex*Business newsletter**
 
