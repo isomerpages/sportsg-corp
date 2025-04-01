@@ -2,13 +2,13 @@ collections:
   our-work:
     output: true
     order:
-      - HPSI/.keep
       - Overview.md
       - ActiveSG.md
       - ActiveSG Academies and Clubs.md
       - Active Health.md
       - Active Parents.md
       - CoachSG.md
+      - HPSI/.keep
       - Industry Development/.keep
       - Industry Development/Introduction.md
       - Industry Development/Supporting Major Events.md
