@@ -5,16 +5,41 @@ description: ""
 third_nav_title: HPSI
 variant: tiptap
 ---
-<p><strong>Our Vision: To become a 21st Century World Class Sport Institute</strong>
-</p>
-<p>Singapore Sport Institute (SSI) endeavors to be a sport institute of significance
-where we provide the best support to Team Singapore athletes, so that they
-can perform at their maximum potential, to fulfill their sporting aspirations
-and to inspire the Singapore Spirit.</p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="420" width="100%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsingaporesportinstitute%2Fvideos%2F607550659831202%2F&amp;show_text=0&amp;width=560"></iframe>
+<p>On 1 April 2025, the Singapore Sport Institute and the National Youth
+Sports Institute merged to establish the High Performance Sport Institute
+(HPSI) under Sport Singapore (SportSG).
+<br>
+<br>This consolidation aims to advance Singapore's sporting excellence, achieve
+consistent podium success in regional and international competitions, and
+inspire and unite the nation through Team Singapore athletes' journeys
+and performances.
+<br>
+<br>HPSI will lead a unified high-performance sport system, supporting Team
+Singapore athletes in reaching their full potential. The institute will
+provide comprehensive support throughout their sporting careers, ensuring
+a seamless progression from youth to senior levels. Through these efforts,
+HPSI aims to establish sport as a sustainable long-term career and encourage
+athletes to extend their participation in competitive sport.
+<br>
+<br>Another key focus of HPSI will be to deepen partnerships with National
+Sports Associations. This collaboration will enhance athlete and pathway
+development, foster greater alignment within the sporting ecosystem, and
+uplift capabilities and professionalism in the sport industry.
+<br>
+<br>Through these efforts, HPSI aims to create a robust framework for nurturing
+and supporting Singapore's athletic talent. The institute's work will ultimately
+contribute to the nation's sporting success on the global stage, while
+inspiring future generations of Singaporean athletes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPSI_Black_Logo.png">
 </div>
-<table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
