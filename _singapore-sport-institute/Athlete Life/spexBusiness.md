@@ -3,16 +3,17 @@ title: spexBusiness
 permalink: /singapore-sport-institute/athlete-life/spexbusiness/
 description: ""
 third_nav_title: Athlete Life
+variant: markdown
 ---
-Singapore Sport Institute's mandate focuses on helping athletes strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. Launched in November 2013, The Sports Excellence Career (*spex*Career) Scheme is a customized scheme that seeks to develop athletes’ career by partnering with companies to offer various form of employment opportunities including internship, apprenticeships, job placements and flexible workplace practices for Team Singapore Athletes.
+The **High Performance Sport Institute (HPSI)** mandate focuses on helping athletes strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. Launched in November 2013, The Sports Excellence Career (*spex*Career) Scheme is a customized scheme that seeks to develop athletes’ career by partnering with companies to offer various form of employment opportunities including internship, apprenticeships, job placements and flexible workplace practices for Team Singapore Athletes.
 
 Forming this specialised network of employers will strategically help Team Singapore Athletes to cope effectively with the dual demands of sports and their career; and prepare them to transit into successful post-sports career.
 
-Athletes looking for jobs may check out the opportunities available with our corporate partners listed under the [*spex*Business Network Partners](/spexbusiness-network-partners/) section.
+Athletes looking for jobs may check out the opportunities available with our corporate partners listed under the&nbsp;[*spex*Business Network Partners](/spexbusiness-network-partners/)&nbsp;section.
 
 Check out the video for a recap of the 2018 activities and to find out how our *spex*Business partners have benefitted from the *spex*Business network.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsingaporesportinstitute%2Fvideos%2F163866357863177%2F&show\_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsingaporesportinstitute%2Fvideos%2F163866357863177%2F&amp;show\_text=0&amp;width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ### **emPower - a *spex*Business newsletter**
 

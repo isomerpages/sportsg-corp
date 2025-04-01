@@ -32,7 +32,7 @@ contribute to the nation's sporting success on the global stage, while
 inspiring future generations of Singaporean athletes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPSI_Black_Logo.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/HPSI_Black_Logo.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">
