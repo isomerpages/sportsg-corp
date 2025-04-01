@@ -6,9 +6,9 @@ third_nav_title: Athlete Life
 variant: markdown
 ---
 ![](/images/HPSI_Black_Logo.png)
-**High Performance Sport Institute (HPSI)** is the nation’s premier institute for the development of high performance sports and nurturing of elite athletes and elite student-athletes. Athlete Life carries out HPSI's mission of developing Singapore’s athletes and student-athletes holistically in key areas of education, career, life skills and developing them to be Athlete Ambassadors for Team Singapore. 
+**High Performance Sport Institute (HPSI)** is the nation’s premier institute for the development of high performance sports and nurturing of elite athletes and elite student-athletes. High Performance Athlete Life (HPAL) carries out HPSI's mission of developing Singapore’s athletes and student-athletes holistically in key areas of education, career, life skills and developing them to be Athlete Ambassadors for Team Singapore. 
 
-Athlete Life’s mandate focuses on helping athletes to strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. The Sports Excellence (*Spex*) Education Scheme is a customised scheme that develops a more holistic and robust system of support for student-athletes to cope effectively with the dual demands of sports and their education. 
+High Performance Athlete Life’s mandate focuses on helping athletes to strive towards the pinnacle of sporting excellence whilst preparing for a successful transition into life after sports. The Sports Excellence (*Spex*) Education Scheme is a customised scheme that develops a more holistic and robust system of support for student-athletes to cope effectively with the dual demands of sports and their education. 
 
 **Objective:**
 

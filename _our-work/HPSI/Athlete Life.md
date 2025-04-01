@@ -6,17 +6,17 @@ third_nav_title: HPSI
 variant: tiptap
 ---
 <p>At the <strong>High Performance Sport Institute (HPSI)</strong>, we believe
-in empowering athletes to make a difference. The Athlete Life Department
-delivers the 'Athlete Life Management' (ALM) programme, which is about
-integrating sports performance with all key aspects of an athlete's life
-for holistic development - to make that difference in their lives and that
-of others.</p>
+in empowering athletes to make a difference. The High Performance Athlete
+Life (HPAL) Department delivers the 'Athlete Life Management' (ALM) programme,
+which is about integrating sports performance with all key aspects of an
+athlete's life for holistic development - to make that difference in their
+lives and that of others.</p>
 <p>We seek to help our athletes achieve their sporting aspirations together
 with other life goals. By integrating the demands of high-performance sports
 with ALM, we prepare the athlete for a successful sports career and life
 after competitive sports.</p>
 <p>ALM has three main components: Athlete Life Coaching,&nbsp;<em>spex</em>Education
-and&nbsp;<em>spex</em>Business</p>
+and&nbsp;<em>spex</em>Career</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -60,8 +60,8 @@ their academic aspirations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>spex</em>Business</strong>
-<br>The <em>spex</em>Business scheme provides an effective career support system
+<p><strong><em>spex</em>Career</strong>
+<br>The <em>spex</em>Career scheme provides an effective career support system
 to help our athletes pursue high performance sports without compromising
 their career aspirations.</p>
 <p><a href="/singapore-sport-institute/athlete-life/spexbusiness/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>

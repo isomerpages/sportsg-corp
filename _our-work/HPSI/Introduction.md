@@ -63,9 +63,9 @@ for development into other areas.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ATHLETE LIFE</strong>
-<br>Athlete Life aims to support athletes in their education, career, and
-personal development alongside their sporting goals.</p>
+<p><strong>HIGH PERFORMANCE ATHLETE LIFE</strong>
+<br>High Performance Athlete Life (HPAL) aims to support athletes in their
+education, career, and personal development alongside their sporting goals.</p>
 <p><a href="/our-work/singapore-sport-institute/athlete-life/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
