@@ -36,7 +36,7 @@ journey for athletes, parents and National Sports Associations (NSAs).
 By streamlining the youth-to-senior athlete transition and strengthening
 athlete development, HPSI aims to nurture more sporting talents in Singapore
 that can compete at elite levels.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This integration helps to achieve Singapore’s vision for the next bound
 of sporting excellence, as outlined by Prime Minister Lawrence Wong at
 last year’s National Day Rally. As part of the Kallang Alive Master Plan,
@@ -46,7 +46,7 @@ repeat, until excellence becomes intuition. While the physical infrastructure
 will take time to materialise, we will jumpstart the progress now by taking
 steps to organise our HPS institutions around an integrated structure that
 will drive Singapore’s sporting ambitions to new heights.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>With the HPSI, Singapore’s sport science and sport medicine capabilities
 will be further strengthened with more professional development opportunities
 such as deployment across different sports and profiles of athletes. Touchpoints
@@ -56,12 +56,11 @@ pathway that can provide better visibility and assurance to the athletes,
 not just for their sporting development but also post-sports career pathways.
 HPSI will also work closely with the NSAs to support their professionalism
 and capability development for better administration and governance.</p>
-<p>&nbsp;</p>
 <p>HPSI will be led by Dr. Su Chun Wei, former Chief of SSI and Director
 of NYSI, who brings deep expertise in athlete development, sport science
 and high performance management. His leadership team comprises seasoned
 professionals with extensive experience in Singapore’s HPS system.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Dr. Su Chun Wei, Chief, HPSI,</strong> said, “The integration of
 our National Youth Sports Institute and Singapore Sport Institute into
 our new High Performance Sport Institute marks the next milestone in Singapore’s
@@ -70,8 +69,7 @@ and integrating our support systems to be more athlete-centric, globally
 competitive and future-focused, we aim to better support our TeamSG athletes
 to thrive at every stage of their development, so that they will be in
 the best position to perform well, fly the Singapore flag high and inspire
-our fellow Singaporeans."</p>
-<p>&nbsp;</p>
+our fellow Singaporeans.</p>
 <p><strong>A Unified and Robust High Performance Sport System</strong>
 </p>
 <p>HPSI consolidates key capabilities in sport science, sport medicine, and
@@ -81,7 +79,7 @@ within the High Performance sport ecosystem<a href="#_ftn1" rel="noopener norefe
 Daily Training Environment, enhancing athlete pathways, and strengthening
 governance to support Team Singapore athletes in achieving high performance
 sport success to inspire and unite the nation.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The institute is structured into dedicated teams that oversee HPS strategy
 and policy, governance and assurance, business development, sport science
 and sport medicine, coaching development, athlete lifestyle management
@@ -91,13 +89,12 @@ NSA relations and governance, TeamSG brand development, national training
 systems integration, data analytics and performance analysis, performance
 coaching and coach education, high performance athlete lifestyle support
 for a more robust high-performance sporting landscape.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The consolidation of HPSI and Singapore Sports School will take place
 at a later date and more details will be shared when ready. These changes
 will strengthen the foundation of our future HPS system and together with
 the Home of TeamSG, provide a holistic plan benefiting athletes, coaches,
-parents, NSAs, and sport administrators and professionals.</p>
-<p>
+parents, NSAs, and sport administrators and professionals.
 <br>For more information, visit SportSG’s LinkedIn page <a href="https://go.gov.sg/hpsi-linkedin" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> National
