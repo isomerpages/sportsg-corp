@@ -18,7 +18,8 @@ which prioritises whole foods over supplements. As compared to highly refined
 supplements, foods contain a wider variety of beneficial nutrients that
 promote the health and performance of athletes. Where appropriate, the
 team educates athletes on safe and proven supplement use to gain a competitive
-edge.</p>
+edge. Refer the <a href="/files/Our Work/Singapore Sports Institute/Athlete Life/SSI_NYSI_Joint_Supplement_Policy_16_June_2020_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint Policy on supplement intake</a> for
+HPSI (drafted by Singapore Sport Institute and National Youth Sport Institute).</p>
 <p>A major task of our Sport Dietitians is educating athletes on nutrition
 strategies to optimise training adaptations and achieve peak performance
 through proper fueling and recovery across their training cycle. This is
@@ -53,6 +54,11 @@ food labels</p>
 and strategies to enhance athletic performance</p>
 </li>
 </ul>
-<p> </p>
+<p>Refer to links below for more resources on nutrition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Our Work/Singapore Sports Institute/Athlete Life/Recipe_Booklet_.pdf" rel="noopener nofollow" target="_blank">Recipe Booklet</a> </p>
+</li>
+</ul>
 <p></p>
 <p></p>
