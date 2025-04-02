@@ -59,7 +59,6 @@ the popularity of basketball as one of our most popular team sports in
 Singapore. With these marquee tournaments alongside our grassroots basketball
 programmes, we aim to benefit our TeamSG basketball players while also
 ensuring that basketball remains accessible as a sport for all in Singapore.”</p>
-<p>&nbsp;</p>
 <p>Quek Swee Kuan, CEO of Kallang Alive Sport Management, shared, “Basketball
 has become a mainstay of Singapore Sports Hub’s vibrant sporting calendar.
 We are thrilled to welcome the crowd-favourite FIBA 3x3 Asia Cup back in
@@ -69,13 +68,13 @@ to building on this momentum - curating accessible programming and creating
 unforgettable experiences for athletes and the basketball community - and
 cementing the Singapore Sports Hub as a preferred destination for international
 sporting events.”</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This extended partnership between FIBA and SportSG aims to further grow
 interest in the sport and establish Singapore as a regional hub for basketball.
 With over 1,100 basketball courts across the island, there are ample opportunities
 for communities to bond, play, and strengthen basketball’s popularity as
 one of the top team sports among Singaporeans.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Beyond major international tournaments, Singapore has built a strong basketball
 ecosystem that engages players of all ages. The ActiveSG Basketball Academy
 continues to nurture young talent, attracting over 2,000 youth participants
@@ -83,7 +82,6 @@ each season, while the community-league ActiveSG Cup attracted approximately
 5,500 players across 10 age groups in 2024. Pesta Sukan, Singapore’s annual
 community multi-sport festival, saw more than 600 teams competing last
 year, demonstrating the sport’s growing popularity.</p>
-<p>&nbsp;</p>
 <p>These efforts are a testament to SportSG’s efforts to raise the profile
 of basketball and grow our talent pool. Together with major events such
 as the upcoming NBA Rising Stars Invitational in June and FIBA Intercontinental
