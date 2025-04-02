@@ -110,9 +110,11 @@ where they will be instrumental in cheering on Team Singapore athletes.
 The volunteers will also be able to gain insight into how Major Games are
 organised and apply their learnings for the preparation and organisation
 of the 2029 SEA and ASEAN Para Games, which will be hosted in Singapore.</p>
+<p></p>
 <p>Those interested to be a part of Team Nila and the numerous upcoming opportunities
 available can visit <a rel="noopener noreferrer nofollow" target="_blank">http://activesgcircle.gov.sg/team-nila/volunteer</a> to
 sign up.&nbsp;</p>
+<p></p>
 <p>For more information on Team Nila, please visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/teamnila</a>.</p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a>&nbsp;
