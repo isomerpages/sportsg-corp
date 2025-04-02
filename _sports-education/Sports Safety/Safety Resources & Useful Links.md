@@ -40,10 +40,6 @@ that all sports activities can be enjoyed safely.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.udemy.com/course/how-to-use-get-active-questionnaire-by-sportsg/" rel="noopener noreferrer nofollow" target="_blank">How to use Get Active Questionnaire</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.udemy.com/course/sports-safety-risk-management/" rel="noopener noreferrer nofollow" target="_blank">Training programme on sports safety and risk assessment</a>
 </p>
 </li>
