@@ -71,14 +71,8 @@ the programme submission and will be further evaluated by the panel.</p>
 </p>
 <p>All Service Providers offering swimming programmes will require their
 instructors or coaches to be <strong>SwimSafer Certified</strong> in addition
-to meeting the requirements of having the minimum NCAP Theory Level 1 (or
-its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid
-recognised first aid certification.</p>
-<p><strong>Instructor to Student Ratio at 1:10</strong>
-</p>
-<p>Instructor to student ratio for all swimming programmes must be kept at
-1:10, with the exception of programmes offered to Special Education schools,
-which will be at a lower ratio.</p>
+to meeting the requirements of having NROC and a valid recognised first
+aid certification.</p>
 <p><strong>SwimSafer Instructor Course</strong>
 </p>
 <p>Please note that it is a requirement for all swimming instructors to be
@@ -89,6 +83,12 @@ basis.
 <a href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer" rel="noopener noreferrer nofollow" target="_blank">SwimSafer page</a>.&nbsp;For registration of the SwimSafer Instructor
 Course, please call the SwimSafer Hotline&nbsp;6500 5189&nbsp;or email:
 <a href="mailto:activesg_swimsafer@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">activesg_swimsafer@sport.gov.sg</a>&nbsp;</p>
+<p><strong>Instructor to Student Ratio at 1:10</strong>
+</p>
+<p>Instructor to student ratio for all swimming programmes must be kept at
+1:10, with the exception of programmes offered to Special Education schools,
+which will be at a lower ratio.</p>
+<p></p>
 <p><strong>3. LIFESAVING PROGRAMMES UNDER SEP</strong>
 </p>
 <p>Lifesaving programmes must not be conducted at open waters and this must
