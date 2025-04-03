@@ -26,15 +26,14 @@ amongst students.</p>
 <h3><strong>Coach Criteria</strong></h3>
 <p><strong>1. NROC REGISTERED</strong>
 </p>
-<p>Service Providers offering <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC Sports</a> will
-need to have their instructors or coaches registered under the National
-Registry of Coaches (NROC). For application details on NROC, please visit
-the NROC website. Service Providers are strongly advised to inform your
-coaches and instructors to obtain regular updates and information from
-the <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener nofollow" target="_blank">NROC website</a> too.</p>
-<p>This is the full list of <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC sports with SG-Coach coaching courses</a>.
-To verify if your programme sport is recognized under NROC, please contact:
-<a href="mailto:SPORT_Coaching@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SPORT_Coaching@sport.gov.sg</a>for more details.</p>
+<p>Service Providers offering programmes are required to ensure their instructors
+or coaches are registered under the National Registry of Coaches (NROC).
+&nbsp;For application details on NROC, please visit the <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener noreferrer nofollow" target="_blank">NROC website</a>.
+Service Providers are strongly encouraged to advise their coaches and instructors
+to regularly check the NROC website for updates and information.</p>
+<p>This is the full list of&nbsp;<a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener noreferrer nofollow" target="_blank">sports with SG-Coach coaching courses</a>.
+To verify if your programme sport is recognized under NROC, please contact:&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">SPORT_Coaching@sport.gov.sg</a>for more details.</p>
 <p></p>
 <p><strong>2. VALUES AND PRINCIPLES IN SPORTS (VPS)</strong>
 </p>
