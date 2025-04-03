@@ -67,12 +67,14 @@ between participants will not be endorsed. Judo, wrestling and similar
 programmes&nbsp;may include only safe grappling.&nbsp;Any form of striking
 and choking are strictly not allowed. This must be clearly indicated in
 the programme submission and will be further evaluated by the panel.</p>
-<p><strong>2.&nbsp;SWIMMING PROGRAMMES UNDER SEP</strong>
+<p><strong>2. SWIMMING PROGRAMMES UNDER SEP</strong>
 </p>
-<p>All Service Providers offering swimming programmes will require their
-instructors or coaches to be <strong>SwimSafer Certified</strong> in addition
-to meeting the requirements of having NROC and a valid recognised first
-aid certification.</p>
+<p>All Service Providers must ensure their instructors and coaches hold these
+essential qualifications:</p>
+<p>* SwimSafer Certification</p>
+<p>* registered with the National Registry of Coaches</p>
+<p>* valid recognised first aid certification</p>
+<p></p>
 <p><strong>SwimSafer Instructor Course</strong>
 </p>
 <p>Please note that it is a requirement for all swimming instructors to be
