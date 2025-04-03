@@ -87,9 +87,8 @@ Course. Places for this course will be allotted on a first-come-first-served
 basis.
 <br>For more information on the SwimSafer programme, please visit the&nbsp;
 <a href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer" rel="noopener noreferrer nofollow" target="_blank">SwimSafer page</a>.&nbsp;For registration of the SwimSafer Instructor
-Course, please call the SwimSafer Hotline&nbsp;6500 5439&nbsp;or email:&nbsp;
-<a href="mailto:sport_swimsafer@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_swimsafer@sport.gov.sg</a>
-</p>
+Course, please call the SwimSafer Hotline&nbsp;6500 5189&nbsp;or email:
+<a href="mailto:activesg_swimsafer@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">activesg_swimsafer@sport.gov.sg</a>&nbsp;</p>
 <p><strong>3. LIFESAVING PROGRAMMES UNDER SEP</strong>
 </p>
 <p>Lifesaving programmes must not be conducted at open waters and this must
