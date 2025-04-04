@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ActiveSG Programme Partnership
 variant: tiptap
 ---
-<h3>Partnership opportunities in ActiveSG Learn to Play or School Holiday Programme</h3>
+<h3><strong>Partner with ActiveSG: Sport and Fitness programme opportunities</strong></h3>
 <p>ActiveSG is committed to bringing quality sports and fitness programmes
 across Singapore. Through our extensive network of sport centres nationwide,
 we deliver a wide variety of programmes that promotes active living through
