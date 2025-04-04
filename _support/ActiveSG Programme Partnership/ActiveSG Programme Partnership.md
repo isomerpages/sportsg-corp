@@ -14,7 +14,7 @@ with National Registry of Coaches (NROC) and certified National Registry
 of Exercise Professionals (NREP) respectively, to partner us in expanding
 our programmes offerings and join in our community of partners.</p>
 <p></p>
-<h4><strong>Programme categories </strong></h4>
+<h4><strong>Programme categories</strong></h4>
 <h4><strong>a. Learn-to-Play (LTP)</strong></h4>
 <p>A regular line up of sports and fitness programmes designed to provide
 the opportunity to participate and learn at affordable prices.</p>
