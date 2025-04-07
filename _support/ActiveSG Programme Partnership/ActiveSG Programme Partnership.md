@@ -3,55 +3,64 @@ title: ActiveSG Programme Partnership
 permalink: /support-resources/activesg-programme-partnership/
 description: ""
 third_nav_title: ActiveSG Programme Partnership
+variant: tiptap
 ---
-ActiveSG provides a wide ranging of sports and fitness programmes at our ActiveSG sports centres located island wide. Should you be interested to partner ActiveSG to provide sports and fitness programmes, please submit your programme details to [sport_programming@sport.gov.sg](mailto:sport_programming@sport.gov.sg). Please note that coaches and instructors will be required to submit documents and certifications to indicate that they are qualified to deliver the programmes as indicate below.  
-  
-
-#### **1. COACHING CERTIFICATIONS**
-
-##### **1.1 NROC SPORTS**
-
-Sports Providers offering the NROC Sports will need to have their instructors/coaches registered under the National Registry of Coaches (NROC). During the two-year endorsement period, instructors/coaches will also be invited to attend clinics, workshops, and conferences as part of the NROC requirement on continuing education (CCE).
-
-To register, visit [National Registry of Coaches](/support-resources/activesg-programme-partnership/nroc-sports/). Sports Service Providers are strongly advised to inform your coaches and instructors to obtain regular updates and information from the [National Registry of Coaches](/support-resources/activesg-programme-partnership/nroc-sports/).  
-  
-
-##### **1.2 OTHER SPORTS**
-
-1.2.1 National Coaching Accreditation Programme (NCAP) Technical Equivalent  
-Sports service providers will be required to submit your coaches relevant technical certificate equivalent if your coaches are not equipped with NCAP Technical Level 1.
-
-1.2.2 National Coaching Accreditation Programme (NCAP) Theory Courses  
-Course Schedules are available for NCAP Theory Level 1, NCAP Theory Level 2 and NCAP Theory Level 3. Registration can be done at National Coaching Accreditation Programme page.
-
-1.2.3 National Coaching Accreditation Programme (NCAP) Theory Accreditation  
-If your coaches are not equipped with NCAP Theory, but have other prior learning / experience / certificates, you may seek NCAP Theory Accreditation.
-
-Accreditation level will depend on evidence of prior learning. To seek NCAP Theory Accreditation, please:
-
-* Complete the NCAP Theory Accreditation Form
-* Attach evidence of your relevant documentary proof of prior learning, e.g. academic/coaching certificates, transcripts with/and brief course descriptions, evidence of coaching experience (letters of appreciation, coaching awards, etc.).
-
-*The NCAP Theory accreditation process would take up to 4 weeks.
-
-##### **1.3 FITNESS PROGRAMMES**
-
-Fitness providers will be required to submit their certification to indicate that they are qualified to deliver the fitness programmes.  
-  
-
-##### **1.4 NATIONAL STANDARD FOR YOUTH SPORT (NSYS) / VALUES AND PRINCIPLES IN SPORTS (VPS)**
-
-All Sports Service Providers offering programmes for children and youths age 16 years and below will require their instructors/coaches to complete the National Standard for Youth Sports (NSYS) or Values and Principles in Sports (VPS). Visit [VPS](/sports-education/value-and-principles-in-sport/) for more information and to register.  
-  
-##### **1.5 COACH’S ACKNOWLEDGEMENT FORM**
-
-All Sports Service Providers with the exception of individuals have to get their instructor(s)/coach(es) listed in their submitted programmes complete the Instructor's/Coach's Acknowledgement Form  
-  
-
-##### **1.6 STANDARD FIRST AID**
-
-Instructor(s)/coach(es) are to be equipped with a valid recognised Standard First Aid Certificate at point of submission and at point of conduct of programme. Please view the List of First Aid courses recognised by Sport Singapore.  
-  
-#### **2. PROGRAMME SUBMISSION**
-
-Proceed to submit your programme details to [sport_programming@sport.gov.sg](mailto:sport_programming@sport.gov.sg). Our staff will be in touch with you soon.
+<h3><strong>Partner with ActiveSG: Sport and Fitness programme opportunities</strong></h3>
+<p>ActiveSG is committed to bringing quality sports and fitness programmes
+across Singapore. Through our extensive network of sport centres nationwide,
+we deliver a wide variety of programmes that promotes active living through
+sports. We welcome qualified coaches and exercise professionals registered
+with National Registry of Coaches (NROC) and National Registry of Exercise
+Professionals (NREP) respectively, to partner us in expanding our programmes
+offerings and join in our community of partners.</p>
+<p></p>
+<h4><strong>Programme categories</strong></h4>
+<h4><strong>a. Learn-to-Play (LTP)</strong></h4>
+<p>A regular line up of sports and fitness programmes designed to provide
+the opportunity to participate and learn at affordable prices.</p>
+<h4><strong>b. School Holiday Programme (SHP)</strong></h4>
+<p>Exclusive sports and fitness programmes available only during the school
+break.</p>
+<p>Important: All school holiday programme applications must include two
+completed reference forms.</p>
+<h4><strong>Certification requirements for Sports Programmes</strong></h4>
+<p>• Valid NROC e-card</p>
+<p>• Standard First Aid with CPR and AED Certification (Must be valid throughout
+the programme duration)</p>
+<p>• Safe Sport Certification (Mandatory for all sports instructors)</p>
+<p>• Technical Certification (Sport-specific qualifications relevant to your
+coaching discipline)</p>
+<p>• Risk Assessment Plan</p>
+<p></p>
+<h4><strong>Certification requirements for Fitness Programmes</strong></h4>
+<p>• Valid NREP e-card</p>
+<p>• Standard First Aid with CPR and AED Certification (Must be valid throughout
+the programme duration)</p>
+<p>• Safe Sport Certification (Mandatory for all exercise professionals)</p>
+<p>• Technical Certification (Recognised fitness qualification relevant to
+your teaching discipline)</p>
+<p>• Risk Assessment Plan</p>
+<p></p>
+<h4><strong>Application Process</strong></h4>
+<p>Submit your programme proposal through <a href="https://go.gov.sg/ltpform1" rel="noopener nofollow" target="_blank">FormSG</a> for either Learn-to-Play or
+School Holiday Programmes.</p>
+<p></p>
+<h4><strong>Important Notes</strong></h4>
+<p>Please ensure:</p>
+<p>• All certifications remain valid throughout partnership</p>
+<p>• Original certificates are available upon request</p>
+<p>• Incomplete or incorrect applications will be rejected, and new forms
+will need to be re-submitted</p>
+<p>• Partners must obtain the necessary licences from all relevant copyright
+owners or collective management organisations (CMOs) before using copyright-protected
+music in their classes</p>
+<p></p>
+<h4><strong>Contact Us</strong></h4>
+<p>• For NROC matters, you may write to <a href="mailto:sport_coaching@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_coaching@sport.gov.sg</a>
+</p>
+<p>• For NREP enquiries, you may write to <a href="mailto:nrep@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nrep@sport.gov.sg</a>
+</p>
+<p>• For any other enquiries, you may write to <a href="mailto:sport_programming@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_programming@sport.gov.sg</a>
+</p>
+<p></p>
+<p></p>

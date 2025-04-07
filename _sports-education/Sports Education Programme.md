@@ -26,15 +26,14 @@ amongst students.</p>
 <h3><strong>Coach Criteria</strong></h3>
 <p><strong>1. NROC REGISTERED</strong>
 </p>
-<p>Service Providers offering <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC Sports</a> will
-need to have their instructors or coaches registered under the National
-Registry of Coaches (NROC). For application details on NROC, please visit
-the NROC website. Service Providers are strongly advised to inform your
-coaches and instructors to obtain regular updates and information from
-the <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener nofollow" target="_blank">NROC website</a> too.</p>
-<p>This is the full list of <a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener nofollow" target="_blank">NROC sports with SG-Coach coaching courses</a>.
-To verify if your programme sport is recognized under NROC, please contact:
-<a href="mailto:SPORT_Coaching@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SPORT_Coaching@sport.gov.sg</a>for more details.</p>
+<p>Service Providers offering programmes are required to ensure their instructors
+or coaches are registered under the National Registry of Coaches (NROC).
+&nbsp;For application details on NROC, please visit the <a href="https://coachsg.sportsingapore.gov.sg/nroc" rel="noopener noreferrer nofollow" target="_blank">NROC website</a>.
+Service Providers are strongly encouraged to advise their coaches and instructors
+to regularly check the NROC website for updates and information.</p>
+<p>This is the full list of&nbsp;<a href="https://coachsg.sportsingapore.gov.sg/sgcoachprogramme" rel="noopener noreferrer nofollow" target="_blank">sports with SG-Coach coaching courses</a>.
+To verify if your programme sport is recognized under NROC, please contact:&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">SPORT_Coaching@sport.gov.sg</a>for more details.</p>
 <p></p>
 <p><strong>2. VALUES AND PRINCIPLES IN SPORTS (VPS)</strong>
 </p>
@@ -67,18 +66,14 @@ between participants will not be endorsed. Judo, wrestling and similar
 programmes&nbsp;may include only safe grappling.&nbsp;Any form of striking
 and choking are strictly not allowed. This must be clearly indicated in
 the programme submission and will be further evaluated by the panel.</p>
-<p><strong>2.&nbsp;SWIMMING PROGRAMMES UNDER SEP</strong>
+<p><strong>2. SWIMMING PROGRAMMES UNDER SEP</strong>
 </p>
-<p>All Service Providers offering swimming programmes will require their
-instructors or coaches to be <strong>SwimSafer Certified</strong> in addition
-to meeting the requirements of having the minimum NCAP Theory Level 1 (or
-its equivalent), NCAP Technical Level 1 (or its equivalent) and a valid
-recognised first aid certification.</p>
-<p><strong>Instructor to Student Ratio at 1:10</strong>
-</p>
-<p>Instructor to student ratio for all swimming programmes must be kept at
-1:10, with the exception of programmes offered to Special Education schools,
-which will be at a lower ratio.</p>
+<p>All Service Providers must ensure their instructors and coaches hold these
+essential qualifications:</p>
+<p>* SwimSafer Certification</p>
+<p>* registered with the National Registry of Coaches</p>
+<p>* valid recognised first aid certification</p>
+<p></p>
 <p><strong>SwimSafer Instructor Course</strong>
 </p>
 <p>Please note that it is a requirement for all swimming instructors to be
@@ -87,9 +82,14 @@ Course. Places for this course will be allotted on a first-come-first-served
 basis.
 <br>For more information on the SwimSafer programme, please visit the&nbsp;
 <a href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer" rel="noopener noreferrer nofollow" target="_blank">SwimSafer page</a>.&nbsp;For registration of the SwimSafer Instructor
-Course, please call the SwimSafer Hotline&nbsp;6500 5439&nbsp;or email:&nbsp;
-<a href="mailto:sport_swimsafer@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sport_swimsafer@sport.gov.sg</a>
+Course, please call the SwimSafer Hotline&nbsp;6500 5189&nbsp;or email:
+<a href="mailto:activesg_swimsafer@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">activesg_swimsafer@sport.gov.sg</a>&nbsp;</p>
+<p><strong>Instructor to Student Ratio at 1:10</strong>
 </p>
+<p>Instructor to student ratio for all swimming programmes must be kept at
+1:10, with the exception of programmes offered to Special Education schools,
+which will be at a lower ratio.</p>
+<p></p>
 <p><strong>3. LIFESAVING PROGRAMMES UNDER SEP</strong>
 </p>
 <p>Lifesaving programmes must not be conducted at open waters and this must

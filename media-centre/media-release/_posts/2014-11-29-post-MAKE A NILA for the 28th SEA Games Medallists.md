@@ -25,3 +25,9 @@ Giving a twist to the mascot that accompanies the coveted SEA Games medals, the 
 
 7. The first Make-a-NILA roadshow was held today at the Sports Hub Kallang Wave Mall from 12pm to 8pm and will continue on Sunday from 12pm to 8pm. The next roadshow will be on 13 December (Saturday) at Sengkang Sports Centre from 3pm - 7pm.
 
+
+---
+
+**Related Link**: [Opening Remarks By Mr Lim Teck Yin, Chairman, Executive Committee, SINGSOC at Make-A-Nila Launch Event](/media-centre/speeches/make-a-nila-launch-event/)
+
+---

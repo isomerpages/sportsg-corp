@@ -35,9 +35,6 @@ Deputy Secretary, Ministry of Culture, Community and Youth
 
 Mr Andrew Lim  
 Group COO, CapitaLand Investment  
-  
-Mr Sushil Nair  
-Deputy CEO, Drew &amp; Napier
 
 Dr Elmie Nekmat  
 Associate Professor, Communications and New Media, NUS  
