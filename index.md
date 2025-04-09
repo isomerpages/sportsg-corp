@@ -7,7 +7,8 @@ description: Sport Singapore (previously known as Singapore Sports Council) is a
   sport.
 image: /images/sportsg logo.png
 permalink: /
-notification: ""
+notification: The website will be unavailable from 10:00 am to 12:00 pm on 9
+  April 2025 due to scheduled maintenance.
 sections:
   - hero:
       background: /images/websitebanner_r4_withheader.gif
